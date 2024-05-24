@@ -1,0 +1,27 @@
+---
+display_name: Set Value Int 64
+order: 27
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Experimental](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Experimental)
+
+Sets the int64 value of the specified property. Returns true on success, else false.
+
+Target is Movie Job Variable Assignment Container
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | In |  |
+| object | Target |  |
+| object | In Graph Variable |  |
+| int64 | In Value |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | Out |  |
+| boolean | Return Value | Sets the int64 value of the specified property. Returns true on success, else false. |

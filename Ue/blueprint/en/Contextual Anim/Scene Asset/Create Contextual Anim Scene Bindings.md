@@ -1,0 +1,27 @@
+---
+display_name: Create Contextual Anim Scene Bindings
+order: 2
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Contextual Anim](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/ContextualAnim) > [Scene Asset](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/ContextualAnim/SceneAsset)
+
+BP Create Contextual Anim Scene Bindings
+
+Target is Contextual Anim Utilities
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | In |  |
+| object | Scene Asset |  |
+| name | Params |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | Out |  |
+| struct | Out Bindings |  |
+| boolean | Return Value | BP Create Contextual Anim Scene Bindings |

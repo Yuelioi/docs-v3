@@ -1,0 +1,23 @@
+---
+display_name: Floor to Integer64
+order: 12
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Math](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math) > [Float](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Float)
+
+Rounds A down towards negative infinity / down to the previous integer (e.g., -1.6 becomes -2 and 1.6 becomes 1)
+
+Target is Kismet Math Library
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| real | A |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| int64 | Return Value | Rounds A down towards negative infinity / down to the previous integer (e.g., -1.6 becomes -2 and 1.6 becomes 1) |

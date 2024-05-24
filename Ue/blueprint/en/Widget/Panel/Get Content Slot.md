@@ -1,0 +1,23 @@
+---
+display_name: Get Content Slot
+order: 7
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Widget](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Widget) > [Panel](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Widget/Panel)
+
+Get Content Slot
+
+Target is Content Widget
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| object | Target |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| object | Return Value | Get Content Slot |

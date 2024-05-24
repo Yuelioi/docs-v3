@@ -1,0 +1,27 @@
+---
+display_name: Remove Asset From Collection
+order: 18
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Asset Tags](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/AssetTags)
+
+Remove the given asset from the given collection.
+
+Target is Asset Tags Subsystem
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | In |  |
+| object | Target |  |
+| name | Name | Name of the collection to modify. |
+| struct | Asset Path | Asset to remove (its path, eg) /Game/MyFolder/MyAsset.MyAsset). |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| exec | Out |  |
+| boolean | Return Value | True if the collection was modified, false otherwise (see the output log for details on error). |

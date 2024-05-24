@@ -1,0 +1,23 @@
+---
+display_name: Get Num Keys (Bool)
+order: 48
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Sequencer](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Sequencer) > [Keys](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Sequencer/Keys)
+
+Returns number of keys in this channel.
+
+Target is Movie Scene Scripting Bool Channel
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| object | Target |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| integer | Return Value | Returns number of keys in this channel. |

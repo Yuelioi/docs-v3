@@ -1,0 +1,23 @@
+---
+display_name: Is Valid Key
+order: 13
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Input](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Input) > [Key](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Input/Key)
+
+Returns true if this is a valid key.
+
+Target is Kismet Input Library
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| struct | Key |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| boolean | Return Value | Returns true if this is a valid key. |

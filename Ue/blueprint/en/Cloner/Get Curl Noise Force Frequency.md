@@ -1,0 +1,23 @@
+---
+display_name: Get Curl Noise Force Frequency
+order: 6
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Cloner](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Cloner)
+
+Get Curl Noise Force Frequency
+
+Target is Motion Design Effector Actor
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| object | Target |  |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| real | Return Value | Get Curl Noise Force Frequency |

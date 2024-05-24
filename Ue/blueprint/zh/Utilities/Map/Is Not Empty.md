@@ -1,0 +1,23 @@
+---
+display_name: Is Not Empty
+order: 6
+---
+## Navigation
+
+[Unreal Engine Blueprint API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI) > [Utilities](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Utilities) > [Map](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Utilities/Map)
+
+Check if the map has any entries
+
+Target is Blueprint Map Library
+
+## Inputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| wildcard | Target Map | The map to check |
+
+## Outputs
+
+| Type | Name | Description |
+| --- | --- | --- |
+| boolean | Return Value | A boolean indicating if the map has any entires |

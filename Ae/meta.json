@@ -1,0 +1,8 @@
+[
+  { "identity": "basic", "display_name": "basic", "order": 1, "icon": "", "hidden": false },
+  { "identity": "effects", "display_name": "effects", "order": 2, "icon": "", "hidden": false },
+  { "identity": "expression", "display_name": "expression", "order": 3, "icon": "", "hidden": false },
+  { "identity": "plugin-development", "display_name": "plugin-development", "order": 4, "icon": "", "hidden": false },
+  { "identity": "scripting", "display_name": "scripting", "order": 5, "icon": "", "hidden": false },
+  { "identity": "stardust", "display_name": "stardust", "order": 6, "icon": "", "hidden": false }
+]
