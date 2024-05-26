@@ -1,1 +1,149 @@
-"[{\"display_name\":\"3D-Channel\",\"hidden\":true,\"icon\":\"\",\"identity\":\"3D-Channel\",\"order\":1222},{\"display_name\":\"Audio\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Audio\",\"order\":2},{\"display_name\":\"Blur-Sharpen\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Blur-Sharpen\",\"order\":3},{\"display_name\":\"Channel\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Channel\",\"order\":4},{\"display_name\":\"Color-Correction\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Color-Correction\",\"order\":5},{\"display_name\":\"Distort\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Distort\",\"order\":6},{\"display_name\":\"Expression-Controls\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Expression-Controls\",\"order\":7},{\"display_name\":\"Generate\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Generate\",\"order\":8},{\"display_name\":\"Immersive-Video\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Immersive-Video\",\"order\":9},{\"display_name\":\"Keying\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Keying\",\"order\":10},{\"display_name\":\"Matte\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Matte\",\"order\":11},{\"display_name\":\"Noise-Grain\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Noise-Grain\",\"order\":12},{\"display_name\":\"Obsolete\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Obsolete\",\"order\":13},{\"display_name\":\"Overview\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Overview\",\"order\":14},{\"display_name\":\"Perspective\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Perspective\",\"order\":15},{\"display_name\":\"Simulation\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Simulation\",\"order\":16},{\"display_name\":\"Stylize\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Stylize\",\"order\":17},{\"display_name\":\"Text\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Text\",\"order\":18},{\"display_name\":\"Time\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Time\",\"order\":19},{\"display_name\":\"Transition\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Transition\",\"order\":20},{\"display_name\":\"Utility\",\"hidden\":false,\"icon\":\"\",\"identity\":\"Utility\",\"order\":21}]"
+[
+    {
+        "identity": "3D-Channel",
+        "display_name": "3D-Channel",
+        "order": 1,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Audio",
+        "display_name": "Audio",
+        "order": 2,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Blur-Sharpen",
+        "display_name": "Blur-Sharpen",
+        "order": 3,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Channel",
+        "display_name": "Channel",
+        "order": 4,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Color-Correction",
+        "display_name": "Color-Correction",
+        "order": 5,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Distort",
+        "display_name": "Distort",
+        "order": 6,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Expression-Controls",
+        "display_name": "Expression-Controls",
+        "order": 7,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Generate",
+        "display_name": "Generate",
+        "order": 8,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Immersive-Video",
+        "display_name": "Immersive-Video",
+        "order": 9,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Keying",
+        "display_name": "Keying",
+        "order": 10,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Matte",
+        "display_name": "Matte",
+        "order": 11,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Noise-Grain",
+        "display_name": "Noise-Grain",
+        "order": 12,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Obsolete",
+        "display_name": "Obsolete",
+        "order": 13,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Overview",
+        "display_name": "Overview",
+        "order": 14,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Perspective",
+        "display_name": "Perspective",
+        "order": 15,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Simulation",
+        "display_name": "Simulation",
+        "order": 16,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Stylize",
+        "display_name": "Stylize",
+        "order": 17,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Text",
+        "display_name": "Text",
+        "order": 18,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Time",
+        "display_name": "Time",
+        "order": 19,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Transition",
+        "display_name": "Transition",
+        "order": 20,
+        "icon": "",
+        "hidden": false
+    },
+    {
+        "identity": "Utility",
+        "display_name": "Utility",
+        "order": 21,
+        "icon": "",
+        "hidden": false
+    }
+]
