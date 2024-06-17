@@ -1,5 +1,5 @@
 ---
-display_name: Get Controller
+title: Get Controller
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Release All Compute Meshes
+title: Release All Compute Meshes
 order: 2
 ---
 ## Navigation

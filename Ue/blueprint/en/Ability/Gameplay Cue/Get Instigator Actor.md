@@ -1,5 +1,5 @@
 ---
-display_name: Get Instigator Actor
+title: Get Instigator Actor
 order: 11
 ---
 ## Navigation

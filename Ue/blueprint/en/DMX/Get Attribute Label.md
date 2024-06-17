@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Label
+title: Get Attribute Label
 order: 36
 ---
 ## Navigation

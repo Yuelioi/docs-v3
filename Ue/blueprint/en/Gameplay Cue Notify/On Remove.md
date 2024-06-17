@@ -1,5 +1,5 @@
 ---
-display_name: On Remove
+title: On Remove
 order: 4
 ---
 ## Navigation

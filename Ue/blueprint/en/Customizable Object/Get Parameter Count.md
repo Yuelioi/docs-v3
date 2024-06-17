@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter Count
+title: Get Parameter Count
 order: 11
 ---
 ## Navigation

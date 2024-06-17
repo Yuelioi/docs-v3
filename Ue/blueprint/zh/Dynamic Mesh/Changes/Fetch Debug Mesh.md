@@ -1,5 +1,5 @@
 ---
-display_name: Fetch Debug Mesh
+title: Fetch Debug Mesh
 order: 3
 ---
 ## Navigation

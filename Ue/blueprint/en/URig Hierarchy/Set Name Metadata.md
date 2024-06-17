@@ -1,5 +1,5 @@
 ---
-display_name: Set Name Metadata
+title: Set Name Metadata
 order: 154
 ---
 ## Navigation

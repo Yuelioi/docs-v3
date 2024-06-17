@@ -1,5 +1,5 @@
 ---
-display_name: Set Curl Noise Force Strength
+title: Set Curl Noise Force Strength
 order: 19
 ---
 ## Navigation

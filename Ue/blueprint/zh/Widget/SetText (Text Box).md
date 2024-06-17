@@ -1,5 +1,5 @@
 ---
-display_name: SetText (Text Box)
+title: SetText (Text Box)
 order: 51
 ---
 ## Navigation

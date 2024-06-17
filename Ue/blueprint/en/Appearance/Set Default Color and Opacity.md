@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Color and Opacity
+title: Set Default Color and Opacity
 order: 37
 ---
 ## Navigation

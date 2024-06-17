@@ -1,5 +1,5 @@
 ---
-display_name: Point Light
+title: Point Light
 order: 56
 ---
 ## Navigation

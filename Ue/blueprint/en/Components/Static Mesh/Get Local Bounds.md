@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Bounds
+title: Get Local Bounds
 order: 1
 ---
 ## Navigation

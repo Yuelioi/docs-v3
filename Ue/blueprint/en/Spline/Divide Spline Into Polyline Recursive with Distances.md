@@ -1,5 +1,5 @@
 ---
-display_name: Divide Spline Into Polyline Recursive with Distances
+title: Divide Spline Into Polyline Recursive with Distances
 order: 11
 ---
 ## Navigation

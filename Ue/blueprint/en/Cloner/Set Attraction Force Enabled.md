@@ -1,5 +1,5 @@
 ---
-display_name: Set Attraction Force Enabled
+title: Set Attraction Force Enabled
 order: 14
 ---
 ## Navigation

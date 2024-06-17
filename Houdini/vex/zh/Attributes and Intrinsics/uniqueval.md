@@ -1,5 +1,5 @@
 ---
-display_name: uniqueval
+title: uniqueval
 order: 74
 ---
 `int|string uniqueval(<geometry>geometry, string attribclass, string attribute_name, int which)`

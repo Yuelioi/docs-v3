@@ -1,5 +1,5 @@
 ---
-display_name: Max Value (Timespan)
+title: Max Value (Timespan)
 order: 21
 ---
 ## Navigation

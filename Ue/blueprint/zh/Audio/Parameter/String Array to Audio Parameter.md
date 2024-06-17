@@ -1,5 +1,5 @@
 ---
-display_name: String Array to Audio Parameter
+title: String Array to Audio Parameter
 order: 36
 ---
 ## Navigation

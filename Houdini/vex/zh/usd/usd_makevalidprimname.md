@@ -1,5 +1,5 @@
 ---
-display_name: usd_makevalidprimname
+title: usd_makevalidprimname
 order: 90
 ---
 | Since | 19.0 |

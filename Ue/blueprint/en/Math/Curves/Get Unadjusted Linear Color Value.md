@@ -1,5 +1,5 @@
 ---
-display_name: Get Unadjusted Linear Color Value
+title: Get Unadjusted Linear Color Value
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Int 32Attribute
+title: Get Int 32Attribute
 order: 33
 ---
 ## Navigation

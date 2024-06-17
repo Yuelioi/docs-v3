@@ -1,5 +1,5 @@
 ---
-display_name: On Water Scalability Changed
+title: On Water Scalability Changed
 order: 27
 ---
 ## Navigation

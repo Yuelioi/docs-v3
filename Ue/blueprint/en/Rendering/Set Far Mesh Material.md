@@ -1,5 +1,5 @@
 ---
-display_name: Set Far Mesh Material
+title: Set Far Mesh Material
 order: 31
 ---
 ## Navigation

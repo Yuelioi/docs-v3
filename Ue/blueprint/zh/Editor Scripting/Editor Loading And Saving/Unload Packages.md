@@ -1,5 +1,5 @@
 ---
-display_name: Unload Packages
+title: Unload Packages
 order: 16
 ---
 ## Navigation

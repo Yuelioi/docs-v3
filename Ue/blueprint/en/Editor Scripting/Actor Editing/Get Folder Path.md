@@ -1,5 +1,5 @@
 ---
-display_name: Get Folder Path
+title: Get Folder Path
 order: 3
 ---
 ## Navigation

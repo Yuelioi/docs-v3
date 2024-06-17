@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance from Current Bar
+title: Get Distance from Current Bar
 order: 21
 ---
 ## Navigation

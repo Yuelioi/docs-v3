@@ -1,5 +1,5 @@
 ---
-display_name: Stop
+title: Stop
 order: 13
 ---
 ## Navigation

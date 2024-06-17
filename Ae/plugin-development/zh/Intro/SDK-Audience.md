@@ -1,5 +1,5 @@
 ---
-display_name: SDK-Audience
+title: SDK-Audience
 order: 12
 ---
 

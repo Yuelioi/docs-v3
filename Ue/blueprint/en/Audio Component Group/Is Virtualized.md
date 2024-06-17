@@ -1,5 +1,5 @@
 ---
-display_name: Is Virtualized
+title: Is Virtualized
 order: 12
 ---
 ## Navigation

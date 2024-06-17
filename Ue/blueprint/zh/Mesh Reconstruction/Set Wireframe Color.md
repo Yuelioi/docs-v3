@@ -1,5 +1,5 @@
 ---
-display_name: Set Wireframe Color
+title: Set Wireframe Color
 order: 15
 ---
 ## Navigation

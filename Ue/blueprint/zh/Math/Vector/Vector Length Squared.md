@@ -1,5 +1,5 @@
 ---
-display_name: Vector Length Squared
+title: Vector Length Squared
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: S
+title: S
 order: 96
 ---
 ## Navigation

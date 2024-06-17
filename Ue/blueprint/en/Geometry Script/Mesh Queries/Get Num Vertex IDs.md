@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Vertex IDs
+title: Get Num Vertex IDs
 order: 31
 ---
 ## Navigation

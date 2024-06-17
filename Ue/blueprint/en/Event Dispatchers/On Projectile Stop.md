@@ -1,5 +1,5 @@
 ---
-display_name: On Projectile Stop
+title: On Projectile Stop
 order: 139
 ---
 ## Navigation

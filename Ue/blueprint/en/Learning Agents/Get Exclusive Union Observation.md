@@ -1,5 +1,5 @@
 ---
-display_name: Get Exclusive Union Observation
+title: Get Exclusive Union Observation
 order: 69
 ---
 ## Navigation

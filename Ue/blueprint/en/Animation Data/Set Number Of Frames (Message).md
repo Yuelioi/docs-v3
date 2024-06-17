@@ -1,5 +1,5 @@
 ---
-display_name: Set Number Of Frames (Message)
+title: Set Number Of Frames (Message)
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set Random Hue
+title: Linear Color Set Random Hue
 order: 15
 ---
 ## Navigation

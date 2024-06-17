@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Using Inertia Damping
+title: Set Is Using Inertia Damping
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Quality
+title: Set Texture Quality
 order: 133
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Attach Actor To Component
+title: Attach Actor To Component
 order: 18
 ---
 ## Navigation

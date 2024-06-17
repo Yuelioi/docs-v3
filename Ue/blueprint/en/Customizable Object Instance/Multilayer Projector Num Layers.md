@@ -1,5 +1,5 @@
 ---
-display_name: Multilayer Projector Num Layers
+title: Multilayer Projector Num Layers
 order: 52
 ---
 ## Navigation

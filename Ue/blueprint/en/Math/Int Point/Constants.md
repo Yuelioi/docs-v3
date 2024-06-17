@@ -1,5 +1,5 @@
 ---
-display_name: Constants
+title: Constants
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get QuartzSubsystem
+title: Get QuartzSubsystem
 order: 69
 ---
 ## Navigation

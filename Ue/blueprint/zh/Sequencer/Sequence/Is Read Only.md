@@ -1,5 +1,5 @@
 ---
-display_name: Is Read Only
+title: Is Read Only
 order: 65
 ---
 ## Navigation

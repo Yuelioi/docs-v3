@@ -1,5 +1,5 @@
 ---
-display_name: Get Duration Of Quantization Type in Seconds
+title: Get Duration Of Quantization Type in Seconds
 order: 1
 ---
 ## Navigation

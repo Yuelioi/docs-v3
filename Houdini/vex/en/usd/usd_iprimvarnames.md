@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvarnames
+title: usd_iprimvarnames
 order: 57
 ---
 | Since | 19.0 |

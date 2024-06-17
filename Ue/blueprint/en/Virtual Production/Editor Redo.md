@@ -1,5 +1,5 @@
 ---
-display_name: Editor Redo
+title: Editor Redo
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get UVList Length
+title: Get UVList Length
 order: 39
 ---
 ## Navigation

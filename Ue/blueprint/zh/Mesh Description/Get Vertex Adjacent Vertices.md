@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Adjacent Vertices
+title: Get Vertex Adjacent Vertices
 order: 57
 ---
 ## Navigation

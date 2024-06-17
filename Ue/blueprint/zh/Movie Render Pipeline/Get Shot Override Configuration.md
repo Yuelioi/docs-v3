@@ -1,5 +1,5 @@
 ---
-display_name: Get Shot Override Configuration
+title: Get Shot Override Configuration
 order: 58
 ---
 ## Navigation

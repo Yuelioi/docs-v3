@@ -1,5 +1,5 @@
 ---
-display_name: Reset Height Encoding Mode
+title: Reset Height Encoding Mode
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Origin (Matrix)
+title: Set Origin (Matrix)
 order: 34
 ---
 ## Navigation

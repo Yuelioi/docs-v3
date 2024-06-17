@@ -1,5 +1,5 @@
 ---
-display_name: Is Expanded
+title: Is Expanded
 order: 40
 ---
 ## Navigation

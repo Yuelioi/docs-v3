@@ -1,5 +1,5 @@
 ---
-display_name: To String (Guid)
+title: To String (Guid)
 order: 5
 ---
 ## Navigation

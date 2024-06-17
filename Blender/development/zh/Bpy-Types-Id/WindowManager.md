@@ -1,5 +1,5 @@
 ---
-display_name: WindowManager 窗口管理器
+title: WindowManager 窗口管理器
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Editor SMInstance Element Handle
+title: Acquire Editor SMInstance Element Handle
 order: 1
 ---
 ## Navigation

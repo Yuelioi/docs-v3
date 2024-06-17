@@ -1,5 +1,5 @@
 ---
-display_name: Compile Blueprint
+title: Compile Blueprint
 order: 2
 ---
 ## Navigation

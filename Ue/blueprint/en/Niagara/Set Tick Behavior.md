@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick Behavior
+title: Set Tick Behavior
 order: 70
 ---
 ## Navigation

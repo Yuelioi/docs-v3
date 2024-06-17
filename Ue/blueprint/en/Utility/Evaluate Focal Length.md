@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Focal Length
+title: Evaluate Focal Length
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Source String from Text
+title: Get Source String from Text
 order: 19
 ---
 ## Navigation

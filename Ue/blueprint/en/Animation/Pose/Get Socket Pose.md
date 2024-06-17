@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket Pose
+title: Get Socket Pose
 order: 14
 ---
 ## Navigation

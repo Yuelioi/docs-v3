@@ -1,5 +1,5 @@
 ---
-display_name: Save Pin to Cloud with App Properties
+title: Save Pin to Cloud with App Properties
 order: 10
 ---
 ## Navigation

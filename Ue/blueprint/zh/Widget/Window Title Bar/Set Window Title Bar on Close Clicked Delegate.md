@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Title Bar on Close Clicked Delegate
+title: Set Window Title Bar on Close Clicked Delegate
 order: 4
 ---
 ## Navigation

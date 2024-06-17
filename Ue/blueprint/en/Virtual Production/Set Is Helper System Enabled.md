@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Helper System Enabled
+title: Set Is Helper System Enabled
 order: 13
 ---
 ## Navigation

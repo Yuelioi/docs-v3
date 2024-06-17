@@ -1,5 +1,5 @@
 ---
-display_name: Find Light Cards
+title: Find Light Cards
 order: 4
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: Collection
+title: Collection
 ---
 
 # Collection 集合对象

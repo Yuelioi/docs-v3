@@ -1,5 +1,5 @@
 ---
-display_name: 色调分离
+title: 色调分离
 order: 20
 ---
 

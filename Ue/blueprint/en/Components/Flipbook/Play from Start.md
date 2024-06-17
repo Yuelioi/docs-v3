@@ -1,5 +1,5 @@
 ---
-display_name: Play from Start
+title: Play from Start
 order: 10
 ---
 ## Navigation

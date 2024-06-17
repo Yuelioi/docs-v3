@@ -1,5 +1,5 @@
 ---
-display_name: Get All Attributes
+title: Get All Attributes
 order: 1
 ---
 ## Navigation

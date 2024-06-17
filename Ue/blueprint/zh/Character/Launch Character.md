@@ -1,5 +1,5 @@
 ---
-display_name: Launch Character
+title: Launch Character
 order: 10
 ---
 ## Navigation

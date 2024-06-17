@@ -1,5 +1,5 @@
 ---
-display_name: Get Handle
+title: Get Handle
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Generate Filename for Buffer
+title: Generate Filename for Buffer
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Signature Denominator
+title: Get Time Signature Denominator
 order: 35
 ---
 ## Navigation

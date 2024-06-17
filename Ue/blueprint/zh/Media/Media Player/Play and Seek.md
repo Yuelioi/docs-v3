@@ -1,5 +1,5 @@
 ---
-display_name: Play and Seek
+title: Play and Seek
 order: 64
 ---
 ## Navigation

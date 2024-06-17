@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Comment Bubble Visible
+title: Set Is Comment Bubble Visible
 order: 70
 ---
 ## Navigation

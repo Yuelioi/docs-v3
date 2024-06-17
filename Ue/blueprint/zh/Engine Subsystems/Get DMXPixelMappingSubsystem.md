@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXPixelMappingSubsystem
+title: Get DMXPixelMappingSubsystem
 order: 14
 ---
 ## Navigation

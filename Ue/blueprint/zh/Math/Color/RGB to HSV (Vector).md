@@ -1,5 +1,5 @@
 ---
-display_name: RGB to HSV (Vector)
+title: RGB to HSV (Vector)
 order: 32
 ---
 ## Navigation

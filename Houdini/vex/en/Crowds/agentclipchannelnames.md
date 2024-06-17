@@ -1,5 +1,5 @@
 ---
-display_name: agentclipchannelnames
+title: agentclipchannelnames
 order: 8
 ---
 `string [] agentclipchannelnames(<geometry>geometry, int prim, string clipname)`

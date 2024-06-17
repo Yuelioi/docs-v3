@@ -1,5 +1,5 @@
 ---
-display_name: Get Captured Attribute Magnitude
+title: Get Captured Attribute Magnitude
 order: 16
 ---
 ## Navigation

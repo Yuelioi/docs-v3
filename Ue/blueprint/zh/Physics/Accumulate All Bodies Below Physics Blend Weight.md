@@ -1,5 +1,5 @@
 ---
-display_name: Accumulate All Bodies Below Physics Blend Weight
+title: Accumulate All Bodies Below Physics Blend Weight
 order: 1
 ---
 ## Navigation

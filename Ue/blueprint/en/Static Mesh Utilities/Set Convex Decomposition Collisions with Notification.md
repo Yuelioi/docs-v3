@@ -1,5 +1,5 @@
 ---
-display_name: Set Convex Decomposition Collisions with Notification
+title: Set Convex Decomposition Collisions with Notification
 order: 34
 ---
 ## Navigation

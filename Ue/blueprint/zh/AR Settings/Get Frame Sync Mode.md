@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Sync Mode
+title: Get Frame Sync Mode
 order: 11
 ---
 ## Navigation

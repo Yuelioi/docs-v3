@@ -1,5 +1,5 @@
 ---
-display_name: Get Dirty Map Packages
+title: Get Dirty Map Packages
 order: 3
 ---
 ## Navigation

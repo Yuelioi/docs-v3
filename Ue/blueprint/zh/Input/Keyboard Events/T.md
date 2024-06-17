@@ -1,5 +1,5 @@
 ---
-display_name: T
+title: T
 order: 101
 ---
 ## Navigation

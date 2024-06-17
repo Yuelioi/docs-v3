@@ -1,5 +1,5 @@
 ---
-display_name: Set Lake and Ocean Transition Materials
+title: Set Lake and Ocean Transition Materials
 order: 45
 ---
 ## Navigation

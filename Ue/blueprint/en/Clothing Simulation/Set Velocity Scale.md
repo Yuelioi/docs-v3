@@ -1,5 +1,5 @@
 ---
-display_name: Set Velocity Scale
+title: Set Velocity Scale
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Distance To
+title: Get Horizontal Distance To
 order: 40
 ---
 ## Navigation

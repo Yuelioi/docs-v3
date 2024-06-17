@@ -1,5 +1,5 @@
 ---
-display_name: Trace Channel Test Util
+title: Trace Channel Test Util
 order: 1
 ---
 ## Navigation

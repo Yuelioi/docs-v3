@@ -1,5 +1,5 @@
 ---
-display_name: Stop Item
+title: Stop Item
 order: 14
 ---
 ## Navigation

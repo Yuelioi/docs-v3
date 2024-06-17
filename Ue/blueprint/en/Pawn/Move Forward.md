@@ -1,5 +1,5 @@
 ---
-display_name: Move Forward
+title: Move Forward
 order: 20
 ---
 ## Navigation

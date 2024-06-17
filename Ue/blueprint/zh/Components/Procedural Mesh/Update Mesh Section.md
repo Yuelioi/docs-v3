@@ -1,5 +1,5 @@
 ---
-display_name: Update Mesh Section
+title: Update Mesh Section
 order: 19
 ---
 ## Navigation

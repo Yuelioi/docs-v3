@@ -1,5 +1,5 @@
 ---
-display_name: Random Array Item from Stream
+title: Random Array Item from Stream
 order: 18
 ---
 ## Navigation

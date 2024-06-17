@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Asset Data
+title: Is Valid Asset Data
 order: 10
 ---
 ## Navigation

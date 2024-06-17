@@ -1,5 +1,5 @@
 ---
-display_name: Advance Settings 进阶设置
+title: Advance Settings 进阶设置
 order: 1
 ---
 

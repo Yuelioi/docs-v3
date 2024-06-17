@@ -1,5 +1,5 @@
 ---
-display_name: Get Track Display Name
+title: Get Track Display Name
 order: 26
 ---
 ## Navigation

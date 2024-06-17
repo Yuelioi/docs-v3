@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Replication Mode
+title: Set Physics Replication Mode
 order: 2
 ---
 ## Navigation

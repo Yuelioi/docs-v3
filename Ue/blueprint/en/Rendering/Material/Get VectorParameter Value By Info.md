@@ -1,5 +1,5 @@
 ---
-display_name: Get VectorParameter Value By Info
+title: Get VectorParameter Value By Info
 order: 31
 ---
 ## Navigation

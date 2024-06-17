@@ -1,5 +1,5 @@
 ---
-display_name: Activate Control Bus Mix
+title: Activate Control Bus Mix
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Cue Points
+title: Get Cue Points
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Instigator Locally Controlled
+title: Is Instigator Locally Controlled
 order: 16
 ---
 ## Navigation

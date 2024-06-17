@@ -1,5 +1,5 @@
 ---
-display_name: Get Modified Attribute Magnitude
+title: Get Modified Attribute Magnitude
 order: 21
 ---
 ## Navigation

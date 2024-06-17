@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Type
+title: Get Source Type
 order: 130
 ---
 ## Navigation

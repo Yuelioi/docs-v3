@@ -1,5 +1,5 @@
 ---
-display_name: chname
+title: chname
 order: 5
 ---
 | Context(s) | [cop2](../contexts/cop2.html)  [chop](../contexts/chop.html) |

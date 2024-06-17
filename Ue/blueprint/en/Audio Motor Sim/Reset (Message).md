@@ -1,5 +1,5 @@
 ---
-display_name: Reset (Message)
+title: Reset (Message)
 order: 4
 ---
 ## Navigation

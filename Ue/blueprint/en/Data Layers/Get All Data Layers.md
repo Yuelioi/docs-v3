@@ -1,5 +1,5 @@
 ---
-display_name: Get All Data Layers
+title: Get All Data Layers
 order: 17
 ---
 ## Navigation

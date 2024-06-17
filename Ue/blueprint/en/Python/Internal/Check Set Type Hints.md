@@ -1,5 +1,5 @@
 ---
-display_name: Check Set Type Hints
+title: Check Set Type Hints
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: splitpath
+title: splitpath
 order: 35
 ---
 `void  splitpath(string fullpath, string &dir, string &name)`

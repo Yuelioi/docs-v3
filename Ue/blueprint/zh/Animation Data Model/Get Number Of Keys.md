@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Keys
+title: Get Number Of Keys
 order: 24
 ---
 ## Navigation

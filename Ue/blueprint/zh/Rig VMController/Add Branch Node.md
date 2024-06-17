@@ -1,5 +1,5 @@
 ---
-display_name: Add Branch Node
+title: Add Branch Node
 order: 5
 ---
 ## Navigation

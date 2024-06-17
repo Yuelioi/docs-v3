@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Edges
+title: Reserve New Edges
 order: 84
 ---
 ## Navigation

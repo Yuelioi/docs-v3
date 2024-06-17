@@ -1,5 +1,5 @@
 ---
-display_name: Application Will Enter Background Delegate
+title: Application Will Enter Background Delegate
 order: 16
 ---
 ## Navigation

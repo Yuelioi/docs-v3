@@ -1,5 +1,5 @@
 ---
-display_name: Set Tile Map
+title: Set Tile Map
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: adddetailattrib
+title: adddetailattrib
 order: 2
 ---
 If you don’t know the class of attribute until runtime, use [addattrib](addattrib.html "Adds an attribute to a geometry.").

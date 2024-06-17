@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Sequence Player
+title: Convert to Sequence Player
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal Base Brush
+title: Get Normal Base Brush
 order: 6
 ---
 ## Navigation

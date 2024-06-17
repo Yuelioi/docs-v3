@@ -1,5 +1,5 @@
 ---
-display_name: Get Used Textures
+title: Get Used Textures
 order: 40
 ---
 ## Navigation

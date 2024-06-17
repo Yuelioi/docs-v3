@@ -1,5 +1,5 @@
 ---
-display_name: Get Blackboard Value as Gameplay Tag from Blackboard Comp
+title: Get Blackboard Value as Gameplay Tag from Blackboard Comp
 order: 5
 ---
 ## Navigation

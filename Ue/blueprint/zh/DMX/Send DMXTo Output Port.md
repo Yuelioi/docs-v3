@@ -1,5 +1,5 @@
 ---
-display_name: Send DMXTo Output Port
+title: Send DMXTo Output Port
 order: 11
 ---
 ## Navigation

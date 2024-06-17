@@ -1,5 +1,5 @@
 ---
-display_name: Make Map Observation from Arrays
+title: Make Map Observation from Arrays
 order: 203
 ---
 ## Navigation

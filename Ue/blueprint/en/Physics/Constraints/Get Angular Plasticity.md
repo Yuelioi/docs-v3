@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Plasticity
+title: Get Angular Plasticity
 order: 7
 ---
 ## Navigation

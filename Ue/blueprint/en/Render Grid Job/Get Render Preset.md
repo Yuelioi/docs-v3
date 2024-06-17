@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Preset
+title: Get Render Preset
 order: 25
 ---
 ## Navigation

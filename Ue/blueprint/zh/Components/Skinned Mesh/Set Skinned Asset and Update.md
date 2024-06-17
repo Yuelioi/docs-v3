@@ -1,5 +1,5 @@
 ---
-display_name: Set Skinned Asset and Update
+title: Set Skinned Asset and Update
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 杂色
+title: 杂色
 order: 7
 ---
 

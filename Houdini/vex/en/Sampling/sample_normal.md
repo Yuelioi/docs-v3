@@ -1,5 +1,5 @@
 ---
-display_name: sample_normal
+title: sample_normal
 order: 24
 ---
 `float  sample_normal(float u)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Vector at Spline Input Key
+title: Get Up Vector at Spline Input Key
 order: 73
 ---
 ## Navigation

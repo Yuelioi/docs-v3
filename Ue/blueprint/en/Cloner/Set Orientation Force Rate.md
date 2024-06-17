@@ -1,5 +1,5 @@
 ---
-display_name: Set Orientation Force Rate
+title: Set Orientation Force Rate
 order: 40
 ---
 ## Navigation

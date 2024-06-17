@@ -1,5 +1,5 @@
 ---
-display_name: Get Synchronize Take Recorder Transactions Local
+title: Get Synchronize Take Recorder Transactions Local
 order: 3
 ---
 ## Navigation

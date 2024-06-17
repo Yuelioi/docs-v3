@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Bone Track Name
+title: Is Valid Bone Track Name
 order: 32
 ---
 ## Navigation

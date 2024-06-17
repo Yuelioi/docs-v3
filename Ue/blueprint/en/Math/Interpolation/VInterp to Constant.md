@@ -1,5 +1,5 @@
 ---
-display_name: VInterp to Constant
+title: VInterp to Constant
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Decorator
+title: Remove Decorator
 order: 82
 ---
 ## Navigation

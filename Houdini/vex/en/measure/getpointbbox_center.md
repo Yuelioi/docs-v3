@@ -1,5 +1,5 @@
 ---
-display_name: getpointbbox_center
+title: getpointbbox_center
 order: 10
 ---
 `vector  getpointbbox_center(<geometry>geometry)`

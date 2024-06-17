@@ -1,5 +1,5 @@
 ---
-display_name: Lerp (Rotator)
+title: Lerp (Rotator)
 order: 11
 ---
 ## Navigation

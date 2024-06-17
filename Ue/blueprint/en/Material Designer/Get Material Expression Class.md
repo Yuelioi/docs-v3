@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Expression Class
+title: Get Material Expression Class
 order: 91
 ---
 ## Navigation

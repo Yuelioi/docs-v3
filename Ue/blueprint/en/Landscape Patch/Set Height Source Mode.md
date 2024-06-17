@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Source Mode
+title: Set Height Source Mode
 order: 32
 ---
 ## Navigation

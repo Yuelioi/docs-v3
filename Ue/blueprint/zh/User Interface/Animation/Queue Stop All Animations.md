@@ -1,5 +1,5 @@
 ---
-display_name: Queue Stop All Animations
+title: Queue Stop All Animations
 order: 19
 ---
 ## Navigation

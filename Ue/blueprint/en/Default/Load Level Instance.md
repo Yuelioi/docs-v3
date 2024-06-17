@@ -1,5 +1,5 @@
 ---
-display_name: Load Level Instance
+title: Load Level Instance
 order: 18
 ---
 ## Navigation

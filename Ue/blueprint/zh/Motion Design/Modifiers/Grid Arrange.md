@@ -1,5 +1,5 @@
 ---
-display_name: Grid Arrange
+title: Grid Arrange
 order: 4
 ---
 ## Navigation

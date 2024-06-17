@@ -1,5 +1,5 @@
 ---
-display_name: Is Local
+title: Is Local
 order: 173
 ---
 ## Navigation

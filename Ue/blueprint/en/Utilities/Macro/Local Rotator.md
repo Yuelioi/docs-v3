@@ -1,5 +1,5 @@
 ---
-display_name: Local Rotator
+title: Local Rotator
 order: 18
 ---
 ## Navigation

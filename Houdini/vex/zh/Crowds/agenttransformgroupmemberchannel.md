@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformgroupmemberchannel
+title: agenttransformgroupmemberchannel
 order: 42
 ---
 | Since | 18.0 |

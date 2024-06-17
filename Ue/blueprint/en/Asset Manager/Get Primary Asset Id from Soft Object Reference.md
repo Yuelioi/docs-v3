@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Asset Id from Soft Object Reference
+title: Get Primary Asset Id from Soft Object Reference
 order: 14
 ---
 ## Navigation

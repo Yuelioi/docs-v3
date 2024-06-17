@@ -1,5 +1,5 @@
 ---
-display_name: Get Saved Commands Count
+title: Get Saved Commands Count
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Replaying
+title: Is Replaying
 order: 6
 ---
 ## Navigation

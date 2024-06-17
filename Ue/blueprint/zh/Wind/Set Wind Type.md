@@ -1,5 +1,5 @@
 ---
-display_name: Set Wind Type
+title: Set Wind Type
 order: 6
 ---
 ## Navigation

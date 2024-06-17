@@ -1,5 +1,5 @@
 ---
-display_name: Is Repeat
+title: Is Repeat
 order: 9
 ---
 ## Navigation

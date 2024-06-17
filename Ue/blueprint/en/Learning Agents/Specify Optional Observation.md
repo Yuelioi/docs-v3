@@ -1,5 +1,5 @@
 ---
-display_name: Specify Optional Observation
+title: Specify Optional Observation
 order: 316
 ---
 ## Navigation

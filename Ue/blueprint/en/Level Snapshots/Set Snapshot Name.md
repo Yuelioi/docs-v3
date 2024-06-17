@@ -1,5 +1,5 @@
 ---
-display_name: Set Snapshot Name
+title: Set Snapshot Name
 order: 29
 ---
 ## Navigation

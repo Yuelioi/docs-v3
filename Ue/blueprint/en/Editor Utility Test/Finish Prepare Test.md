@@ -1,5 +1,5 @@
 ---
-display_name: Finish Prepare Test
+title: Finish Prepare Test
 order: 6
 ---
 ## Navigation

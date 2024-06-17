@@ -1,5 +1,5 @@
 ---
-display_name: hasdetailattrib
+title: hasdetailattrib
 order: 25
 ---
 `int  hasdetailattrib(<geometry>geometry, string attribute_name)`

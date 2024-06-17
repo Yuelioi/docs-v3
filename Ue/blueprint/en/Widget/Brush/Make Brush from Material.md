@@ -1,5 +1,5 @@
 ---
-display_name: Make Brush from Material
+title: Make Brush from Material
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Starting Channel
+title: Set Starting Channel
 order: 28
 ---
 ## Navigation

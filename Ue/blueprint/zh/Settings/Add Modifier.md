@@ -1,5 +1,5 @@
 ---
-display_name: Add Modifier
+title: Add Modifier
 order: 6
 ---
 ## Navigation

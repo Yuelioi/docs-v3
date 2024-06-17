@@ -1,5 +1,5 @@
 ---
-display_name: sleep
+title: sleep
 order: 19
 ---
 `void  sleep(int milliseconds)`

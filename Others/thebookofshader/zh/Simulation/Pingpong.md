@@ -1,5 +1,5 @@
 ---
-display_name: Pingpong
+title: Pingpong
 order: 2
 ---
 

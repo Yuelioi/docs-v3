@@ -1,5 +1,5 @@
 ---
-display_name: SetDriveModeToManual
+title: SetDriveModeToManual
 order: 73
 ---
 ## Navigation

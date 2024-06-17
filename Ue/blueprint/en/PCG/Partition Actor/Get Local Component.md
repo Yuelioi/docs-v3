@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Component
+title: Get Local Component
 order: 1
 ---
 ## Navigation

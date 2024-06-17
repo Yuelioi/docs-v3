@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Property
+title: Get Point Property
 order: 7
 ---
 ## Navigation

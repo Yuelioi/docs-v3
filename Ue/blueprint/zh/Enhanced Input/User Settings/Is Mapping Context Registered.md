@@ -1,5 +1,5 @@
 ---
-display_name: Is Mapping Context Registered
+title: Is Mapping Context Registered
 order: 18
 ---
 ## Navigation

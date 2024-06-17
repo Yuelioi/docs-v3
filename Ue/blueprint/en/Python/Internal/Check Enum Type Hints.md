@@ -1,5 +1,5 @@
 ---
-display_name: Check Enum Type Hints
+title: Check Enum Type Hints
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Sprint State Change
+title: On Sprint State Change
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Start
+title: Remove Start
 order: 76
 ---
 ## Navigation

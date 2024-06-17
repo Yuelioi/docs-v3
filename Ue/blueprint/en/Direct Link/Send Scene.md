@@ -1,5 +1,5 @@
 ---
-display_name: Send Scene
+title: Send Scene
 order: 9
 ---
 ## Navigation

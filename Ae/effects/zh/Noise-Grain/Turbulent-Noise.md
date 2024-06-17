@@ -1,5 +1,5 @@
 ---
-display_name: 湍流杂色
+title: 湍流杂色
 order: 12
 ---
 

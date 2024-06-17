@@ -1,5 +1,5 @@
 ---
-display_name: Set Sparse Volume Texture Parameter Value
+title: Set Sparse Volume Texture Parameter Value
 order: 58
 ---
 ## Navigation

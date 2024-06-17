@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Rotation Similarity as Quats
+title: Make Reward from Rotation Similarity as Quats
 order: 222
 ---
 ## Navigation

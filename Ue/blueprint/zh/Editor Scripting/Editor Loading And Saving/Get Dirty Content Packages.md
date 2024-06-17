@@ -1,5 +1,5 @@
 ---
-display_name: Get Dirty Content Packages
+title: Get Dirty Content Packages
 order: 2
 ---
 ## Navigation

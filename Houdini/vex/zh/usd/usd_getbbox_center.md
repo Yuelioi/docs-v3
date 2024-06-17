@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbbox_center
+title: usd_getbbox_center
 order: 43
 ---
 | Since | 18.0 |

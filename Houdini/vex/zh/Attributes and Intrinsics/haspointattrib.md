@@ -1,5 +1,5 @@
 ---
-display_name: haspointattrib
+title: haspointattrib
 order: 26
 ---
 `int  haspointattrib(<geometry>geometry, string attribute_name)`

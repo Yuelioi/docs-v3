@@ -1,5 +1,5 @@
 ---
-display_name: chrename
+title: chrename
 order: 20
 ---
 | Context(s) | [chop](../contexts/chop.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Asset Data
+title: Get Selected Asset Data
 order: 11
 ---
 ## Navigation

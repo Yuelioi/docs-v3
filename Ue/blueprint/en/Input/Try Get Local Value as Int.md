@@ -1,5 +1,5 @@
 ---
-display_name: Try Get Local Value as Int
+title: Try Get Local Value as Int
 order: 8
 ---
 ## Navigation

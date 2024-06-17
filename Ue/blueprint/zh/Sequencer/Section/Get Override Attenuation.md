@@ -1,5 +1,5 @@
 ---
-display_name: Get Override Attenuation
+title: Get Override Attenuation
 order: 37
 ---
 ## Navigation

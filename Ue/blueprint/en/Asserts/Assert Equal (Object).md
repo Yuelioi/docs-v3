@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Object)
+title: Assert Equal (Object)
 order: 8
 ---
 ## Navigation

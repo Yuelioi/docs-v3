@@ -1,5 +1,5 @@
 ---
-display_name: Get Morph Target
+title: Get Morph Target
 order: 12
 ---
 ## Navigation

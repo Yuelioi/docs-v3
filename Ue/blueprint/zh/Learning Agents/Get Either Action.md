@@ -1,5 +1,5 @@
 ---
-display_name: Get Either Action
+title: Get Either Action
 order: 56
 ---
 ## Navigation

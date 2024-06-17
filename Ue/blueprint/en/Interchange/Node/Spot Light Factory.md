@@ -1,5 +1,5 @@
 ---
-display_name: Spot Light Factory
+title: Spot Light Factory
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Grid Jobs
+title: Get Render Grid Jobs
 order: 25
 ---
 ## Navigation

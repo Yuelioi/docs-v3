@@ -1,5 +1,5 @@
 ---
-display_name: Get Spline Up Dir
+title: Get Spline Up Dir
 order: 9
 ---
 ## Navigation

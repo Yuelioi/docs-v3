@@ -1,5 +1,5 @@
 ---
-display_name: Footage
+title: Footage
 order: 4
 ---
 

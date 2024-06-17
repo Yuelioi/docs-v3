@@ -1,5 +1,5 @@
 ---
-display_name: Enable Playback
+title: Enable Playback
 order: 5
 ---
 ## Navigation

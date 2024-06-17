@@ -1,5 +1,5 @@
 ---
-display_name: Delete Clock by Name
+title: Delete Clock by Name
 order: 3
 ---
 ## Navigation

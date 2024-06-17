@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Circle
+title: Draw Debug Circle
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Play Scheduled Sequences (Message)
+title: Play Scheduled Sequences (Message)
 order: 8
 ---
 ## Navigation

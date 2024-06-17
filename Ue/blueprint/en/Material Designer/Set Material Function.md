@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Function
+title: Set Material Function
 order: 217
 ---
 ## Navigation

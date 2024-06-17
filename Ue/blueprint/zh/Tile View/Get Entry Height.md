@@ -1,5 +1,5 @@
 ---
-display_name: Get Entry Height
+title: Get Entry Height
 order: 1
 ---
 ## Navigation

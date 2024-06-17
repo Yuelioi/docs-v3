@@ -1,5 +1,5 @@
 ---
-display_name: To IntVector (Integer)
+title: To IntVector (Integer)
 order: 13
 ---
 ## Navigation

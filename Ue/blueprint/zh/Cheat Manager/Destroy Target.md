@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Target
+title: Destroy Target
 order: 3
 ---
 ## Navigation

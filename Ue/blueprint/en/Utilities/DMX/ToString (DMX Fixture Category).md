@@ -1,5 +1,5 @@
 ---
-display_name: ToString (DMX Fixture Category)
+title: ToString (DMX Fixture Category)
 order: 11
 ---
 ## Navigation

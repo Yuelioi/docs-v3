@@ -1,5 +1,5 @@
 ---
-display_name: Is Using Skin Weight Profile
+title: Is Using Skin Weight Profile
 order: 25
 ---
 ## Navigation

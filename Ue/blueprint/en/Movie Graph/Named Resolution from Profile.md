@@ -1,5 +1,5 @@
 ---
-display_name: Named Resolution from Profile
+title: Named Resolution from Profile
 order: 57
 ---
 ## Navigation

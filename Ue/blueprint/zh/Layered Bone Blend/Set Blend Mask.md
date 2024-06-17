@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Mask
+title: Set Blend Mask
 order: 3
 ---
 ## Navigation

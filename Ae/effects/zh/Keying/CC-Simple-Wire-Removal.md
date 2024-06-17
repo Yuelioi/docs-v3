@@ -1,5 +1,5 @@
 ---
-display_name: CC简单移除
+title: CC简单移除
 order: 2
 ---
 

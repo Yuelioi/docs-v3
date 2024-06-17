@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Texture
+title: Make Bake Type Texture
 order: 15
 ---
 ## Navigation

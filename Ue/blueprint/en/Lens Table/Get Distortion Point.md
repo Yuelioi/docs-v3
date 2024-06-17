@@ -1,5 +1,5 @@
 ---
-display_name: Get Distortion Point
+title: Get Distortion Point
 order: 8
 ---
 ## Navigation

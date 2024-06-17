@@ -1,5 +1,5 @@
 ---
-display_name: Report Warning
+title: Report Warning
 order: 5
 ---
 ## Navigation

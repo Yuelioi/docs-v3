@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimated Clock Run Time
+title: Get Estimated Clock Run Time
 order: 8
 ---
 ## Navigation

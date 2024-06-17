@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Point Cloud
+title: Get AR Point Cloud
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Bound to Simulation
+title: Is Bound to Simulation
 order: 33
 ---
 ## Navigation

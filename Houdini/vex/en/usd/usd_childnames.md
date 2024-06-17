@@ -1,5 +1,5 @@
 ---
-display_name: usd_childnames
+title: usd_childnames
 order: 28
 ---
 | Since | 19.5 |

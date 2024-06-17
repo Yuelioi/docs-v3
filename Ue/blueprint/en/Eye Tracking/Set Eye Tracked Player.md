@@ -1,5 +1,5 @@
 ---
-display_name: Set Eye Tracked Player
+title: Set Eye Tracked Player
 order: 5
 ---
 ## Navigation

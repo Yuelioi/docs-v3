@@ -1,5 +1,5 @@
 ---
-display_name: Make Pin Property
+title: Make Pin Property
 order: 2
 ---
 ## Navigation

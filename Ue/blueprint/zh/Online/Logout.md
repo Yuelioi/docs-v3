@@ -1,5 +1,5 @@
 ---
-display_name: Logout
+title: Logout
 order: 4
 ---
 ## Navigation

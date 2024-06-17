@@ -1,5 +1,5 @@
 ---
-display_name: Get First Parent
+title: Get First Parent
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetMaterialIDsOfAllTriangles
+title: GetMaterialIDsOfAllTriangles
 order: 7
 ---
 ## Navigation

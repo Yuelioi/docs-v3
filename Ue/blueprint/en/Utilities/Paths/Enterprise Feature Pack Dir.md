@@ -1,5 +1,5 @@
 ---
-display_name: Enterprise Feature Pack Dir
+title: Enterprise Feature Pack Dir
 order: 27
 ---
 ## Navigation

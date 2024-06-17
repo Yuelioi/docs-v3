@@ -1,5 +1,5 @@
 ---
-display_name: Text Trim Preceding and Trailing
+title: Text Trim Preceding and Trailing
 order: 32
 ---
 ## Navigation

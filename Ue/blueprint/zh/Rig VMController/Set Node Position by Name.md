@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Position by Name
+title: Set Node Position by Name
 order: 116
 ---
 ## Navigation

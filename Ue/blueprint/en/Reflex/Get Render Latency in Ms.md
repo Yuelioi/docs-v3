@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Latency in Ms
+title: Get Render Latency in Ms
 order: 6
 ---
 ## Navigation

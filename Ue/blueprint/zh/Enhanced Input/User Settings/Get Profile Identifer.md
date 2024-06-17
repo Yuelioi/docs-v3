@@ -1,5 +1,5 @@
 ---
-display_name: Get Profile Identifer
+title: Get Profile Identifer
 order: 17
 ---
 ## Navigation

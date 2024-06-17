@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Input Profile
+title: Set Default Input Profile
 order: 8
 ---
 ## Navigation

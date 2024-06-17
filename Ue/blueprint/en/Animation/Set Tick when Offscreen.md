@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick when Offscreen
+title: Set Tick when Offscreen
 order: 35
 ---
 ## Navigation

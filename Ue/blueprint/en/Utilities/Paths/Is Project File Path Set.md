@@ -1,5 +1,5 @@
 ---
-display_name: Is Project File Path Set
+title: Is Project File Path Set
 order: 55
 ---
 ## Navigation

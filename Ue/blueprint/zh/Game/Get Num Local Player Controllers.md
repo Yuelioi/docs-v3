@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Local Player Controllers
+title: Get Num Local Player Controllers
 order: 31
 ---
 ## Navigation

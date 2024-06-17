@@ -1,5 +1,5 @@
 ---
-display_name: Enterprise Dir
+title: Enterprise Dir
 order: 26
 ---
 ## Navigation

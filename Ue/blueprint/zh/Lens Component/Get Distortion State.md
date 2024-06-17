@@ -1,5 +1,5 @@
 ---
-display_name: Get Distortion State
+title: Get Distortion State
 order: 5
 ---
 ## Navigation

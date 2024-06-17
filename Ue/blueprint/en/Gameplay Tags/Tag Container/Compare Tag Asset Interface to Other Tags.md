@@ -1,5 +1,5 @@
 ---
-display_name: Compare Tag Asset Interface to Other Tags
+title: Compare Tag Asset Interface to Other Tags
 order: 2
 ---
 ## Navigation

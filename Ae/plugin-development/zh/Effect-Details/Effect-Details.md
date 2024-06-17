@@ -1,5 +1,5 @@
 ---
-display_name: Effect-Details
+title: Effect-Details
 order: 7
 ---
 

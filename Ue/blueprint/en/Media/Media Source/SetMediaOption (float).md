@@ -1,5 +1,5 @@
 ---
-display_name: SetMediaOption (float)
+title: SetMediaOption (float)
 order: 3
 ---
 ## Navigation

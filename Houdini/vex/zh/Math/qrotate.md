@@ -1,5 +1,5 @@
 ---
-display_name: qrotate
+title: qrotate
 order: 64
 ---
 `vector  qrotate(vector4 quaternion, vector v)`

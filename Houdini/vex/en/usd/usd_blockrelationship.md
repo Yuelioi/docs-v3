@@ -1,5 +1,5 @@
 ---
-display_name: usd_blockrelationship
+title: usd_blockrelationship
 order: 26
 ---
 | Since | 18.0 |

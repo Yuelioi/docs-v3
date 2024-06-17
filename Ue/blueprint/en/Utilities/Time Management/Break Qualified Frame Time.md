@@ -1,5 +1,5 @@
 ---
-display_name: Break Qualified Frame Time
+title: Break Qualified Frame Time
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim Root Motion Translation Scale
+title: Get Anim Root Motion Translation Scale
 order: 12
 ---
 ## Navigation

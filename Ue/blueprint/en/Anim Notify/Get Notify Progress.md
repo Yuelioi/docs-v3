@@ -1,5 +1,5 @@
 ---
-display_name: Get Notify Progress
+title: Get Notify Progress
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Invert Transform
+title: Invert Transform
 order: 7
 ---
 ## Navigation

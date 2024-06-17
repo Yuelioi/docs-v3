@@ -1,5 +1,5 @@
 ---
-display_name: Add Instanced View Model
+title: Add Instanced View Model
 order: 3
 ---
 ## Navigation

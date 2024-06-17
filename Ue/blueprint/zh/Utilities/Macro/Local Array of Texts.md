@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Texts
+title: Local Array of Texts
 order: 9
 ---
 ## Navigation

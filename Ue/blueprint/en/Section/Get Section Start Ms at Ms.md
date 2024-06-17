@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Start Ms at Ms
+title: Get Section Start Ms at Ms
 order: 10
 ---
 ## Navigation

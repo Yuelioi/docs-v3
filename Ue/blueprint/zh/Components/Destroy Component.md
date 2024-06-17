@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Component
+title: Destroy Component
 order: 4
 ---
 ## Navigation

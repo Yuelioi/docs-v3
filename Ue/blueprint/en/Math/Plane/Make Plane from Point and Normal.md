@@ -1,5 +1,5 @@
 ---
-display_name: Make Plane from Point and Normal
+title: Make Plane from Point and Normal
 order: 1
 ---
 ## Navigation

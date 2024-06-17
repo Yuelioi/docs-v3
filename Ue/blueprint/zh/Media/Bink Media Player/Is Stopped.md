@@ -1,5 +1,5 @@
 ---
-display_name: Is Stopped
+title: Is Stopped
 order: 13
 ---
 ## Navigation

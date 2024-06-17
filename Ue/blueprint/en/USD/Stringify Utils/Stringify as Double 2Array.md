@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Double 2Array
+title: Stringify as Double 2Array
 order: 6
 ---
 ## Navigation

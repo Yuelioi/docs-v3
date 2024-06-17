@@ -1,5 +1,5 @@
 ---
-display_name: Read Spawn Info
+title: Read Spawn Info
 order: 15
 ---
 ## Navigation

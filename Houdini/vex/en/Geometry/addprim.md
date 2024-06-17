@@ -1,5 +1,5 @@
 ---
-display_name: addprim
+title: addprim
 order: 2
 ---
 `int  addprim(int geohandle, string type)`

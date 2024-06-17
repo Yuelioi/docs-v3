@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Float
+title: Set Value Float
 order: 25
 ---
 ## Navigation

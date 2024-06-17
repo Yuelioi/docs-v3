@@ -1,5 +1,5 @@
 ---
-display_name: Convert Bake Resolution to Int
+title: Convert Bake Resolution to Int
 order: 4
 ---
 ## Navigation

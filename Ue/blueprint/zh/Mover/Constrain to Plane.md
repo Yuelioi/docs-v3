@@ -1,5 +1,5 @@
 ---
-display_name: Constrain to Plane
+title: Constrain to Plane
 order: 16
 ---
 ## Navigation

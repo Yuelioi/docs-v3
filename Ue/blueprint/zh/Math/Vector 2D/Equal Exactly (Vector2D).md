@@ -1,5 +1,5 @@
 ---
-display_name: Equal Exactly (Vector2D)
+title: Equal Exactly (Vector2D)
 order: 7
 ---
 ## Navigation

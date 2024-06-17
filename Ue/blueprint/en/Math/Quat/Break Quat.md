@@ -1,5 +1,5 @@
 ---
-display_name: Break Quat
+title: Break Quat
 order: 6
 ---
 ## Navigation

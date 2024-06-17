@@ -1,5 +1,5 @@
 ---
-display_name: Is Interaction Enabled
+title: Is Interaction Enabled
 order: 13
 ---
 ## Navigation

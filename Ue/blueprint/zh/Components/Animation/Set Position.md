@@ -1,5 +1,5 @@
 ---
-display_name: Set Position
+title: Set Position
 order: 11
 ---
 ## Navigation

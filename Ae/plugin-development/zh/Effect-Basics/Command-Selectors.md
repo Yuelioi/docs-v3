@@ -1,5 +1,5 @@
 ---
-display_name: Command-Selectors
+title: Command-Selectors
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: norm_max
+title: norm_max
 order: 47
 ---
 `float  norm_max(<matrix>m)`

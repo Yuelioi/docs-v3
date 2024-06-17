@@ -1,5 +1,5 @@
 ---
-display_name: Advanced
+title: Advanced
 order: 7
 ---
 ## Navigation

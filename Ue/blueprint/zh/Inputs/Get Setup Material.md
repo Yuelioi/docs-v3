@@ -1,5 +1,5 @@
 ---
-display_name: Get Setup Material
+title: Get Setup Material
 order: 1
 ---
 ## Navigation

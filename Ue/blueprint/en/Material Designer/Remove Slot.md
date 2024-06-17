@@ -1,5 +1,5 @@
 ---
-display_name: Remove Slot
+title: Remove Slot
 order: 193
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcimportbyidxv
+title: pcimportbyidxv
 order: 21
 ---
 `vector  pcimportbyidxv(int handle, string channel_name, int idx)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mirror Data Table
+title: Set Mirror Data Table
 order: 26
 ---
 ## Navigation

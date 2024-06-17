@@ -1,5 +1,5 @@
 ---
-display_name: Get Session Type
+title: Get Session Type
 order: 16
 ---
 ## Navigation

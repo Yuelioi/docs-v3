@@ -1,5 +1,5 @@
 ---
-display_name: Add Additional Object (Message)
+title: Add Additional Object (Message)
 order: 1
 ---
 ## Navigation

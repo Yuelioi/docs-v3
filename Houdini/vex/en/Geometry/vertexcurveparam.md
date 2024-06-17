@@ -1,5 +1,5 @@
 ---
-display_name: vertexcurveparam
+title: vertexcurveparam
 order: 39
 ---
 `float  vertexcurveparam(<geometry>geometry, int linearindex)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Camera Component
+title: Get Active Camera Component
 order: 5
 ---
 ## Navigation

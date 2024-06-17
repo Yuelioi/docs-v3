@@ -1,5 +1,5 @@
 ---
-display_name: Find Package Referencers for Asset
+title: Find Package Referencers for Asset
 order: 20
 ---
 ## Navigation

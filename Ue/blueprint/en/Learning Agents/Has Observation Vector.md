@@ -1,5 +1,5 @@
 ---
-display_name: Has Observation Vector
+title: Has Observation Vector
 order: 135
 ---
 ## Navigation

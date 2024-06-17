@@ -1,5 +1,5 @@
 ---
-display_name: Set Output Range
+title: Set Output Range
 order: 27
 ---
 ## Navigation

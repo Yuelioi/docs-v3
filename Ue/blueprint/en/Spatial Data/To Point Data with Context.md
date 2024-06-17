@@ -1,5 +1,5 @@
 ---
-display_name: To Point Data with Context
+title: To Point Data with Context
 order: 20
 ---
 ## Navigation

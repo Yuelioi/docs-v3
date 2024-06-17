@@ -1,5 +1,5 @@
 ---
-display_name: Get Components by Tag
+title: Get Components by Tag
 order: 20
 ---
 ## Navigation

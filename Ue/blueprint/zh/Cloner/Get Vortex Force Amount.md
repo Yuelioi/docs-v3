@@ -1,5 +1,5 @@
 ---
-display_name: Get Vortex Force Amount
+title: Get Vortex Force Amount
 order: 52
 ---
 ## Navigation

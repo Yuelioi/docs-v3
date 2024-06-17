@@ -1,5 +1,5 @@
 ---
-display_name: Sync File
+title: Sync File
 order: 23
 ---
 ## Navigation

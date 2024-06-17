@@ -1,5 +1,5 @@
 ---
-display_name: json_loads
+title: json_loads
 order: 2
 ---
 | Since | 18.5 |

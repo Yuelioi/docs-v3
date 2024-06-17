@@ -1,5 +1,5 @@
 ---
-display_name: Remove Pose Snapshot
+title: Remove Pose Snapshot
 order: 16
 ---
 ## Navigation

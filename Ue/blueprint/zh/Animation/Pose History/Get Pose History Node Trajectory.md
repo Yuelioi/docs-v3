@@ -1,5 +1,5 @@
 ---
-display_name: Get Pose History Node Trajectory
+title: Get Pose History Node Trajectory
 order: 2
 ---
 ## Navigation

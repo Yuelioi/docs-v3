@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Shading Model Editor Only
+title: Set MIC Shading Model Editor Only
 order: 53
 ---
 ## Navigation

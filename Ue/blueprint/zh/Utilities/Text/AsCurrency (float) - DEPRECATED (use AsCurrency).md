@@ -1,5 +1,5 @@
 ---
-display_name: AsCurrency (float) - DEPRECATED (use AsCurrency)
+title: AsCurrency (float) - DEPRECATED (use AsCurrency)
 order: 10
 ---
 ## Navigation

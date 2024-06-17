@@ -1,5 +1,5 @@
 ---
-display_name: Get Time To Event
+title: Get Time To Event
 order: 65
 ---
 ## Navigation

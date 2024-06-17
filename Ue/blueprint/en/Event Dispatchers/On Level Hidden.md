@@ -1,5 +1,5 @@
 ---
-display_name: On Level Hidden
+title: On Level Hidden
 order: 107
 ---
 ## Navigation

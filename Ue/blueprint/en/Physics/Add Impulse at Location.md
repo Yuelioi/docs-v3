@@ -1,5 +1,5 @@
 ---
-display_name: Add Impulse at Location
+title: Add Impulse at Location
 order: 8
 ---
 ## Navigation

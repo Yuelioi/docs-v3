@@ -1,5 +1,5 @@
 ---
-display_name: Open File
+title: Open File
 order: 56
 ---
 ## Navigation

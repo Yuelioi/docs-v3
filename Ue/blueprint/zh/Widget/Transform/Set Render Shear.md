@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Shear
+title: Set Render Shear
 order: 3
 ---
 ## Navigation

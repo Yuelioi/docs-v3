@@ -1,5 +1,5 @@
 ---
-display_name: Get Override Input Component Class
+title: Get Override Input Component Class
 order: 7
 ---
 ## Navigation

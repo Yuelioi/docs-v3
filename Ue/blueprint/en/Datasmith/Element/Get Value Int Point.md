@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Int Point
+title: Get Value Int Point
 order: 75
 ---
 ## Navigation

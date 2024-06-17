@@ -1,5 +1,5 @@
 ---
-display_name: Generate Curve Group Indices
+title: Generate Curve Group Indices
 order: 2
 ---
 ## Navigation

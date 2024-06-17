@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance Texture Parameter Value
+title: Get Material Instance Texture Parameter Value
 order: 25
 ---
 ## Navigation

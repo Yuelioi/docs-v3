@@ -1,5 +1,5 @@
 ---
-display_name: Get SoundscapeSubsystem
+title: Get SoundscapeSubsystem
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_setvisibility
+title: usd_setvisibility
 order: 142
 ---
 | Since | 19.0 |

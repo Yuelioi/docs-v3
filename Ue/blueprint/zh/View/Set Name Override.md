@@ -1,5 +1,5 @@
 ---
-display_name: Set Name Override
+title: Set Name Override
 order: 9
 ---
 ## Navigation

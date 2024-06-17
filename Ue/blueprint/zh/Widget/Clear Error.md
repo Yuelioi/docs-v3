@@ -1,5 +1,5 @@
 ---
-display_name: Clear Error
+title: Clear Error
 order: 12
 ---
 ## Navigation

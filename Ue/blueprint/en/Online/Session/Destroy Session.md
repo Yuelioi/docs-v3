@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Session
+title: Destroy Session
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Language
+title: Get Default Language
 order: 7
 ---
 ## Navigation

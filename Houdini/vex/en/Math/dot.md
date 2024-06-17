@@ -1,5 +1,5 @@
 ---
-display_name: dot
+title: dot
 order: 22
 ---
 `float  dot(vector2 a, vector2 b)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mode (Editing Take Preset)
+title: Set Mode (Editing Take Preset)
 order: 11
 ---
 ## Navigation

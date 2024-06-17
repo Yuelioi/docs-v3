@@ -1,5 +1,5 @@
 ---
-display_name: Simulate
+title: Simulate
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Open Undo Bracket
+title: Open Undo Bracket
 order: 73
 ---
 ## Navigation

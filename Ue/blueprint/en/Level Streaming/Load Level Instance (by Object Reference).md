@@ -1,5 +1,5 @@
 ---
-display_name: Load Level Instance (by Object Reference)
+title: Load Level Instance (by Object Reference)
 order: 3
 ---
 ## Navigation

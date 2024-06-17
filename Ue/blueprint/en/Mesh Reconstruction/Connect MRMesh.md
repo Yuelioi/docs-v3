@@ -1,5 +1,5 @@
 ---
-display_name: Connect MRMesh
+title: Connect MRMesh
 order: 2
 ---
 ## Navigation

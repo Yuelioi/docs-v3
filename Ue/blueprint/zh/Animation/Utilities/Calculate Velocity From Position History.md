@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Velocity From Position History
+title: Calculate Velocity From Position History
 order: 2
 ---
 ## Navigation

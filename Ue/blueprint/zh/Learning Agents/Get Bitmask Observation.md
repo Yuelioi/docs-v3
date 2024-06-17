@@ -1,5 +1,5 @@
 ---
-display_name: Get Bitmask Observation
+title: Get Bitmask Observation
 order: 42
 ---
 ## Navigation

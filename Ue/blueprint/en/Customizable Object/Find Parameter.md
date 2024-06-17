@@ -1,5 +1,5 @@
 ---
-display_name: Find Parameter
+title: Find Parameter
 order: 3
 ---
 ## Navigation

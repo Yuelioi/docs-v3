@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Location by Name
+title: Set Bone Location by Name
 order: 7
 ---
 ## Navigation

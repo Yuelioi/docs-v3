@@ -1,5 +1,5 @@
 ---
-display_name: Check Out Files
+title: Check Out Files
 order: 3
 ---
 ## Navigation

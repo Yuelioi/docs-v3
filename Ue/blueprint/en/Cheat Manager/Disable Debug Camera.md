@@ -1,5 +1,5 @@
 ---
-display_name: Disable Debug Camera
+title: Disable Debug Camera
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Query Results as Locations
+title: Get Query Results as Locations
 order: 3
 ---
 ## Navigation

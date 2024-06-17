@@ -1,5 +1,5 @@
 ---
-display_name: Get Left Interactor Location
+title: Get Left Interactor Location
 order: 18
 ---
 ## Navigation

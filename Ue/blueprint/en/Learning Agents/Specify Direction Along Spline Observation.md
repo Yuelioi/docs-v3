@@ -1,5 +1,5 @@
 ---
-display_name: Specify Direction Along Spline Observation
+title: Specify Direction Along Spline Observation
 order: 286
 ---
 ## Navigation

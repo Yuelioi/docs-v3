@@ -1,5 +1,5 @@
 ---
-display_name: Multicast Delegate Prop
+title: Multicast Delegate Prop
 order: 45
 ---
 ## Navigation

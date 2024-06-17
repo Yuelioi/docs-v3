@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform Child Curve Identifier
+title: Get Transform Child Curve Identifier
 order: 1
 ---
 ## Navigation

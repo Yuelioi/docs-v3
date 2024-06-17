@@ -1,5 +1,5 @@
 ---
-display_name: Gather Subobject Data For Instance
+title: Gather Subobject Data For Instance
 order: 17
 ---
 ## Navigation

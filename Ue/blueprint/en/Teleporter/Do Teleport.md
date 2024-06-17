@@ -1,5 +1,5 @@
 ---
-display_name: Do Teleport
+title: Do Teleport
 order: 1
 ---
 ## Navigation

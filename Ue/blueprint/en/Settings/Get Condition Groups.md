@@ -1,5 +1,5 @@
 ---
-display_name: Get Condition Groups
+title: Get Condition Groups
 order: 31
 ---
 ## Navigation

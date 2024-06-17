@@ -1,5 +1,5 @@
 ---
-display_name: Set Consume Pointer Input
+title: Set Consume Pointer Input
 order: 2
 ---
 ## Navigation

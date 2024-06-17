@@ -1,5 +1,5 @@
 ---
-display_name: ReticleOpacityAxis
+title: ReticleOpacityAxis
 order: 68
 ---
 ## Navigation

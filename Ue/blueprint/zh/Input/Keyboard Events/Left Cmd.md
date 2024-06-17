@@ -1,5 +1,5 @@
 ---
-display_name: Left Cmd
+title: Left Cmd
 order: 58
 ---
 ## Navigation

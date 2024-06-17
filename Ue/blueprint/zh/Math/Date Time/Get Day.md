@@ -1,5 +1,5 @@
 ---
-display_name: Get Day
+title: Get Day
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Play Rate
+title: Get Play Rate
 order: 14
 ---
 ## Navigation

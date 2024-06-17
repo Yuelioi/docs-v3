@@ -1,5 +1,5 @@
 ---
-display_name: Make Continuous Observation
+title: Make Continuous Observation
 order: 169
 ---
 ## Navigation

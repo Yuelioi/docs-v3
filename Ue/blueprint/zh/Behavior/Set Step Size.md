@@ -1,5 +1,5 @@
 ---
-display_name: Set Step Size
+title: Set Step Size
 order: 31
 ---
 ## Navigation

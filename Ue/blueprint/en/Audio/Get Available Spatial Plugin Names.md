@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Spatial Plugin Names
+title: Get Available Spatial Plugin Names
 order: 7
 ---
 ## Navigation

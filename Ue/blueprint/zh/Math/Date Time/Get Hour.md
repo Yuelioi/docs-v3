@@ -1,5 +1,5 @@
 ---
-display_name: Get Hour
+title: Get Hour
 order: 18
 ---
 ## Navigation

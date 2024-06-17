@@ -1,5 +1,5 @@
 ---
-display_name: Send Custom Event
+title: Send Custom Event
 order: 3
 ---
 ## Navigation

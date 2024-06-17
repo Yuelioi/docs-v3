@@ -1,5 +1,5 @@
 ---
-display_name: HSV to RGB (Vector)
+title: HSV to RGB (Vector)
 order: 4
 ---
 ## Navigation

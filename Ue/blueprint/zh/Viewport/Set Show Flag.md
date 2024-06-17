@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Flag
+title: Set Show Flag
 order: 17
 ---
 ## Navigation

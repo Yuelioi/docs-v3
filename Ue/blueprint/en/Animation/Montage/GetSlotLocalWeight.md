@@ -1,5 +1,5 @@
 ---
-display_name: GetSlotLocalWeight
+title: GetSlotLocalWeight
 order: 3
 ---
 ## Navigation

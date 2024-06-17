@@ -1,5 +1,5 @@
 ---
-display_name: SequenceCollection 序列集合对象
+title: SequenceCollection 序列集合对象
 order: 5
 ---
 

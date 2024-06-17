@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Seconds
+title: Get Time Seconds
 order: 7
 ---
 ## Navigation

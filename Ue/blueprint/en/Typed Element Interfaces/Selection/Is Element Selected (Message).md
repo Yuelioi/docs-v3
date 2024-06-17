@@ -1,5 +1,5 @@
 ---
-display_name: Is Element Selected (Message)
+title: Is Element Selected (Message)
 order: 11
 ---
 ## Navigation

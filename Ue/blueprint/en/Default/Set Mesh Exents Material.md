@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Exents Material
+title: Set Mesh Exents Material
 order: 23
 ---
 ## Navigation

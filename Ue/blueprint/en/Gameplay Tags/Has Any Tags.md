@@ -1,5 +1,5 @@
 ---
-display_name: Has Any Tags
+title: Has Any Tags
 order: 20
 ---
 ## Navigation

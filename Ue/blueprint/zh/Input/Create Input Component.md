@@ -1,5 +1,5 @@
 ---
-display_name: Create Input Component
+title: Create Input Component
 order: 14
 ---
 ## Navigation

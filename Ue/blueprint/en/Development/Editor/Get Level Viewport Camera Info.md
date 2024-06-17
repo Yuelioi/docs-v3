@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Viewport Camera Info
+title: Get Level Viewport Camera Info
 order: 10
 ---
 ## Navigation

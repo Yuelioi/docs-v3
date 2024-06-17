@@ -1,5 +1,5 @@
 ---
-display_name: Set Player Layer Preference
+title: Set Player Layer Preference
 order: 24
 ---
 ## Navigation

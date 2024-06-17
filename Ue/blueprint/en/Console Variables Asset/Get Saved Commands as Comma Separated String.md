@@ -1,5 +1,5 @@
 ---
-display_name: Get Saved Commands as Comma Separated String
+title: Get Saved Commands as Comma Separated String
 order: 6
 ---
 ## Navigation

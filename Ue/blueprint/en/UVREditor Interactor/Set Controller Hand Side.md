@@ -1,5 +1,5 @@
 ---
-display_name: Set Controller Hand Side
+title: Set Controller Hand Side
 order: 11
 ---
 ## Navigation

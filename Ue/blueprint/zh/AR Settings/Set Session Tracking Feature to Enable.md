@@ -1,5 +1,5 @@
 ---
-display_name: Set Session Tracking Feature to Enable
+title: Set Session Tracking Feature to Enable
 order: 29
 ---
 ## Navigation

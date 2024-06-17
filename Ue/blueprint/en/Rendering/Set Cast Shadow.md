@@ -1,5 +1,5 @@
 ---
-display_name: Set Cast Shadow
+title: Set Cast Shadow
 order: 24
 ---
 ## Navigation

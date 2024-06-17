@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Asset
+title: Set Physics Asset
 order: 6
 ---
 ## Navigation

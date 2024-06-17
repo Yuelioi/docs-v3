@@ -1,5 +1,5 @@
 ---
-display_name: Update Vertex Normal
+title: Update Vertex Normal
 order: 18
 ---
 ## Navigation

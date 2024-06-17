@@ -1,5 +1,5 @@
 ---
-display_name: Build String (IntVector)
+title: Build String (IntVector)
 order: 4
 ---
 ## Navigation

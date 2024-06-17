@@ -1,5 +1,5 @@
 ---
-display_name: As Bool
+title: As Bool
 order: 1
 ---
 ## Navigation

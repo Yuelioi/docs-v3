@@ -1,5 +1,5 @@
 ---
-display_name: On Active Widget Index Changed BP
+title: On Active Widget Index Changed BP
 order: 6
 ---
 ## Navigation

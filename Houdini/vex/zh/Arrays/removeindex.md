@@ -1,5 +1,5 @@
 ---
-display_name: removeindex
+title: removeindex
 order: 11
 ---
 

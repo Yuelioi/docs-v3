@@ -1,5 +1,5 @@
 ---
-display_name: Elements of basic JavaScript relevant to After Effects scripting
+title: Elements of basic JavaScript relevant to After Effects scripting
 order: 3
 ---
 

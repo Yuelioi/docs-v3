@@ -1,5 +1,5 @@
 ---
-display_name: Get VCam Input Settings
+title: Get VCam Input Settings
 order: 2
 ---
 ## Navigation

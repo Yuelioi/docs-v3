@@ -1,5 +1,5 @@
 ---
-display_name: On Overall Loudness Results
+title: On Overall Loudness Results
 order: 123
 ---
 ## Navigation

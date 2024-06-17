@@ -1,5 +1,5 @@
 ---
-display_name: Create MIDIDevice Output Controller
+title: Create MIDIDevice Output Controller
 order: 3
 ---
 ## Navigation

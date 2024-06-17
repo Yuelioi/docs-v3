@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Render Preset
+title: Get Default Render Preset
 order: 15
 ---
 ## Navigation

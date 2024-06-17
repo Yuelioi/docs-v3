@@ -1,5 +1,5 @@
 ---
-display_name: Look Up at Rate
+title: Look Up at Rate
 order: 19
 ---
 ## Navigation

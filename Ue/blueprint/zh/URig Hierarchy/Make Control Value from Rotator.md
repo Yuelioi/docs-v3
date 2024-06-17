@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Rotator
+title: Make Control Value from Rotator
 order: 106
 ---
 ## Navigation

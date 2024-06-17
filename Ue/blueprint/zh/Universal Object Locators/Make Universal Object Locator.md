@@ -1,5 +1,5 @@
 ---
-display_name: Make Universal Object Locator
+title: Make Universal Object Locator
 order: 2
 ---
 ## Navigation

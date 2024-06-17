@@ -1,5 +1,5 @@
 ---
-display_name: ApplyPolyGroupCatmullClarkSubD
+title: ApplyPolyGroupCatmullClarkSubD
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Gravity
+title: Gravity
 order: 2
 ---
 ## Navigation

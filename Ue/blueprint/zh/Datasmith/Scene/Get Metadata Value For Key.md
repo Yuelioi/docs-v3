@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Value For Key
+title: Get Metadata Value For Key
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Text Size
+title: Get Text Size
 order: 16
 ---
 ## Navigation

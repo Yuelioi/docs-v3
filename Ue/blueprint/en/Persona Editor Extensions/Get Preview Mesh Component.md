@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview Mesh Component
+title: Get Preview Mesh Component
 order: 4
 ---
 ## Navigation

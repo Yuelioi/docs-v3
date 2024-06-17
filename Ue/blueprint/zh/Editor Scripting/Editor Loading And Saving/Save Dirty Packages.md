@@ -1,5 +1,5 @@
 ---
-display_name: Save Dirty Packages
+title: Save Dirty Packages
 order: 12
 ---
 ## Navigation

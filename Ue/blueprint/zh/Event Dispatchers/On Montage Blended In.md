@@ -1,5 +1,5 @@
 ---
-display_name: On Montage Blended In
+title: On Montage Blended In
 order: 115
 ---
 ## Navigation

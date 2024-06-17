@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Plane
+title: On Update Tracked Plane
 order: 20
 ---
 ## Navigation

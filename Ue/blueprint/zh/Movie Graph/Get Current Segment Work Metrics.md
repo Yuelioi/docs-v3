@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Segment Work Metrics
+title: Get Current Segment Work Metrics
 order: 18
 ---
 ## Navigation

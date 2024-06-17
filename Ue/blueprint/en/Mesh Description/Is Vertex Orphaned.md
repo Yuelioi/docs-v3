@@ -1,5 +1,5 @@
 ---
-display_name: Is Vertex Orphaned
+title: Is Vertex Orphaned
 order: 82
 ---
 ## Navigation

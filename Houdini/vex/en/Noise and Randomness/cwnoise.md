@@ -1,5 +1,5 @@
 ---
-display_name: cwnoise
+title: cwnoise
 order: 8
 ---
 `void  cwnoise(float position, int &seed, float &f1, float &f2)`

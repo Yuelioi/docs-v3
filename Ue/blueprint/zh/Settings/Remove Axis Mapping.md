@@ -1,5 +1,5 @@
 ---
-display_name: Remove Axis Mapping
+title: Remove Axis Mapping
 order: 92
 ---
 ## Navigation

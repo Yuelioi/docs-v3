@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Index
+title: Get Node Index
 order: 20
 ---
 ## Navigation

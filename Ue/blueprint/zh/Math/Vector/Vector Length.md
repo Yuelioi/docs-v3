@@ -1,5 +1,5 @@
 ---
-display_name: Vector Length
+title: Vector Length
 order: 83
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enum Action
+title: Get Enum Action
 order: 61
 ---
 ## Navigation

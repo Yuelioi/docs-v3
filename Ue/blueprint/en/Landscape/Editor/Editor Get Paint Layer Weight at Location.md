@@ -1,5 +1,5 @@
 ---
-display_name: Editor Get Paint Layer Weight at Location
+title: Editor Get Paint Layer Weight at Location
 order: 2
 ---
 ## Navigation

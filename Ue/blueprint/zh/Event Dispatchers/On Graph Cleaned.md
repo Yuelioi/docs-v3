@@ -1,5 +1,5 @@
 ---
-display_name: On Graph Cleaned
+title: On Graph Cleaned
 order: 90
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: OnTextChanged (Editable Text)
+title: OnTextChanged (Editable Text)
 order: 11
 ---
 ## Navigation

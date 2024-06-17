@@ -1,5 +1,5 @@
 ---
-display_name: Get Overriden Atmosphere Light Direction
+title: Get Overriden Atmosphere Light Direction
 order: 14
 ---
 ## Navigation

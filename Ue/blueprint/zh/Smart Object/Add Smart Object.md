@@ -1,5 +1,5 @@
 ---
-display_name: Add Smart Object
+title: Add Smart Object
 order: 2
 ---
 ## Navigation

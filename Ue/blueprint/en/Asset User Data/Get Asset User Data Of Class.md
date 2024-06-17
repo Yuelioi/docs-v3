@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset User Data Of Class
+title: Get Asset User Data Of Class
 order: 4
 ---
 ## Navigation

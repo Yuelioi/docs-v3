@@ -1,5 +1,5 @@
 ---
-display_name: Save Pose Snapshot
+title: Save Pose Snapshot
 order: 17
 ---
 ## Navigation

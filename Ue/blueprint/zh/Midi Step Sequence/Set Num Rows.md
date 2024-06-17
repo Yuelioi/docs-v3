@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Rows
+title: Set Num Rows
 order: 11
 ---
 ## Navigation

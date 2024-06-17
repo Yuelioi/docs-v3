@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Space
+title: Set Widget Space
 order: 50
 ---
 ## Navigation

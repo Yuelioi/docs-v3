@@ -1,5 +1,5 @@
 ---
-display_name: Move Effect (By Value)
+title: Move Effect (By Value)
 order: 182
 ---
 ## Navigation

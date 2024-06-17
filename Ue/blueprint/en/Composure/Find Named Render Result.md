@@ -1,5 +1,5 @@
 ---
-display_name: Find Named Render Result
+title: Find Named Render Result
 order: 5
 ---
 ## Navigation

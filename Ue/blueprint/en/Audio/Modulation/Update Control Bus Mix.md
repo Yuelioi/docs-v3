@@ -1,5 +1,5 @@
 ---
-display_name: Update Control Bus Mix
+title: Update Control Bus Mix
 order: 31
 ---
 ## Navigation

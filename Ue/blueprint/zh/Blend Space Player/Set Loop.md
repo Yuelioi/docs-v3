@@ -1,5 +1,5 @@
 ---
-display_name: Set Loop
+title: Set Loop
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Property from Leaf
+title: Get Property from Leaf
 order: 5
 ---
 ## Navigation

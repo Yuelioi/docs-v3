@@ -1,5 +1,5 @@
 ---
-display_name: Create Double Attribute
+title: Create Double Attribute
 order: 11
 ---
 ## Navigation

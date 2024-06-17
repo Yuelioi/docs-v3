@@ -1,5 +1,5 @@
 ---
-display_name: OnConnectionsReinitialized
+title: OnConnectionsReinitialized
 order: 192
 ---
 ## Navigation

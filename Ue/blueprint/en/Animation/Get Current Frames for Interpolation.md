@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Frames for Interpolation
+title: Get Current Frames for Interpolation
 order: 17
 ---
 ## Navigation

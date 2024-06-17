@@ -1,5 +1,5 @@
 ---
-display_name: Get Static Switch Parameter Names
+title: Get Static Switch Parameter Names
 order: 35
 ---
 ## Navigation

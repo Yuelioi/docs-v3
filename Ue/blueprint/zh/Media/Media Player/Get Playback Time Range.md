@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Time Range
+title: Get Playback Time Range
 order: 16
 ---
 ## Navigation

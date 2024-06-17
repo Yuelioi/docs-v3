@@ -1,5 +1,5 @@
 ---
-display_name: Set Observation Vector
+title: Set Observation Vector
 order: 267
 ---
 ## Navigation

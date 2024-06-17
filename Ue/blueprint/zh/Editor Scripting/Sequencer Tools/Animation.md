@@ -1,5 +1,5 @@
 ---
-display_name: Animation
+title: Animation
 order: 1
 ---
 ## Navigation

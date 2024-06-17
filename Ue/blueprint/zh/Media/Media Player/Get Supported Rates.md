@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Rates
+title: Get Supported Rates
 order: 22
 ---
 ## Navigation

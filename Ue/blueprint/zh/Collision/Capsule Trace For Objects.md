@@ -1,5 +1,5 @@
 ---
-display_name: Capsule Trace For Objects
+title: Capsule Trace For Objects
 order: 13
 ---
 ## Navigation

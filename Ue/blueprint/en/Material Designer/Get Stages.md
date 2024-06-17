@@ -1,5 +1,5 @@
 ---
-display_name: Get Stages
+title: Get Stages
 order: 135
 ---
 ## Navigation

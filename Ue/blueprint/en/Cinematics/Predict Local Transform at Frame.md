@@ -1,5 +1,5 @@
 ---
-display_name: Predict Local Transform at Frame
+title: Predict Local Transform at Frame
 order: 10
 ---
 ## Navigation

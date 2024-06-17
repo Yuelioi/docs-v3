@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertical Entry Spacing
+title: Get Vertical Entry Spacing
 order: 12
 ---
 ## Navigation

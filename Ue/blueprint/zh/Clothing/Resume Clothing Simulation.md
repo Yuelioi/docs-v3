@@ -1,5 +1,5 @@
 ---
-display_name: Resume Clothing Simulation
+title: Resume Clothing Simulation
 order: 8
 ---
 ## Navigation

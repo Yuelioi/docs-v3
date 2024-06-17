@@ -1,5 +1,5 @@
 ---
-display_name: Update Face Mesh from Blend Shapes
+title: Update Face Mesh from Blend Shapes
 order: 10
 ---
 ## Navigation

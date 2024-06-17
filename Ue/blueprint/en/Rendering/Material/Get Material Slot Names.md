@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Slot Names
+title: Get Material Slot Names
 order: 10
 ---
 ## Navigation

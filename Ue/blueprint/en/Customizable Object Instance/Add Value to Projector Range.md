@@ -1,5 +1,5 @@
 ---
-display_name: Add Value to Projector Range
+title: Add Value to Projector Range
 order: 3
 ---
 ## Navigation

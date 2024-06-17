@@ -1,5 +1,5 @@
 ---
-display_name: Montage Set Position
+title: Montage Set Position
 order: 24
 ---
 ## Navigation

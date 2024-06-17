@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Bundle Id
+title: Get Game Bundle Id
 order: 19
 ---
 ## Navigation

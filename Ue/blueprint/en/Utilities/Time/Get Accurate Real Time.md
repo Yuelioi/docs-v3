@@ -1,5 +1,5 @@
 ---
-display_name: Get Accurate Real Time
+title: Get Accurate Real Time
 order: 5
 ---
 ## Navigation

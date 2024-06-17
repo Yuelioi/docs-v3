@@ -1,5 +1,5 @@
 ---
-display_name: Check Is with Editor
+title: Check Is with Editor
 order: 1
 ---
 ## Navigation

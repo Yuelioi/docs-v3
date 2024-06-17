@@ -1,5 +1,5 @@
 ---
-display_name: Request Open Media Source
+title: Request Open Media Source
 order: 9
 ---
 ## Navigation

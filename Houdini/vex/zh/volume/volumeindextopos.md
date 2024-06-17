@@ -1,5 +1,5 @@
 ---
-display_name: volumeindextopos
+title: volumeindextopos
 order: 10
 ---
 `vector  volumeindextopos(<geometry>geometry, int primnum, vector voxel)`

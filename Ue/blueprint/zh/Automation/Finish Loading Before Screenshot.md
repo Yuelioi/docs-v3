@@ -1,5 +1,5 @@
 ---
-display_name: Finish Loading Before Screenshot
+title: Finish Loading Before Screenshot
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: typeid
+title: typeid
 order: 4
 ---
 | Since | 20.0 |

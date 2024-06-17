@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Expression in Function
+title: Create Material Expression in Function
 order: 4
 ---
 ## Navigation

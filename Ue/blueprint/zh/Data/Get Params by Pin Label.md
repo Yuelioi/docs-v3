@@ -1,5 +1,5 @@
 ---
-display_name: Get Params by Pin Label
+title: Get Params by Pin Label
 order: 6
 ---
 ## Navigation

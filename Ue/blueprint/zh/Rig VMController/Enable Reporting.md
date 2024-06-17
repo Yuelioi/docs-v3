@@ -1,5 +1,5 @@
 ---
-display_name: Enable Reporting
+title: Enable Reporting
 order: 46
 ---
 ## Navigation

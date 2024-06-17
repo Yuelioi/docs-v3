@@ -1,5 +1,5 @@
 ---
-display_name: Set as Current World Solver
+title: Set as Current World Solver
 order: 30
 ---
 ## Navigation

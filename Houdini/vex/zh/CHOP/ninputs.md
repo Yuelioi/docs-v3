@@ -1,5 +1,5 @@
 ---
-display_name: ninputs
+title: ninputs
 order: 33
 ---
 | Context(s) | [chop](../contexts/chop.html) |

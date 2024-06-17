@@ -1,5 +1,5 @@
 ---
-display_name: Get MultiUserSubsystem
+title: Get MultiUserSubsystem
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Distance Max
+title: Set Light Distance Max
 order: 6
 ---
 ## Navigation

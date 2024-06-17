@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Audio Bus from Submix
+title: Unregister Audio Bus from Submix
 order: 5
 ---
 ## Navigation

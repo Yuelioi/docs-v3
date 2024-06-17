@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Language
+title: Set Current Language
 order: 18
 ---
 ## Navigation

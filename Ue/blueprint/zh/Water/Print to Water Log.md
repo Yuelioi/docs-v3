@@ -1,5 +1,5 @@
 ---
-display_name: Print to Water Log
+title: Print to Water Log
 order: 28
 ---
 ## Navigation

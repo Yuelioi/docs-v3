@@ -1,5 +1,5 @@
 ---
-display_name: Unload Primary Asset
+title: Unload Primary Asset
 order: 24
 ---
 ## Navigation

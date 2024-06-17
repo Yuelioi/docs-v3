@@ -1,5 +1,5 @@
 ---
-display_name: Apply Radial Impulse
+title: Apply Radial Impulse
 order: 1
 ---
 ## Navigation

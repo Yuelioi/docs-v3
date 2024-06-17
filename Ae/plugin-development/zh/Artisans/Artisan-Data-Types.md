@@ -1,5 +1,5 @@
 ---
-display_name: Artisan-Data-Types
+title: Artisan-Data-Types
 order: 1
 ---
 

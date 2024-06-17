@@ -1,5 +1,5 @@
 ---
-display_name: ProjectPoint
+title: ProjectPoint
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Resize XRCamera
+title: Resize XRCamera
 order: 14
 ---
 ## Navigation

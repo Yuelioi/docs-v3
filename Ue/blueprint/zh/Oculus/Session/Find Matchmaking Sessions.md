@@ -1,5 +1,5 @@
 ---
-display_name: Find Matchmaking Sessions
+title: Find Matchmaking Sessions
 order: 2
 ---
 ## Navigation

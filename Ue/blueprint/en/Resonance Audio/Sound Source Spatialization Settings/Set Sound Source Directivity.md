@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound Source Directivity
+title: Set Sound Source Directivity
 order: 1
 ---
 ## Navigation

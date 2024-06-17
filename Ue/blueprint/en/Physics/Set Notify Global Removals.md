@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Global Removals
+title: Set Notify Global Removals
 order: 45
 ---
 ## Navigation

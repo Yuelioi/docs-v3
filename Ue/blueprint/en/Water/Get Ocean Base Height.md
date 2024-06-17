@@ -1,5 +1,5 @@
 ---
-display_name: Get Ocean Base Height
+title: Get Ocean Base Height
 order: 5
 ---
 ## Navigation

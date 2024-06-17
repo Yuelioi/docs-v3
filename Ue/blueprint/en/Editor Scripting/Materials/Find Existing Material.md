@@ -1,5 +1,5 @@
 ---
-display_name: Find Existing Material
+title: Find Existing Material
 order: 2
 ---
 ## Navigation

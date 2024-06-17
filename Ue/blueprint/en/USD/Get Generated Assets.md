@@ -1,5 +1,5 @@
 ---
-display_name: Get Generated Assets
+title: Get Generated Assets
 order: 8
 ---
 ## Navigation

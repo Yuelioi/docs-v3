@@ -1,5 +1,5 @@
 ---
-display_name: Get Exclusion Volumes
+title: Get Exclusion Volumes
 order: 3
 ---
 ## Navigation

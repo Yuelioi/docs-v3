@@ -1,5 +1,5 @@
 ---
-display_name: Set Quat Array Metadata
+title: Set Quat Array Metadata
 order: 158
 ---
 ## Navigation

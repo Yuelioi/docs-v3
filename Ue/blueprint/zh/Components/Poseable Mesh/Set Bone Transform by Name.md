@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Transform by Name
+title: Set Bone Transform by Name
 order: 10
 ---
 ## Navigation

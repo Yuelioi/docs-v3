@@ -1,5 +1,5 @@
 ---
-display_name: Get Ability System Component from Actor Info
+title: Get Ability System Component from Actor Info
 order: 35
 ---
 ## Navigation

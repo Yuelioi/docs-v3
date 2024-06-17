@@ -1,5 +1,5 @@
 ---
-display_name: String To Color
+title: String To Color
 order: 47
 ---
 ## Navigation

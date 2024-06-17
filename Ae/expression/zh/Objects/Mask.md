@@ -1,5 +1,5 @@
 ---
-display_name: Mask
+title: Mask
 order: 9
 ---
 

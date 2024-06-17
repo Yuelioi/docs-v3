@@ -1,5 +1,5 @@
 ---
-display_name: Set Mode (Recording into Level Sequence)
+title: Set Mode (Recording into Level Sequence)
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: svddecomp
+title: svddecomp
 order: 83
 ---
 | Since | 18.0 |

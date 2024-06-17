@@ -1,5 +1,5 @@
 ---
-display_name: Add String Attribute
+title: Add String Attribute
 order: 9
 ---
 ## Navigation

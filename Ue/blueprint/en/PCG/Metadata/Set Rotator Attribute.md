@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotator Attribute
+title: Set Rotator Attribute
 order: 89
 ---
 ## Navigation

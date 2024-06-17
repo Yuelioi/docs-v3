@@ -1,5 +1,5 @@
 ---
-display_name: Set Only Owner See
+title: Set Only Owner See
 order: 66
 ---
 ## Navigation

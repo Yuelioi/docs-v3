@@ -1,5 +1,5 @@
 ---
-display_name: Continue
+title: Continue
 order: 5
 ---
 ## Navigation

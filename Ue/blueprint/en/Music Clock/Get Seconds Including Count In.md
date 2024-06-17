@@ -1,5 +1,5 @@
 ---
-display_name: Get Seconds Including Count In
+title: Get Seconds Including Count In
 order: 28
 ---
 ## Navigation

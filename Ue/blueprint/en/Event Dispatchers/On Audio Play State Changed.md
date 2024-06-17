@@ -1,5 +1,5 @@
 ---
-display_name: On Audio Play State Changed
+title: On Audio Play State Changed
 order: 50
 ---
 ## Navigation

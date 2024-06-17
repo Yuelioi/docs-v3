@@ -1,5 +1,5 @@
 ---
-display_name: Get Ies Brightness Scale
+title: Get Ies Brightness Scale
 order: 33
 ---
 ## Navigation

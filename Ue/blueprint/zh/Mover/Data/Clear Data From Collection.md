@@ -1,5 +1,5 @@
 ---
-display_name: Clear Data From Collection
+title: Clear Data From Collection
 order: 2
 ---
 ## Navigation

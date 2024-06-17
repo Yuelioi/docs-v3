@@ -1,5 +1,5 @@
 ---
-display_name: Get Unit Structs for Template
+title: Get Unit Structs for Template
 order: 59
 ---
 ## Navigation

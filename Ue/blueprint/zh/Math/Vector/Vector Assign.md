@@ -1,5 +1,5 @@
 ---
-display_name: Vector Assign
+title: Vector Assign
 order: 58
 ---
 ## Navigation

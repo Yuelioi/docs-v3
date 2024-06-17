@@ -1,5 +1,5 @@
 ---
-display_name: Set Linked Carousel
+title: Set Linked Carousel
 order: 1
 ---
 ## Navigation

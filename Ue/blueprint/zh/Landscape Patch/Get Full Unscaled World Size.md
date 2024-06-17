@@ -1,5 +1,5 @@
 ---
-display_name: Get Full Unscaled World Size
+title: Get Full Unscaled World Size
 order: 7
 ---
 ## Navigation

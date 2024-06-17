@@ -1,5 +1,5 @@
 ---
-display_name: Async Editor Open Map and Focus Actor
+title: Async Editor Open Map and Focus Actor
 order: 1
 ---
 ## Navigation

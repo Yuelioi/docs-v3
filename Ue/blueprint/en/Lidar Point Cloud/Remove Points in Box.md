@@ -1,5 +1,5 @@
 ---
-display_name: Remove Points in Box
+title: Remove Points in Box
 order: 61
 ---
 ## Navigation

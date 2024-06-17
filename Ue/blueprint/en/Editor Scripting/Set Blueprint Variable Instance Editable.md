@@ -1,5 +1,5 @@
 ---
-display_name: Set Blueprint Variable Instance Editable
+title: Set Blueprint Variable Instance Editable
 order: 6
 ---
 ## Navigation

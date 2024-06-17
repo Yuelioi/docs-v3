@@ -1,5 +1,5 @@
 ---
-display_name: Start Analyzing
+title: Start Analyzing
 order: 11
 ---
 ## Navigation

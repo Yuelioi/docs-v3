@@ -1,5 +1,5 @@
 ---
-display_name: Get Slate
+title: Get Slate
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Parameter Selected Option
+title: Get Color Parameter Selected Option
 order: 18
 ---
 ## Navigation

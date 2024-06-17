@@ -1,5 +1,5 @@
 ---
-display_name: 置换图
+title: 置换图
 order: 19
 ---
 

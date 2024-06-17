@@ -1,5 +1,5 @@
 ---
-display_name: Create New Tile Map
+title: Create New Tile Map
 order: 3
 ---
 ## Navigation

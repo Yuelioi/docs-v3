@@ -1,5 +1,5 @@
 ---
-display_name: Get Enum Observation
+title: Get Enum Observation
 order: 62
 ---
 ## Navigation

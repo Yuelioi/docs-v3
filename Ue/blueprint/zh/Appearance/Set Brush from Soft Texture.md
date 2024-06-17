@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Soft Texture
+title: Set Brush from Soft Texture
 order: 28
 ---
 ## Navigation

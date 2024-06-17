@@ -1,5 +1,5 @@
 ---
-display_name: Set Absolute Position at Spline Point
+title: Set Absolute Position at Spline Point
 order: 9
 ---
 ## Navigation

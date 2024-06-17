@@ -1,5 +1,5 @@
 ---
-display_name: Set Redraw Time
+title: Set Redraw Time
 order: 46
 ---
 ## Navigation

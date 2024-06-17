@@ -1,5 +1,5 @@
 ---
-display_name: Set Being Edited
+title: Set Being Edited
 order: 204
 ---
 ## Navigation

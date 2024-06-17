@@ -1,5 +1,5 @@
 ---
-display_name: Get Functions
+title: Get Functions
 order: 12
 ---
 ## Navigation

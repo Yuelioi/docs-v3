@@ -1,5 +1,5 @@
 ---
-display_name: SetMediaOption (string)
+title: SetMediaOption (string)
 order: 5
 ---
 ## Navigation

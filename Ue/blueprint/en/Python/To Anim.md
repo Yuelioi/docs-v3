@@ -1,5 +1,5 @@
 ---
-display_name: To Anim
+title: To Anim
 order: 59
 ---
 ## Navigation

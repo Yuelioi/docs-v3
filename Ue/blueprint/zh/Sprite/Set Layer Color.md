@@ -1,5 +1,5 @@
 ---
-display_name: Set Layer Color
+title: Set Layer Color
 order: 31
 ---
 ## Navigation

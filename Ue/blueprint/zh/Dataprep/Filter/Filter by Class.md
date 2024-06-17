@@ -1,5 +1,5 @@
 ---
-display_name: Filter by Class
+title: Filter by Class
 order: 1
 ---
 ## Navigation

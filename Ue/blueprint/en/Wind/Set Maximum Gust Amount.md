@@ -1,5 +1,5 @@
 ---
-display_name: Set Maximum Gust Amount
+title: Set Maximum Gust Amount
 order: 1
 ---
 ## Navigation

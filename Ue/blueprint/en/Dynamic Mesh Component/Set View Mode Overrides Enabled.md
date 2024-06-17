@@ -1,5 +1,5 @@
 ---
-display_name: Set View Mode Overrides Enabled
+title: Set View Mode Overrides Enabled
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Match in Progress
+title: Is Match in Progress
 order: 8
 ---
 ## Navigation

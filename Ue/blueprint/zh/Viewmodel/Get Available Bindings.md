@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Bindings
+title: Get Available Bindings
 order: 10
 ---
 ## Navigation

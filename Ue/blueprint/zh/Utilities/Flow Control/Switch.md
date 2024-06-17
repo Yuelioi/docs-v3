@@ -1,5 +1,5 @@
 ---
-display_name: Switch
+title: Switch
 order: 8
 ---
 ## Navigation

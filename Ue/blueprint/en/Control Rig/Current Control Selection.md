@@ -1,5 +1,5 @@
 ---
-display_name: Current Control Selection
+title: Current Control Selection
 order: 4
 ---
 ## Navigation

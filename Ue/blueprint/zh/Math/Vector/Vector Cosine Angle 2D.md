@@ -1,5 +1,5 @@
 ---
-display_name: Vector Cosine Angle 2D
+title: Vector Cosine Angle 2D
 order: 67
 ---
 ## Navigation

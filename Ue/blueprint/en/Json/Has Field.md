@@ -1,5 +1,5 @@
 ---
-display_name: Has Field
+title: Has Field
 order: 5
 ---
 ## Navigation

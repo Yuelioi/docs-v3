@@ -1,5 +1,5 @@
 ---
-display_name: Get Rig Element Key Array Metadata
+title: Get Rig Element Key Array Metadata
 order: 73
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Sign (Integer)
+title: Sign (Integer)
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 减少交错闪烁
+title: 减少交错闪烁
 order: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Reverb Effect
+title: Get Current Reverb Effect
 order: 13
 ---
 ## Navigation

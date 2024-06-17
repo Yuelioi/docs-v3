@@ -1,5 +1,5 @@
 ---
-display_name: LoadAssetsWithNodeFilter
+title: LoadAssetsWithNodeFilter
 order: 10
 ---
 ## Navigation

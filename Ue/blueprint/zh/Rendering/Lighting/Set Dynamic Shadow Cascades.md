@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Shadow Cascades
+title: Set Dynamic Shadow Cascades
 order: 11
 ---
 ## Navigation

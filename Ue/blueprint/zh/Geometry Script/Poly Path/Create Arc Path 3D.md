@@ -1,5 +1,5 @@
 ---
-display_name: Create Arc Path 3D
+title: Create Arc Path 3D
 order: 9
 ---
 ## Navigation

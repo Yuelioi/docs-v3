@@ -1,5 +1,5 @@
 ---
-display_name: GetSourceObjectNonInstanced
+title: GetSourceObjectNonInstanced
 order: 50
 ---
 ## Navigation

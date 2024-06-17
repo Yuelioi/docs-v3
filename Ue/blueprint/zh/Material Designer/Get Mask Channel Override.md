@@ -1,5 +1,5 @@
 ---
-display_name: Get Mask Channel Override
+title: Get Mask Channel Override
 order: 90
 ---
 ## Navigation

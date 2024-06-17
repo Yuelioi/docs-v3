@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Channel Onsets Between Times
+title: Get Normalized Channel Onsets Between Times
 order: 8
 ---
 ## Navigation

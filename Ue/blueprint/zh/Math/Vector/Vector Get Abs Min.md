@@ -1,5 +1,5 @@
 ---
-display_name: Vector Get Abs Min
+title: Vector Get Abs Min
 order: 71
 ---
 ## Navigation

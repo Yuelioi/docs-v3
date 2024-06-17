@@ -1,5 +1,5 @@
 ---
-display_name: GetHasPolyGroups
+title: GetHasPolyGroups
 order: 44
 ---
 ## Navigation

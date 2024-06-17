@@ -1,5 +1,5 @@
 ---
-display_name: Extract Closest Physics Object Results
+title: Extract Closest Physics Object Results
 order: 2
 ---
 ## Navigation

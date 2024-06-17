@@ -1,5 +1,5 @@
 ---
-display_name: Update Console Variable Enable State
+title: Update Console Variable Enable State
 order: 4
 ---
 ## Navigation

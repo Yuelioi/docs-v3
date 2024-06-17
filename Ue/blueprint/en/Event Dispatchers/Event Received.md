@@ -1,5 +1,5 @@
 ---
-display_name: Event Received
+title: Event Received
 order: 26
 ---
 ## Navigation

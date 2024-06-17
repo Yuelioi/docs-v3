@@ -1,5 +1,5 @@
 ---
-display_name: Get Effector Count
+title: Get Effector Count
 order: 11
 ---
 ## Navigation

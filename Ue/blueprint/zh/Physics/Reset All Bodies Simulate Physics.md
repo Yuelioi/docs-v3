@@ -1,5 +1,5 @@
 ---
-display_name: Reset All Bodies Simulate Physics
+title: Reset All Bodies Simulate Physics
 order: 8
 ---
 ## Navigation

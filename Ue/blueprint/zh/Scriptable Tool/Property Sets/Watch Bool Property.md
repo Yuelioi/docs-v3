@@ -1,5 +1,5 @@
 ---
-display_name: Watch Bool Property
+title: Watch Bool Property
 order: 7
 ---
 ## Navigation

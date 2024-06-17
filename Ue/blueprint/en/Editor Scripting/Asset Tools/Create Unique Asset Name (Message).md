@@ -1,5 +1,5 @@
 ---
-display_name: Create Unique Asset Name (Message)
+title: Create Unique Asset Name (Message)
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Bloom to Render Target
+title: Bloom to Render Target
 order: 1
 ---
 ## Navigation

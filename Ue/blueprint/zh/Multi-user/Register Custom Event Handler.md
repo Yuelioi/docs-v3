@@ -1,5 +1,5 @@
 ---
-display_name: Register Custom Event Handler
+title: Register Custom Event Handler
 order: 21
 ---
 ## Navigation

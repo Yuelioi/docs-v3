@@ -1,5 +1,5 @@
 ---
-display_name: Is Connecting
+title: Is Connecting
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Start AR Session
+title: Start AR Session
 order: 9
 ---
 ## Navigation

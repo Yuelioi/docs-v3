@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Excluded
+title: Get Bone Excluded
 order: 10
 ---
 ## Navigation

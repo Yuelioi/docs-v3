@@ -1,5 +1,5 @@
 ---
-display_name: Set Column Span
+title: Set Column Span
 order: 1
 ---
 ## Navigation

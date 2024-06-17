@@ -1,5 +1,5 @@
 ---
-display_name: Set Build Info
+title: Set Build Info
 order: 23
 ---
 ## Navigation

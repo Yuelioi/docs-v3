@@ -1,5 +1,5 @@
 ---
-display_name: Add Vertices to Mesh
+title: Add Vertices to Mesh
 order: 5
 ---
 ## Navigation

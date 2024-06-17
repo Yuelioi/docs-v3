@@ -1,5 +1,5 @@
 ---
-display_name: Scan Paths Synchronous (Message)
+title: Scan Paths Synchronous (Message)
 order: 46
 ---
 ## Navigation

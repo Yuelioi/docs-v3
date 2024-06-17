@@ -1,5 +1,5 @@
 ---
-display_name: Load from File
+title: Load from File
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Assets
+title: Get Num Assets
 order: 13
 ---
 ## Navigation

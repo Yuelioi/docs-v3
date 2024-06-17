@@ -1,5 +1,5 @@
 ---
-display_name: Set Barn Door Length
+title: Set Barn Door Length
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Rate
+title: Get Display Rate
 order: 1
 ---
 ## Navigation

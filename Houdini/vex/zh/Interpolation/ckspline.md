@@ -1,5 +1,5 @@
 ---
-display_name: ckspline
+title: ckspline
 order: 1
 ---
 To specify the curve using uniformly spaced value keys, use [cspline](cspline.html "Samples a Catmull-Rom (Cardinal) spline defined by uniformly spaced keys.").

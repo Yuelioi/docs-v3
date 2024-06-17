@@ -1,5 +1,5 @@
 ---
-display_name: Get All Vertex IDs
+title: Get All Vertex IDs
 order: 6
 ---
 ## Navigation

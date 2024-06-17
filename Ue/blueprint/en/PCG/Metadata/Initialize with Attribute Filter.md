@@ -1,5 +1,5 @@
 ---
-display_name: Initialize with Attribute Filter
+title: Initialize with Attribute Filter
 order: 65
 ---
 ## Navigation

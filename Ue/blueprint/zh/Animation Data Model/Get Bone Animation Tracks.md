@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Animation Tracks
+title: Get Bone Animation Tracks
 order: 4
 ---
 ## Navigation

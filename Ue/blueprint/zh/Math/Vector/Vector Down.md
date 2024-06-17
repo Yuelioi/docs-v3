@@ -1,5 +1,5 @@
 ---
-display_name: Vector Down
+title: Vector Down
 order: 68
 ---
 ## Navigation

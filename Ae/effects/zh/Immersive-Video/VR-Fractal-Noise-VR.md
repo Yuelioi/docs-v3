@@ -1,5 +1,5 @@
 ---
-display_name: VR分形杂色
+title: VR分形杂色
 order: 7
 ---
 

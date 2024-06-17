@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Parameter Names
+title: Get Texture Parameter Names
 order: 38
 ---
 ## Navigation

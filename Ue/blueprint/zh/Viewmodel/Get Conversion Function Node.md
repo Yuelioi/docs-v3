@@ -1,5 +1,5 @@
 ---
-display_name: Get Conversion Function Node
+title: Get Conversion Function Node
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: inpointgroup
+title: inpointgroup
 order: 5
 ---
 `int  inpointgroup(<geometry>geometry, string groupname, int pointnum)`

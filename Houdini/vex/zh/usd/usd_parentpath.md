@@ -1,5 +1,5 @@
 ---
-display_name: usd_parentpath
+title: usd_parentpath
 order: 97
 ---
 | Since | 17.5 |

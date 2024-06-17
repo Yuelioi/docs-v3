@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Control Value
+title: Get Remote Control Value
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Chaos Wheeled Vehicle Movement
+title: Chaos Wheeled Vehicle Movement
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Version Name
+title: Get Plugin Version Name
 order: 11
 ---
 ## Navigation

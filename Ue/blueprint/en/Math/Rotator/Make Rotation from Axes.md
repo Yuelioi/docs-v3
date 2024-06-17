@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotation from Axes
+title: Make Rotation from Axes
 order: 21
 ---
 ## Navigation

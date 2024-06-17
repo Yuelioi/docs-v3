@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Event)
+title: Get Time (Event)
 order: 60
 ---
 ## Navigation

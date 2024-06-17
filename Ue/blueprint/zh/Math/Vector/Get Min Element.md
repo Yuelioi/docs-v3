@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Element
+title: Get Min Element
 order: 21
 ---
 ## Navigation

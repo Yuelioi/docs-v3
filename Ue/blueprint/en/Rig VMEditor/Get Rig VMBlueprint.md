@@ -1,5 +1,5 @@
 ---
-display_name: Get Rig VMBlueprint
+title: Get Rig VMBlueprint
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Smart Object Enabled
+title: Set Smart Object Enabled
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Pawn Prediction Event
+title: Request Pawn Prediction Event
 order: 21
 ---
 ## Navigation

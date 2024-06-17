@@ -1,5 +1,5 @@
 ---
-display_name: Get Hand Joint Position
+title: Get Hand Joint Position
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Size in Viewport
+title: Set Desired Size in Viewport
 order: 7
 ---
 ## Navigation

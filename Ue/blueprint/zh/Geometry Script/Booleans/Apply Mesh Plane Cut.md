@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Plane Cut
+title: Apply Mesh Plane Cut
 order: 3
 ---
 ## Navigation

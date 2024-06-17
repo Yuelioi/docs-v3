@@ -1,5 +1,5 @@
 ---
-display_name: Is Currently Switching
+title: Is Currently Switching
 order: 7
 ---
 ## Navigation

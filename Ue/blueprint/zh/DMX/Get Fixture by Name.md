@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture by Name
+title: Get Fixture by Name
 order: 49
 ---
 ## Navigation

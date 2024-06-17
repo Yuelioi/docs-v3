@@ -1,5 +1,5 @@
 ---
-display_name: On Outro Event
+title: On Outro Event
 order: 6
 ---
 ## Navigation

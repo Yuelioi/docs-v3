@@ -1,5 +1,5 @@
 ---
-display_name: Set Owner Player
+title: Set Owner Player
 order: 44
 ---
 ## Navigation

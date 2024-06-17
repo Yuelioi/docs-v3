@@ -1,5 +1,5 @@
 ---
-display_name: Is Child Of
+title: Is Child Of
 order: 7
 ---
 ## Navigation

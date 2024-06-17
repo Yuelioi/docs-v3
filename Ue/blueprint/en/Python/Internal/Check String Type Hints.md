@@ -1,5 +1,5 @@
 ---
-display_name: Check String Type Hints
+title: Check String Type Hints
 order: 20
 ---
 ## Navigation

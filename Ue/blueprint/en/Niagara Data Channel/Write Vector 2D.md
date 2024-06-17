@@ -1,5 +1,5 @@
 ---
-display_name: Write Vector 2D
+title: Write Vector 2D
 order: 30
 ---
 ## Navigation

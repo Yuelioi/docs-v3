@@ -1,5 +1,5 @@
 ---
-display_name: Remove Level Variant Sets
+title: Remove Level Variant Sets
 order: 49
 ---
 ## Navigation

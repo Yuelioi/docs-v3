@@ -1,5 +1,5 @@
 ---
-display_name: Vector Bounded to Cube
+title: Vector Bounded to Cube
 order: 61
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Rename Graph
+title: Rename Graph
 order: 40
 ---
 ## Navigation

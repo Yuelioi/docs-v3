@@ -1,5 +1,5 @@
 ---
-display_name: ComponentCollection 属性对象集合
+title: ComponentCollection 属性对象集合
 order: 1
 ---
 

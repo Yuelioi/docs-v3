@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Name
+title: Set Display Name
 order: 8
 ---
 ## Navigation

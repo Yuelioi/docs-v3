@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Client Ids
+title: Get Remote Client Ids
 order: 11
 ---
 ## Navigation

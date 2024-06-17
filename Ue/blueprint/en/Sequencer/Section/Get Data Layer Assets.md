@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Assets
+title: Get Data Layer Assets
 order: 24
 ---
 ## Navigation

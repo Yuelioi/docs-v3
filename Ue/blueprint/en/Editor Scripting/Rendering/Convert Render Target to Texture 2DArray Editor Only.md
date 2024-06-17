@@ -1,5 +1,5 @@
 ---
-display_name: Convert Render Target to Texture 2DArray Editor Only
+title: Convert Render Target to Texture 2DArray Editor Only
 order: 1
 ---
 ## Navigation

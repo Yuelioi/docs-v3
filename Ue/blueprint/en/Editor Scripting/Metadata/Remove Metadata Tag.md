@@ -1,5 +1,5 @@
 ---
-display_name: Remove Metadata Tag
+title: Remove Metadata Tag
 order: 3
 ---
 ## Navigation

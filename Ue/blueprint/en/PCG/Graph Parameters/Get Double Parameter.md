@@ -1,5 +1,5 @@
 ---
-display_name: Get Double Parameter
+title: Get Double Parameter
 order: 4
 ---
 ## Navigation

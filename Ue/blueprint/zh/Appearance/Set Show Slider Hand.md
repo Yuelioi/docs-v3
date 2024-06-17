@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Slider Hand
+title: Set Show Slider Hand
 order: 75
 ---
 ## Navigation

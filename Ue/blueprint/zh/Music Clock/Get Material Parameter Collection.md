@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Parameter Collection
+title: Get Material Parameter Collection
 order: 27
 ---
 ## Navigation

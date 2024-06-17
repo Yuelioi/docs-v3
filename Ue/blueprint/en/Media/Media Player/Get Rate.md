@@ -1,5 +1,5 @@
 ---
-display_name: Get Rate
+title: Get Rate
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Layout
+title: Set Layout
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Condition Group
+title: Remove Condition Group
 order: 93
 ---
 ## Navigation

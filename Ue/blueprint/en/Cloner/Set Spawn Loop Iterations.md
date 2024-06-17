@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawn Loop Iterations
+title: Set Spawn Loop Iterations
 order: 58
 ---
 ## Navigation

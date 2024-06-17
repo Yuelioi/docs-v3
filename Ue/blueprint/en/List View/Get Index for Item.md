@@ -1,5 +1,5 @@
 ---
-display_name: Get Index for Item
+title: Get Index for Item
 order: 6
 ---
 ## Navigation

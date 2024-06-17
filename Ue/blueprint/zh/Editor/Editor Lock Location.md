@@ -1,5 +1,5 @@
 ---
-display_name: Editor Lock Location
+title: Editor Lock Location
 order: 1
 ---
 ## Navigation

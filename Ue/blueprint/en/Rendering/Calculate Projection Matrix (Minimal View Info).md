@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Projection Matrix (Minimal View Info)
+title: Calculate Projection Matrix (Minimal View Info)
 order: 4
 ---
 ## Navigation

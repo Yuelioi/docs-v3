@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Removals
+title: Set Notify Removals
 order: 46
 ---
 ## Navigation

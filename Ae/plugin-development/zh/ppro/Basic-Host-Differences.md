@@ -1,5 +1,5 @@
 ---
-display_name: Basic-Host-Differences
+title: Basic-Host-Differences
 order: 1
 ---
 

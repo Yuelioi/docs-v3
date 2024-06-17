@@ -1,5 +1,5 @@
 ---
-display_name: Set Click Method
+title: Set Click Method
 order: 9
 ---
 ## Navigation

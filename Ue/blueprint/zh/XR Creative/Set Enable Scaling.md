@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Scaling
+title: Set Enable Scaling
 order: 28
 ---
 ## Navigation

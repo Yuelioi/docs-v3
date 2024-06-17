@@ -1,5 +1,5 @@
 ---
-display_name: Less ( )
+title: Less ( )
 order: 6
 ---
 ## Navigation

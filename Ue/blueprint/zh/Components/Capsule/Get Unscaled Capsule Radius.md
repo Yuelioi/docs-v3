@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Capsule Radius
+title: Get Unscaled Capsule Radius
 order: 9
 ---
 ## Navigation

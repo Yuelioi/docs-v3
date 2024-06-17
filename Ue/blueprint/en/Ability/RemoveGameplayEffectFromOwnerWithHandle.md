@@ -1,5 +1,5 @@
 ---
-display_name: RemoveGameplayEffectFromOwnerWithHandle
+title: RemoveGameplayEffectFromOwnerWithHandle
 order: 61
 ---
 ## Navigation

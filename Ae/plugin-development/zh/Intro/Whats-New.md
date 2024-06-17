@@ -1,5 +1,5 @@
 ---
-display_name: What’s-New
+title: What’s-New
 order: 16
 ---
 

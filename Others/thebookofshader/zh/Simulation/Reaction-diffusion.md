@@ -1,5 +1,5 @@
 ---
-display_name: Reaction-diffusion
+title: Reaction-diffusion
 order: 3
 ---
 

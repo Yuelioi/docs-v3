@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Blur
+title: Get Motion Blur
 order: 47
 ---
 ## Navigation

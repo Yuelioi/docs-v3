@@ -1,5 +1,5 @@
 ---
-display_name: OnPawnControllerChanged
+title: OnPawnControllerChanged
 order: 195
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: volumesamplev
+title: volumesamplev
 order: 19
 ---
 `vector  volumesamplev(<geometry>geometry, int primnum, vector pos)`

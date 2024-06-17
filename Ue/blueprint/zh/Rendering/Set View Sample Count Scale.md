@@ -1,5 +1,5 @@
 ---
-display_name: Set View Sample Count Scale
+title: Set View Sample Count Scale
 order: 94
 ---
 ## Navigation

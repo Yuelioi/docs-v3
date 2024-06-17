@@ -1,5 +1,5 @@
 ---
-display_name: Is Restricted Path
+title: Is Restricted Path
 order: 57
 ---
 ## Navigation

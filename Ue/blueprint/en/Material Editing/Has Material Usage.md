@@ -1,5 +1,5 @@
 ---
-display_name: Has Material Usage
+title: Has Material Usage
 order: 43
 ---
 ## Navigation

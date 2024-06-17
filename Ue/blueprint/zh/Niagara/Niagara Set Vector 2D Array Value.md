@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Vector 2D Array Value
+title: Niagara Set Vector 2D Array Value
 order: 71
 ---
 ## Navigation

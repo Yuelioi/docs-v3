@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Level Modules
+title: Get Lod Level Modules
 order: 50
 ---
 ## Navigation

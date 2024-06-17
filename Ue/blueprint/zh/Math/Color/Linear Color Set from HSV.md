@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set from HSV
+title: Linear Color Set from HSV
 order: 17
 ---
 ## Navigation

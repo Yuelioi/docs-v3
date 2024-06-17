@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Name
+title: Set Mesh Name
 order: 2
 ---
 ## Navigation

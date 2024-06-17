@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Parameter Default Value
+title: Get Projector Parameter Default Value
 order: 17
 ---
 ## Navigation

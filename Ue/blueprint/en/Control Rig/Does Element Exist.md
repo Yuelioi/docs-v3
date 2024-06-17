@@ -1,5 +1,5 @@
 ---
-display_name: Does Element Exist
+title: Does Element Exist
 order: 5
 ---
 ## Navigation

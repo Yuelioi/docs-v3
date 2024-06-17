@@ -1,5 +1,5 @@
 ---
-display_name: Virtual Scouting Settings
+title: Virtual Scouting Settings
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get AIPerception Component
+title: Get AIPerception Component
 order: 2
 ---
 ## Navigation

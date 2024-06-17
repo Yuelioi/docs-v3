@@ -1,5 +1,5 @@
 ---
-display_name: removepoint
+title: removepoint
 order: 32
 ---
 `int  removepoint(int geohandle, int point_number)`

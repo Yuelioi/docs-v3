@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Info String
+title: Get Mesh Info String
 order: 23
 ---
 ## Navigation

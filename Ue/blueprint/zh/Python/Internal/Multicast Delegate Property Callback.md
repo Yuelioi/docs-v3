@@ -1,5 +1,5 @@
 ---
-display_name: Multicast Delegate Property Callback
+title: Multicast Delegate Property Callback
 order: 46
 ---
 ## Navigation

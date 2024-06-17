@@ -1,5 +1,5 @@
 ---
-display_name: Transform Scalar Absolute to Local
+title: Transform Scalar Absolute to Local
 order: 12
 ---
 ## Navigation

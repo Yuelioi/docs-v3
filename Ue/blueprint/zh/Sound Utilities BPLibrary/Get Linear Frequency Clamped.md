@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Frequency Clamped
+title: Get Linear Frequency Clamped
 order: 8
 ---
 ## Navigation

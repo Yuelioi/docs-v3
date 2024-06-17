@@ -1,5 +1,5 @@
 ---
-display_name: Get Datasmith User Data Value for Key
+title: Get Datasmith User Data Value for Key
 order: 2
 ---
 ## Navigation

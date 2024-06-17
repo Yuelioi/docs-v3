@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame Rate (Message)
+title: Set Frame Rate (Message)
 order: 19
 ---
 ## Navigation

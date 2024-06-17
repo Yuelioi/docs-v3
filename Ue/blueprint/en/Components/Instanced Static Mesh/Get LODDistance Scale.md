@@ -1,5 +1,5 @@
 ---
-display_name: Get LODDistance Scale
+title: Get LODDistance Scale
 order: 11
 ---
 ## Navigation

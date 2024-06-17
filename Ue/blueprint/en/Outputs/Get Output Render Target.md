@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Render Target
+title: Get Output Render Target
 order: 2
 ---
 ## Navigation

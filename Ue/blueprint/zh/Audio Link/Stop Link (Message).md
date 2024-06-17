@@ -1,5 +1,5 @@
 ---
-display_name: Stop Link (Message)
+title: Stop Link (Message)
 order: 7
 ---
 ## Navigation

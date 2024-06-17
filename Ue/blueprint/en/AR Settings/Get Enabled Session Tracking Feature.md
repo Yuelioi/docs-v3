@@ -1,5 +1,5 @@
 ---
-display_name: Get Enabled Session Tracking Feature
+title: Get Enabled Session Tracking Feature
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: gxnoise
+title: gxnoise
 order: 11
 ---
 `float|vector|vector2 gxnoise(vector2 xy)`

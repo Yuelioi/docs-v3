@@ -1,5 +1,5 @@
 ---
-display_name: refract
+title: refract
 order: 63
 ---
 `vector  refract(vector direction, vector normal, float index)`

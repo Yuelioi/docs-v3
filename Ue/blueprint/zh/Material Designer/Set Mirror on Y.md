@@ -1,5 +1,5 @@
 ---
-display_name: Set Mirror on Y
+title: Set Mirror on Y
 order: 222
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Velocity from Sync State
+title: Get Velocity from Sync State
 order: 27
 ---
 ## Navigation

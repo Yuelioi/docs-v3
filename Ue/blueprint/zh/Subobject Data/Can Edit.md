@@ -1,5 +1,5 @@
 ---
-display_name: Can Edit
+title: Can Edit
 order: 4
 ---
 ## Navigation

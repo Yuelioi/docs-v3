@@ -1,5 +1,5 @@
 ---
-display_name: Enable Debug Camera
+title: Enable Debug Camera
 order: 5
 ---
 ## Navigation

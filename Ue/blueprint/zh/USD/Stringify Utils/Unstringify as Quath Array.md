@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Quath Array
+title: Unstringify as Quath Array
 order: 113
 ---
 ## Navigation

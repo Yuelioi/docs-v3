@@ -1,5 +1,5 @@
 ---
-display_name: Set Manual Camera Fade
+title: Set Manual Camera Fade
 order: 1
 ---
 ## Navigation

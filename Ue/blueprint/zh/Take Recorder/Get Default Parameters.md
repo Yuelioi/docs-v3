@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Parameters
+title: Get Default Parameters
 order: 8
 ---
 ## Navigation

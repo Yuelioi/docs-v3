@@ -1,5 +1,5 @@
 ---
-display_name: Capsule Overlap Components
+title: Capsule Overlap Components
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Match Ended
+title: Has Match Ended
 order: 46
 ---
 ## Navigation

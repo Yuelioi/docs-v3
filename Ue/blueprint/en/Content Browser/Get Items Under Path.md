@@ -1,5 +1,5 @@
 ---
-display_name: Get Items Under Path
+title: Get Items Under Path
 order: 11
 ---
 ## Navigation

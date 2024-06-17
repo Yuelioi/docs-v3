@@ -1,5 +1,5 @@
 ---
-display_name: Set Filter Tags and Values
+title: Set Filter Tags and Values
 order: 50
 ---
 ## Navigation

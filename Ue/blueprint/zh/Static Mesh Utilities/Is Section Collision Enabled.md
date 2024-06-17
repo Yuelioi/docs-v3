@@ -1,5 +1,5 @@
 ---
-display_name: Is Section Collision Enabled
+title: Is Section Collision Enabled
 order: 24
 ---
 ## Navigation

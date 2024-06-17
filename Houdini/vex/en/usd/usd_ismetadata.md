@@ -1,5 +1,5 @@
 ---
-display_name: usd_ismetadata
+title: usd_ismetadata
 order: 75
 ---
 | Since | 18.0 |

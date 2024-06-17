@@ -1,5 +1,5 @@
 ---
-display_name: Num 7
+title: Num 7
 order: 76
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Close Level Sequence
+title: Close Level Sequence
 order: 5
 ---
 ## Navigation

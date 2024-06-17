@@ -1,5 +1,5 @@
 ---
-display_name: Get Merged Asset User Data
+title: Get Merged Asset User Data
 order: 27
 ---
 ## Navigation

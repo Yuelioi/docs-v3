@@ -1,5 +1,5 @@
 ---
-display_name: Physics Handle
+title: Physics Handle
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Horizontal Alignment
+title: Set Horizontal Alignment
 order: 3
 ---
 ## Navigation

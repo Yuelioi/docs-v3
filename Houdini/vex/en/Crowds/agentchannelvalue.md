@@ -1,5 +1,5 @@
 ---
-display_name: agentchannelvalue
+title: agentchannelvalue
 order: 4
 ---
 | Since | 18.0 |

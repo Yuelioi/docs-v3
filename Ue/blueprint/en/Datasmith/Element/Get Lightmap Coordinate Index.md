@@ -1,5 +1,5 @@
 ---
-display_name: Get Lightmap Coordinate Index
+title: Get Lightmap Coordinate Index
 order: 39
 ---
 ## Navigation

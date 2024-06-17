@@ -1,5 +1,5 @@
 ---
-display_name: Set Image Plate
+title: Set Image Plate
 order: 2
 ---
 ## Navigation

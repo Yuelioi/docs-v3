@@ -1,5 +1,5 @@
 ---
-display_name: Remove Vector 2DParameter
+title: Remove Vector 2DParameter
 order: 66
 ---
 ## Navigation

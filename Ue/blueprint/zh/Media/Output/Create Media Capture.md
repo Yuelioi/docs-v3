@@ -1,5 +1,5 @@
 ---
-display_name: Create Media Capture
+title: Create Media Capture
 order: 3
 ---
 ## Navigation

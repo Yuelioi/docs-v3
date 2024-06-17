@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Distribution Const Values
+title: Get Vector Distribution Const Values
 order: 110
 ---
 ## Navigation

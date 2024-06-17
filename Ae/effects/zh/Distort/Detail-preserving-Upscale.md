@@ -1,5 +1,5 @@
 ---
-display_name: 保留细节放大
+title: 保留细节放大
 order: 18
 ---
 

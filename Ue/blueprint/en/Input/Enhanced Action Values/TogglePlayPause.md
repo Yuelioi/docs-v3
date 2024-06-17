@@ -1,5 +1,5 @@
 ---
-display_name: TogglePlayPause
+title: TogglePlayPause
 order: 115
 ---
 ## Navigation

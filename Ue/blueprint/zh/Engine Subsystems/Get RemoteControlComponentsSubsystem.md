@@ -1,5 +1,5 @@
 ---
-display_name: Get RemoteControlComponentsSubsystem
+title: Get RemoteControlComponentsSubsystem
 order: 39
 ---
 ## Navigation

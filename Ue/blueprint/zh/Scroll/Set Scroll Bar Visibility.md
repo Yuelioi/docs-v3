@@ -1,5 +1,5 @@
 ---
-display_name: Set Scroll Bar Visibility
+title: Set Scroll Bar Visibility
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Node Selection
+title: Clear Node Selection
 order: 41
 ---
 ## Navigation

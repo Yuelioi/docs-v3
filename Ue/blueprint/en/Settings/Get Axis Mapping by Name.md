@@ -1,5 +1,5 @@
 ---
-display_name: Get Axis Mapping by Name
+title: Get Axis Mapping by Name
 order: 26
 ---
 ## Navigation

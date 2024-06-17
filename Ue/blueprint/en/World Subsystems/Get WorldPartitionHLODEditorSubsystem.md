@@ -1,5 +1,5 @@
 ---
-display_name: Get WorldPartitionHLODEditorSubsystem
+title: Get WorldPartitionHLODEditorSubsystem
 order: 78
 ---
 ## Navigation

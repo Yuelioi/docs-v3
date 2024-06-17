@@ -1,5 +1,5 @@
 ---
-display_name: Is Device Tracking
+title: Is Device Tracking
 order: 14
 ---
 ## Navigation

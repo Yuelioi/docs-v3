@@ -1,5 +1,5 @@
 ---
-display_name: Get Play Area Rect
+title: Get Play Area Rect
 order: 12
 ---
 ## Navigation

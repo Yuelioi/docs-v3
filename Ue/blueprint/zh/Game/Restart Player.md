@@ -1,5 +1,5 @@
 ---
-display_name: Restart Player
+title: Restart Player
 order: 45
 ---
 ## Navigation

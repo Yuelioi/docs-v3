@@ -1,5 +1,5 @@
 ---
-display_name: Specify Inclusive Union Observation
+title: Specify Inclusive Union Observation
 order: 308
 ---
 ## Navigation

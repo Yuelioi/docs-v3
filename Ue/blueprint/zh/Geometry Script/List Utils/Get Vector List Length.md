@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector List Length
+title: Get Vector List Length
 order: 42
 ---
 ## Navigation

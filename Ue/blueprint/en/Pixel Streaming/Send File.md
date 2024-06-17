@@ -1,5 +1,5 @@
 ---
-display_name: Send File
+title: Send File
 order: 19
 ---
 ## Navigation

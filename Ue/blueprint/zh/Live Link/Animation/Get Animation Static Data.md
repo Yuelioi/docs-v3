@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Static Data
+title: Get Animation Static Data
 order: 2
 ---
 ## Navigation

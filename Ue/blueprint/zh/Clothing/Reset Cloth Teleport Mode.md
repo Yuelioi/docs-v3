@@ -1,5 +1,5 @@
 ---
-display_name: Reset Cloth Teleport Mode
+title: Reset Cloth Teleport Mode
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: invertexgroup
+title: invertexgroup
 order: 7
 ---
 `int  invertexgroup(string filename, string groupname, int vertexnum)`

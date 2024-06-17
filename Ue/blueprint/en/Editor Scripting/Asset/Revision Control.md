@@ -1,5 +1,5 @@
 ---
-display_name: Revision Control
+title: Revision Control
 order: 35
 ---
 ## Navigation

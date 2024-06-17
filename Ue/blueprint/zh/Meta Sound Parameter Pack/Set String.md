@@ -1,5 +1,5 @@
 ---
-display_name: Set String
+title: Set String
 order: 25
 ---
 ## Navigation

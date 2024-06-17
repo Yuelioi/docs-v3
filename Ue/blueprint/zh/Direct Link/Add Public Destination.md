@@ -1,5 +1,5 @@
 ---
-display_name: Add Public Destination
+title: Add Public Destination
 order: 1
 ---
 ## Navigation

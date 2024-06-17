@@ -1,5 +1,5 @@
 ---
-display_name: determinant
+title: determinant
 order: 16
 ---
 `float  determinant(matrix2 m)`

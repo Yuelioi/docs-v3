@@ -1,5 +1,5 @@
 ---
-display_name: Introduction
+title: Introduction
 order: 4
 ---
 

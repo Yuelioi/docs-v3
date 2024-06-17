@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Enum)
+title: Remove Key (Enum)
 order: 93
 ---
 ## Navigation

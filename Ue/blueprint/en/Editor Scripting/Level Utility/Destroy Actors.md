@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Actors
+title: Destroy Actors
 order: 4
 ---
 ## Navigation

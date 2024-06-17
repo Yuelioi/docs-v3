@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Vector)
+title: Assert Not Equal (Vector)
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Filtered Trace End
+title: Get Filtered Trace End
 order: 8
 ---
 ## Navigation

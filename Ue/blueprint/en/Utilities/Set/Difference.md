@@ -1,5 +1,5 @@
 ---
-display_name: Difference
+title: Difference
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Parented To
+title: Is Parented To
 order: 97
 ---
 ## Navigation

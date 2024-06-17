@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Pins
+title: Get Sub Pins
 order: 30
 ---
 ## Navigation

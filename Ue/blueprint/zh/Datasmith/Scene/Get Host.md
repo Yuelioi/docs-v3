@@ -1,5 +1,5 @@
 ---
-display_name: Get Host
+title: Get Host
 order: 27
 ---
 ## Navigation

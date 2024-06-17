@@ -1,5 +1,5 @@
 ---
-display_name: Remove on Extract Asset from File
+title: Remove on Extract Asset from File
 order: 31
 ---
 ## Navigation

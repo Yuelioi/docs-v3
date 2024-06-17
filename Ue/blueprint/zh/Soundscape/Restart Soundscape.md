@@ -1,5 +1,5 @@
 ---
-display_name: Restart Soundscape
+title: Restart Soundscape
 order: 9
 ---
 ## Navigation

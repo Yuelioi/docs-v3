@@ -1,5 +1,5 @@
 ---
-display_name: Mute Speech
+title: Mute Speech
 order: 11
 ---
 ## Navigation

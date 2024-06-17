@@ -1,5 +1,5 @@
 ---
-display_name: Invalidate Client Prediction Key
+title: Invalidate Client Prediction Key
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unregister from Sense
+title: Unregister from Sense
 order: 25
 ---
 ## Navigation

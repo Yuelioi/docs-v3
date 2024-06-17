@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Audio Channels Scaled
+title: Set Max Audio Channels Scaled
 order: 11
 ---
 ## Navigation

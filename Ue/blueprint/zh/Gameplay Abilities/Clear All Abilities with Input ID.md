@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Abilities with Input ID
+title: Clear All Abilities with Input ID
 order: 2
 ---
 ## Navigation

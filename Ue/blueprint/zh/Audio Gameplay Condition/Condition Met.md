@@ -1,5 +1,5 @@
 ---
-display_name: Condition Met
+title: Condition Met
 order: 4
 ---
 ## Navigation

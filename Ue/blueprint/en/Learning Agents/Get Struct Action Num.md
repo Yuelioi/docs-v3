@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Action Num
+title: Get Struct Action Num
 order: 121
 ---
 ## Navigation

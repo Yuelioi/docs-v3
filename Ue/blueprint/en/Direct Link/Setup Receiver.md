@@ -1,5 +1,5 @@
 ---
-display_name: Setup Receiver
+title: Setup Receiver
 order: 10
 ---
 ## Navigation

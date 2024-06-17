@@ -1,5 +1,5 @@
 ---
-display_name: Set Atmosphere Sun Light Index
+title: Set Atmosphere Sun Light Index
 order: 3
 ---
 ## Navigation

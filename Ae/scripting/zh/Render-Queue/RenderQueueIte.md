@@ -1,5 +1,5 @@
 ---
-display_name: RenderQueueItem
+title: RenderQueueItem
 order: 4
 ---
 

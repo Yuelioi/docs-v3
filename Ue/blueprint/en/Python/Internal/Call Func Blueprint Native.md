@@ -1,5 +1,5 @@
 ---
-display_name: Call Func Blueprint Native
+title: Call Func Blueprint Native
 order: 7
 ---
 ## Navigation

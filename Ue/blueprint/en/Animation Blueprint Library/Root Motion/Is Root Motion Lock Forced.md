@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Motion Lock Forced
+title: Is Root Motion Lock Forced
 order: 3
 ---
 ## Navigation

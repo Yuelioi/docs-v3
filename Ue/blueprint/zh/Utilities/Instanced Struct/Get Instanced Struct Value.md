@@ -1,5 +1,5 @@
 ---
-display_name: Get Instanced Struct Value
+title: Get Instanced Struct Value
 order: 1
 ---
 ## Navigation

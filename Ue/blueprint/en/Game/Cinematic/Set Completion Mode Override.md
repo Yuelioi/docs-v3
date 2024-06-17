@@ -1,5 +1,5 @@
 ---
-display_name: Set Completion Mode Override
+title: Set Completion Mode Override
 order: 4
 ---
 ## Navigation

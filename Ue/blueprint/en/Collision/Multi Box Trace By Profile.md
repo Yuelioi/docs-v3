@@ -1,5 +1,5 @@
 ---
-display_name: Multi Box Trace By Profile
+title: Multi Box Trace By Profile
 order: 47
 ---
 ## Navigation

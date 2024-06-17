@@ -1,5 +1,5 @@
 ---
-display_name: Get Cooldown Time Remaining
+title: Get Cooldown Time Remaining
 order: 40
 ---
 ## Navigation

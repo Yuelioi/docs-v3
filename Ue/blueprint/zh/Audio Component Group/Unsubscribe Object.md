@@ -1,5 +1,5 @@
 ---
-display_name: Unsubscribe Object
+title: Unsubscribe Object
 order: 23
 ---
 ## Navigation

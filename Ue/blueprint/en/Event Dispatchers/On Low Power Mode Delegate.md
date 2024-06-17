@@ -1,5 +1,5 @@
 ---
-display_name: On Low Power Mode Delegate
+title: On Low Power Mode Delegate
 order: 112
 ---
 ## Navigation

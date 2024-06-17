@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Quaternion Array Value
+title: Niagara Get Quaternion Array Value
 order: 44
 ---
 ## Navigation

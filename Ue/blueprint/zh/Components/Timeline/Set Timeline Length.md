@@ -1,5 +1,5 @@
 ---
-display_name: Set Timeline Length
+title: Set Timeline Length
 order: 26
 ---
 ## Navigation

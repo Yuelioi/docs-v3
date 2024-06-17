@@ -1,5 +1,5 @@
 ---
-display_name: Get Dynamic Outline Material
+title: Get Dynamic Outline Material
 order: 5
 ---
 ## Navigation

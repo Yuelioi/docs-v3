@@ -1,5 +1,5 @@
 ---
-display_name: wirediffuse
+title: wirediffuse
 order: 81
 ---
 `bsdf  wirediffuse(vector tangent, ...)`

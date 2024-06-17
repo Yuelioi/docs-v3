@@ -1,5 +1,5 @@
 ---
-display_name: To Float (Boolean)
+title: To Float (Boolean)
 order: 8
 ---
 ## Navigation

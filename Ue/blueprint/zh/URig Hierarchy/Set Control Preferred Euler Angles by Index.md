@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Preferred Euler Angles by Index
+title: Set Control Preferred Euler Angles by Index
 order: 127
 ---
 ## Navigation

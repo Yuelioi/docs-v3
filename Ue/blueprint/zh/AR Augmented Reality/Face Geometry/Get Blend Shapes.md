@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Shapes
+title: Get Blend Shapes
 order: 2
 ---
 ## Navigation

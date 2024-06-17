@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Metadata Items
+title: Get Media Metadata Items
 order: 1
 ---
 ## Navigation

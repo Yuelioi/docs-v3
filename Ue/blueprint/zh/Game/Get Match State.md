@@ -1,5 +1,5 @@
 ---
-display_name: Get Match State
+title: Get Match State
 order: 30
 ---
 ## Navigation

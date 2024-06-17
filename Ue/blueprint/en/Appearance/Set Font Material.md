@@ -1,5 +1,5 @@
 ---
-display_name: Set Font Material
+title: Set Font Material
 order: 49
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Disabled
+title: Is Disabled
 order: 4
 ---
 ## Navigation

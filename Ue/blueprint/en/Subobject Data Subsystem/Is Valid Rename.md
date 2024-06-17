@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Rename
+title: Is Valid Rename
 order: 18
 ---
 ## Navigation

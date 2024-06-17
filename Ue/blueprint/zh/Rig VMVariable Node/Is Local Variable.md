@@ -1,5 +1,5 @@
 ---
-display_name: Is Local Variable
+title: Is Local Variable
 order: 9
 ---
 ## Navigation

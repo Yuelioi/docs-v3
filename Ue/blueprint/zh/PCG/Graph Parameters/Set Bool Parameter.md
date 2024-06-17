@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Parameter
+title: Set Bool Parameter
 order: 22
 ---
 ## Navigation

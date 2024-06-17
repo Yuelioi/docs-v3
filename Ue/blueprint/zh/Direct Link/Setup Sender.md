@@ -1,5 +1,5 @@
 ---
-display_name: Setup Sender
+title: Setup Sender
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VRController Recentered Delegate
+title: VRController Recentered Delegate
 order: 207
 ---
 ## Navigation

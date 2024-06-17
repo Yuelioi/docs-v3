@@ -1,5 +1,5 @@
 ---
-display_name: Switch to Parent
+title: Switch to Parent
 order: 171
 ---
 ## Navigation

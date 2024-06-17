@@ -1,5 +1,5 @@
 ---
-display_name: Break Date Time
+title: Break Date Time
 order: 1
 ---
 ## Navigation

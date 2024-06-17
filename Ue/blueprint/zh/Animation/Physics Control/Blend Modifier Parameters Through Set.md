@@ -1,5 +1,5 @@
 ---
-display_name: Blend Modifier Parameters Through Set
+title: Blend Modifier Parameters Through Set
 order: 6
 ---
 ## Navigation

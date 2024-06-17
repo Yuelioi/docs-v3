@@ -1,5 +1,5 @@
 ---
-display_name: wnoise
+title: wnoise
 order: 39
 ---
 `void  wnoise(float position, int &seed, float &f1, float &f2)`

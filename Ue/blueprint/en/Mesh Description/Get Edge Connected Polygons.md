@@ -1,5 +1,5 @@
 ---
-display_name: Get Edge Connected Polygons
+title: Get Edge Connected Polygons
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Focus Actor
+title: Get Focus Actor
 order: 15
 ---
 ## Navigation

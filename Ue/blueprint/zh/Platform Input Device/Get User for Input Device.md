@@ -1,5 +1,5 @@
 ---
-display_name: Get User for Input Device
+title: Get User for Input Device
 order: 9
 ---
 ## Navigation

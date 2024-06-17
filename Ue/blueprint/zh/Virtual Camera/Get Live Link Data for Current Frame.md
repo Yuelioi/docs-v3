@@ -1,5 +1,5 @@
 ---
-display_name: Get Live Link Data for Current Frame
+title: Get Live Link Data for Current Frame
 order: 24
 ---
 ## Navigation

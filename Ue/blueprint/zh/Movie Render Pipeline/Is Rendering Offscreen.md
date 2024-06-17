@@ -1,5 +1,5 @@
 ---
-display_name: Is Rendering Offscreen
+title: Is Rendering Offscreen
 order: 72
 ---
 ## Navigation

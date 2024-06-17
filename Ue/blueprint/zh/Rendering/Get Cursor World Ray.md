@@ -1,5 +1,5 @@
 ---
-display_name: Get Cursor World Ray
+title: Get Cursor World Ray
 order: 10
 ---
 ## Navigation

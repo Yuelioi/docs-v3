@@ -1,5 +1,5 @@
 ---
-display_name: Delete Pass
+title: Delete Pass
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXInterpolated Value
+title: Get DMXInterpolated Value
 order: 44
 ---
 ## Navigation

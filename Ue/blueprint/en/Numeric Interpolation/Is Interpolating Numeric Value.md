@@ -1,5 +1,5 @@
 ---
-display_name: Is Interpolating Numeric Value
+title: Is Interpolating Numeric Value
 order: 2
 ---
 ## Navigation

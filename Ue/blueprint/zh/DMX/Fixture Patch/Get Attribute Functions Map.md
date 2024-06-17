@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Functions Map
+title: Get Attribute Functions Map
 order: 8
 ---
 ## Navigation

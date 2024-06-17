@@ -1,5 +1,5 @@
 ---
-display_name: Increment Active Widget Index
+title: Increment Active Widget Index
 order: 6
 ---
 ## Navigation

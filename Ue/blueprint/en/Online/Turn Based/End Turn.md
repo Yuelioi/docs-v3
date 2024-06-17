@@ -1,5 +1,5 @@
 ---
-display_name: End Turn
+title: End Turn
 order: 2
 ---
 ## Navigation

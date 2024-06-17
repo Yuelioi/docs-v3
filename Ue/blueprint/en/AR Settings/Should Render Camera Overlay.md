@@ -1,5 +1,5 @@
 ---
-display_name: Should Render Camera Overlay
+title: Should Render Camera Overlay
 order: 33
 ---
 ## Navigation

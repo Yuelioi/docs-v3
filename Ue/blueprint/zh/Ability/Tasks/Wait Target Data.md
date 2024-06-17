@@ -1,5 +1,5 @@
 ---
-display_name: Wait Target Data
+title: Wait Target Data
 order: 41
 ---
 ## Navigation

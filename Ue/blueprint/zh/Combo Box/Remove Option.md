@@ -1,5 +1,5 @@
 ---
-display_name: Remove Option
+title: Remove Option
 order: 11
 ---
 ## Navigation

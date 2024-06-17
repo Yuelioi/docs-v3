@@ -1,5 +1,5 @@
 ---
-display_name: Has Music Seek Request
+title: Has Music Seek Request
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: set
+title: set
 order: 17
 ---
 The `set()` function has a **wide variety** of forms allowing you to perform many different types of conversions.

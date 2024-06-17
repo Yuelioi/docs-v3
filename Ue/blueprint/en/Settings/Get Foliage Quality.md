@@ -1,5 +1,5 @@
 ---
-display_name: Get Foliage Quality
+title: Get Foliage Quality
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Indent Handle
+title: Set Indent Handle
 order: 20
 ---
 ## Navigation

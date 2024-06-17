@@ -1,5 +1,5 @@
 ---
-display_name: Inject Input Vector for Player Mapping
+title: Inject Input Vector for Player Mapping
 order: 27
 ---
 ## Navigation

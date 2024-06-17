@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDIEvent
+title: Send MIDIEvent
 order: 3
 ---
 ## Navigation

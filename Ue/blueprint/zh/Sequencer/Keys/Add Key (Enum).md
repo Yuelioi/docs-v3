@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Enum)
+title: Add Key (Enum)
 order: 4
 ---
 ## Navigation

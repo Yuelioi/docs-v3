@@ -1,5 +1,5 @@
 ---
-display_name: Play Haptic Effect
+title: Play Haptic Effect
 order: 23
 ---
 ## Navigation

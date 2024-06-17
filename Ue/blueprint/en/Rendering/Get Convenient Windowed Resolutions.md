@@ -1,5 +1,5 @@
 ---
-display_name: Get Convenient Windowed Resolutions
+title: Get Convenient Windowed Resolutions
 order: 9
 ---
 ## Navigation

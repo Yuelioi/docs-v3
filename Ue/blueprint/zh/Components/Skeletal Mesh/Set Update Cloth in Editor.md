@@ -1,5 +1,5 @@
 ---
-display_name: Set Update Cloth in Editor
+title: Set Update Cloth in Editor
 order: 29
 ---
 ## Navigation

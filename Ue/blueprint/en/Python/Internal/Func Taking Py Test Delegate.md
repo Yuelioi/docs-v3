@@ -1,5 +1,5 @@
 ---
-display_name: Func Taking Py Test Delegate
+title: Func Taking Py Test Delegate
 order: 37
 ---
 ## Navigation

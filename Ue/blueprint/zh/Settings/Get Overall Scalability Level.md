@@ -1,5 +1,5 @@
 ---
-display_name: Get Overall Scalability Level
+title: Get Overall Scalability Level
 order: 51
 ---
 ## Navigation

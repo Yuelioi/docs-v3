@@ -1,5 +1,5 @@
 ---
-display_name: Detach from Controller Pending Destroy
+title: Detach from Controller Pending Destroy
 order: 3
 ---
 ## Navigation

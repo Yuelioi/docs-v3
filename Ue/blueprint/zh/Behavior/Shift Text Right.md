@@ -1,5 +1,5 @@
 ---
-display_name: Shift Text Right
+title: Shift Text Right
 order: 35
 ---
 ## Navigation

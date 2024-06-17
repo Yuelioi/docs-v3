@@ -1,5 +1,5 @@
 ---
-display_name: mattrib
+title: mattrib
 order: 1
 ---
 | Context(s) | [image3d](../contexts/image3d.html) |

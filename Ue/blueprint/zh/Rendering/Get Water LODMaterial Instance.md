@@ -1,5 +1,5 @@
 ---
-display_name: Get Water LODMaterial Instance
+title: Get Water LODMaterial Instance
 order: 26
 ---
 ## Navigation

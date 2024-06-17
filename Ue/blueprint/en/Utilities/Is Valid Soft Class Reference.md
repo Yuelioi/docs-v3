@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Soft Class Reference
+title: Is Valid Soft Class Reference
 order: 23
 ---
 ## Navigation

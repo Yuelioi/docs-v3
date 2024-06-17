@@ -1,5 +1,5 @@
 ---
-display_name: matchvex_blinn
+title: matchvex_blinn
 order: 52
 ---
 `bsdf  matchvex_blinn(float exponent, ...)`

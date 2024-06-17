@@ -1,5 +1,5 @@
 ---
-display_name: On Accept
+title: On Accept
 order: 41
 ---
 ## Navigation

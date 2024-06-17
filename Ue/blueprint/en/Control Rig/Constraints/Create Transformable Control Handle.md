@@ -1,5 +1,5 @@
 ---
-display_name: Create Transformable Control Handle
+title: Create Transformable Control Handle
 order: 1
 ---
 ## Navigation

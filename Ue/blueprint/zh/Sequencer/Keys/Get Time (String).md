@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (String)
+title: Get Time (String)
 order: 64
 ---
 ## Navigation

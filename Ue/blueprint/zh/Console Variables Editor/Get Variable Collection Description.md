@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable Collection Description
+title: Get Variable Collection Description
 order: 8
 ---
 ## Navigation

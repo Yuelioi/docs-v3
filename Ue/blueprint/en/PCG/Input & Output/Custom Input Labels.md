@@ -1,5 +1,5 @@
 ---
-display_name: Custom Input Labels
+title: Custom Input Labels
 order: 1
 ---
 ## Navigation

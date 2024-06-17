@@ -1,5 +1,5 @@
 ---
-display_name: Find Socket and Index
+title: Find Socket and Index
 order: 9
 ---
 ## Navigation

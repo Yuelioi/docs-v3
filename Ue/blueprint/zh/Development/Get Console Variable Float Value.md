@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variable Float Value
+title: Get Console Variable Float Value
 order: 43
 ---
 ## Navigation

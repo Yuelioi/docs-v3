@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Texture Dynamic
+title: Set Brush from Texture Dynamic
 order: 29
 ---
 ## Navigation

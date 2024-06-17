@@ -1,5 +1,5 @@
 ---
-display_name: setprimvertex
+title: setprimvertex
 order: 36
 ---
 `int  setprimvertex(int geohandle, int prim, int vtxofprim, int pt)`

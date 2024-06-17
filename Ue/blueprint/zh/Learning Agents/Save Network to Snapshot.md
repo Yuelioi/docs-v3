@@ -1,5 +1,5 @@
 ---
-display_name: Save Network to Snapshot
+title: Save Network to Snapshot
 order: 262
 ---
 ## Navigation

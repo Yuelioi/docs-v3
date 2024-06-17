@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Property States
+title: Find or Add Property States
 order: 2
 ---
 ## Navigation

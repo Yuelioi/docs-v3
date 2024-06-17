@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Text
+title: Set Value Text
 order: 35
 ---
 ## Navigation

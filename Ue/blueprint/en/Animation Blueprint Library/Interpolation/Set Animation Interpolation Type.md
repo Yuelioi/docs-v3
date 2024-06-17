@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation Interpolation Type
+title: Set Animation Interpolation Type
 order: 2
 ---
 ## Navigation

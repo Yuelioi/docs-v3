@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Note Number
+title: Get Min Note Number
 order: 8
 ---
 ## Navigation

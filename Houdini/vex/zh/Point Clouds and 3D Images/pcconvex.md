@@ -1,5 +1,5 @@
 ---
-display_name: pcconvex
+title: pcconvex
 order: 7
 ---
 `float  pcconvex(int handle, string channel, vector N)`

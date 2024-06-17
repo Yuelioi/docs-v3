@@ -1,5 +1,5 @@
 ---
-display_name: Replace Stack Box Child At
+title: Replace Stack Box Child At
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Values Of Actors by Class
+title: Get Values Of Actors by Class
 order: 4
 ---
 ## Navigation

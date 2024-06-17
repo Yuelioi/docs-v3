@@ -1,5 +1,5 @@
 ---
-display_name: Set Content Color and Opacity
+title: Set Content Color and Opacity
 order: 34
 ---
 ## Navigation

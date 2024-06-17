@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Vector
+title: Parse Json as Vector
 order: 26
 ---
 ## Navigation

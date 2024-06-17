@@ -1,5 +1,5 @@
 ---
-display_name: Break Rot Into Axes
+title: Break Rot Into Axes
 order: 1
 ---
 ## Navigation

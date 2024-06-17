@@ -1,5 +1,5 @@
 ---
-display_name: Set Viewport Mouse Capture Mode
+title: Set Viewport Mouse Capture Mode
 order: 20
 ---
 ## Navigation

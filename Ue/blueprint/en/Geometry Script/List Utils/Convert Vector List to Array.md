@@ -1,5 +1,5 @@
 ---
-display_name: Convert Vector List to Array
+title: Convert Vector List to Array
 order: 17
 ---
 ## Navigation

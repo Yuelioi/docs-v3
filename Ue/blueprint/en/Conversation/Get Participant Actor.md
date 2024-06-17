@@ -1,5 +1,5 @@
 ---
-display_name: Get Participant Actor
+title: Get Participant Actor
 order: 11
 ---
 ## Navigation

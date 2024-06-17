@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Index List
+title: Duplicate Index List
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Int Parameter Selected Option
+title: Set Int Parameter Selected Option
 order: 67
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set UVSource
+title: Set UVSource
 order: 238
 ---
 ## Navigation

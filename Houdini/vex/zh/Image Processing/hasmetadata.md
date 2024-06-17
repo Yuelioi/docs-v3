@@ -1,5 +1,5 @@
 ---
-display_name: hasmetadata
+title: hasmetadata
 order: 11
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

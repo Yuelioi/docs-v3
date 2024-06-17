@@ -1,5 +1,5 @@
 ---
-display_name: Get Retarget Chains
+title: Get Retarget Chains
 order: 24
 ---
 ## Navigation

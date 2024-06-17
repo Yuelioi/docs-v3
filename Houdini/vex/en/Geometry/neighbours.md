@@ -1,5 +1,5 @@
 ---
-display_name: neighbours
+title: neighbours
 order: 16
 ---
 `int [] neighbours(<geometry>geometry, int ptnum)`

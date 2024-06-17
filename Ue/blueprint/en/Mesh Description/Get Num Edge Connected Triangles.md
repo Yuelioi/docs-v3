@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Edge Connected Triangles
+title: Get Num Edge Connected Triangles
 order: 28
 ---
 ## Navigation

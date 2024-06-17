@@ -1,5 +1,5 @@
 ---
-display_name: Synchronize And Broadcast Data Change
+title: Synchronize And Broadcast Data Change
 order: 33
 ---
 ## Navigation

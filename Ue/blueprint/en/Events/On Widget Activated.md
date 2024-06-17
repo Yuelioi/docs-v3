@@ -1,5 +1,5 @@
 ---
-display_name: On Widget Activated
+title: On Widget Activated
 order: 33
 ---
 ## Navigation

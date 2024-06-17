@@ -1,5 +1,5 @@
 ---
-display_name: Get Path Length
+title: Get Path Length
 order: 15
 ---
 ## Navigation

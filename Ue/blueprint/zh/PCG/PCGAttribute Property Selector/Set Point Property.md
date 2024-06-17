@@ -1,5 +1,5 @@
 ---
-display_name: Set Point Property
+title: Set Point Property
 order: 11
 ---
 ## Navigation

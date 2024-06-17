@@ -1,5 +1,5 @@
 ---
-display_name: Get Disable Anim Curves
+title: Get Disable Anim Curves
 order: 10
 ---
 ## Navigation

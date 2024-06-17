@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Triangle UVElement IDs
+title: Set Mesh Triangle UVElement IDs
 order: 15
 ---
 ## Navigation

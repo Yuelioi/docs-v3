@@ -1,5 +1,5 @@
 ---
-display_name: Get Velocity Observation
+title: Get Velocity Observation
 order: 130
 ---
 ## Navigation

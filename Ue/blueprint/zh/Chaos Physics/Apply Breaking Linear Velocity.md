@@ -1,5 +1,5 @@
 ---
-display_name: Apply Breaking Linear Velocity
+title: Apply Breaking Linear Velocity
 order: 4
 ---
 ## Navigation

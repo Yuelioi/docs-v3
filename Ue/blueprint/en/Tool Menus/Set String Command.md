@@ -1,5 +1,5 @@
 ---
-display_name: Set String Command
+title: Set String Command
 order: 39
 ---
 ## Navigation

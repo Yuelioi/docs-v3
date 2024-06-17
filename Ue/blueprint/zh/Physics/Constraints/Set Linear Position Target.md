@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Position Target
+title: Set Linear Position Target
 order: 51
 ---
 ## Navigation

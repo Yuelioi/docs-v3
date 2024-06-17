@@ -1,5 +1,5 @@
 ---
-display_name: Randomize Transform
+title: Randomize Transform
 order: 7
 ---
 ## Navigation

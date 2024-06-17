@@ -1,5 +1,5 @@
 ---
-display_name: Create Slot Animation as Dynamic Montage with Blend Settings
+title: Create Slot Animation as Dynamic Montage with Blend Settings
 order: 5
 ---
 ## Navigation

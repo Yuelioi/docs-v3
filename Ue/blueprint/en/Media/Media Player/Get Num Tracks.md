@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Tracks
+title: Get Num Tracks
 order: 15
 ---
 ## Navigation

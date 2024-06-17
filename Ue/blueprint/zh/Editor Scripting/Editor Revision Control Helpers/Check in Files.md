@@ -1,5 +1,5 @@
 ---
-display_name: Check in Files
+title: Check in Files
 order: 7
 ---
 ## Navigation

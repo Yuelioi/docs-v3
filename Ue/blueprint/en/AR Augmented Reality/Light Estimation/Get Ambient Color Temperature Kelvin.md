@@ -1,5 +1,5 @@
 ---
-display_name: Get Ambient Color Temperature Kelvin
+title: Get Ambient Color Temperature Kelvin
 order: 1
 ---
 ## Navigation

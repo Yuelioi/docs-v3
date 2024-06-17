@@ -1,5 +1,5 @@
 ---
-display_name: Push Input Component
+title: Push Input Component
 order: 4
 ---
 ## Navigation

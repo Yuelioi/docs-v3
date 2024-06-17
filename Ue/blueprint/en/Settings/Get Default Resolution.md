@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Resolution
+title: Get Default Resolution
 order: 35
 ---
 ## Navigation

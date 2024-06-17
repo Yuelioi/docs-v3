@@ -1,5 +1,5 @@
 ---
-display_name: Application Failed to Register for Remote Notifications Delegate
+title: Application Failed to Register for Remote Notifications Delegate
 order: 5
 ---
 ## Navigation

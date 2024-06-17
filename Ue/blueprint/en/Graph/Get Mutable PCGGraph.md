@@ -1,5 +1,5 @@
 ---
-display_name: Get Mutable PCGGraph
+title: Get Mutable PCGGraph
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Toggle ARCapture
+title: Toggle ARCapture
 order: 11
 ---
 ## Navigation

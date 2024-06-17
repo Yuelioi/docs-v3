@@ -1,5 +1,5 @@
 ---
-display_name: Break Content Browser Item Path
+title: Break Content Browser Item Path
 order: 3
 ---
 ## Navigation

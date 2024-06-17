@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment Points for Secondary Role Considering Selection Criteria
+title: Get Alignment Points for Secondary Role Considering Selection Criteria
 order: 5
 ---
 ## Navigation

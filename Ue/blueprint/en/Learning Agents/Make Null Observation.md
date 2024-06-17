@@ -1,5 +1,5 @@
 ---
-display_name: Make Null Observation
+title: Make Null Observation
 order: 206
 ---
 ## Navigation

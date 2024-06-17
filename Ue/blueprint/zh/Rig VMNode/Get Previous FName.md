@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous FName
+title: Get Previous FName
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator from Control Value
+title: Get Rotator from Control Value
 order: 79
 ---
 ## Navigation

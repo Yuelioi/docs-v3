@@ -1,5 +1,5 @@
 ---
-display_name: Get Use Ies Brightness
+title: Get Use Ies Brightness
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetSkeletalMeshComponentFromActorInfo
+title: GetSkeletalMeshComponentFromActorInfo
 order: 49
 ---
 ## Navigation

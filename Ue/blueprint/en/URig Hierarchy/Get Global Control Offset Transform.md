@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Control Offset Transform
+title: Get Global Control Offset Transform
 order: 34
 ---
 ## Navigation

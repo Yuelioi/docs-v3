@@ -1,5 +1,5 @@
 ---
-display_name: Add Selected Actors to Layers
+title: Add Selected Actors to Layers
 order: 9
 ---
 ## Navigation

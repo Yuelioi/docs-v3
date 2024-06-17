@@ -1,5 +1,5 @@
 ---
-display_name: On Joined Scene
+title: On Joined Scene
 order: 6
 ---
 ## Navigation

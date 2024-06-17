@@ -1,5 +1,5 @@
 ---
-display_name: Get All Options
+title: Get All Options
 order: 22
 ---
 ## Navigation

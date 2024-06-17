@@ -1,5 +1,5 @@
 ---
-display_name: insert
+title: insert
 order: 5
 ---
 `void  insert(string &str, int index, string value)`

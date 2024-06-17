@@ -1,5 +1,5 @@
 ---
-display_name: Platform Changed to Laptop Mode Delegate
+title: Platform Changed to Laptop Mode Delegate
 order: 198
 ---
 ## Navigation

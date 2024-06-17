@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Transform
+title: Set Component Transform
 order: 58
 ---
 ## Navigation

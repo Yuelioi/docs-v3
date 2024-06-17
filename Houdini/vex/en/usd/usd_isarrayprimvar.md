@@ -1,5 +1,5 @@
 ---
-display_name: usd_isarrayprimvar
+title: usd_isarrayprimvar
 order: 66
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Warping Windows from Animation
+title: Get Motion Warping Windows from Animation
 order: 11
 ---
 ## Navigation

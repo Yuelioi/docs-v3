@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Path Name (Top Level Asset Path)
+title: Get Struct Path Name (Top Level Asset Path)
 order: 26
 ---
 ## Navigation

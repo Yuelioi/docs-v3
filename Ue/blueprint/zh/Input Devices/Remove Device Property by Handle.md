@@ -1,5 +1,5 @@
 ---
-display_name: Remove Device Property by Handle
+title: Remove Device Property by Handle
 order: 12
 ---
 ## Navigation

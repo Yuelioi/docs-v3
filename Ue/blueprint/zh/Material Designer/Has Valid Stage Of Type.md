@@ -1,5 +1,5 @@
 ---
-display_name: Has Valid Stage Of Type
+title: Has Valid Stage Of Type
 order: 158
 ---
 ## Navigation

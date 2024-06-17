@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Level Sequence
+title: Set Default Level Sequence
 order: 42
 ---
 ## Navigation

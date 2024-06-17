@@ -1,5 +1,5 @@
 ---
-display_name: Layer
+title: Layer
 order: 3
 ---
 

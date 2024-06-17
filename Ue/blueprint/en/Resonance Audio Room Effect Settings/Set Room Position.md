@@ -1,5 +1,5 @@
 ---
-display_name: Set Room Position
+title: Set Room Position
 order: 8
 ---
 ## Navigation

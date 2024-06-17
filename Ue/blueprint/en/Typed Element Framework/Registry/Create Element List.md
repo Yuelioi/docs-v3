@@ -1,5 +1,5 @@
 ---
-display_name: Create Element List
+title: Create Element List
 order: 1
 ---
 ## Navigation

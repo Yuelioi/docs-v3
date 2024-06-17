@@ -1,5 +1,5 @@
 ---
-display_name: Advance Simulation
+title: Advance Simulation
 order: 3
 ---
 ## Navigation

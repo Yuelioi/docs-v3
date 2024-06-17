@@ -1,5 +1,5 @@
 ---
-display_name: Reset Level
+title: Reset Level
 order: 41
 ---
 ## Navigation

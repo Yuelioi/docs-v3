@@ -1,5 +1,5 @@
 ---
-display_name: Draw Text
+title: Draw Text
 order: 9
 ---
 ## Navigation

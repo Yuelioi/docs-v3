@@ -1,5 +1,5 @@
 ---
-display_name: Find Tangent Closest to World Location
+title: Find Tangent Closest to World Location
 order: 20
 ---
 ## Navigation

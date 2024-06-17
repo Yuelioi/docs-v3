@@ -1,5 +1,5 @@
 ---
-display_name: Add Source Effect to Preset Chain
+title: Add Source Effect to Preset Chain
 order: 2
 ---
 ## Navigation

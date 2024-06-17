@@ -1,5 +1,5 @@
 ---
-display_name: Has Mouse Capture by User
+title: Has Mouse Capture by User
 order: 5
 ---
 ## Navigation

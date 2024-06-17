@@ -1,5 +1,5 @@
 ---
-display_name: Get Rig VMHost
+title: Get Rig VMHost
 order: 3
 ---
 ## Navigation

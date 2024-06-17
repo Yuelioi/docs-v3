@@ -1,5 +1,5 @@
 ---
-display_name: Custom Output Labels
+title: Custom Output Labels
 order: 2
 ---
 ## Navigation

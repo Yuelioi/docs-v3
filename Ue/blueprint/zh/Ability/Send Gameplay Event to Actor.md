@@ -1,5 +1,5 @@
 ---
-display_name: Send Gameplay Event to Actor
+title: Send Gameplay Event to Actor
 order: 62
 ---
 ## Navigation

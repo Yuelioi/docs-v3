@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Storage
+title: Refresh Storage
 order: 90
 ---
 ## Navigation

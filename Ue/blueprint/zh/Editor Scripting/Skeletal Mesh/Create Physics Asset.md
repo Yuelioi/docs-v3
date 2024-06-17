@@ -1,5 +1,5 @@
 ---
-display_name: Create Physics Asset
+title: Create Physics Asset
 order: 2
 ---
 ## Navigation

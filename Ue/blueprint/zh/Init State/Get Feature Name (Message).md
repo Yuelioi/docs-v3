@@ -1,5 +1,5 @@
 ---
-display_name: Get Feature Name (Message)
+title: Get Feature Name (Message)
 order: 1
 ---
 ## Navigation

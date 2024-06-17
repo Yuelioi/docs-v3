@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Function Library
+title: Get Default Function Library
 order: 9
 ---
 ## Navigation

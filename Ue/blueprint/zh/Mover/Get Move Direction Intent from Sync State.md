@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Direction Intent from Sync State
+title: Get Move Direction Intent from Sync State
 order: 14
 ---
 ## Navigation

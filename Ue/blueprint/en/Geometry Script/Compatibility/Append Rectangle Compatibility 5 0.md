@@ -1,5 +1,5 @@
 ---
-display_name: Append Rectangle Compatibility 5 0
+title: Append Rectangle Compatibility 5 0
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Vector
+title: Create Script Input Vector
 order: 23
 ---
 ## Navigation

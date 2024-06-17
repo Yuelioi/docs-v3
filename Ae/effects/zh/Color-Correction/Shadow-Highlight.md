@@ -1,6 +1,6 @@
 ---
 order: 31
-display_name: 阴影 高光
+title: 阴影 高光
 ---
 
 # Shadow Highlight - 阴影 高光

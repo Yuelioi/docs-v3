@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Chain
+title: Get Source Chain
 order: 16
 ---
 ## Navigation

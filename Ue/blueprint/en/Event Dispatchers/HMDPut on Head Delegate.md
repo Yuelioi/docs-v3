@@ -1,5 +1,5 @@
 ---
-display_name: HMDPut on Head Delegate
+title: HMDPut on Head Delegate
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect Remote XRDevice
+title: Disconnect Remote XRDevice
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remap to New Material IDs by Material
+title: Remap to New Material IDs by Material
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Asset Passes
+title: Asset Passes
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add to Viewport
+title: Add to Viewport
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Parameters
+title: Get Projector Parameters
 order: 32
 ---
 ## Navigation

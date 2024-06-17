@@ -1,5 +1,5 @@
 ---
-display_name: Pop Sound Mix Modifier
+title: Pop Sound Mix Modifier
 order: 42
 ---
 ## Navigation

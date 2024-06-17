@@ -1,5 +1,5 @@
 ---
-display_name: Set Fallback Brush
+title: Set Fallback Brush
 order: 48
 ---
 ## Navigation

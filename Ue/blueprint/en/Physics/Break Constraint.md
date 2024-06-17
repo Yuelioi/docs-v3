@@ -1,5 +1,5 @@
 ---
-display_name: Break Constraint
+title: Break Constraint
 order: 17
 ---
 ## Navigation

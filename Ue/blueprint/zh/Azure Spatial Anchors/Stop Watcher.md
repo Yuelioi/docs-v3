@@ -1,5 +1,5 @@
 ---
-display_name: Stop Watcher
+title: Stop Watcher
 order: 11
 ---
 ## Navigation

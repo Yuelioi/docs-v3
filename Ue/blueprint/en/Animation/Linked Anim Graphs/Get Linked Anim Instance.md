@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Anim Instance
+title: Get Linked Anim Instance
 order: 3
 ---
 ## Navigation

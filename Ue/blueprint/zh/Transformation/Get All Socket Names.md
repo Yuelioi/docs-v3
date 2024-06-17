@@ -1,5 +1,5 @@
 ---
-display_name: Get All Socket Names
+title: Get All Socket Names
 order: 32
 ---
 ## Navigation

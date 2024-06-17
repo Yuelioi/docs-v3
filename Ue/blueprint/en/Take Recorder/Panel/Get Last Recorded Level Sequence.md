@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Recorded Level Sequence
+title: Get Last Recorded Level Sequence
 order: 4
 ---
 ## Navigation

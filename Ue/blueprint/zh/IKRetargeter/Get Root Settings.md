@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Settings
+title: Get Root Settings
 order: 14
 ---
 ## Navigation

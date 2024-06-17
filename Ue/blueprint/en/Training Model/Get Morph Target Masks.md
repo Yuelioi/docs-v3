@@ -1,5 +1,5 @@
 ---
-display_name: Get Morph Target Masks
+title: Get Morph Target Masks
 order: 3
 ---
 ## Navigation

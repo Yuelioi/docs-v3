@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Default Value
+title: Get Custom Default Value
 order: 5
 ---
 ## Navigation

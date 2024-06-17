@@ -1,5 +1,5 @@
 ---
-display_name: detail
+title: detail
 order: 14
 ---
 `<type> detail(<geometry>geometry, string attribute_name, int ignored=0)`

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Bool Observation
+title: Specify Bool Observation
 order: 281
 ---
 ## Navigation

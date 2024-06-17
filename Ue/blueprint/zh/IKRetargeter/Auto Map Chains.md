@@ -1,5 +1,5 @@
 ---
-display_name: Auto Map Chains
+title: Auto Map Chains
 order: 1
 ---
 ## Navigation

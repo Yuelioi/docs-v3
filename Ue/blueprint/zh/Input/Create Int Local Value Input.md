@@ -1,5 +1,5 @@
 ---
-display_name: Create Int Local Value Input
+title: Create Int Local Value Input
 order: 15
 ---
 ## Navigation

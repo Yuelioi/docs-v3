@@ -1,5 +1,5 @@
 ---
-display_name: Get World Map Data
+title: Get World Map Data
 order: 18
 ---
 ## Navigation

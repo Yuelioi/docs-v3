@@ -1,5 +1,5 @@
 ---
-display_name: Inject Input for Player Mapping (Message)
+title: Inject Input for Player Mapping (Message)
 order: 30
 ---
 ## Navigation

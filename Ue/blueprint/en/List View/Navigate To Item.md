@@ -1,5 +1,5 @@
 ---
-display_name: Navigate To Item
+title: Navigate To Item
 order: 16
 ---
 ## Navigation

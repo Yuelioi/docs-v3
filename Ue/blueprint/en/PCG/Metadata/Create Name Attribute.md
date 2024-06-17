@@ -1,5 +1,5 @@
 ---
-display_name: Create Name Attribute
+title: Create Name Attribute
 order: 15
 ---
 ## Navigation

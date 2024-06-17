@@ -1,5 +1,5 @@
 ---
-display_name: 混合
+title: 混合
 order: 2
 ---
 

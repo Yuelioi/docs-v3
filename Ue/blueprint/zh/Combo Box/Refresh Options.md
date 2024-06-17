@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Options
+title: Refresh Options
 order: 10
 ---
 ## Navigation

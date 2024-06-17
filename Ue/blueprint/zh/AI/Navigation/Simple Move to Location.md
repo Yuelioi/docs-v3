@@ -1,5 +1,5 @@
 ---
-display_name: Simple Move to Location
+title: Simple Move to Location
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: StateTree Request Transition
+title: StateTree Request Transition
 order: 2
 ---
 ## Navigation

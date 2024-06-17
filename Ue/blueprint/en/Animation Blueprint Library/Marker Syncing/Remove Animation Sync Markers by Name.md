@@ -1,5 +1,5 @@
 ---
-display_name: Remove Animation Sync Markers by Name
+title: Remove Animation Sync Markers by Name
 order: 6
 ---
 ## Navigation

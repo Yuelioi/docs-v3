@@ -1,5 +1,5 @@
 ---
-display_name: Accumulate Weighted Attributes by Key
+title: Accumulate Weighted Attributes by Key
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Build Initial Tile
+title: Build Initial Tile
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Contact Transfer Scale
+title: Set Contact Transfer Scale
 order: 44
 ---
 ## Navigation

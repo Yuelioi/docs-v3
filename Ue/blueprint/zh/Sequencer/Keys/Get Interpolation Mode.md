@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolation Mode
+title: Get Interpolation Mode
 order: 27
 ---
 ## Navigation

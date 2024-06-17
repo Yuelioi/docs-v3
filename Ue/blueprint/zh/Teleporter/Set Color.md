@@ -1,5 +1,5 @@
 ---
-display_name: Set Color
+title: Set Color
 order: 6
 ---
 ## Navigation

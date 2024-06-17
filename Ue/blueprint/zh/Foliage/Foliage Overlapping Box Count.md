@@ -1,5 +1,5 @@
 ---
-display_name: Foliage Overlapping Box Count
+title: Foliage Overlapping Box Count
 order: 4
 ---
 ## Navigation

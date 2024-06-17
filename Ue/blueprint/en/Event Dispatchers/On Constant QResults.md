@@ -1,5 +1,5 @@
 ---
-display_name: On Constant QResults
+title: On Constant QResults
 order: 68
 ---
 ## Navigation

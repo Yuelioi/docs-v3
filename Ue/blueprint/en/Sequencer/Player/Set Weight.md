@@ -1,5 +1,5 @@
 ---
-display_name: Set Weight
+title: Set Weight
 order: 46
 ---
 ## Navigation

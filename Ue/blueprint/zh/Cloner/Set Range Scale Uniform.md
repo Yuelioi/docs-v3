@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Scale Uniform
+title: Set Range Scale Uniform
 order: 52
 ---
 ## Navigation

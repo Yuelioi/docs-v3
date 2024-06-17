@@ -1,5 +1,5 @@
 ---
-display_name: Derive Grid from Transform Bounds
+title: Derive Grid from Transform Bounds
 order: 2
 ---
 ## Navigation

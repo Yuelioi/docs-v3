@@ -1,5 +1,5 @@
 ---
-display_name: Disable Motion Tracking Of All Controllers
+title: Disable Motion Tracking Of All Controllers
 order: 2
 ---
 ## Navigation

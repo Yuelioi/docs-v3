@@ -1,5 +1,5 @@
 ---
-display_name: Batch Update Instances Frame Data
+title: Batch Update Instances Frame Data
 order: 2
 ---
 ## Navigation

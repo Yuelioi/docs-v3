@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformtoworld
+title: agenttransformtoworld
 order: 47
 ---
 `int  agenttransformtoworld(<geometry>geometry, int prim, matrix &transforms[])`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Paths
+title: Get Sub Paths
 order: 25
 ---
 ## Navigation

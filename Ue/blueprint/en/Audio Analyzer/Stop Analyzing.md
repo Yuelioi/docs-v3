@@ -1,5 +1,5 @@
 ---
-display_name: Stop Analyzing
+title: Stop Analyzing
 order: 12
 ---
 ## Navigation

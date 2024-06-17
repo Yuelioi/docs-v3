@@ -1,5 +1,5 @@
 ---
-display_name: Find Spline Data at Position
+title: Find Spline Data at Position
 order: 2
 ---
 ## Navigation

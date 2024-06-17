@@ -1,5 +1,5 @@
 ---
-display_name: Get Typed Parent
+title: Get Typed Parent
 order: 143
 ---
 ## Navigation

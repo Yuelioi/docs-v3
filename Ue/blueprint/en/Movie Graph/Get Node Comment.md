@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Comment
+title: Get Node Comment
 order: 35
 ---
 ## Navigation

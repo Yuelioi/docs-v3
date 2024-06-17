@@ -1,5 +1,5 @@
 ---
-display_name: Has Reached Init State
+title: Has Reached Init State
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Draw Size
+title: Set Draw Size
 order: 40
 ---
 ## Navigation

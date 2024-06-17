@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume Texture Object
+title: Set Volume Texture Object
 order: 75
 ---
 ## Navigation

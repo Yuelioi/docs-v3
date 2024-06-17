@@ -1,5 +1,5 @@
 ---
-display_name: Get Named Slot
+title: Get Named Slot
 order: 7
 ---
 ## Navigation

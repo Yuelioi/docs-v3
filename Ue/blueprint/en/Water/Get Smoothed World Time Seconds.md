@@ -1,5 +1,5 @@
 ---
-display_name: Get Smoothed World Time Seconds
+title: Get Smoothed World Time Seconds
 order: 11
 ---
 ## Navigation

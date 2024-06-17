@@ -1,5 +1,5 @@
 ---
-display_name: Static Mesh Has Customized Collision
+title: Static Mesh Has Customized Collision
 order: 17
 ---
 ## Navigation

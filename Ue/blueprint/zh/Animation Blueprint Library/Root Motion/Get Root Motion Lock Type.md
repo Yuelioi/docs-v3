@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Motion Lock Type
+title: Get Root Motion Lock Type
 order: 1
 ---
 ## Navigation

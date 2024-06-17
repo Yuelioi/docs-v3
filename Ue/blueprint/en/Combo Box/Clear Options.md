@@ -1,5 +1,5 @@
 ---
-display_name: Clear Options
+title: Clear Options
 order: 2
 ---
 ## Navigation

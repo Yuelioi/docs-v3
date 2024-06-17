@@ -1,5 +1,5 @@
 ---
-display_name: Add if Node from Struct
+title: Add if Node from Struct
 order: 32
 ---
 ## Navigation

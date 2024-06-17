@@ -1,5 +1,5 @@
 ---
-display_name: Instance Actor
+title: Instance Actor
 order: 3
 ---
 ## Navigation

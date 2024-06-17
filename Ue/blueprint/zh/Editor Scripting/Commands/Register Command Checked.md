@@ -1,5 +1,5 @@
 ---
-display_name: Register Command Checked
+title: Register Command Checked
 order: 4
 ---
 ## Navigation

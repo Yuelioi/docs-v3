@@ -1,5 +1,5 @@
 ---
-display_name: Claim Task Resource
+title: Claim Task Resource
 order: 3
 ---
 ## Navigation

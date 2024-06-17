@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Preferred Euler Angles
+title: Get Control Preferred Euler Angles
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Slope Degree Angles
+title: Get Slope Degree Angles
 order: 3
 ---
 ## Navigation

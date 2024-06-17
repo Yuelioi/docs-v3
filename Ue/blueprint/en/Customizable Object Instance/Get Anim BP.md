@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim BP
+title: Get Anim BP
 order: 13
 ---
 ## Navigation

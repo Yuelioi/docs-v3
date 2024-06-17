@@ -1,5 +1,5 @@
 ---
-display_name: Visualize Targeting
+title: Visualize Targeting
 order: 18
 ---
 ## Navigation

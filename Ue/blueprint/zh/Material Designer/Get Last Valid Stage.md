@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Valid Stage
+title: Get Last Valid Stage
 order: 86
 ---
 ## Navigation

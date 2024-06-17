@@ -1,5 +1,5 @@
 ---
-display_name: Get Num UV Channels
+title: Get Num UV Channels
 order: 30
 ---
 ## Navigation

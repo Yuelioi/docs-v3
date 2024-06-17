@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Double)
+title: Get Value (Double)
 order: 67
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parent Bone Space Transform
+title: Parent Bone Space Transform
 order: 39
 ---
 ## Navigation

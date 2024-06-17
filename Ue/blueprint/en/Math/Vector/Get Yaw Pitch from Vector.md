@@ -1,5 +1,5 @@
 ---
-display_name: Get Yaw Pitch from Vector
+title: Get Yaw Pitch from Vector
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get MassTickableSubsystemBase
+title: Get MassTickableSubsystemBase
 order: 57
 ---
 ## Navigation

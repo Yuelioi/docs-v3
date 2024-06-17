@@ -1,5 +1,5 @@
 ---
-display_name: Is Component Created
+title: Is Component Created
 order: 166
 ---
 ## Navigation

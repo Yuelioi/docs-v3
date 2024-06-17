@@ -1,5 +1,5 @@
 ---
-display_name: Client Stop Camera Shake
+title: Client Stop Camera Shake
 order: 6
 ---
 ## Navigation

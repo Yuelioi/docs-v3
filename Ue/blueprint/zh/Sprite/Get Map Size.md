@@ -1,5 +1,5 @@
 ---
-display_name: Get Map Size
+title: Get Map Size
 order: 7
 ---
 ## Navigation

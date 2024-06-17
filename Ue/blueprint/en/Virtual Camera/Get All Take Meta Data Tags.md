@@ -1,5 +1,5 @@
 ---
-display_name: Get All Take Meta Data Tags
+title: Get All Take Meta Data Tags
 order: 11
 ---
 ## Navigation

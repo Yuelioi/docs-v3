@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Byte
+title: Make Literal Byte
 order: 2
 ---
 ## Navigation

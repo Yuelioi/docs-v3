@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Types
+title: Get Value Types
 order: 147
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set All Weights
+title: Set All Weights
 order: 24
 ---
 ## Navigation

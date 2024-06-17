@@ -1,5 +1,5 @@
 ---
-display_name: Get Palette Tab Class
+title: Get Palette Tab Class
 order: 12
 ---
 ## Navigation

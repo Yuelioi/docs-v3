@@ -1,5 +1,5 @@
 ---
-display_name: On Removal Event
+title: On Removal Event
 order: 4
 ---
 ## Navigation

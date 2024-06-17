@@ -1,5 +1,5 @@
 ---
-display_name: Set Hidden in Scene Capture
+title: Set Hidden in Scene Capture
 order: 42
 ---
 ## Navigation

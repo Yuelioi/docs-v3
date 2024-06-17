@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance Pair Edge
+title: Get Vertex Instance Pair Edge
 order: 65
 ---
 ## Navigation

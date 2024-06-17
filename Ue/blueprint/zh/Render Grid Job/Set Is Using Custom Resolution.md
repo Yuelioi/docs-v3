@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Using Custom Resolution
+title: Set Is Using Custom Resolution
 order: 35
 ---
 ## Navigation

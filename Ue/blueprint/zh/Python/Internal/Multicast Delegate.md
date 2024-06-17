@@ -1,5 +1,5 @@
 ---
-display_name: Multicast Delegate
+title: Multicast Delegate
 order: 47
 ---
 ## Navigation

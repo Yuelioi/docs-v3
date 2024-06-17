@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Arrow
+title: VisLog Arrow
 order: 3
 ---
 ## Navigation

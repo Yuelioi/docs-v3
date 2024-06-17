@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Begin
+title: Set Scale Begin
 order: 1
 ---
 ## Navigation

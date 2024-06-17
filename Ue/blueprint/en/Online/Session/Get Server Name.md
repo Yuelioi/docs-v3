@@ -1,5 +1,5 @@
 ---
-display_name: Get Server Name
+title: Get Server Name
 order: 7
 ---
 ## Navigation

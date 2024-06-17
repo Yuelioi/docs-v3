@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick Down
+title: Gamepad Right Thumbstick Down
 order: 23
 ---
 ## Navigation

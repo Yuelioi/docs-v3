@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Union Action
+title: Get Inclusive Union Action
 order: 78
 ---
 ## Navigation

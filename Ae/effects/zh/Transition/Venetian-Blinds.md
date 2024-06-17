@@ -1,5 +1,5 @@
 ---
-display_name: 百叶窗
+title: 百叶窗
 order: 17
 ---
 

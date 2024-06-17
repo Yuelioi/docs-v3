@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Default Scalar Parameter Value
+title: Get Material Default Scalar Parameter Value
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Actuated
+title: Is Actuated
 order: 2
 ---
 ## Navigation

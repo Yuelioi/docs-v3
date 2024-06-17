@@ -1,5 +1,5 @@
 ---
-display_name: Expand By (Box)
+title: Expand By (Box)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Nearly Equal (Transform)
+title: Nearly Equal (Transform)
 order: 11
 ---
 ## Navigation

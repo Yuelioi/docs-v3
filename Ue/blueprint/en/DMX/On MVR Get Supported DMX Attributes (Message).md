@@ -1,5 +1,5 @@
 ---
-display_name: On MVR Get Supported DMX Attributes (Message)
+title: On MVR Get Supported DMX Attributes (Message)
 order: 67
 ---
 ## Navigation

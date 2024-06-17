@@ -1,5 +1,5 @@
 ---
-display_name: Is Left Shift Down
+title: Is Left Shift Down
 order: 8
 ---
 ## Navigation

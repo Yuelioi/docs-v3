@@ -1,5 +1,5 @@
 ---
-display_name: Equal Exactly (String)
+title: Equal Exactly (String)
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Camera Actor
+title: Create Camera Actor
 order: 4
 ---
 ## Navigation

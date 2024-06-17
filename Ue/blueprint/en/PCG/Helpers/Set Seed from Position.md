@@ -1,5 +1,5 @@
 ---
-display_name: Set Seed from Position
+title: Set Seed from Position
 order: 10
 ---
 ## Navigation

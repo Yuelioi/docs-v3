@@ -1,5 +1,5 @@
 ---
-display_name: Get Turn Generator
+title: Get Turn Generator
 order: 25
 ---
 ## Navigation

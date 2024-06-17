@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin for Link
+title: Get Pin for Link
 order: 24
 ---
 ## Navigation

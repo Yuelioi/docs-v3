@@ -1,5 +1,5 @@
 ---
-display_name: Is Time Signature
+title: Is Time Signature
 order: 15
 ---
 ## Navigation

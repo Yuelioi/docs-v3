@@ -1,5 +1,5 @@
 ---
-display_name: Add Bone
+title: Add Bone
 order: 1
 ---
 ## Navigation

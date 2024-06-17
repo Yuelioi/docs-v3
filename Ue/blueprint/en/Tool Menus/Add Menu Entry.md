@@ -1,5 +1,5 @@
 ---
-display_name: Add Menu Entry
+title: Add Menu Entry
 order: 5
 ---
 ## Navigation

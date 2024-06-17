@@ -1,5 +1,5 @@
 ---
-display_name: Clear Control Selection
+title: Clear Control Selection
 order: 6
 ---
 ## Navigation

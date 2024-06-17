@@ -1,5 +1,5 @@
 ---
-display_name: Set Manually Redraw
+title: Set Manually Redraw
 order: 43
 ---
 ## Navigation

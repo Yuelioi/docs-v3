@@ -1,5 +1,5 @@
 ---
-display_name: Get Controls
+title: Get Controls
 order: 23
 ---
 ## Navigation

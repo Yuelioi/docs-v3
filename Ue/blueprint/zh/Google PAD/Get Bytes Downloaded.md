@@ -1,5 +1,5 @@
 ---
-display_name: Get Bytes Downloaded
+title: Get Bytes Downloaded
 order: 4
 ---
 ## Navigation

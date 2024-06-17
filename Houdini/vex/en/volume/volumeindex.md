@@ -1,5 +1,5 @@
 ---
-display_name: volumeindex
+title: volumeindex
 order: 5
 ---
 `float  volumeindex(<geometry>geometry, int primnum, vector voxel)`

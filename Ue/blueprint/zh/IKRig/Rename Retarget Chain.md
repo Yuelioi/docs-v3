@@ -1,5 +1,5 @@
 ---
-display_name: Rename Retarget Chain
+title: Rename Retarget Chain
 order: 39
 ---
 ## Navigation

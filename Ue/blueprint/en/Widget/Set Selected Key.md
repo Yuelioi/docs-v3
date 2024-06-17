@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Key
+title: Set Selected Key
 order: 30
 ---
 ## Navigation

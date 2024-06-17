@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Cell Channels Absolute with Validation
+title: Get Matrix Cell Channels Absolute with Validation
 order: 15
 ---
 ## Navigation

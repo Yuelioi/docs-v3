@@ -1,5 +1,5 @@
 ---
-display_name: Set Integer Array Parameter
+title: Set Integer Array Parameter
 order: 22
 ---
 ## Navigation

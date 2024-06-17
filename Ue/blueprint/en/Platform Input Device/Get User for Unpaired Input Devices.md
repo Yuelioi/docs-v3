@@ -1,5 +1,5 @@
 ---
-display_name: Get User for Unpaired Input Devices
+title: Get User for Unpaired Input Devices
 order: 10
 ---
 ## Navigation

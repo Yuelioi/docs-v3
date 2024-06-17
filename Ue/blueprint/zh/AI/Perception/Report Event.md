@@ -1,5 +1,5 @@
 ---
-display_name: Report Event
+title: Report Event
 order: 16
 ---
 ## Navigation

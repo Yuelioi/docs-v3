@@ -1,5 +1,5 @@
 ---
-display_name: Get All Output Connector Types
+title: Get All Output Connector Types
 order: 53
 ---
 ## Navigation

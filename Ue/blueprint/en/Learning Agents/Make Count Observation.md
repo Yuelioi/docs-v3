@@ -1,5 +1,5 @@
 ---
-display_name: Make Count Observation
+title: Make Count Observation
 order: 171
 ---
 ## Navigation

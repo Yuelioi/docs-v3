@@ -1,5 +1,5 @@
 ---
-display_name: pcopen
+title: pcopen
 order: 26
 ---
 `int  pcopen(string filename, string channel, int shaded, ...)`

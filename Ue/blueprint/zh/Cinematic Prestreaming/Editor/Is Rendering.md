@@ -1,5 +1,5 @@
 ---
-display_name: Is Rendering
+title: Is Rendering
 order: 3
 ---
 ## Navigation

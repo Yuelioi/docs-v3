@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Blend Stack Anim Asset Time
+title: Get Current Blend Stack Anim Asset Time
 order: 5
 ---
 ## Navigation

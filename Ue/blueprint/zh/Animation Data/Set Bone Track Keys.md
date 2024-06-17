@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Track Keys
+title: Set Bone Track Keys
 order: 18
 ---
 ## Navigation

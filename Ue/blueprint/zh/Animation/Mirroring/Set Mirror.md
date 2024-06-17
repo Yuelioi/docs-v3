@@ -1,5 +1,5 @@
 ---
-display_name: Set Mirror
+title: Set Mirror
 order: 6
 ---
 ## Navigation

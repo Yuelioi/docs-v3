@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Int
+title: Get Control Int
 order: 11
 ---
 ## Navigation

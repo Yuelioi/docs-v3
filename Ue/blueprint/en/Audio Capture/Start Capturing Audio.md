@@ -1,5 +1,5 @@
 ---
-display_name: Start Capturing Audio
+title: Start Capturing Audio
 order: 4
 ---
 ## Navigation

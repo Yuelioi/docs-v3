@@ -1,5 +1,5 @@
 ---
-display_name: Is Defined as Constant
+title: Is Defined as Constant
 order: 43
 ---
 ## Navigation

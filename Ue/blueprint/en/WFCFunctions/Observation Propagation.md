@@ -1,5 +1,5 @@
 ---
-display_name: Observation Propagation
+title: Observation Propagation
 order: 5
 ---
 ## Navigation

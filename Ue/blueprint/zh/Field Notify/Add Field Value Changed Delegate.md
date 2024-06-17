@@ -1,5 +1,5 @@
 ---
-display_name: Add Field Value Changed Delegate
+title: Add Field Value Changed Delegate
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Auto Align All Bones
+title: Auto Align All Bones
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Master Submix Effect
+title: Remove Master Submix Effect
 order: 13
 ---
 ## Navigation

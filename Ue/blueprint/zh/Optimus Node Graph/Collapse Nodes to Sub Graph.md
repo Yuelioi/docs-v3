@@ -1,5 +1,5 @@
 ---
-display_name: Collapse Nodes to Sub Graph
+title: Collapse Nodes to Sub Graph
 order: 13
 ---
 ## Navigation

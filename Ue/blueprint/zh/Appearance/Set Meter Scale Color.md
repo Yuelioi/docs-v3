@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Scale Color
+title: Set Meter Scale Color
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Spotlight Intensity Scale
+title: Set Spotlight Intensity Scale
 order: 9
 ---
 ## Navigation

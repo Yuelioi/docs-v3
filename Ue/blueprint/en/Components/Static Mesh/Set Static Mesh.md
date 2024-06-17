@@ -1,5 +1,5 @@
 ---
-display_name: Set Static Mesh
+title: Set Static Mesh
 order: 2
 ---
 ## Navigation

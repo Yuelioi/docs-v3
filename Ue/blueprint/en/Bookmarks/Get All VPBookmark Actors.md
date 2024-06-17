@@ -1,5 +1,5 @@
 ---
-display_name: Get All VPBookmark Actors
+title: Get All VPBookmark Actors
 order: 8
 ---
 ## Navigation

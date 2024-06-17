@@ -1,5 +1,5 @@
 ---
-display_name: Create New C++ Component
+title: Create New C++ Component
 order: 8
 ---
 ## Navigation

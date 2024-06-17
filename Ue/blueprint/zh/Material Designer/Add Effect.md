@@ -1,5 +1,5 @@
 ---
-display_name: Add Effect
+title: Add Effect
 order: 1
 ---
 ## Navigation

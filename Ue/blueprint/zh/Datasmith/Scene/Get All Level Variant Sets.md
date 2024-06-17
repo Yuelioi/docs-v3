@@ -1,5 +1,5 @@
 ---
-display_name: Get All Level Variant Sets
+title: Get All Level Variant Sets
 order: 16
 ---
 ## Navigation

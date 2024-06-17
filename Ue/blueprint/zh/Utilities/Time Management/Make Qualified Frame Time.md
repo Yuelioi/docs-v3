@@ -1,5 +1,5 @@
 ---
-display_name: Make Qualified Frame Time
+title: Make Qualified Frame Time
 order: 10
 ---
 ## Navigation

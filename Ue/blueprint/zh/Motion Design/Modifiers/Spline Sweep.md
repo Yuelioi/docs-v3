@@ -1,5 +1,5 @@
 ---
-display_name: Spline Sweep
+title: Spline Sweep
 order: 7
 ---
 ## Navigation

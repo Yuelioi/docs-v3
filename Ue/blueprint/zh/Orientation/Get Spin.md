@@ -1,5 +1,5 @@
 ---
-display_name: Get Spin
+title: Get Spin
 order: 8
 ---
 ## Navigation

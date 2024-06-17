@@ -1,5 +1,5 @@
 ---
-display_name: Get Text
+title: Get Text
 order: 12
 ---
 ## Navigation

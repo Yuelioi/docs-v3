@@ -1,5 +1,5 @@
 ---
-display_name: On Completed
+title: On Completed
 order: 17
 ---
 ## Navigation

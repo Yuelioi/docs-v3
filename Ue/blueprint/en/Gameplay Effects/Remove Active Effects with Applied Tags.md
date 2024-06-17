@@ -1,5 +1,5 @@
 ---
-display_name: Remove Active Effects with Applied Tags
+title: Remove Active Effects with Applied Tags
 order: 12
 ---
 ## Navigation

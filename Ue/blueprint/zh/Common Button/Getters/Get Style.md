@@ -1,5 +1,5 @@
 ---
-display_name: Get Style
+title: Get Style
 order: 12
 ---
 ## Navigation

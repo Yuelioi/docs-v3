@@ -1,5 +1,5 @@
 ---
-display_name: Vector Mirror by Plane
+title: Vector Mirror by Plane
 order: 84
 ---
 ## Navigation

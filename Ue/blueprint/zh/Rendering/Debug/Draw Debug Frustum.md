@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Frustum
+title: Draw Debug Frustum
 order: 12
 ---
 ## Navigation

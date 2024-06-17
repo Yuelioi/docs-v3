@@ -1,5 +1,5 @@
 ---
-display_name: Editor Load Asset
+title: Editor Load Asset
 order: 1
 ---
 ## Navigation

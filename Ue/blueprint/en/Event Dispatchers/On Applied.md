@@ -1,5 +1,5 @@
 ---
-display_name: On Applied
+title: On Applied
 order: 45
 ---
 ## Navigation

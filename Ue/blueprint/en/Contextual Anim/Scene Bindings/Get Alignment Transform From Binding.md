@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment Transform From Binding
+title: Get Alignment Transform From Binding
 order: 5
 ---
 ## Navigation

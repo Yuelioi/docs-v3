@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Lifetime Props
+title: Get Particle Module Lifetime Props
 order: 70
 ---
 ## Navigation

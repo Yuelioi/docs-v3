@@ -1,5 +1,5 @@
 ---
-display_name: AppendSplinePoint
+title: AppendSplinePoint
 order: 4
 ---
 ## Navigation

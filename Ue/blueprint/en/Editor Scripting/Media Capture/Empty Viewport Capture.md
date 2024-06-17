@@ -1,5 +1,5 @@
 ---
-display_name: Empty Viewport Capture
+title: Empty Viewport Capture
 order: 4
 ---
 ## Navigation

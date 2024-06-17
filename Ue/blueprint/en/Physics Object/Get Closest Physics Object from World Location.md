@@ -1,5 +1,5 @@
 ---
-display_name: Get Closest Physics Object from World Location
+title: Get Closest Physics Object from World Location
 order: 3
 ---
 ## Navigation

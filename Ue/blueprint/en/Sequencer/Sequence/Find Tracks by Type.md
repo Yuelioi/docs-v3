@@ -1,5 +1,5 @@
 ---
-display_name: Find Tracks by Type
+title: Find Tracks by Type
 order: 21
 ---
 ## Navigation

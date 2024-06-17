@@ -1,5 +1,5 @@
 ---
-display_name: Is Link Playing (Message)
+title: Is Link Playing (Message)
 order: 1
 ---
 ## Navigation

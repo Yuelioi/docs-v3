@@ -1,5 +1,5 @@
 ---
-display_name: getbounces
+title: getbounces
 order: 10
 ---
 `int  getbounces(bsdf b)`

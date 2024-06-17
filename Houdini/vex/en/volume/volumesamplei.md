@@ -1,5 +1,5 @@
 ---
-display_name: volumesamplei
+title: volumesamplei
 order: 16
 ---
 `int  volumesamplei(<geometry>geometry, int primnum, vector pos)`

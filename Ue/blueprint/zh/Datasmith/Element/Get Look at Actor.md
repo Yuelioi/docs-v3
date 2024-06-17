@@ -1,5 +1,5 @@
 ---
-display_name: Get Look at Actor
+title: Get Look at Actor
 order: 41
 ---
 ## Navigation

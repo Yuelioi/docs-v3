@@ -1,5 +1,5 @@
 ---
-display_name: Set User Activity
+title: Set User Activity
 order: 55
 ---
 ## Navigation

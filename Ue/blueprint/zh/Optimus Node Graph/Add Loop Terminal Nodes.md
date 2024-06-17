@@ -1,5 +1,5 @@
 ---
-display_name: Add Loop Terminal Nodes
+title: Add Loop Terminal Nodes
 order: 5
 ---
 ## Navigation

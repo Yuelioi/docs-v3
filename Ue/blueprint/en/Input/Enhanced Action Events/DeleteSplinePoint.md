@@ -1,5 +1,5 @@
 ---
-display_name: DeleteSplinePoint
+title: DeleteSplinePoint
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Validate Path
+title: Validate Path
 order: 87
 ---
 ## Navigation

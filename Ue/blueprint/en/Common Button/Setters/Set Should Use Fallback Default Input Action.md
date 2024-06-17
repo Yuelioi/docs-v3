@@ -1,5 +1,5 @@
 ---
-display_name: Set Should Use Fallback Default Input Action
+title: Set Should Use Fallback Default Input Action
 order: 13
 ---
 ## Navigation

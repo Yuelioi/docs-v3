@@ -1,5 +1,5 @@
 ---
-display_name: Clear UVList
+title: Clear UVList
 order: 4
 ---
 ## Navigation

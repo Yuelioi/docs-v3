@@ -1,5 +1,5 @@
 ---
-display_name: Get All Pins Recursively
+title: Get All Pins Recursively
 order: 8
 ---
 ## Navigation

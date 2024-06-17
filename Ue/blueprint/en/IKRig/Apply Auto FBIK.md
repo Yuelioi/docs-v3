@@ -1,5 +1,5 @@
 ---
-display_name: Apply Auto FBIK
+title: Apply Auto FBIK
 order: 5
 ---
 ## Navigation

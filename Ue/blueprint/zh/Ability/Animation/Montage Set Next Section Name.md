@@ -1,5 +1,5 @@
 ---
-display_name: Montage Set Next Section Name
+title: Montage Set Next Section Name
 order: 2
 ---
 ## Navigation

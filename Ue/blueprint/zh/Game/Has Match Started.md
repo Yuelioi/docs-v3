@@ -1,5 +1,5 @@
 ---
-display_name: Has Match Started
+title: Has Match Started
 order: 47
 ---
 ## Navigation

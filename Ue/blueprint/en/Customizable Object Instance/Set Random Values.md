@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Values
+title: Set Random Values
 order: 76
 ---
 ## Navigation

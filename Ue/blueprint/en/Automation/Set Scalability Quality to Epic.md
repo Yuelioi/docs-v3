@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalability Quality to Epic
+title: Set Scalability Quality to Epic
 order: 31
 ---
 ## Navigation

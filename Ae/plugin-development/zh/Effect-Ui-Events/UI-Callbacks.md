@@ -1,5 +1,5 @@
 ---
-display_name: UI-Callbacks
+title: UI-Callbacks
 order: 7
 ---
 

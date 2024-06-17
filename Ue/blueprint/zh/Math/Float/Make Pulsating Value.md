@@ -1,5 +1,5 @@
 ---
-display_name: Make Pulsating Value
+title: Make Pulsating Value
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Post Forwards Solve
+title: On Post Forwards Solve
 order: 17
 ---
 ## Navigation

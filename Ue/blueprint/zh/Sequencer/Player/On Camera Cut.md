@@ -1,5 +1,5 @@
 ---
-display_name: On Camera Cut
+title: On Camera Cut
 order: 24
 ---
 ## Navigation

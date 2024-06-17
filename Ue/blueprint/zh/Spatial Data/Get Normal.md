@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal
+title: Get Normal
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Oculus Identity
+title: Get Oculus Identity
 order: 1
 ---
 ## Navigation

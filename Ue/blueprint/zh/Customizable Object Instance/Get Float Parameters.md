@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Parameters
+title: Get Float Parameters
 order: 22
 ---
 ## Navigation

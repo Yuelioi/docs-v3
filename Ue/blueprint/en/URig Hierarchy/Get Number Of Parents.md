@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Parents
+title: Get Number Of Parents
 order: 61
 ---
 ## Navigation

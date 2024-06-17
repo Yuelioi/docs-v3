@@ -1,5 +1,5 @@
 ---
-display_name: Set All Mass Scale
+title: Set All Mass Scale
 order: 16
 ---
 ## Navigation

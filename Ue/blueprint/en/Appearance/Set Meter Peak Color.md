@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Peak Color
+title: Set Meter Peak Color
 order: 59
 ---
 ## Navigation

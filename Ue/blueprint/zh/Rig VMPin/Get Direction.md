@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction
+title: Get Direction
 order: 11
 ---
 ## Navigation

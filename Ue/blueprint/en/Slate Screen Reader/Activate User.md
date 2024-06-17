@@ -1,5 +1,5 @@
 ---
-display_name: Activate User
+title: Activate User
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin Index
+title: Get Pin Index
 order: 22
 ---
 ## Navigation

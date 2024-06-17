@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Marquee
+title: Set Is Marquee
 order: 2
 ---
 ## Navigation

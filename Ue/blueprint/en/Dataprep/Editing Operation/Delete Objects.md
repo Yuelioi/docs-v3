@@ -1,5 +1,5 @@
 ---
-display_name: Delete Objects
+title: Delete Objects
 order: 5
 ---
 ## Navigation

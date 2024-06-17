@@ -1,5 +1,5 @@
 ---
-display_name: Home
+title: Home
 order: 49
 ---
 ## Navigation

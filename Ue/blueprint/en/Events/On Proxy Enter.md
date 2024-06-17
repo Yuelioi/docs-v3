@@ -1,5 +1,5 @@
 ---
-display_name: On Proxy Enter
+title: On Proxy Enter
 order: 25
 ---
 ## Navigation

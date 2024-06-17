@@ -1,5 +1,5 @@
 ---
-display_name: Get Sense Class for Stimulus
+title: Get Sense Class for Stimulus
 order: 10
 ---
 ## Navigation

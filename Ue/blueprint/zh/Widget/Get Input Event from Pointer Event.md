@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Event from Pointer Event
+title: Get Input Event from Pointer Event
 order: 25
 ---
 ## Navigation

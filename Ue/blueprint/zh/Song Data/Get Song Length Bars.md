@@ -1,5 +1,5 @@
 ---
-display_name: Get Song Length Bars
+title: Get Song Length Bars
 order: 1
 ---
 ## Navigation

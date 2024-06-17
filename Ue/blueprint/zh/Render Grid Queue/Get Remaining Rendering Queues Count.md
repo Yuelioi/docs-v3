@@ -1,5 +1,5 @@
 ---
-display_name: Get Remaining Rendering Queues Count
+title: Get Remaining Rendering Queues Count
 order: 14
 ---
 ## Navigation

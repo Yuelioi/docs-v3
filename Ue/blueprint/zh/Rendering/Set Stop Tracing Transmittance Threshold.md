@@ -1,5 +1,5 @@
 ---
-display_name: Set Stop Tracing Transmittance Threshold
+title: Set Stop Tracing Transmittance Threshold
 order: 85
 ---
 ## Navigation

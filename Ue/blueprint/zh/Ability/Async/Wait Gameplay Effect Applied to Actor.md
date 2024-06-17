@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Applied to Actor
+title: Wait Gameplay Effect Applied to Actor
 order: 2
 ---
 ## Navigation

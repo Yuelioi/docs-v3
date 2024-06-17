@@ -1,5 +1,5 @@
 ---
-display_name: HTTPResponse Recieved Delegate
+title: HTTPResponse Recieved Delegate
 order: 65
 ---
 ## Navigation

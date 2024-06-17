@@ -1,5 +1,5 @@
 ---
-display_name: Select Tab by ID
+title: Select Tab by ID
 order: 15
 ---
 ## Navigation

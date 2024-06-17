@@ -1,5 +1,5 @@
 ---
-display_name: Add Attributes Filtered
+title: Add Attributes Filtered
 order: 4
 ---
 ## Navigation

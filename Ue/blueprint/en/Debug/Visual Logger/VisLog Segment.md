@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Segment
+title: VisLog Segment
 order: 11
 ---
 ## Navigation

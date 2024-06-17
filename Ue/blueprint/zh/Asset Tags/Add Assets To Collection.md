@@ -1,5 +1,5 @@
 ---
-display_name: Add Assets To Collection
+title: Add Assets To Collection
 order: 6
 ---
 ## Navigation

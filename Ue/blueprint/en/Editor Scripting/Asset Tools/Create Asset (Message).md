@@ -1,5 +1,5 @@
 ---
-display_name: Create Asset (Message)
+title: Create Asset (Message)
 order: 4
 ---
 ## Navigation

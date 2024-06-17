@@ -1,5 +1,5 @@
 ---
-display_name: Get Image Capture Protocol
+title: Get Image Capture Protocol
 order: 6
 ---
 ## Navigation

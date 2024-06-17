@@ -1,5 +1,5 @@
 ---
-display_name: Restore Landscape Editing
+title: Restore Landscape Editing
 order: 2
 ---
 ## Navigation

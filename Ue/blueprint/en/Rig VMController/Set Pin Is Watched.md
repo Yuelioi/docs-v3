@@ -1,5 +1,5 @@
 ---
-display_name: Set Pin Is Watched
+title: Set Pin Is Watched
 order: 123
 ---
 ## Navigation

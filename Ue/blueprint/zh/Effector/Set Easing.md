@@ -1,5 +1,5 @@
 ---
-display_name: Set Easing
+title: Set Easing
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Response Message
+title: Get Response Message
 order: 2
 ---
 ## Navigation

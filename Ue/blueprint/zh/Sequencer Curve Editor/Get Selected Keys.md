@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Keys
+title: Get Selected Keys
 order: 6
 ---
 ## Navigation

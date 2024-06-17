@@ -1,5 +1,5 @@
 ---
-display_name: On Delete Actors End
+title: On Delete Actors End
 order: 34
 ---
 ## Navigation

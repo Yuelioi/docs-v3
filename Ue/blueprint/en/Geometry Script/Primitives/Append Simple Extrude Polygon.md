@@ -1,5 +1,5 @@
 ---
-display_name: Append Simple Extrude Polygon
+title: Append Simple Extrude Polygon
 order: 16
 ---
 ## Navigation

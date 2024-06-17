@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Display Name
+title: Get Channel Display Name
 order: 6
 ---
 ## Navigation

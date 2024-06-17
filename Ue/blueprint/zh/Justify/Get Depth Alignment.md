@@ -1,5 +1,5 @@
 ---
-display_name: Get Depth Alignment
+title: Get Depth Alignment
 order: 1
 ---
 ## Navigation

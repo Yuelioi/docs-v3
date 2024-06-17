@@ -1,5 +1,5 @@
 ---
-display_name: Copy Points From
+title: Copy Points From
 order: 3
 ---
 ## Navigation

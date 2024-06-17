@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Classes
+title: Get Supported Classes
 order: 1
 ---
 ## Navigation

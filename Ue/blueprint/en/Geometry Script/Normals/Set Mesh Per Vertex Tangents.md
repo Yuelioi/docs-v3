@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Per Vertex Tangents
+title: Set Mesh Per Vertex Tangents
 order: 11
 ---
 ## Navigation

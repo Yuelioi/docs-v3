@@ -1,5 +1,5 @@
 ---
-display_name: insert
+title: insert
 order: 6
 ---
 

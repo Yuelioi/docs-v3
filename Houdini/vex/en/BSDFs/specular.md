@@ -1,5 +1,5 @@
 ---
-display_name: specular
+title: specular
 order: 21
 ---
 ![](../../images/rendering/specular.png)

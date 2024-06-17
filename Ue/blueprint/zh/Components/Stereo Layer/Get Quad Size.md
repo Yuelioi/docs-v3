@@ -1,5 +1,5 @@
 ---
-display_name: Get Quad Size
+title: Get Quad Size
 order: 3
 ---
 ## Navigation

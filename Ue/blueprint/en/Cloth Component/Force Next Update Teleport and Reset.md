@@ -1,5 +1,5 @@
 ---
-display_name: Force Next Update Teleport and Reset
+title: Force Next Update Teleport and Reset
 order: 1
 ---
 ## Navigation

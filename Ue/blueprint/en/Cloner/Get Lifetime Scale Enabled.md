@@ -1,5 +1,5 @@
 ---
-display_name: Get Lifetime Scale Enabled
+title: Get Lifetime Scale Enabled
 order: 21
 ---
 ## Navigation

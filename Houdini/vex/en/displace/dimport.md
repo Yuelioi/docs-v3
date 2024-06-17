@@ -1,5 +1,5 @@
 ---
-display_name: dimport
+title: dimport
 order: 1
 ---
 | Context(s) | [fog](../contexts/fog.html)  [light](../contexts/light.html)  [shadow](../contexts/shadow.html)  [surface](../contexts/surface.html) |

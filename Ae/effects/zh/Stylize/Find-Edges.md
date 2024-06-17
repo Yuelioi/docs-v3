@@ -1,5 +1,5 @@
 ---
-display_name: 查找边缘
+title: 查找边缘
 order: 16
 ---
 

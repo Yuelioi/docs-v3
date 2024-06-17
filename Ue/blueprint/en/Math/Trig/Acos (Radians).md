@@ -1,5 +1,5 @@
 ---
-display_name: Acos (Radians)
+title: Acos (Radians)
 order: 2
 ---
 ## Navigation

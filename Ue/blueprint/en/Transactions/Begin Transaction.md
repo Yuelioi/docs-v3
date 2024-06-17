@@ -1,5 +1,5 @@
 ---
-display_name: Begin Transaction
+title: Begin Transaction
 order: 1
 ---
 ## Navigation

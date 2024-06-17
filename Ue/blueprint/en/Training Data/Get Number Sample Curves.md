@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Sample Curves
+title: Get Number Sample Curves
 order: 3
 ---
 ## Navigation

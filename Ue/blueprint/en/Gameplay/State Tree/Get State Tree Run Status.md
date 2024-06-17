@@ -1,5 +1,5 @@
 ---
-display_name: Get State Tree Run Status
+title: Get State Tree Run Status
 order: 1
 ---
 ## Navigation

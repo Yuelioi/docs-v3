@@ -1,5 +1,5 @@
 ---
-display_name: Set Tangents Type
+title: Set Tangents Type
 order: 20
 ---
 ## Navigation

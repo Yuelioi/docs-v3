@@ -1,5 +1,5 @@
 ---
-display_name: Get Effective Output Resolution
+title: Get Effective Output Resolution
 order: 23
 ---
 ## Navigation

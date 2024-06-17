@@ -1,5 +1,5 @@
 ---
-display_name: Add Properties to Object (Message)
+title: Add Properties to Object (Message)
 order: 3
 ---
 ## Navigation

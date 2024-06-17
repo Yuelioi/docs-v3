@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Enum)
+title: Get Default (Enum)
 order: 22
 ---
 ## Navigation

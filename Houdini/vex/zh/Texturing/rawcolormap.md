@@ -1,5 +1,5 @@
 ---
-display_name: rawcolormap
+title: rawcolormap
 order: 9
 ---
 `vector|vector4 rawcolormap(string filename, vector uvw, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Add Focal Length Point
+title: Add Focal Length Point
 order: 2
 ---
 ## Navigation

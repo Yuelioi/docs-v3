@@ -1,5 +1,5 @@
 ---
-display_name: RGB to HSV (LinearColor)
+title: RGB to HSV (LinearColor)
 order: 31
 ---
 ## Navigation

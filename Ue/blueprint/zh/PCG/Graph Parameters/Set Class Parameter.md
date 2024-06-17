@@ -1,5 +1,5 @@
 ---
-display_name: Set Class Parameter
+title: Set Class Parameter
 order: 24
 ---
 ## Navigation

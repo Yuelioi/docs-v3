@@ -1,5 +1,5 @@
 ---
-display_name: Get DMWorldSubsystem
+title: Get DMWorldSubsystem
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Duration
+title: Set Duration
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Int 32Metadata
+title: Set Int 32Metadata
 order: 148
 ---
 ## Navigation

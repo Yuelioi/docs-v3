@@ -1,5 +1,5 @@
 ---
-display_name: Get Overlay Material Max Draw Distance
+title: Get Overlay Material Max Draw Distance
 order: 18
 ---
 ## Navigation

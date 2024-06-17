@@ -1,5 +1,5 @@
 ---
-display_name: Get Rig Hierarchy to Graph Drag and Drop Context
+title: Get Rig Hierarchy to Graph Drag and Drop Context
 order: 5
 ---
 ## Navigation

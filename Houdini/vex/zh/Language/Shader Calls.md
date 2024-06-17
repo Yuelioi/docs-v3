@@ -1,5 +1,5 @@
 ---
-display_name: Shader Calls
+title: Shader Calls
 order: 4
 ---
 | On this page | * [The import keyword](#the-import-keyword) * [Invoking a shader](#invoking-a-shader) * [Context of the called shader](#context-of-the-called-shader) * [Examples](#examples) |

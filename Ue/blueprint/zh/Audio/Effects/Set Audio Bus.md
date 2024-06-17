@@ -1,5 +1,5 @@
 ---
-display_name: Set Audio Bus
+title: Set Audio Bus
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Struct Member
+title: Is Struct Member
 order: 48
 ---
 ## Navigation

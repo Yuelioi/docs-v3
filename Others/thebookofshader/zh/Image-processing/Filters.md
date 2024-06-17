@@ -1,5 +1,5 @@
 ---
-display_name: Filters
+title: Filters
 order: 1
 ---
 

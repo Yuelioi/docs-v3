@@ -1,5 +1,5 @@
 ---
-display_name: getlightname
+title: getlightname
 order: 18
 ---
 | Context(s) | [shading](../contexts/shading.html) |

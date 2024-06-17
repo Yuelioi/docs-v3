@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Hovered Brush
+title: Get Selected Hovered Brush
 order: 12
 ---
 ## Navigation

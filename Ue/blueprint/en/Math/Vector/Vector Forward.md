@@ -1,5 +1,5 @@
 ---
-display_name: Vector Forward
+title: Vector Forward
 order: 69
 ---
 ## Navigation

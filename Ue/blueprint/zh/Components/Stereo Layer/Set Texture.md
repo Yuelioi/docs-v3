@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture
+title: Set Texture
 order: 14
 ---
 ## Navigation

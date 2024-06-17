@@ -1,5 +1,5 @@
 ---
-display_name: On Notify End
+title: On Notify End
 order: 122
 ---
 ## Navigation

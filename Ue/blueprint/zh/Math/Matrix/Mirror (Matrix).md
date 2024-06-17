@@ -1,5 +1,5 @@
 ---
-display_name: Mirror (Matrix)
+title: Mirror (Matrix)
 order: 28
 ---
 ## Navigation

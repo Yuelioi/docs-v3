@@ -1,5 +1,5 @@
 ---
-display_name: On Graph Generated
+title: On Graph Generated
 order: 91
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Finished
+title: Finished
 order: 28
 ---
 ## Navigation

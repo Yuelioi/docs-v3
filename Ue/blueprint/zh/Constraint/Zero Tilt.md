@@ -1,5 +1,5 @@
 ---
-display_name: Zero Tilt
+title: Zero Tilt
 order: 5
 ---
 ## Navigation

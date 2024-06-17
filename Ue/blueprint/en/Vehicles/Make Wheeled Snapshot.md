@@ -1,5 +1,5 @@
 ---
-display_name: Make Wheeled Snapshot
+title: Make Wheeled Snapshot
 order: 6
 ---
 ## Navigation

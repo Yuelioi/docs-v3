@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Capture Mode
+title: Get Attribute Capture Mode
 order: 6
 ---
 ## Navigation

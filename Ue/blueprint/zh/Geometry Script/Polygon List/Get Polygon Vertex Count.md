@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Vertex Count
+title: Get Polygon Vertex Count
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Resume Tracing
+title: Resume Tracing
 order: 6
 ---
 ## Navigation

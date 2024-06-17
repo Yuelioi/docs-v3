@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected
+title: Set Selected
 order: 16
 ---
 ## Navigation

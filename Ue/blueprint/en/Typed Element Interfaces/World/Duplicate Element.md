@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Element
+title: Duplicate Element
 order: 16
 ---
 ## Navigation

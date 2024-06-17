@@ -1,5 +1,5 @@
 ---
-display_name: Get XRSystem Flags
+title: Get XRSystem Flags
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Compiled
+title: Is Compiled
 order: 24
 ---
 ## Navigation

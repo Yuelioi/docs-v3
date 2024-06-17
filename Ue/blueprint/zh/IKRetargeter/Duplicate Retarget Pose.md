@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Retarget Pose
+title: Duplicate Retarget Pose
 order: 3
 ---
 ## Navigation

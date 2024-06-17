@@ -1,5 +1,5 @@
 ---
-display_name: Receive Answer
+title: Receive Answer
 order: 15
 ---
 ## Navigation

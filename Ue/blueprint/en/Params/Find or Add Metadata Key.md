@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Metadata Key
+title: Find or Add Metadata Key
 order: 4
 ---
 ## Navigation

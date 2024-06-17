@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Vertex ID
+title: Is Valid Vertex ID
 order: 47
 ---
 ## Navigation

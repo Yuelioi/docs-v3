@@ -1,5 +1,5 @@
 ---
-display_name: Set String Parameter
+title: Set String Parameter
 order: 34
 ---
 ## Navigation

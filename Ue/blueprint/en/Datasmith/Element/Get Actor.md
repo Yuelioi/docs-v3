@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor
+title: Get Actor
 order: 10
 ---
 ## Navigation

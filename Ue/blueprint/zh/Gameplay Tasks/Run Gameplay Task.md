@@ -1,5 +1,5 @@
 ---
-display_name: Run Gameplay Task
+title: Run Gameplay Task
 order: 3
 ---
 ## Navigation

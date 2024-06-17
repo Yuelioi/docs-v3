@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Settings
+title: Get Global Settings
 order: 8
 ---
 ## Navigation

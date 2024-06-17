@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Object Type
+title: Set Collision Object Type
 order: 69
 ---
 ## Navigation

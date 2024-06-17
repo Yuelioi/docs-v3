@@ -1,5 +1,5 @@
 ---
-display_name: Create Asset
+title: Create Asset
 order: 3
 ---
 ## Navigation

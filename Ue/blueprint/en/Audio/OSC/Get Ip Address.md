@@ -1,5 +1,5 @@
 ---
-display_name: Get Ip Address
+title: Get Ip Address
 order: 27
 ---
 ## Navigation

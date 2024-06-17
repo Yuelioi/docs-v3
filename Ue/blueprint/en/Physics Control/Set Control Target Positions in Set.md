@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target Positions in Set
+title: Set Control Target Positions in Set
 order: 111
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Meta Data Tag Timestamp
+title: Get Take Meta Data Tag Timestamp
 order: 54
 ---
 ## Navigation

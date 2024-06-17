@@ -1,5 +1,5 @@
 ---
-display_name: Get Time at Frame
+title: Get Time at Frame
 order: 5
 ---
 ## Navigation

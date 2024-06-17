@@ -1,5 +1,5 @@
 ---
-display_name: Get Exclusive Discrete Observation
+title: Get Exclusive Discrete Observation
 order: 67
 ---
 ## Navigation

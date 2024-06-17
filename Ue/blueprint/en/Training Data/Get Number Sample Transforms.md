@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Sample Transforms
+title: Get Number Sample Transforms
 order: 5
 ---
 ## Navigation

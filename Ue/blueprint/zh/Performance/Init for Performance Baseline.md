@@ -1,5 +1,5 @@
 ---
-display_name: Init for Performance Baseline
+title: Init for Performance Baseline
 order: 4
 ---
 ## Navigation

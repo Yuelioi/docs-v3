@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Interface
+title: Is Valid Interface
 order: 22
 ---
 ## Navigation

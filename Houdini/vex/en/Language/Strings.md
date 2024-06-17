@@ -1,5 +1,5 @@
 ---
-display_name: Strings
+title: Strings
 order: 5
 ---
 | On this page | * [Overview](#overview) * [String Literals](#string-literals) * [Escape sequences in wrangles and VEXpressions](#escape-sequences-in-wrangles-and-vexpressions) * [Declaring string types](#declaring-string-types) * [Accessing and setting string values](#accessing-and-setting-string-values) * [Looping over a string](#looping-over-a-string) * [Working with strings](#working-with-strings) |

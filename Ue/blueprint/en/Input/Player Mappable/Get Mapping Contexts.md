@@ -1,5 +1,5 @@
 ---
-display_name: Get Mapping Contexts
+title: Get Mapping Contexts
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_setcollectionincludes
+title: usd_setcollectionincludes
 order: 127
 ---
 | Since | 18.0 |

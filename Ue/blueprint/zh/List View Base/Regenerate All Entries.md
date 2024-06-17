@@ -1,5 +1,5 @@
 ---
-display_name: Regenerate All Entries
+title: Regenerate All Entries
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Affect Dynamic Indirect Lighting
+title: Set Affect Dynamic Indirect Lighting
 order: 16
 ---
 ## Navigation

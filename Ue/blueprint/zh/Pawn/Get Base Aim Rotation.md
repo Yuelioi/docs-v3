@@ -1,5 +1,5 @@
 ---
-display_name: Get Base Aim Rotation
+title: Get Base Aim Rotation
 order: 4
 ---
 ## Navigation

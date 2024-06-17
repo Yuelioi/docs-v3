@@ -1,5 +1,5 @@
 ---
-display_name: Get Class or Path Name
+title: Get Class or Path Name
 order: 22
 ---
 ## Navigation

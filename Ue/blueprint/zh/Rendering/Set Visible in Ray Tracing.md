@@ -1,5 +1,5 @@
 ---
-display_name: Set Visible in Ray Tracing
+title: Set Visible in Ray Tracing
 order: 96
 ---
 ## Navigation

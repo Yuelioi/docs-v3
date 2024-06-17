@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Local Time
+title: Set Current Local Time
 order: 62
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Aspect Ratio
+title: Set Min Aspect Ratio
 order: 13
 ---
 ## Navigation

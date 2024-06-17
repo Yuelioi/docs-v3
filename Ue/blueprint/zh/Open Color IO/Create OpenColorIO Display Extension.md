@@ -1,5 +1,5 @@
 ---
-display_name: Create OpenColorIO Display Extension
+title: Create OpenColorIO Display Extension
 order: 6
 ---
 ## Navigation

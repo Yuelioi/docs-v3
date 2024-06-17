@@ -1,5 +1,5 @@
 ---
-display_name: Set IKRig Goal Transform
+title: Set IKRig Goal Transform
 order: 5
 ---
 ## Navigation

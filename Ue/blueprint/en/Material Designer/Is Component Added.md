@@ -1,5 +1,5 @@
 ---
-display_name: Is Component Added
+title: Is Component Added
 order: 165
 ---
 ## Navigation

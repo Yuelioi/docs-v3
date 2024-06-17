@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Fog Density
+title: Set Radial Fog Density
 order: 69
 ---
 ## Navigation

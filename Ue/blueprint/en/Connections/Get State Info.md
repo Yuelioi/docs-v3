@@ -1,5 +1,5 @@
 ---
-display_name: Get State Info
+title: Get State Info
 order: 2
 ---
 ## Navigation

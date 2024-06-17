@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: 蒙尘与划痕
+title: 蒙尘与划痕
 ---
 
 # Dust Scratches - 蒙尘与划痕

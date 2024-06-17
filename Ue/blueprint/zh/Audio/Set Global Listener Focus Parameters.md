@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Listener Focus Parameters
+title: Set Global Listener Focus Parameters
 order: 9
 ---
 ## Navigation

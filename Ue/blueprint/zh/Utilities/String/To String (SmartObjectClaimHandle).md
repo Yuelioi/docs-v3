@@ -1,5 +1,5 @@
 ---
-display_name: To String (SmartObjectClaimHandle)
+title: To String (SmartObjectClaimHandle)
 order: 75
 ---
 ## Navigation

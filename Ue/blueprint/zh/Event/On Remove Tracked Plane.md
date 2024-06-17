@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Plane
+title: On Remove Tracked Plane
 order: 13
 ---
 ## Navigation

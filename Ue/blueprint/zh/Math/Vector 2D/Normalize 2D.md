@@ -1,5 +1,5 @@
 ---
-display_name: Normalize 2D
+title: Normalize 2D
 order: 18
 ---
 ## Navigation

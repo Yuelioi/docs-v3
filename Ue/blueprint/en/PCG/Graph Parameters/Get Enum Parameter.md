@@ -1,5 +1,5 @@
 ---
-display_name: Get Enum Parameter
+title: Get Enum Parameter
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Discard Mesh Attributes
+title: Discard Mesh Attributes
 order: 15
 ---
 ## Navigation

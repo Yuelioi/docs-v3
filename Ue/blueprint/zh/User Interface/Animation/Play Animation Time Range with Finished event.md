@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation Time Range with Finished event
+title: Play Animation Time Range with Finished event
 order: 10
 ---
 ## Navigation

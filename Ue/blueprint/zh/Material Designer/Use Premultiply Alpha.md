@@ -1,5 +1,5 @@
 ---
-display_name: Use Premultiply Alpha
+title: Use Premultiply Alpha
 order: 245
 ---
 ## Navigation

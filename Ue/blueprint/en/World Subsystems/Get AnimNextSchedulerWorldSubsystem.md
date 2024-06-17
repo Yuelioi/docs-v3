@@ -1,5 +1,5 @@
 ---
-display_name: Get AnimNextSchedulerWorldSubsystem
+title: Get AnimNextSchedulerWorldSubsystem
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: hair
+title: hair
 order: 12
 ---
 `bsdf  hair(vector N, vector tip, float lobe_shift, float lobe_width_lon, ...)`

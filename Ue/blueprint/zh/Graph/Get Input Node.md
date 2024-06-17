@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Node
+title: Get Input Node
 order: 3
 ---
 ## Navigation

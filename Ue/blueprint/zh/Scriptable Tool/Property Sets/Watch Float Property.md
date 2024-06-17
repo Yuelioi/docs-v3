@@ -1,5 +1,5 @@
 ---
-display_name: Watch Float Property
+title: Watch Float Property
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is in Tablet Mode
+title: Is in Tablet Mode
 order: 5
 ---
 ## Navigation

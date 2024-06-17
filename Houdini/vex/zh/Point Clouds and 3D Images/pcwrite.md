@@ -1,5 +1,5 @@
 ---
-display_name: pcwrite
+title: pcwrite
 order: 33
 ---
 `int  pcwrite(string filename, ...)`

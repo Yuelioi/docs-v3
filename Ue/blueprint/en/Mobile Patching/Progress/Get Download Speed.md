@@ -1,5 +1,5 @@
 ---
-display_name: Get Download Speed
+title: Get Download Speed
 order: 1
 ---
 ## Navigation

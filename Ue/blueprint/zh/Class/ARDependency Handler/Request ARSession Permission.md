@@ -1,5 +1,5 @@
 ---
-display_name: Request ARSession Permission
+title: Request ARSession Permission
 order: 4
 ---
 ## Navigation

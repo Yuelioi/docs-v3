@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle List Length
+title: Get Triangle List Length
 order: 36
 ---
 ## Navigation

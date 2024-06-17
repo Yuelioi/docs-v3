@@ -1,5 +1,5 @@
 ---
-display_name: Collect Garbage
+title: Collect Garbage
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Capture Time
+title: Get Capture Time
 order: 6
 ---
 ## Navigation

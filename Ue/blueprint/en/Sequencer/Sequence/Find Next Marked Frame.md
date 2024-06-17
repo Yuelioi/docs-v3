@@ -1,5 +1,5 @@
 ---
-display_name: Find Next Marked Frame
+title: Find Next Marked Frame
 order: 19
 ---
 ## Navigation

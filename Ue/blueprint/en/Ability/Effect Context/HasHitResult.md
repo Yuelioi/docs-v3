@@ -1,5 +1,5 @@
 ---
-display_name: HasHitResult
+title: HasHitResult
 order: 8
 ---
 ## Navigation

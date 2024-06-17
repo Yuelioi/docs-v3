@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Name (Message)
+title: Get Display Name (Message)
 order: 1
 ---
 ## Navigation

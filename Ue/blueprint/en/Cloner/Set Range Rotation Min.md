@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Rotation Min
+title: Set Range Rotation Min
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Material by Name
+title: Set Material by Name
 order: 45
 ---
 ## Navigation

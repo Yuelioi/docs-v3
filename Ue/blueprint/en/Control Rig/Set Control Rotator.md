@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Rotator
+title: Set Control Rotator
 order: 33
 ---
 ## Navigation

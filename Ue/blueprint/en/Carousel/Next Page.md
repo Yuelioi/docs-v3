@@ -1,5 +1,5 @@
 ---
-display_name: Next Page
+title: Next Page
 order: 5
 ---
 ## Navigation

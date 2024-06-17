@@ -1,5 +1,5 @@
 ---
-display_name: Has IOPin
+title: Has IOPin
 order: 34
 ---
 ## Navigation

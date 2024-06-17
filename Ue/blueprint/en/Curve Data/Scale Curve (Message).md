@@ -1,5 +1,5 @@
 ---
-display_name: Scale Curve (Message)
+title: Scale Curve (Message)
 order: 15
 ---
 ## Navigation

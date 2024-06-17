@@ -1,5 +1,5 @@
 ---
-display_name: Dynamic Weighted Moving Average Vector
+title: Dynamic Weighted Moving Average Vector
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actors Within Modified Nodes
+title: Get Actors Within Modified Nodes
 order: 4
 ---
 ## Navigation

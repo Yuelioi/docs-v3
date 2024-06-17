@@ -1,5 +1,5 @@
 ---
-display_name: Get Allow Resize
+title: Get Allow Resize
 order: 11
 ---
 ## Navigation

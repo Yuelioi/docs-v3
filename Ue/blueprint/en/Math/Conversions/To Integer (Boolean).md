@@ -1,5 +1,5 @@
 ---
-display_name: To Integer (Boolean)
+title: To Integer (Boolean)
 order: 14
 ---
 ## Navigation

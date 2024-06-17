@@ -1,5 +1,5 @@
 ---
-display_name: Close Bracket (Message)
+title: Close Bracket (Message)
 order: 3
 ---
 ## Navigation

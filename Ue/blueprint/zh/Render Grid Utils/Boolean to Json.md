@@ -1,5 +1,5 @@
 ---
-display_name: Boolean to Json
+title: Boolean to Json
 order: 1
 ---
 ## Navigation

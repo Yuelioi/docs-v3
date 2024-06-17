@@ -1,5 +1,5 @@
 ---
-display_name: Get Axis Names
+title: Get Axis Names
 order: 27
 ---
 ## Navigation

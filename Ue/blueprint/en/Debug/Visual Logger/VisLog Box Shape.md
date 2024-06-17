@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Box Shape
+title: VisLog Box Shape
 order: 4
 ---
 ## Navigation

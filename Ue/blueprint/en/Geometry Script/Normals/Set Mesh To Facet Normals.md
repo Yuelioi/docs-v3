@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh To Facet Normals
+title: Set Mesh To Facet Normals
 order: 12
 ---
 ## Navigation

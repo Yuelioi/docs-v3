@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation Asset
+title: Set Animation Asset
 order: 18
 ---
 ## Navigation

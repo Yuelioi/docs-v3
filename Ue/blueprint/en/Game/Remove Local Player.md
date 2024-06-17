@@ -1,5 +1,5 @@
 ---
-display_name: Remove Local Player
+title: Remove Local Player
 order: 40
 ---
 ## Navigation

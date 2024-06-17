@@ -1,5 +1,5 @@
 ---
-display_name: Set Retarget Asset
+title: Set Retarget Asset
 order: 2
 ---
 ## Navigation

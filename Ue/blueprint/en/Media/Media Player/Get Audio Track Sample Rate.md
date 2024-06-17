@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Track Sample Rate
+title: Get Audio Track Sample Rate
 order: 6
 ---
 ## Navigation

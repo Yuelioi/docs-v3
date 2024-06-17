@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Normalized Focus
+title: Evaluate Normalized Focus
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh To Per Vertex Normals (From List)
+title: Set Mesh To Per Vertex Normals (From List)
 order: 14
 ---
 ## Navigation

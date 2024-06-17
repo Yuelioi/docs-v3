@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Mesh from Mesh
+title: Get Sub Mesh from Mesh
 order: 3
 ---
 ## Navigation

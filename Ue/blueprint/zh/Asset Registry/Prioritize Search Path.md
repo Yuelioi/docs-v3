@@ -1,5 +1,5 @@
 ---
-display_name: Prioritize Search Path
+title: Prioritize Search Path
 order: 39
 ---
 ## Navigation

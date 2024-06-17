@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Enabled
+title: Get Collision Enabled
 order: 24
 ---
 ## Navigation

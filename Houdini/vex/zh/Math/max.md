@@ -1,5 +1,5 @@
 ---
-display_name: max
+title: max
 order: 42
 ---
 `int  max(int value1, int value2, ...)`

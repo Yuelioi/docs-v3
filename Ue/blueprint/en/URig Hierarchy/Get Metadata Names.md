@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Names
+title: Get Metadata Names
 order: 52
 ---
 ## Navigation

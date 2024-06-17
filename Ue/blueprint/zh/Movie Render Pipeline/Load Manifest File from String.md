@@ -1,5 +1,5 @@
 ---
-display_name: Load Manifest File from String
+title: Load Manifest File from String
 order: 77
 ---
 ## Navigation

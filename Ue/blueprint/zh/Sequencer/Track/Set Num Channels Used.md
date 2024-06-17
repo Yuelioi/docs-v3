@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Channels Used
+title: Set Num Channels Used
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pointvertex
+title: pointvertex
 order: 22
 ---
 `int  pointvertex(<geometry>geometry, int point_num)`

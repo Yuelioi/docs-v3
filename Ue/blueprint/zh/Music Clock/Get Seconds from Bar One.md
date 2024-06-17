@@ -1,5 +1,5 @@
 ---
-display_name: Get Seconds from Bar One
+title: Get Seconds from Bar One
 order: 29
 ---
 ## Navigation

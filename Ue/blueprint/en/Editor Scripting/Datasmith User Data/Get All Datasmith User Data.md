@@ -1,5 +1,5 @@
 ---
-display_name: Get All Datasmith User Data
+title: Get All Datasmith User Data
 order: 1
 ---
 ## Navigation

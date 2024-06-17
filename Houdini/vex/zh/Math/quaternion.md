@@ -1,5 +1,5 @@
 ---
-display_name: quaternion
+title: quaternion
 order: 65
 ---
 [Unit quaternions are used to represent rotations](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation). This VEX function creates a unit quaternion that represents a rotation.

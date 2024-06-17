@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion on Episode Steps Recorded
+title: Make Completion on Episode Steps Recorded
 order: 162
 ---
 ## Navigation

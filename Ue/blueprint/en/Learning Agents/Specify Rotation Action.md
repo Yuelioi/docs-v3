@@ -1,5 +1,5 @@
 ---
-display_name: Specify Rotation Action
+title: Specify Rotation Action
 order: 321
 ---
 ## Navigation

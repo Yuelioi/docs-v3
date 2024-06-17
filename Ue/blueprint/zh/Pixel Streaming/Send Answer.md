@@ -1,5 +1,5 @@
 ---
-display_name: Send Answer
+title: Send Answer
 order: 17
 ---
 ## Navigation

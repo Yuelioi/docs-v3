@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Bool Array Literal
+title: Create MetaSound Bool Array Literal
 order: 2
 ---
 ## Navigation

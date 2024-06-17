@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Channel Loudness at Time
+title: Get Normalized Channel Loudness at Time
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agentmetadata
+title: agentmetadata
 order: 32
 ---
 | Since | 18.5 |

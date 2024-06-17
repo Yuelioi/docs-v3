@@ -1,5 +1,5 @@
 ---
-display_name: Get Stored Node
+title: Get Stored Node
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Layer for Material Property
+title: Get Last Layer for Material Property
 order: 85
 ---
 ## Navigation

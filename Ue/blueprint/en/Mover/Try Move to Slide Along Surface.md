@@ -1,5 +1,5 @@
 ---
-display_name: Try Move to Slide Along Surface
+title: Try Move to Slide Along Surface
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delete Endpoint
+title: Delete Endpoint
 order: 4
 ---
 ## Navigation

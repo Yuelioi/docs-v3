@@ -1,5 +1,5 @@
 ---
-display_name: Request Refresh Focus
+title: Request Refresh Focus
 order: 7
 ---
 ## Navigation

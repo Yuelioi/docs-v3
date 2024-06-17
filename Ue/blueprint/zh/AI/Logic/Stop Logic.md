@@ -1,5 +1,5 @@
 ---
-display_name: Stop Logic
+title: Stop Logic
 order: 8
 ---
 ## Navigation

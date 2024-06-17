@@ -1,5 +1,5 @@
 ---
-display_name: Delete Subobject from Instance
+title: Delete Subobject from Instance
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Transition Duration
+title: Set Transition Duration
 order: 4
 ---
 ## Navigation

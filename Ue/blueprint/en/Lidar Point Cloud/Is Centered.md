@@ -1,5 +1,5 @@
 ---
-display_name: Is Centered
+title: Is Centered
 order: 40
 ---
 ## Navigation

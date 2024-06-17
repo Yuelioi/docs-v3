@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Size Has End Frame
+title: Get Auto Size Has End Frame
 order: 13
 ---
 ## Navigation

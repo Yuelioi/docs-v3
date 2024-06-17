@@ -1,5 +1,5 @@
 ---
-display_name: SetPolyGroupForMeshSelection
+title: SetPolyGroupForMeshSelection
 order: 15
 ---
 ## Navigation

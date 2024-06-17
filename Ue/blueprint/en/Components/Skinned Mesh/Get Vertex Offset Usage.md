@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Offset Usage
+title: Get Vertex Offset Usage
 order: 21
 ---
 ## Navigation

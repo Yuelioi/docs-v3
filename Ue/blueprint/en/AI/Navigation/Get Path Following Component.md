@@ -1,5 +1,5 @@
 ---
-display_name: Get Path Following Component
+title: Get Path Following Component
 order: 14
 ---
 ## Navigation

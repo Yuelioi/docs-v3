@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Value as String
+title: Get Display Value as String
 order: 2
 ---
 ## Navigation

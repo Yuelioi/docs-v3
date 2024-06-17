@@ -1,5 +1,5 @@
 ---
-display_name: Parent Bones
+title: Parent Bones
 order: 15
 ---
 ## Navigation

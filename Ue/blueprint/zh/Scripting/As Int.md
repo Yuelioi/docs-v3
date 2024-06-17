@@ -1,5 +1,5 @@
 ---
-display_name: As Int
+title: As Int
 order: 5
 ---
 ## Navigation

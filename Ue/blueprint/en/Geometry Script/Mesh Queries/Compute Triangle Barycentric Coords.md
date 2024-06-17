@@ -1,5 +1,5 @@
 ---
-display_name: Compute Triangle Barycentric Coords
+title: Compute Triangle Barycentric Coords
 order: 2
 ---
 ## Navigation

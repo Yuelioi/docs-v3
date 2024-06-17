@@ -1,5 +1,5 @@
 ---
-display_name: Set Keyboard Focus
+title: Set Keyboard Focus
 order: 20
 ---
 ## Navigation

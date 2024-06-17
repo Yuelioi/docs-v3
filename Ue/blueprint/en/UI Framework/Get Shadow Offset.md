@@ -1,5 +1,5 @@
 ---
-display_name: Get Shadow Offset
+title: Get Shadow Offset
 order: 10
 ---
 ## Navigation

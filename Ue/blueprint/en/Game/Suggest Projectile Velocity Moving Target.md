@@ -1,5 +1,5 @@
 ---
-display_name: Suggest Projectile Velocity Moving Target
+title: Suggest Projectile Velocity Moving Target
 order: 55
 ---
 ## Navigation

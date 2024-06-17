@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Double)
+title: Assert Equal (Double)
 order: 3
 ---
 ## Navigation

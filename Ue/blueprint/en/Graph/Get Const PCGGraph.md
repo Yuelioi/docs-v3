@@ -1,5 +1,5 @@
 ---
-display_name: Get Const PCGGraph
+title: Get Const PCGGraph
 order: 2
 ---
 ## Navigation

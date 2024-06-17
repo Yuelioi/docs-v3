@@ -1,5 +1,5 @@
 ---
-display_name: 属性定义（bpy.props）
+title: 属性定义（bpy.props）
 order: 3
 ---
 

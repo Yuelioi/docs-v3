@@ -1,5 +1,5 @@
 ---
-display_name: Add Receiver
+title: Add Receiver
 order: 2
 ---
 ## Navigation

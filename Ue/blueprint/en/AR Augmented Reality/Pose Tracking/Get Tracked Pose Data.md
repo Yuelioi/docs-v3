@@ -1,5 +1,5 @@
 ---
-display_name: Get Tracked Pose Data
+title: Get Tracked Pose Data
 order: 2
 ---
 ## Navigation

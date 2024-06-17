@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Screenshot Options for Gameplay
+title: Get Default Screenshot Options for Gameplay
 order: 16
 ---
 ## Navigation

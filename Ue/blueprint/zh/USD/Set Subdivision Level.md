@@ -1,5 +1,5 @@
 ---
-display_name: Set Subdivision Level
+title: Set Subdivision Level
 order: 24
 ---
 ## Navigation

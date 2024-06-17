@@ -1,5 +1,5 @@
 ---
-display_name: Make Bounding Box from Points
+title: Make Bounding Box from Points
 order: 6
 ---
 ## Navigation

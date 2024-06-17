@@ -1,5 +1,5 @@
 ---
-display_name: Specify Pair Observation
+title: Specify Pair Observation
 order: 318
 ---
 ## Navigation

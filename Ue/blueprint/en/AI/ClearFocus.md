@@ -1,5 +1,5 @@
 ---
-display_name: ClearFocus
+title: ClearFocus
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Copy Mesh from Skeletal Mesh
+title: Copy Mesh from Skeletal Mesh
 order: 1
 ---
 ## Navigation

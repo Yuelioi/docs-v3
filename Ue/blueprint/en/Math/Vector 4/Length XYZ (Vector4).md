@@ -1,5 +1,5 @@
 ---
-display_name: Length XYZ (Vector4)
+title: Length XYZ (Vector4)
 order: 10
 ---
 ## Navigation

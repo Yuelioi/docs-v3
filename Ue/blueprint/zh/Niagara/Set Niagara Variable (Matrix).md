@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Matrix)
+title: Set Niagara Variable (Matrix)
 order: 36
 ---
 ## Navigation

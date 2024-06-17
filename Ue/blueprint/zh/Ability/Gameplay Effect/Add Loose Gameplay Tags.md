@@ -1,5 +1,5 @@
 ---
-display_name: Add Loose Gameplay Tags
+title: Add Loose Gameplay Tags
 order: 5
 ---
 ## Navigation

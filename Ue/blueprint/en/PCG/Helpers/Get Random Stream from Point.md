@@ -1,5 +1,5 @@
 ---
-display_name: Get Random Stream from Point
+title: Get Random Stream from Point
 order: 6
 ---
 ## Navigation

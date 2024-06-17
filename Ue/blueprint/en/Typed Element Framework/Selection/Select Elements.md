@@ -1,5 +1,5 @@
 ---
-display_name: Select Elements
+title: Select Elements
 order: 27
 ---
 ## Navigation

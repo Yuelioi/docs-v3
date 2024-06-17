@@ -1,5 +1,5 @@
 ---
-display_name: On Controller Map Updated Delegate
+title: On Controller Map Updated Delegate
 order: 37
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Operation Type
+title: Get Operation Type
 order: 50
 ---
 ## Navigation

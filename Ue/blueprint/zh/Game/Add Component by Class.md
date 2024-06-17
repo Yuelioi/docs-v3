@@ -1,5 +1,5 @@
 ---
-display_name: Add Component by Class
+title: Add Component by Class
 order: 2
 ---
 ## Navigation

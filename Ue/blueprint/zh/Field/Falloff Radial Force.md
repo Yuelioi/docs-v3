@@ -1,5 +1,5 @@
 ---
-display_name: Falloff Radial Force
+title: Falloff Radial Force
 order: 11
 ---
 ## Navigation

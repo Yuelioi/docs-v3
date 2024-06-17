@@ -1,5 +1,5 @@
 ---
-display_name: 阴影 Shadow
+title: 阴影 Shadow
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Sprite Color
+title: Get Sprite Color
 order: 10
 ---
 ## Navigation

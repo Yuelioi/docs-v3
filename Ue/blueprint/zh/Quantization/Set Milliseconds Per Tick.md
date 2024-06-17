@@ -1,5 +1,5 @@
 ---
-display_name: Set Milliseconds Per Tick
+title: Set Milliseconds Per Tick
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Scale Min
+title: Set Range Scale Min
 order: 49
 ---
 ## Navigation

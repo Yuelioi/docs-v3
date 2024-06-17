@@ -1,5 +1,5 @@
 ---
-display_name: 旋涡条纹
+title: 旋涡条纹
 order: 30
 ---
 

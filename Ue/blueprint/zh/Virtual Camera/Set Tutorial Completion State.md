@@ -1,5 +1,5 @@
 ---
-display_name: Set Tutorial Completion State
+title: Set Tutorial Completion State
 order: 14
 ---
 ## Navigation

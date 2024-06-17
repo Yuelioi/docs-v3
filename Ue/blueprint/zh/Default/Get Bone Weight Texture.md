@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Weight Texture
+title: Get Bone Weight Texture
 order: 5
 ---
 ## Navigation

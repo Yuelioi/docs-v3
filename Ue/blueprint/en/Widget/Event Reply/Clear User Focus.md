@@ -1,5 +1,5 @@
 ---
-display_name: Clear User Focus
+title: Clear User Focus
 order: 2
 ---
 ## Navigation

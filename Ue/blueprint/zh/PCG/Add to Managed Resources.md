@@ -1,5 +1,5 @@
 ---
-display_name: Add to Managed Resources
+title: Add to Managed Resources
 order: 1
 ---
 ## Navigation

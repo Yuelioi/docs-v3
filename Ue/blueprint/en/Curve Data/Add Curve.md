@@ -1,5 +1,5 @@
 ---
-display_name: Add Curve
+title: Add Curve
 order: 2
 ---
 ## Navigation

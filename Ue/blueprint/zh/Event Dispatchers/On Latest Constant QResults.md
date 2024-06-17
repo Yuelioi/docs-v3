@@ -1,5 +1,5 @@
 ---
-display_name: On Latest Constant QResults
+title: On Latest Constant QResults
 order: 101
 ---
 ## Navigation

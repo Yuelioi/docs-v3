@@ -1,5 +1,5 @@
 ---
-display_name: Get Opposite Adjacency
+title: Get Opposite Adjacency
 order: 10
 ---
 ## Navigation

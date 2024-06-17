@@ -1,5 +1,5 @@
 ---
-display_name: Claim Resource
+title: Claim Resource
 order: 1
 ---
 ## Navigation

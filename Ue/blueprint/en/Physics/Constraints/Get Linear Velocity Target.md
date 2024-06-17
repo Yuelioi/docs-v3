@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Velocity Target
+title: Get Linear Velocity Target
 order: 27
 ---
 ## Navigation

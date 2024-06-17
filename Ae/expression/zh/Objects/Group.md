@@ -1,5 +1,5 @@
 ---
-display_name: Group
+title: Group
 order: 5
 ---
 

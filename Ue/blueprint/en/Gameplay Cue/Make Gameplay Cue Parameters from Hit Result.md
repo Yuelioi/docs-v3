@@ -1,5 +1,5 @@
 ---
-display_name: Make Gameplay Cue Parameters from Hit Result
+title: Make Gameplay Cue Parameters from Hit Result
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enqueue Trigger Graph
+title: Enqueue Trigger Graph
 order: 1
 ---
 ## Navigation

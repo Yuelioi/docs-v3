@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Sequence Length in Frames
+title: Get Level Sequence Length in Frames
 order: 23
 ---
 ## Navigation

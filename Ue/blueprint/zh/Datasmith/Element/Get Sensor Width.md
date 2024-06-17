@@ -1,5 +1,5 @@
 ---
-display_name: Get Sensor Width
+title: Get Sensor Width
 order: 63
 ---
 ## Navigation

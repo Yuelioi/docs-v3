@@ -1,5 +1,5 @@
 ---
-display_name: Touch 4
+title: Touch 4
 order: 5
 ---
 ## Navigation

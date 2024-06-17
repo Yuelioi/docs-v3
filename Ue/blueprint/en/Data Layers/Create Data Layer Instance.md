@@ -1,5 +1,5 @@
 ---
-display_name: Create Data Layer Instance
+title: Create Data Layer Instance
 order: 10
 ---
 ## Navigation

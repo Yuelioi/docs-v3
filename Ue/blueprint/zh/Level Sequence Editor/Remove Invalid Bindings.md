@@ -1,5 +1,5 @@
 ---
-display_name: Remove Invalid Bindings
+title: Remove Invalid Bindings
 order: 54
 ---
 ## Navigation

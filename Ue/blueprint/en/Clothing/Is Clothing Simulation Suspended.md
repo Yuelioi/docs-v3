@@ -1,5 +1,5 @@
 ---
-display_name: Is Clothing Simulation Suspended
+title: Is Clothing Simulation Suspended
 order: 6
 ---
 ## Navigation

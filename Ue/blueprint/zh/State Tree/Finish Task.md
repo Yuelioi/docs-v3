@@ -1,5 +1,5 @@
 ---
-display_name: Finish Task
+title: Finish Task
 order: 1
 ---
 ## Navigation

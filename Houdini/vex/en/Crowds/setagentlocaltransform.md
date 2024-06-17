@@ -1,5 +1,5 @@
 ---
-display_name: setagentlocaltransform
+title: setagentlocaltransform
 order: 60
 ---
 `int  setagentlocaltransform(int geohandle, int prim, matrix transform, int index)`

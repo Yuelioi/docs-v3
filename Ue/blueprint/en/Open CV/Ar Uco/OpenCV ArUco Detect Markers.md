@@ -1,5 +1,5 @@
 ---
-display_name: OpenCV ArUco Detect Markers
+title: OpenCV ArUco Detect Markers
 order: 1
 ---
 ## Navigation

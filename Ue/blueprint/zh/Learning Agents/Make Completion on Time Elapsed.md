@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion on Time Elapsed
+title: Make Completion on Time Elapsed
 order: 166
 ---
 ## Navigation

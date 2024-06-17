@@ -1,5 +1,5 @@
 ---
-display_name: Add Motor Audio Component
+title: Add Motor Audio Component
 order: 1
 ---
 ## Navigation

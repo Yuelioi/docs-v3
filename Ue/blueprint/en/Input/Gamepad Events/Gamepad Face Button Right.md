@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Face Button Right
+title: Gamepad Face Button Right
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Asset Data
+title: Create Asset Data
 order: 1
 ---
 ## Navigation

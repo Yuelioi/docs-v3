@@ -1,5 +1,5 @@
 ---
-display_name: Verify Input Map
+title: Verify Input Map
 order: 247
 ---
 ## Navigation

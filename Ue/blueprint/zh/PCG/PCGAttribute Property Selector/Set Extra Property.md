@@ -1,5 +1,5 @@
 ---
-display_name: Set Extra Property
+title: Set Extra Property
 order: 10
 ---
 ## Navigation

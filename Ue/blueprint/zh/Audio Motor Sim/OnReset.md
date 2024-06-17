@@ -1,5 +1,5 @@
 ---
-display_name: OnReset
+title: OnReset
 order: 3
 ---
 ## Navigation

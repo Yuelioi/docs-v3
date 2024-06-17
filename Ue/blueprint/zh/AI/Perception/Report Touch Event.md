@@ -1,5 +1,5 @@
 ---
-display_name: Report Touch Event
+title: Report Touch Event
 order: 19
 ---
 ## Navigation

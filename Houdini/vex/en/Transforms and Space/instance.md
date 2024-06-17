@@ -1,5 +1,5 @@
 ---
-display_name: instance
+title: instance
 order: 5
 ---
 `matrix  instance(vector P, vector N)`

@@ -1,5 +1,5 @@
 ---
-display_name: Is Using Inertia Damping
+title: Is Using Inertia Damping
 order: 32
 ---
 ## Navigation

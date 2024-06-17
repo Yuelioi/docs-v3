@@ -1,5 +1,5 @@
 ---
-display_name: 范围选择器
+title: 范围选择器
 order: 3
 ---
 

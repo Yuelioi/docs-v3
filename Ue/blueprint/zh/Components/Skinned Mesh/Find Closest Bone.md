@@ -1,5 +1,5 @@
 ---
-display_name: Find Closest Bone
+title: Find Closest Bone
 order: 5
 ---
 ## Navigation

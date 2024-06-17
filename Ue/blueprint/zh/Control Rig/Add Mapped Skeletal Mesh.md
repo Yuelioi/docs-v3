@@ -1,5 +1,5 @@
 ---
-display_name: Add Mapped Skeletal Mesh
+title: Add Mapped Skeletal Mesh
 order: 4
 ---
 ## Navigation

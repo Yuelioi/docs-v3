@@ -1,5 +1,5 @@
 ---
-display_name: Pilot Level Actor
+title: Pilot Level Actor
 order: 50
 ---
 ## Navigation

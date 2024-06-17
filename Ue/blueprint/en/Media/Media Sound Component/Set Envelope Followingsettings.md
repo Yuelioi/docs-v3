@@ -1,5 +1,5 @@
 ---
-display_name: Set Envelope Followingsettings
+title: Set Envelope Followingsettings
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Parameter Name
+title: Has Parameter Name
 order: 157
 ---
 ## Navigation

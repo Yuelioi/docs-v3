@@ -1,5 +1,5 @@
 ---
-display_name: Make Map
+title: Make Map
 order: 9
 ---
 ## Navigation

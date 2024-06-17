@@ -1,5 +1,5 @@
 ---
-display_name: Make Bool Action
+title: Make Bool Action
 order: 159
 ---
 ## Navigation

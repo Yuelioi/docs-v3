@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor Input Component
+title: Remove Actor Input Component
 order: 2
 ---
 ## Navigation

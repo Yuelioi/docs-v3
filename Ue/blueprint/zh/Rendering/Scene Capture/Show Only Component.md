@@ -1,5 +1,5 @@
 ---
-display_name: Show Only Component
+title: Show Only Component
 order: 10
 ---
 ## Navigation

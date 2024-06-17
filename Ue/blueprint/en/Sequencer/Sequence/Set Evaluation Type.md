@@ -1,5 +1,5 @@
 ---
-display_name: Set Evaluation Type
+title: Set Evaluation Type
 order: 85
 ---
 ## Navigation

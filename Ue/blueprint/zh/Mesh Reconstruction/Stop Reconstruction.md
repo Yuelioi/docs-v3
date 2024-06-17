@@ -1,5 +1,5 @@
 ---
-display_name: Stop Reconstruction
+title: Stop Reconstruction
 order: 18
 ---
 ## Navigation

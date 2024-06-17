@@ -1,5 +1,5 @@
 ---
-display_name: Set Link Sound (Message)
+title: Set Link Sound (Message)
 order: 5
 ---
 ## Navigation

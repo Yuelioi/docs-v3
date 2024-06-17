@@ -1,5 +1,5 @@
 ---
-display_name: Set Lod Reduction Settings
+title: Set Lod Reduction Settings
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Start Profiling Timer
+title: Start Profiling Timer
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Round Trip Average Latency
+title: Get Round Trip Average Latency
 order: 7
 ---
 ## Navigation

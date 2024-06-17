@@ -1,5 +1,5 @@
 ---
-display_name: Is Int 32
+title: Is Int 32
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reparent Subobjects
+title: Reparent Subobjects
 order: 23
 ---
 ## Navigation

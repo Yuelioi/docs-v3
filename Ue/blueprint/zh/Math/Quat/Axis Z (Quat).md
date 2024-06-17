@@ -1,5 +1,5 @@
 ---
-display_name: Axis Z (Quat)
+title: Axis Z (Quat)
 order: 5
 ---
 ## Navigation

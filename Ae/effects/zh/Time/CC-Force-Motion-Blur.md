@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: CC强力运动模糊
+title: CC强力运动模糊
 ---
 
 # CC Force Motion Blur - CC强力运动模糊

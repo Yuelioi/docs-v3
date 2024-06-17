@@ -1,5 +1,5 @@
 ---
-display_name: Tips-Tricks
+title: Tips-Tricks
 order: 5
 ---
 

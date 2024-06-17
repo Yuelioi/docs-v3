@@ -1,5 +1,5 @@
 ---
-display_name: In Range (Integer64)
+title: In Range (Integer64)
 order: 8
 ---
 ## Navigation

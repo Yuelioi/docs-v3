@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Index
+title: Get Material Index
 order: 8
 ---
 ## Navigation

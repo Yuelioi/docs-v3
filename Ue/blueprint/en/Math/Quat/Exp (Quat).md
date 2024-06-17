@@ -1,5 +1,5 @@
 ---
-display_name: Exp (Quat)
+title: Exp (Quat)
 order: 9
 ---
 ## Navigation

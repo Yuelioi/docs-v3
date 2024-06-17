@@ -1,5 +1,5 @@
 ---
-display_name: sample_exponential
+title: sample_exponential
 order: 16
 ---
 `float  sample_exponential(float u)`

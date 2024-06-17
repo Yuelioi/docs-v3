@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Downloaded Size
+title: Get Total Downloaded Size
 order: 4
 ---
 ## Navigation

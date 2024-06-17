@@ -1,5 +1,5 @@
 ---
-display_name: Add Root Folder to Sequence
+title: Add Root Folder to Sequence
 order: 6
 ---
 ## Navigation

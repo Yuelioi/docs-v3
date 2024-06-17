@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Response to Channel
+title: Get Collision Response to Channel
 order: 27
 ---
 ## Navigation

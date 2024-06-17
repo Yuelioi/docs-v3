@@ -1,5 +1,5 @@
 ---
-display_name: Is Connected to Session
+title: Is Connected to Session
 order: 13
 ---
 ## Navigation

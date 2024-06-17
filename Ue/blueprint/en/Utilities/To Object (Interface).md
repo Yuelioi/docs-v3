@@ -1,5 +1,5 @@
 ---
-display_name: To Object (Interface)
+title: To Object (Interface)
 order: 15
 ---
 ## Navigation

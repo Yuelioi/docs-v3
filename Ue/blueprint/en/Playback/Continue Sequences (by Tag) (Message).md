@@ -1,5 +1,5 @@
 ---
-display_name: Continue Sequences (by Tag) (Message)
+title: Continue Sequences (by Tag) (Message)
 order: 5
 ---
 ## Navigation

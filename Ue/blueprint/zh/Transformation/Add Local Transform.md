@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Transform
+title: Add Local Transform
 order: 10
 ---
 ## Navigation

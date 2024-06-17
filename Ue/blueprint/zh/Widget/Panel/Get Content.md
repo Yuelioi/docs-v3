@@ -1,5 +1,5 @@
 ---
-display_name: Get Content
+title: Get Content
 order: 8
 ---
 ## Navigation

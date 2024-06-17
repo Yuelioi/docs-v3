@@ -1,5 +1,5 @@
 ---
-display_name: Get Teleport Actor
+title: Get Teleport Actor
 order: 8
 ---
 ## Navigation

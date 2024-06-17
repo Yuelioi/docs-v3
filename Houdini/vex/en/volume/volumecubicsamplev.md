@@ -1,5 +1,5 @@
 ---
-display_name: volumecubicsamplev
+title: volumecubicsamplev
 order: 3
 ---
 `vector  volumecubicsamplev(<geometry>geometry, int primnum, vector pos)`

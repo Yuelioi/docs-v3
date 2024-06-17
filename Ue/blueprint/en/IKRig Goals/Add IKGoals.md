@@ -1,5 +1,5 @@
 ---
-display_name: Add IKGoals
+title: Add IKGoals
 order: 2
 ---
 ## Navigation

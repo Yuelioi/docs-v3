@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Primitive Data Index for Vector Parameter
+title: Get Custom Primitive Data Index for Vector Parameter
 order: 8
 ---
 ## Navigation

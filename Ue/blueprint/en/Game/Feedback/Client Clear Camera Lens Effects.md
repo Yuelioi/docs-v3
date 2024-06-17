@@ -1,5 +1,5 @@
 ---
-display_name: Client Clear Camera Lens Effects
+title: Client Clear Camera Lens Effects
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Edit Cut Actors End
+title: On Edit Cut Actors End
 order: 40
 ---
 ## Navigation

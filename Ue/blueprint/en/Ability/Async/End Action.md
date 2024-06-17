@@ -1,5 +1,5 @@
 ---
-display_name: End Action
+title: End Action
 order: 1
 ---
 ## Navigation

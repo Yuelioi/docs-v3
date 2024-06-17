@@ -1,5 +1,5 @@
 ---
-display_name: Get MassSubsystemBase
+title: Get MassSubsystemBase
 order: 55
 ---
 ## Navigation

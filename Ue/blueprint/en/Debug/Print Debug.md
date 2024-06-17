@@ -1,5 +1,5 @@
 ---
-display_name: Print Debug
+title: Print Debug
 order: 6
 ---
 ## Navigation

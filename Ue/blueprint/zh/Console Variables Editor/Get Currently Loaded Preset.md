@@ -1,5 +1,5 @@
 ---
-display_name: Get Currently Loaded Preset
+title: Get Currently Loaded Preset
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Depth
+title: Get Graph Depth
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: vnoise
+title: vnoise
 order: 38
 ---
 `void  vnoise(float position, float jitter, int &seed, float &f1, float &f2, float &pos1, float &pos2)`

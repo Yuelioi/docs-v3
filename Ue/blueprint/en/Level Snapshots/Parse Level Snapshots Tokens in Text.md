@@ -1,5 +1,5 @@
 ---
-display_name: Parse Level Snapshots Tokens in Text
+title: Parse Level Snapshots Tokens in Text
 order: 25
 ---
 ## Navigation

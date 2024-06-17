@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeletal Mesh Asset
+title: Get Skeletal Mesh Asset
 order: 14
 ---
 ## Navigation

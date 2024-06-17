@@ -1,5 +1,5 @@
 ---
-display_name: Set Kinds to Collapse
+title: Set Kinds to Collapse
 order: 14
 ---
 ## Navigation

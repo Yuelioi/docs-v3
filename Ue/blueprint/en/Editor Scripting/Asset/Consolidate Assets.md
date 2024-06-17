@@ -1,5 +1,5 @@
 ---
-display_name: Consolidate Assets
+title: Consolidate Assets
 order: 6
 ---
 ## Navigation

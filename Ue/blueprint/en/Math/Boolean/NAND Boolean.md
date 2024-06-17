@@ -1,5 +1,5 @@
 ---
-display_name: NAND Boolean
+title: NAND Boolean
 order: 3
 ---
 ## Navigation

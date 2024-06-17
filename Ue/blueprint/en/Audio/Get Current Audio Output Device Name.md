@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Audio Output Device Name
+title: Get Current Audio Output Device Name
 order: 12
 ---
 ## Navigation

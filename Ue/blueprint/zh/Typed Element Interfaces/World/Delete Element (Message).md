@@ -1,5 +1,5 @@
 ---
-display_name: Delete Element (Message)
+title: Delete Element (Message)
 order: 13
 ---
 ## Navigation

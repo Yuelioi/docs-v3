@@ -1,5 +1,5 @@
 ---
-display_name: Clear Width Override
+title: Clear Width Override
 order: 8
 ---
 ## Navigation

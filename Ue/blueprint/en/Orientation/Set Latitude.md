@@ -1,5 +1,5 @@
 ---
-display_name: Set Latitude
+title: Set Latitude
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Post Processing Quality
+title: Set Post Processing Quality
 order: 126
 ---
 ## Navigation

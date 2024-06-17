@@ -1,5 +1,5 @@
 ---
-display_name: Script Extract Display Labels
+title: Script Extract Display Labels
 order: 7
 ---
 ## Navigation

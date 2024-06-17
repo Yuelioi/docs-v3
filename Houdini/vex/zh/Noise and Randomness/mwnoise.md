@@ -1,5 +1,5 @@
 ---
-display_name: mwnoise
+title: mwnoise
 order: 18
 ---
 `void  mwnoise(float position, int &seed, float &f1, float &f2)`

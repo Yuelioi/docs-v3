@@ -1,5 +1,5 @@
 ---
-display_name: BlendData
+title: BlendData
 order: 4
 ---
 

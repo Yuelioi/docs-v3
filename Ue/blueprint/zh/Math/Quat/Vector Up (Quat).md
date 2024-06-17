@@ -1,5 +1,5 @@
 ---
-display_name: Vector Up (Quat)
+title: Vector Up (Quat)
 order: 33
 ---
 ## Navigation

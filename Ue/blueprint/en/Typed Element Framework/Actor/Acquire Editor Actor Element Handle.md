@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Editor Actor Element Handle
+title: Acquire Editor Actor Element Handle
 order: 1
 ---
 ## Navigation

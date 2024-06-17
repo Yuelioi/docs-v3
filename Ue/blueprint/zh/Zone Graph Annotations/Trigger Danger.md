@@ -1,5 +1,5 @@
 ---
-display_name: Trigger Danger
+title: Trigger Danger
 order: 1
 ---
 ## Navigation

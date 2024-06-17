@@ -1,5 +1,5 @@
 ---
-display_name: Right Pad
+title: Right Pad
 order: 40
 ---
 ## Navigation

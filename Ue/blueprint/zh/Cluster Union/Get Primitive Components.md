@@ -1,5 +1,5 @@
 ---
-display_name: Get Primitive Components
+title: Get Primitive Components
 order: 3
 ---
 ## Navigation

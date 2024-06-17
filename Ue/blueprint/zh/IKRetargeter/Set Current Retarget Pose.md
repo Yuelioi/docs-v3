@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Retarget Pose
+title: Set Current Retarget Pose
 order: 20
 ---
 ## Navigation

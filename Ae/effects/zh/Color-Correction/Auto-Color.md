@@ -1,5 +1,5 @@
 ---
-display_name: 自动颜色
+title: 自动颜色
 order: 1
 ---
 

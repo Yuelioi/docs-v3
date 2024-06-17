@@ -1,5 +1,5 @@
 ---
-display_name: Reset to Cube
+title: Reset to Cube
 order: 9
 ---
 ## Navigation

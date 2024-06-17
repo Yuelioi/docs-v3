@@ -1,5 +1,5 @@
 ---
-display_name: Half-edges
+title: Half-edges
 order: 3
 ---
 | On this page | * [Overview](#overview) * [Equivalence](#equivalence) * [Functions](#functions) |

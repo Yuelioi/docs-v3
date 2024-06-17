@@ -1,5 +1,5 @@
 ---
-display_name: Revert Files
+title: Revert Files
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Toggle VRScouting UI
+title: Toggle VRScouting UI
 order: 30
 ---
 ## Navigation

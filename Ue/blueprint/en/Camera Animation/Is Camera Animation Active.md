@@ -1,5 +1,5 @@
 ---
-display_name: Is Camera Animation Active
+title: Is Camera Animation Active
 order: 7
 ---
 ## Navigation

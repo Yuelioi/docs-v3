@@ -1,5 +1,5 @@
 ---
-display_name: Get UVRect
+title: Get UVRect
 order: 5
 ---
 ## Navigation

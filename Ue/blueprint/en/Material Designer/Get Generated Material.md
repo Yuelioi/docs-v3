@@ -1,5 +1,5 @@
 ---
-display_name: Get Generated Material
+title: Get Generated Material
 order: 75
 ---
 ## Navigation

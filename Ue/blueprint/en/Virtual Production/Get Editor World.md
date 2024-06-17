@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor World
+title: Get Editor World
 order: 14
 ---
 ## Navigation

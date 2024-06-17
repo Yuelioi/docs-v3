@@ -1,5 +1,5 @@
 ---
-display_name: Get All Children
+title: Get All Children
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Disable Modifier
+title: Disable Modifier
 order: 1
 ---
 ## Navigation

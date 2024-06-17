@@ -1,5 +1,5 @@
 ---
-display_name: Damage
+title: Damage
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Diff Against Depot
+title: Diff Against Depot
 order: 11
 ---
 ## Navigation

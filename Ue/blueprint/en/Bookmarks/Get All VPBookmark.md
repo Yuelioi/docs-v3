@@ -1,5 +1,5 @@
 ---
-display_name: Get All VPBookmark
+title: Get All VPBookmark
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Dynamic Section
+title: Add Dynamic Section
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: bouncemask
+title: bouncemask
 order: 4
 ---
 `int  bouncemask(string labels)`

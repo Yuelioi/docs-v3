@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Directory
+title: Get Output Directory
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Gravity Force Enabled
+title: Get Gravity Force Enabled
 order: 15
 ---
 ## Navigation

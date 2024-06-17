@@ -1,5 +1,5 @@
 ---
-display_name: Begin XRSession
+title: Begin XRSession
 order: 1
 ---
 ## Navigation

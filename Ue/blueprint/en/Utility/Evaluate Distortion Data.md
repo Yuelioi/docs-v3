@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Distortion Data
+title: Evaluate Distortion Data
 order: 2
 ---
 ## Navigation

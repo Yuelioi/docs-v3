@@ -1,5 +1,5 @@
 ---
-display_name: Is VRScouting UIOpen
+title: Is VRScouting UIOpen
 order: 36
 ---
 ## Navigation

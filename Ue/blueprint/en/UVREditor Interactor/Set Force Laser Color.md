@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Laser Color
+title: Set Force Laser Color
 order: 12
 ---
 ## Navigation

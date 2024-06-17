@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Tool
+title: Initialize Tool
 order: 19
 ---
 ## Navigation

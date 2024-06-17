@@ -1,5 +1,5 @@
 ---
-display_name: Clear User Messages
+title: Clear User Messages
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction at Distance Along Spline
+title: Get Direction at Distance Along Spline
 order: 25
 ---
 ## Navigation

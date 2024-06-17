@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Pages
+title: Get Number Of Pages
 order: 1
 ---
 ## Navigation

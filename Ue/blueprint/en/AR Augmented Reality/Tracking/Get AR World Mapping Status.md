@@ -1,5 +1,5 @@
 ---
-display_name: Get AR World Mapping Status
+title: Get AR World Mapping Status
 order: 5
 ---
 ## Navigation

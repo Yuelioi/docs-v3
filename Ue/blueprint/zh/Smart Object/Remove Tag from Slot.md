@@ -1,5 +1,5 @@
 ---
-display_name: Remove Tag from Slot
+title: Remove Tag from Slot
 order: 45
 ---
 ## Navigation

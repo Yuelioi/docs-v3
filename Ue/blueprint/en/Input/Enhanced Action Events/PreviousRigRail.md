@@ -1,5 +1,5 @@
 ---
-display_name: PreviousRigRail
+title: PreviousRigRail
 order: 63
 ---
 ## Navigation

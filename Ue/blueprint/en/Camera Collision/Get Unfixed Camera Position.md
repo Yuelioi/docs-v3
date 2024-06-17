@@ -1,5 +1,5 @@
 ---
-display_name: Get Unfixed Camera Position
+title: Get Unfixed Camera Position
 order: 1
 ---
 ## Navigation

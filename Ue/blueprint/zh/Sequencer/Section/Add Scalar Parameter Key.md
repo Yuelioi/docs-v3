@@ -1,5 +1,5 @@
 ---
-display_name: Add Scalar Parameter Key
+title: Add Scalar Parameter Key
 order: 4
 ---
 ## Navigation

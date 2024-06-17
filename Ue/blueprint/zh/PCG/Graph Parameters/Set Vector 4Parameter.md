@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector 4Parameter
+title: Set Vector 4Parameter
 order: 40
 ---
 ## Navigation

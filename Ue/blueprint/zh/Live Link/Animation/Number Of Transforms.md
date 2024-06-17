@@ -1,5 +1,5 @@
 ---
-display_name: Number Of Transforms
+title: Number Of Transforms
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Priority
+title: Set Priority
 order: 6
 ---
 ## Navigation

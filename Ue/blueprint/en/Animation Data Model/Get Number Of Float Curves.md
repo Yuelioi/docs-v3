@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Float Curves
+title: Get Number Of Float Curves
 order: 20
 ---
 ## Navigation

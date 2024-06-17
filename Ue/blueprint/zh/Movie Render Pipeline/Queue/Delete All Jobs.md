@@ -1,5 +1,5 @@
 ---
-display_name: Delete All Jobs
+title: Delete All Jobs
 order: 3
 ---
 ## Navigation

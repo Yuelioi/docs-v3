@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Move Speed
+title: Set Max Move Speed
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Bounded to Box
+title: Vector Bounded to Box
 order: 60
 ---
 ## Navigation

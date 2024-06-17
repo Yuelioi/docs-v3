@@ -1,5 +1,5 @@
 ---
-display_name: L
+title: L
 order: 55
 ---
 ## Navigation

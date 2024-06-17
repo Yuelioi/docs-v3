@@ -1,5 +1,5 @@
 ---
-display_name: Is Linked Value
+title: Is Linked Value
 order: 17
 ---
 ## Navigation

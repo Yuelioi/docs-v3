@@ -1,6 +1,6 @@
 ---
 order: 10
-display_name: 线性颜色键
+title: 线性颜色键
 ---
 
 # Linear Color Key - 线性颜色键

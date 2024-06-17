@@ -1,5 +1,5 @@
 ---
-display_name: Open Source Latent
+title: Open Source Latent
 order: 59
 ---
 ## Navigation

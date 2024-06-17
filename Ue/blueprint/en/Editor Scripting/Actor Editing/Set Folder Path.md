@@ -1,5 +1,5 @@
 ---
-display_name: Set Folder Path
+title: Set Folder Path
 order: 10
 ---
 ## Navigation

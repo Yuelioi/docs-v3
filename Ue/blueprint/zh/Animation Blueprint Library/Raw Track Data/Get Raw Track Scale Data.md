@@ -1,5 +1,5 @@
 ---
-display_name: Get Raw Track Scale Data
+title: Get Raw Track Scale Data
 order: 4
 ---
 ## Navigation

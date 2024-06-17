@@ -1,5 +1,5 @@
 ---
-display_name: Get Bound Actors
+title: Get Bound Actors
 order: 2
 ---
 ## Navigation

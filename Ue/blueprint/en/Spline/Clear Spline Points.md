@@ -1,5 +1,5 @@
 ---
-display_name: Clear Spline Points
+title: Clear Spline Points
 order: 5
 ---
 ## Navigation

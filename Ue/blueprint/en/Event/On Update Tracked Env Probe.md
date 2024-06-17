@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Env Probe
+title: On Update Tracked Env Probe
 order: 15
 ---
 ## Navigation

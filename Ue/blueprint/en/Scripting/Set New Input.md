@@ -1,5 +1,5 @@
 ---
-display_name: Set New Input
+title: Set New Input
 order: 27
 ---
 ## Navigation

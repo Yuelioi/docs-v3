@@ -1,5 +1,5 @@
 ---
-display_name: Set QRCode Component Debug Mode
+title: Set QRCode Component Debug Mode
 order: 8
 ---
 ## Navigation

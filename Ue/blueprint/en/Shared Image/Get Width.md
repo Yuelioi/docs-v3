@@ -1,5 +1,5 @@
 ---
-display_name: Get Width
+title: Get Width
 order: 5
 ---
 ## Navigation

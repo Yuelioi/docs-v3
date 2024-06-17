@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Rate
+title: Set Display Rate
 order: 9
 ---
 ## Navigation

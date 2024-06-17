@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Vector at Distance Along Spline
+title: Get Up Vector at Distance Along Spline
 order: 72
 ---
 ## Navigation

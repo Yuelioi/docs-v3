@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector List Item
+title: Get Vector List Item
 order: 40
 ---
 ## Navigation

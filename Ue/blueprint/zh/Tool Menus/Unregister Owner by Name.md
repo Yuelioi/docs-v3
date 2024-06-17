@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Owner by Name
+title: Unregister Owner by Name
 order: 41
 ---
 ## Navigation

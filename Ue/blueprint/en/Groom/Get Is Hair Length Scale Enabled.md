@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Hair Length Scale Enabled
+title: Get Is Hair Length Scale Enabled
 order: 5
 ---
 ## Navigation

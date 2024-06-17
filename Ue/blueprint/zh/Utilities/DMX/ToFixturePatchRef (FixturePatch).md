@@ -1,5 +1,5 @@
 ---
-display_name: ToFixturePatchRef (FixturePatch)
+title: ToFixturePatchRef (FixturePatch)
 order: 4
 ---
 ## Navigation

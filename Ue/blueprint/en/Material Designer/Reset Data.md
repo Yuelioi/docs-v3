@@ -1,5 +1,5 @@
 ---
-display_name: Reset Data
+title: Reset Data
 order: 200
 ---
 ## Navigation

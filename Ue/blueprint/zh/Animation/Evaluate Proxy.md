@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Proxy
+title: Evaluate Proxy
 order: 6
 ---
 ## Navigation

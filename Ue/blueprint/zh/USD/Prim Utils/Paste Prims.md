@@ -1,5 +1,5 @@
 ---
-display_name: Paste Prims
+title: Paste Prims
 order: 8
 ---
 ## Navigation

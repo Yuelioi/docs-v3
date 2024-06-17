@@ -1,5 +1,5 @@
 ---
-display_name: primfind
+title: primfind
 order: 25
 ---
 `int [] primfind(<geometry>geometry, vector min, vector max)`

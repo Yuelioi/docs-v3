@@ -1,5 +1,5 @@
 ---
-display_name: Select Mesh Elements in Box
+title: Select Mesh Elements in Box
 order: 16
 ---
 ## Navigation

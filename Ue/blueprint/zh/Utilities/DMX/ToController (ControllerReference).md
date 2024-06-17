@@ -1,5 +1,5 @@
 ---
-display_name: ToController (ControllerReference)
+title: ToController (ControllerReference)
 order: 1
 ---
 ## Navigation

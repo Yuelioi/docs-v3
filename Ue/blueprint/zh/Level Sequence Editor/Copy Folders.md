@@ -1,5 +1,5 @@
 ---
-display_name: Copy Folders
+title: Copy Folders
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Blob to OSC Message
+title: Add Blob to OSC Message
 order: 2
 ---
 ## Navigation

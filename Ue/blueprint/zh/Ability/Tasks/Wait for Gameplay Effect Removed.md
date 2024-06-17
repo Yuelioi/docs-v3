@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Gameplay Effect Removed
+title: Wait for Gameplay Effect Removed
 order: 52
 ---
 ## Navigation

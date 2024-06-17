@@ -1,5 +1,5 @@
 ---
-display_name: Change Input Previous Stage
+title: Change Input Previous Stage
 order: 19
 ---
 ## Navigation

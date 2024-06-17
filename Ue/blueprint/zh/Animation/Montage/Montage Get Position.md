@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Position
+title: Montage Get Position
 order: 12
 ---
 ## Navigation

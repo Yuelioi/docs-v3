@@ -1,5 +1,5 @@
 ---
-display_name: Return to Current Client Choice
+title: Return to Current Client Choice
 order: 18
 ---
 ## Navigation

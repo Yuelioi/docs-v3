@@ -1,5 +1,5 @@
 ---
-display_name: Get Ignore Bounds for Editor Focus
+title: Get Ignore Bounds for Editor Focus
 order: 2
 ---
 ## Navigation

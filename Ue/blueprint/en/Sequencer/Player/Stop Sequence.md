@@ -1,5 +1,5 @@
 ---
-display_name: Stop Sequence
+title: Stop Sequence
 order: 48
 ---
 ## Navigation

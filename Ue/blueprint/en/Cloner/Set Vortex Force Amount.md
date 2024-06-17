@@ -1,5 +1,5 @@
 ---
-display_name: Set Vortex Force Amount
+title: Set Vortex Force Amount
 order: 62
 ---
 ## Navigation

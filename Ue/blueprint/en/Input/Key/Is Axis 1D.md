@@ -1,5 +1,5 @@
 ---
-display_name: Is Axis 1D
+title: Is Axis 1D
 order: 4
 ---
 ## Navigation

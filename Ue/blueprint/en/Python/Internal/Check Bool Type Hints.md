@@ -1,5 +1,5 @@
 ---
-display_name: Check Bool Type Hints
+title: Check Bool Type Hints
 order: 9
 ---
 ## Navigation

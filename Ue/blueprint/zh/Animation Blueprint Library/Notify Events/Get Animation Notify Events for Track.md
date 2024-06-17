@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Notify Events for Track
+title: Get Animation Notify Events for Track
 order: 7
 ---
 ## Navigation

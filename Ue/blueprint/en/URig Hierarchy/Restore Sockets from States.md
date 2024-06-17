@@ -1,5 +1,5 @@
 ---
-display_name: Restore Sockets from States
+title: Restore Sockets from States
 order: 119
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Effect Count if Loaded
+title: Get Gameplay Effect Count if Loaded
 order: 7
 ---
 ## Navigation

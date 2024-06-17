@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Distance Fadeout Fraction
+title: Set Shadow Distance Fadeout Fraction
 order: 28
 ---
 ## Navigation

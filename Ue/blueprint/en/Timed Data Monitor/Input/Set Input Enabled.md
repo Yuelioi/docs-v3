@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Enabled
+title: Set Input Enabled
 order: 20
 ---
 ## Navigation

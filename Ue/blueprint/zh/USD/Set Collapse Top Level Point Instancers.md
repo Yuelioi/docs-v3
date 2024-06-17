@@ -1,5 +1,5 @@
 ---
-display_name: Set Collapse Top Level Point Instancers
+title: Set Collapse Top Level Point Instancers
 order: 10
 ---
 ## Navigation

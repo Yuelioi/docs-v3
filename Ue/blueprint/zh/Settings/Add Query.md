@@ -1,5 +1,5 @@
 ---
-display_name: Add Query
+title: Add Query
 order: 7
 ---
 ## Navigation

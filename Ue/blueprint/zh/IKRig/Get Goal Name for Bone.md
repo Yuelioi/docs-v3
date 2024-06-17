@@ -1,5 +1,5 @@
 ---
-display_name: Get Goal Name for Bone
+title: Get Goal Name for Bone
 order: 15
 ---
 ## Navigation

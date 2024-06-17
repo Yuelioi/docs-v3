@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIAftertouch
+title: On MIDIAftertouch
 order: 1
 ---
 ## Navigation

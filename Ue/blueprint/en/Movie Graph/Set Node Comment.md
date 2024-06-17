@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Comment
+title: Set Node Comment
 order: 72
 ---
 ## Navigation

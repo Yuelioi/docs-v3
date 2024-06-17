@@ -1,5 +1,5 @@
 ---
-display_name: Get Object from Primary Asset Id
+title: Get Object from Primary Asset Id
 order: 9
 ---
 ## Navigation

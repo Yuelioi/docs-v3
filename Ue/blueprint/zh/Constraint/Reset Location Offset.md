@@ -1,5 +1,5 @@
 ---
-display_name: Reset Location Offset
+title: Reset Location Offset
 order: 2
 ---
 ## Navigation

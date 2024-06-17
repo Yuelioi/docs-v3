@@ -1,5 +1,5 @@
 ---
-display_name: Convert Render Target to Texture 2DEditor Only
+title: Convert Render Target to Texture 2DEditor Only
 order: 2
 ---
 ## Navigation

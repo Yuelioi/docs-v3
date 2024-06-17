@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target Positions from Array
+title: Set Control Target Positions from Array
 order: 110
 ---
 ## Navigation

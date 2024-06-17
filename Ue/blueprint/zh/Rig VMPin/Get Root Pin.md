@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Pin
+title: Get Root Pin
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Location Observation
+title: Get Location Observation
 order: 85
 ---
 ## Navigation

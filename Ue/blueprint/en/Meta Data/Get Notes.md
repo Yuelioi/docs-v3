@@ -1,5 +1,5 @@
 ---
-display_name: Get Notes
+title: Get Notes
 order: 3
 ---
 ## Navigation

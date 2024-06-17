@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Attribute
+title: Set Bool Attribute
 order: 75
 ---
 ## Navigation

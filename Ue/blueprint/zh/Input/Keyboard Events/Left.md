@@ -1,5 +1,5 @@
 ---
-display_name: Left
+title: Left
 order: 62
 ---
 ## Navigation

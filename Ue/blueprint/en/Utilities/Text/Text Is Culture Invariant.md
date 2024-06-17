@@ -1,5 +1,5 @@
 ---
-display_name: Text Is Culture Invariant
+title: Text Is Culture Invariant
 order: 29
 ---
 ## Navigation

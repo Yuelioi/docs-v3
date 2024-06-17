@@ -1,5 +1,5 @@
 ---
-display_name: Remove Link
+title: Remove Link
 order: 36
 ---
 ## Navigation

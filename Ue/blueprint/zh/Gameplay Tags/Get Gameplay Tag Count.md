@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Tag Count
+title: Get Gameplay Tag Count
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Reference Pose
+title: Get Reference Pose
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Change Extension
+title: Change Extension
 order: 5
 ---
 ## Navigation

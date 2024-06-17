@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Falloff Exponent
+title: Set Light Falloff Exponent
 order: 18
 ---
 ## Navigation

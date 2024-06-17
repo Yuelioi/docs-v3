@@ -1,5 +1,5 @@
 ---
-display_name: Find Scale Closest to World Location
+title: Find Scale Closest to World Location
 order: 19
 ---
 ## Navigation

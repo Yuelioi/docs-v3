@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Landing Spot
+title: Is Valid Landing Spot
 order: 7
 ---
 ## Navigation

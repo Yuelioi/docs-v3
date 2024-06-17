@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Vertices
+title: Get Num Vertices
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Shallow Water Max Impulse Forces
+title: Get Shallow Water Max Impulse Forces
 order: 9
 ---
 ## Navigation

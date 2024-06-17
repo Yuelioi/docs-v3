@@ -1,5 +1,5 @@
 ---
-display_name: Add Target Object
+title: Add Target Object
 order: 1
 ---
 ## Navigation

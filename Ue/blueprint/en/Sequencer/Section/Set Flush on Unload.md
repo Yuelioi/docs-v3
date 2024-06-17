@@ -1,5 +1,5 @@
 ---
-display_name: Set Flush on Unload
+title: Set Flush on Unload
 order: 82
 ---
 ## Navigation

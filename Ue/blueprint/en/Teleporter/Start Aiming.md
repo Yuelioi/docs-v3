@@ -1,5 +1,5 @@
 ---
-display_name: Start Aiming
+title: Start Aiming
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Sockets
+title: Get Sockets
 order: 83
 ---
 ## Navigation

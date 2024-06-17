@@ -1,5 +1,5 @@
 ---
-display_name: Get Position
+title: Get Position
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Parameter Multidimensional
+title: Is Parameter Multidimensional
 order: 25
 ---
 ## Navigation

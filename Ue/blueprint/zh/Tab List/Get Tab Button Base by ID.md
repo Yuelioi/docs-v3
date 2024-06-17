@@ -1,5 +1,5 @@
 ---
-display_name: Get Tab Button Base by ID
+title: Get Tab Button Base by ID
 order: 5
 ---
 ## Navigation

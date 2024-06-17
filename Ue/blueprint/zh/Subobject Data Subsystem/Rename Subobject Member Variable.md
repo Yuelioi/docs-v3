@@ -1,5 +1,5 @@
 ---
-display_name: Rename Subobject Member Variable
+title: Rename Subobject Member Variable
 order: 20
 ---
 ## Navigation

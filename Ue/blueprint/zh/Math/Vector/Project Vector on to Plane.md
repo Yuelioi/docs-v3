@@ -1,5 +1,5 @@
 ---
-display_name: Project Vector on to Plane
+title: Project Vector on to Plane
 order: 47
 ---
 ## Navigation

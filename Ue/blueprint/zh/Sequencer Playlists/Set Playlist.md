@@ -1,5 +1,5 @@
 ---
-display_name: Set Playlist
+title: Set Playlist
 order: 11
 ---
 ## Navigation

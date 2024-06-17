@@ -1,5 +1,5 @@
 ---
-display_name: log
+title: log
 order: 39
 ---
 `float  log(float n)`

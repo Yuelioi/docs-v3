@@ -1,5 +1,5 @@
 ---
-display_name: Get Transient Settings
+title: Get Transient Settings
 order: 62
 ---
 ## Navigation

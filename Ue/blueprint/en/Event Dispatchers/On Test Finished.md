@@ -1,5 +1,5 @@
 ---
-display_name: On Test Finished
+title: On Test Finished
 order: 170
 ---
 ## Navigation

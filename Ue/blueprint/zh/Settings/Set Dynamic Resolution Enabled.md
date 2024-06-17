@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Resolution Enabled
+title: Set Dynamic Resolution Enabled
 order: 113
 ---
 ## Navigation

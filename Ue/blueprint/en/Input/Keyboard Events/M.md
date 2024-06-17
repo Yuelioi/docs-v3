@@ -1,5 +1,5 @@
 ---
-display_name: M
+title: M
 order: 63
 ---
 ## Navigation

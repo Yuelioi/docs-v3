@@ -1,5 +1,5 @@
 ---
-display_name: Add Material Override
+title: Add Material Override
 order: 3
 ---
 ## Navigation

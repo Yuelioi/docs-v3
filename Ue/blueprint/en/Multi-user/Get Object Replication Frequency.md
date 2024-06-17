@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Replication Frequency
+title: Get Object Replication Frequency
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is String Pulled
+title: Is String Pulled
 order: 24
 ---
 ## Navigation

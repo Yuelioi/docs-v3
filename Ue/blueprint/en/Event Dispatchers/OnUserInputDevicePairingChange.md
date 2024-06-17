@@ -1,5 +1,5 @@
 ---
-display_name: OnUserInputDevicePairingChange
+title: OnUserInputDevicePairingChange
 order: 196
 ---
 ## Navigation

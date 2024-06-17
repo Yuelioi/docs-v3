@@ -1,5 +1,5 @@
 ---
-display_name: Receive Controller Changed Delegate
+title: Receive Controller Changed Delegate
 order: 25
 ---
 ## Navigation

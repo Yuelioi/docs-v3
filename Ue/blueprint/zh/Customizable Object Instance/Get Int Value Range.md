@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Value Range
+title: Get Int Value Range
 order: 26
 ---
 ## Navigation

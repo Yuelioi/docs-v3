@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Devices
+title: Get Registered Devices
 order: 1
 ---
 ## Navigation

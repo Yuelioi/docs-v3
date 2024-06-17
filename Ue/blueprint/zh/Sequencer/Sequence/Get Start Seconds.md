@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Seconds
+title: Get Start Seconds
 order: 55
 ---
 ## Navigation

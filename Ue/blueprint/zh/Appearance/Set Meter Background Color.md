@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Background Color
+title: Set Meter Background Color
 order: 57
 ---
 ## Navigation

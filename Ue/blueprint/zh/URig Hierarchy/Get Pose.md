@@ -1,5 +1,5 @@
 ---
-display_name: Get Pose
+title: Get Pose
 order: 67
 ---
 ## Navigation

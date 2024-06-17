@@ -1,5 +1,5 @@
 ---
-display_name: Set Channel Enabled
+title: Set Channel Enabled
 order: 21
 ---
 ## Navigation

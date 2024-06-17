@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Roles String
+title: Get Active Roles String
 order: 2
 ---
 ## Navigation

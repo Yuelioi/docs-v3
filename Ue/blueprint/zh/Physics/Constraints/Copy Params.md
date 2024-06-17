@@ -1,5 +1,5 @@
 ---
-display_name: Copy Params
+title: Copy Params
 order: 1
 ---
 ## Navigation

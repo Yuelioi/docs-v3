@@ -1,5 +1,5 @@
 ---
-display_name: Mouse Wheel Up
+title: Mouse Wheel Up
 order: 5
 ---
 ## Navigation

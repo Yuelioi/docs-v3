@@ -1,5 +1,5 @@
 ---
-display_name: Get Location Strength
+title: Get Location Strength
 order: 22
 ---
 ## Navigation

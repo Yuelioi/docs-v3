@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Blend Space
+title: Convert to Blend Space
 order: 2
 ---
 ## Navigation

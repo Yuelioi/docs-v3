@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Motion Matching Node
+title: Convert to Motion Matching Node
 order: 1
 ---
 ## Navigation

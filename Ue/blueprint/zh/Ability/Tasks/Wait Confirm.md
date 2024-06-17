@@ -1,5 +1,5 @@
 ---
-display_name: Wait Confirm
+title: Wait Confirm
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: OutputModule
+title: OutputModule
 order: 2
 ---
 

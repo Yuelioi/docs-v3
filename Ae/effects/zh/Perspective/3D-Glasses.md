@@ -1,5 +1,5 @@
 ---
-display_name: 3D 眼镜
+title: 3D 眼镜
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: On Removed
+title: On Removed
 order: 142
 ---
 ## Navigation

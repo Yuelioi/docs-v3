@@ -1,5 +1,5 @@
 ---
-display_name: Target Data Has Origin
+title: Target Data Has Origin
 order: 18
 ---
 ## Navigation

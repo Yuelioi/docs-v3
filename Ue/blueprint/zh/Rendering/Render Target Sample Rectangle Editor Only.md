@@ -1,5 +1,5 @@
 ---
-display_name: Render Target Sample Rectangle Editor Only
+title: Render Target Sample Rectangle Editor Only
 order: 81
 ---
 ## Navigation

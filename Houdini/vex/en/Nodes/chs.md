@@ -1,5 +1,5 @@
 ---
-display_name: chs
+title: chs
 order: 16
 ---
 `string  chs(string channel)`

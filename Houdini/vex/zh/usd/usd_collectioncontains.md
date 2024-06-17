@@ -1,5 +1,5 @@
 ---
-display_name: usd_collectioncontains
+title: usd_collectioncontains
 order: 32
 ---
 | Since | 18.0 |

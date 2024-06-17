@@ -1,5 +1,5 @@
 ---
-display_name: Get Episode Time
+title: Get Episode Time
 order: 64
 ---
 ## Navigation

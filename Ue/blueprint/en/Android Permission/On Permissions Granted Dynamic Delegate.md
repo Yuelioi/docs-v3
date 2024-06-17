@@ -1,5 +1,5 @@
 ---
-display_name: On Permissions Granted Dynamic Delegate
+title: On Permissions Granted Dynamic Delegate
 order: 2
 ---
 ## Navigation

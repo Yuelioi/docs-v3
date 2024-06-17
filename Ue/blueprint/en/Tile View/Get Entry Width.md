@@ -1,5 +1,5 @@
 ---
-display_name: Get Entry Width
+title: Get Entry Width
 order: 2
 ---
 ## Navigation

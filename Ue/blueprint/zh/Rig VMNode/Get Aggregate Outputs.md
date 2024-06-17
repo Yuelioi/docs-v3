@@ -1,5 +1,5 @@
 ---
-display_name: Get Aggregate Outputs
+title: Get Aggregate Outputs
 order: 7
 ---
 ## Navigation

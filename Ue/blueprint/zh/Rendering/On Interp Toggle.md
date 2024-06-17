@@ -1,5 +1,5 @@
 ---
-display_name: On Interp Toggle
+title: On Interp Toggle
 order: 66
 ---
 ## Navigation

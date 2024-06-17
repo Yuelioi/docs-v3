@@ -1,5 +1,5 @@
 ---
-display_name: Get Connection By Name
+title: Get Connection By Name
 order: 5
 ---
 ## Navigation

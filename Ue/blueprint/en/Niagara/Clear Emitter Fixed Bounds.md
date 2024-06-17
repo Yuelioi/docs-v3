@@ -1,5 +1,5 @@
 ---
-display_name: Clear Emitter Fixed Bounds
+title: Clear Emitter Fixed Bounds
 order: 4
 ---
 ## Navigation

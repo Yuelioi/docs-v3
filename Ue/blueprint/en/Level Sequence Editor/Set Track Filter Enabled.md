@@ -1,5 +1,5 @@
 ---
-display_name: Set Track Filter Enabled
+title: Set Track Filter Enabled
 order: 70
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Start Continuous Input Injection for Player Mapping (Message)
+title: Start Continuous Input Injection for Player Mapping (Message)
 order: 28
 ---
 ## Navigation

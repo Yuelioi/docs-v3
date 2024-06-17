@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Video Format
+title: Get Desired Video Format
 order: 6
 ---
 ## Navigation

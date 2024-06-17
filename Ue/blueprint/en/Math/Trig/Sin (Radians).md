@@ -1,5 +1,5 @@
 ---
-display_name: Sin (Radians)
+title: Sin (Radians)
 order: 16
 ---
 ## Navigation

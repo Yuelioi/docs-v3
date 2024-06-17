@@ -1,5 +1,5 @@
 ---
-display_name: Get Spring Resting Point
+title: Get Spring Resting Point
 order: 89
 ---
 ## Navigation

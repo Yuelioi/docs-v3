@@ -1,5 +1,5 @@
 ---
-display_name: Was Actor Recently Rendered
+title: Was Actor Recently Rendered
 order: 8
 ---
 ## Navigation

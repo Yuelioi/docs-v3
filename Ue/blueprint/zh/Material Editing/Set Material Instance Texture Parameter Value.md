@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Texture Parameter Value
+title: Set Material Instance Texture Parameter Value
 order: 53
 ---
 ## Navigation

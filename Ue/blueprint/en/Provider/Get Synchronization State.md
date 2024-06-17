@@ -1,5 +1,5 @@
 ---
-display_name: Get Synchronization State
+title: Get Synchronization State
 order: 7
 ---
 ## Navigation

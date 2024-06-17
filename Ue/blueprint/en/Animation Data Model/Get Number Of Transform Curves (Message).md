@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Transform Curves (Message)
+title: Get Number Of Transform Curves (Message)
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter Info
+title: Get Parameter Info
 order: 20
 ---
 ## Navigation

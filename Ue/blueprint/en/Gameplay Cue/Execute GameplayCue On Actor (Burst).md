@@ -1,5 +1,5 @@
 ---
-display_name: Execute GameplayCue On Actor (Burst)
+title: Execute GameplayCue On Actor (Burst)
 order: 2
 ---
 ## Navigation

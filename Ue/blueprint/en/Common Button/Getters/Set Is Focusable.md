@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Focusable
+title: Set Is Focusable
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: setvertexgroup
+title: setvertexgroup
 order: 12
 ---
 `int  setvertexgroup(int geohandle, string name, int prim_num, int vertex_num, int value, string mode="set")`

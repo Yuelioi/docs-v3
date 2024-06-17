@@ -1,5 +1,5 @@
 ---
-display_name: Set Sim Target
+title: Set Sim Target
 order: 127
 ---
 ## Navigation

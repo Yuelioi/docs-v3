@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Rotator
+title: Get Control Rotator
 order: 15
 ---
 ## Navigation

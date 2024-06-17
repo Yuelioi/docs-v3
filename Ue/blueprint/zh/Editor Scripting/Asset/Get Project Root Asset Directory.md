@@ -1,5 +1,5 @@
 ---
-display_name: Get Project Root Asset Directory
+title: Get Project Root Asset Directory
 order: 22
 ---
 ## Navigation

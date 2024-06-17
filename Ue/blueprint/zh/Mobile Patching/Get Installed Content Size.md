@@ -1,5 +1,5 @@
 ---
-display_name: Get Installed Content Size
+title: Get Installed Content Size
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Jobs Count
+title: Get Jobs Count
 order: 11
 ---
 ## Navigation

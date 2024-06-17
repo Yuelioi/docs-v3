@@ -1,5 +1,5 @@
 ---
-display_name: Get Canvas Names
+title: Get Canvas Names
 order: 12
 ---
 ## Navigation

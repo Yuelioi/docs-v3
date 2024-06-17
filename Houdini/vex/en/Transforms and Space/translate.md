@@ -1,5 +1,5 @@
 ---
-display_name: translate
+title: translate
 order: 32
 ---
 `void  translate(matrix &m, vector amount)`

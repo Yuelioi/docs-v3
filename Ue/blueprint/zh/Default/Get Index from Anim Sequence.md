@@ -1,5 +1,5 @@
 ---
-display_name: Get Index from Anim Sequence
+title: Get Index from Anim Sequence
 order: 6
 ---
 ## Navigation

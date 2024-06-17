@@ -1,5 +1,5 @@
 ---
-display_name: Remove Curve
+title: Remove Curve
 order: 10
 ---
 ## Navigation

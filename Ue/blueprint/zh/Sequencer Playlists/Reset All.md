@@ -1,5 +1,5 @@
 ---
-display_name: Reset All
+title: Reset All
 order: 9
 ---
 ## Navigation

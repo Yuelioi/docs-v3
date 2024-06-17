@@ -1,5 +1,5 @@
 ---
-display_name: Get Ray Tracing Group Id
+title: Get Ray Tracing Group Id
 order: 1
 ---
 ## Navigation

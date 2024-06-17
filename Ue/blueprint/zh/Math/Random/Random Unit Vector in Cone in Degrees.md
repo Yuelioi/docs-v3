@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Cone in Degrees
+title: Random Unit Vector in Cone in Degrees
 order: 35
 ---
 ## Navigation

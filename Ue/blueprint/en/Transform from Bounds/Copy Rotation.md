@@ -1,5 +1,5 @@
 ---
-display_name: Copy Rotation
+title: Copy Rotation
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Component by Path
+title: Get Component by Path
 order: 59
 ---
 ## Navigation

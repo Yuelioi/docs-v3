@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Node
+title: Get Root Node
 order: 7
 ---
 ## Navigation

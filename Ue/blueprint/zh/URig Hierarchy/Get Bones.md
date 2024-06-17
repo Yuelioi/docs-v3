@@ -1,5 +1,5 @@
 ---
-display_name: Get Bones
+title: Get Bones
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Force Feedback at Location
+title: Spawn Force Feedback at Location
 order: 7
 ---
 ## Navigation

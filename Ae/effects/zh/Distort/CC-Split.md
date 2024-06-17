@@ -1,5 +1,5 @@
 ---
-display_name: CC分割
+title: CC分割
 order: 14
 ---
 

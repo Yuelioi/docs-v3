@@ -1,5 +1,5 @@
 ---
-display_name: Specify Bitmask Observation
+title: Specify Bitmask Observation
 order: 279
 ---
 ## Navigation

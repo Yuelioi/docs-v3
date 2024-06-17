@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Range
+title: Get Value Range
 order: 8
 ---
 ## Navigation

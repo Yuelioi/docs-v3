@@ -1,5 +1,5 @@
 ---
-display_name: Get Overlay Material
+title: Get Overlay Material
 order: 13
 ---
 ## Navigation

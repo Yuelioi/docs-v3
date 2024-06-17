@@ -1,5 +1,5 @@
 ---
-display_name: Add Generated Actor
+title: Add Generated Actor
 order: 1
 ---
 ## Navigation

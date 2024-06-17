@@ -1,5 +1,5 @@
 ---
-display_name: Make Array
+title: Make Array
 order: 17
 ---
 ## Navigation

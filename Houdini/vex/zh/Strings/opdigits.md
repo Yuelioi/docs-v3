@@ -1,5 +1,5 @@
 ---
-display_name: opdigits
+title: opdigits
 order: 21
 ---
 `int  opdigits(string str)`

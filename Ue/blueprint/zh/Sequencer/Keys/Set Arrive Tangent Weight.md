@@ -1,5 +1,5 @@
 ---
-display_name: Set Arrive Tangent Weight
+title: Set Arrive Tangent Weight
 order: 99
 ---
 ## Navigation

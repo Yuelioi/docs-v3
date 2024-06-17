@@ -1,5 +1,5 @@
 ---
-display_name: On Latest Per Channel Meter Results
+title: On Latest Per Channel Meter Results
 order: 105
 ---
 ## Navigation

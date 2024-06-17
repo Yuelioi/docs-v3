@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator Attribute
+title: Get Rotator Attribute
 order: 43
 ---
 ## Navigation

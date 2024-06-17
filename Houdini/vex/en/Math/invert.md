@@ -1,5 +1,5 @@
 ---
-display_name: invert
+title: invert
 order: 32
 ---
 `<matrix> invert(<matrix>m)`

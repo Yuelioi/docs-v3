@@ -1,5 +1,5 @@
 ---
-display_name: Get All Player Mappable Action Key Mappings (Message)
+title: Get All Player Mappable Action Key Mappings (Message)
 order: 1
 ---
 ## Navigation

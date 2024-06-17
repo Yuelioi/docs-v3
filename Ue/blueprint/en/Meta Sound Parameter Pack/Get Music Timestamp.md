@@ -1,5 +1,5 @@
 ---
-display_name: Get Music Timestamp
+title: Get Music Timestamp
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set PhysicalMaterial Override
+title: Set PhysicalMaterial Override
 order: 49
 ---
 ## Navigation

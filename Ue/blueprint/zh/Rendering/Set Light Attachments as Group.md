@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Attachments as Group
+title: Set Light Attachments as Group
 order: 48
 ---
 ## Navigation

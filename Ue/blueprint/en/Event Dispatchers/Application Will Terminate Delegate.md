@@ -1,5 +1,5 @@
 ---
-display_name: Application Will Terminate Delegate
+title: Application Will Terminate Delegate
 order: 17
 ---
 ## Navigation

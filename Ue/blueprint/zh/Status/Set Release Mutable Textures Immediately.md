@@ -1,5 +1,5 @@
 ---
-display_name: Set Release Mutable Textures Immediately
+title: Set Release Mutable Textures Immediately
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Begun Play
+title: Has Begun Play
 order: 4
 ---
 ## Navigation

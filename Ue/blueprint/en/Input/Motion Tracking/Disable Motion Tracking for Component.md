@@ -1,5 +1,5 @@
 ---
-display_name: Disable Motion Tracking for Component
+title: Disable Motion Tracking for Component
 order: 5
 ---
 ## Navigation

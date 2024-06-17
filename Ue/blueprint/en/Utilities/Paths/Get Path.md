@@ -1,5 +1,5 @@
 ---
-display_name: Get Path
+title: Get Path
 order: 43
 ---
 ## Navigation

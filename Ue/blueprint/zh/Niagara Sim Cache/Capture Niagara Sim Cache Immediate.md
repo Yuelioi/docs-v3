@@ -1,5 +1,5 @@
 ---
-display_name: Capture Niagara Sim Cache Immediate
+title: Capture Niagara Sim Cache Immediate
 order: 1
 ---
 ## Navigation

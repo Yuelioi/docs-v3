@@ -1,5 +1,5 @@
 ---
-display_name: Set Native ID
+title: Set Native ID
 order: 10
 ---
 ## Navigation

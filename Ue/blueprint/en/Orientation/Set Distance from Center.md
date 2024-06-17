@@ -1,5 +1,5 @@
 ---
-display_name: Set Distance from Center
+title: Set Distance from Center
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ProjectCollection 项目集合对象
+title: ProjectCollection 项目集合对象
 order: 3
 ---
 

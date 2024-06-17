@@ -1,5 +1,5 @@
 ---
-display_name: Create Integer 64Attribute
+title: Create Integer 64Attribute
 order: 14
 ---
 ## Navigation

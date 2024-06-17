@@ -1,5 +1,5 @@
 ---
-display_name: Is Overlapping Component
+title: Is Overlapping Component
 order: 38
 ---
 ## Navigation

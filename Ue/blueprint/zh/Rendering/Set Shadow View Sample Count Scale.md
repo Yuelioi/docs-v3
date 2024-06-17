@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow View Sample Count Scale
+title: Set Shadow View Sample Count Scale
 order: 81
 ---
 ## Navigation

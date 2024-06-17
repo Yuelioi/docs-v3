@@ -1,5 +1,5 @@
 ---
-display_name: opparmtransform
+title: opparmtransform
 order: 29
 ---
 `matrix  opparmtransform(string path)`

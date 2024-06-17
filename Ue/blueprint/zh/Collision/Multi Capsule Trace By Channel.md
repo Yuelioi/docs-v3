@@ -1,5 +1,5 @@
 ---
-display_name: Multi Capsule Trace By Channel
+title: Multi Capsule Trace By Channel
 order: 49
 ---
 ## Navigation

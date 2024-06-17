@@ -1,5 +1,5 @@
 ---
-display_name: Get World Alignment
+title: Get World Alignment
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Live Link Enabled Subject Names
+title: Get Live Link Enabled Subject Names
 order: 23
 ---
 ## Navigation

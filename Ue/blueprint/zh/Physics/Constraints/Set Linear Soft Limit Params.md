@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Soft Limit Params
+title: Set Linear Soft Limit Params
 order: 52
 ---
 ## Navigation

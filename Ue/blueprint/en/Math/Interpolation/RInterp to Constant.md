@@ -1,5 +1,5 @@
 ---
-display_name: RInterp to Constant
+title: RInterp to Constant
 order: 8
 ---
 ## Navigation

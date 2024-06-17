@@ -1,5 +1,5 @@
 ---
-display_name: To Soft Object Reference
+title: To Soft Object Reference
 order: 19
 ---
 ## Navigation

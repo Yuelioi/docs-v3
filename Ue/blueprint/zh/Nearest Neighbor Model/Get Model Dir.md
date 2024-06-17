@@ -1,5 +1,5 @@
 ---
-display_name: Get Model Dir
+title: Get Model Dir
 order: 10
 ---
 ## Navigation

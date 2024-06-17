@@ -1,5 +1,5 @@
 ---
-display_name: Tonemap to Render Target
+title: Tonemap to Render Target
 order: 4
 ---
 ## Navigation

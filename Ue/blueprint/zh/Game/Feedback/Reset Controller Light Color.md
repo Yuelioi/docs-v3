@@ -1,5 +1,5 @@
 ---
-display_name: Reset Controller Light Color
+title: Reset Controller Light Color
 order: 11
 ---
 ## Navigation

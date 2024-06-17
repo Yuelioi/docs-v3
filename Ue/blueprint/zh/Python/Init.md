@@ -1,5 +1,5 @@
 ---
-display_name: Init
+title: Init
 order: 17
 ---
 ## Navigation

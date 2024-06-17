@@ -1,5 +1,5 @@
 ---
-display_name: Set Read Only
+title: Set Read Only
 order: 97
 ---
 ## Navigation

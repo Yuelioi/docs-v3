@@ -1,5 +1,5 @@
 ---
-display_name: Get Pixel Density
+title: Get Pixel Density
 order: 7
 ---
 ## Navigation

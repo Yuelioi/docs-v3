@@ -1,5 +1,5 @@
 ---
-display_name: Is Optimized for Dynamic Data
+title: Is Optimized for Dynamic Data
 order: 42
 ---
 ## Navigation

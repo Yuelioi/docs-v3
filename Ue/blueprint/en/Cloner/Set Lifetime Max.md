@@ -1,5 +1,5 @@
 ---
-display_name: Set Lifetime Max
+title: Set Lifetime Max
 order: 30
 ---
 ## Navigation

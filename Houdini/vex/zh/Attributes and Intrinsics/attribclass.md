@@ -1,5 +1,5 @@
 ---
-display_name: attribclass
+title: attribclass
 order: 8
 ---
 `string  attribclass(<geometry>geometry, string attribute_name)`

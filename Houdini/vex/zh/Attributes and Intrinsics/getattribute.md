@@ -1,5 +1,5 @@
 ---
-display_name: getattribute
+title: getattribute
 order: 23
 ---
 `int  getattribute(string geometry, <type>&value, string attribclass, string attribute_name, int element_number, int vertex_number)`

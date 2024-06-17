@@ -1,5 +1,5 @@
 ---
-display_name: Set Interface Class
+title: Set Interface Class
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Widgets
+title: Clear Widgets
 order: 1
 ---
 ## Navigation

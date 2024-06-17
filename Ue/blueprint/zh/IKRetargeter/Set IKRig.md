@@ -1,5 +1,5 @@
 ---
-display_name: Set IKRig
+title: Set IKRig
 order: 22
 ---
 ## Navigation

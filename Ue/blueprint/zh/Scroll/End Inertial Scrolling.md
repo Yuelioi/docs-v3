@@ -1,5 +1,5 @@
 ---
-display_name: End Inertial Scrolling
+title: End Inertial Scrolling
 order: 1
 ---
 ## Navigation

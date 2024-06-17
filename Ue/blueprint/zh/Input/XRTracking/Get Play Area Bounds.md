@@ -1,5 +1,5 @@
 ---
-display_name: Get Play Area Bounds
+title: Get Play Area Bounds
 order: 11
 ---
 ## Navigation

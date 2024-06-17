@@ -1,5 +1,5 @@
 ---
-display_name: Get Absolute Pin Index
+title: Get Absolute Pin Index
 order: 4
 ---
 ## Navigation

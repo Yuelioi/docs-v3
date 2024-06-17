@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Booleans
+title: Local Array of Booleans
 order: 3
 ---
 ## Navigation

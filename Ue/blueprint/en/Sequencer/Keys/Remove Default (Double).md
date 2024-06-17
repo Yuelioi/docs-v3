@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Double)
+title: Remove Default (Double)
 order: 84
 ---
 ## Navigation

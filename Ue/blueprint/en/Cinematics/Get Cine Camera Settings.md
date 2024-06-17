@@ -1,5 +1,5 @@
 ---
-display_name: Get Cine Camera Settings
+title: Get Cine Camera Settings
 order: 6
 ---
 ## Navigation

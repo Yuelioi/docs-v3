@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Frame Dropped Stat
+title: Get Channel Frame Dropped Stat
 order: 13
 ---
 ## Navigation

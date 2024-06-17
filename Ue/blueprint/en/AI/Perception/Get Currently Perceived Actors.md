@@ -1,5 +1,5 @@
 ---
-display_name: Get Currently Perceived Actors
+title: Get Currently Perceived Actors
 order: 6
 ---
 ## Navigation

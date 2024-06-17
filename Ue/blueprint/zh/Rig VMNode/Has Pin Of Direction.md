@@ -1,5 +1,5 @@
 ---
-display_name: Has Pin Of Direction
+title: Has Pin Of Direction
 order: 39
 ---
 ## Navigation

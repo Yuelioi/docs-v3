@@ -1,5 +1,5 @@
 ---
-display_name: Get Tracking Origin
+title: Get Tracking Origin
 order: 8
 ---
 ## Navigation

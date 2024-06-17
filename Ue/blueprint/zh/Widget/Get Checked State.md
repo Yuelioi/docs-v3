@@ -1,5 +1,5 @@
 ---
-display_name: Get Checked State
+title: Get Checked State
 order: 17
 ---
 ## Navigation

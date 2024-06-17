@@ -1,5 +1,5 @@
 ---
-display_name: Find Local Navigation Grid Path
+title: Find Local Navigation Grid Path
 order: 6
 ---
 ## Navigation

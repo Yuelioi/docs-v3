@@ -1,5 +1,5 @@
 ---
-display_name: Set Line Thickness
+title: Set Line Thickness
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable Raytracing
+title: Get Enable Raytracing
 order: 6
 ---
 ## Navigation

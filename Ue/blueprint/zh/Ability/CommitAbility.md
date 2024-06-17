@@ -1,5 +1,5 @@
 ---
-display_name: CommitAbility
+title: CommitAbility
 order: 13
 ---
 ## Navigation

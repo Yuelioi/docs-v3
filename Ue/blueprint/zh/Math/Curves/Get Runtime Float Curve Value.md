@@ -1,5 +1,5 @@
 ---
-display_name: Get Runtime Float Curve Value
+title: Get Runtime Float Curve Value
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Rest Collection
+title: Set Rest Collection
 order: 28
 ---
 ## Navigation

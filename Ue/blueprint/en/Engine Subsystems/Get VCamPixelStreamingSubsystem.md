@@ -1,5 +1,5 @@
 ---
-display_name: Get VCamPixelStreamingSubsystem
+title: Get VCamPixelStreamingSubsystem
 order: 50
 ---
 ## Navigation

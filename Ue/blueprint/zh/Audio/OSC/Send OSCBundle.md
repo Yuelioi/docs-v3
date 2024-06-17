@@ -1,5 +1,5 @@
 ---
-display_name: Send OSCBundle
+title: Send OSCBundle
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Mount
+title: Mount
 order: 9
 ---
 ## Navigation

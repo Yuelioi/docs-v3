@@ -1,5 +1,5 @@
 ---
-display_name: Input Confirm
+title: Input Confirm
 order: 11
 ---
 ## Navigation

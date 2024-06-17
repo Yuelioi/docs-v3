@@ -1,5 +1,5 @@
 ---
-display_name: Dynamic Montage Is Playing From
+title: Dynamic Montage Is Playing From
 order: 1
 ---
 ## Navigation

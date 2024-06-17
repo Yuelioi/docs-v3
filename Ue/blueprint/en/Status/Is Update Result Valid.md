@@ -1,5 +1,5 @@
 ---
-display_name: Is Update Result Valid
+title: Is Update Result Valid
 order: 9
 ---
 ## Navigation

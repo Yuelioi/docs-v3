@@ -1,6 +1,6 @@
 ---
 order: 3
-display_name: 计算
+title: 计算
 ---
 
 # Calculations - 计算

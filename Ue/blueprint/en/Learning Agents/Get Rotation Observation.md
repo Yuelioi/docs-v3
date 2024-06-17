@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Observation
+title: Get Rotation Observation
 order: 111
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Namespaced Subpoint Name
+title: Namespaced Subpoint Name
 order: 4
 ---
 ## Navigation

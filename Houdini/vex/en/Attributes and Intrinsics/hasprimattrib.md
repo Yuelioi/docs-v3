@@ -1,5 +1,5 @@
 ---
-display_name: hasprimattrib
+title: hasprimattrib
 order: 27
 ---
 `int  hasprimattrib(<geometry>geometry, string attribute_name)`

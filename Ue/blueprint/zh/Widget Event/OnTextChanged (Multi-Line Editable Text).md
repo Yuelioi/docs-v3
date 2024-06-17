@@ -1,5 +1,5 @@
 ---
-display_name: OnTextChanged (Multi-Line Editable Text)
+title: OnTextChanged (Multi-Line Editable Text)
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Modes from DMXImport
+title: Set Modes from DMXImport
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Circle Path 3D
+title: Create Circle Path 3D
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Fog Density
+title: Set Height Fog Density
 order: 39
 ---
 ## Navigation

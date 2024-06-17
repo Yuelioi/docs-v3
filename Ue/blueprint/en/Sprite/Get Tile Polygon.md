@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile Polygon
+title: Get Tile Polygon
 order: 17
 ---
 ## Navigation

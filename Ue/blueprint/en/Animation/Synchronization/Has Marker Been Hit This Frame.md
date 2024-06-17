@@ -1,5 +1,5 @@
 ---
-display_name: Has Marker Been Hit This Frame
+title: Has Marker Been Hit This Frame
 order: 3
 ---
 ## Navigation

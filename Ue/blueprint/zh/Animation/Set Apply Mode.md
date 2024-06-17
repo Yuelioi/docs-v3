@@ -1,5 +1,5 @@
 ---
-display_name: Set Apply Mode
+title: Set Apply Mode
 order: 19
 ---
 ## Navigation

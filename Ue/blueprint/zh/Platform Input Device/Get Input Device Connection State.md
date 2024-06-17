@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Device Connection State
+title: Get Input Device Connection State
 order: 6
 ---
 ## Navigation

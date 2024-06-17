@@ -1,5 +1,5 @@
 ---
-display_name: Get Styles for Name
+title: Get Styles for Name
 order: 46
 ---
 ## Navigation

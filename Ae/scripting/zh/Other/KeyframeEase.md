@@ -1,5 +1,5 @@
 ---
-display_name: KeyframeEase
+title: KeyframeEase
 order: 3
 ---
 

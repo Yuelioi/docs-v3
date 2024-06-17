@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Evaluation Distance to Oldest Sample Standard Deviation
+title: Get Input Evaluation Distance to Oldest Sample Standard Deviation
 order: 10
 ---
 ## Navigation

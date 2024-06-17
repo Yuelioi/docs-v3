@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Section Name
+title: Get Current Section Name
 order: 14
 ---
 ## Navigation

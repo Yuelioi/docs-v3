@@ -1,5 +1,5 @@
 ---
-display_name: Get Attach Socket Name
+title: Get Attach Socket Name
 order: 34
 ---
 ## Navigation

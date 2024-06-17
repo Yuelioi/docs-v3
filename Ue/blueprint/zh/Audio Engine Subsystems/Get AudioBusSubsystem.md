@@ -1,5 +1,5 @@
 ---
-display_name: Get AudioBusSubsystem
+title: Get AudioBusSubsystem
 order: 1
 ---
 ## Navigation

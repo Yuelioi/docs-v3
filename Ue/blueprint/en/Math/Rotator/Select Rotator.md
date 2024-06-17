@@ -1,5 +1,5 @@
 ---
-display_name: Select Rotator
+title: Select Rotator
 order: 24
 ---
 ## Navigation

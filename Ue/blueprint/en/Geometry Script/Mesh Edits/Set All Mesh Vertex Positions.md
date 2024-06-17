@@ -1,5 +1,5 @@
 ---
-display_name: Set All Mesh Vertex Positions
+title: Set All Mesh Vertex Positions
 order: 16
 ---
 ## Navigation

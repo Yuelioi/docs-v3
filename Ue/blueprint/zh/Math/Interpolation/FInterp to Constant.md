@@ -1,5 +1,5 @@
 ---
-display_name: FInterp to Constant
+title: FInterp to Constant
 order: 3
 ---
 ## Navigation

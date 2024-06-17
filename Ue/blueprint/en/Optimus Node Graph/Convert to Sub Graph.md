@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Sub Graph
+title: Convert to Sub Graph
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Transform)
+title: Assert Equal (Transform)
 order: 15
 ---
 ## Navigation

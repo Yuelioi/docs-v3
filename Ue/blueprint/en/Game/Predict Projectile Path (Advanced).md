@@ -1,5 +1,5 @@
 ---
-display_name: Predict Projectile Path (Advanced)
+title: Predict Projectile Path (Advanced)
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotate Enabled
+title: Set Rotate Enabled
 order: 2
 ---
 ## Navigation

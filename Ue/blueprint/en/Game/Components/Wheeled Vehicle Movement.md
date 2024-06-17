@@ -1,5 +1,5 @@
 ---
-display_name: Wheeled Vehicle Movement
+title: Wheeled Vehicle Movement
 order: 6
 ---
 ## Navigation

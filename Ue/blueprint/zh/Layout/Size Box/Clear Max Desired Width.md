@@ -1,5 +1,5 @@
 ---
-display_name: Clear Max Desired Width
+title: Clear Max Desired Width
 order: 4
 ---
 ## Navigation

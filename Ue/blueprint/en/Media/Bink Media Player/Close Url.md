@@ -1,5 +1,5 @@
 ---
-display_name: Close Url
+title: Close Url
 order: 3
 ---
 ## Navigation

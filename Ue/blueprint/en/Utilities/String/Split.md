@@ -1,5 +1,5 @@
 ---
-display_name: Split
+title: Split
 order: 45
 ---
 ## Navigation

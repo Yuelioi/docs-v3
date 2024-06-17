@@ -1,5 +1,5 @@
 ---
-display_name: Get Configuration
+title: Get Configuration
 order: 24
 ---
 ## Navigation

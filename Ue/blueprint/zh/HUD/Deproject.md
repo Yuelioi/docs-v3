@@ -1,5 +1,5 @@
 ---
-display_name: Deproject
+title: Deproject
 order: 3
 ---
 ## Navigation

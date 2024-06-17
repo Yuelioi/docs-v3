@@ -1,5 +1,5 @@
 ---
-display_name: Look At Function
+title: Look At Function
 order: 15
 ---
 ## Navigation

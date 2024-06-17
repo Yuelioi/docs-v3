@@ -1,5 +1,5 @@
 ---
-display_name: Keys from Interp Curve Two Vectors
+title: Keys from Interp Curve Two Vectors
 order: 115
 ---
 ## Navigation

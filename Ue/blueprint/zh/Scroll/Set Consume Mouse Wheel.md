@@ -1,5 +1,5 @@
 ---
-display_name: Set Consume Mouse Wheel
+title: Set Consume Mouse Wheel
 order: 5
 ---
 ## Navigation

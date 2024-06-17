@@ -1,5 +1,5 @@
 ---
-display_name: Set Planet Radius
+title: Set Planet Radius
 order: 68
 ---
 ## Navigation

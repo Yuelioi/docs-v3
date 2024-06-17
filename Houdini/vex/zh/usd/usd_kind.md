@@ -1,5 +1,5 @@
 ---
-display_name: usd_kind
+title: usd_kind
 order: 84
 ---
 | Since | 17.5 |

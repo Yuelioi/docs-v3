@@ -1,5 +1,5 @@
 ---
-display_name: Convert Array to Triangle List
+title: Convert Array to Triangle List
 order: 9
 ---
 ## Navigation

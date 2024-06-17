@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Property at Spline Point
+title: Get Float Property at Spline Point
 order: 33
 ---
 ## Navigation

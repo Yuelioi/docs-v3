@@ -1,5 +1,5 @@
 ---
-display_name: Deselect Element (Message)
+title: Deselect Element (Message)
 order: 7
 ---
 ## Navigation

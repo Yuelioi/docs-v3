@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Full Name
+title: Get Data Layer Full Name
 order: 5
 ---
 ## Navigation

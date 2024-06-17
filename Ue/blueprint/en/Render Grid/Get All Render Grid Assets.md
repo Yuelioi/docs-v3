@@ -1,5 +1,5 @@
 ---
-display_name: Get All Render Grid Assets
+title: Get All Render Grid Assets
 order: 10
 ---
 ## Navigation

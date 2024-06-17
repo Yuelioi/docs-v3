@@ -1,5 +1,5 @@
 ---
-display_name: 杂色 HLS 自动
+title: 杂色 HLS 自动
 order: 10
 ---
 

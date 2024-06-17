@@ -1,5 +1,5 @@
 ---
-display_name: Make Invariant Text
+title: Make Invariant Text
 order: 23
 ---
 ## Navigation

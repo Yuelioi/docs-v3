@@ -1,5 +1,5 @@
 ---
-display_name: Create Copy for Undo Buffer
+title: Create Copy for Undo Buffer
 order: 4
 ---
 ## Navigation

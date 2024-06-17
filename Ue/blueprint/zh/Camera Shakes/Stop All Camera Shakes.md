@@ -1,5 +1,5 @@
 ---
-display_name: Stop All Camera Shakes
+title: Stop All Camera Shakes
 order: 7
 ---
 ## Navigation

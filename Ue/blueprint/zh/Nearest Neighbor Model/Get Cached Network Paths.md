@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Network Paths
+title: Get Cached Network Paths
 order: 4
 ---
 ## Navigation

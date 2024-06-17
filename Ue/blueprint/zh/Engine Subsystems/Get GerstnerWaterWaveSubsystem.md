@@ -1,5 +1,5 @@
 ---
-display_name: Get GerstnerWaterWaveSubsystem
+title: Get GerstnerWaterWaveSubsystem
 order: 21
 ---
 ## Navigation

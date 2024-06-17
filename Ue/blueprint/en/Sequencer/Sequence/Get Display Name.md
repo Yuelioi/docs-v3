@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Name
+title: Get Display Name
 order: 29
 ---
 ## Navigation

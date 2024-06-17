@@ -1,5 +1,5 @@
 ---
-display_name: Set Shot Override Configuration
+title: Set Shot Override Configuration
 order: 23
 ---
 ## Navigation

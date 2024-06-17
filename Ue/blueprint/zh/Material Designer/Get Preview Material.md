@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview Material
+title: Get Preview Material
 order: 120
 ---
 ## Navigation

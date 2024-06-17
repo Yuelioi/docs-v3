@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound Source Spread
+title: Set Sound Source Spread
 order: 2
 ---
 ## Navigation

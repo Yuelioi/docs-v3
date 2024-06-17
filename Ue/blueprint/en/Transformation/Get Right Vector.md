@@ -1,5 +1,5 @@
 ---
-display_name: Get Right Vector
+title: Get Right Vector
 order: 43
 ---
 ## Navigation

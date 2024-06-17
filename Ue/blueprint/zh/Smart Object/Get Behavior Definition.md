@@ -1,5 +1,5 @@
 ---
-display_name: Get Behavior Definition
+title: Get Behavior Definition
 order: 16
 ---
 ## Navigation

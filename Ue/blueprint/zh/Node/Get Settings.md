@@ -1,5 +1,5 @@
 ---
-display_name: Get Settings
+title: Get Settings
 order: 4
 ---
 ## Navigation

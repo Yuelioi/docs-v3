@@ -1,5 +1,5 @@
 ---
-display_name: Get Pan
+title: Get Pan
 order: 31
 ---
 ## Navigation

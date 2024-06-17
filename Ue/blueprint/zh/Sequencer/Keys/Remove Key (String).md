@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (String)
+title: Remove Key (String)
 order: 98
 ---
 ## Navigation

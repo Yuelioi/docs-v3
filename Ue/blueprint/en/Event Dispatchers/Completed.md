@@ -1,5 +1,5 @@
 ---
-display_name: Completed
+title: Completed
 order: 23
 ---
 ## Navigation

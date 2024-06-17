@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Index
+title: Get Graph Index
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Mode
+title: Get Texture Mode
 order: 67
 ---
 ## Navigation

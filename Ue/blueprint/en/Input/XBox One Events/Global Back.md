@@ -1,5 +1,5 @@
 ---
-display_name: Global Back
+title: Global Back
 order: 1
 ---
 ## Navigation

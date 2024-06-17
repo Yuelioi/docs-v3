@@ -1,5 +1,5 @@
 ---
-display_name: hedge_srcvertex
+title: hedge_srcvertex
 order: 17
 ---
 `int  hedge_srcvertex(<geometry>geometry, int hedge)`

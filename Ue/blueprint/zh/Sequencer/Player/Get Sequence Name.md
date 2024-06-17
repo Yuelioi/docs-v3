@@ -1,5 +1,5 @@
 ---
-display_name: Get Sequence Name
+title: Get Sequence Name
 order: 15
 ---
 ## Navigation

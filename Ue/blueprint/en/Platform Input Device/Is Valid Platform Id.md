@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Platform Id
+title: Is Valid Platform Id
 order: 15
 ---
 ## Navigation

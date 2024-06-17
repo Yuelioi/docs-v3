@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Metadata
+title: Set Bool Metadata
 order: 122
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SetForegroundColor (Multi-Line Text Box)
+title: SetForegroundColor (Multi-Line Text Box)
 order: 41
 ---
 ## Navigation

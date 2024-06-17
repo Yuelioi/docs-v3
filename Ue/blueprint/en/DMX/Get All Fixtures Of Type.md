@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixtures Of Type
+title: Get All Fixtures Of Type
 order: 32
 ---
 ## Navigation

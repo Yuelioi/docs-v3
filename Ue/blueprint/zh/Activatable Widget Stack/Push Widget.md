@@ -1,5 +1,5 @@
 ---
-display_name: Push Widget
+title: Push Widget
 order: 2
 ---
 ## Navigation

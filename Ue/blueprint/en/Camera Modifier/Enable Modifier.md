@@ -1,5 +1,5 @@
 ---
-display_name: Enable Modifier
+title: Enable Modifier
 order: 2
 ---
 ## Navigation

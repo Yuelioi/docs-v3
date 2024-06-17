@@ -1,5 +1,5 @@
 ---
-display_name: Get Instanced Foliage Actor for Level
+title: Get Instanced Foliage Actor for Level
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Color for Channel
+title: Get Custom Color for Channel
 order: 5
 ---
 ## Navigation

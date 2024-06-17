@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Position
+title: Get Vertex Position
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Captured Properties
+title: Get Captured Properties
 order: 11
 ---
 ## Navigation

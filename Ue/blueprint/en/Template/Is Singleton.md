@@ -1,5 +1,5 @@
 ---
-display_name: Is Singleton
+title: Is Singleton
 order: 4
 ---
 ## Navigation

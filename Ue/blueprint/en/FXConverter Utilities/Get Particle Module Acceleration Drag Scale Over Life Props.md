@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Acceleration Drag Scale Over Life Props
+title: Get Particle Module Acceleration Drag Scale Over Life Props
 order: 57
 ---
 ## Navigation

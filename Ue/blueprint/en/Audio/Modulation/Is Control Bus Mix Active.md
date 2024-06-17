@@ -1,5 +1,5 @@
 ---
-display_name: Is Control Bus Mix Active
+title: Is Control Bus Mix Active
 order: 23
 ---
 ## Navigation

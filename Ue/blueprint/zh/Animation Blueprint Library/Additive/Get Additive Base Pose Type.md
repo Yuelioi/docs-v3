@@ -1,5 +1,5 @@
 ---
-display_name: Get Additive Base Pose Type
+title: Get Additive Base Pose Type
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Empty Text
+title: Get Empty Text
 order: 17
 ---
 ## Navigation

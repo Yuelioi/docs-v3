@@ -1,5 +1,5 @@
 ---
-display_name: Start Continuous Input Injection for Action
+title: Start Continuous Input Injection for Action
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Spline
+title: Get Water Spline
 order: 17
 ---
 ## Navigation

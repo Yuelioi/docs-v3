@@ -1,5 +1,5 @@
 ---
-display_name: Create New Clock
+title: Create New Clock
 order: 1
 ---
 ## Navigation

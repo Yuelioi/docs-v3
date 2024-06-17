@@ -1,5 +1,5 @@
 ---
-display_name: Enable Playback by Cache
+title: Enable Playback by Cache
 order: 4
 ---
 ## Navigation

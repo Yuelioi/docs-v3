@@ -1,5 +1,5 @@
 ---
-display_name: Remove Hidden Points
+title: Remove Hidden Points
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Check Map Type Hints
+title: Check Map Type Hints
 order: 15
 ---
 ## Navigation

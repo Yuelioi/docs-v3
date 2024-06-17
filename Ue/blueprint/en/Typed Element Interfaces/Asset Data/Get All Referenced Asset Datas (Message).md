@@ -1,5 +1,5 @@
 ---
-display_name: Get All Referenced Asset Datas (Message)
+title: Get All Referenced Asset Datas (Message)
 order: 1
 ---
 ## Navigation

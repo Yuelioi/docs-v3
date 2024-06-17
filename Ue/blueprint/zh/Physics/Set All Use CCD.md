@@ -1,5 +1,5 @@
 ---
-display_name: Set All Use CCD
+title: Set All Use CCD
 order: 23
 ---
 ## Navigation

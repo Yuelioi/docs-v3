@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbbox
+title: usd_getbbox
 order: 42
 ---
 | Since | 18.0 |

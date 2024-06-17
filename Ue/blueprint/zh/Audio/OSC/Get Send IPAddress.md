@@ -1,5 +1,5 @@
 ---
-display_name: Get Send IPAddress
+title: Get Send IPAddress
 order: 50
 ---
 ## Navigation

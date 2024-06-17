@@ -1,5 +1,5 @@
 ---
-display_name: Is Completion Truncation
+title: Is Completion Truncation
 order: 141
 ---
 ## Navigation

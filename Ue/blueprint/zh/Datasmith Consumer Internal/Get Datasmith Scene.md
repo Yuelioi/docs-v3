@@ -1,5 +1,5 @@
 ---
-display_name: Get Datasmith Scene
+title: Get Datasmith Scene
 order: 1
 ---
 ## Navigation

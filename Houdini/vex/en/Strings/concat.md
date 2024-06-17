@@ -1,5 +1,5 @@
 ---
-display_name: concat
+title: concat
 order: 3
 ---
 `string  concat(string s1, string s2, ...)`

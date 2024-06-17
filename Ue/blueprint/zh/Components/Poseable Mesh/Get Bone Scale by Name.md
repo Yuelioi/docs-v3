@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Scale by Name
+title: Get Bone Scale by Name
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Description
+title: Get Plugin Description
 order: 6
 ---
 ## Navigation

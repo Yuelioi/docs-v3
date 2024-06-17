@@ -1,5 +1,5 @@
 ---
-display_name: Bake Vertex
+title: Bake Vertex
 order: 3
 ---
 ## Navigation

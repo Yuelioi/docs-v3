@@ -1,5 +1,5 @@
 ---
-display_name: Add Collision Component
+title: Add Collision Component
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Arrays
+title: Arrays
 order: 1
 ---
 | On this page | * [Overview](#overview) * [Declaring array types](#declaring-array-types) * [Accessing and setting array values](#accessing-and-setting-array-values) * [Slicing Arrays](#slicing-arrays) * [Copying between arrays and vectors/matrices](#copying-between-arrays-and-vectors-matrices) * [Looping over an array](#looping-over-an-array) * [Working with arrays](#working-with-arrays) * [VCC pragmas](#vcc-pragmas) * [Limitations](#limitations) |

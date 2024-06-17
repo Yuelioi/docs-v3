@@ -1,5 +1,5 @@
 ---
-display_name: Unload Instances
+title: Unload Instances
 order: 5
 ---
 ## Navigation

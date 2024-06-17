@@ -1,5 +1,5 @@
 ---
-display_name: On Up Shift
+title: On Up Shift
 order: 180
 ---
 ## Navigation

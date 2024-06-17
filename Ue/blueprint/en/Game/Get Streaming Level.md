@@ -1,5 +1,5 @@
 ---
-display_name: Get Streaming Level
+title: Get Streaming Level
 order: 43
 ---
 ## Navigation

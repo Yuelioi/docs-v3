@@ -1,5 +1,5 @@
 ---
-display_name: Clear Pending Take
+title: Clear Pending Take
 order: 2
 ---
 ## Navigation

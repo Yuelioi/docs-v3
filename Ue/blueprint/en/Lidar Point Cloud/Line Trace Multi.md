@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Multi
+title: Line Trace Multi
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delay
+title: Delay
 order: 3
 ---
 ## Navigation

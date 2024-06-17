@@ -1,5 +1,5 @@
 ---
-display_name: ASASession Updated Delegate
+title: ASASession Updated Delegate
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Entry Generated
+title: On Entry Generated
 order: 7
 ---
 ## Navigation

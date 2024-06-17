@@ -1,5 +1,5 @@
 ---
-display_name: Add Point
+title: Add Point
 order: 1
 ---
 ## Navigation

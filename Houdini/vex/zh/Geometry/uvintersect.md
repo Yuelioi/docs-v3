@@ -1,5 +1,5 @@
 ---
-display_name: uvintersect
+title: uvintersect
 order: 38
 ---
 `int  uvintersect(<geometry>geometry, string uvname, vector orig, vector dir, vector &pos, vector &primuv)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Info
+title: Set Material Info
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Inputs
+title: Get Num Inputs
 order: 5
 ---
 ## Navigation

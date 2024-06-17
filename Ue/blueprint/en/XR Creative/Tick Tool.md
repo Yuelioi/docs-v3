@@ -1,5 +1,5 @@
 ---
-display_name: Tick Tool
+title: Tick Tool
 order: 35
 ---
 ## Navigation

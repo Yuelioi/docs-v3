@@ -1,5 +1,5 @@
 ---
-display_name: hedge_isvalid
+title: hedge_isvalid
 order: 6
 ---
 `int  hedge_isvalid(<geometry>geometry, int hedge)`

@@ -1,5 +1,5 @@
 ---
-display_name: NextReticle
+title: NextReticle
 order: 42
 ---
 ## Navigation

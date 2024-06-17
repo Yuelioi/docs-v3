@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Typed Element Registry
+title: Get Default Typed Element Registry
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Selection Change
+title: On Selection Change
 order: 23
 ---
 ## Navigation

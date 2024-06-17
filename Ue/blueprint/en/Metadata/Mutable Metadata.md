@@ -1,5 +1,5 @@
 ---
-display_name: Mutable Metadata
+title: Mutable Metadata
 order: 2
 ---
 ## Navigation

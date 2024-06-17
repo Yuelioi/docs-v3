@@ -1,5 +1,5 @@
 ---
-display_name: Remove from Parent
+title: Remove from Parent
 order: 15
 ---
 ## Navigation

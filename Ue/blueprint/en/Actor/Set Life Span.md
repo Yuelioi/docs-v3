@@ -1,5 +1,5 @@
 ---
-display_name: Set Life Span
+title: Set Life Span
 order: 27
 ---
 ## Navigation

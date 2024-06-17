@@ -1,5 +1,5 @@
 ---
-display_name: On Individual Job Work Finished Delegate
+title: On Individual Job Work Finished Delegate
 order: 86
 ---
 ## Navigation

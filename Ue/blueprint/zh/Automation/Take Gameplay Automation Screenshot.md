@@ -1,5 +1,5 @@
 ---
-display_name: Take Gameplay Automation Screenshot
+title: Take Gameplay Automation Screenshot
 order: 37
 ---
 ## Navigation

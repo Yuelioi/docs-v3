@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Trace By Channel
+title: Sphere Trace By Channel
 order: 76
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Custom Actors
+title: Get All Custom Actors
 order: 15
 ---
 ## Navigation

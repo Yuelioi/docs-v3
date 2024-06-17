@@ -1,5 +1,5 @@
 ---
-display_name: CC块加载
+title: CC块加载
 order: 2
 ---
 

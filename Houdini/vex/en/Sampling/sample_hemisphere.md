@@ -1,5 +1,5 @@
 ---
-display_name: sample_hemisphere
+title: sample_hemisphere
 order: 18
 ---
 `vector  sample_hemisphere(vector2 u)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Yaw
+title: Set Yaw
 order: 18
 ---
 ## Navigation

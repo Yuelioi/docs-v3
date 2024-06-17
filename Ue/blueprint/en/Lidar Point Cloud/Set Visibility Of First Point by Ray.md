@@ -1,5 +1,5 @@
 ---
-display_name: Set Visibility Of First Point by Ray
+title: Set Visibility Of First Point by Ray
 order: 69
 ---
 ## Navigation

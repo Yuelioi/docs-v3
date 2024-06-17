@@ -1,5 +1,5 @@
 ---
-display_name: Allocate New Shot Override Config
+title: Allocate New Shot Override Config
 order: 1
 ---
 ## Navigation

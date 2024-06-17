@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIControl Change
+title: On MIDIControl Change
 order: 3
 ---
 ## Navigation

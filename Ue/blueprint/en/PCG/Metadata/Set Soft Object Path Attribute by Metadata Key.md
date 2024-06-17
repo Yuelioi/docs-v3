@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Object Path Attribute by Metadata Key
+title: Set Soft Object Path Attribute by Metadata Key
 order: 92
 ---
 ## Navigation

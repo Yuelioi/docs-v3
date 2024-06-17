@@ -1,5 +1,5 @@
 ---
-display_name: Get World Asset
+title: Get World Asset
 order: 13
 ---
 ## Navigation

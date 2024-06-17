@@ -1,5 +1,5 @@
 ---
-display_name: Determinant
+title: Determinant
 order: 3
 ---
 ## Navigation

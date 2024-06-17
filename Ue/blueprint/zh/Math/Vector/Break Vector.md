@@ -1,5 +1,5 @@
 ---
-display_name: Break Vector
+title: Break Vector
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Move by Velocity
+title: Request Move by Velocity
 order: 2
 ---
 ## Navigation

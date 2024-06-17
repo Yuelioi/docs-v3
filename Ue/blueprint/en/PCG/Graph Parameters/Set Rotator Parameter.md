@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotator Parameter
+title: Set Rotator Parameter
 order: 33
 ---
 ## Navigation

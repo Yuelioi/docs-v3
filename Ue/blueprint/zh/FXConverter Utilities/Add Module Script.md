@@ -1,5 +1,5 @@
 ---
-display_name: Add Module Script
+title: Add Module Script
 order: 4
 ---
 ## Navigation

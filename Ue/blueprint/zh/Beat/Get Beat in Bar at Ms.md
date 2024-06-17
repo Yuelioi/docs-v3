@@ -1,5 +1,5 @@
 ---
-display_name: Get Beat in Bar at Ms
+title: Get Beat in Bar at Ms
 order: 2
 ---
 ## Navigation

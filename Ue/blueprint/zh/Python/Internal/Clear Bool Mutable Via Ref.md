@@ -1,5 +1,5 @@
 ---
-display_name: Clear Bool Mutable Via Ref
+title: Clear Bool Mutable Via Ref
 order: 24
 ---
 ## Navigation

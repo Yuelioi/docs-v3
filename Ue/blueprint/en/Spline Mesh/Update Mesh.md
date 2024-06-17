@@ -1,5 +1,5 @@
 ---
-display_name: Update Mesh
+title: Update Mesh
 order: 32
 ---
 ## Navigation

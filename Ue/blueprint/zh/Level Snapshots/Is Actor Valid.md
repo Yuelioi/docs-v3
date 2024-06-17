@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Valid
+title: Is Actor Valid
 order: 14
 ---
 ## Navigation

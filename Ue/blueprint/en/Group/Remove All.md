@@ -1,5 +1,5 @@
 ---
-display_name: Remove All
+title: Remove All
 order: 3
 ---
 ## Navigation

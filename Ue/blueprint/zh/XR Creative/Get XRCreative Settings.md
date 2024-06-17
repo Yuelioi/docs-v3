@@ -1,5 +1,5 @@
 ---
-display_name: Get XRCreative Settings
+title: Get XRCreative Settings
 order: 18
 ---
 ## Navigation

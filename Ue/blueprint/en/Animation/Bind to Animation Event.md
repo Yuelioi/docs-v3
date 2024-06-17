@@ -1,5 +1,5 @@
 ---
-display_name: Bind to Animation Event
+title: Bind to Animation Event
 order: 5
 ---
 ## Navigation

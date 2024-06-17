@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Double 3
+title: Stringify as Double 3
 order: 7
 ---
 ## Navigation

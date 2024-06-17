@@ -1,5 +1,5 @@
 ---
-display_name: Watch Output
+title: Watch Output
 order: 18
 ---
 ## Navigation

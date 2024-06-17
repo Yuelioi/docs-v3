@@ -1,5 +1,5 @@
 ---
-display_name: Group Selected
+title: Group Selected
 order: 6
 ---
 ## Navigation

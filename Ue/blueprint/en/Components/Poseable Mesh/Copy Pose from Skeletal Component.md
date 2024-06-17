@@ -1,5 +1,5 @@
 ---
-display_name: Copy Pose from Skeletal Component
+title: Copy Pose from Skeletal Component
 order: 1
 ---
 ## Navigation

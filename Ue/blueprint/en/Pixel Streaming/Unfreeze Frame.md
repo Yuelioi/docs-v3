@@ -1,5 +1,5 @@
 ---
-display_name: Unfreeze Frame
+title: Unfreeze Frame
 order: 34
 ---
 ## Navigation

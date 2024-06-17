@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Aggregated Tags
+title: Get Source Aggregated Tags
 order: 25
 ---
 ## Navigation

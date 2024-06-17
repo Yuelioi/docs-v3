@@ -1,5 +1,5 @@
 ---
-display_name: Get Streamer Id List
+title: Get Streamer Id List
 order: 12
 ---
 ## Navigation

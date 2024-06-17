@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Bundle
+title: Get Media Bundle
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Lod from Static Mesh
+title: Set Lod from Static Mesh
 order: 39
 ---
 ## Navigation

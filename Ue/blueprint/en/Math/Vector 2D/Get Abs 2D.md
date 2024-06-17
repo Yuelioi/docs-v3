@@ -1,5 +1,5 @@
 ---
-display_name: Get Abs 2D
+title: Get Abs 2D
 order: 8
 ---
 ## Navigation

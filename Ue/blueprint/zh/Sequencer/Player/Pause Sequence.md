@@ -1,5 +1,5 @@
 ---
-display_name: Pause Sequence
+title: Pause Sequence
 order: 30
 ---
 ## Navigation

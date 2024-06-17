@@ -1,5 +1,5 @@
 ---
-display_name: Get LODMaterial Slot
+title: Get LODMaterial Slot
 order: 13
 ---
 ## Navigation

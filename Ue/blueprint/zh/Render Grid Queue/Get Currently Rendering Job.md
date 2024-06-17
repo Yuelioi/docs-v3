@@ -1,5 +1,5 @@
 ---
-display_name: Get Currently Rendering Job
+title: Get Currently Rendering Job
 order: 5
 ---
 ## Navigation

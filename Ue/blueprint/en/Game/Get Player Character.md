@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Character
+title: Get Player Character
 order: 38
 ---
 ## Navigation

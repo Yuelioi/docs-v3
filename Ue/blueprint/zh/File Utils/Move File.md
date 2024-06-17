@@ -1,5 +1,5 @@
 ---
-display_name: Move File
+title: Move File
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Multiple Control Parameters
+title: Add Multiple Control Parameters
 order: 3
 ---
 ## Navigation

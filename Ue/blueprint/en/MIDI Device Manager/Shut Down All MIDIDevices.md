@@ -1,5 +1,5 @@
 ---
-display_name: Shut Down All MIDIDevices
+title: Shut Down All MIDIDevices
 order: 10
 ---
 ## Navigation

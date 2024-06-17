@@ -1,5 +1,5 @@
 ---
-display_name: Remove Node by Name
+title: Remove Node by Name
 order: 87
 ---
 ## Navigation

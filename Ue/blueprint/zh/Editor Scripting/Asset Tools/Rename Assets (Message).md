@@ -1,5 +1,5 @@
 ---
-display_name: Rename Assets (Message)
+title: Rename Assets (Message)
 order: 36
 ---
 ## Navigation

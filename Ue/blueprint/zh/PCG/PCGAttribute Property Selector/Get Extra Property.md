@@ -1,5 +1,5 @@
 ---
-display_name: Get Extra Property
+title: Get Extra Property
 order: 5
 ---
 ## Navigation

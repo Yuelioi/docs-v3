@@ -1,5 +1,5 @@
 ---
-display_name: random_sobol
+title: random_sobol
 order: 36
 ---
 `float  random_sobol(float seed, int offset)`

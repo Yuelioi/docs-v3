@@ -1,5 +1,5 @@
 ---
-display_name: Convert Function to Custom Kernel
+title: Convert Function to Custom Kernel
 order: 15
 ---
 ## Navigation

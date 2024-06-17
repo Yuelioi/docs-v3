@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Parameter (Message)
+title: Set Object Parameter (Message)
 order: 27
 ---
 ## Navigation

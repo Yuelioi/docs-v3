@@ -1,5 +1,5 @@
 ---
-display_name: Set Timer for Next Tick by Event
+title: Set Timer for Next Tick by Event
 order: 29
 ---
 ## Navigation

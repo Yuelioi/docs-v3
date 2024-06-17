@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Focus Target
+title: Get Desired Focus Target
 order: 5
 ---
 ## Navigation

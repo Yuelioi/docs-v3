@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeletal Center Of Mass
+title: Get Skeletal Center Of Mass
 order: 85
 ---
 ## Navigation

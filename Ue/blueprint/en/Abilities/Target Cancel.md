@@ -1,5 +1,5 @@
 ---
-display_name: Target Cancel
+title: Target Cancel
 order: 3
 ---
 ## Navigation

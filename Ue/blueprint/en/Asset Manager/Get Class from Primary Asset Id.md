@@ -1,5 +1,5 @@
 ---
-display_name: Get Class from Primary Asset Id
+title: Get Class from Primary Asset Id
 order: 7
 ---
 ## Navigation

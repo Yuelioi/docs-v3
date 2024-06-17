@@ -1,5 +1,5 @@
 ---
-display_name: Landscape Import Heightmap from RenderTarget
+title: Landscape Import Heightmap from RenderTarget
 order: 8
 ---
 ## Navigation

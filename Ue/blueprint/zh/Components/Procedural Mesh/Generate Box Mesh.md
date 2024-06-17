@@ -1,5 +1,5 @@
 ---
-display_name: Generate Box Mesh
+title: Generate Box Mesh
 order: 12
 ---
 ## Navigation

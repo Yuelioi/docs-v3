@@ -1,5 +1,5 @@
 ---
-display_name: Engine Plugins Dir
+title: Engine Plugins Dir
 order: 21
 ---
 ## Navigation

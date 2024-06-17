@@ -1,5 +1,5 @@
 ---
-display_name: relpointbbox
+title: relpointbbox
 order: 16
 ---
 `vector  relpointbbox(<geometry>geometry, vector position)`

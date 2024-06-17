@@ -1,5 +1,5 @@
 ---
-display_name: Rebuild
+title: Rebuild
 order: 6
 ---
 ## Navigation

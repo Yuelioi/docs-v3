@@ -1,5 +1,5 @@
 ---
-display_name: Get Outer Extent
+title: Get Outer Extent
 order: 8
 ---
 ## Navigation

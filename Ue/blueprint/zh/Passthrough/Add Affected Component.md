@@ -1,5 +1,5 @@
 ---
-display_name: Add Affected Component
+title: Add Affected Component
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Properties
+title: Get Matrix Properties
 order: 20
 ---
 ## Navigation

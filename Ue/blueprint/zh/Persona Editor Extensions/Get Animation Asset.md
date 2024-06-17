@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Asset
+title: Get Animation Asset
 order: 2
 ---
 ## Navigation

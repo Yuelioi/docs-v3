@@ -1,5 +1,5 @@
 ---
-display_name: Observe
+title: Observe
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Vortex Force Enabled
+title: Set Vortex Force Enabled
 order: 64
 ---
 ## Navigation

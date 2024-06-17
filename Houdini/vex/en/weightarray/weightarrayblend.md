@@ -1,5 +1,5 @@
 ---
-display_name: weightarrayblend
+title: weightarrayblend
 order: 1
 ---
 The new named item is assumed to weight 1.0.

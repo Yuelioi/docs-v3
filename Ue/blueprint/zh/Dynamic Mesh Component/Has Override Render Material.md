@@ -1,5 +1,5 @@
 ---
-display_name: Has Override Render Material
+title: Has Override Render Material
 order: 14
 ---
 ## Navigation

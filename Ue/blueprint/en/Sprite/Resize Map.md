@@ -1,5 +1,5 @@
 ---
-display_name: Resize Map
+title: Resize Map
 order: 27
 ---
 ## Navigation

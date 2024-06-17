@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Float)
+title: Remove Default (Float)
 order: 86
 ---
 ## Navigation

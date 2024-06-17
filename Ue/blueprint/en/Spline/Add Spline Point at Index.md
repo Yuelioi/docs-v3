@@ -1,5 +1,5 @@
 ---
-display_name: Add Spline Point at Index
+title: Add Spline Point at Index
 order: 3
 ---
 ## Navigation

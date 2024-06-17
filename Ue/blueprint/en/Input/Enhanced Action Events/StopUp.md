@@ -1,5 +1,5 @@
 ---
-display_name: StopUp
+title: StopUp
 order: 90
 ---
 ## Navigation

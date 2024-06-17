@@ -1,5 +1,5 @@
 ---
-display_name: Set Trailing Event Request Settings
+title: Set Trailing Event Request Settings
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Rendering Detail Mode
+title: Get Rendering Detail Mode
 order: 15
 ---
 ## Navigation

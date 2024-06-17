@@ -1,5 +1,5 @@
 ---
-display_name: Scale Translation (Matrix)
+title: Scale Translation (Matrix)
 order: 31
 ---
 ## Navigation

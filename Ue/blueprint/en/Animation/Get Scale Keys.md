@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale Keys
+title: Get Scale Keys
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Has Breakpoint
+title: Set Has Breakpoint
 order: 55
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Right Vector at Time
+title: Get Right Vector at Time
 order: 47
 ---
 ## Navigation

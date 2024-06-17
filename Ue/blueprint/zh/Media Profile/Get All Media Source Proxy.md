@@ -1,5 +1,5 @@
 ---
-display_name: Get All Media Source Proxy
+title: Get All Media Source Proxy
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Key
+title: Get Key
 order: 43
 ---
 ## Navigation

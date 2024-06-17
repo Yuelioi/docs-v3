@@ -1,5 +1,5 @@
 ---
-display_name: tet_faceindex
+title: tet_faceindex
 order: 2
 ---
 `int  tet_faceindex(int faceno, int vtxno)`

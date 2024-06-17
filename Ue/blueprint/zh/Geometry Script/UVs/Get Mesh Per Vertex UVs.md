@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Per Vertex UVs
+title: Get Mesh Per Vertex UVs
 order: 7
 ---
 ## Navigation

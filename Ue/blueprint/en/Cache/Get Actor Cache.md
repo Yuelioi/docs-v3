@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Cache
+title: Get Actor Cache
 order: 2
 ---
 ## Navigation

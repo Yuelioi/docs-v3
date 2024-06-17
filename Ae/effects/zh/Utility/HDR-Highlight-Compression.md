@@ -1,5 +1,5 @@
 ---
-display_name: HDR 高光压缩
+title: HDR 高光压缩
 order: 7
 ---
 

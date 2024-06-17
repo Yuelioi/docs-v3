@@ -1,5 +1,5 @@
 ---
-display_name: 块溶解
+title: 块溶解
 order: 1
 ---
 

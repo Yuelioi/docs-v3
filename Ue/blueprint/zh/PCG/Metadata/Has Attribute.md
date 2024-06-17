@@ -1,5 +1,5 @@
 ---
-display_name: Has Attribute
+title: Has Attribute
 order: 60
 ---
 ## Navigation

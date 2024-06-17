@@ -1,5 +1,5 @@
 ---
-display_name: re_find
+title: re_find
 order: 24
 ---
 `int  re_find(string regex, string input)`

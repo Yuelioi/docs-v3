@@ -1,5 +1,5 @@
 ---
-display_name: Stop Sending DMX
+title: Stop Sending DMX
 order: 2
 ---
 ## Navigation

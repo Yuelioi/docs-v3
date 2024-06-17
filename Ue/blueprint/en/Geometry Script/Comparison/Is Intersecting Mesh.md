@@ -1,5 +1,5 @@
 ---
-display_name: Is Intersecting Mesh
+title: Is Intersecting Mesh
 order: 1
 ---
 ## Navigation

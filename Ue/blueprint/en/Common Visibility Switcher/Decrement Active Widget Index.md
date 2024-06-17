@@ -1,5 +1,5 @@
 ---
-display_name: Decrement Active Widget Index
+title: Decrement Active Widget Index
 order: 3
 ---
 ## Navigation

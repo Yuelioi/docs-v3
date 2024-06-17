@@ -1,5 +1,5 @@
 ---
-display_name: Is Timer Active by Function Name
+title: Is Timer Active by Function Name
 order: 19
 ---
 ## Navigation

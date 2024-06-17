@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Shannon Entropy
+title: Calculate Shannon Entropy
 order: 4
 ---
 ## Navigation

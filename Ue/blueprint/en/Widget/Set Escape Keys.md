@@ -1,5 +1,5 @@
 ---
-display_name: Set Escape Keys
+title: Set Escape Keys
 order: 12
 ---
 ## Navigation

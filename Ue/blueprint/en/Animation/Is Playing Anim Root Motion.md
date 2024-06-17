@@ -1,5 +1,5 @@
 ---
-display_name: Is Playing Anim Root Motion
+title: Is Playing Anim Root Motion
 order: 2
 ---
 ## Navigation

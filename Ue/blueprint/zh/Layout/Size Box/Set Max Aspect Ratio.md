@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Aspect Ratio
+title: Set Max Aspect Ratio
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Shift Down
+title: Is Shift Down
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Blueprint
+title: Get Blueprint
 order: 7
 ---
 ## Navigation

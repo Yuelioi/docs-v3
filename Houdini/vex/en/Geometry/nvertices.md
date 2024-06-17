@@ -1,5 +1,5 @@
 ---
-display_name: nvertices
+title: nvertices
 order: 19
 ---
 `int  nvertices(<geometry>geometry)`

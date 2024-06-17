@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Identifier
+title: Set Curve Identifier
 order: 2
 ---
 ## Navigation

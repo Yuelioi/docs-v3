@@ -1,5 +1,5 @@
 ---
-display_name: Un Hide Bone by Name
+title: Un Hide Bone by Name
 order: 43
 ---
 ## Navigation

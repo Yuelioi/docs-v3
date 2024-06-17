@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Player Controller
+title: Get Local Player Controller
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Expose Actor
+title: Expose Actor
 order: 1
 ---
 ## Navigation

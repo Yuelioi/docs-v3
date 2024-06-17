@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Frames
+title: Get Num Frames
 order: 3
 ---
 ## Navigation

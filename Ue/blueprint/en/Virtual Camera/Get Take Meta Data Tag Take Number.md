@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Meta Data Tag Take Number
+title: Get Take Meta Data Tag Take Number
 order: 51
 ---
 ## Navigation

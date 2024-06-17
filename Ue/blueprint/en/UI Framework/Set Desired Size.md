@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Size
+title: Set Desired Size
 order: 19
 ---
 ## Navigation

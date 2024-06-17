@@ -1,5 +1,5 @@
 ---
-display_name: Set Wrap Text Width
+title: Set Wrap Text Width
 order: 8
 ---
 ## Navigation

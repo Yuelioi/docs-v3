@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Size Multiply Life Props
+title: Get Particle Module Size Multiply Life Props
 order: 91
 ---
 ## Navigation

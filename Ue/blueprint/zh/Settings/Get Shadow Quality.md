@@ -1,5 +1,5 @@
 ---
-display_name: Get Shadow Quality
+title: Get Shadow Quality
 order: 62
 ---
 ## Navigation

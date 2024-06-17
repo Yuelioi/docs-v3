@@ -1,5 +1,5 @@
 ---
-display_name: Add Spline Point
+title: Add Spline Point
 order: 4
 ---
 ## Navigation

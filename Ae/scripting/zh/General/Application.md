@@ -1,5 +1,5 @@
 ---
-display_name: Application
+title: Application
 order: 1
 ---
 # APP 应用

@@ -1,5 +1,5 @@
 ---
-display_name: Add Interp Float
+title: Add Interp Float
 order: 2
 ---
 ## Navigation

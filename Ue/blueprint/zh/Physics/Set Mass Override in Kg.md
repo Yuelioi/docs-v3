@@ -1,5 +1,5 @@
 ---
-display_name: Set Mass Override in Kg
+title: Set Mass Override in Kg
 order: 37
 ---
 ## Navigation

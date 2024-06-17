@@ -1,5 +1,5 @@
 ---
-display_name: On Media Open Failed
+title: On Media Open Failed
 order: 49
 ---
 ## Navigation

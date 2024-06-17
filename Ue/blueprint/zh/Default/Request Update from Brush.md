@@ -1,5 +1,5 @@
 ---
-display_name: Request Update from Brush
+title: Request Update from Brush
 order: 21
 ---
 ## Navigation

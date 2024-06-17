@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale Action
+title: Get Scale Action
 order: 112
 ---
 ## Navigation

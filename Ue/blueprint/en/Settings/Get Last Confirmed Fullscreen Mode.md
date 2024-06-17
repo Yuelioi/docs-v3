@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Confirmed Fullscreen Mode
+title: Get Last Confirmed Fullscreen Mode
 order: 47
 ---
 ## Navigation

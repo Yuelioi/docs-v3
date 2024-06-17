@@ -1,5 +1,5 @@
 ---
-display_name: pciterate
+title: pciterate
 order: 22
 ---
 `int  pciterate(int handle)`

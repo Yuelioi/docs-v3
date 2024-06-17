@@ -1,5 +1,5 @@
 ---
-display_name: Auto Generate Patch Builder Mesh UVs
+title: Auto Generate Patch Builder Mesh UVs
 order: 1
 ---
 ## Navigation

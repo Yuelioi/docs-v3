@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Seconds
+title: Set Start Seconds
 order: 101
 ---
 ## Navigation

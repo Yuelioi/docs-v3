@@ -1,5 +1,5 @@
 ---
-display_name: Min (Float)
+title: Min (Float)
 order: 26
 ---
 ## Navigation

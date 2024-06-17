@@ -1,5 +1,5 @@
 ---
-display_name: Get Length
+title: Get Length
 order: 25
 ---
 ## Navigation

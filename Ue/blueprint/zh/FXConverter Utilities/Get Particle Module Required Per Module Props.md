@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Required Per Module Props
+title: Get Particle Module Required Per Module Props
 order: 86
 ---
 ## Navigation

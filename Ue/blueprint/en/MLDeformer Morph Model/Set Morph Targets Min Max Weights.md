@@ -1,5 +1,5 @@
 ---
-display_name: Set Morph Targets Min Max Weights
+title: Set Morph Targets Min Max Weights
 order: 6
 ---
 ## Navigation

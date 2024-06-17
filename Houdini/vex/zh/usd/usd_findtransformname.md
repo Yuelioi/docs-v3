@@ -1,5 +1,5 @@
 ---
-display_name: usd_findtransformname
+title: usd_findtransformname
 order: 37
 ---
 | Since | 18.0 |

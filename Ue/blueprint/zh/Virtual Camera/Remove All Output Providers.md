@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Output Providers
+title: Remove All Output Providers
 order: 14
 ---
 ## Navigation

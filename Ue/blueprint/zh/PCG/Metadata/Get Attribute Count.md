@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Count
+title: Get Attribute Count
 order: 26
 ---
 ## Navigation

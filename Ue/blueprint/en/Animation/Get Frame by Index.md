@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame by Index
+title: Get Frame by Index
 order: 24
 ---
 ## Navigation

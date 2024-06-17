@@ -1,5 +1,5 @@
 ---
-display_name: Set Thirty Second Notes Per Minute
+title: Set Thirty Second Notes Per Minute
 order: 10
 ---
 ## Navigation

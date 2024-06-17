@@ -1,5 +1,5 @@
 ---
-display_name: Set Tags
+title: Set Tags
 order: 7
 ---
 ## Navigation

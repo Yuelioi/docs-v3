@@ -1,5 +1,5 @@
 ---
-display_name: Find Link for Pin
+title: Find Link for Pin
 order: 2
 ---
 ## Navigation

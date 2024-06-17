@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Smoothed Audio Render Song Pos
+title: Get Current Smoothed Audio Render Song Pos
 order: 16
 ---
 ## Navigation

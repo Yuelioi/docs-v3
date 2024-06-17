@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Tracking Enabled Controller Count
+title: Get Motion Tracking Enabled Controller Count
 order: 11
 ---
 ## Navigation

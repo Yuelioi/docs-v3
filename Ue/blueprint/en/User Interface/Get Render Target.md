@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Target
+title: Get Render Target
 order: 26
 ---
 ## Navigation

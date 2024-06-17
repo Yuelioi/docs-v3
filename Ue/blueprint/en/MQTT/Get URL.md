@@ -1,5 +1,5 @@
 ---
-display_name: Get URL
+title: Get URL
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Frames Per Second
+title: Set Frames Per Second
 order: 20
 ---
 ## Navigation

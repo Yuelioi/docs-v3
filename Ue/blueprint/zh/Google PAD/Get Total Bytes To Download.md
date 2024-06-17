@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Bytes To Download
+title: Get Total Bytes To Download
 order: 9
 ---
 ## Navigation

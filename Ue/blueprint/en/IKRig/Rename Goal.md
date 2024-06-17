@@ -1,5 +1,5 @@
 ---
-display_name: Rename Goal
+title: Rename Goal
 order: 38
 ---
 ## Navigation

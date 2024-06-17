@@ -1,5 +1,5 @@
 ---
-display_name: Get Edit Target
+title: Get Edit Target
 order: 2
 ---
 ## Navigation

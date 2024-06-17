@@ -1,5 +1,5 @@
 ---
-display_name: Get Mirror Data Table
+title: Get Mirror Data Table
 order: 2
 ---
 ## Navigation

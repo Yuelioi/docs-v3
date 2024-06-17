@@ -1,5 +1,5 @@
 ---
-display_name: 变调与合声
+title: 变调与合声
 order: 4
 ---
 

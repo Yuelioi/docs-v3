@@ -1,5 +1,5 @@
 ---
-display_name: Add Type to Packing
+title: Add Type to Packing
 order: 1
 ---
 ## Navigation

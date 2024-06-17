@@ -1,5 +1,5 @@
 ---
-display_name: Int to Normalized Value
+title: Int to Normalized Value
 order: 58
 ---
 ## Navigation

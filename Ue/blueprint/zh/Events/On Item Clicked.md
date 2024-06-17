@@ -1,5 +1,5 @@
 ---
-display_name: On Item Clicked
+title: On Item Clicked
 order: 11
 ---
 ## Navigation

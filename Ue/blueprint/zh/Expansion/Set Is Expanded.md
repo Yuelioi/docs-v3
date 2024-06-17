@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Expanded
+title: Set Is Expanded
 order: 3
 ---
 ## Navigation

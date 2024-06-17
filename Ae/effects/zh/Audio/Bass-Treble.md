@@ -1,5 +1,5 @@
 ---
-display_name: 低音和高音
+title: 低音和高音
 order: 2
 ---
 

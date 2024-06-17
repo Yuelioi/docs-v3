@@ -1,5 +1,5 @@
 ---
-display_name: Is Excluded From HLOD Level
+title: Is Excluded From HLOD Level
 order: 1
 ---
 ## Navigation

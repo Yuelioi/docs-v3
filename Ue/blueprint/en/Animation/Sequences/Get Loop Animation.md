@@ -1,5 +1,5 @@
 ---
-display_name: Get Loop Animation
+title: Get Loop Animation
 order: 6
 ---
 ## Navigation

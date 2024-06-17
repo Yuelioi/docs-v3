@@ -1,5 +1,5 @@
 ---
-display_name: Is BVHValid for Mesh
+title: Is BVHValid for Mesh
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Fullscreen Resolutions
+title: Get Supported Fullscreen Resolutions
 order: 21
 ---
 ## Navigation

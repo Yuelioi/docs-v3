@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Index
+title: Get Source Index
 order: 4
 ---
 ## Navigation

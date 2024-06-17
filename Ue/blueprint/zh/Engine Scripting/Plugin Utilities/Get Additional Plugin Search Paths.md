@@ -1,5 +1,5 @@
 ---
-display_name: Get Additional Plugin Search Paths
+title: Get Additional Plugin Search Paths
 order: 1
 ---
 ## Navigation

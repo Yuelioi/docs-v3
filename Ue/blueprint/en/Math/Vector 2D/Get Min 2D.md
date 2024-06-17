@@ -1,5 +1,5 @@
 ---
-display_name: Get Min 2D
+title: Get Min 2D
 order: 11
 ---
 ## Navigation

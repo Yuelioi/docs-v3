@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Poly Line
+title: Convert Spline to Poly Line
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Start Camera Shake from Source
+title: Start Camera Shake from Source
 order: 2
 ---
 ## Navigation

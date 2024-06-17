@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (String)
+title: Add Key (String)
 order: 9
 ---
 ## Navigation

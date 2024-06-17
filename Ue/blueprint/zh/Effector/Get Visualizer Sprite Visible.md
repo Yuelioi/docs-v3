@@ -1,5 +1,5 @@
 ---
-display_name: Get Visualizer Sprite Visible
+title: Get Visualizer Sprite Visible
 order: 15
 ---
 ## Navigation

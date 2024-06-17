@@ -1,5 +1,5 @@
 ---
-display_name: Set Video Track Frame Rate
+title: Set Video Track Frame Rate
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Show Laser
+title: Set Force Show Laser
 order: 13
 ---
 ## Navigation

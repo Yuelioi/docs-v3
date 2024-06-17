@@ -1,5 +1,5 @@
 ---
-display_name: On Instance Take Radial Damage
+title: On Instance Take Radial Damage
 order: 7
 ---
 ## Navigation

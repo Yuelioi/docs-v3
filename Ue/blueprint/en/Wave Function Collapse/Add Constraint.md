@@ -1,5 +1,5 @@
 ---
-display_name: Add Constraint
+title: Add Constraint
 order: 1
 ---
 ## Navigation

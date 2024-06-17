@@ -1,5 +1,5 @@
 ---
-display_name: Copy Meta Data
+title: Copy Meta Data
 order: 1
 ---
 ## Navigation

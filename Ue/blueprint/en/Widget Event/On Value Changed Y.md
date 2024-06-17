@@ -1,5 +1,5 @@
 ---
-display_name: On Value Changed Y
+title: On Value Changed Y
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set World Map Data
+title: Set World Map Data
 order: 30
 ---
 ## Navigation

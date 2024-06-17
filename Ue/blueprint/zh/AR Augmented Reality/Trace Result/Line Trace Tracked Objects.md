@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Tracked Objects
+title: Line Trace Tracked Objects
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: select
+title: select
 order: 16
 ---
 `<type> select(int conditional, <type>a, <type>b)`

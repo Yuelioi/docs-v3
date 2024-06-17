@@ -1,5 +1,5 @@
 ---
-display_name: Normalize In Place (Vector)
+title: Normalize In Place (Vector)
 order: 43
 ---
 ## Navigation

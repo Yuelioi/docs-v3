@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Chord Display Name
+title: Get Input Chord Display Name
 order: 1
 ---
 ## Navigation

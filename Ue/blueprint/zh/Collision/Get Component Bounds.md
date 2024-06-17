@@ -1,5 +1,5 @@
 ---
-display_name: Get Component Bounds
+title: Get Component Bounds
 order: 28
 ---
 ## Navigation

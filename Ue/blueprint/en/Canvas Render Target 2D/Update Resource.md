@@ -1,5 +1,5 @@
 ---
-display_name: Update Resource
+title: Update Resource
 order: 4
 ---
 ## Navigation

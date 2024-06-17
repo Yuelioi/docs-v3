@@ -1,5 +1,5 @@
 ---
-display_name: Is Geometry Map Valid
+title: Is Geometry Map Valid
 order: 8
 ---
 ## Navigation

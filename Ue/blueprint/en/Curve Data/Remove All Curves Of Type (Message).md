@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Curves Of Type (Message)
+title: Remove All Curves Of Type (Message)
 order: 5
 ---
 ## Navigation

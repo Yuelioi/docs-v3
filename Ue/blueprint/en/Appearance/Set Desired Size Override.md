@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Size Override
+title: Set Desired Size Override
 order: 44
 ---
 ## Navigation

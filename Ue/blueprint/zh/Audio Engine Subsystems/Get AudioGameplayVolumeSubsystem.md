@@ -1,5 +1,5 @@
 ---
-display_name: Get AudioGameplayVolumeSubsystem
+title: Get AudioGameplayVolumeSubsystem
 order: 2
 ---
 ## Navigation

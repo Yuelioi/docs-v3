@@ -1,5 +1,5 @@
 ---
-display_name: AI MoveTo
+title: AI MoveTo
 order: 1
 ---
 ## Navigation

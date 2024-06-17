@@ -1,5 +1,5 @@
 ---
-display_name: Delete Dependency
+title: Delete Dependency
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Linear Velocity at Point
+title: Get Physics Linear Velocity at Point
 order: 82
 ---
 ## Navigation

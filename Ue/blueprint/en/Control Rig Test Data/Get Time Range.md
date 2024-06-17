@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Range
+title: Get Time Range
 order: 4
 ---
 ## Navigation

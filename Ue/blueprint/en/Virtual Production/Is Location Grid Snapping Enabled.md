@@ -1,5 +1,5 @@
 ---
-display_name: Is Location Grid Snapping Enabled
+title: Is Location Grid Snapping Enabled
 order: 30
 ---
 ## Navigation

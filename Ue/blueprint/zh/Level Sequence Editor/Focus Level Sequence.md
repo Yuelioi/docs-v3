@@ -1,5 +1,5 @@
 ---
-display_name: Focus Level Sequence
+title: Focus Level Sequence
 order: 15
 ---
 ## Navigation

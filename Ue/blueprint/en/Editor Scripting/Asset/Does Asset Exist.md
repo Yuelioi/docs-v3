@@ -1,5 +1,5 @@
 ---
-display_name: Does Asset Exist
+title: Does Asset Exist
 order: 12
 ---
 ## Navigation

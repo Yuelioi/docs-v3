@@ -1,5 +1,5 @@
 ---
-display_name: Add Source
+title: Add Source
 order: 2
 ---
 ## Navigation

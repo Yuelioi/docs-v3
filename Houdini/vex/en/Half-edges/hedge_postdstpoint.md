@@ -1,5 +1,5 @@
 ---
-display_name: hedge_postdstpoint
+title: hedge_postdstpoint
 order: 9
 ---
 `int  hedge_postdstpoint(<geometry>geometry, int hedge)`

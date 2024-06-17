@@ -1,5 +1,5 @@
 ---
-display_name: Get Connector States
+title: Get Connector States
 order: 12
 ---
 ## Navigation

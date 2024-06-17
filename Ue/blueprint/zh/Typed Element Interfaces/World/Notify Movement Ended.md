@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Ended
+title: Notify Movement Ended
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Video Track Dimensions
+title: Get Video Track Dimensions
 order: 32
 ---
 ## Navigation

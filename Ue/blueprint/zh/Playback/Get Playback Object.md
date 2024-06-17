@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Object
+title: Get Playback Object
 order: 7
 ---
 ## Navigation

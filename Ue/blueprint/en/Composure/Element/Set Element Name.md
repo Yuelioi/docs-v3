@@ -1,5 +1,5 @@
 ---
-display_name: Set Element Name
+title: Set Element Name
 order: 6
 ---
 ## Navigation

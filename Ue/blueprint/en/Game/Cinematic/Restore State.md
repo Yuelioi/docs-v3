@@ -1,5 +1,5 @@
 ---
-display_name: Restore State
+title: Restore State
 order: 2
 ---
 ## Navigation

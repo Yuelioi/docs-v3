@@ -1,5 +1,5 @@
 ---
-display_name: Get 2DHit Location
+title: Get 2DHit Location
 order: 2
 ---
 ## Navigation

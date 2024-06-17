@@ -1,5 +1,5 @@
 ---
-display_name: Get Operation Mode
+title: Get Operation Mode
 order: 5
 ---
 ## Navigation

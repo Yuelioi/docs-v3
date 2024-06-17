@@ -1,5 +1,5 @@
 ---
-display_name: Remove Render Grid Job
+title: Remove Render Grid Job
 order: 31
 ---
 ## Navigation

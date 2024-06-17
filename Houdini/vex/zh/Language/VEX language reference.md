@@ -1,5 +1,5 @@
 ---
-display_name: VEX language reference
+title: VEX language reference
 order: 7
 ---
 | On this page | * [Contexts](#contexts) * [Statements](#statements) * [Built-in functions](#built-in-functions) * [User-defined functions](#functions)   + [Notes](#notes) * [Main (context) function](#main-context-function)   + [User interface pragmas](#user-interface-pragmas) * [Operators](#operators)   + [Dot operator](#dot-operator)  + [Comparisons](#comparisons)  + [Precedence table](#precedence)  + [Operator type interactions](#operator-type-interactions) * [Data types](#data-types) * [Structs](#structs)   + [Struct functions](#methods) * [Mantra Specific Types](#mantratypes) * [Type casting](#type-casting)   + [Variable casting](#variable-casting)  + [Function casting](#function-casting) * [Comments](#comments) * [Reserved Keywords](#reserved) |

@@ -1,5 +1,5 @@
 ---
-display_name: isinf
+title: isinf
 order: 34
 ---
 `int  isinf(float x)`

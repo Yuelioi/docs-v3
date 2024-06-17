@@ -1,5 +1,5 @@
 ---
-display_name: Flatten Points
+title: Flatten Points
 order: 2
 ---
 ## Navigation

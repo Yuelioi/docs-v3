@@ -1,5 +1,5 @@
 ---
-display_name: Get Window Focusable
+title: Get Window Focusable
 order: 32
 ---
 ## Navigation

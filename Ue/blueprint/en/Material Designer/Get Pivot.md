@@ -1,5 +1,5 @@
 ---
-display_name: Get Pivot
+title: Get Pivot
 order: 119
 ---
 ## Navigation

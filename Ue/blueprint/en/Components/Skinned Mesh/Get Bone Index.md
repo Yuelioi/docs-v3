@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Index
+title: Get Bone Index
 order: 6
 ---
 ## Navigation

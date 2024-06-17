@@ -1,5 +1,5 @@
 ---
-display_name: Get Watched Modulator Value
+title: Get Watched Modulator Value
 order: 22
 ---
 ## Navigation

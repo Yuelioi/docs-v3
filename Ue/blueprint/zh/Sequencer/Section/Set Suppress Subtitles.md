@@ -1,5 +1,5 @@
 ---
-display_name: Set Suppress Subtitles
+title: Set Suppress Subtitles
 order: 103
 ---
 ## Navigation

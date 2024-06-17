@@ -1,5 +1,5 @@
 ---
-display_name: Revert Unchanged Files
+title: Revert Unchanged Files
 order: 21
 ---
 ## Navigation

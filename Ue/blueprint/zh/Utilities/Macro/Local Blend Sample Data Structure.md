@@ -1,5 +1,5 @@
 ---
-display_name: Local Blend Sample Data Structure
+title: Local Blend Sample Data Structure
 order: 13
 ---
 ## Navigation

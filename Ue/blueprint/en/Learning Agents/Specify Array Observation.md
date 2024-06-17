@@ -1,5 +1,5 @@
 ---
-display_name: Specify Array Observation
+title: Specify Array Observation
 order: 276
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Interchange Manager Scripted
+title: Get Interchange Manager Scripted
 order: 3
 ---
 ## Navigation

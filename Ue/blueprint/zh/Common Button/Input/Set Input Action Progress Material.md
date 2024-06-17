@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Action Progress Material
+title: Set Input Action Progress Material
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get String
+title: Get String
 order: 8
 ---
 ## Navigation

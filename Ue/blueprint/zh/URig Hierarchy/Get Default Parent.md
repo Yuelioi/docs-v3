@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Parent
+title: Get Default Parent
 order: 27
 ---
 ## Navigation

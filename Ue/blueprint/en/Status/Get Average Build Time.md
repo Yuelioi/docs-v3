@@ -1,5 +1,5 @@
 ---
-display_name: Get Average Build Time
+title: Get Average Build Time
 order: 1
 ---
 ## Navigation

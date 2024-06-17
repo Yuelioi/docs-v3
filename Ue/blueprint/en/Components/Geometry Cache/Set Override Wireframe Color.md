@@ -1,5 +1,5 @@
 ---
-display_name: Set Override Wireframe Color
+title: Set Override Wireframe Color
 order: 24
 ---
 ## Navigation

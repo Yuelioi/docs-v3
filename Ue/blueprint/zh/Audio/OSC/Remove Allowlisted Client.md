@@ -1,5 +1,5 @@
 ---
-display_name: Remove Allowlisted Client
+title: Remove Allowlisted Client
 order: 63
 ---
 ## Navigation

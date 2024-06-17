@@ -1,5 +1,5 @@
 ---
-display_name: Check Float Type Hints
+title: Check Float Type Hints
 order: 13
 ---
 ## Navigation

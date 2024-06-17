@@ -1,5 +1,5 @@
 ---
-display_name: Find Chromakey Cards
+title: Find Chromakey Cards
 order: 3
 ---
 ## Navigation

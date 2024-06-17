@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Wrap Box Slot
+title: Slot as Wrap Box Slot
 order: 13
 ---
 ## Navigation

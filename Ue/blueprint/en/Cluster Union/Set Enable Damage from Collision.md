@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Damage from Collision
+title: Set Enable Damage from Collision
 order: 6
 ---
 ## Navigation

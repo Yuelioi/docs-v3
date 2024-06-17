@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Mesh Occlusion
+title: Set Enable Mesh Occlusion
 order: 13
 ---
 ## Navigation

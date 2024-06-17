@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Player Name
+title: Get Desired Player Name
 order: 8
 ---
 ## Navigation

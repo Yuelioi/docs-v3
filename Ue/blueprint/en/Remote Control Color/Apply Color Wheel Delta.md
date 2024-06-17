@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Wheel Delta
+title: Apply Color Wheel Delta
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Sessions
+title: Find Sessions
 order: 3
 ---
 ## Navigation

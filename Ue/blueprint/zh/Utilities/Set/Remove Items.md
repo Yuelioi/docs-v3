@@ -1,5 +1,5 @@
 ---
-display_name: Remove Items
+title: Remove Items
 order: 11
 ---
 ## Navigation

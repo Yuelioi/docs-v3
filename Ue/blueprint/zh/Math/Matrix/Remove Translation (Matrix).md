@@ -1,5 +1,5 @@
 ---
-display_name: Remove Translation (Matrix)
+title: Remove Translation (Matrix)
 order: 30
 ---
 ## Navigation

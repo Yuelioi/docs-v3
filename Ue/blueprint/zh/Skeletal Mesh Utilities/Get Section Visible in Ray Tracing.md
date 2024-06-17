@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Visible in Ray Tracing
+title: Get Section Visible in Ray Tracing
 order: 7
 ---
 ## Navigation

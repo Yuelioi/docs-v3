@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Transaction
+title: Cancel Transaction
 order: 2
 ---
 ## Navigation

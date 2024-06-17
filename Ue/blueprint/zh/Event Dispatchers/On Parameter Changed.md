@@ -1,5 +1,5 @@
 ---
-display_name: On Parameter Changed
+title: On Parameter Changed
 order: 126
 ---
 ## Navigation

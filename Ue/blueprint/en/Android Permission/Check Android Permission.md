@@ -1,5 +1,5 @@
 ---
-display_name: Check Android Permission
+title: Check Android Permission
 order: 1
 ---
 ## Navigation

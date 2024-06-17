@@ -1,5 +1,5 @@
 ---
-display_name: State Machine
+title: State Machine
 order: 2
 ---
 ## Navigation

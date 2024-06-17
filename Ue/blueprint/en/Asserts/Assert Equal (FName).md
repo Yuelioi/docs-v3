@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (FName)
+title: Assert Equal (FName)
 order: 4
 ---
 ## Navigation

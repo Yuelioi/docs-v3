@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Default Vector Parameter Value
+title: Get Material Default Vector Parameter Value
 order: 17
 ---
 ## Navigation

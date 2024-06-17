@@ -1,5 +1,5 @@
 ---
-display_name: Negated (Vector4)
+title: Negated (Vector4)
 order: 13
 ---
 ## Navigation

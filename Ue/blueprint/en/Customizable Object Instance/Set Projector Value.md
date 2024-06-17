@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Value
+title: Set Projector Value
 order: 74
 ---
 ## Navigation

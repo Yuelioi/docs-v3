@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Key Value at Spline Point
+title: Get Input Key Value at Spline Point
 order: 35
 ---
 ## Navigation

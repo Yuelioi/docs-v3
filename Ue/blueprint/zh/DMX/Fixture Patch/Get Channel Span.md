@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Span
+title: Get Channel Span
 order: 13
 ---
 ## Navigation

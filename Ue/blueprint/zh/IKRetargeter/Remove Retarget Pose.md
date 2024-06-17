@@ -1,5 +1,5 @@
 ---
-display_name: Remove Retarget Pose
+title: Remove Retarget Pose
 order: 17
 ---
 ## Navigation

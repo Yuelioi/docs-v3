@@ -1,5 +1,5 @@
 ---
-display_name: Are Events Initialized
+title: Are Events Initialized
 order: 2
 ---
 ## Navigation

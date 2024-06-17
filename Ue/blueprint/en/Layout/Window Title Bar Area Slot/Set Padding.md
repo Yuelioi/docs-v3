@@ -1,5 +1,5 @@
 ---
-display_name: Set Padding
+title: Set Padding
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Force Rate
+title: Get Orientation Force Rate
 order: 30
 ---
 ## Navigation

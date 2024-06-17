@@ -1,5 +1,5 @@
 ---
-display_name: End Auto Scrolling
+title: End Auto Scrolling
 order: 2
 ---
 ## Navigation

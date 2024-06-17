@@ -1,5 +1,5 @@
 ---
-display_name: Set Data Layer Is Loaded in Editor
+title: Set Data Layer Is Loaded in Editor
 order: 43
 ---
 ## Navigation

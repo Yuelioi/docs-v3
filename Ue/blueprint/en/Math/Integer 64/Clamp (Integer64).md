@@ -1,5 +1,5 @@
 ---
-display_name: Clamp (Integer64)
+title: Clamp (Integer64)
 order: 7
 ---
 ## Navigation

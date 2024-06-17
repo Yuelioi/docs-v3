@@ -1,5 +1,5 @@
 ---
-display_name: On Wait End Delegate
+title: On Wait End Delegate
 order: 184
 ---
 ## Navigation

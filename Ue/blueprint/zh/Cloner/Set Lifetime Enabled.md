@@ -1,5 +1,5 @@
 ---
-display_name: Set Lifetime Enabled
+title: Set Lifetime Enabled
 order: 29
 ---
 ## Navigation

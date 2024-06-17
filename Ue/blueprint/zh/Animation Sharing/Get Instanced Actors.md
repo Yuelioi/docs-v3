@@ -1,5 +1,5 @@
 ---
-display_name: Get Instanced Actors
+title: Get Instanced Actors
 order: 4
 ---
 ## Navigation

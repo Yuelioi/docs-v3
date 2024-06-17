@@ -1,5 +1,5 @@
 ---
-display_name: Get Subtree Vertex Count
+title: Get Subtree Vertex Count
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequences (by Label)
+title: Play Sequences (by Label)
 order: 13
 ---
 ## Navigation

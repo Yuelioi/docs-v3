@@ -1,5 +1,5 @@
 ---
-display_name: Set Wind
+title: Set Wind
 order: 32
 ---
 ## Navigation

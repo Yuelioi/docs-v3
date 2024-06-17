@@ -1,5 +1,5 @@
 ---
-display_name: Montage Set Play Rate
+title: Montage Set Play Rate
 order: 23
 ---
 ## Navigation

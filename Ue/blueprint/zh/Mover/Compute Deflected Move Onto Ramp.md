@@ -1,5 +1,5 @@
 ---
-display_name: Compute Deflected Move Onto Ramp
+title: Compute Deflected Move Onto Ramp
 order: 10
 ---
 ## Navigation

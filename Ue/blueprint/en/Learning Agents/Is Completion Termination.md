@@ -1,5 +1,5 @@
 ---
-display_name: Is Completion Termination
+title: Is Completion Termination
 order: 140
 ---
 ## Navigation

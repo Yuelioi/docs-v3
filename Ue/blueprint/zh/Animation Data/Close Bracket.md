@@ -1,5 +1,5 @@
 ---
-display_name: Close Bracket
+title: Close Bracket
 order: 4
 ---
 ## Navigation

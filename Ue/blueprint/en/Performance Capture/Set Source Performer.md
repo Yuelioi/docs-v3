@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Performer
+title: Set Source Performer
 order: 12
 ---
 ## Navigation

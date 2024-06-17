@@ -1,5 +1,5 @@
 ---
-display_name: Flatten To 2D On Axis
+title: Flatten To 2D On Axis
 order: 12
 ---
 ## Navigation

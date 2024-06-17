@@ -1,5 +1,5 @@
 ---
-display_name: Find Image Capture Protocol
+title: Find Image Capture Protocol
 order: 2
 ---
 ## Navigation

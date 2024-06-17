@@ -1,5 +1,5 @@
 ---
-display_name: On Crumbling Event
+title: On Crumbling Event
 order: 3
 ---
 ## Navigation

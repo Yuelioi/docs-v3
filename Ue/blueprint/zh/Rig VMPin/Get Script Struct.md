@@ -1,5 +1,5 @@
 ---
-display_name: Get Script Struct
+title: Get Script Struct
 order: 26
 ---
 ## Navigation

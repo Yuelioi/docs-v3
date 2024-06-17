@@ -1,5 +1,5 @@
 ---
-display_name: nprimitives
+title: nprimitives
 order: 18
 ---
 `int  nprimitives(<geometry>geometry)`

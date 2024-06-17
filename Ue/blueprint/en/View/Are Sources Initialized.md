@@ -1,5 +1,5 @@
 ---
-display_name: Are Sources Initialized
+title: Are Sources Initialized
 order: 3
 ---
 ## Navigation

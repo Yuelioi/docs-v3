@@ -1,5 +1,5 @@
 ---
-display_name: Has Any Camera Cuts in Level Sequence
+title: Has Any Camera Cuts in Level Sequence
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Build Light Maps
+title: Build Light Maps
 order: 1
 ---
 ## Navigation

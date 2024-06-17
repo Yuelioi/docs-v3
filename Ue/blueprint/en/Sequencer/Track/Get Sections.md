@@ -1,5 +1,5 @@
 ---
-display_name: Get Sections
+title: Get Sections
 order: 12
 ---
 ## Navigation

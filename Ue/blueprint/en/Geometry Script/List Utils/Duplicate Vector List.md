@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Vector List
+title: Duplicate Vector List
 order: 22
 ---
 ## Navigation

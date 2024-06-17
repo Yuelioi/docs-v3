@@ -1,5 +1,5 @@
 ---
-display_name: Get Sequence Length
+title: Get Sequence Length
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Generate Box UVChannel
+title: Generate Box UVChannel
 order: 8
 ---
 ## Navigation

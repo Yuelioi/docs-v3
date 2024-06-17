@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Replicated
+title: Set Is Replicated
 order: 20
 ---
 ## Navigation

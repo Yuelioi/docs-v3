@@ -1,5 +1,5 @@
 ---
-display_name: Get Intensity
+title: Get Intensity
 order: 35
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: 高级溢出抑制器
+title: 高级溢出抑制器
 ---
 
 # Advanced Spill Suppressor - 高级溢出抑制器

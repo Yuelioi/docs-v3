@@ -1,5 +1,5 @@
 ---
-display_name: Montage Stop
+title: Montage Stop
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Abilities
+title: Get All Abilities
 order: 7
 ---
 ## Navigation

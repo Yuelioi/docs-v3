@@ -1,5 +1,5 @@
 ---
-display_name: distance_pointray
+title: distance_pointray
 order: 20
 ---
 `float  distance_pointray(vector Q, vector O, vector D)`

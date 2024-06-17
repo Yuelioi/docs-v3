@@ -1,5 +1,5 @@
 ---
-display_name: On Duplicate Actors End
+title: On Duplicate Actors End
 order: 36
 ---
 ## Navigation

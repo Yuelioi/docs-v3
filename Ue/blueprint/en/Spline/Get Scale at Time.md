@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale at Time
+title: Get Scale at Time
 order: 59
 ---
 ## Navigation

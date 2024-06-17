@@ -1,5 +1,5 @@
 ---
-display_name: Reset Relative Transform
+title: Reset Relative Transform
 order: 56
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: getblurP
+title: getblurP
 order: 10
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [light](../contexts/light.html)  [shadow](../contexts/shadow.html)  [surface](../contexts/surface.html) |

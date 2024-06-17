@@ -1,5 +1,5 @@
 ---
-display_name: Get Clean Filename
+title: Get Clean Filename
 order: 37
 ---
 ## Navigation

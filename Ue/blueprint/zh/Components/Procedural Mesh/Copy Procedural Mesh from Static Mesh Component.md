@@ -1,5 +1,5 @@
 ---
-display_name: Copy Procedural Mesh from Static Mesh Component
+title: Copy Procedural Mesh from Static Mesh Component
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Fixture Patch Received DMX
+title: On Fixture Patch Received DMX
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC万花筒
+title: CC万花筒
 order: 6
 ---
 

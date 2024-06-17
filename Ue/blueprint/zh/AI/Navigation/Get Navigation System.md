@@ -1,5 +1,5 @@
 ---
-display_name: Get Navigation System
+title: Get Navigation System
 order: 12
 ---
 ## Navigation

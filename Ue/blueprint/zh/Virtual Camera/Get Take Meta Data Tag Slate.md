@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Meta Data Tag Slate
+title: Get Take Meta Data Tag Slate
 order: 50
 ---
 ## Navigation

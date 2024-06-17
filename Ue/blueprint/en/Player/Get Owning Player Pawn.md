@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Player Pawn
+title: Get Owning Player Pawn
 order: 2
 ---
 ## Navigation

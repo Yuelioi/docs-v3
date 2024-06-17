@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Weight Array
+title: Get Parent Weight Array
 order: 64
 ---
 ## Navigation

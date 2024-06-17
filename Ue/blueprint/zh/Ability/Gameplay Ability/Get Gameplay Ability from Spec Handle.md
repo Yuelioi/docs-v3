@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Ability from Spec Handle
+title: Get Gameplay Ability from Spec Handle
 order: 1
 ---
 ## Navigation

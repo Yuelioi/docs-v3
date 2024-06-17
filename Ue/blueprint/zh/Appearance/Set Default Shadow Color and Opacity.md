@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Shadow Color and Opacity
+title: Set Default Shadow Color and Opacity
 order: 40
 ---
 ## Navigation

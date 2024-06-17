@@ -1,5 +1,5 @@
 ---
-display_name: Set Additive Animation Type
+title: Set Additive Animation Type
 order: 3
 ---
 ## Navigation

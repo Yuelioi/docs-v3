@@ -1,5 +1,5 @@
 ---
-display_name: Is Active
+title: Is Active
 order: 3
 ---
 ## Navigation

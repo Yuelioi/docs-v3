@@ -1,5 +1,5 @@
 ---
-display_name: removeattrib
+title: removeattrib
 order: 31
 ---
 `int  removeattrib(int geohandle, string attribclass, string name)`

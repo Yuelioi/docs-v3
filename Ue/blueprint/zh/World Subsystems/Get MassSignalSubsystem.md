@@ -1,5 +1,5 @@
 ---
-display_name: Get MassSignalSubsystem
+title: Get MassSignalSubsystem
 order: 51
 ---
 ## Navigation

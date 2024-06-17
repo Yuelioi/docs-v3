@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe
+title: Subscribe
 order: 33
 ---
 ## Navigation

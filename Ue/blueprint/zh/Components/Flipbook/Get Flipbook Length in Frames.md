@@ -1,5 +1,5 @@
 ---
-display_name: Get Flipbook Length in Frames
+title: Get Flipbook Length in Frames
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Controller Light Color
+title: Set Controller Light Color
 order: 12
 ---
 ## Navigation

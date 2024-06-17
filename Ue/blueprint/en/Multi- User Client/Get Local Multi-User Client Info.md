@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Multi-User Client Info
+title: Get Local Multi-User Client Info
 order: 3
 ---
 ## Navigation

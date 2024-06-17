@@ -1,5 +1,5 @@
 ---
-display_name: Make Scale Observation
+title: Make Scale Observation
 order: 234
 ---
 ## Navigation

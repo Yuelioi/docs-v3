@@ -1,5 +1,5 @@
 ---
-display_name: Set Lods with Notification
+title: Set Lods with Notification
 order: 40
 ---
 ## Navigation

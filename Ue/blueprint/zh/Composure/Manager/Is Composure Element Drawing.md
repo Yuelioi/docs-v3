@@ -1,5 +1,5 @@
 ---
-display_name: Is Composure Element Drawing
+title: Is Composure Element Drawing
 order: 5
 ---
 ## Navigation

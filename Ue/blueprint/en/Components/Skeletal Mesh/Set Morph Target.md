@@ -1,5 +1,5 @@
 ---
-display_name: Set Morph Target
+title: Set Morph Target
 order: 26
 ---
 ## Navigation

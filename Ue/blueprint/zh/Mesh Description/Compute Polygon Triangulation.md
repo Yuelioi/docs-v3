@@ -1,5 +1,5 @@
 ---
-display_name: Compute Polygon Triangulation
+title: Compute Polygon Triangulation
 order: 1
 ---
 ## Navigation

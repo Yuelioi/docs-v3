@@ -1,5 +1,5 @@
 ---
-display_name: Set Minimum Gust Amount
+title: Set Minimum Gust Amount
 order: 2
 ---
 ## Navigation

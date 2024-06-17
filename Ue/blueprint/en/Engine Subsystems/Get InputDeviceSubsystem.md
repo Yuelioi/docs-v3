@@ -1,5 +1,5 @@
 ---
-display_name: Get InputDeviceSubsystem
+title: Get InputDeviceSubsystem
 order: 23
 ---
 ## Navigation

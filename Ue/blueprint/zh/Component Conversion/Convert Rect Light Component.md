@@ -1,5 +1,5 @@
 ---
-display_name: Convert Rect Light Component
+title: Convert Rect Light Component
 order: 11
 ---
 ## Navigation

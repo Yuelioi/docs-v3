@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Time Since Creation
+title: Get Game Time Since Creation
 order: 21
 ---
 ## Navigation

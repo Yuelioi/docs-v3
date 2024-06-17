@@ -1,5 +1,5 @@
 ---
-display_name: Unmap All
+title: Unmap All
 order: 3
 ---
 ## Navigation

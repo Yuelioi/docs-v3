@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Count
+title: Get Actor Count
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Fly
+title: Fly
 order: 6
 ---
 ## Navigation

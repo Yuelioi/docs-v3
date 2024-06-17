@@ -1,5 +1,5 @@
 ---
-display_name: Get Params
+title: Get Params
 order: 8
 ---
 ## Navigation

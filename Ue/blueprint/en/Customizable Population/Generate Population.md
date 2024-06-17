@@ -1,5 +1,5 @@
 ---
-display_name: Generate Population
+title: Generate Population
 order: 1
 ---
 ## Navigation

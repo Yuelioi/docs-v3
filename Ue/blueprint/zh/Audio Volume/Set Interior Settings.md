@@ -1,5 +1,5 @@
 ---
-display_name: Set Interior Settings
+title: Set Interior Settings
 order: 2
 ---
 ## Navigation

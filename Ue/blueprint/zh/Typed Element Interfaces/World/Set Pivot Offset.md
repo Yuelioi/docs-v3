@@ -1,5 +1,5 @@
 ---
-display_name: Set Pivot Offset
+title: Set Pivot Offset
 order: 40
 ---
 ## Navigation

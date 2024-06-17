@@ -1,5 +1,5 @@
 ---
-display_name: Absolute (Integer)
+title: Absolute (Integer)
 order: 2
 ---
 ## Navigation

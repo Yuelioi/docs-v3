@@ -1,5 +1,5 @@
 ---
-display_name: Is Enabled
+title: Is Enabled
 order: 2
 ---
 ## Navigation

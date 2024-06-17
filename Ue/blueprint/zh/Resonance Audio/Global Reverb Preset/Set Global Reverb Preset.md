@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Reverb Preset
+title: Set Global Reverb Preset
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Speed
+title: Set Speed
 order: 4
 ---
 ## Navigation

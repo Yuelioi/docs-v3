@@ -1,5 +1,5 @@
 ---
-display_name: Create Float Local Value Input
+title: Create Float Local Value Input
 order: 13
 ---
 ## Navigation

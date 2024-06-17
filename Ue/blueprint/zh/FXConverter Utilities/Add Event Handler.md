@@ -1,5 +1,5 @@
 ---
-display_name: Add Event Handler
+title: Add Event Handler
 order: 2
 ---
 ## Navigation

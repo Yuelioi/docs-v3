@@ -1,5 +1,5 @@
 ---
-display_name: DEBUG Spawn
+title: DEBUG Spawn
 order: 2
 ---
 ## Navigation

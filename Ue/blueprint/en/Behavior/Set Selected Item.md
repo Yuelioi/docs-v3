@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Item
+title: Set Selected Item
 order: 28
 ---
 ## Navigation

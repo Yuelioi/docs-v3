@@ -1,5 +1,5 @@
 ---
-display_name: Get Streaming Source Priority
+title: Get Streaming Source Priority
 order: 8
 ---
 ## Navigation

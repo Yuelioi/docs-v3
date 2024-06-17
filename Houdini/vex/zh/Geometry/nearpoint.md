@@ -1,5 +1,5 @@
 ---
-display_name: nearpoint
+title: nearpoint
 order: 11
 ---
 `int  nearpoint(<geometry>geometry, vector pt)`

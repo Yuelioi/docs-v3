@@ -1,5 +1,5 @@
 ---
-display_name: minpos
+title: minpos
 order: 10
 ---
 `vector  minpos(<geometry>geometry, vector point)`

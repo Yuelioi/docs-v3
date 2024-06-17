@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim Instance
+title: Get Anim Instance
 order: 7
 ---
 ## Navigation

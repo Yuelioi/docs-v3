@@ -1,5 +1,5 @@
 ---
-display_name: Set World Location
+title: Set World Location
 order: 74
 ---
 ## Navigation

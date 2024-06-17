@@ -1,5 +1,5 @@
 ---
-display_name: Can Deselect Element (Message)
+title: Can Deselect Element (Message)
 order: 3
 ---
 ## Navigation

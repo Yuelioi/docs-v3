@@ -1,5 +1,5 @@
 ---
-display_name: Set Lake Transition Material
+title: Set Lake Transition Material
 order: 44
 ---
 ## Navigation

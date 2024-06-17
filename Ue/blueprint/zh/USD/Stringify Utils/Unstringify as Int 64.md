@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 64
+title: Unstringify as Int 64
 order: 98
 ---
 ## Navigation

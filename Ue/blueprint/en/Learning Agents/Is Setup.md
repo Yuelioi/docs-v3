@@ -1,5 +1,5 @@
 ---
-display_name: Is Setup
+title: Is Setup
 order: 143
 ---
 ## Navigation

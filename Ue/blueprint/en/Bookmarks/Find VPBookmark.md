@@ -1,5 +1,5 @@
 ---
-display_name: Find VPBookmark
+title: Find VPBookmark
 order: 3
 ---
 ## Navigation

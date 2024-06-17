@@ -1,5 +1,5 @@
 ---
-display_name: Find Text in Localization Table
+title: Find Text in Localization Table
 order: 15
 ---
 ## Navigation

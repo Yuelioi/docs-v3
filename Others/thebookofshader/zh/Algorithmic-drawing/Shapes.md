@@ -1,5 +1,5 @@
 ---
-display_name: Shapes
+title: Shapes
 order: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Minute
+title: Get Minute
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: xnoise
+title: xnoise
 order: 40
 ---
 `float  xnoise(float x)`

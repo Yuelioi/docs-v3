@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Data Registry Curve
+title: Evaluate Data Registry Curve
 order: 4
 ---
 ## Navigation

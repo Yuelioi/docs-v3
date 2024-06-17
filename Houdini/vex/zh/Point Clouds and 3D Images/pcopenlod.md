@@ -1,5 +1,5 @@
 ---
-display_name: pcopenlod
+title: pcopenlod
 order: 27
 ---
 | On this page | * [Distance Queries](#distance-queries) * [Solid Angle Queries](#solid-angle-queries) * [Aggregation](#aggregation) * [Example: Proximity Query](#example-proximity-query) * [Example: Threshold Solid-angle Query](#example-threshold-solid-angle-query) * [Example: Limited Solid-angle Query](#example-limited-solid-angle-query) |

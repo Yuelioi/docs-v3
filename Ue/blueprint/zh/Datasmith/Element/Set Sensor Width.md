@@ -1,5 +1,5 @@
 ---
-display_name: Set Sensor Width
+title: Set Sensor Width
 order: 134
 ---
 ## Navigation

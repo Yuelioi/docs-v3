@@ -1,5 +1,5 @@
 ---
-display_name: Start Capture
+title: Start Capture
 order: 7
 ---
 ## Navigation

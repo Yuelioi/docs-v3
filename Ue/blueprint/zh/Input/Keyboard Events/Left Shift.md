@@ -1,5 +1,5 @@
 ---
-display_name: Left Shift
+title: Left Shift
 order: 61
 ---
 ## Navigation

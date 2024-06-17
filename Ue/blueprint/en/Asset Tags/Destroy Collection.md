@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Collection
+title: Destroy Collection
 order: 9
 ---
 ## Navigation

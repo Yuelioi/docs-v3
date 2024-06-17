@@ -1,5 +1,5 @@
 ---
-display_name: Expand All
+title: Expand All
 order: 2
 ---
 ## Navigation

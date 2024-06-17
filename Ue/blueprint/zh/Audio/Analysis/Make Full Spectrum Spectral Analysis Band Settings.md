@@ -1,5 +1,5 @@
 ---
-display_name: Make Full Spectrum Spectral Analysis Band Settings
+title: Make Full Spectrum Spectral Analysis Band Settings
 order: 3
 ---
 ## Navigation

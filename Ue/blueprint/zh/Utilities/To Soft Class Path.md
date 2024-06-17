@@ -1,5 +1,5 @@
 ---
-display_name: To Soft Class Path
+title: To Soft Class Path
 order: 16
 ---
 ## Navigation

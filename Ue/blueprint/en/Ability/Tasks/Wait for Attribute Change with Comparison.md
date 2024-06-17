@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Attribute Change with Comparison
+title: Wait for Attribute Change with Comparison
 order: 47
 ---
 ## Navigation

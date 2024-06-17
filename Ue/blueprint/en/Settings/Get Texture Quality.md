@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Quality
+title: Get Texture Quality
 order: 64
 ---
 ## Navigation

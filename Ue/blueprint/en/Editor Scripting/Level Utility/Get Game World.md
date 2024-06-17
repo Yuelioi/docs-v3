@@ -1,5 +1,5 @@
 ---
-display_name: Get Game World
+title: Get Game World
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Anim Layer Instance by Group
+title: Get Linked Anim Layer Instance by Group
 order: 6
 ---
 ## Navigation

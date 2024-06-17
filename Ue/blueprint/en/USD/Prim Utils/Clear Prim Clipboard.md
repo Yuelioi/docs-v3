@@ -1,5 +1,5 @@
 ---
-display_name: Clear Prim Clipboard
+title: Clear Prim Clipboard
 order: 2
 ---
 ## Navigation

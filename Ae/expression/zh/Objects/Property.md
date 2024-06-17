@@ -1,5 +1,5 @@
 ---
-display_name: Property
+title: Property
 order: 12
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Bulk Set Convex Decomposition Collisions
+title: Bulk Set Convex Decomposition Collisions
 order: 5
 ---
 ## Navigation

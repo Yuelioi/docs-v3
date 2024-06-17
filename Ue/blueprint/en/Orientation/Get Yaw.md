@@ -1,5 +1,5 @@
 ---
-display_name: Get Yaw
+title: Get Yaw
 order: 9
 ---
 ## Navigation

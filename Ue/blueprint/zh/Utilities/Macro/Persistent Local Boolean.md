@@ -1,5 +1,5 @@
 ---
-display_name: Persistent Local Boolean
+title: Persistent Local Boolean
 order: 24
 ---
 ## Navigation

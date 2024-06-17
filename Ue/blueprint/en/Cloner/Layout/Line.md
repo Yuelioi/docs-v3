@@ -1,5 +1,5 @@
 ---
-display_name: Line
+title: Line
 order: 9
 ---
 ## Navigation

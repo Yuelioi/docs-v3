@@ -1,5 +1,5 @@
 ---
-display_name: Is Clicking on UI
+title: Is Clicking on UI
 order: 3
 ---
 ## Navigation

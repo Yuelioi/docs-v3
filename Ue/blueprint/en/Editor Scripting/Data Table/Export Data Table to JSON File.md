@@ -1,5 +1,5 @@
 ---
-display_name: Export Data Table to JSON File
+title: Export Data Table to JSON File
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Input
+title: Set Color Input
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Are Bindings Initialized
+title: Are Bindings Initialized
 order: 1
 ---
 ## Navigation

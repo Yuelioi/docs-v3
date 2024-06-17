@@ -1,5 +1,5 @@
 ---
-display_name: Get VProd Panel ID
+title: Get VProd Panel ID
 order: 23
 ---
 ## Navigation

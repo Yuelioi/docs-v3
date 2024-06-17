@@ -1,5 +1,5 @@
 ---
-display_name: Tap Delay
+title: Tap Delay
 order: 25
 ---
 ## Navigation

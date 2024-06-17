@@ -1,5 +1,5 @@
 ---
-display_name: Configure Material Set
+title: Configure Material Set
 order: 3
 ---
 ## Navigation

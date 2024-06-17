@@ -1,5 +1,5 @@
 ---
-display_name: Package Name to Filename
+title: Package Name to Filename
 order: 2
 ---
 ## Navigation

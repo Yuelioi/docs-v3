@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume Buttons Handled by System
+title: Set Volume Buttons Handled by System
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Loading State Changed
+title: On Loading State Changed
 order: 2
 ---
 ## Navigation

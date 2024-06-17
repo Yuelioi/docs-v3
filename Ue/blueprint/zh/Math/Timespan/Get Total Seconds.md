@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Seconds
+title: Get Total Seconds
 order: 18
 ---
 ## Navigation

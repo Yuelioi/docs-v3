@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Build Settings
+title: Get Lod Build Settings
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Importance Texture
+title: Make Importance Texture
 order: 4
 ---
 ## Navigation

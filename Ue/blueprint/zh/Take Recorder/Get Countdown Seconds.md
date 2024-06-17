@@ -1,5 +1,5 @@
 ---
-display_name: Get Countdown Seconds
+title: Get Countdown Seconds
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Media Closed
+title: On Media Closed
 order: 14
 ---
 ## Navigation

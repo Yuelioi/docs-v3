@@ -1,5 +1,5 @@
 ---
-display_name: MinValue (DateTime)
+title: MinValue (DateTime)
 order: 30
 ---
 ## Navigation

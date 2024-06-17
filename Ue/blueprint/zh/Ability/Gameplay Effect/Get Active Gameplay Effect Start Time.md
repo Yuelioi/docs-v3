@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Start Time
+title: Get Active Gameplay Effect Start Time
 order: 12
 ---
 ## Navigation

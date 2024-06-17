@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifiers
+title: Get Modifiers
 order: 5
 ---
 ## Navigation

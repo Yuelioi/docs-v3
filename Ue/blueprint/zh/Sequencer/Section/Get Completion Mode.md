@@ -1,5 +1,5 @@
 ---
-display_name: Get Completion Mode
+title: Get Completion Mode
 order: 22
 ---
 ## Navigation

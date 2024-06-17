@@ -1,5 +1,5 @@
 ---
-display_name: Scroll Wheel
+title: Scroll Wheel
 order: 16
 ---
 ## Navigation

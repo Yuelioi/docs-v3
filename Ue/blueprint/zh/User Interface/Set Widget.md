@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget
+title: Set Widget
 order: 51
 ---
 ## Navigation

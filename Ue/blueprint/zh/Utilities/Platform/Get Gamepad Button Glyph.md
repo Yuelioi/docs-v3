@@ -1,5 +1,5 @@
 ---
-display_name: Get Gamepad Button Glyph
+title: Get Gamepad Button Glyph
 order: 7
 ---
 ## Navigation

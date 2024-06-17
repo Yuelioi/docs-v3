@@ -1,5 +1,5 @@
 ---
-display_name: Set Row Span
+title: Set Row Span
 order: 6
 ---
 ## Navigation

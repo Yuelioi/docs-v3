@@ -1,5 +1,5 @@
 ---
-display_name: trace
+title: trace
 order: 77
 ---
 | On this page | * [Light inclusion/exclusion options](#light-inclusion-exclusion-options) * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) * [Ray sending options](#ray-sending-options) * [Sending information to the surface’s shader](#sending-information-to-the-surface-s-shader) * [Importing information from the ray](#importing-information-from-the-ray) * [Sample filtering options](#sample-filtering-options) * [Pipeline options](#pipeline-options) |

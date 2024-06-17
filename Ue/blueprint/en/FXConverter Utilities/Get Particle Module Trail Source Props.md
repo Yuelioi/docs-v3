@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Trail Source Props
+title: Get Particle Module Trail Source Props
 order: 99
 ---
 ## Navigation

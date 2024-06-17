@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDIChannel Aftertouch
+title: Send MIDIChannel Aftertouch
 order: 1
 ---
 ## Navigation

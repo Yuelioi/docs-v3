@@ -1,5 +1,5 @@
 ---
-display_name: Set Style
+title: Set Style
 order: 14
 ---
 ## Navigation

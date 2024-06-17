@@ -1,5 +1,5 @@
 ---
-display_name: Remove Level Layer Information
+title: Remove Level Layer Information
 order: 32
 ---
 ## Navigation

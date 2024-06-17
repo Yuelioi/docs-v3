@@ -1,5 +1,5 @@
 ---
-display_name: Set Config
+title: Set Config
 order: 23
 ---
 ## Navigation

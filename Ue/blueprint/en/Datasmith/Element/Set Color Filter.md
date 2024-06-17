@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Filter
+title: Set Color Filter
 order: 106
 ---
 ## Navigation

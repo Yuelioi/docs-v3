@@ -1,5 +1,5 @@
 ---
-display_name: PFMExporter Module API
+title: PFMExporter Module API
 order: 1
 ---
 ## Navigation

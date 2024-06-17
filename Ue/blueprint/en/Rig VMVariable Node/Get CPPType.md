@@ -1,5 +1,5 @@
 ---
-display_name: Get CPPType
+title: Get CPPType
 order: 2
 ---
 ## Navigation

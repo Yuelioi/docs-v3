@@ -1,5 +1,5 @@
 ---
-display_name: 棋盘
+title: 棋盘
 order: 12
 ---
 

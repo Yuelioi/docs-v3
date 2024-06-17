@@ -1,5 +1,5 @@
 ---
-display_name: Set Sorting Order
+title: Set Sorting Order
 order: 98
 ---
 ## Navigation

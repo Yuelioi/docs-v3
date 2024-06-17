@@ -1,5 +1,5 @@
 ---
-display_name: Clear Bool Mutable
+title: Clear Bool Mutable
 order: 25
 ---
 ## Navigation

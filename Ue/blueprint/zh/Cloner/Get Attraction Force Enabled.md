@@ -1,5 +1,5 @@
 ---
-display_name: Get Attraction Force Enabled
+title: Get Attraction Force Enabled
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Pin
+title: Get Source Pin
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All TextureShare Objects
+title: Get All TextureShare Objects
 order: 1
 ---
 ## Navigation

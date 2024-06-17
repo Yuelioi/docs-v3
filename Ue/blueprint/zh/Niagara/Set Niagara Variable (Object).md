@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Object)
+title: Set Niagara Variable (Object)
 order: 37
 ---
 ## Navigation

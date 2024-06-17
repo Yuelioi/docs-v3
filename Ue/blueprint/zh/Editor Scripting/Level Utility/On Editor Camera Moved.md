@@ -1,5 +1,5 @@
 ---
-display_name: On Editor Camera Moved
+title: On Editor Camera Moved
 order: 43
 ---
 ## Navigation

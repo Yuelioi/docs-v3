@@ -1,5 +1,5 @@
 ---
-display_name: Make Perlin Noise and Remap
+title: Make Perlin Noise and Remap
 order: 17
 ---
 ## Navigation

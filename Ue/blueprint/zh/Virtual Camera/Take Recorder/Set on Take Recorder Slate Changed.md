@@ -1,5 +1,5 @@
 ---
-display_name: Set on Take Recorder Slate Changed
+title: Set on Take Recorder Slate Changed
 order: 3
 ---
 ## Navigation

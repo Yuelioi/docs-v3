@@ -1,5 +1,5 @@
 ---
-display_name: Delete Color for Channels
+title: Delete Color for Channels
 order: 2
 ---
 ## Navigation

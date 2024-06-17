@@ -1,5 +1,5 @@
 ---
-display_name: Align Between
+title: Align Between
 order: 1
 ---
 ## Navigation

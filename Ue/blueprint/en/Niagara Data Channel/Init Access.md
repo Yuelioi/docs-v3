@@ -1,5 +1,5 @@
 ---
-display_name: Init Access
+title: Init Access
 order: 2
 ---
 ## Navigation

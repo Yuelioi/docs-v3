@@ -1,5 +1,5 @@
 ---
-display_name: Query for Owned In-App Products
+title: Query for Owned In-App Products
 order: 5
 ---
 ## Navigation

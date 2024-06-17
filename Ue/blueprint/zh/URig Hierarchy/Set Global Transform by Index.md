@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Transform by Index
+title: Set Global Transform by Index
 order: 145
 ---
 ## Navigation

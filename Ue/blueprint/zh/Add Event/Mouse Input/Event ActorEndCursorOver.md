@@ -1,5 +1,5 @@
 ---
-display_name: Event ActorEndCursorOver
+title: Event ActorEndCursorOver
 order: 2
 ---
 ## Navigation

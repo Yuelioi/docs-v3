@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Parameter
+title: Set Float Parameter
 order: 27
 ---
 ## Navigation

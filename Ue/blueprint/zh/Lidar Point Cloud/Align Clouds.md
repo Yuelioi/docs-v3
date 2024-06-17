@@ -1,5 +1,5 @@
 ---
-display_name: Align Clouds
+title: Align Clouds
 order: 1
 ---
 ## Navigation

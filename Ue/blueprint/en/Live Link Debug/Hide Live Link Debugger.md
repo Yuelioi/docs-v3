@@ -1,5 +1,5 @@
 ---
-display_name: Hide Live Link Debugger
+title: Hide Live Link Debugger
 order: 2
 ---
 ## Navigation

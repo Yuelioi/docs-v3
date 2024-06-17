@@ -1,5 +1,5 @@
 ---
-display_name: Set Playback End Seconds
+title: Set Playback End Seconds
 order: 92
 ---
 ## Navigation

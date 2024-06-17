@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Mode
+title: Set Blend Mode
 order: 26
 ---
 ## Navigation

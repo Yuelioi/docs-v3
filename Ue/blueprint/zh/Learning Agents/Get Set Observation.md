@@ -1,5 +1,5 @@
 ---
-display_name: Get Set Observation
+title: Get Set Observation
 order: 116
 ---
 ## Navigation

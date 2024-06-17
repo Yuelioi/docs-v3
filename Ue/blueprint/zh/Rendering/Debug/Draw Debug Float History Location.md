@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Float History Location
+title: Draw Debug Float History Location
 order: 10
 ---
 ## Navigation

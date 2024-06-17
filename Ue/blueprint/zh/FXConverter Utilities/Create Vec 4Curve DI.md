@@ -1,5 +1,5 @@
 ---
-display_name: Create Vec 4Curve DI
+title: Create Vec 4Curve DI
 order: 28
 ---
 ## Navigation

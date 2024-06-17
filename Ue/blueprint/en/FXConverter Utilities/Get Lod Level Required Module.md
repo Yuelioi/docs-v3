@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Level Required Module
+title: Get Lod Level Required Module
 order: 51
 ---
 ## Navigation

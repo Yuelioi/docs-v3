@@ -1,5 +1,5 @@
 ---
-display_name: Reapply Sequencer Animations
+title: Reapply Sequencer Animations
 order: 7
 ---
 ## Navigation

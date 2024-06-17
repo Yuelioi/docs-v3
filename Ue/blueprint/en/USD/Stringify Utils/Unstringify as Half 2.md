@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Half 2
+title: Unstringify as Half 2
 order: 84
 ---
 ## Navigation

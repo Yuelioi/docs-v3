@@ -1,5 +1,5 @@
 ---
-display_name: On Direct Link Change
+title: On Direct Link Change
 order: 73
 ---
 ## Navigation

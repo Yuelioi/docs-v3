@@ -1,5 +1,5 @@
 ---
-display_name: Set Dependency
+title: Set Dependency
 order: 36
 ---
 ## Navigation

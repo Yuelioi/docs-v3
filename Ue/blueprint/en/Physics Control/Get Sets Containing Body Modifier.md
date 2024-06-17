@@ -1,5 +1,5 @@
 ---
-display_name: Get Sets Containing Body Modifier
+title: Get Sets Containing Body Modifier
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Multilayer Projector
+title: Remove Multilayer Projector
 order: 57
 ---
 ## Navigation

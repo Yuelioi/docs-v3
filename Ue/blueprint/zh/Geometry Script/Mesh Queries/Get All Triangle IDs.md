@@ -1,5 +1,5 @@
 ---
-display_name: Get All Triangle IDs
+title: Get All Triangle IDs
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Classification Debug Colors
+title: Get Object Classification Debug Colors
 order: 1
 ---
 ## Navigation

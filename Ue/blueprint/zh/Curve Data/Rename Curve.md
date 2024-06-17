@@ -1,5 +1,5 @@
 ---
-display_name: Rename Curve
+title: Rename Curve
 order: 14
 ---
 ## Navigation

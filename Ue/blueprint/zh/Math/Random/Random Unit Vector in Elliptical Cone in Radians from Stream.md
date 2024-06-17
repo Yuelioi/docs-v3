@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Elliptical Cone in Radians from Stream
+title: Random Unit Vector in Elliptical Cone in Radians from Stream
 order: 40
 ---
 ## Navigation

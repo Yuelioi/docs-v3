@@ -1,5 +1,5 @@
 ---
-display_name: Get Instances Overlapping Box
+title: Get Instances Overlapping Box
 order: 9
 ---
 ## Navigation

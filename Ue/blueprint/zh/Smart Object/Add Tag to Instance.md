@@ -1,5 +1,5 @@
 ---
-display_name: Add Tag to Instance
+title: Add Tag to Instance
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Draw at Desired Size
+title: Get Draw at Desired Size
 order: 19
 ---
 ## Navigation

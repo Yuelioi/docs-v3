@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Descs for Actors
+title: Get Actor Descs for Actors
 order: 1
 ---
 ## Navigation

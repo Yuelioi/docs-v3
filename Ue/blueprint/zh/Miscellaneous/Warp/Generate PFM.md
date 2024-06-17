@@ -1,5 +1,5 @@
 ---
-display_name: Generate PFM
+title: Generate PFM
 order: 2
 ---
 ## Navigation

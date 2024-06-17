@@ -1,5 +1,5 @@
 ---
-display_name: Rename Retarget Pose
+title: Rename Retarget Pose
 order: 18
 ---
 ## Navigation

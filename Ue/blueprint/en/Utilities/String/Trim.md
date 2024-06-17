@@ -1,5 +1,5 @@
 ---
-display_name: Trim
+title: Trim
 order: 88
 ---
 ## Navigation

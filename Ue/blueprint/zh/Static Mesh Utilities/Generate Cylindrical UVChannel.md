@@ -1,5 +1,5 @@
 ---
-display_name: Generate Cylindrical UVChannel
+title: Generate Cylindrical UVChannel
 order: 9
 ---
 ## Navigation

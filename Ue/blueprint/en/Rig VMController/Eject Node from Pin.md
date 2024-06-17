@@ -1,5 +1,5 @@
 ---
-display_name: Eject Node from Pin
+title: Eject Node from Pin
 order: 45
 ---
 ## Navigation

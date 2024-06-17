@@ -1,5 +1,5 @@
 ---
-display_name: Get Layout Name
+title: Get Layout Name
 order: 4
 ---
 ## Navigation

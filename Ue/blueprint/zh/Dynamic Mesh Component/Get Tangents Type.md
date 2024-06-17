@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangents Type
+title: Get Tangents Type
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Tick
+title: Tick
 order: 23
 ---
 ## Navigation

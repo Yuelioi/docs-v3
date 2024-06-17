@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotator
+title: Make Rotator
 order: 22
 ---
 ## Navigation

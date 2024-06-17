@@ -1,5 +1,5 @@
 ---
-display_name: Get Reimport Strategy Flags
+title: Get Reimport Strategy Flags
 order: 37
 ---
 ## Navigation

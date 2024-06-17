@@ -1,5 +1,5 @@
 ---
-display_name: Break Vector 2D
+title: Break Vector 2D
 order: 1
 ---
 ## Navigation

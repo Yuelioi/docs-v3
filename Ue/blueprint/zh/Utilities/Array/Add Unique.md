@@ -1,5 +1,5 @@
 ---
-display_name: Add Unique
+title: Add Unique
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Append Array
+title: Append Array
 order: 3
 ---
 ## Navigation

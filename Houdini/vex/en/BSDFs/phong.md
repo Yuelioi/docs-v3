@@ -1,5 +1,5 @@
 ---
-display_name: phong
+title: phong
 order: 17
 ---
 | Context(s) | [shading](../contexts/shading.html) |

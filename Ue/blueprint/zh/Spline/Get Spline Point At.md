@@ -1,5 +1,5 @@
 ---
-display_name: Get Spline Point At
+title: Get Spline Point At
 order: 61
 ---
 ## Navigation

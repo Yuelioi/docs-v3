@@ -1,5 +1,5 @@
 ---
-display_name: Is Mouse Button
+title: Is Mouse Button
 order: 12
 ---
 ## Navigation

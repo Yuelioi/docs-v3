@@ -1,5 +1,5 @@
 ---
-display_name: Is Hidden Ed at Startup
+title: Is Hidden Ed at Startup
 order: 5
 ---
 ## Navigation

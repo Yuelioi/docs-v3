@@ -1,5 +1,5 @@
 ---
-display_name: Get Sound
+title: Get Sound
 order: 47
 ---
 ## Navigation

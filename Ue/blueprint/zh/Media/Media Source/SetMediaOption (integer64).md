@@ -1,5 +1,5 @@
 ---
-display_name: SetMediaOption (integer64)
+title: SetMediaOption (integer64)
 order: 4
 ---
 ## Navigation

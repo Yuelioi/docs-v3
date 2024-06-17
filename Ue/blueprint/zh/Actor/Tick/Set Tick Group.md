@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick Group
+title: Set Tick Group
 order: 10
 ---
 ## Navigation

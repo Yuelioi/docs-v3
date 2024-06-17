@@ -1,5 +1,5 @@
 ---
-display_name: Send Pixel Streaming Response
+title: Send Pixel Streaming Response
 order: 4
 ---
 ## Navigation

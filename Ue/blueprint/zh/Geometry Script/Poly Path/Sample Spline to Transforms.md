@@ -1,5 +1,5 @@
 ---
-display_name: Sample Spline to Transforms
+title: Sample Spline to Transforms
 order: 21
 ---
 ## Navigation

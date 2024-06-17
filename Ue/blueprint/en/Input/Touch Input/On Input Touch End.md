@@ -1,5 +1,5 @@
 ---
-display_name: On Input Touch End
+title: On Input Touch End
 order: 2
 ---
 ## Navigation

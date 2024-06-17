@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Frame Data
+title: Get Animation Frame Data
 order: 1
 ---
 ## Navigation

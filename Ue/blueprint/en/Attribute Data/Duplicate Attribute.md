@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Attribute
+title: Duplicate Attribute
 order: 4
 ---
 ## Navigation

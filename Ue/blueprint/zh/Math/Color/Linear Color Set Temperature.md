@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set Temperature
+title: Linear Color Set Temperature
 order: 16
 ---
 ## Navigation

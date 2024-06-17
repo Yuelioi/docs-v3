@@ -1,5 +1,5 @@
 ---
-display_name: Transform Simple Collision Shapes
+title: Transform Simple Collision Shapes
 order: 18
 ---
 ## Navigation

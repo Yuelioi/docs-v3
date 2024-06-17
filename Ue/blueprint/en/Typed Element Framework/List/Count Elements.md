@@ -1,5 +1,5 @@
 ---
-display_name: Count Elements
+title: Count Elements
 order: 7
 ---
 ## Navigation

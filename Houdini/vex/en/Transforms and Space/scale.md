@@ -1,5 +1,5 @@
 ---
-display_name: scale
+title: scale
 order: 23
 ---
 `void  scale(matrix2 &m, vector2 scale_vector)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Roles
+title: Get All Roles
 order: 4
 ---
 ## Navigation

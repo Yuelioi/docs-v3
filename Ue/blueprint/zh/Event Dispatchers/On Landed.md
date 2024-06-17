@@ -1,5 +1,5 @@
 ---
-display_name: On Landed
+title: On Landed
 order: 100
 ---
 ## Navigation

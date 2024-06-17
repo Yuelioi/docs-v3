@@ -1,5 +1,5 @@
 ---
-display_name: Move to Actor
+title: Move to Actor
 order: 26
 ---
 ## Navigation

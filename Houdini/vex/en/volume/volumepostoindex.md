@@ -1,5 +1,5 @@
 ---
-display_name: volumepostoindex
+title: volumepostoindex
 order: 13
 ---
 `vector  volumepostoindex(<geometry>geometry, int primnum, vector position)`

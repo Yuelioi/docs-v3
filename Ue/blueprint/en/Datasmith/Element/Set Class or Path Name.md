@@ -1,5 +1,5 @@
 ---
-display_name: Set Class or Path Name
+title: Set Class or Path Name
 order: 105
 ---
 ## Navigation

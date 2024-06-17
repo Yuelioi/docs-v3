@@ -1,5 +1,5 @@
 ---
-display_name: Get Flipbook Length
+title: Get Flipbook Length
 order: 3
 ---
 ## Navigation

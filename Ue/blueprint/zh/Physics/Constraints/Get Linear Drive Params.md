@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Drive Params
+title: Get Linear Drive Params
 order: 20
 ---
 ## Navigation

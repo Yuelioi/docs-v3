@@ -1,5 +1,5 @@
 ---
-display_name: Can Input Connect To
+title: Can Input Connect To
 order: 16
 ---
 ## Navigation

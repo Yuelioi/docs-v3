@@ -1,5 +1,5 @@
 ---
-display_name: Enable Animation Budget
+title: Enable Animation Budget
 order: 1
 ---
 ## Navigation

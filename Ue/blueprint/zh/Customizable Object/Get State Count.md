@@ -1,5 +1,5 @@
 ---
-display_name: Get State Count
+title: Get State Count
 order: 18
 ---
 ## Navigation

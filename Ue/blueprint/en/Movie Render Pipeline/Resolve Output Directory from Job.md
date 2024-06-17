@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Output Directory from Job
+title: Resolve Output Directory from Job
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Boundary Polygon in Local Space
+title: Get Boundary Polygon in Local Space
 order: 1
 ---
 ## Navigation

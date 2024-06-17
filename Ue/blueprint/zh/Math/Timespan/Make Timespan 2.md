@@ -1,5 +1,5 @@
 ---
-display_name: Make Timespan 2
+title: Make Timespan 2
 order: 19
 ---
 ## Navigation

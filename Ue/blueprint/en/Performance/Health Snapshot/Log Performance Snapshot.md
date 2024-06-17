@@ -1,5 +1,5 @@
 ---
-display_name: Log Performance Snapshot
+title: Log Performance Snapshot
 order: 1
 ---
 ## Navigation

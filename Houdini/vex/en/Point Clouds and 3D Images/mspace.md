@@ -1,5 +1,5 @@
 ---
-display_name: mspace
+title: mspace
 order: 3
 ---
 | Context(s) | [image3d](../contexts/image3d.html) |

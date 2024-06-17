@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraints from Body
+title: Get Constraints from Body
 order: 70
 ---
 ## Navigation

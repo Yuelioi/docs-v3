@@ -1,5 +1,5 @@
 ---
-display_name: 双向模糊
+title: 双向模糊
 order: 1
 ---
 

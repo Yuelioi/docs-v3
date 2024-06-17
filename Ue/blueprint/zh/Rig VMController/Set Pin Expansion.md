@@ -1,5 +1,5 @@
 ---
-display_name: Set Pin Expansion
+title: Set Pin Expansion
 order: 122
 ---
 ## Navigation

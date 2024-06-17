@@ -1,5 +1,5 @@
 ---
-display_name: Set Tonemapper Replacing Material
+title: Set Tonemapper Replacing Material
 order: 1
 ---
 ## Navigation

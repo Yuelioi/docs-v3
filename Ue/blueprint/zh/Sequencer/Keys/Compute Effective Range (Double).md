@@ -1,5 +1,5 @@
 ---
-display_name: Compute Effective Range (Double)
+title: Compute Effective Range (Double)
 order: 11
 ---
 ## Navigation

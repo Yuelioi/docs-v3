@@ -1,5 +1,5 @@
 ---
-display_name: Get WebAPISubsystem
+title: Get WebAPISubsystem
 order: 53
 ---
 ## Navigation

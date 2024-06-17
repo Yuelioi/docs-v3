@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance to Next Bar
+title: Get Distance to Next Bar
 order: 25
 ---
 ## Navigation

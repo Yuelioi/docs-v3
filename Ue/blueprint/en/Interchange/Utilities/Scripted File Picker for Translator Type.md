@@ -1,5 +1,5 @@
 ---
-display_name: Scripted File Picker for Translator Type
+title: Scripted File Picker for Translator Type
 order: 2
 ---
 ## Navigation

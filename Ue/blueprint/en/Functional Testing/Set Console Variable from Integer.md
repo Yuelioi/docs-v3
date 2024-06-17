@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable from Integer
+title: Set Console Variable from Integer
 order: 10
 ---
 ## Navigation

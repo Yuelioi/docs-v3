@@ -1,5 +1,5 @@
 ---
-display_name: Remove Labeled Edge
+title: Remove Labeled Edge
 order: 62
 ---
 ## Navigation

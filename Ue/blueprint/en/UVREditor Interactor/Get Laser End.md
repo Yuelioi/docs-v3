@@ -1,5 +1,5 @@
 ---
-display_name: Get Laser End
+title: Get Laser End
 order: 4
 ---
 ## Navigation

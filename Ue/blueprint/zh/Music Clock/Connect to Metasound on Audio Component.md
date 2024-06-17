@@ -1,5 +1,5 @@
 ---
-display_name: Connect to Metasound on Audio Component
+title: Connect to Metasound on Audio Component
 order: 3
 ---
 ## Navigation

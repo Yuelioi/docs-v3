@@ -1,5 +1,5 @@
 ---
-display_name: Get Lens File Picker
+title: Get Lens File Picker
 order: 10
 ---
 ## Navigation

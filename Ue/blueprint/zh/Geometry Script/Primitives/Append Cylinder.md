@@ -1,5 +1,5 @@
 ---
-display_name: Append Cylinder
+title: Append Cylinder
 order: 6
 ---
 ## Navigation

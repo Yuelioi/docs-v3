@@ -1,5 +1,5 @@
 ---
-display_name: 溢出抑制
+title: 溢出抑制
 order: 8
 ---
 

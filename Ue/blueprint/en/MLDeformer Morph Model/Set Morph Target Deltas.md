@@ -1,5 +1,5 @@
 ---
-display_name: Set Morph Target Deltas
+title: Set Morph Target Deltas
 order: 3
 ---
 ## Navigation

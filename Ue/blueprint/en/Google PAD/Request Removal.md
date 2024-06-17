@@ -1,5 +1,5 @@
 ---
-display_name: Request Removal
+title: Request Removal
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 消息中枢(bpy.msgbus)
+title: 消息中枢(bpy.msgbus)
 order: 8
 ---
 

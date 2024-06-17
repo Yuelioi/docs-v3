@@ -1,5 +1,5 @@
 ---
-display_name: Reparent View Model
+title: Reparent View Model
 order: 26
 ---
 ## Navigation

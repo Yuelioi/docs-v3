@@ -1,5 +1,5 @@
 ---
-display_name: Remove Show Only Component
+title: Remove Show Only Component
 order: 7
 ---
 ## Navigation

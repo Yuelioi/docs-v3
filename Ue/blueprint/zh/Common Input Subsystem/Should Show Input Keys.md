@@ -1,5 +1,5 @@
 ---
-display_name: Should Show Input Keys
+title: Should Show Input Keys
 order: 9
 ---
 ## Navigation

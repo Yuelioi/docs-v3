@@ -1,5 +1,5 @@
 ---
-display_name: Set Schema
+title: Set Schema
 order: 125
 ---
 ## Navigation

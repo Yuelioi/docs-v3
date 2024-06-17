@@ -1,6 +1,6 @@
 ---
 order: 4
-display_name: CC交叉模糊
+title: CC交叉模糊
 ---
 
 # CC Cross Blur - CC交叉模糊

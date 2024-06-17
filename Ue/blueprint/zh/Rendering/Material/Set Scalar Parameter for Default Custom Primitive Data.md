@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalar Parameter for Default Custom Primitive Data
+title: Set Scalar Parameter for Default Custom Primitive Data
 order: 57
 ---
 ## Navigation

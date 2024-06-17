@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent Mode
+title: Get Tangent Mode
 order: 54
 ---
 ## Navigation

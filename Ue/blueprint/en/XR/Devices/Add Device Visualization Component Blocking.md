@@ -1,5 +1,5 @@
 ---
-display_name: Add Device Visualization Component Blocking
+title: Add Device Visualization Component Blocking
 order: 2
 ---
 ## Navigation

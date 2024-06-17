@@ -1,5 +1,5 @@
 ---
-display_name: Invalidate Guid
+title: Invalidate Guid
 order: 1
 ---
 ## Navigation

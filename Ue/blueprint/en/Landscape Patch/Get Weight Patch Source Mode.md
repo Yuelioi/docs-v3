@@ -1,5 +1,5 @@
 ---
-display_name: Get Weight Patch Source Mode
+title: Get Weight Patch Source Mode
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Variant Sets
+title: Get Num Variant Sets
 order: 2
 ---
 ## Navigation

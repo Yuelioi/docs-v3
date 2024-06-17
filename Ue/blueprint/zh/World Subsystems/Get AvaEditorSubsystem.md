@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaEditorSubsystem
+title: Get AvaEditorSubsystem
 order: 6
 ---
 ## Navigation

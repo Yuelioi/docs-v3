@@ -1,5 +1,5 @@
 ---
-display_name: Set Lightmap Coordinate Index
+title: Set Lightmap Coordinate Index
 order: 120
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Pose History Node Trajectory
+title: Set Pose History Node Trajectory
 order: 3
 ---
 ## Navigation

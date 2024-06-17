@@ -1,5 +1,5 @@
 ---
-display_name: Get Color List Last Index
+title: Get Color List Last Index
 order: 26
 ---
 ## Navigation

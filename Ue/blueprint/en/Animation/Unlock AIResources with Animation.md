@@ -1,5 +1,5 @@
 ---
-display_name: Unlock AIResources with Animation
+title: Unlock AIResources with Animation
 order: 10
 ---
 ## Navigation

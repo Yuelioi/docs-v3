@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Children
+title: Get Node Children
 order: 6
 ---
 ## Navigation

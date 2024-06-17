@@ -1,5 +1,5 @@
 ---
-display_name: Get RCPropertyContainerRegistry
+title: Get RCPropertyContainerRegistry
 order: 38
 ---
 ## Navigation

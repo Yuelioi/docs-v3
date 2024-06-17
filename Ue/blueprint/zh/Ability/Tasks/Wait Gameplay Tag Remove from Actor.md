@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Remove from Actor
+title: Wait Gameplay Tag Remove from Actor
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Button Index
+title: Get Selected Button Index
 order: 7
 ---
 ## Navigation

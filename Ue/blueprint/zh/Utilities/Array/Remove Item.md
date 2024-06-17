@@ -1,5 +1,5 @@
 ---
-display_name: Remove Item
+title: Remove Item
 order: 21
 ---
 ## Navigation

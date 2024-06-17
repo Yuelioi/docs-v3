@@ -1,5 +1,5 @@
 ---
-display_name: Get Int 64Parameter
+title: Get Int 64Parameter
 order: 8
 ---
 ## Navigation

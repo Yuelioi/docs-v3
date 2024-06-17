@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Component Space Pose Context
+title: Convert to Component Space Pose Context
 order: 4
 ---
 ## Navigation

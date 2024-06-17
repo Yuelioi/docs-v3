@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Name
+title: Get Source Name
 order: 5
 ---
 ## Navigation

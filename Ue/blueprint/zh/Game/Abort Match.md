@@ -1,5 +1,5 @@
 ---
-display_name: Abort Match
+title: Abort Match
 order: 1
 ---
 ## Navigation

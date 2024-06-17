@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Linear Velocity
+title: Get Physics Linear Velocity
 order: 83
 ---
 ## Navigation

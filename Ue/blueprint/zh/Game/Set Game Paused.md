@@ -1,5 +1,5 @@
 ---
-display_name: Set Game Paused
+title: Set Game Paused
 order: 47
 ---
 ## Navigation

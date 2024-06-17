@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Name
+title: Get Camera Name
 order: 21
 ---
 ## Navigation

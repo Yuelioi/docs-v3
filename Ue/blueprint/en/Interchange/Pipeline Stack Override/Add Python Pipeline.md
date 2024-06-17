@@ -1,5 +1,5 @@
 ---
-display_name: Add Python Pipeline
+title: Add Python Pipeline
 order: 3
 ---
 ## Navigation

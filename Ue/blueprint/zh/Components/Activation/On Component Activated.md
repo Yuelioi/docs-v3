@@ -1,5 +1,5 @@
 ---
-display_name: On Component Activated
+title: On Component Activated
 order: 7
 ---
 ## Navigation

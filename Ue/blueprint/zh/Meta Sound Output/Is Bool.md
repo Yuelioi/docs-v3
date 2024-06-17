@@ -1,5 +1,5 @@
 ---
-display_name: Is Bool
+title: Is Bool
 order: 9
 ---
 ## Navigation

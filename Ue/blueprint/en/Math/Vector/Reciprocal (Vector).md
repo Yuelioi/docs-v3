@@ -1,5 +1,5 @@
 ---
-display_name: Reciprocal (Vector)
+title: Reciprocal (Vector)
 order: 49
 ---
 ## Navigation

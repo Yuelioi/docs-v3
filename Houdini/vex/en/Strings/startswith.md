@@ -1,5 +1,5 @@
 ---
-display_name: startswith
+title: startswith
 order: 37
 ---
 `int  startswith(string str, string startswith)`

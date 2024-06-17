@@ -1,5 +1,5 @@
 ---
-display_name: Expose Property
+title: Expose Property
 order: 3
 ---
 ## Navigation

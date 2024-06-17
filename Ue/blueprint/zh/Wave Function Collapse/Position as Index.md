@@ -1,5 +1,5 @@
 ---
-display_name: Position as Index
+title: Position as Index
 order: 21
 ---
 ## Navigation

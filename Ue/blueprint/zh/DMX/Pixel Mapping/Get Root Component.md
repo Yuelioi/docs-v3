@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Component
+title: Get Root Component
 order: 2
 ---
 ## Navigation

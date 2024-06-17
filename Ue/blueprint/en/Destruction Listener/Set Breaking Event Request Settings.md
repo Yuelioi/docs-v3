@@ -1,5 +1,5 @@
 ---
-display_name: Set Breaking Event Request Settings
+title: Set Breaking Event Request Settings
 order: 7
 ---
 ## Navigation

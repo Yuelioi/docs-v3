@@ -1,5 +1,5 @@
 ---
-display_name: Get Properties In
+title: Get Properties In
 order: 3
 ---
 ## Navigation

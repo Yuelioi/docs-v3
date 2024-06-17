@@ -1,5 +1,5 @@
 ---
-display_name: Scroll to End
+title: Scroll to End
 order: 3
 ---
 ## Navigation

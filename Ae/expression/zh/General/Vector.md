@@ -1,5 +1,5 @@
 ---
-display_name: Vector
+title: Vector
 order: 8
 ---
 

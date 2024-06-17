@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Bool
+title: Make Literal Bool
 order: 2
 ---
 ## Navigation

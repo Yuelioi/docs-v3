@@ -1,5 +1,5 @@
 ---
-display_name: Cheating-Effect-Usage-of-AEGP-Suites
+title: Cheating-Effect-Usage-of-AEGP-Suites
 order: 4
 ---
 

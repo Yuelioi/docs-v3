@@ -1,5 +1,5 @@
 ---
-display_name: Draw Border
+title: Draw Border
 order: 3
 ---
 ## Navigation

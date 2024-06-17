@@ -1,5 +1,5 @@
 ---
-display_name: Get Future Trajectory
+title: Get Future Trajectory
 order: 9
 ---
 ## Navigation

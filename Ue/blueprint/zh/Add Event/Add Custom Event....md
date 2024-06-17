@@ -1,5 +1,5 @@
 ---
-display_name: Add Custom Event...
+title: Add Custom Event...
 order: 4
 ---
 ## Navigation

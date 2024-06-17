@@ -1,5 +1,5 @@
 ---
-display_name: Get String Attribute by Metadata Key
+title: Get String Attribute by Metadata Key
 order: 48
 ---
 ## Navigation

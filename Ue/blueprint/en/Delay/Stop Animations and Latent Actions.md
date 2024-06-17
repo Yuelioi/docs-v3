@@ -1,5 +1,5 @@
 ---
-display_name: Stop Animations and Latent Actions
+title: Stop Animations and Latent Actions
 order: 2
 ---
 ## Navigation

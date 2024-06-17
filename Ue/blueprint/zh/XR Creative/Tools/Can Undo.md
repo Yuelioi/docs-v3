@@ -1,5 +1,5 @@
 ---
-display_name: Can Undo
+title: Can Undo
 order: 2
 ---
 ## Navigation

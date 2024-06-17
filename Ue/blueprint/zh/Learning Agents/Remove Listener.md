@@ -1,5 +1,5 @@
 ---
-display_name: Remove Listener
+title: Remove Listener
 order: 254
 ---
 ## Navigation

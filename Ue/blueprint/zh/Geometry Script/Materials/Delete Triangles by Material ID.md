@@ -1,5 +1,5 @@
 ---
-display_name: Delete Triangles by Material ID
+title: Delete Triangles by Material ID
 order: 3
 ---
 ## Navigation

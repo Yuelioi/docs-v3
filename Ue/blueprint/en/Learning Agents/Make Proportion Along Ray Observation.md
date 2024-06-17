@@ -1,5 +1,5 @@
 ---
-display_name: Make Proportion Along Ray Observation
+title: Make Proportion Along Ray Observation
 order: 216
 ---
 ## Navigation

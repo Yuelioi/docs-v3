@@ -1,5 +1,5 @@
 ---
-display_name: As Timespan
+title: As Timespan
 order: 9
 ---
 ## Navigation

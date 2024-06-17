@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Device Hardware Identifier
+title: Get Input Device Hardware Identifier
 order: 3
 ---
 ## Navigation

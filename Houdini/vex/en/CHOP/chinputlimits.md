@@ -1,5 +1,5 @@
 ---
-display_name: chinputlimits
+title: chinputlimits
 order: 9
 ---
 | Context(s) | [chop](../contexts/chop.html) |

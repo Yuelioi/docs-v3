@@ -1,5 +1,5 @@
 ---
-display_name: Get IKTarget by Goal Name
+title: Get IKTarget by Goal Name
 order: 2
 ---
 ## Navigation

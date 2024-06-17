@@ -1,5 +1,5 @@
 ---
-display_name: Set Database Visual Fidelity
+title: Set Database Visual Fidelity
 order: 2
 ---
 ## Navigation

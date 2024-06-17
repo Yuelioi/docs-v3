@@ -1,5 +1,5 @@
 ---
-display_name: Make Border Option
+title: Make Border Option
 order: 18
 ---
 ## Navigation

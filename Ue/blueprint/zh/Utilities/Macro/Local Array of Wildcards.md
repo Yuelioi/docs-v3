@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Wildcards
+title: Local Array of Wildcards
 order: 12
 ---
 ## Navigation

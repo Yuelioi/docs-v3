@@ -1,5 +1,5 @@
 ---
-display_name: Import Snapshot Texture
+title: Import Snapshot Texture
 order: 28
 ---
 ## Navigation

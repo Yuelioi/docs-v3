@@ -1,5 +1,5 @@
 ---
-display_name: String To Integer
+title: String To Integer
 order: 50
 ---
 ## Navigation

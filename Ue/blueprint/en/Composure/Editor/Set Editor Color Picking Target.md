@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Color Picking Target
+title: Set Editor Color Picking Target
 order: 3
 ---
 ## Navigation

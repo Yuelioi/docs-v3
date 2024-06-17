@@ -1,5 +1,5 @@
 ---
-display_name: Has Custom Color for Channel
+title: Has Custom Color for Channel
 order: 7
 ---
 ## Navigation

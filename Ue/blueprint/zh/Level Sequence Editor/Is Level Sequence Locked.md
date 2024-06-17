@@ -1,5 +1,5 @@
 ---
-display_name: Is Level Sequence Locked
+title: Is Level Sequence Locked
 order: 39
 ---
 ## Navigation

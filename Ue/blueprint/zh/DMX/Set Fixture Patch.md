@@ -1,5 +1,5 @@
 ---
-display_name: Set Fixture Patch
+title: Set Fixture Patch
 order: 18
 ---
 ## Navigation

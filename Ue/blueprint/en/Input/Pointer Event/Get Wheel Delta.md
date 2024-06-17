@@ -1,5 +1,5 @@
 ---
-display_name: Get Wheel Delta
+title: Get Wheel Delta
 order: 9
 ---
 ## Navigation

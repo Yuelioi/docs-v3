@@ -1,5 +1,5 @@
 ---
-display_name: Set LODGroup
+title: Set LODGroup
 order: 7
 ---
 ## Navigation

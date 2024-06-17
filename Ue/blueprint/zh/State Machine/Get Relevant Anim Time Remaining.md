@@ -1,5 +1,5 @@
 ---
-display_name: Get Relevant Anim Time Remaining
+title: Get Relevant Anim Time Remaining
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Native Volume
+title: Set Native Volume
 order: 75
 ---
 ## Navigation

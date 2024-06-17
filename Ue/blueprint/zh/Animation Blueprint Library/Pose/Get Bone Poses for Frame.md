@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Poses for Frame
+title: Get Bone Poses for Frame
 order: 3
 ---
 ## Navigation

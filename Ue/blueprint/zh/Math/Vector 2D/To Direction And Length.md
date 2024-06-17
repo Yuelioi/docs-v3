@@ -1,5 +1,5 @@
 ---
-display_name: To Direction And Length
+title: To Direction And Length
 order: 23
 ---
 ## Navigation

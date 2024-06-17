@@ -1,5 +1,5 @@
 ---
-display_name: Setup Critic
+title: Setup Critic
 order: 269
 ---
 ## Navigation

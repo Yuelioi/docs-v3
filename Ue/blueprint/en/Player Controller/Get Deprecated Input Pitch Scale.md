@@ -1,5 +1,5 @@
 ---
-display_name: Get Deprecated Input Pitch Scale
+title: Get Deprecated Input Pitch Scale
 order: 5
 ---
 ## Navigation

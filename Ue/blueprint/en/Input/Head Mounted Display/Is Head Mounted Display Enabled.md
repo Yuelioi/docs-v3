@@ -1,5 +1,5 @@
 ---
-display_name: Is Head Mounted Display Enabled
+title: Is Head Mounted Display Enabled
 order: 16
 ---
 ## Navigation

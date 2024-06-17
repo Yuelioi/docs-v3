@@ -1,5 +1,5 @@
 ---
-display_name: Get All Asset Hashes
+title: Get All Asset Hashes
 order: 5
 ---
 ## Navigation

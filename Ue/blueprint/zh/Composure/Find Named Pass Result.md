@@ -1,5 +1,5 @@
 ---
-display_name: Find Named Pass Result
+title: Find Named Pass Result
 order: 4
 ---
 ## Navigation

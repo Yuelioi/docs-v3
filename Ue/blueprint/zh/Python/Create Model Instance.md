@@ -1,5 +1,5 @@
 ---
-display_name: Create Model Instance
+title: Create Model Instance
 order: 3
 ---
 ## Navigation

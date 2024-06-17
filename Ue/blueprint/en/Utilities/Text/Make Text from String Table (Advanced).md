@@ -1,5 +1,5 @@
 ---
-display_name: Make Text from String Table (Advanced)
+title: Make Text from String Table (Advanced)
 order: 25
 ---
 ## Navigation

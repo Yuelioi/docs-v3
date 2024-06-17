@@ -1,5 +1,5 @@
 ---
-display_name: Get Detected Image
+title: Get Detected Image
 order: 2
 ---
 ## Navigation

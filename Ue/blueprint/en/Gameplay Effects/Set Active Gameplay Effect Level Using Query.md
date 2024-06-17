@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Gameplay Effect Level Using Query
+title: Set Active Gameplay Effect Level Using Query
 order: 18
 ---
 ## Navigation

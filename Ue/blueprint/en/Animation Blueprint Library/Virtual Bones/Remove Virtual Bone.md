@@ -1,5 +1,5 @@
 ---
-display_name: Remove Virtual Bone
+title: Remove Virtual Bone
 order: 3
 ---
 ## Navigation

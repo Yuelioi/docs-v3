@@ -1,5 +1,5 @@
 ---
-display_name: Translate Mesh Selection
+title: Translate Mesh Selection
 order: 7
 ---
 ## Navigation

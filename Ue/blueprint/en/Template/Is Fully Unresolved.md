@@ -1,5 +1,5 @@
 ---
-display_name: Is Fully Unresolved
+title: Is Fully Unresolved
 order: 2
 ---
 ## Navigation

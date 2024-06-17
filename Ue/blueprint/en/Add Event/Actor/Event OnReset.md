@@ -1,5 +1,5 @@
 ---
-display_name: Event OnReset
+title: Event OnReset
 order: 3
 ---
 ## Navigation

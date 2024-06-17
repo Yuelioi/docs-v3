@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Path
+title: Get Property Path
 order: 10
 ---
 ## Navigation

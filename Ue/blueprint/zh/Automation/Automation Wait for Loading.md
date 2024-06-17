@@ -1,5 +1,5 @@
 ---
-display_name: Automation Wait for Loading
+title: Automation Wait for Loading
 order: 10
 ---
 ## Navigation

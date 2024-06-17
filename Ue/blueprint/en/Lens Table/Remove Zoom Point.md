@@ -1,5 +1,5 @@
 ---
-display_name: Remove Zoom Point
+title: Remove Zoom Point
 order: 23
 ---
 ## Navigation

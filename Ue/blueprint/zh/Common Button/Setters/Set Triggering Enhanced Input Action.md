@@ -1,5 +1,5 @@
 ---
-display_name: Set Triggering Enhanced Input Action
+title: Set Triggering Enhanced Input Action
 order: 17
 ---
 ## Navigation

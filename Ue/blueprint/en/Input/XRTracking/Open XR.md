@@ -1,5 +1,5 @@
 ---
-display_name: Open XR
+title: Open XR
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Angular Data
+title: Set Control Angular Data
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Expected Plain Log Message
+title: Add Expected Plain Log Message
 order: 4
 ---
 ## Navigation

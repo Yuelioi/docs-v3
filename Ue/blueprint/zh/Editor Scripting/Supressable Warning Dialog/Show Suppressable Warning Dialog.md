@@ -1,5 +1,5 @@
 ---
-display_name: Show Suppressable Warning Dialog
+title: Show Suppressable Warning Dialog
 order: 1
 ---
 ## Navigation

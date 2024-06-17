@@ -1,5 +1,5 @@
 ---
-display_name: Apply Simplify to Vertex Count
+title: Apply Simplify to Vertex Count
 order: 4
 ---
 ## Navigation

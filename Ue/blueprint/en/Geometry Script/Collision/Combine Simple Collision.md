@@ -1,5 +1,5 @@
 ---
-display_name: Combine Simple Collision
+title: Combine Simple Collision
 order: 3
 ---
 ## Navigation

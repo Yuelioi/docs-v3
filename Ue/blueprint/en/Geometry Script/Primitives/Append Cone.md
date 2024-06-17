@@ -1,5 +1,5 @@
 ---
-display_name: Append Cone
+title: Append Cone
 order: 4
 ---
 ## Navigation

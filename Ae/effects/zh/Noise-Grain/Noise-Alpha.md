@@ -1,5 +1,5 @@
 ---
-display_name: 杂色 Alpha
+title: 杂色 Alpha
 order: 8
 ---
 

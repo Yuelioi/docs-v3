@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph
+title: Get Graph
 order: 14
 ---
 ## Navigation

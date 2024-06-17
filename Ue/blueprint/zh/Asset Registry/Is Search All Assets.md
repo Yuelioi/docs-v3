@@ -1,5 +1,5 @@
 ---
-display_name: Is Search All Assets
+title: Is Search All Assets
 order: 35
 ---
 ## Navigation

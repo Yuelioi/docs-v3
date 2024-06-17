@@ -1,5 +1,5 @@
 ---
-display_name: Get Section End Ms at Ms
+title: Get Section End Ms at Ms
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Allowlisted Clients
+title: Get Allowlisted Clients
 order: 24
 ---
 ## Navigation

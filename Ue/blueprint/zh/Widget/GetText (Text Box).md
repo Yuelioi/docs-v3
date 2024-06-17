@@ -1,5 +1,5 @@
 ---
-display_name: GetText (Text Box)
+title: GetText (Text Box)
 order: 50
 ---
 ## Navigation

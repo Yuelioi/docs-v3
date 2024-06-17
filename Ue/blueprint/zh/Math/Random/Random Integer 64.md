@@ -1,5 +1,5 @@
 ---
-display_name: Random Integer 64
+title: Random Integer 64
 order: 18
 ---
 ## Navigation

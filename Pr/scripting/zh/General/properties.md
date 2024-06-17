@@ -1,5 +1,5 @@
 ---
-display_name: 属性对象 properties
+title: 属性对象 properties
 order: 6
 ---
 

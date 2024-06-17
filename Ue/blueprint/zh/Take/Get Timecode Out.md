@@ -1,5 +1,5 @@
 ---
-display_name: Get Timecode Out
+title: Get Timecode Out
 order: 12
 ---
 ## Navigation

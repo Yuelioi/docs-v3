@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh (Message)
+title: Get Mesh (Message)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get ReplaySubsystem
+title: Get ReplaySubsystem
 order: 5
 ---
 ## Navigation

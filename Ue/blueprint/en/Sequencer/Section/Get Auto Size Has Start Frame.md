@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Size Has Start Frame
+title: Get Auto Size Has Start Frame
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: getbbox_min
+title: getbbox_min
 order: 6
 ---
 `vector  getbbox_min(<geometry>geometry)`

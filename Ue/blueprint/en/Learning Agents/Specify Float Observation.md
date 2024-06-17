@@ -1,5 +1,5 @@
 ---
-display_name: Specify Float Observation
+title: Specify Float Observation
 order: 302
 ---
 ## Navigation

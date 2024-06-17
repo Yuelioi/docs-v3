@@ -1,5 +1,5 @@
 ---
-display_name: atoi
+title: atoi
 order: 2
 ---
 `int  atoi(string str)`

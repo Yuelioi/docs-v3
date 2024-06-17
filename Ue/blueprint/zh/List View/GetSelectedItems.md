@@ -1,5 +1,5 @@
 ---
-display_name: GetSelectedItems
+title: GetSelectedItems
 order: 13
 ---
 ## Navigation

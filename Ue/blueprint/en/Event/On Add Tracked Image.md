@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Image
+title: On Add Tracked Image
 order: 4
 ---
 ## Navigation

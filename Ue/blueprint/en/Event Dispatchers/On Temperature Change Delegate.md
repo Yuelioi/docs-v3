@@ -1,5 +1,5 @@
 ---
-display_name: On Temperature Change Delegate
+title: On Temperature Change Delegate
 order: 169
 ---
 ## Navigation

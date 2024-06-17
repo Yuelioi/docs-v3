@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Is Zero
+title: Vector 4 Is Zero
 order: 22
 ---
 ## Navigation

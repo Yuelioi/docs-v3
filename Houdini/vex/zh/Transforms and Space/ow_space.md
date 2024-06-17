@@ -1,5 +1,5 @@
 ---
-display_name: ow_space
+title: ow_space
 order: 12
 ---
 `matrix  ow_space()`

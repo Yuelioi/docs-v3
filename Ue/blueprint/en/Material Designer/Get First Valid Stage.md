@@ -1,5 +1,5 @@
 ---
-display_name: Get First Valid Stage
+title: Get First Valid Stage
 order: 74
 ---
 ## Navigation

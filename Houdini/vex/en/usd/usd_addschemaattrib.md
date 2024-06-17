@@ -1,5 +1,5 @@
 ---
-display_name: usd_addschemaattrib
+title: usd_addschemaattrib
 order: 11
 ---
 | Since | 20.0 |

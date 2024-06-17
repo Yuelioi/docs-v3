@@ -1,5 +1,5 @@
 ---
-display_name: IsPassword
+title: IsPassword
 order: 16
 ---
 ## Navigation

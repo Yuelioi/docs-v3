@@ -1,5 +1,5 @@
 ---
-display_name: Effect
+title: Effect
 order: 3
 ---
 

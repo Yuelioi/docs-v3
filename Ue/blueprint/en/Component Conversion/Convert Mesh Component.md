@@ -1,5 +1,5 @@
 ---
-display_name: Convert Mesh Component
+title: Convert Mesh Component
 order: 9
 ---
 ## Navigation

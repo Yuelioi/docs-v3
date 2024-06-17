@@ -1,5 +1,5 @@
 ---
-display_name: usd_isindexedprimvar
+title: usd_isindexedprimvar
 order: 71
 ---
 | Since | 18.0 |

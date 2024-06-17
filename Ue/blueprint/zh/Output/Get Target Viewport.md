@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Viewport
+title: Get Target Viewport
 order: 1
 ---
 ## Navigation

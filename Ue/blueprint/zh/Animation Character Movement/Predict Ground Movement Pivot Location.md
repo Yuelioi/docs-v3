@@ -1,5 +1,5 @@
 ---
-display_name: Predict Ground Movement Pivot Location
+title: Predict Ground Movement Pivot Location
 order: 1
 ---
 ## Navigation

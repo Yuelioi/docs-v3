@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Settings
+title: Set Radial Settings
 order: 8
 ---
 ## Navigation

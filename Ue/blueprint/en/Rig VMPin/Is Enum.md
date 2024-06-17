@@ -1,5 +1,5 @@
 ---
-display_name: Is Enum
+title: Is Enum
 order: 38
 ---
 ## Navigation

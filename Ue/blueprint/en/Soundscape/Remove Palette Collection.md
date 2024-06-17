@@ -1,5 +1,5 @@
 ---
-display_name: Remove Palette Collection
+title: Remove Palette Collection
 order: 8
 ---
 ## Navigation

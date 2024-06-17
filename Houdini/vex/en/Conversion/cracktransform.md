@@ -1,5 +1,5 @@
 ---
-display_name: cracktransform
+title: cracktransform
 order: 3
 ---
 `vector  cracktransform(int trs, int xyz, int c, vector pivot, vector pivot_rotate, matrix xform)`

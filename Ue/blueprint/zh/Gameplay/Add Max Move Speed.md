@@ -1,5 +1,5 @@
 ---
-display_name: Add Max Move Speed
+title: Add Max Move Speed
 order: 1
 ---
 ## Navigation

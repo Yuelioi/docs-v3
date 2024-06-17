@@ -1,5 +1,5 @@
 ---
-display_name: Remove Pin
+title: Remove Pin
 order: 10
 ---
 ## Navigation

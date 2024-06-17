@@ -1,5 +1,5 @@
 ---
-display_name: gxnoised
+title: gxnoised
 order: 12
 ---
 `float  gxnoised(vector2 xy, vector2 &deriv)`

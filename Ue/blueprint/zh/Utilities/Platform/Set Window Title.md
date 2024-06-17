@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Title
+title: Set Window Title
 order: 24
 ---
 ## Navigation

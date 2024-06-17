@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Position Array Value
+title: Niagara Set Position Array Value
 order: 64
 ---
 ## Navigation

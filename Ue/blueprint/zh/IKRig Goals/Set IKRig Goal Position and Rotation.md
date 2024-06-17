@@ -1,5 +1,5 @@
 ---
-display_name: Set IKRig Goal Position and Rotation
+title: Set IKRig Goal Position and Rotation
 order: 4
 ---
 ## Navigation

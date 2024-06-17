@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Location Primitive Sphere Props
+title: Get Particle Module Location Primitive Sphere Props
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Instance
+title: Create Instance
 order: 8
 ---
 ## Navigation

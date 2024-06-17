@@ -1,5 +1,5 @@
 ---
-display_name: On Ice Connection
+title: On Ice Connection
 order: 14
 ---
 ## Navigation

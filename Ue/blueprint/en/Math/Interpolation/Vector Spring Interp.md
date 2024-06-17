@@ -1,5 +1,5 @@
 ---
-display_name: Vector Spring Interp
+title: Vector Spring Interp
 order: 20
 ---
 ## Navigation

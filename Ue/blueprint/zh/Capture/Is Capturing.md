@@ -1,5 +1,5 @@
 ---
-display_name: Is Capturing
+title: Is Capturing
 order: 8
 ---
 ## Navigation

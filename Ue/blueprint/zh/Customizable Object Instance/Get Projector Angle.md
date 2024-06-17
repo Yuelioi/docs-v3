@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Angle
+title: Get Projector Angle
 order: 29
 ---
 ## Navigation

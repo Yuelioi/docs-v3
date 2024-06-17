@@ -1,5 +1,5 @@
 ---
-display_name: Convert Point Light Component
+title: Convert Point Light Component
 order: 10
 ---
 ## Navigation

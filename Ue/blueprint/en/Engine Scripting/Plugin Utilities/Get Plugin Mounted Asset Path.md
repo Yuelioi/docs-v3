@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Mounted Asset Path
+title: Get Plugin Mounted Asset Path
 order: 9
 ---
 ## Navigation

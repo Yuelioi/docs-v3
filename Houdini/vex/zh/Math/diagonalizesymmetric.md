@@ -1,5 +1,5 @@
 ---
-display_name: diagonalizesymmetric
+title: diagonalizesymmetric
 order: 18
 ---
 | Since | 17.0 |

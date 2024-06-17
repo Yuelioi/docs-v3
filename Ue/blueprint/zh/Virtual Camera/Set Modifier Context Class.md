@@ -1,5 +1,5 @@
 ---
-display_name: Set Modifier Context Class
+title: Set Modifier Context Class
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Clipping
+title: Get Clipping
 order: 18
 ---
 ## Navigation

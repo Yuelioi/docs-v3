@@ -1,5 +1,5 @@
 ---
-display_name: Is Gameplay Cue Active
+title: Is Gameplay Cue Active
 order: 3
 ---
 ## Navigation

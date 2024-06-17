@@ -1,5 +1,5 @@
 ---
-display_name: texprintf
+title: texprintf
 order: 12
 ---
 `string  texprintf(float u, float v, string format, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Are Marked Frames Locked
+title: Are Marked Frames Locked
 order: 10
 ---
 ## Navigation

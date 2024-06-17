@@ -1,5 +1,5 @@
 ---
-display_name: Get Retarget Chain End Bone
+title: Get Retarget Chain End Bone
 order: 21
 ---
 ## Navigation

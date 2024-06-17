@@ -1,5 +1,5 @@
 ---
-display_name: Can Promote Element
+title: Can Promote Element
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target Orientations from Array
+title: Set Control Target Orientations from Array
 order: 101
 ---
 ## Navigation

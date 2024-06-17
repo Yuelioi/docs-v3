@@ -1,5 +1,5 @@
 ---
-display_name: Is Selectable
+title: Is Selectable
 order: 7
 ---
 ## Navigation

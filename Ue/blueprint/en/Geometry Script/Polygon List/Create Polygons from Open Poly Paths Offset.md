@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygons from Open Poly Paths Offset
+title: Create Polygons from Open Poly Paths Offset
 order: 5
 ---
 ## Navigation

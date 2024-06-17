@@ -1,5 +1,5 @@
 ---
-display_name: Add Possessable
+title: Add Possessable
 order: 5
 ---
 ## Navigation

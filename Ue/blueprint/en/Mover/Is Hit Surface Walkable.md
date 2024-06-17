@@ -1,5 +1,5 @@
 ---
-display_name: Is Hit Surface Walkable
+title: Is Hit Surface Walkable
 order: 5
 ---
 ## Navigation

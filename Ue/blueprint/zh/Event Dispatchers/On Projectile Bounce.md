@@ -1,5 +1,5 @@
 ---
-display_name: On Projectile Bounce
+title: On Projectile Bounce
 order: 138
 ---
 ## Navigation

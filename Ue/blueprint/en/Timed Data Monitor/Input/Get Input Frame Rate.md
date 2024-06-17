@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Frame Rate
+title: Get Input Frame Rate
 order: 15
 ---
 ## Navigation

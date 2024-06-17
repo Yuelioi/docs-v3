@@ -1,5 +1,5 @@
 ---
-display_name: Copy Selected Elements to String
+title: Copy Selected Elements to String
 order: 3
 ---
 ## Navigation

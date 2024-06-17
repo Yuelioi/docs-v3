@@ -1,5 +1,5 @@
 ---
-display_name: Start Logic
+title: Start Logic
 order: 7
 ---
 ## Navigation

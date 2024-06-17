@@ -1,5 +1,5 @@
 ---
-display_name: Is Open
+title: Is Open
 order: 5
 ---
 ## Navigation

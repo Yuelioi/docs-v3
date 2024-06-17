@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Size Props
+title: Get Particle Module Size Props
 order: 92
 ---
 ## Navigation

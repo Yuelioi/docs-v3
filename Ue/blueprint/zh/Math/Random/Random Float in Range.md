@@ -1,5 +1,5 @@
 ---
-display_name: Random Float in Range
+title: Random Float in Range
 order: 16
 ---
 ## Navigation

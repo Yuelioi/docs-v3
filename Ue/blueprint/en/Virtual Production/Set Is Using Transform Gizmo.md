@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Using Transform Gizmo
+title: Set Is Using Transform Gizmo
 order: 16
 ---
 ## Navigation

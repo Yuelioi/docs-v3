@@ -1,5 +1,5 @@
 ---
-display_name: 放大
+title: 放大
 order: 21
 ---
 

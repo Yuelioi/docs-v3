@@ -1,5 +1,5 @@
 ---
-display_name: Create Body Modifier
+title: Create Body Modifier
 order: 5
 ---
 ## Navigation

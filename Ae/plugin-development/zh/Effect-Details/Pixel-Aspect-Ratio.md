@@ -1,5 +1,5 @@
 ---
-display_name: Pixel-Aspect-Ratio
+title: Pixel-Aspect-Ratio
 order: 18
 ---
 

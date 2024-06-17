@@ -1,5 +1,5 @@
 ---
-display_name: Mouse X
+title: Mouse X
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Child
+title: Create Child
 order: 3
 ---
 ## Navigation

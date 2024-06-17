@@ -1,5 +1,5 @@
 ---
-display_name: Determine Mesh Occlusion
+title: Determine Mesh Occlusion
 order: 3
 ---
 ## Navigation

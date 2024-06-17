@@ -1,5 +1,5 @@
 ---
-display_name: Cos (Degrees)
+title: Cos (Degrees)
 order: 9
 ---
 ## Navigation

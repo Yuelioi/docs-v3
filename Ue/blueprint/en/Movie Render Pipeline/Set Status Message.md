@@ -1,5 +1,5 @@
 ---
-display_name: Set Status Message
+title: Set Status Message
 order: 25
 ---
 ## Navigation

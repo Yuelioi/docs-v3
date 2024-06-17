@@ -1,5 +1,5 @@
 ---
-display_name: Completion NOT
+title: Completion NOT
 order: 10
 ---
 ## Navigation

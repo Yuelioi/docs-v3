@@ -1,5 +1,5 @@
 ---
-display_name: 视频限幅器
+title: 视频限幅器
 order: 35
 ---
 

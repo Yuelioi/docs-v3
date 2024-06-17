@@ -1,5 +1,5 @@
 ---
-display_name: Get Chain Using Goal from Retarget Asset
+title: Get Chain Using Goal from Retarget Asset
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Animating Rig
+title: Get Default Animating Rig
 order: 9
 ---
 ## Navigation

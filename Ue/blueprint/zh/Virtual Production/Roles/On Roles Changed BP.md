@@ -1,5 +1,5 @@
 ---
-display_name: On Roles Changed BP
+title: On Roles Changed BP
 order: 6
 ---
 ## Navigation

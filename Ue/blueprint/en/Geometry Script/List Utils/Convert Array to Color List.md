@@ -1,5 +1,5 @@
 ---
-display_name: Convert Array to Color List
+title: Convert Array to Color List
 order: 6
 ---
 ## Navigation

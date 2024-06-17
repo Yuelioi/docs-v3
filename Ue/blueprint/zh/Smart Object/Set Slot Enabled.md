@@ -1,5 +1,5 @@
 ---
-display_name: Set Slot Enabled
+title: Set Slot Enabled
 order: 46
 ---
 ## Navigation

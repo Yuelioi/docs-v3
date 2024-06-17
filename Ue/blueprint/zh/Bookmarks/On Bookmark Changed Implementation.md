@@ -1,5 +1,5 @@
 ---
-display_name: On Bookmark Changed Implementation
+title: On Bookmark Changed Implementation
 order: 20
 ---
 ## Navigation

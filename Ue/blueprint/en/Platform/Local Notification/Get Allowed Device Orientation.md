@@ -1,5 +1,5 @@
 ---
-display_name: Get Allowed Device Orientation
+title: Get Allowed Device Orientation
 order: 4
 ---
 ## Navigation

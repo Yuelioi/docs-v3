@@ -1,5 +1,5 @@
 ---
-display_name: Load Level Instance (Message)
+title: Load Level Instance (Message)
 order: 17
 ---
 ## Navigation

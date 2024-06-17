@@ -1,5 +1,5 @@
 ---
-display_name: Should Reset Camera Tracking
+title: Should Reset Camera Tracking
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Temperature
+title: Set Use Temperature
 order: 142
 ---
 ## Navigation

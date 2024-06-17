@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Integer)
+title: Set Default (Integer)
 order: 106
 ---
 ## Navigation

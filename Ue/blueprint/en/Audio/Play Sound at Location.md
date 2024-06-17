@@ -1,5 +1,5 @@
 ---
-display_name: Play Sound at Location
+title: Play Sound at Location
 order: 41
 ---
 ## Navigation

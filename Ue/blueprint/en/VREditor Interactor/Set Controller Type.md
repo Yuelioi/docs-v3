@@ -1,5 +1,5 @@
 ---
-display_name: Set Controller Type
+title: Set Controller Type
 order: 6
 ---
 ## Navigation

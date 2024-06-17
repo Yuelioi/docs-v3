@@ -1,5 +1,5 @@
 ---
-display_name: Set Water Body Component
+title: Set Water Body Component
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Integer)
+title: Get Time (Integer)
 order: 62
 ---
 ## Navigation

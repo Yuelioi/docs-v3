@@ -1,5 +1,5 @@
 ---
-display_name: Gather Subobject Data For Blueprint
+title: Gather Subobject Data For Blueprint
 order: 16
 ---
 ## Navigation

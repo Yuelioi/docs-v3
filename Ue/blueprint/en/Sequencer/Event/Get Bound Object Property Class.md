@@ -1,5 +1,5 @@
 ---
-display_name: Get Bound Object Property Class
+title: Get Bound Object Property Class
 order: 1
 ---
 ## Navigation

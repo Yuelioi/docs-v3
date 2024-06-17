@@ -1,5 +1,5 @@
 ---
-display_name: SetText (Text)
+title: SetText (Text)
 order: 52
 ---
 ## Navigation

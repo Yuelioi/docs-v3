@@ -1,5 +1,5 @@
 ---
-display_name: Set Depth Anchor
+title: Set Depth Anchor
 order: 8
 ---
 ## Navigation

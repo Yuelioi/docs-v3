@@ -1,5 +1,5 @@
 ---
-display_name: replace_match
+title: replace_match
 order: 32
 ---
 `string  replace_match(string str, string pattern_from, string pattern_to)`

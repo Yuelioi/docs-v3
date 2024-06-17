@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Started
+title: Notify Movement Started
 order: 36
 ---
 ## Navigation

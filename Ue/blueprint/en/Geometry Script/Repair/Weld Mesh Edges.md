@@ -1,5 +1,5 @@
 ---
-display_name: Weld Mesh Edges
+title: Weld Mesh Edges
 order: 9
 ---
 ## Navigation

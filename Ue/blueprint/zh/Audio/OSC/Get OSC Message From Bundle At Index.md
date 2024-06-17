@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message From Bundle At Index
+title: Get OSC Message From Bundle At Index
 order: 40
 ---
 ## Navigation

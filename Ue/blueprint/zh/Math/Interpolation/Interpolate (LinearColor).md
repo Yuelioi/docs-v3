@@ -1,5 +1,5 @@
 ---
-display_name: Interpolate (LinearColor)
+title: Interpolate (LinearColor)
 order: 5
 ---
 ## Navigation

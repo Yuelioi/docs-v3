@@ -1,5 +1,5 @@
 ---
-display_name: ggx
+title: ggx
 order: 11
 ---
 | Since | 18.0 |

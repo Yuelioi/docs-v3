@@ -1,5 +1,5 @@
 ---
-display_name: Make Standard Filename
+title: Make Standard Filename
 order: 62
 ---
 ## Navigation

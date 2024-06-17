@@ -1,5 +1,5 @@
 ---
-display_name: Get Log Frequency
+title: Get Log Frequency
 order: 2
 ---
 ## Navigation

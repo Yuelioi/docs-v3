@@ -1,5 +1,5 @@
 ---
-display_name: Set Reverb Gain
+title: Set Reverb Gain
 order: 4
 ---
 ## Navigation

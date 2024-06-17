@@ -1,5 +1,5 @@
 ---
-display_name: Remove Multiple Smart Objects
+title: Remove Multiple Smart Objects
 order: 42
 ---
 ## Navigation

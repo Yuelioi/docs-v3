@@ -1,5 +1,5 @@
 ---
-display_name: Plug-in-Installation
+title: Plug-in-Installation
 order: 8
 ---
 

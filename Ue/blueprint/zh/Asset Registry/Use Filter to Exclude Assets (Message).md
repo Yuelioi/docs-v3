@@ -1,5 +1,5 @@
 ---
-display_name: Use Filter to Exclude Assets (Message)
+title: Use Filter to Exclude Assets (Message)
 order: 51
 ---
 ## Navigation

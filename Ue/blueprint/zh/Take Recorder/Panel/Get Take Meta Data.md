@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Meta Data
+title: Get Take Meta Data
 order: 8
 ---
 ## Navigation

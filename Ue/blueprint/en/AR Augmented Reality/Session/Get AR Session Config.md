@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Session Config
+title: Get AR Session Config
 order: 3
 ---
 ## Navigation

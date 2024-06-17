@@ -1,5 +1,5 @@
 ---
-display_name: Was Last Save Successful
+title: Was Last Save Successful
 order: 14
 ---
 ## Navigation

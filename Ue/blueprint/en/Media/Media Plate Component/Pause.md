@@ -1,5 +1,5 @@
 ---
-display_name: Pause
+title: Pause
 order: 8
 ---
 ## Navigation

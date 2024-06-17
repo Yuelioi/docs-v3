@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable from Boolean
+title: Set Console Variable from Boolean
 order: 8
 ---
 ## Navigation

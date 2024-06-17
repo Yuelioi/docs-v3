@@ -1,5 +1,5 @@
 ---
-display_name: On Begin Cursor Over
+title: On Begin Cursor Over
 order: 1
 ---
 ## Navigation

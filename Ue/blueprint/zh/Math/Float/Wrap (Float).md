@@ -1,5 +1,5 @@
 ---
-display_name: Wrap (Float)
+title: Wrap (Float)
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Perform GCOn Unload
+title: Set Perform GCOn Unload
 order: 89
 ---
 ## Navigation

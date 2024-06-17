@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Asset Group Culture
+title: Set Current Asset Group Culture
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Input Touch Begin
+title: On Input Touch Begin
 order: 1
 ---
 ## Navigation

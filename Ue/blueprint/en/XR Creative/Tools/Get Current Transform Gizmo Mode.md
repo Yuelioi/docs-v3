@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Transform Gizmo Mode
+title: Get Current Transform Gizmo Mode
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Did Not Spawn
+title: Did Not Spawn
 order: 25
 ---
 ## Navigation

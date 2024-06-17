@@ -1,5 +1,5 @@
 ---
-display_name: Add Attribute
+title: Add Attribute
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Begin Training
+title: Begin Training
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Property
+title: Remove Property
 order: 97
 ---
 ## Navigation

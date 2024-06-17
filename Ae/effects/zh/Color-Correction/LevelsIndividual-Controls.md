@@ -1,5 +1,5 @@
 ---
-display_name: 色阶（单独控件）
+title: 色阶（单独控件）
 order: 26
 ---
 

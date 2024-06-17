@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector List Last Index
+title: Get Vector List Last Index
 order: 41
 ---
 ## Navigation

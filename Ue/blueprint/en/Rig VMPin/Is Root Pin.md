@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Pin
+title: Is Root Pin
 order: 46
 ---
 ## Navigation

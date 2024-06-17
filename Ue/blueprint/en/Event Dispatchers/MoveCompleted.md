@@ -1,5 +1,5 @@
 ---
-display_name: MoveCompleted
+title: MoveCompleted
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Frame Data Times
+title: Get Channel Frame Data Times
 order: 12
 ---
 ## Navigation

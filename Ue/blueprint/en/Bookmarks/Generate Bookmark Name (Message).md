@@ -1,5 +1,5 @@
 ---
-display_name: Generate Bookmark Name (Message)
+title: Generate Bookmark Name (Message)
 order: 4
 ---
 ## Navigation

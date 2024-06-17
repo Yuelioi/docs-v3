@@ -1,5 +1,5 @@
 ---
-display_name: Find All Abilities with Input ID
+title: Find All Abilities with Input ID
 order: 5
 ---
 ## Navigation

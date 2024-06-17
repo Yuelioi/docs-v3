@@ -1,5 +1,5 @@
 ---
-display_name: 保留颜色
+title: 保留颜色
 order: 24
 ---
 

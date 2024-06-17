@@ -1,5 +1,5 @@
 ---
-display_name: Get MVVMSubsystem
+title: Get MVVMSubsystem
 order: 27
 ---
 ## Navigation

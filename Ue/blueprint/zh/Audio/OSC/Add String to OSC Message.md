@@ -1,5 +1,5 @@
 ---
-display_name: Add String to OSC Message
+title: Add String to OSC Message
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Static
+title: Set Render Static
 order: 33
 ---
 ## Navigation

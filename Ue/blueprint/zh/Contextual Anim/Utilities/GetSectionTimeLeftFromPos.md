@@ -1,5 +1,5 @@
 ---
-display_name: GetSectionTimeLeftFromPos
+title: GetSectionTimeLeftFromPos
 order: 4
 ---
 ## Navigation

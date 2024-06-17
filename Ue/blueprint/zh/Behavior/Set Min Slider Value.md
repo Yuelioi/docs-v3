@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Slider Value
+title: Set Min Slider Value
 order: 25
 ---
 ## Navigation

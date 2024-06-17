@@ -1,5 +1,5 @@
 ---
-display_name: Is OSC Address Valid Path
+title: Is OSC Address Valid Path
 order: 52
 ---
 ## Navigation

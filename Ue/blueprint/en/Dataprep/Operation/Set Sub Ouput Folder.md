@@ -1,5 +1,5 @@
 ---
-display_name: Set Sub Ouput Folder
+title: Set Sub Ouput Folder
 order: 18
 ---
 ## Navigation

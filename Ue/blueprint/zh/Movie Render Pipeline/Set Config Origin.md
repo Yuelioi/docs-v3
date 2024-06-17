@@ -1,5 +1,5 @@
 ---
-display_name: Set Config Origin
+title: Set Config Origin
 order: 14
 ---
 ## Navigation

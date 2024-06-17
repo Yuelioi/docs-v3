@@ -1,5 +1,5 @@
 ---
-display_name: To Text (Vector)
+title: To Text (Vector)
 order: 48
 ---
 ## Navigation

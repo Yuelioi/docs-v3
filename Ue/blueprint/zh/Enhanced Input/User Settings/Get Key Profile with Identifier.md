@@ -1,5 +1,5 @@
 ---
-display_name: Get Key Profile with Identifier
+title: Get Key Profile with Identifier
 order: 12
 ---
 ## Navigation

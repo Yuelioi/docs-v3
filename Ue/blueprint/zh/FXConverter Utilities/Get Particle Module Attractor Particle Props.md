@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Attractor Particle Props
+title: Get Particle Module Attractor Particle Props
 order: 61
 ---
 ## Navigation

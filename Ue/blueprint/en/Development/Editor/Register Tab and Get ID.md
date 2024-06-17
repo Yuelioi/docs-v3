@@ -1,5 +1,5 @@
 ---
-display_name: Register Tab and Get ID
+title: Register Tab and Get ID
 order: 19
 ---
 ## Navigation

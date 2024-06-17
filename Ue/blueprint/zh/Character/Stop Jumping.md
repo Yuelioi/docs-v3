@@ -1,5 +1,5 @@
 ---
-display_name: Stop Jumping
+title: Stop Jumping
 order: 14
 ---
 ## Navigation

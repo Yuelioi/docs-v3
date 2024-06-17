@@ -1,5 +1,5 @@
 ---
-display_name: Set Occlusion Mask Darkness
+title: Set Occlusion Mask Darkness
 order: 23
 ---
 ## Navigation

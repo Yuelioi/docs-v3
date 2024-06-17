@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Rotation by Name
+title: Get Bone Rotation by Name
 order: 3
 ---
 ## Navigation

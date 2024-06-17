@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Waves
+title: Get Water Waves
 order: 19
 ---
 ## Navigation

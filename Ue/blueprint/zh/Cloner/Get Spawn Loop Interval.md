@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawn Loop Interval
+title: Get Spawn Loop Interval
 order: 47
 ---
 ## Navigation

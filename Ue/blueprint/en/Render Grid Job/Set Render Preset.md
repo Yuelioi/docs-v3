@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Preset
+title: Set Render Preset
 order: 42
 ---
 ## Navigation

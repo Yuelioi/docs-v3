@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Quality Level
+title: Get Audio Quality Level
 order: 25
 ---
 ## Navigation

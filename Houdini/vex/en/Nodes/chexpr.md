@@ -1,5 +1,5 @@
 ---
-display_name: chexpr
+title: chexpr
 order: 7
 ---
 `float  chexpr(string channel, string new_expr_function)`

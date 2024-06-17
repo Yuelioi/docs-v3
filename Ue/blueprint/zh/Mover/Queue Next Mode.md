@@ -1,5 +1,5 @@
 ---
-display_name: Queue Next Mode
+title: Queue Next Mode
 order: 25
 ---
 ## Navigation

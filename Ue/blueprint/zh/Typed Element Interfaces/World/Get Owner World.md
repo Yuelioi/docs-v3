@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner World
+title: Get Owner World
 order: 22
 ---
 ## Navigation

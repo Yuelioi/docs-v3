@@ -1,5 +1,5 @@
 ---
-display_name: On Text Changed
+title: On Text Changed
 order: 1
 ---
 ## Navigation

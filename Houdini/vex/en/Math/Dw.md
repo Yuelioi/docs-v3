@@ -1,5 +1,5 @@
 ---
-display_name: Dw
+title: Dw
 order: 3
 ---
 `float  Dw(float p, ...)`

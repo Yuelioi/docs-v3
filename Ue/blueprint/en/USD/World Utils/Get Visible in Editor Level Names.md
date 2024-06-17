@@ -1,5 +1,5 @@
 ---
-display_name: Get Visible in Editor Level Names
+title: Get Visible in Editor Level Names
 order: 6
 ---
 ## Navigation

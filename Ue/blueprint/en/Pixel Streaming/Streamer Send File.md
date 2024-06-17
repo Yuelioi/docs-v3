@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Send File
+title: Streamer Send File
 order: 30
 ---
 ## Navigation

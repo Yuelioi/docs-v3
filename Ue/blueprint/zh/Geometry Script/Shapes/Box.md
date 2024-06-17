@@ -1,5 +1,5 @@
 ---
-display_name: Box
+title: Box
 order: 1
 ---
 ## Navigation

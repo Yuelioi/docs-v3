@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Parameter (Message)
+title: Set Float Parameter (Message)
 order: 19
 ---
 ## Navigation

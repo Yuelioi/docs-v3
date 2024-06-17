@@ -1,5 +1,5 @@
 ---
-display_name: Set Static Mesh Path Name
+title: Set Static Mesh Path Name
 order: 135
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PolyPath To Array Of Vector2D
+title: PolyPath To Array Of Vector2D
 order: 20
 ---
 ## Navigation

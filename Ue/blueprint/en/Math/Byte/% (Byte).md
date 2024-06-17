@@ -1,5 +1,5 @@
 ---
-display_name: % (Byte)
+title: % (Byte)
 order: 1
 ---
 ## Navigation

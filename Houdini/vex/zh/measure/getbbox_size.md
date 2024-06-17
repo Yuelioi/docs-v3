@@ -1,5 +1,5 @@
 ---
-display_name: getbbox_size
+title: getbbox_size
 order: 7
 ---
 `vector  getbbox_size(<geometry>geometry)`

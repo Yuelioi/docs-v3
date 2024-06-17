@@ -1,5 +1,5 @@
 ---
-display_name: ExposureCompensationReset
+title: ExposureCompensationReset
 order: 19
 ---
 ## Navigation

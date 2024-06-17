@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Cone in Radians
+title: Random Unit Vector in Cone in Radians
 order: 37
 ---
 ## Navigation

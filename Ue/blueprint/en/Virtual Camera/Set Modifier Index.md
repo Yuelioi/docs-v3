@@ -1,5 +1,5 @@
 ---
-display_name: Set Modifier Index
+title: Set Modifier Index
 order: 10
 ---
 ## Navigation

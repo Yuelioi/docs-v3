@@ -1,5 +1,5 @@
 ---
-display_name: length
+title: length
 order: 37
 ---
 To get the length of a string, or number of items in an array, use [len](len.html "Returns the length of an array.").

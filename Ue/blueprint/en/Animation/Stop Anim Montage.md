@@ -1,5 +1,5 @@
 ---
-display_name: Stop Anim Montage
+title: Stop Anim Montage
 order: 2
 ---
 ## Navigation

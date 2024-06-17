@@ -1,5 +1,5 @@
 ---
-display_name: Set Marked Frames Locked
+title: Set Marked Frames Locked
 order: 89
 ---
 ## Navigation

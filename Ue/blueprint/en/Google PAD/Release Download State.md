@@ -1,5 +1,5 @@
 ---
-display_name: Release Download State
+title: Release Download State
 order: 11
 ---
 ## Navigation

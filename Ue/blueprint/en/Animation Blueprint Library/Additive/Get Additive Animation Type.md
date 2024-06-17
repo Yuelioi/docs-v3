@@ -1,5 +1,5 @@
 ---
-display_name: Get Additive Animation Type
+title: Get Additive Animation Type
 order: 1
 ---
 ## Navigation

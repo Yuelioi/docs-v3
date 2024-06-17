@@ -1,5 +1,5 @@
 ---
-display_name: Get FOVAngle
+title: Get FOVAngle
 order: 11
 ---
 ## Navigation

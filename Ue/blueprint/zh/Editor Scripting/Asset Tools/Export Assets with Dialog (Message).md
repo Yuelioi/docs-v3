@@ -1,5 +1,5 @@
 ---
-display_name: Export Assets with Dialog (Message)
+title: Export Assets with Dialog (Message)
 order: 21
 ---
 ## Navigation

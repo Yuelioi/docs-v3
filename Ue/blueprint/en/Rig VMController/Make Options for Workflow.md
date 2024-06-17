@@ -1,5 +1,5 @@
 ---
-display_name: Make Options for Workflow
+title: Make Options for Workflow
 order: 69
 ---
 ## Navigation

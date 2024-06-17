@@ -1,5 +1,5 @@
 ---
-display_name: Set Playing
+title: Set Playing
 order: 28
 ---
 ## Navigation

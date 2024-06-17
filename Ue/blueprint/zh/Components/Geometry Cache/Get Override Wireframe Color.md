@@ -1,5 +1,5 @@
 ---
-display_name: Get Override Wireframe Color
+title: Get Override Wireframe Color
 order: 6
 ---
 ## Navigation

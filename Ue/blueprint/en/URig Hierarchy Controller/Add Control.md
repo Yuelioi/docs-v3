@@ -1,5 +1,5 @@
 ---
-display_name: Add Control
+title: Add Control
 order: 3
 ---
 ## Navigation

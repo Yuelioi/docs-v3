@@ -1,5 +1,5 @@
 ---
-display_name: isseconds
+title: isseconds
 order: 32
 ---
 | Context(s) | [chop](../contexts/chop.html) |

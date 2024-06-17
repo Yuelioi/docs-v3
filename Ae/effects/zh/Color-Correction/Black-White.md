@@ -1,5 +1,5 @@
 ---
-display_name: 黑色和白色
+title: 黑色和白色
 order: 4
 ---
 

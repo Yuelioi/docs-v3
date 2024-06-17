@@ -1,5 +1,5 @@
 ---
-display_name: Set Holdout
+title: Set Holdout
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reorder Render Grid Job
+title: Reorder Render Grid Job
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Position
+title: Make Bake Type Position
 order: 13
 ---
 ## Navigation

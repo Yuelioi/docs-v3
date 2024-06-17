@@ -1,5 +1,5 @@
 ---
-display_name: Create New Output Pass
+title: Create New Output Pass
 order: 2
 ---
 ## Navigation

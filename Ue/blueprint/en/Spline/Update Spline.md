@@ -1,5 +1,5 @@
 ---
-display_name: Update Spline
+title: Update Spline
 order: 92
 ---
 ## Navigation

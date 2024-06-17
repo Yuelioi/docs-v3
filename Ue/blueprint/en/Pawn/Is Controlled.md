@@ -1,5 +1,5 @@
 ---
-display_name: Is Controlled
+title: Is Controlled
 order: 11
 ---
 ## Navigation

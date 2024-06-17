@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara System Asset
+title: Set Niagara System Asset
 order: 29
 ---
 ## Navigation

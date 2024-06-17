@@ -1,5 +1,5 @@
 ---
-display_name: Artisans
+title: Artisans
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Restart Movement
+title: Restart Movement
 order: 4
 ---
 ## Navigation

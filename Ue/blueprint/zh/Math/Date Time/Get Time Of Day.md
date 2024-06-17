@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Of Day
+title: Get Time Of Day
 order: 23
 ---
 ## Navigation

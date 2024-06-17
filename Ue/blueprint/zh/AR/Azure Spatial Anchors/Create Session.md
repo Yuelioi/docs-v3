@@ -1,5 +1,5 @@
 ---
-display_name: Create Session
+title: Create Session
 order: 2
 ---
 ## Navigation

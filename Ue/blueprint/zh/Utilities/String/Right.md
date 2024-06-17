@@ -1,5 +1,5 @@
 ---
-display_name: Right
+title: Right
 order: 41
 ---
 ## Navigation

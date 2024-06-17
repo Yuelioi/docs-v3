@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Nodes
+title: Get Child Nodes
 order: 1
 ---
 ## Navigation

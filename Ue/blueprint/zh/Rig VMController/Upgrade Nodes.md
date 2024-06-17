@@ -1,5 +1,5 @@
 ---
-display_name: Upgrade Nodes
+title: Upgrade Nodes
 order: 130
 ---
 ## Navigation

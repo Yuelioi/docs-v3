@@ -1,5 +1,5 @@
 ---
-display_name: Touch 1
+title: Touch 1
 order: 1
 ---
 ## Navigation

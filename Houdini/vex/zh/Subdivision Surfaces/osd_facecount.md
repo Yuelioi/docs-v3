@@ -1,5 +1,5 @@
 ---
-display_name: osd_facecount
+title: osd_facecount
 order: 1
 ---
 `int  osd_facecount(<geometry>geometry)`

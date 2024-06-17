@@ -1,5 +1,5 @@
 ---
-display_name: Find Node by Name
+title: Find Node by Name
 order: 5
 ---
 ## Navigation

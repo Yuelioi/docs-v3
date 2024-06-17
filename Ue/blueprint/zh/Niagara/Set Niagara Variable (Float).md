@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Float)
+title: Set Niagara Variable (Float)
 order: 32
 ---
 ## Navigation

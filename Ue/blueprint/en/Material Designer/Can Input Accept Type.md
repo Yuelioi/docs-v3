@@ -1,5 +1,5 @@
 ---
-display_name: Can Input Accept Type
+title: Can Input Accept Type
 order: 15
 ---
 ## Navigation

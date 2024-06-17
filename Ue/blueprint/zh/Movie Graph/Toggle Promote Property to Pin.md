@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Promote Property to Pin
+title: Toggle Promote Property to Pin
 order: 76
 ---
 ## Navigation

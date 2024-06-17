@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Settings in Retarget Profile
+title: Set Root Settings in Retarget Profile
 order: 11
 ---
 ## Navigation

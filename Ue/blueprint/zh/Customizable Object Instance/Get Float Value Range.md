@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Value Range
+title: Get Float Value Range
 order: 23
 ---
 ## Navigation

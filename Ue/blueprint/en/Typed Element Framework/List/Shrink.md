@@ -1,5 +1,5 @@
 ---
-display_name: Shrink
+title: Shrink
 order: 19
 ---
 ## Navigation

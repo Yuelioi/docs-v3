@@ -1,5 +1,5 @@
 ---
-display_name: gradient
+title: gradient
 order: 35
 ---
 | On this page | * [Derivatives options](#derivatives-options) * [Examples](#examples) |

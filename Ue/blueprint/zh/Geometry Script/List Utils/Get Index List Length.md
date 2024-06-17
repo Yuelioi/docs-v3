@@ -1,5 +1,5 @@
 ---
-display_name: Get Index List Length
+title: Get Index List Length
 order: 30
 ---
 ## Navigation

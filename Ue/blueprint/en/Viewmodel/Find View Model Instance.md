@@ -1,5 +1,5 @@
 ---
-display_name: Find View Model Instance
+title: Find View Model Instance
 order: 8
 ---
 ## Navigation

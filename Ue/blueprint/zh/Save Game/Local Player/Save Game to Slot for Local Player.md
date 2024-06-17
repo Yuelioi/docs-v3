@@ -1,5 +1,5 @@
 ---
-display_name: Save Game to Slot for Local Player
+title: Save Game to Slot for Local Player
 order: 13
 ---
 ## Navigation

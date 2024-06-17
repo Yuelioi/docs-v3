@@ -1,5 +1,5 @@
 ---
-display_name: 颜色差值键
+title: 颜色差值键
 order: 3
 ---
 

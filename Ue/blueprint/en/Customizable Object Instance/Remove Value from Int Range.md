@@ -1,5 +1,5 @@
 ---
-display_name: Remove Value from Int Range
+title: Remove Value from Int Range
 order: 59
 ---
 ## Navigation

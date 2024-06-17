@@ -1,5 +1,5 @@
 ---
-display_name: Convert Cine Camera Component
+title: Convert Cine Camera Component
 order: 1
 ---
 ## Navigation

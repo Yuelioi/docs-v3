@@ -1,5 +1,5 @@
 ---
-display_name: Is Added Component Valid
+title: Is Added Component Valid
 order: 16
 ---
 ## Navigation

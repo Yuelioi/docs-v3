@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected
+title: Get Selected
 order: 8
 ---
 ## Navigation

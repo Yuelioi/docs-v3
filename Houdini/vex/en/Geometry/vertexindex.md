@@ -1,5 +1,5 @@
 ---
-display_name: vertexindex
+title: vertexindex
 order: 40
 ---
 `int  vertexindex(<geometry>geometry, int primnum, int vertex)`

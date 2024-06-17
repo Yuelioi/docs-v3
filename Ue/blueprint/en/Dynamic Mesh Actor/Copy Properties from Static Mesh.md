@@ -1,5 +1,5 @@
 ---
-display_name: Copy Properties from Static Mesh
+title: Copy Properties from Static Mesh
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Enabled Stage
+title: Get Last Enabled Stage
 order: 84
 ---
 ## Navigation

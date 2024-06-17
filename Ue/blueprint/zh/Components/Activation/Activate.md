@@ -1,5 +1,5 @@
 ---
-display_name: Activate
+title: Activate
 order: 1
 ---
 ## Navigation

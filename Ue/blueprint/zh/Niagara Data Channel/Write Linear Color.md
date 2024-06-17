@@ -1,5 +1,5 @@
 ---
-display_name: Write Linear Color
+title: Write Linear Color
 order: 24
 ---
 ## Navigation

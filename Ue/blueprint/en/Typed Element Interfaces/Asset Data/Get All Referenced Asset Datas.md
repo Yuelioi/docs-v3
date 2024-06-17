@@ -1,5 +1,5 @@
 ---
-display_name: Get All Referenced Asset Datas
+title: Get All Referenced Asset Datas
 order: 2
 ---
 ## Navigation

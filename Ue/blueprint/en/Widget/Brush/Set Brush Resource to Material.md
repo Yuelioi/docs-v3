@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush Resource to Material
+title: Set Brush Resource to Material
 order: 10
 ---
 ## Navigation

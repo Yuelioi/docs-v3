@@ -1,5 +1,5 @@
 ---
-display_name: efit
+title: efit
 order: 4
 ---
 `float  efit(float value, float omin, float omax, float nmin, float nmax)`

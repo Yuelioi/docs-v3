@@ -1,5 +1,5 @@
 ---
-display_name: Create Render Target 2D
+title: Create Render Target 2D
 order: 12
 ---
 ## Navigation

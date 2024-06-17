@@ -1,5 +1,5 @@
 ---
-display_name: % (integer64)
+title: % (integer64)
 order: 1
 ---
 ## Navigation

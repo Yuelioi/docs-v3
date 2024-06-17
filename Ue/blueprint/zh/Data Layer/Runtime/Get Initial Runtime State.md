@@ -1,5 +1,5 @@
 ---
-display_name: Get Initial Runtime State
+title: Get Initial Runtime State
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Init Resolution from Landscape
+title: Get Init Resolution from Landscape
 order: 11
 ---
 ## Navigation

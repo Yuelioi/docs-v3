@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Position
+title: Get Playback Position
 order: 6
 ---
 ## Navigation

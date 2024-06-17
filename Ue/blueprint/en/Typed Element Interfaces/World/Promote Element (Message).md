@@ -1,5 +1,5 @@
 ---
-display_name: Promote Element (Message)
+title: Promote Element (Message)
 order: 37
 ---
 ## Navigation

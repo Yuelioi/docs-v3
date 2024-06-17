@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Interactable when Selected
+title: Set Is Interactable when Selected
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Completion Completed
+title: Is Completion Completed
 order: 138
 ---
 ## Navigation

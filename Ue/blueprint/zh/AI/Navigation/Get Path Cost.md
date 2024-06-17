@@ -1,5 +1,5 @@
 ---
-display_name: Get Path Cost
+title: Get Path Cost
 order: 13
 ---
 ## Navigation

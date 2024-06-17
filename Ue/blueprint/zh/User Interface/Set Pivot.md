@@ -1,5 +1,5 @@
 ---
-display_name: Set Pivot
+title: Set Pivot
 order: 45
 ---
 ## Navigation

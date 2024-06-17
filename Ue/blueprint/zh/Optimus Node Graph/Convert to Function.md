@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Function
+title: Convert to Function
 order: 16
 ---
 ## Navigation

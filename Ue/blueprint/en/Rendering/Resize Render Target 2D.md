@@ -1,5 +1,5 @@
 ---
-display_name: Resize Render Target 2D
+title: Resize Render Target 2D
 order: 84
 ---
 ## Navigation

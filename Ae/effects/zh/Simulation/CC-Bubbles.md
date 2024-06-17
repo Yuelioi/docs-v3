@@ -1,5 +1,5 @@
 ---
-display_name: CC 泡泡
+title: CC 泡泡
 order: 4
 ---
 

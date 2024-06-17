@@ -1,5 +1,5 @@
 ---
-display_name: Update Stereo Atlas
+title: Update Stereo Atlas
 order: 32
 ---
 ## Navigation

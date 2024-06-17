@@ -1,5 +1,5 @@
 ---
-display_name: Bone Weights
+title: Bone Weights
 order: 1
 ---
 ## Navigation

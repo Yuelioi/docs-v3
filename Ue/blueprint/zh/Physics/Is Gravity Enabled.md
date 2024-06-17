@@ -1,5 +1,5 @@
 ---
-display_name: Is Gravity Enabled
+title: Is Gravity Enabled
 order: 96
 ---
 ## Navigation

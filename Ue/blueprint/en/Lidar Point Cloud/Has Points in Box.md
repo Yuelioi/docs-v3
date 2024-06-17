@@ -1,5 +1,5 @@
 ---
-display_name: Has Points in Box
+title: Has Points in Box
 order: 34
 ---
 ## Navigation

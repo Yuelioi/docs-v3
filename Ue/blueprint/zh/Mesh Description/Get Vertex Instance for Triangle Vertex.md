@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance for Triangle Vertex
+title: Get Vertex Instance for Triangle Vertex
 order: 69
 ---
 ## Navigation

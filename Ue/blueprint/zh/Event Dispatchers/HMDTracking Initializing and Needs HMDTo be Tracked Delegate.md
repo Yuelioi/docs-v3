@@ -1,5 +1,5 @@
 ---
-display_name: HMDTracking Initializing and Needs HMDTo be Tracked Delegate
+title: HMDTracking Initializing and Needs HMDTo be Tracked Delegate
 order: 36
 ---
 ## Navigation

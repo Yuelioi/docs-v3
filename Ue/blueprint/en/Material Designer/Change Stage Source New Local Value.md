@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source New Local Value
+title: Change Stage Source New Local Value
 order: 33
 ---
 ## Navigation

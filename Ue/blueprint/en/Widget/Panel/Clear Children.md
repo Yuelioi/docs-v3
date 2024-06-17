@@ -1,5 +1,5 @@
 ---
-display_name: Clear Children
+title: Clear Children
 order: 2
 ---
 ## Navigation

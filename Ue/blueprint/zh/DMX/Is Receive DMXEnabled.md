@@ -1,5 +1,5 @@
 ---
-display_name: Is Receive DMXEnabled
+title: Is Receive DMXEnabled
 order: 61
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_blockprimvar
+title: usd_blockprimvar
 order: 24
 ---
 | Since | 18.0 |

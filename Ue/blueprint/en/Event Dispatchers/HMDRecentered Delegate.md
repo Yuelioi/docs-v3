@@ -1,5 +1,5 @@
 ---
-display_name: HMDRecentered Delegate
+title: HMDRecentered Delegate
 order: 32
 ---
 ## Navigation

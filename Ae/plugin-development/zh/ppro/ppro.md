@@ -1,6 +1,6 @@
 ---
 order: 11
-display_name: ppro
+title: ppro
 ---
 
 # Premiere Pro & 其他主机

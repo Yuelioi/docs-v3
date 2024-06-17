@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Data
+title: Set Control Data
 order: 81
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Pointer Index
+title: Get Pointer Index
 order: 5
 ---
 ## Navigation

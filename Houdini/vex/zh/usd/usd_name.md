@@ -1,5 +1,5 @@
 ---
-display_name: usd_name
+title: usd_name
 order: 96
 ---
 | Since | 17.5 |

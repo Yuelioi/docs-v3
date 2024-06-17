@@ -1,5 +1,5 @@
 ---
-display_name: Get Overall Segment Counts
+title: Get Overall Segment Counts
 order: 42
 ---
 ## Navigation

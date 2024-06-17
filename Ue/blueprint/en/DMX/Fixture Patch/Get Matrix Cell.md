@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Cell
+title: Get Matrix Cell
 order: 19
 ---
 ## Navigation

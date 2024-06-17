@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Integers
+title: Get OSC Message Integers
 order: 44
 ---
 ## Navigation

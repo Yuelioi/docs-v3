@@ -1,5 +1,5 @@
 ---
-display_name: Func Interface Child (Message)
+title: Func Interface Child (Message)
 order: 30
 ---
 ## Navigation

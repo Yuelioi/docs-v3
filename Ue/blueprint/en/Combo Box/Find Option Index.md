@@ -1,5 +1,5 @@
 ---
-display_name: Find Option Index
+title: Find Option Index
 order: 4
 ---
 ## Navigation

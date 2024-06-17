@@ -1,5 +1,5 @@
 ---
-display_name: Socket Message Recieved Delegate
+title: Socket Message Recieved Delegate
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Expression Input Types
+title: Get Material Expression Input Types
 order: 19
 ---
 ## Navigation

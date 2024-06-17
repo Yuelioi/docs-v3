@@ -1,5 +1,5 @@
 ---
-display_name: Set Camera Binding ID
+title: Set Camera Binding ID
 order: 70
 ---
 ## Navigation

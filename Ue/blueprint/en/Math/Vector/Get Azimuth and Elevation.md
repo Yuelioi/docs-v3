@@ -1,5 +1,5 @@
 ---
-display_name: Get Azimuth and Elevation
+title: Get Azimuth and Elevation
 order: 18
 ---
 ## Navigation

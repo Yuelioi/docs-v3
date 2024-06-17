@@ -1,5 +1,5 @@
 ---
-display_name: Make Conversation Participant
+title: Make Conversation Participant
 order: 14
 ---
 ## Navigation

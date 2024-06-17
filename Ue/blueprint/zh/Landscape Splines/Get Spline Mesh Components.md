@@ -1,5 +1,5 @@
 ---
-display_name: Get Spline Mesh Components
+title: Get Spline Mesh Components
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Resimulate Procedural Foliage Components
+title: Resimulate Procedural Foliage Components
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sample_discrete
+title: sample_discrete
 order: 15
 ---
 `int  sample_discrete(int nvalues, float u)`

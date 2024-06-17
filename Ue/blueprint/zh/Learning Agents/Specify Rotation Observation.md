@@ -1,5 +1,5 @@
 ---
-display_name: Specify Rotation Observation
+title: Specify Rotation Observation
 order: 322
 ---
 ## Navigation

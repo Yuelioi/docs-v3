@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Channel Reader
+title: Get Data Channel Reader
 order: 1
 ---
 ## Navigation

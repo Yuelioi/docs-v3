@@ -1,5 +1,5 @@
 ---
-display_name: Set Motion Blur
+title: Set Motion Blur
 order: 125
 ---
 ## Navigation

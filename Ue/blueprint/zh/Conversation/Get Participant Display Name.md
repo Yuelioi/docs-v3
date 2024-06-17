@@ -1,5 +1,5 @@
 ---
-display_name: Get Participant Display Name
+title: Get Participant Display Name
 order: 12
 ---
 ## Navigation

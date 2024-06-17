@@ -1,5 +1,5 @@
 ---
-display_name: Set Cell Continuation on Page
+title: Set Cell Continuation on Page
 order: 5
 ---
 ## Navigation

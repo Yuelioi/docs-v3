@@ -1,5 +1,5 @@
 ---
-display_name: Has Active Role
+title: Has Active Role
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Pipelines
+title: Set Pipelines
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Notify Properties Changed from Blueprint
+title: Notify Properties Changed from Blueprint
 order: 104
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Queue Origin
+title: Get Queue Origin
 order: 7
 ---
 ## Navigation

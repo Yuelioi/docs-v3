@@ -1,5 +1,5 @@
 ---
-display_name: Get All Pins
+title: Get All Pins
 order: 1
 ---
 ## Navigation

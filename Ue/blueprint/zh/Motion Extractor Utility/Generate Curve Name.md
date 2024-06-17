@@ -1,5 +1,5 @@
 ---
-display_name: Generate Curve Name
+title: Generate Curve Name
 order: 1
 ---
 ## Navigation

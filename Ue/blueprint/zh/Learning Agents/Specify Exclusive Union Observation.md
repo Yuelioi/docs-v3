@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Union Observation
+title: Specify Exclusive Union Observation
 order: 300
 ---
 ## Navigation

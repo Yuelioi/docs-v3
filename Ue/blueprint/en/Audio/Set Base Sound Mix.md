@@ -1,5 +1,5 @@
 ---
-display_name: Set Base Sound Mix
+title: Set Base Sound Mix
 order: 7
 ---
 ## Navigation

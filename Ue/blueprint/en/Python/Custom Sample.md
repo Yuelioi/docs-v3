@@ -1,5 +1,5 @@
 ---
-display_name: Custom Sample
+title: Custom Sample
 order: 4
 ---
 ## Navigation

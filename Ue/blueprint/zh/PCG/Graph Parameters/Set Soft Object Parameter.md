@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Object Parameter
+title: Set Soft Object Parameter
 order: 35
 ---
 ## Navigation

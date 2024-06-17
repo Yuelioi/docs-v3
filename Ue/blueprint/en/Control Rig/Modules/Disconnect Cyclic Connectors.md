@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect Cyclic Connectors
+title: Disconnect Cyclic Connectors
 order: 9
 ---
 ## Navigation

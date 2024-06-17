@@ -1,5 +1,5 @@
 ---
-display_name: Make Range
+title: Make Range
 order: 69
 ---
 ## Navigation

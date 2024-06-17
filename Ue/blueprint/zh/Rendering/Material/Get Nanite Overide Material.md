@@ -1,5 +1,5 @@
 ---
-display_name: Get Nanite Overide Material
+title: Get Nanite Overide Material
 order: 16
 ---
 ## Navigation

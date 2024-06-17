@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion
+title: Make Completion
 order: 167
 ---
 ## Navigation

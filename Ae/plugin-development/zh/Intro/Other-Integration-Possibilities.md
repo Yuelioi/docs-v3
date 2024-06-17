@@ -1,5 +1,5 @@
 ---
-display_name: Other-Integration-Possibilities
+title: Other-Integration-Possibilities
 order: 10
 ---
 

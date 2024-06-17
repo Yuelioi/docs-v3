@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Interpolation Type
+title: Get Animation Interpolation Type
 order: 1
 ---
 ## Navigation

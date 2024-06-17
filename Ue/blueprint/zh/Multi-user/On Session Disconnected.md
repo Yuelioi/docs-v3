@@ -1,5 +1,5 @@
 ---
-display_name: On Session Disconnected
+title: On Session Disconnected
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Prims
+title: Duplicate Prims
 order: 5
 ---
 ## Navigation

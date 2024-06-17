@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Type Data Ribbon Props
+title: Get Particle Module Type Data Ribbon Props
 order: 103
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_getbbox_max
+title: usd_pointinstance_getbbox_max
 order: 100
 ---
 | Since | 18.0 |

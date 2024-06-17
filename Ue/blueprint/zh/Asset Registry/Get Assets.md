@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets
+title: Get Assets
 order: 18
 ---
 ## Navigation

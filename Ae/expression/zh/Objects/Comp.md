@@ -1,5 +1,5 @@
 ---
-display_name: Comp
+title: Comp
 order: 2
 ---
 

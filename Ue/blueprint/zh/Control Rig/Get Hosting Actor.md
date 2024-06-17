@@ -1,5 +1,5 @@
 ---
-display_name: Get Hosting Actor
+title: Get Hosting Actor
 order: 21
 ---
 ## Navigation

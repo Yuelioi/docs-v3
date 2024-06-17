@@ -1,5 +1,5 @@
 ---
-display_name: Set Grip Nav Speed
+title: Set Grip Nav Speed
 order: 11
 ---
 ## Navigation

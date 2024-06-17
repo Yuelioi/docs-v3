@@ -1,5 +1,5 @@
 ---
-display_name: Get Portable Binding ID
+title: Get Portable Binding ID
 order: 48
 ---
 ## Navigation

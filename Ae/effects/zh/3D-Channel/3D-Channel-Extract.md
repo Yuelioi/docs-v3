@@ -1,5 +1,5 @@
 ---
-display_name: 3D通道提取
+title: 3D通道提取
 order: 1
 ---
 # 3D Channel Extract - 3D通道提取

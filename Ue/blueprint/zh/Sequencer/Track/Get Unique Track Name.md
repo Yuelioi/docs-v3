@@ -1,5 +1,5 @@
 ---
-display_name: Get Unique Track Name
+title: Get Unique Track Name
 order: 15
 ---
 ## Navigation

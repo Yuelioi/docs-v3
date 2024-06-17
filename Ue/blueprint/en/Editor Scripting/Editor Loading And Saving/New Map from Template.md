@@ -1,5 +1,5 @@
 ---
-display_name: New Map from Template
+title: New Map from Template
 order: 8
 ---
 ## Navigation

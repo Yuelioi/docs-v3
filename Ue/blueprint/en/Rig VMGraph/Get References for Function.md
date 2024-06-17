@@ -1,5 +1,5 @@
 ---
-display_name: Get References for Function
+title: Get References for Function
 order: 23
 ---
 ## Navigation

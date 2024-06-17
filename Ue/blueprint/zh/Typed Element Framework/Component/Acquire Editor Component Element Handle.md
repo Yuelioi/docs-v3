@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Editor Component Element Handle
+title: Acquire Editor Component Element Handle
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Du
+title: Du
 order: 1
 ---
 `float  Du(float n, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: wireblinn
+title: wireblinn
 order: 80
 ---
 `bsdf  wireblinn(vector tangent, float exponent, ...)`

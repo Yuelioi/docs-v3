@@ -1,5 +1,5 @@
 ---
-display_name: Promote Pin to Variable
+title: Promote Pin to Variable
 order: 77
 ---
 ## Navigation

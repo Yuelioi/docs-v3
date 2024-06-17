@@ -1,5 +1,5 @@
 ---
-display_name: ZebraPatternThreshold
+title: ZebraPatternThreshold
 order: 127
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Camera
+title: Create Camera
 order: 12
 ---
 ## Navigation

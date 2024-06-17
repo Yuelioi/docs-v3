@@ -1,5 +1,5 @@
 ---
-display_name: Get Status Percentage
+title: Get Status Percentage
 order: 16
 ---
 ## Navigation

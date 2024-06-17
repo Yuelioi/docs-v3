@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Center Frequencies
+title: Get Num Center Frequencies
 order: 10
 ---
 ## Navigation

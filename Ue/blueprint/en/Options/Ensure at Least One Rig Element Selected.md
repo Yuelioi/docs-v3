@@ -1,5 +1,5 @@
 ---
-display_name: Ensure at Least One Rig Element Selected
+title: Ensure at Least One Rig Element Selected
 order: 1
 ---
 ## Navigation

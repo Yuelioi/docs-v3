@@ -1,5 +1,5 @@
 ---
-display_name: Remove Attribute
+title: Remove Attribute
 order: 58
 ---
 ## Navigation

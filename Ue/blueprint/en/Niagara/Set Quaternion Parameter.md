@@ -1,5 +1,5 @@
 ---
-display_name: Set Quaternion Parameter
+title: Set Quaternion Parameter
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Meta Data by Class
+title: Find or Add Meta Data by Class
 order: 3
 ---
 ## Navigation

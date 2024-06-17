@@ -1,5 +1,5 @@
 ---
-display_name: Allocate Compute Mesh
+title: Allocate Compute Mesh
 order: 1
 ---
 ## Navigation

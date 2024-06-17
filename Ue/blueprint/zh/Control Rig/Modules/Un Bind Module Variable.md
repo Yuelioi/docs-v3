@@ -1,5 +1,5 @@
 ---
-display_name: Un Bind Module Variable
+title: Un Bind Module Variable
 order: 15
 ---
 ## Navigation

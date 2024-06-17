@@ -1,5 +1,5 @@
 ---
-display_name: usd_makecollectionpath
+title: usd_makecollectionpath
 order: 87
 ---
 | Since | 18.0 |

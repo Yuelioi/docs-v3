@@ -1,5 +1,5 @@
 ---
-display_name: Set Two Sided
+title: Set Two Sided
 order: 91
 ---
 ## Navigation

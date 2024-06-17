@@ -1,5 +1,5 @@
 ---
-display_name: Get Fractional Frame Index
+title: Get Fractional Frame Index
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Model Instance
+title: Get Model Instance
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Musical Spectral Analysis Band Settings
+title: Make Musical Spectral Analysis Band Settings
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get String Table Namespace
+title: Get String Table Namespace
 order: 6
 ---
 ## Navigation

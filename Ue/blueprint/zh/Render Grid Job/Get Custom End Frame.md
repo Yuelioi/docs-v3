@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom End Frame
+title: Get Custom End Frame
 order: 2
 ---
 ## Navigation

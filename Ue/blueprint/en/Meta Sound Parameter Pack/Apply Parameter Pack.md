@@ -1,5 +1,5 @@
 ---
-display_name: Apply Parameter Pack
+title: Apply Parameter Pack
 order: 1
 ---
 ## Navigation

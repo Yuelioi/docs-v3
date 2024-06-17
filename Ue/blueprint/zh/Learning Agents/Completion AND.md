@@ -1,5 +1,5 @@
 ---
-display_name: Completion AND
+title: Completion AND
 order: 9
 ---
 ## Navigation

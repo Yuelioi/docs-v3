@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Capsule
+title: Draw Debug Capsule
 order: 5
 ---
 ## Navigation

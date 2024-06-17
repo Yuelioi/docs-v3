@@ -1,5 +1,5 @@
 ---
-display_name: On Overlap
+title: On Overlap
 order: 125
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset All Agents
+title: Reset All Agents
 order: 257
 ---
 ## Navigation

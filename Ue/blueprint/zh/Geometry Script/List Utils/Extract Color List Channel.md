@@ -1,5 +1,5 @@
 ---
-display_name: Extract Color List Channel
+title: Extract Color List Channel
 order: 23
 ---
 ## Navigation

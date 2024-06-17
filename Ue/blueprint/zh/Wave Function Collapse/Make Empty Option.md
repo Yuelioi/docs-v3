@@ -1,5 +1,5 @@
 ---
-display_name: Make Empty Option
+title: Make Empty Option
 order: 19
 ---
 ## Navigation

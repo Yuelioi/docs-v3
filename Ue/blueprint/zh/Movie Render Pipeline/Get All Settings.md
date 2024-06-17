@@ -1,5 +1,5 @@
 ---
-display_name: Get All Settings
+title: Get All Settings
 order: 20
 ---
 ## Navigation

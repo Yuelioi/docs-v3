@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Triangle Normals
+title: Set Mesh Triangle Normals
 order: 15
 ---
 ## Navigation

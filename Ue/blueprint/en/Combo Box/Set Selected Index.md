@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Index
+title: Set Selected Index
 order: 12
 ---
 ## Navigation

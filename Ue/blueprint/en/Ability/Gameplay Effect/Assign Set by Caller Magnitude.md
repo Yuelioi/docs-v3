@@ -1,5 +1,5 @@
 ---
-display_name: Assign Set by Caller Magnitude
+title: Assign Set by Caller Magnitude
 order: 6
 ---
 ## Navigation

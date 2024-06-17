@@ -1,5 +1,5 @@
 ---
-display_name: Export Data Table to CSV File
+title: Export Data Table to CSV File
 order: 2
 ---
 ## Navigation

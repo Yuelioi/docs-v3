@@ -1,5 +1,5 @@
 ---
-display_name: pcclose
+title: pcclose
 order: 4
 ---
 `void  pcclose(int &handle)`

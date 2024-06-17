@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Entries in Source Effect Chain
+title: Get Number Of Entries in Source Effect Chain
 order: 11
 ---
 ## Navigation

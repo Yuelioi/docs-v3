@@ -1,5 +1,5 @@
 ---
-display_name: Get SlateFXSubsystem
+title: Get SlateFXSubsystem
 order: 41
 ---
 ## Navigation

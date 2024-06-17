@@ -1,5 +1,5 @@
 ---
-display_name: Is Hovered
+title: Is Hovered
 order: 12
 ---
 ## Navigation

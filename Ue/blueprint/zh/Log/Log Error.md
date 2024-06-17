@@ -1,5 +1,5 @@
 ---
-display_name: Log Error
+title: Log Error
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Animation Notify Track
+title: Add Animation Notify Track
 order: 1
 ---
 ## Navigation

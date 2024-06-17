@@ -1,5 +1,5 @@
 ---
-display_name: Set to Defaults
+title: Set to Defaults
 order: 138
 ---
 ## Navigation

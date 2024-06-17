@@ -1,5 +1,5 @@
 ---
-display_name: Set Ies Brightness Scale
+title: Set Ies Brightness Scale
 order: 115
 ---
 ## Navigation

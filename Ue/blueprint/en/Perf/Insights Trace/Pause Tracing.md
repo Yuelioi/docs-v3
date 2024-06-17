@@ -1,5 +1,5 @@
 ---
-display_name: Pause Tracing
+title: Pause Tracing
 order: 5
 ---
 ## Navigation

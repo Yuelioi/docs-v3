@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Float History Transform
+title: Draw Debug Float History Transform
 order: 11
 ---
 ## Navigation

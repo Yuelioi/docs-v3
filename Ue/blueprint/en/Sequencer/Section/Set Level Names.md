@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Names
+title: Set Level Names
 order: 85
 ---
 ## Navigation

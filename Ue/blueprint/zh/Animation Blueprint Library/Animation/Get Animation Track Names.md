@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Track Names
+title: Get Animation Track Names
 order: 2
 ---
 ## Navigation

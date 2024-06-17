@@ -1,5 +1,5 @@
 ---
-display_name: Can Delete Element
+title: Can Delete Element
 order: 2
 ---
 ## Navigation

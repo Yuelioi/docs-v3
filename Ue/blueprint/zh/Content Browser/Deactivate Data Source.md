@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Data Source
+title: Deactivate Data Source
 order: 5
 ---
 ## Navigation

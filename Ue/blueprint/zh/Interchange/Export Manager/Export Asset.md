@@ -1,5 +1,5 @@
 ---
-display_name: Export Asset
+title: Export Asset
 order: 1
 ---
 ## Navigation

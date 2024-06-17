@@ -1,5 +1,5 @@
 ---
-display_name: Copy Bindings
+title: Copy Bindings
 order: 8
 ---
 ## Navigation

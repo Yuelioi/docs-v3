@@ -1,5 +1,5 @@
 ---
-display_name: Compact Material IDs
+title: Compact Material IDs
 order: 2
 ---
 ## Navigation

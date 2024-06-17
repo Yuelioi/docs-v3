@@ -1,5 +1,5 @@
 ---
-display_name: Key
+title: Key
 order: 6
 ---
 

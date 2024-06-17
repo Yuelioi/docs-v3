@@ -1,5 +1,5 @@
 ---
-display_name: usd_metadatalen
+title: usd_metadatalen
 order: 94
 ---
 | Since | 18.0 |

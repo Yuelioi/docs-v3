@@ -1,5 +1,5 @@
 ---
-display_name: On Connected to Signalling Server
+title: On Connected to Signalling Server
 order: 3
 ---
 ## Navigation

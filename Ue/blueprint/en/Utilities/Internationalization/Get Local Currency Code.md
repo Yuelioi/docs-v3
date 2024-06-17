@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Currency Code
+title: Get Local Currency Code
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Connection Map
+title: Get Input Connection Map
 order: 78
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Variable Node from Binding
+title: Make Variable Node from Binding
 order: 70
 ---
 ## Navigation

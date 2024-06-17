@@ -1,5 +1,5 @@
 ---
-display_name: Set Int 32Array Metadata
+title: Set Int 32Array Metadata
 order: 147
 ---
 ## Navigation

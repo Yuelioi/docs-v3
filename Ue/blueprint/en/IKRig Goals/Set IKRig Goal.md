@@ -1,5 +1,5 @@
 ---
-display_name: Set IKRig Goal
+title: Set IKRig Goal
 order: 6
 ---
 ## Navigation

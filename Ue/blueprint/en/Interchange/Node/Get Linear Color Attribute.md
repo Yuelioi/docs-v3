@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Color Attribute
+title: Get Linear Color Attribute
 order: 34
 ---
 ## Navigation

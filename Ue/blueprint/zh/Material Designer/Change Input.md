@@ -1,5 +1,5 @@
 ---
-display_name: Change Input
+title: Change Input
 order: 20
 ---
 ## Navigation

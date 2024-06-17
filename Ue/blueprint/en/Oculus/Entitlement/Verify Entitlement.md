@@ -1,5 +1,5 @@
 ---
-display_name: Verify Entitlement
+title: Verify Entitlement
 order: 1
 ---
 ## Navigation

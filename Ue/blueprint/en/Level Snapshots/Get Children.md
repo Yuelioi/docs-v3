@@ -1,5 +1,5 @@
 ---
-display_name: Get Children
+title: Get Children
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Split Mesh Bowties
+title: Split Mesh Bowties
 order: 8
 ---
 ## Navigation

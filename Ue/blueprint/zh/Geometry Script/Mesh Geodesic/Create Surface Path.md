@@ -1,5 +1,5 @@
 ---
-display_name: Create Surface Path
+title: Create Surface Path
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 复合运算
+title: 复合运算
 order: 6
 ---
 

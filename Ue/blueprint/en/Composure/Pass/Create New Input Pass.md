@@ -1,5 +1,5 @@
 ---
-display_name: Create New Input Pass
+title: Create New Input Pass
 order: 1
 ---
 ## Navigation

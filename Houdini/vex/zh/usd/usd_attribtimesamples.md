@@ -1,5 +1,5 @@
 ---
-display_name: usd_attribtimesamples
+title: usd_attribtimesamples
 order: 21
 ---
 | Since | 18.0 |

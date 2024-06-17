@@ -1,5 +1,5 @@
 ---
-display_name: Bitwise NOT
+title: Bitwise NOT
 order: 4
 ---
 ## Navigation

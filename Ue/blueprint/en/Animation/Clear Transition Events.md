@@ -1,5 +1,5 @@
 ---
-display_name: Clear Transition Events
+title: Clear Transition Events
 order: 11
 ---
 ## Navigation

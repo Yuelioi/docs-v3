@@ -1,5 +1,5 @@
 ---
-display_name: 设置遮罩
+title: 设置遮罩
 order: 11
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Landscape Import Weightmap from RenderTarget
+title: Landscape Import Weightmap from RenderTarget
 order: 9
 ---
 ## Navigation

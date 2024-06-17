@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color to All Points
+title: Apply Color to All Points
 order: 2
 ---
 ## Navigation

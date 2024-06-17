@@ -1,5 +1,5 @@
 ---
-display_name: Set All Physics Angular Velocity in Degrees
+title: Set All Physics Angular Velocity in Degrees
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Crumble Cluster
+title: Crumble Cluster
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Matrix Array
+title: Niagara Get Matrix Array
 order: 41
 ---
 ## Navigation

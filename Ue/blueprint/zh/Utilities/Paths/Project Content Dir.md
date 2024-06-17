@@ -1,5 +1,5 @@
 ---
-display_name: Project Content Dir
+title: Project Content Dir
 order: 68
 ---
 ## Navigation

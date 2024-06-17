@@ -1,5 +1,5 @@
 ---
-display_name: Add or Remove Multiple Smart Objects
+title: Add or Remove Multiple Smart Objects
 order: 5
 ---
 ## Navigation

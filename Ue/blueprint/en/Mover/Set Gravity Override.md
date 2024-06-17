@@ -1,5 +1,5 @@
 ---
-display_name: Set Gravity Override
+title: Set Gravity Override
 order: 27
 ---
 ## Navigation

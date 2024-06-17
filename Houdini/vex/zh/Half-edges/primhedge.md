@@ -1,5 +1,5 @@
 ---
-display_name: primhedge
+title: primhedge
 order: 21
 ---
 `int  primhedge(<geometry>geometry, int prim)`

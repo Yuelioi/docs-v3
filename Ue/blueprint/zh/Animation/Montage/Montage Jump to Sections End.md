@@ -1,5 +1,5 @@
 ---
-display_name: Montage Jump to Sections End
+title: Montage Jump to Sections End
 order: 16
 ---
 ## Navigation

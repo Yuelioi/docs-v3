@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Gameplay Effect Stack Change
+title: Wait for Gameplay Effect Stack Change
 order: 53
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Canvas
+title: Add Child to Canvas
 order: 1
 ---
 ## Navigation

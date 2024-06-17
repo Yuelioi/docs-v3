@@ -1,5 +1,5 @@
 ---
-display_name: Get Age Update Mode
+title: Get Age Update Mode
 order: 6
 ---
 ## Navigation

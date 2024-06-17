@@ -1,5 +1,5 @@
 ---
-display_name: Set Low Pass Filter
+title: Set Low Pass Filter
 order: 15
 ---
 ## Navigation

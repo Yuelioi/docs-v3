@@ -1,5 +1,5 @@
 ---
-display_name: On Post State Changed
+title: On Post State Changed
 order: 4
 ---
 ## Navigation

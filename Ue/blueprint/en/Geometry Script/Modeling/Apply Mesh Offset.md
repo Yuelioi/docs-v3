@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Offset
+title: Apply Mesh Offset
 order: 7
 ---
 ## Navigation

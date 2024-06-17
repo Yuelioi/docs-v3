@@ -1,5 +1,5 @@
 ---
-display_name: volumeindexorigin
+title: volumeindexorigin
 order: 8
 ---
 `vector  volumeindexorigin(<geometry>geometry, int primnum)`

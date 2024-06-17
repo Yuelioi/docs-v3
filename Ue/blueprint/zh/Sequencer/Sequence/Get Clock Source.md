@@ -1,5 +1,5 @@
 ---
-display_name: Get Clock Source
+title: Get Clock Source
 order: 28
 ---
 ## Navigation

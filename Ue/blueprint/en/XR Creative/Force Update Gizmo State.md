@@ -1,5 +1,5 @@
 ---
-display_name: Force Update Gizmo State
+title: Force Update Gizmo State
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Renderer Instance
+title: Get Renderer Instance
 order: 45
 ---
 ## Navigation

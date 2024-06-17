@@ -1,5 +1,5 @@
 ---
-display_name: Delete Clock by Handle
+title: Delete Clock by Handle
 order: 2
 ---
 ## Navigation

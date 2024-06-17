@@ -1,5 +1,5 @@
 ---
-display_name: Get Accumulated Time
+title: Get Accumulated Time
 order: 1
 ---
 ## Navigation

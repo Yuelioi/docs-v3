@@ -1,5 +1,5 @@
 ---
-display_name: Clear OSC Bundle
+title: Clear OSC Bundle
 order: 14
 ---
 ## Navigation

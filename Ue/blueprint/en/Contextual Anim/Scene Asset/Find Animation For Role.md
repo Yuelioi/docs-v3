@@ -1,5 +1,5 @@
 ---
-display_name: Find Animation For Role
+title: Find Animation For Role
 order: 4
 ---
 ## Navigation

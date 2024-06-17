@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Loaded Asset
+title: Duplicate Loaded Asset
 order: 18
 ---
 ## Navigation

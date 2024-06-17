@@ -1,5 +1,5 @@
 ---
-display_name: Lens Distortion
+title: Lens Distortion
 order: 7
 ---
 ## Navigation

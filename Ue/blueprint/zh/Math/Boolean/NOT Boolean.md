@@ -1,5 +1,5 @@
 ---
-display_name: NOT Boolean
+title: NOT Boolean
 order: 5
 ---
 ## Navigation

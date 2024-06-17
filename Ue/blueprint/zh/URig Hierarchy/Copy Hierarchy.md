@@ -1,5 +1,5 @@
 ---
-display_name: Copy Hierarchy
+title: Copy Hierarchy
 order: 2
 ---
 ## Navigation

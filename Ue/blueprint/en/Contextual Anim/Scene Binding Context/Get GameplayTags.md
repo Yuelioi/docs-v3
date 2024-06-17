@@ -1,5 +1,5 @@
 ---
-display_name: Get GameplayTags
+title: Get GameplayTags
 order: 2
 ---
 ## Navigation

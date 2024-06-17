@@ -1,5 +1,5 @@
 ---
-display_name: Set Retarget Chain Goal
+title: Set Retarget Chain Goal
 order: 44
 ---
 ## Navigation

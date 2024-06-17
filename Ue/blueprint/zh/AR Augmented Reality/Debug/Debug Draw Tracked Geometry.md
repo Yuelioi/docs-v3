@@ -1,5 +1,5 @@
 ---
-display_name: Debug Draw Tracked Geometry
+title: Debug Draw Tracked Geometry
 order: 2
 ---
 ## Navigation

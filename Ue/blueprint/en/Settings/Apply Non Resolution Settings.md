@@ -1,5 +1,5 @@
 ---
-display_name: Apply Non Resolution Settings
+title: Apply Non Resolution Settings
 order: 12
 ---
 ## Navigation

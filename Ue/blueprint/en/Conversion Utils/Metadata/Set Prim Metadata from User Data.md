@@ -1,5 +1,5 @@
 ---
-display_name: Set Prim Metadata from User Data
+title: Set Prim Metadata from User Data
 order: 4
 ---
 ## Navigation

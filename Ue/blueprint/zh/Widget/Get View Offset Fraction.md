@@ -1,5 +1,5 @@
 ---
-display_name: Get View Offset Fraction
+title: Get View Offset Fraction
 order: 42
 ---
 ## Navigation

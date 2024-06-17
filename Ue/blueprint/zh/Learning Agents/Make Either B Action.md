@@ -1,5 +1,5 @@
 ---
-display_name: Make Either B Action
+title: Make Either B Action
 order: 179
 ---
 ## Navigation

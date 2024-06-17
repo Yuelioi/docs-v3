@@ -1,5 +1,5 @@
 ---
-display_name: Is Streaming
+title: Is Streaming
 order: 14
 ---
 ## Navigation

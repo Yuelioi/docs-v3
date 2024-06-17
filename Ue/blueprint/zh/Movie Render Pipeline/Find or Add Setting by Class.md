@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Setting by Class
+title: Find or Add Setting by Class
 order: 17
 ---
 ## Navigation

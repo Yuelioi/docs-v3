@@ -1,5 +1,5 @@
 ---
-display_name: Break Frame Rate
+title: Break Frame Rate
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Triangle to Mesh
+title: Add Triangle to Mesh
 order: 1
 ---
 ## Navigation

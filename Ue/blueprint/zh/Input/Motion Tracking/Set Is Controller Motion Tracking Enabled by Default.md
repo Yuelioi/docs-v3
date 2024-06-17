@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Controller Motion Tracking Enabled by Default
+title: Set Is Controller Motion Tracking Enabled by Default
 order: 16
 ---
 ## Navigation

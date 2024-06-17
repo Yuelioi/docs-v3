@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Actor from Class
+title: Spawn Actor from Class
 order: 51
 ---
 ## Navigation

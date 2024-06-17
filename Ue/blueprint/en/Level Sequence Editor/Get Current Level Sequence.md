@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Level Sequence
+title: Get Current Level Sequence
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Point Attributes
+title: Set Point Attributes
 order: 85
 ---
 ## Navigation

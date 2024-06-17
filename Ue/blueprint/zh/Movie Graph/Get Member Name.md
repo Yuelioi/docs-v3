@@ -1,5 +1,5 @@
 ---
-display_name: Get Member Name
+title: Get Member Name
 order: 34
 ---
 ## Navigation

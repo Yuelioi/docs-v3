@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Advanced Features
+title: Set Enable Advanced Features
 order: 14
 ---
 ## Navigation

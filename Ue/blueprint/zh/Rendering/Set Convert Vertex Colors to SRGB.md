@@ -1,5 +1,5 @@
 ---
-display_name: Set Convert Vertex Colors to SRGB
+title: Set Convert Vertex Colors to SRGB
 order: 25
 ---
 ## Navigation

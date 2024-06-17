@@ -1,5 +1,5 @@
 ---
-display_name: Set Allowlist Clients Enabled
+title: Set Allowlist Clients Enabled
 order: 68
 ---
 ## Navigation

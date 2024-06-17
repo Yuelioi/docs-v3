@@ -1,5 +1,5 @@
 ---
-display_name: Convert Material Overrides
+title: Convert Material Overrides
 order: 1
 ---
 ## Navigation

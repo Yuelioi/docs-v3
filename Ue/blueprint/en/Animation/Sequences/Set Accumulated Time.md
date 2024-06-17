@@ -1,5 +1,5 @@
 ---
-display_name: Set Accumulated Time
+title: Set Accumulated Time
 order: 10
 ---
 ## Navigation

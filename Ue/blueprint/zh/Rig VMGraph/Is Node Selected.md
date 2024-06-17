@@ -1,5 +1,5 @@
 ---
-display_name: Is Node Selected
+title: Is Node Selected
 order: 28
 ---
 ## Navigation

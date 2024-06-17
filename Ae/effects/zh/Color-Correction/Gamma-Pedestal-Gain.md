@@ -1,5 +1,5 @@
 ---
-display_name: 灰度系数 基值 增益
+title: 灰度系数 基值 增益
 order: 22
 ---
 

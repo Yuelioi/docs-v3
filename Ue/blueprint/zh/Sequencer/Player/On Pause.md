@@ -1,5 +1,5 @@
 ---
-display_name: On Pause
+title: On Pause
 order: 26
 ---
 ## Navigation

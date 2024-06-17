@@ -1,5 +1,5 @@
 ---
-display_name: Is Named Resolution Valid
+title: Is Named Resolution Valid
 order: 56
 ---
 ## Navigation

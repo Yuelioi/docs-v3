@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Num
+title: Get Point Num
 order: 2
 ---
 ## Navigation

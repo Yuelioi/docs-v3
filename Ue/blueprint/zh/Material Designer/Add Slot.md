@@ -1,5 +1,5 @@
 ---
-display_name: Add Slot
+title: Add Slot
 order: 5
 ---
 ## Navigation

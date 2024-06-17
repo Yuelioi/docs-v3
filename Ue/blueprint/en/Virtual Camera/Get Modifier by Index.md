@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifier by Index
+title: Get Modifier by Index
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: XRPlay Area Changed Delegate
+title: XRPlay Area Changed Delegate
 order: 210
 ---
 ## Navigation

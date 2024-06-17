@@ -1,5 +1,5 @@
 ---
-display_name: Max Of Float Array
+title: Max Of Float Array
 order: 25
 ---
 ## Navigation

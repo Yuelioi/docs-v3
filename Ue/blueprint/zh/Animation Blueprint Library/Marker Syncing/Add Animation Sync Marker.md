@@ -1,5 +1,5 @@
 ---
-display_name: Add Animation Sync Marker
+title: Add Animation Sync Marker
 order: 1
 ---
 ## Navigation

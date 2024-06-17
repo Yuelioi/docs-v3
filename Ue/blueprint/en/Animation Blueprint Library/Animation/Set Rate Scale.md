@@ -1,5 +1,5 @@
 ---
-display_name: Set Rate Scale
+title: Set Rate Scale
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: refractlight
+title: refractlight
 order: 64
 ---
 | On this page | * [Light inclusion/exclusion options](#light-inclusion-exclusion-options) * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) * [Examples](#examples) |

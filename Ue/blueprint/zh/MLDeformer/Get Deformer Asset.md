@@ -1,5 +1,5 @@
 ---
-display_name: Get Deformer Asset
+title: Get Deformer Asset
 order: 3
 ---
 ## Navigation

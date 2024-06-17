@@ -1,5 +1,5 @@
 ---
-display_name: Get All Input Devices for User
+title: Get All Input Devices for User
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Mouse Position on Viewport
+title: Get Mouse Position on Viewport
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: project 项目对象
+title: project 项目对象
 order: 4
 ---
 

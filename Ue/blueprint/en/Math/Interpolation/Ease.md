@@ -1,5 +1,5 @@
 ---
-display_name: Ease
+title: Ease
 order: 1
 ---
 ## Navigation

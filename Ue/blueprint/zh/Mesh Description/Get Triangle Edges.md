@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Edges
+title: Get Triangle Edges
 order: 51
 ---
 ## Navigation

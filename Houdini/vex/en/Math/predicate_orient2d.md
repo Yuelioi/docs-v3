@@ -1,5 +1,5 @@
 ---
-display_name: predicate_orient2d
+title: predicate_orient2d
 order: 56
 ---
 `float  predicate_orient2d(vector2 a, vector2 b, vector2 c)`

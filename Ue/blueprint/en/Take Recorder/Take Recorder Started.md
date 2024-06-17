@@ -1,5 +1,5 @@
 ---
-display_name: Take Recorder Started
+title: Take Recorder Started
 order: 31
 ---
 ## Navigation

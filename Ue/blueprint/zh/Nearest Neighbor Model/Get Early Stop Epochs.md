@@ -1,5 +1,5 @@
 ---
-display_name: Get Early Stop Epochs
+title: Get Early Stop Epochs
 order: 6
 ---
 ## Navigation

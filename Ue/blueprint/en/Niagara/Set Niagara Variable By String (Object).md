@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Object)
+title: Set Niagara Variable By String (Object)
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: World Extents to Landmass Coordinates
+title: World Extents to Landmass Coordinates
 order: 15
 ---
 ## Navigation

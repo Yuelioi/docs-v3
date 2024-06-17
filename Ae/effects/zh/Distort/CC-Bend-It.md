@@ -1,5 +1,5 @@
 ---
-display_name: CC弯曲
+title: CC弯曲
 order: 3
 ---
 

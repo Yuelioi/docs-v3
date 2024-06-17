@@ -1,5 +1,5 @@
 ---
-display_name: Add to Player Screen
+title: Add to Player Screen
 order: 1
 ---
 ## Navigation

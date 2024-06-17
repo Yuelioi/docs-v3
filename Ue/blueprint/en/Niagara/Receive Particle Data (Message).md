@@ -1,5 +1,5 @@
 ---
-display_name: Receive Particle Data (Message)
+title: Receive Particle Data (Message)
 order: 3
 ---
 ## Navigation

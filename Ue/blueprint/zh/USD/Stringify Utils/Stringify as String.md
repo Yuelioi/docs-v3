@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as String
+title: Stringify as String
 order: 53
 ---
 ## Navigation

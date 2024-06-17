@@ -1,5 +1,5 @@
 ---
-display_name: cross
+title: cross
 order: 15
 ---
 `vector  cross(vector a, vector b)`

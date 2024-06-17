@@ -1,5 +1,5 @@
 ---
-display_name: Normalize Vertex Weights
+title: Normalize Vertex Weights
 order: 4
 ---
 ## Navigation

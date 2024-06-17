@@ -1,5 +1,5 @@
 ---
-display_name: AME 编码器对象
+title: AME 编码器对象
 order: 1
 ---
 

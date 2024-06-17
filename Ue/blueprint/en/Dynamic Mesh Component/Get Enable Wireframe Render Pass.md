@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable Wireframe Render Pass
+title: Get Enable Wireframe Render Pass
 order: 7
 ---
 ## Navigation

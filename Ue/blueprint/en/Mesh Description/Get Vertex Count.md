@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Count
+title: Get Vertex Count
 order: 61
 ---
 ## Navigation

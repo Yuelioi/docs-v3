@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Transform
+title: Make Control Value from Transform
 order: 108
 ---
 ## Navigation

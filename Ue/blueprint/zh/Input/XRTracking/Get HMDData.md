@@ -1,5 +1,5 @@
 ---
-display_name: Get HMDData
+title: Get HMDData
 order: 9
 ---
 ## Navigation

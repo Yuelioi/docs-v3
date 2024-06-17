@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Video Render Song Pos
+title: Get Current Video Render Song Pos
 order: 18
 ---
 ## Navigation

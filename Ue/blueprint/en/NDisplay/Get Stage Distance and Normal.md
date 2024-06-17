@@ -1,5 +1,5 @@
 ---
-display_name: Get Stage Distance and Normal
+title: Get Stage Distance and Normal
 order: 6
 ---
 ## Navigation

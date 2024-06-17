@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Bool At Index
+title: Get OSC Message Bool At Index
 order: 36
 ---
 ## Navigation

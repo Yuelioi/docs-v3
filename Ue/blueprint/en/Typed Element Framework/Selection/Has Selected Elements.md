@@ -1,5 +1,5 @@
 ---
-display_name: Has Selected Elements
+title: Has Selected Elements
 order: 19
 ---
 ## Navigation

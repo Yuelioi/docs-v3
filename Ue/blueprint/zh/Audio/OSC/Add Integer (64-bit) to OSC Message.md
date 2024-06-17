@@ -1,5 +1,5 @@
 ---
-display_name: Add Integer (64-bit) to OSC Message
+title: Add Integer (64-bit) to OSC Message
 order: 5
 ---
 ## Navigation

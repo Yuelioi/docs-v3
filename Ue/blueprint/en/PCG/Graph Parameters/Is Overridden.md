@@ -1,5 +1,5 @@
 ---
-display_name: Is Overridden
+title: Is Overridden
 order: 21
 ---
 ## Navigation

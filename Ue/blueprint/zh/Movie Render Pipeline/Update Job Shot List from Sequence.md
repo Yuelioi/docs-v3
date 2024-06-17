@@ -1,5 +1,5 @@
 ---
-display_name: Update Job Shot List from Sequence
+title: Update Job Shot List from Sequence
 order: 30
 ---
 ## Navigation

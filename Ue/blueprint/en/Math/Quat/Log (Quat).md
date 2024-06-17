@@ -1,5 +1,5 @@
 ---
-display_name: Log (Quat)
+title: Log (Quat)
 order: 17
 ---
 ## Navigation

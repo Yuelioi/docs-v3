@@ -1,5 +1,5 @@
 ---
-display_name: Add Int 32Attribute
+title: Add Int 32Attribute
 order: 7
 ---
 ## Navigation

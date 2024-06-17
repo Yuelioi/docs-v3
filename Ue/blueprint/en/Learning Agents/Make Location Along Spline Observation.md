@@ -1,5 +1,5 @@
 ---
-display_name: Make Location Along Spline Observation
+title: Make Location Along Spline Observation
 order: 201
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Num Basis
+title: Get Total Num Basis
 order: 18
 ---
 ## Navigation

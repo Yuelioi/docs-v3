@@ -1,5 +1,5 @@
 ---
-display_name: On Component Wake
+title: On Component Wake
 order: 66
 ---
 ## Navigation

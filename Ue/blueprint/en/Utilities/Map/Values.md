@@ -1,5 +1,5 @@
 ---
-display_name: Values
+title: Values
 order: 11
 ---
 ## Navigation

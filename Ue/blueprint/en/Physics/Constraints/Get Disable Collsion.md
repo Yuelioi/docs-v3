@@ -1,5 +1,5 @@
 ---
-display_name: Get Disable Collsion
+title: Get Disable Collsion
 order: 18
 ---
 ## Navigation

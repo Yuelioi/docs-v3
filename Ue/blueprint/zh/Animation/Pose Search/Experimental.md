@@ -1,5 +1,5 @@
 ---
-display_name: Experimental
+title: Experimental
 order: 1
 ---
 ## Navigation

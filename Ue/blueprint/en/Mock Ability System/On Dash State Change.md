@@ -1,5 +1,5 @@
 ---
-display_name: On Dash State Change
+title: On Dash State Change
 order: 9
 ---
 ## Navigation

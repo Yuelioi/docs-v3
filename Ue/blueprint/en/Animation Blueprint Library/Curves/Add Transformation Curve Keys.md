@@ -1,5 +1,5 @@
 ---
-display_name: Add Transformation Curve Keys
+title: Add Transformation Curve Keys
 order: 5
 ---
 ## Navigation

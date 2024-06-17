@@ -1,5 +1,5 @@
 ---
-display_name: Max (Float)
+title: Max (Float)
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: mx_perlin
+title: mx_perlin
 order: 20
 ---
 `float|vector mx_perlin(vector2 pos)`

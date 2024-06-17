@@ -1,5 +1,5 @@
 ---
-display_name: Can Paste Prims
+title: Can Paste Prims
 order: 1
 ---
 ## Navigation

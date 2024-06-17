@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Canvas
+title: Get Default Canvas
 order: 13
 ---
 ## Navigation

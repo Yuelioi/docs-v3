@@ -1,5 +1,5 @@
 ---
-display_name: Has Iris Encoder Mapping
+title: Has Iris Encoder Mapping
 order: 20
 ---
 ## Navigation

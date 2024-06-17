@@ -1,5 +1,5 @@
 ---
-display_name: Is Identity (Quat)
+title: Is Identity (Quat)
 order: 14
 ---
 ## Navigation

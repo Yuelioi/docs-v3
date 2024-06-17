@@ -1,5 +1,5 @@
 ---
-display_name: XRInteraction Profile Changed Delegate
+title: XRInteraction Profile Changed Delegate
 order: 209
 ---
 ## Navigation

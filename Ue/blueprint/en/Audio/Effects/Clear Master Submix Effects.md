@@ -1,5 +1,5 @@
 ---
-display_name: Clear Master Submix Effects
+title: Clear Master Submix Effects
 order: 6
 ---
 ## Navigation

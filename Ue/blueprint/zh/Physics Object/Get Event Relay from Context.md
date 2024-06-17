@@ -1,5 +1,5 @@
 ---
-display_name: Get Event Relay from Context
+title: Get Event Relay from Context
 order: 4
 ---
 ## Navigation

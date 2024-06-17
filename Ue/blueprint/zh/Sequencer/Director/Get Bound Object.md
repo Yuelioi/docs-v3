@@ -1,5 +1,5 @@
 ---
-display_name: Get Bound Object
+title: Get Bound Object
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Relevancy
+title: Set Navigation Relevancy
 order: 41
 ---
 ## Navigation

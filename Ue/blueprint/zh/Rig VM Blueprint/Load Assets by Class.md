@@ -1,5 +1,5 @@
 ---
-display_name: Load Assets by Class
+title: Load Assets by Class
 order: 4
 ---
 ## Navigation

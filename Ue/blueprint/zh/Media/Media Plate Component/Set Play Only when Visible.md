@@ -1,5 +1,5 @@
 ---
-display_name: Set Play Only when Visible
+title: Set Play Only when Visible
 order: 15
 ---
 ## Navigation

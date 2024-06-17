@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Pages
+title: Set Num Pages
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Import Scenes
+title: Import Scenes
 order: 45
 ---
 ## Navigation

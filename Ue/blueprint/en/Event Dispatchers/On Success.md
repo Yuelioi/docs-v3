@@ -1,5 +1,5 @@
 ---
-display_name: On Success
+title: On Success
 order: 161
 ---
 ## Navigation

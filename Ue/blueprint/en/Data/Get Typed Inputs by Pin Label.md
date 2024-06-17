@@ -1,5 +1,5 @@
 ---
-display_name: Get Typed Inputs by Pin Label
+title: Get Typed Inputs by Pin Label
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: relbbox
+title: relbbox
 order: 15
 ---
 `vector  relbbox(<geometry>geometry, vector position)`

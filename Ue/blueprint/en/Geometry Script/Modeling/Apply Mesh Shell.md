@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Shell
+title: Apply Mesh Shell
 order: 8
 ---
 ## Navigation

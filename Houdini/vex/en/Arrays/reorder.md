@@ -1,5 +1,5 @@
 ---
-display_name: reorder
+title: reorder
 order: 12
 ---
 `string  reorder(string value, int indices[])`

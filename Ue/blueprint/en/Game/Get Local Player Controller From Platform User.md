@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Player Controller From Platform User
+title: Get Local Player Controller From Platform User
 order: 28
 ---
 ## Navigation

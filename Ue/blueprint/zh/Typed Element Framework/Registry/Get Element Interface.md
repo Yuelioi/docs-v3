@@ -1,5 +1,5 @@
 ---
-display_name: Get Element Interface
+title: Get Element Interface
 order: 3
 ---
 ## Navigation

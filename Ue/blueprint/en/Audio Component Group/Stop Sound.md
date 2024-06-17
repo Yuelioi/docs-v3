@@ -1,5 +1,5 @@
 ---
-display_name: Stop Sound
+title: Stop Sound
 order: 19
 ---
 ## Navigation

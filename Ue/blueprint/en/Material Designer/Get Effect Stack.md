@@ -1,5 +1,5 @@
 ---
-display_name: Get Effect Stack
+title: Get Effect Stack
 order: 68
 ---
 ## Navigation

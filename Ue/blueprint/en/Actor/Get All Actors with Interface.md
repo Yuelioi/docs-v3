@@ -1,5 +1,5 @@
 ---
-display_name: Get All Actors with Interface
+title: Get All Actors with Interface
 order: 11
 ---
 ## Navigation

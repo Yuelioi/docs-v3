@@ -1,5 +1,5 @@
 ---
-display_name: Is Capturing Audio
+title: Is Capturing Audio
 order: 3
 ---
 ## Navigation

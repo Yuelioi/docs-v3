@@ -1,5 +1,5 @@
 ---
-display_name: sssapprox
+title: sssapprox
 order: 23
 ---
 `bsdf  sssapprox(vector albedo, float meanFreePath, float roughness, float scale, ...)`

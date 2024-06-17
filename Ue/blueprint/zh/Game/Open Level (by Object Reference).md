@@ -1,5 +1,5 @@
 ---
-display_name: Open Level (by Object Reference)
+title: Open Level (by Object Reference)
 order: 5
 ---
 ## Navigation

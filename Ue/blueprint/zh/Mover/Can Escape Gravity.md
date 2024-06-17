@@ -1,5 +1,5 @@
 ---
-display_name: Can Escape Gravity
+title: Can Escape Gravity
 order: 3
 ---
 ## Navigation

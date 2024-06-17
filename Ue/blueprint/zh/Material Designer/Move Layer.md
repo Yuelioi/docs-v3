@@ -1,5 +1,5 @@
 ---
-display_name: Move Layer
+title: Move Layer
 order: 185
 ---
 ## Navigation

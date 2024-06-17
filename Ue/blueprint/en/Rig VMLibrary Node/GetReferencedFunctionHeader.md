@@ -1,5 +1,5 @@
 ---
-display_name: GetReferencedFunctionHeader
+title: GetReferencedFunctionHeader
 order: 3
 ---
 ## Navigation

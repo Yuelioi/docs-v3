@@ -1,5 +1,5 @@
 ---
-display_name: Watch Int Property
+title: Watch Int Property
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (LinearColor)
+title: Set Niagara Variable (LinearColor)
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Initialized
+title: Is Initialized
 order: 5
 ---
 ## Navigation

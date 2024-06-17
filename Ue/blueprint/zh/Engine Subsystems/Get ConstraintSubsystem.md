@@ -1,5 +1,5 @@
 ---
-display_name: Get ConstraintSubsystem
+title: Get ConstraintSubsystem
 order: 12
 ---
 ## Navigation

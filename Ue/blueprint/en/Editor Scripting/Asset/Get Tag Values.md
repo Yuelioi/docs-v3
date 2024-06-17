@@ -1,5 +1,5 @@
 ---
-display_name: Get Tag Values
+title: Get Tag Values
 order: 23
 ---
 ## Navigation

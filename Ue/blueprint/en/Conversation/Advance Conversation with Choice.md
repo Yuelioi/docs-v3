@@ -1,5 +1,5 @@
 ---
-display_name: Advance Conversation with Choice
+title: Advance Conversation with Choice
 order: 2
 ---
 ## Navigation

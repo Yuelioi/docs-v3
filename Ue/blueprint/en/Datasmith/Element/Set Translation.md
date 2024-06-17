@@ -1,5 +1,5 @@
 ---
-display_name: Set Translation
+title: Set Translation
 order: 139
 ---
 ## Navigation

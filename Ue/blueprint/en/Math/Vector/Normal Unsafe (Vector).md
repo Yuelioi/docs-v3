@@ -1,5 +1,5 @@
 ---
-display_name: Normal Unsafe (Vector)
+title: Normal Unsafe (Vector)
 order: 41
 ---
 ## Navigation

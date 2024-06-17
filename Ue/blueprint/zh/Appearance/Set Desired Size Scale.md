@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Size Scale
+title: Set Desired Size Scale
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Scalar Blend
+title: Scalar Blend
 order: 1
 ---
 ## Navigation

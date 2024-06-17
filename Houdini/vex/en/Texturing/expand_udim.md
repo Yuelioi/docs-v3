@@ -1,5 +1,5 @@
 ---
-display_name: expand_udim
+title: expand_udim
 order: 4
 ---
 `string  expand_udim(float u, float v, string path, ...)`

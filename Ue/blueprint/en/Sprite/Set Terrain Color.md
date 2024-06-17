@@ -1,5 +1,5 @@
 ---
-display_name: Set Terrain Color
+title: Set Terrain Color
 order: 34
 ---
 ## Navigation

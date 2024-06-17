@@ -1,5 +1,5 @@
 ---
-display_name: Set Boolean Array Parameter (Message)
+title: Set Boolean Array Parameter (Message)
 order: 13
 ---
 ## Navigation

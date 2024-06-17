@@ -1,5 +1,5 @@
 ---
-display_name: Get Avatar Actor from Actor Info
+title: Get Avatar Actor from Actor Info
 order: 38
 ---
 ## Navigation

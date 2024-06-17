@@ -1,5 +1,5 @@
 ---
-display_name: Get Variant Sets Count
+title: Get Variant Sets Count
 order: 86
 ---
 ## Navigation

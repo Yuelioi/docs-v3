@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformgroups
+title: agenttransformgroups
 order: 43
 ---
 See [Transform Groups](../../crowds/agents.html#xformgroups) for more information.

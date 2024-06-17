@@ -1,5 +1,5 @@
 ---
-display_name: Bake Texture from Render Captures
+title: Bake Texture from Render Captures
 order: 1
 ---
 ## Navigation

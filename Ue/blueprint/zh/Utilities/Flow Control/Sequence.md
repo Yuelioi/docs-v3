@@ -1,5 +1,5 @@
 ---
-display_name: Sequence
+title: Sequence
 order: 7
 ---
 ## Navigation

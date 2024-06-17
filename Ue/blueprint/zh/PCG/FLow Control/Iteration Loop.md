@@ -1,5 +1,5 @@
 ---
-display_name: Iteration Loop
+title: Iteration Loop
 order: 1
 ---
 ## Navigation

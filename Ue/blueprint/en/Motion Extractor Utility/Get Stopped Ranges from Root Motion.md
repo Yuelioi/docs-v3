@@ -1,5 +1,5 @@
 ---
-display_name: Get Stopped Ranges from Root Motion
+title: Get Stopped Ranges from Root Motion
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Scalar List
+title: Clear Scalar List
 order: 3
 ---
 ## Navigation

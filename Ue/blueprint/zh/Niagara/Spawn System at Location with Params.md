@@ -1,5 +1,5 @@
 ---
-display_name: Spawn System at Location with Params
+title: Spawn System at Location with Params
 order: 79
 ---
 ## Navigation

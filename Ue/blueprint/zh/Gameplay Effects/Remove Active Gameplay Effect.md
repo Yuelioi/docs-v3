@@ -1,5 +1,5 @@
 ---
-display_name: Remove Active Gameplay Effect
+title: Remove Active Gameplay Effect
 order: 17
 ---
 ## Navigation

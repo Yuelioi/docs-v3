@@ -1,5 +1,5 @@
 ---
-display_name: Append Actors from Layer
+title: Append Actors from Layer
 order: 10
 ---
 ## Navigation

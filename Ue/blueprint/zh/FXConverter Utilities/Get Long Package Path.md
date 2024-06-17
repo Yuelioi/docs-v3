@@ -1,5 +1,5 @@
 ---
-display_name: Get Long Package Path
+title: Get Long Package Path
 order: 54
 ---
 ## Navigation

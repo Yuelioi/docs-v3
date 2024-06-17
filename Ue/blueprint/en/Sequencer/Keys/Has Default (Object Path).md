@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Object Path)
+title: Has Default (Object Path)
 order: 80
 ---
 ## Navigation

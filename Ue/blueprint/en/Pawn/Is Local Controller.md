@@ -1,5 +1,5 @@
 ---
-display_name: Is Local Controller
+title: Is Local Controller
 order: 12
 ---
 ## Navigation

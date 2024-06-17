@@ -1,5 +1,5 @@
 ---
-display_name: Set Generate Lightmap UVs
+title: Set Generate Lightmap UVs
 order: 36
 ---
 ## Navigation

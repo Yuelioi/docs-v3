@@ -1,5 +1,5 @@
 ---
-display_name: On Session Client Changed
+title: On Session Client Changed
 order: 18
 ---
 ## Navigation

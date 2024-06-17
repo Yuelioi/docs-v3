@@ -1,5 +1,5 @@
 ---
-display_name: Make Exclusive Union Observation
+title: Make Exclusive Union Observation
 order: 189
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Play Length
+title: Get Play Length
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Sprite at Time
+title: Get Sprite at Time
 order: 12
 ---
 ## Navigation

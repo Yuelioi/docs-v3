@@ -1,5 +1,5 @@
 ---
-display_name: Was Cancel Requested
+title: Was Cancel Requested
 order: 3
 ---
 ## Navigation

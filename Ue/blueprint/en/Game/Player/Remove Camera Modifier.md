@@ -1,5 +1,5 @@
 ---
-display_name: Remove Camera Modifier
+title: Remove Camera Modifier
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get HUD
+title: Get HUD
 order: 13
 ---
 ## Navigation

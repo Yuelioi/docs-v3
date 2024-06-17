@@ -1,5 +1,5 @@
 ---
-display_name: pcsampleleaf
+title: pcsampleleaf
 order: 28
 ---
 `void  pcsampleleaf(int handle, float sample)`

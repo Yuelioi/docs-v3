@@ -1,5 +1,5 @@
 ---
-display_name: Num 2
+title: Num 2
 order: 71
 ---
 ## Navigation

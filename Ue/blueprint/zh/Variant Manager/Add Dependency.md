@@ -1,5 +1,5 @@
 ---
-display_name: Add Dependency
+title: Add Dependency
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attached Component
+title: Get Attached Component
 order: 2
 ---
 ## Navigation

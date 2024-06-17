@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Parameter
+title: Get Bool Parameter
 order: 7
 ---
 ## Navigation

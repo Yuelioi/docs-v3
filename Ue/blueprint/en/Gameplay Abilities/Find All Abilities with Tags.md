@@ -1,5 +1,5 @@
 ---
-display_name: Find All Abilities with Tags
+title: Find All Abilities with Tags
 order: 6
 ---
 ## Navigation

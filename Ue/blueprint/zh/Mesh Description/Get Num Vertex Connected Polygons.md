@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Vertex Connected Polygons
+title: Get Num Vertex Connected Polygons
 order: 34
 ---
 ## Navigation

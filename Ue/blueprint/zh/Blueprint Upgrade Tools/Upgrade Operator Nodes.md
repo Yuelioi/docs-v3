@@ -1,5 +1,5 @@
 ---
-display_name: Upgrade Operator Nodes
+title: Upgrade Operator Nodes
 order: 13
 ---
 ## Navigation

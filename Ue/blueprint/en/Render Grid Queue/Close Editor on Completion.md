@@ -1,5 +1,5 @@
 ---
-display_name: Close Editor on Completion
+title: Close Editor on Completion
 order: 3
 ---
 ## Navigation

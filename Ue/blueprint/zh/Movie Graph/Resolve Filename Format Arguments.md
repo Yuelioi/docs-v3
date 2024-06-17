@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Filename Format Arguments
+title: Resolve Filename Format Arguments
 order: 66
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Geometry Mode
+title: Set Geometry Mode
 order: 42
 ---
 ## Navigation

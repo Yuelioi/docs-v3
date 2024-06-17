@@ -1,5 +1,5 @@
 ---
-display_name: Cross Product
+title: Cross Product
 order: 8
 ---
 ## Navigation

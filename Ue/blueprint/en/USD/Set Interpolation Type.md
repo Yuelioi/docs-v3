@@ -1,5 +1,5 @@
 ---
-display_name: Set Interpolation Type
+title: Set Interpolation Type
 order: 12
 ---
 ## Navigation

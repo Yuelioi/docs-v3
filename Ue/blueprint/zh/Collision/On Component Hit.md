@@ -1,5 +1,5 @@
 ---
-display_name: On Component Hit
+title: On Component Hit
 order: 64
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Matches Search Term
+title: Matches Search Term
 order: 29
 ---
 ## Navigation

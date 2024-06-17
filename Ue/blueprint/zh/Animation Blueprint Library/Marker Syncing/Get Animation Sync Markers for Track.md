@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Sync Markers for Track
+title: Get Animation Sync Markers for Track
 order: 2
 ---
 ## Navigation

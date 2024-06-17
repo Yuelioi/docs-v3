@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Widget Geometry
+title: Get Viewport Widget Geometry
 order: 8
 ---
 ## Navigation

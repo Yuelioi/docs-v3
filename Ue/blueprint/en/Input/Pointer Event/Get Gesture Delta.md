@@ -1,5 +1,5 @@
 ---
-display_name: Get Gesture Delta
+title: Get Gesture Delta
 order: 3
 ---
 ## Navigation

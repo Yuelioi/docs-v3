@@ -1,5 +1,5 @@
 ---
-display_name: Get Projection Params
+title: Get Projection Params
 order: 32
 ---
 ## Navigation

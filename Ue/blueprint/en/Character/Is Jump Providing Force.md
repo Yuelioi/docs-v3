@@ -1,5 +1,5 @@
 ---
-display_name: Is Jump Providing Force
+title: Is Jump Providing Force
 order: 7
 ---
 ## Navigation

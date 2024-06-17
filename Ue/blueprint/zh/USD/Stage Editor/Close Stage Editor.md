@@ -1,5 +1,5 @@
 ---
-display_name: Close Stage Editor
+title: Close Stage Editor
 order: 1
 ---
 ## Navigation

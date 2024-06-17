@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Stack Count
+title: Get Active Gameplay Effect Stack Count
 order: 10
 ---
 ## Navigation

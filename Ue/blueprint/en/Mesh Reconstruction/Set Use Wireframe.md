@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Wireframe
+title: Set Use Wireframe
 order: 14
 ---
 ## Navigation

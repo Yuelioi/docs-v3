@@ -1,5 +1,5 @@
 ---
-display_name: Read Bool
+title: Read Bool
 order: 5
 ---
 ## Navigation

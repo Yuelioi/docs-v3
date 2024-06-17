@@ -1,5 +1,5 @@
 ---
-display_name: Set Static Mesh Collision from Component
+title: Set Static Mesh Collision from Component
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bar Color for Curve Value
+title: Get Bar Color for Curve Value
 order: 1
 ---
 ## Navigation

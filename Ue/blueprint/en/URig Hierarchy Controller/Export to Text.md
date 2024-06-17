@@ -1,5 +1,5 @@
 ---
-display_name: Export to Text
+title: Export to Text
 order: 13
 ---
 ## Navigation

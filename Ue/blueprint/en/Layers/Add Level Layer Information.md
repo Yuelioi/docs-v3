@@ -1,5 +1,5 @@
 ---
-display_name: Add Level Layer Information
+title: Add Level Layer Information
 order: 7
 ---
 ## Navigation

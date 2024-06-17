@@ -1,5 +1,5 @@
 ---
-display_name: Asin (Degrees)
+title: Asin (Degrees)
 order: 3
 ---
 ## Navigation

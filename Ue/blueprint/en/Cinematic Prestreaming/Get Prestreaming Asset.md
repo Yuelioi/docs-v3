@@ -1,5 +1,5 @@
 ---
-display_name: Get Prestreaming Asset
+title: Get Prestreaming Asset
 order: 5
 ---
 ## Navigation

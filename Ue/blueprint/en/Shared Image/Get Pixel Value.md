@@ -1,5 +1,5 @@
 ---
-display_name: Get Pixel Value
+title: Get Pixel Value
 order: 3
 ---
 ## Navigation

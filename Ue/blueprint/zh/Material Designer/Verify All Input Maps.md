@@ -1,5 +1,5 @@
 ---
-display_name: Verify All Input Maps
+title: Verify All Input Maps
 order: 246
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Submix Send Settings
+title: Set Submix Send Settings
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Distortion State
+title: Clear Distortion State
 order: 2
 ---
 ## Navigation

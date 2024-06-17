@@ -1,5 +1,5 @@
 ---
-display_name: Capture Niagara Sim Cache Multi Frame
+title: Capture Niagara Sim Cache Multi Frame
 order: 2
 ---
 ## Navigation

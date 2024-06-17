@@ -1,5 +1,5 @@
 ---
-display_name: GetHintText (Multi-Line Text Box)
+title: GetHintText (Multi-Line Text Box)
 order: 46
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Mover Example Ability Inputs
+title: Get Mover Example Ability Inputs
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Fix Actor References
+title: Fix Actor References
 order: 14
 ---
 ## Navigation

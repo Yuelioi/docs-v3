@@ -1,5 +1,5 @@
 ---
-display_name: Pin Component to Trace Result
+title: Pin Component to Trace Result
 order: 6
 ---
 ## Navigation

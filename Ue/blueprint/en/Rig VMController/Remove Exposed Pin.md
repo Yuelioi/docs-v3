@@ -1,5 +1,5 @@
 ---
-display_name: Remove Exposed Pin
+title: Remove Exposed Pin
 order: 83
 ---
 ## Navigation

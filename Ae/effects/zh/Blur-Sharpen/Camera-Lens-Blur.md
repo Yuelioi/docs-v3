@@ -1,5 +1,5 @@
 ---
-display_name: 摄像机镜头模糊
+title: 摄像机镜头模糊
 order: 2
 ---
 

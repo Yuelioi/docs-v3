@@ -1,5 +1,5 @@
 ---
-display_name: DEBUG Clear
+title: DEBUG Clear
 order: 1
 ---
 ## Navigation

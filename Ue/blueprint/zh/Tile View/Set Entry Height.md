@@ -1,5 +1,5 @@
 ---
-display_name: Set Entry Height
+title: Set Entry Height
 order: 3
 ---
 ## Navigation

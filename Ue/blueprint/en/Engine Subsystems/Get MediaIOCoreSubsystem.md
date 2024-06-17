@@ -1,5 +1,5 @@
 ---
-display_name: Get MediaIOCoreSubsystem
+title: Get MediaIOCoreSubsystem
 order: 29
 ---
 ## Navigation

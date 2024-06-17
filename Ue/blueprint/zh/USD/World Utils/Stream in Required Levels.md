@@ -1,5 +1,5 @@
 ---
-display_name: Stream in Required Levels
+title: Stream in Required Levels
 order: 10
 ---
 ## Navigation

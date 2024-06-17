@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform Time Seconds
+title: Get Platform Time Seconds
 order: 9
 ---
 ## Navigation

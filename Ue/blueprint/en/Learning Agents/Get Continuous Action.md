@@ -1,5 +1,5 @@
 ---
-display_name: Get Continuous Action
+title: Get Continuous Action
 order: 47
 ---
 ## Navigation

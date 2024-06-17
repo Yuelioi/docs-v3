@@ -1,5 +1,5 @@
 ---
-display_name: 纹理化
+title: 纹理化
 order: 24
 ---
 

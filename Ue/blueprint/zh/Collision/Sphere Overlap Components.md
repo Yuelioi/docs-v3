@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Overlap Components
+title: Sphere Overlap Components
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor from Layer
+title: Remove Actor from Layer
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Visualizer Sprite Visible
+title: Set Visualizer Sprite Visible
 order: 31
 ---
 ## Navigation

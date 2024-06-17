@@ -1,5 +1,5 @@
 ---
-display_name: Specify Continuous Observation
+title: Specify Continuous Observation
 order: 283
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Asset Native Class
+title: Find Asset Native Class
 order: 1
 ---
 ## Navigation

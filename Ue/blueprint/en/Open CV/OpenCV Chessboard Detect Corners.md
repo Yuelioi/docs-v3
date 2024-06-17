@@ -1,5 +1,5 @@
 ---
-display_name: OpenCV Chessboard Detect Corners
+title: OpenCV Chessboard Detect Corners
 order: 2
 ---
 ## Navigation

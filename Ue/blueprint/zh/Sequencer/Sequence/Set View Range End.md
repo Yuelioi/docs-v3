@@ -1,5 +1,5 @@
 ---
-display_name: Set View Range End
+title: Set View Range End
 order: 104
 ---
 ## Navigation

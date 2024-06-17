@@ -1,5 +1,5 @@
 ---
-display_name: Is Function Graph
+title: Is Function Graph
 order: 30
 ---
 ## Navigation

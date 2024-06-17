@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygons from Path Offset
+title: Create Polygons from Path Offset
 order: 6
 ---
 ## Navigation

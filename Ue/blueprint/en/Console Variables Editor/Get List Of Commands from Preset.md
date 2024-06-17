@@ -1,5 +1,5 @@
 ---
-display_name: Get List Of Commands from Preset
+title: Get List Of Commands from Preset
 order: 7
 ---
 ## Navigation

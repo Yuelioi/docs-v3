@@ -1,5 +1,5 @@
 ---
-display_name: Begin Auto Scrolling
+title: Begin Auto Scrolling
 order: 1
 ---
 ## Navigation

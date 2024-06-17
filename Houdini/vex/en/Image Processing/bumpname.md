@@ -1,5 +1,5 @@
 ---
-display_name: bumpname
+title: bumpname
 order: 4
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

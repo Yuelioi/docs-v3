@@ -1,5 +1,5 @@
 ---
-display_name: Get Learning Rate
+title: Get Learning Rate
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Modifier Names
+title: Get All Modifier Names
 order: 8
 ---
 ## Navigation

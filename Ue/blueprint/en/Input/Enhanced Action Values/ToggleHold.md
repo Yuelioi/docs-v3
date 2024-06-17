@@ -1,5 +1,5 @@
 ---
-display_name: ToggleHold
+title: ToggleHold
 order: 112
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Closest Listener Location
+title: Get Closest Listener Location
 order: 8
 ---
 ## Navigation

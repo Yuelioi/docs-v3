@@ -1,5 +1,5 @@
 ---
-display_name: TriggerBehavior
+title: TriggerBehavior
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Texture UVLink Enabled
+title: Is Texture UVLink Enabled
 order: 180
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Acos (Degrees)
+title: Acos (Degrees)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn System Attached
+title: Spawn System Attached
 order: 78
 ---
 ## Navigation

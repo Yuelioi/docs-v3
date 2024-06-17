@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal, Case Insensitive (Text)
+title: Not Equal, Case Insensitive (Text)
 order: 27
 ---
 ## Navigation

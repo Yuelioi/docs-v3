@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Model
+title: Get Material Model
 order: 94
 ---
 ## Navigation

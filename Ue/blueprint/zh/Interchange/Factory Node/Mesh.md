@@ -1,5 +1,5 @@
 ---
-display_name: Mesh
+title: Mesh
 order: 1
 ---
 ## Navigation

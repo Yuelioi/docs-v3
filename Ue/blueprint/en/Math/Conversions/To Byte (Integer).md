@@ -1,5 +1,5 @@
 ---
-display_name: To Byte (Integer)
+title: To Byte (Integer)
 order: 5
 ---
 ## Navigation

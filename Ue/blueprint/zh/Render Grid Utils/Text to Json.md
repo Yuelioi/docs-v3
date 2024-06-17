@@ -1,5 +1,5 @@
 ---
-display_name: Text to Json
+title: Text to Json
 order: 30
 ---
 ## Navigation

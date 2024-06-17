@@ -1,5 +1,5 @@
 ---
-display_name: Find All Abilities Matching Query
+title: Find All Abilities Matching Query
 order: 4
 ---
 ## Navigation

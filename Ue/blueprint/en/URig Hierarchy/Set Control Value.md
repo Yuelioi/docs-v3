@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Value
+title: Set Control Value
 order: 138
 ---
 ## Navigation

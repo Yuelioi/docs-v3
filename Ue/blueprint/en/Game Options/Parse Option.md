@@ -1,5 +1,5 @@
 ---
-display_name: Parse Option
+title: Parse Option
 order: 4
 ---
 ## Navigation

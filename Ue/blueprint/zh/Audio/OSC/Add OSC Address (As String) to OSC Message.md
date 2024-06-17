@@ -1,5 +1,5 @@
 ---
-display_name: Add OSC Address (As String) to OSC Message
+title: Add OSC Address (As String) to OSC Message
 order: 7
 ---
 ## Navigation

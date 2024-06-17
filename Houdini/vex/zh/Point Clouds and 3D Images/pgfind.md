@@ -1,5 +1,5 @@
 ---
-display_name: pgfind
+title: pgfind
 order: 34
 ---
 `int [] pgfind(<geometry>geometry, vector P, float radius, int maxpoints, float divsize)`

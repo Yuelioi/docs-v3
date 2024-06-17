@@ -1,5 +1,5 @@
 ---
-display_name: Client Set HUD
+title: Client Set HUD
 order: 2
 ---
 ## Navigation

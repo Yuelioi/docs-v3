@@ -1,5 +1,5 @@
 ---
-display_name: Get Optional Observation
+title: Get Optional Observation
 order: 98
 ---
 ## Navigation

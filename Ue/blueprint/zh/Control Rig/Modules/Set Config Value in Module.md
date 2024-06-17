@@ -1,5 +1,5 @@
 ---
-display_name: Set Config Value in Module
+title: Set Config Value in Module
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Cross Product XYZ (Vector4)
+title: Cross Product XYZ (Vector4)
 order: 2
 ---
 ## Navigation

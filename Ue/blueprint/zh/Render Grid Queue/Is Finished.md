@@ -1,5 +1,5 @@
 ---
-display_name: Is Finished
+title: Is Finished
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Register and Execute Task
+title: Register and Execute Task
 order: 1
 ---
 ## Navigation

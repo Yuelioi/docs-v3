@@ -1,5 +1,5 @@
 ---
-display_name: Get Pivot Offset (Message)
+title: Get Pivot Offset (Message)
 order: 23
 ---
 ## Navigation

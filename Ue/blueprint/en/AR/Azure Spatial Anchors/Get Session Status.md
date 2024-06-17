@@ -1,5 +1,5 @@
 ---
-display_name: Get Session Status
+title: Get Session Status
 order: 8
 ---
 ## Navigation

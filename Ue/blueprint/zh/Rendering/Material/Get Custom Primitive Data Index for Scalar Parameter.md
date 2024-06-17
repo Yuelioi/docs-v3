@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Primitive Data Index for Scalar Parameter
+title: Get Custom Primitive Data Index for Scalar Parameter
 order: 7
 ---
 ## Navigation

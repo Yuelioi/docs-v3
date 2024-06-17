@@ -1,5 +1,5 @@
 ---
-display_name: Set Asset by Object
+title: Set Asset by Object
 order: 15
 ---
 ## Navigation

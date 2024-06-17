@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Settings by Index
+title: Set Control Settings by Index
 order: 133
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Settings
+title: Get Control Settings
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Haptic Effect
+title: Stop Haptic Effect
 order: 34
 ---
 ## Navigation

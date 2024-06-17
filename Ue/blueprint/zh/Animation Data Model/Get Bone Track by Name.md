@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Track by Name
+title: Get Bone Track by Name
 order: 14
 ---
 ## Navigation

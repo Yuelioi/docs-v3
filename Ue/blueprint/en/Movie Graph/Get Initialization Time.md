@@ -1,5 +1,5 @@
 ---
-display_name: Get Initialization Time
+title: Get Initialization Time
 order: 27
 ---
 ## Navigation

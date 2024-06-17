@@ -1,5 +1,5 @@
 ---
-display_name: Get Instance Checked
+title: Get Instance Checked
 order: 2
 ---
 ## Navigation

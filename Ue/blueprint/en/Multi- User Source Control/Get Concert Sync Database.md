@@ -1,5 +1,5 @@
 ---
-display_name: Get Concert Sync Database
+title: Get Concert Sync Database
 order: 2
 ---
 ## Navigation

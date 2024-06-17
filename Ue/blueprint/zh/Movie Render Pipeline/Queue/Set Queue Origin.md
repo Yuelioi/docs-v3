@@ -1,5 +1,5 @@
 ---
-display_name: Set Queue Origin
+title: Set Queue Origin
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Commit Weights to Skeletal Mesh
+title: Commit Weights to Skeletal Mesh
 order: 2
 ---
 ## Navigation

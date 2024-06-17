@@ -1,5 +1,5 @@
 ---
-display_name: Freeze Stream
+title: Freeze Stream
 order: 7
 ---
 ## Navigation

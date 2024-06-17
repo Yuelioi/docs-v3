@@ -1,5 +1,5 @@
 ---
-display_name: Get Closest Point on Collision
+title: Get Closest Point on Collision
 order: 22
 ---
 ## Navigation

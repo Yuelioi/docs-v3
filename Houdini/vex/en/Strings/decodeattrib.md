@@ -1,5 +1,5 @@
 ---
-display_name: decodeattrib
+title: decodeattrib
 order: 5
 ---
 | Since | 18.0 |

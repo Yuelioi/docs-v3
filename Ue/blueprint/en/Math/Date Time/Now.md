@@ -1,5 +1,5 @@
 ---
-display_name: Now
+title: Now
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Append Simple Collision Shapes to Mesh
+title: Append Simple Collision Shapes to Mesh
 order: 15
 ---
 ## Navigation

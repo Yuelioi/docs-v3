@@ -1,5 +1,5 @@
 ---
-display_name: Set Static when Not Moveable
+title: Set Static when Not Moveable
 order: 57
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Touch 6
+title: Touch 6
 order: 7
 ---
 ## Navigation

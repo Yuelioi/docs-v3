@@ -1,5 +1,5 @@
 ---
-display_name: Get Curl Noise Force Frequency
+title: Get Curl Noise Force Frequency
 order: 6
 ---
 ## Navigation

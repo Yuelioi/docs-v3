@@ -1,5 +1,5 @@
 ---
-display_name: Get Timeline Length
+title: Get Timeline Length
 order: 9
 ---
 ## Navigation

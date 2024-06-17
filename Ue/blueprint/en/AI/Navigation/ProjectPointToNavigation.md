@@ -1,5 +1,5 @@
 ---
-display_name: ProjectPointToNavigation
+title: ProjectPointToNavigation
 order: 30
 ---
 ## Navigation

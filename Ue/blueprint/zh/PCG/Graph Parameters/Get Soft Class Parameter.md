@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Class Parameter
+title: Get Soft Class Parameter
 order: 13
 ---
 ## Navigation

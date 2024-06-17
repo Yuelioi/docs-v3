@@ -1,5 +1,5 @@
 ---
-display_name: Notify Vertex Attributes Updated
+title: Notify Vertex Attributes Updated
 order: 6
 ---
 ## Navigation

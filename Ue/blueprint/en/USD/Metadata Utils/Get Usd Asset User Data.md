@@ -1,5 +1,5 @@
 ---
-display_name: Get Usd Asset User Data
+title: Get Usd Asset User Data
 order: 3
 ---
 ## Navigation

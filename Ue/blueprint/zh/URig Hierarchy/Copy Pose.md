@@ -1,5 +1,5 @@
 ---
-display_name: Copy Pose
+title: Copy Pose
 order: 3
 ---
 ## Navigation

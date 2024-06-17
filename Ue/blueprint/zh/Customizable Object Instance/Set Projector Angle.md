@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Angle
+title: Set Projector Angle
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 立体声混合器
+title: 立体声混合器
 order: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Object Path)
+title: Set Default (Object Path)
 order: 107
 ---
 ## Navigation

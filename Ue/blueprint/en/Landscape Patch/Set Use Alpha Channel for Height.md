@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Alpha Channel for Height
+title: Set Use Alpha Channel for Height
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Render Compositing Material
+title: Render Compositing Material
 order: 8
 ---
 ## Navigation

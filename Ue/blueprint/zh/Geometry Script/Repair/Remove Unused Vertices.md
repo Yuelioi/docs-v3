@@ -1,5 +1,5 @@
 ---
-display_name: Remove Unused Vertices
+title: Remove Unused Vertices
 order: 5
 ---
 ## Navigation

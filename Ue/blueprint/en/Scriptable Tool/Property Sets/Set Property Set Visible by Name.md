@@ -1,5 +1,5 @@
 ---
-display_name: Set Property Set Visible by Name
+title: Set Property Set Visible by Name
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Box Overlap Components
+title: Box Overlap Components
 order: 3
 ---
 ## Navigation

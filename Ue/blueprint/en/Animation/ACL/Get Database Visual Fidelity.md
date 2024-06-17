@@ -1,5 +1,5 @@
 ---
-display_name: Get Database Visual Fidelity
+title: Get Database Visual Fidelity
 order: 1
 ---
 ## Navigation

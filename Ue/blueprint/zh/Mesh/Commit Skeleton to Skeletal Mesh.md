@@ -1,5 +1,5 @@
 ---
-display_name: Commit Skeleton to Skeletal Mesh
+title: Commit Skeleton to Skeletal Mesh
 order: 1
 ---
 ## Navigation

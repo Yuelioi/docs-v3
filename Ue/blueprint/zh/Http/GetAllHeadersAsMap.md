@@ -1,5 +1,5 @@
 ---
-display_name: GetAllHeadersAsMap
+title: GetAllHeadersAsMap
 order: 4
 ---
 ## Navigation

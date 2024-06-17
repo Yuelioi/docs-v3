@@ -1,5 +1,5 @@
 ---
-display_name: Set Pose
+title: Set Pose
 order: 157
 ---
 ## Navigation

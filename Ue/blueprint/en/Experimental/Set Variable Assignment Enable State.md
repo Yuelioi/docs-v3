@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable Assignment Enable State
+title: Set Variable Assignment Enable State
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Simple Polygon To Array Of Vector2D
+title: Simple Polygon To Array Of Vector2D
 order: 13
 ---
 ## Navigation

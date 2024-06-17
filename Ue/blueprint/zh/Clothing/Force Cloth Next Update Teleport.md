@@ -1,5 +1,5 @@
 ---
-display_name: Force Cloth Next Update Teleport
+title: Force Cloth Next Update Teleport
 order: 3
 ---
 ## Navigation

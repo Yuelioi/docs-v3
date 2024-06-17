@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Requesting Unload and Removal
+title: Get Is Requesting Unload and Removal
 order: 1
 ---
 ## Navigation

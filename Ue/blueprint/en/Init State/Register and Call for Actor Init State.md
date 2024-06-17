@@ -1,5 +1,5 @@
 ---
-display_name: Register and Call for Actor Init State
+title: Register and Call for Actor Init State
 order: 7
 ---
 ## Navigation

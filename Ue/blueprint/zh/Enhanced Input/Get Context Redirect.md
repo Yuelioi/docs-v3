@@ -1,5 +1,5 @@
 ---
-display_name: Get Context Redirect
+title: Get Context Redirect
 order: 1
 ---
 ## Navigation

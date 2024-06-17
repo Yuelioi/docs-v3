@@ -1,5 +1,5 @@
 ---
-display_name: Set Strike Brush
+title: Set Strike Brush
 order: 86
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Shallow Water Max Dynamic Forces
+title: Get Shallow Water Max Dynamic Forces
 order: 8
 ---
 ## Navigation

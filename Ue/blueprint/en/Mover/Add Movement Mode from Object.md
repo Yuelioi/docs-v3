@@ -1,5 +1,5 @@
 ---
-display_name: Add Movement Mode from Object
+title: Add Movement Mode from Object
 order: 2
 ---
 ## Navigation

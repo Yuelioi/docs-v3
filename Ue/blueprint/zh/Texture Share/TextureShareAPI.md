@@ -1,5 +1,5 @@
 ---
-display_name: TextureShareAPI
+title: TextureShareAPI
 order: 5
 ---
 ## Navigation

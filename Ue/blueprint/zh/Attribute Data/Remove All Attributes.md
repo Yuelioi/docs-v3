@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Attributes
+title: Remove All Attributes
 order: 8
 ---
 ## Navigation

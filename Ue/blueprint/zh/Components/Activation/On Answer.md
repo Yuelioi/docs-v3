@@ -1,5 +1,5 @@
 ---
-display_name: On Answer
+title: On Answer
 order: 6
 ---
 ## Navigation

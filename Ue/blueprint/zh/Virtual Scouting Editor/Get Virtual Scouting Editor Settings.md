@@ -1,5 +1,5 @@
 ---
-display_name: Get Virtual Scouting Editor Settings
+title: Get Virtual Scouting Editor Settings
 order: 1
 ---
 ## Navigation

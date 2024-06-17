@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Vec 2
+title: Create Script Input Vec 2
 order: 22
 ---
 ## Navigation

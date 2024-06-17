@@ -1,5 +1,5 @@
 ---
-display_name: On Component End Overlap
+title: On Component End Overlap
 order: 63
 ---
 ## Navigation

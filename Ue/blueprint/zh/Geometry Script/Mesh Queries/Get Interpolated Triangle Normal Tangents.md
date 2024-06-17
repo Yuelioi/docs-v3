@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated Triangle Normal Tangents
+title: Get Interpolated Triangle Normal Tangents
 order: 13
 ---
 ## Navigation

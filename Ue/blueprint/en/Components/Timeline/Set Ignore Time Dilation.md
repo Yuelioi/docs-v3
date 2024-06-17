@@ -1,5 +1,5 @@
 ---
-display_name: Set Ignore Time Dilation
+title: Set Ignore Time Dilation
 order: 18
 ---
 ## Navigation

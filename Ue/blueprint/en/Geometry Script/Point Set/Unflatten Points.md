@@ -1,5 +1,5 @@
 ---
-display_name: Unflatten Points
+title: Unflatten Points
 order: 9
 ---
 ## Navigation

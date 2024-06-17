@@ -1,5 +1,5 @@
 ---
-display_name: usd_removerelationshiptarget
+title: usd_removerelationshiptarget
 order: 121
 ---
 | Since | 18.0 |

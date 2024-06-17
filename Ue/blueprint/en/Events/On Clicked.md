@@ -1,5 +1,5 @@
 ---
-display_name: On Clicked
+title: On Clicked
 order: 2
 ---
 ## Navigation

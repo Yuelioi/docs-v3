@@ -1,5 +1,5 @@
 ---
-display_name: Create Grid Mesh Split
+title: Create Grid Mesh Split
 order: 8
 ---
 ## Navigation

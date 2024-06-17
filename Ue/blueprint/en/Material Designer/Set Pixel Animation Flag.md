@@ -1,5 +1,5 @@
 ---
-display_name: Set Pixel Animation Flag
+title: Set Pixel Animation Flag
 order: 228
 ---
 ## Navigation

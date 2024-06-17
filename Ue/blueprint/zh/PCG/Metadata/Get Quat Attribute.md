@@ -1,5 +1,5 @@
 ---
-display_name: Get Quat Attribute
+title: Get Quat Attribute
 order: 41
 ---
 ## Navigation

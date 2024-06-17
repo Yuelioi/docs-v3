@@ -1,5 +1,5 @@
 ---
-display_name: Find Nearest Points on Line Segments
+title: Find Nearest Points on Line Segments
 order: 17
 ---
 ## Navigation

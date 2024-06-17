@@ -1,5 +1,5 @@
 ---
-display_name: Is Game Paused
+title: Is Game Paused
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Discover Replication Settings
+title: Discover Replication Settings
 order: 2
 ---
 ## Navigation

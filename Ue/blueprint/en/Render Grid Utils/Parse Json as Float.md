@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Float
+title: Parse Json as Float
 order: 15
 ---
 ## Navigation

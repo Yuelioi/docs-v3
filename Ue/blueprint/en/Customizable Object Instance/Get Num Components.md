@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Components
+title: Get Num Components
 order: 28
 ---
 ## Navigation

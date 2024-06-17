@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Breakable
+title: Get Angular Breakable
 order: 2
 ---
 ## Navigation

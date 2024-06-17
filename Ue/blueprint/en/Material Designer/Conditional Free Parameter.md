@@ -1,5 +1,5 @@
 ---
-display_name: Conditional Free Parameter
+title: Conditional Free Parameter
 order: 38
 ---
 ## Navigation

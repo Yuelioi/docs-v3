@@ -1,5 +1,5 @@
 ---
-display_name: Set Skip Assigning Gamepad to Player 1
+title: Set Skip Assigning Gamepad to Player 1
 order: 16
 ---
 ## Navigation

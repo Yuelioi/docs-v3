@@ -1,5 +1,5 @@
 ---
-display_name: Remove Source Effect from Preset Chain
+title: Remove Source Effect from Preset Chain
 order: 14
 ---
 ## Navigation

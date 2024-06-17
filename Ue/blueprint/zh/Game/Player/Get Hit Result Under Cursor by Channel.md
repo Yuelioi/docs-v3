@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result Under Cursor by Channel
+title: Get Hit Result Under Cursor by Channel
 order: 11
 ---
 ## Navigation

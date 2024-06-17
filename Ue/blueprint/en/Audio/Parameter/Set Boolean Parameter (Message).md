@@ -1,5 +1,5 @@
 ---
-display_name: Set Boolean Parameter (Message)
+title: Set Boolean Parameter (Message)
 order: 15
 ---
 ## Navigation

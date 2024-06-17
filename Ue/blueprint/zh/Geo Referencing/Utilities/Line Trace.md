@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace
+title: Line Trace
 order: 4
 ---
 ## Navigation

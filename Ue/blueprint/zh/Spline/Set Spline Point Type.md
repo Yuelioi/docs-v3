@@ -1,5 +1,5 @@
 ---
-display_name: Set Spline Point Type
+title: Set Spline Point Type
 order: 87
 ---
 ## Navigation

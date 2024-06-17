@@ -1,5 +1,5 @@
 ---
-display_name: Set Deformer Asset
+title: Set Deformer Asset
 order: 7
 ---
 ## Navigation

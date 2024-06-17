@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector4 Parameter
+title: Get Vector4 Parameter
 order: 28
 ---
 ## Navigation

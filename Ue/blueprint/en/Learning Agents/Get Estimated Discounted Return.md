@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimated Discounted Return
+title: Get Estimated Discounted Return
 order: 65
 ---
 ## Navigation

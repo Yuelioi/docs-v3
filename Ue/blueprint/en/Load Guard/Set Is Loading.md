@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Loading
+title: Set Is Loading
 order: 4
 ---
 ## Navigation

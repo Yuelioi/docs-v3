@@ -1,5 +1,5 @@
 ---
-display_name: CC网格擦除
+title: CC网格擦除
 order: 3
 ---
 

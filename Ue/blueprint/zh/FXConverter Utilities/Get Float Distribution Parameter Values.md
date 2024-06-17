@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Distribution Parameter Values
+title: Get Float Distribution Parameter Values
 order: 46
 ---
 ## Navigation

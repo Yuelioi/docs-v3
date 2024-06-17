@@ -1,5 +1,5 @@
 ---
-display_name: Remove Module Scripts for Assets
+title: Remove Module Scripts for Assets
 order: 119
 ---
 ## Navigation

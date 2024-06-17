@@ -1,5 +1,5 @@
 ---
-display_name: Get or Create TextureShare Object
+title: Get or Create TextureShare Object
 order: 2
 ---
 ## Navigation

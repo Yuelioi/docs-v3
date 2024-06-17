@@ -1,5 +1,5 @@
 ---
-display_name: Create OSCServer
+title: Create OSCServer
 order: 22
 ---
 ## Navigation

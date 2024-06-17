@@ -1,5 +1,5 @@
 ---
-display_name: Motion-Blur
+title: Motion-Blur
 order: 14
 ---
 

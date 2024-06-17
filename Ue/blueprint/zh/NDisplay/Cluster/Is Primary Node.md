@@ -1,5 +1,5 @@
 ---
-display_name: Is Primary Node
+title: Is Primary Node
 order: 7
 ---
 ## Navigation

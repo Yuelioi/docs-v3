@@ -1,5 +1,5 @@
 ---
-display_name: Set Array Pin Size
+title: Set Array Pin Size
 order: 100
 ---
 ## Navigation

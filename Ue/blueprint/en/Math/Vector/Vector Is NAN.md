@@ -1,5 +1,5 @@
 ---
-display_name: Vector Is NAN
+title: Vector Is NAN
 order: 76
 ---
 ## Navigation

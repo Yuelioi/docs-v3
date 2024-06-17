@@ -1,5 +1,5 @@
 ---
-display_name: Finalize
+title: Finalize
 order: 29
 ---
 ## Navigation

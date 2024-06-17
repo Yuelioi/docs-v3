@@ -1,5 +1,5 @@
 ---
-display_name: Add Input Profile with Currently Active Mappings
+title: Add Input Profile with Currently Active Mappings
 order: 1
 ---
 ## Navigation

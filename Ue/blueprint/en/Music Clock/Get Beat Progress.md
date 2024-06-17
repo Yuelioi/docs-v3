@@ -1,5 +1,5 @@
 ---
-display_name: Get Beat Progress
+title: Get Beat Progress
 order: 8
 ---
 ## Navigation

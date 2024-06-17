@@ -1,5 +1,5 @@
 ---
-display_name: Min Value (Timespan)
+title: Min Value (Timespan)
 order: 22
 ---
 ## Navigation

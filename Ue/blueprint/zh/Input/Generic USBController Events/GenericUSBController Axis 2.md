@@ -1,5 +1,5 @@
 ---
-display_name: GenericUSBController Axis 2
+title: GenericUSBController Axis 2
 order: 12
 ---
 ## Navigation

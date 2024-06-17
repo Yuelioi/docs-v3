@@ -1,5 +1,5 @@
 ---
-display_name: Force Close Ad Banner
+title: Force Close Ad Banner
 order: 4
 ---
 ## Navigation

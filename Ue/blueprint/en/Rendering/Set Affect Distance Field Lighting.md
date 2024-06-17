@@ -1,5 +1,5 @@
 ---
-display_name: Set Affect Distance Field Lighting
+title: Set Affect Distance Field Lighting
 order: 15
 ---
 ## Navigation

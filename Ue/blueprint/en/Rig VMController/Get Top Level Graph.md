@@ -1,5 +1,5 @@
 ---
-display_name: Get Top Level Graph
+title: Get Top Level Graph
 order: 58
 ---
 ## Navigation

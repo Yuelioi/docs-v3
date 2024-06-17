@@ -1,5 +1,5 @@
 ---
-display_name: Bind Module Variable
+title: Bind Module Variable
 order: 4
 ---
 ## Navigation

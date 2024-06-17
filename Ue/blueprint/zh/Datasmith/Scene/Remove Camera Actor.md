@@ -1,5 +1,5 @@
 ---
-display_name: Remove Camera Actor
+title: Remove Camera Actor
 order: 47
 ---
 ## Navigation

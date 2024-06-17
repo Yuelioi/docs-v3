@@ -1,5 +1,5 @@
 ---
-display_name: Touch Events
+title: Touch Events
 order: 9
 ---
 ## Navigation

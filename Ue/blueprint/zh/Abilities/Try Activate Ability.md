@@ -1,5 +1,5 @@
 ---
-display_name: Try Activate Ability
+title: Try Activate Ability
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Atan (Degrees)
+title: Atan (Degrees)
 order: 5
 ---
 ## Navigation

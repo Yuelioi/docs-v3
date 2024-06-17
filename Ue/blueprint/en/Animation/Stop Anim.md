@@ -1,5 +1,5 @@
 ---
-display_name: Stop Anim
+title: Stop Anim
 order: 3
 ---
 ## Navigation

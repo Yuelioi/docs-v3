@@ -1,5 +1,5 @@
 ---
-display_name: Select Next Button
+title: Select Next Button
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 音频频谱
+title: 音频频谱
 order: 3
 ---
 

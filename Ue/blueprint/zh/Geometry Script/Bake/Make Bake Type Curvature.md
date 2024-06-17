@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Curvature
+title: Make Bake Type Curvature
 order: 8
 ---
 ## Navigation

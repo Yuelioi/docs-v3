@@ -1,5 +1,5 @@
 ---
-display_name: nverticesgroup
+title: nverticesgroup
 order: 20
 ---
 `int  nverticesgroup(<geometry>geometry, string groupname)`

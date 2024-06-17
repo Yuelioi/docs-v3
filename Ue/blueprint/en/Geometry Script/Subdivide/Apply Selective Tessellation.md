@@ -1,5 +1,5 @@
 ---
-display_name: Apply Selective Tessellation
+title: Apply Selective Tessellation
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Hardware Benchmark Results
+title: Apply Hardware Benchmark Results
 order: 10
 ---
 ## Navigation

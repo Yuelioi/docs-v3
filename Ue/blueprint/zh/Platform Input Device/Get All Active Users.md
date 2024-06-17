@@ -1,5 +1,5 @@
 ---
-display_name: Get All Active Users
+title: Get All Active Users
 order: 1
 ---
 ## Navigation

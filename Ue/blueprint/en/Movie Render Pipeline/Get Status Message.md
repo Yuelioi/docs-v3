@@ -1,5 +1,5 @@
 ---
-display_name: Get Status Message
+title: Get Status Message
 order: 60
 ---
 ## Navigation

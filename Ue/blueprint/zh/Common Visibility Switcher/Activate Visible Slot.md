@@ -1,5 +1,5 @@
 ---
-display_name: Activate Visible Slot
+title: Activate Visible Slot
 order: 1
 ---
 ## Navigation

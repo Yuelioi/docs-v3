@@ -1,5 +1,5 @@
 ---
-display_name: Check Text Type Hints
+title: Check Text Type Hints
 order: 22
 ---
 ## Navigation

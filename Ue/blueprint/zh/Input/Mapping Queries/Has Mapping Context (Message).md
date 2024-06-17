@@ -1,5 +1,5 @@
 ---
-display_name: Has Mapping Context (Message)
+title: Has Mapping Context (Message)
 order: 3
 ---
 ## Navigation

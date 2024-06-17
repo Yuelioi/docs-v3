@@ -1,5 +1,5 @@
 ---
-display_name: Remove Tick Prerequisite Component
+title: Remove Tick Prerequisite Component
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Water Waves
+title: Set Water Waves
 order: 2
 ---
 ## Navigation

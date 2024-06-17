@@ -1,5 +1,5 @@
 ---
-display_name: D
+title: D
 order: 24
 ---
 ## Navigation

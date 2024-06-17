@@ -1,5 +1,5 @@
 ---
-display_name: Record Progress with Full Hierarchy and Attributes
+title: Record Progress with Full Hierarchy and Attributes
 order: 16
 ---
 ## Navigation

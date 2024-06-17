@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Facing Mode
+title: Set Mesh Facing Mode
 order: 35
 ---
 ## Navigation

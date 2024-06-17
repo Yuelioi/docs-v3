@@ -1,5 +1,5 @@
 ---
-display_name: On Value Changed X
+title: On Value Changed X
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Right Vector
+title: Get Actor Right Vector
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Warp Points For Bindings
+title: Calculate Warp Points For Bindings
 order: 2
 ---
 ## Navigation

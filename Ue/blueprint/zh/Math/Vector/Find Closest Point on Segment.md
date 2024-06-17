@@ -1,5 +1,5 @@
 ---
-display_name: Find Closest Point on Segment
+title: Find Closest Point on Segment
 order: 16
 ---
 ## Navigation

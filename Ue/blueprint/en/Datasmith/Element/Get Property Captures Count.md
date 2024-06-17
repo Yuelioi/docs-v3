@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Captures Count
+title: Get Property Captures Count
 order: 52
 ---
 ## Navigation

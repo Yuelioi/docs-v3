@@ -1,5 +1,5 @@
 ---
-display_name: Render Target Sample UV Editor Only
+title: Render Target Sample UV Editor Only
 order: 82
 ---
 ## Navigation

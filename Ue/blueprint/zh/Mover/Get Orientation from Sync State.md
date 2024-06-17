@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation from Sync State
+title: Get Orientation from Sync State
 order: 20
 ---
 ## Navigation

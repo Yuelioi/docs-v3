@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation
+title: Get Orientation
 order: 5
 ---
 ## Navigation

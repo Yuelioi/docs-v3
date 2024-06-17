@@ -1,5 +1,5 @@
 ---
-display_name: Set Nudge
+title: Set Nudge
 order: 5
 ---
 ## Navigation

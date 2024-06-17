@@ -1,5 +1,5 @@
 ---
-display_name: Move Solver in Stack
+title: Move Solver in Stack
 order: 33
 ---
 ## Navigation

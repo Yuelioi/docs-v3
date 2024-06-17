@@ -1,5 +1,5 @@
 ---
-display_name: Atmospheric Fog
+title: Atmospheric Fog
 order: 1
 ---
 ## Navigation

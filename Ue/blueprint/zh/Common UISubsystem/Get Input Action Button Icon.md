@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Action Button Icon
+title: Get Input Action Button Icon
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get References
+title: Get References
 order: 72
 ---
 ## Navigation

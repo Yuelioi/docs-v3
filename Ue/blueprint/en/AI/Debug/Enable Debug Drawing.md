@@ -1,5 +1,5 @@
 ---
-display_name: Enable Debug Drawing
+title: Enable Debug Drawing
 order: 1
 ---
 ## Navigation

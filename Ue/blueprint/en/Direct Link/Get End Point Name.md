@@ -1,5 +1,5 @@
 ---
-display_name: Get End Point Name
+title: Get End Point Name
 order: 6
 ---
 ## Navigation

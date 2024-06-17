@@ -1,5 +1,5 @@
 ---
-display_name: Set Translucent Sort Priority
+title: Set Translucent Sort Priority
 order: 90
 ---
 ## Navigation

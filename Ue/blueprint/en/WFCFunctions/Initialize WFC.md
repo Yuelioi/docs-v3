@@ -1,5 +1,5 @@
 ---
-display_name: Initialize WFC
+title: Initialize WFC
 order: 4
 ---
 ## Navigation

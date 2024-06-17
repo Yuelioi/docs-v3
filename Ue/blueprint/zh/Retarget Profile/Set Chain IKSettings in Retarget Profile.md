@@ -1,5 +1,5 @@
 ---
-display_name: Set Chain IKSettings in Retarget Profile
+title: Set Chain IKSettings in Retarget Profile
 order: 7
 ---
 ## Navigation

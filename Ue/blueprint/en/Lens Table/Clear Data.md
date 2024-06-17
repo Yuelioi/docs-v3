@@ -1,5 +1,5 @@
 ---
-display_name: Clear Data
+title: Clear Data
 order: 7
 ---
 ## Navigation

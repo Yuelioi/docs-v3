@@ -1,5 +1,5 @@
 ---
-display_name: Remove At
+title: Remove At
 order: 10
 ---
 ## Navigation

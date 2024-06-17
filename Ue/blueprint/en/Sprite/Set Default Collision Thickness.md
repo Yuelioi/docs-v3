@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Collision Thickness
+title: Set Default Collision Thickness
 order: 28
 ---
 ## Navigation

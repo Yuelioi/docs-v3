@@ -1,5 +1,5 @@
 ---
-display_name: Has Value Range
+title: Has Value Range
 order: 160
 ---
 ## Navigation

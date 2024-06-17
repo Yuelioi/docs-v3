@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Settings
+title: Get Bone Settings
 order: 11
 ---
 ## Navigation

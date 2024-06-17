@@ -1,5 +1,5 @@
 ---
-display_name: Lerp (Transform)
+title: Lerp (Transform)
 order: 8
 ---
 ## Navigation

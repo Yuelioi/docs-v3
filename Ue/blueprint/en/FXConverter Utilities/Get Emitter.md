@@ -1,5 +1,5 @@
 ---
-display_name: Get Emitter
+title: Get Emitter
 order: 42
 ---
 ## Navigation

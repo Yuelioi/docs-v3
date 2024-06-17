@@ -1,5 +1,5 @@
 ---
-display_name: Get Selection Element
+title: Get Selection Element
 order: 10
 ---
 ## Navigation

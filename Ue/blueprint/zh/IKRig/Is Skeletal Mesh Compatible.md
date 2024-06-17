@@ -1,5 +1,5 @@
 ---
-display_name: Is Skeletal Mesh Compatible
+title: Is Skeletal Mesh Compatible
 order: 32
 ---
 ## Navigation

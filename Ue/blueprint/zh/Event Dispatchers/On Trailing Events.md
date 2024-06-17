@@ -1,5 +1,5 @@
 ---
-display_name: On Trailing Events
+title: On Trailing Events
 order: 178
 ---
 ## Navigation

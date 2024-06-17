@@ -1,5 +1,5 @@
 ---
-display_name: String To Rotator
+title: String To Rotator
 order: 53
 ---
 ## Navigation

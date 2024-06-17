@@ -1,5 +1,5 @@
 ---
-display_name: Set Instance Packer Type
+title: Set Instance Packer Type
 order: 120
 ---
 ## Navigation

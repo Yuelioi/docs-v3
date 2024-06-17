@@ -1,5 +1,5 @@
 ---
-display_name: Add Vector 2DParameter Key
+title: Add Vector 2DParameter Key
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SetSplineDriveMode
+title: SetSplineDriveMode
 order: 81
 ---
 ## Navigation

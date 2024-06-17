@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Static Mesh Component
+title: Set Niagara Static Mesh Component
 order: 26
 ---
 ## Navigation

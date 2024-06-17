@@ -1,5 +1,5 @@
 ---
-display_name: Get All Vertex Positions
+title: Get All Vertex Positions
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ceil
+title: ceil
 order: 11
 ---
 `float  ceil(float n)`

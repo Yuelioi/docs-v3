@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Map Index
+title: Set Light Map Index
 order: 9
 ---
 ## Navigation

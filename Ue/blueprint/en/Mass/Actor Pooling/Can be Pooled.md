@@ -1,5 +1,5 @@
 ---
-display_name: Can be Pooled
+title: Can be Pooled
 order: 2
 ---
 ## Navigation

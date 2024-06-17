@@ -1,5 +1,5 @@
 ---
-display_name: 残影
+title: 残影
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Extensions
+title: Get Extensions
 order: 3
 ---
 ## Navigation

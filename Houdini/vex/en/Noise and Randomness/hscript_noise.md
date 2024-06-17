@@ -1,5 +1,5 @@
 ---
-display_name: hscript_noise
+title: hscript_noise
 order: 13
 ---
 `float  hscript_noise(vector pos)`

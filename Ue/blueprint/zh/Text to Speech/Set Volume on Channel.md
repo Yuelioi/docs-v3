@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume on Channel
+title: Set Volume on Channel
 order: 18
 ---
 ## Navigation

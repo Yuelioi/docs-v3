@@ -1,5 +1,5 @@
 ---
-display_name: Get Nearest Vertex Index
+title: Get Nearest Vertex Index
 order: 13
 ---
 ## Navigation

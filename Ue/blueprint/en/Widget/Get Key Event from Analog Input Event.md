@@ -1,5 +1,5 @@
 ---
-display_name: Get Key Event from Analog Input Event
+title: Get Key Event from Analog Input Event
 order: 29
 ---
 ## Navigation

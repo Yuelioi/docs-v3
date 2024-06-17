@@ -1,5 +1,5 @@
 ---
-display_name: pointhedgenext
+title: pointhedgenext
 order: 20
 ---
 `int  pointhedgenext(<geometry>geometry, int point)`

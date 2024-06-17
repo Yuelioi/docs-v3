@@ -1,5 +1,5 @@
 ---
-display_name: Get Rate Scale
+title: Get Rate Scale
 order: 5
 ---
 ## Navigation

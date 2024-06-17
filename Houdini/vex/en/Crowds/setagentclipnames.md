@@ -1,5 +1,5 @@
 ---
-display_name: setagentclipnames
+title: setagentclipnames
 order: 52
 ---
 `void  setagentclipnames(int geohandle, int prim, string clipnames[])`

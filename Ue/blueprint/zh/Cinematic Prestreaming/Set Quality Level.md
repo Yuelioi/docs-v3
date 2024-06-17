@@ -1,5 +1,5 @@
 ---
-display_name: Set Quality Level
+title: Set Quality Level
 order: 8
 ---
 ## Navigation

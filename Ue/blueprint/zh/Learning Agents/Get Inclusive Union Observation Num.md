@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Union Observation Num
+title: Get Inclusive Union Observation Num
 order: 79
 ---
 ## Navigation

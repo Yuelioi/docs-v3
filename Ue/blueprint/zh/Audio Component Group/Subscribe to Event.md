@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe to Event
+title: Subscribe to Event
 order: 21
 ---
 ## Navigation

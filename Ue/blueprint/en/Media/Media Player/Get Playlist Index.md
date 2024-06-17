@@ -1,5 +1,5 @@
 ---
-display_name: Get Playlist Index
+title: Get Playlist Index
 order: 18
 ---
 ## Navigation

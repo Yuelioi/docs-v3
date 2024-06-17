@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Animation Sync Marker Name
+title: Is Valid Animation Sync Marker Name
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Completion Percentage
+title: Get Completion Percentage
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Overlay Arc
+title: Set Overlay Arc
 order: 10
 ---
 ## Navigation

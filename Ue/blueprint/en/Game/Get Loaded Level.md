@@ -1,5 +1,5 @@
 ---
-display_name: Get Loaded Level
+title: Get Loaded Level
 order: 26
 ---
 ## Navigation

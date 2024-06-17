@@ -1,5 +1,5 @@
 ---
-display_name: On Done
+title: On Done
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get User Tags Filtering Policy
+title: Get User Tags Filtering Policy
 order: 31
 ---
 ## Navigation

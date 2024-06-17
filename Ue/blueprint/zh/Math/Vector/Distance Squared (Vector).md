@@ -1,5 +1,5 @@
 ---
-display_name: Distance Squared (Vector)
+title: Distance Squared (Vector)
 order: 10
 ---
 ## Navigation

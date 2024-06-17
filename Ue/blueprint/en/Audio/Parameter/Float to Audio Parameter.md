@@ -1,5 +1,5 @@
 ---
-display_name: Float to Audio Parameter
+title: Float to Audio Parameter
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Normal-maps
+title: Normal-maps
 order: 4
 ---
 

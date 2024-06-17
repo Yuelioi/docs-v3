@@ -1,5 +1,5 @@
 ---
-display_name: Hard Reset Simulation
+title: Hard Reset Simulation
 order: 4
 ---
 ## Navigation

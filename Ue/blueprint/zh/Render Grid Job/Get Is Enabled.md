@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Enabled
+title: Get Is Enabled
 order: 9
 ---
 ## Navigation

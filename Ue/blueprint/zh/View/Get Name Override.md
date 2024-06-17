@@ -1,5 +1,5 @@
 ---
-display_name: Get Name Override
+title: Get Name Override
 order: 2
 ---
 ## Navigation

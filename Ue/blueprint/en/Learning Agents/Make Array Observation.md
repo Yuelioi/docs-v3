@@ -1,5 +1,5 @@
 ---
-display_name: Make Array Observation
+title: Make Array Observation
 order: 156
 ---
 ## Navigation

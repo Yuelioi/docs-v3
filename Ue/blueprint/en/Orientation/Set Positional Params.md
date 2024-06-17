@@ -1,5 +1,5 @@
 ---
-display_name: Set Positional Params
+title: Set Positional Params
 order: 14
 ---
 ## Navigation

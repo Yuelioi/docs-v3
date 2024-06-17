@@ -1,5 +1,5 @@
 ---
-display_name: Get Mobile Font Size Multiplier
+title: Get Mobile Font Size Multiplier
 order: 1
 ---
 ## Navigation

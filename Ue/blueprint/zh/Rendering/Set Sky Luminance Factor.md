@@ -1,5 +1,5 @@
 ---
-display_name: Set Sky Luminance Factor
+title: Set Sky Luminance Factor
 order: 84
 ---
 ## Navigation

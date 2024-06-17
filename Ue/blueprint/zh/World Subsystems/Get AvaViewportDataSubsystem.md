@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaViewportDataSubsystem
+title: Get AvaViewportDataSubsystem
 order: 15
 ---
 ## Navigation

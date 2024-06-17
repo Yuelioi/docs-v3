@@ -1,5 +1,5 @@
 ---
-display_name: Multi Line Trace By Channel
+title: Multi Line Trace By Channel
 order: 52
 ---
 ## Navigation

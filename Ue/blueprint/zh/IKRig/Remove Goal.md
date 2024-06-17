@@ -1,5 +1,5 @@
 ---
-display_name: Remove Goal
+title: Remove Goal
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Dynamic Material
+title: Get Default Dynamic Material
 order: 2
 ---
 ## Navigation

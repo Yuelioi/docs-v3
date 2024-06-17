@@ -1,5 +1,5 @@
 ---
-display_name: Quit Game
+title: Quit Game
 order: 37
 ---
 ## Navigation

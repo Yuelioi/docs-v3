@@ -1,5 +1,5 @@
 ---
-display_name: Get Transformed Bounds
+title: Get Transformed Bounds
 order: 3
 ---
 ## Navigation

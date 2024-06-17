@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Beats in Bar at Ms
+title: Get Num Beats in Bar at Ms
 order: 4
 ---
 ## Navigation

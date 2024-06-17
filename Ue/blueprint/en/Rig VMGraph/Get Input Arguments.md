@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Arguments
+title: Get Input Arguments
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ScreenToAbsolute
+title: ScreenToAbsolute
 order: 10
 ---
 ## Navigation

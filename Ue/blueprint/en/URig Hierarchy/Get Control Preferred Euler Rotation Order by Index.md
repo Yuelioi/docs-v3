@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Preferred Euler Rotation Order by Index
+title: Get Control Preferred Euler Rotation Order by Index
 order: 16
 ---
 ## Navigation

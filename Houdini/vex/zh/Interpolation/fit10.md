@@ -1,5 +1,5 @@
 ---
-display_name: fit10
+title: fit10
 order: 7
 ---
 `float  fit10(float value, float nmin, float nmax)`

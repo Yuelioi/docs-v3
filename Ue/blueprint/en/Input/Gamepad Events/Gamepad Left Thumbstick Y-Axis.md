@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Thumbstick Y-Axis
+title: Gamepad Left Thumbstick Y-Axis
 order: 17
 ---
 ## Navigation

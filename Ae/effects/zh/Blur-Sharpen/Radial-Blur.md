@@ -1,5 +1,5 @@
 ---
-display_name: 径向模糊
+title: 径向模糊
 order: 13
 ---
 

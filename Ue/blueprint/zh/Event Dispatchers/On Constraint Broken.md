@@ -1,5 +1,5 @@
 ---
-display_name: On Constraint Broken
+title: On Constraint Broken
 order: 69
 ---
 ## Navigation

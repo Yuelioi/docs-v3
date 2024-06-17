@@ -1,5 +1,5 @@
 ---
-display_name: Remove Submix Effect
+title: Remove Submix Effect
 order: 16
 ---
 ## Navigation

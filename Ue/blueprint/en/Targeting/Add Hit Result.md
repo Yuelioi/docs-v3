@@ -1,5 +1,5 @@
 ---
-display_name: Add Hit Result
+title: Add Hit Result
 order: 1
 ---
 ## Navigation

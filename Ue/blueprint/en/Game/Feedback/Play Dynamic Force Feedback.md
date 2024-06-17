@@ -1,5 +1,5 @@
 ---
-display_name: Play Dynamic Force Feedback
+title: Play Dynamic Force Feedback
 order: 9
 ---
 ## Navigation

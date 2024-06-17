@@ -1,5 +1,5 @@
 ---
-display_name: Stop Speaking
+title: Stop Speaking
 order: 17
 ---
 ## Navigation

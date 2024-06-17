@@ -1,5 +1,5 @@
 ---
-display_name: Get Replicated Objects
+title: Get Replicated Objects
 order: 12
 ---
 ## Navigation

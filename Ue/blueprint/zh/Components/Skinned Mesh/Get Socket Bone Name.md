@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket Bone Name
+title: Get Socket Bone Name
 order: 19
 ---
 ## Navigation

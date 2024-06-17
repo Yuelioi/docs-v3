@@ -1,5 +1,5 @@
 ---
-display_name: Query Keys Mapped to Action (Message)
+title: Query Keys Mapped to Action (Message)
 order: 5
 ---
 ## Navigation

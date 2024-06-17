@@ -1,5 +1,5 @@
 ---
-display_name: As Linked Value
+title: As Linked Value
 order: 6
 ---
 ## Navigation

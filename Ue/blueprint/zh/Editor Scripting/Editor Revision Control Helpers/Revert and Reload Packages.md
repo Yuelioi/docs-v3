@@ -1,5 +1,5 @@
 ---
-display_name: Revert and Reload Packages
+title: Revert and Reload Packages
 order: 22
 ---
 ## Navigation

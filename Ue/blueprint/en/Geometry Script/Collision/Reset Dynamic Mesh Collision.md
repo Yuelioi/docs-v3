@@ -1,5 +1,5 @@
 ---
-display_name: Reset Dynamic Mesh Collision
+title: Reset Dynamic Mesh Collision
 order: 9
 ---
 ## Navigation

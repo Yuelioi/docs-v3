@@ -1,5 +1,5 @@
 ---
-display_name: Update Bookmark Spline Mesh Indicator (Message)
+title: Update Bookmark Spline Mesh Indicator (Message)
 order: 21
 ---
 ## Navigation

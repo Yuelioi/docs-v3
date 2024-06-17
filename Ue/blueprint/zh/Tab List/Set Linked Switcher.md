@@ -1,5 +1,5 @@
 ---
-display_name: Set Linked Switcher
+title: Set Linked Switcher
 order: 16
 ---
 ## Navigation

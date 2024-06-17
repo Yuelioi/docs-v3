@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Text Style
+title: Set Default Text Style
 order: 43
 ---
 ## Navigation

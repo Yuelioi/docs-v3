@@ -1,5 +1,5 @@
 ---
-display_name: Get Anchors
+title: Get Anchors
 order: 2
 ---
 ## Navigation

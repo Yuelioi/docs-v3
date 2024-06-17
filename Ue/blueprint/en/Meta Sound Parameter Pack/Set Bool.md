@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool
+title: Set Bool
 order: 19
 ---
 ## Navigation

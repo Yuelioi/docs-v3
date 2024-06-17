@@ -1,5 +1,5 @@
 ---
-display_name: Use Filter to Exclude Assets
+title: Use Filter to Exclude Assets
 order: 52
 ---
 ## Navigation

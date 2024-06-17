@@ -1,5 +1,5 @@
 ---
-display_name: getbbox
+title: getbbox
 order: 3
 ---
 `void  getbbox(<geometry>geometry, vector &min, vector &max)`

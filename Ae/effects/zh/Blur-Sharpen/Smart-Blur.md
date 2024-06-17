@@ -1,5 +1,5 @@
 ---
-display_name: 智能模糊
+title: 智能模糊
 order: 15
 ---
 

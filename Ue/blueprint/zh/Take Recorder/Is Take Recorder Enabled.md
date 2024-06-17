@@ -1,5 +1,5 @@
 ---
-display_name: Is Take Recorder Enabled
+title: Is Take Recorder Enabled
 order: 14
 ---
 ## Navigation

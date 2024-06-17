@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Command
+title: Unregister Command
 order: 7
 ---
 ## Navigation

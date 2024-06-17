@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable Descriptions
+title: Get Variable Descriptions
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get View Fraction
+title: Get View Fraction
 order: 41
 ---
 ## Navigation

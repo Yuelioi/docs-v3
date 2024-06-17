@@ -1,5 +1,5 @@
 ---
-display_name: Add Simple Collisions with Notification
+title: Add Simple Collisions with Notification
 order: 1
 ---
 ## Navigation

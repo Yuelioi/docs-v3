@@ -1,5 +1,5 @@
 ---
-display_name: Get Maximum Motion Tracked Controller Count
+title: Get Maximum Motion Tracked Controller Count
 order: 10
 ---
 ## Navigation

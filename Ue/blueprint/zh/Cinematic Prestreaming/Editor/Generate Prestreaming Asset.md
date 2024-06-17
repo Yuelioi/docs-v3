@@ -1,5 +1,5 @@
 ---
-display_name: Generate Prestreaming Asset
+title: Generate Prestreaming Asset
 order: 2
 ---
 ## Navigation

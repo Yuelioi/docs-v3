@@ -1,5 +1,5 @@
 ---
-display_name: Get Editing Objects
+title: Get Editing Objects
 order: 16
 ---
 ## Navigation

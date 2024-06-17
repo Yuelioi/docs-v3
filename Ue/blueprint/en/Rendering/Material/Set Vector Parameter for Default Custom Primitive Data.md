@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter for Default Custom Primitive Data
+title: Set Vector Parameter for Default Custom Primitive Data
 order: 65
 ---
 ## Navigation

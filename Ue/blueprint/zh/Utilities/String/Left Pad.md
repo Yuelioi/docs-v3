@@ -1,5 +1,5 @@
 ---
-display_name: Left Pad
+title: Left Pad
 order: 26
 ---
 ## Navigation

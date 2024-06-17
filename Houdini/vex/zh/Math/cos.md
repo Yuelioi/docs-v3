@@ -1,5 +1,5 @@
 ---
-display_name: cos
+title: cos
 order: 13
 ---
 `float  cos(float n)`

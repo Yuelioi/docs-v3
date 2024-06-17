@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Bool)
+title: Get Time (Bool)
 order: 57
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Preferred Euler Rotation Order
+title: Get Control Preferred Euler Rotation Order
 order: 17
 ---
 ## Navigation

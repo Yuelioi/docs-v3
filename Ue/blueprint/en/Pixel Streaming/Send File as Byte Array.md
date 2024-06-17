@@ -1,5 +1,5 @@
 ---
-display_name: Send File as Byte Array
+title: Send File as Byte Array
 order: 18
 ---
 ## Navigation

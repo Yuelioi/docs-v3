@@ -1,5 +1,5 @@
 ---
-display_name: Flush Debug Strings
+title: Flush Debug Strings
 order: 18
 ---
 ## Navigation

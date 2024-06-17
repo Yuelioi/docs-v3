@@ -1,5 +1,5 @@
 ---
-display_name: chi
+title: chi
 order: 11
 ---
 `int  chi(string channel)`

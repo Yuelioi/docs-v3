@@ -1,5 +1,5 @@
 ---
-display_name: Export Static Mesh to PFM file
+title: Export Static Mesh to PFM file
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformgroupweight
+title: agenttransformgroupweight
 order: 44
 ---
 See [Transform Groups](../../crowds/agents.html#xformgroups) for more information.

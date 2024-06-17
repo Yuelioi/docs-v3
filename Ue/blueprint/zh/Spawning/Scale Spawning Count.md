@@ -1,5 +1,5 @@
 ---
-display_name: Scale Spawning Count
+title: Scale Spawning Count
 order: 6
 ---
 ## Navigation

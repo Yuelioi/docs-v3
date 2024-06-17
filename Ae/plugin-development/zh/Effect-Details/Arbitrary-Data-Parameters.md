@@ -1,5 +1,5 @@
 ---
-display_name: Arbitrary-Data-Parameters
+title: Arbitrary-Data-Parameters
 order: 3
 ---
 

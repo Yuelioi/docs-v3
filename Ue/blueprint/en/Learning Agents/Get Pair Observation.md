@@ -1,5 +1,5 @@
 ---
-display_name: Get Pair Observation
+title: Get Pair Observation
 order: 100
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Speak on Channel
+title: Speak on Channel
 order: 19
 ---
 ## Navigation

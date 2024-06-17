@@ -1,5 +1,5 @@
 ---
-display_name: Set Sequence Path
+title: Set Sequence Path
 order: 5
 ---
 ## Navigation

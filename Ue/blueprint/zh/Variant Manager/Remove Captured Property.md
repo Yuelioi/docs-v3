@@ -1,5 +1,5 @@
 ---
-display_name: Remove Captured Property
+title: Remove Captured Property
 order: 31
 ---
 ## Navigation

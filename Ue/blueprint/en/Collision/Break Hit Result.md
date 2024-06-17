@@ -1,5 +1,5 @@
 ---
-display_name: Break Hit Result
+title: Break Hit Result
 order: 7
 ---
 ## Navigation

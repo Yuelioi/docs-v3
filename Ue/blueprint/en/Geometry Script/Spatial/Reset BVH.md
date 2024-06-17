@@ -1,5 +1,5 @@
 ---
-display_name: Reset BVH
+title: Reset BVH
 order: 7
 ---
 ## Navigation

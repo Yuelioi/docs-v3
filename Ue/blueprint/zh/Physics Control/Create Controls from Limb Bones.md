@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls from Limb Bones
+title: Create Controls from Limb Bones
 order: 12
 ---
 ## Navigation

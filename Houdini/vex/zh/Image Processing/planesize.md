@@ -1,5 +1,5 @@
 ---
-display_name: planesize
+title: planesize
 order: 34
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

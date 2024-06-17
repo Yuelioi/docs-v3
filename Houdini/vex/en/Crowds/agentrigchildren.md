@@ -1,5 +1,5 @@
 ---
-display_name: agentrigchildren
+title: agentrigchildren
 order: 35
 ---
 `int [] agentrigchildren(<geometry>geometry, int prim, int transform)`

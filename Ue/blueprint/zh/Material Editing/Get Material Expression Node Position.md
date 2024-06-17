@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Expression Node Position
+title: Get Material Expression Node Position
 order: 20
 ---
 ## Navigation

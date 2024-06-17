@@ -1,5 +1,5 @@
 ---
-display_name: Get Ocean Total Height
+title: Get Ocean Total Height
 order: 7
 ---
 ## Navigation

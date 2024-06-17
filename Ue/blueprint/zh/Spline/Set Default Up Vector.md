@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Up Vector
+title: Set Default Up Vector
 order: 82
 ---
 ## Navigation

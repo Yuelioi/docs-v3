@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Objects in List
+title: Find Smart Objects in List
 order: 10
 ---
 ## Navigation

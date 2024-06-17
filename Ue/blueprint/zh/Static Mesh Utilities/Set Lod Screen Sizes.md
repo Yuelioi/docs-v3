@@ -1,5 +1,5 @@
 ---
-display_name: Set Lod Screen Sizes
+title: Set Lod Screen Sizes
 order: 38
 ---
 ## Navigation

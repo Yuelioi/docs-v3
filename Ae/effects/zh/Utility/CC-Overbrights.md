@@ -1,5 +1,5 @@
 ---
-display_name: CC过亮
+title: CC过亮
 order: 2
 ---
 

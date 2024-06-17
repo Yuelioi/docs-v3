@@ -1,5 +1,5 @@
 ---
-display_name: Unload Level Instance
+title: Unload Level Instance
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Launch Landmass Editor
+title: Launch Landmass Editor
 order: 16
 ---
 ## Navigation

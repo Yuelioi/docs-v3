@@ -1,5 +1,5 @@
 ---
-display_name: Get Model
+title: Get Model
 order: 2
 ---
 ## Navigation

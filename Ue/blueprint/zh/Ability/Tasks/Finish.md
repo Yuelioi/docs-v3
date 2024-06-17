@@ -1,5 +1,5 @@
 ---
-display_name: Finish
+title: Finish
 order: 8
 ---
 ## Navigation

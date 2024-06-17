@@ -1,5 +1,5 @@
 ---
-display_name: On Individual Shot Work Finished Delegate
+title: On Individual Shot Work Finished Delegate
 order: 87
 ---
 ## Navigation

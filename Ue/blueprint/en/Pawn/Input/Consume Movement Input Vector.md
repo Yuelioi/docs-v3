@@ -1,5 +1,5 @@
 ---
-display_name: Consume Movement Input Vector
+title: Consume Movement Input Vector
 order: 5
 ---
 ## Navigation

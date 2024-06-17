@@ -1,5 +1,5 @@
 ---
-display_name: replace
+title: replace
 order: 31
 ---
 `string  replace(string str, string old, string new)`

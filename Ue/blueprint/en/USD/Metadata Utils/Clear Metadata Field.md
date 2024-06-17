@@ -1,5 +1,5 @@
 ---
-display_name: Clear Metadata Field
+title: Clear Metadata Field
 order: 1
 ---
 ## Navigation

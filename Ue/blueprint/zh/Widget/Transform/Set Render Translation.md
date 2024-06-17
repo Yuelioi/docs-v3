@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Translation
+title: Set Render Translation
 order: 7
 ---
 ## Navigation

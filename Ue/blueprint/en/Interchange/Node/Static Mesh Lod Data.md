@@ -1,5 +1,5 @@
 ---
-display_name: Static Mesh Lod Data
+title: Static Mesh Lod Data
 order: 82
 ---
 ## Navigation

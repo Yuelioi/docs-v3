@@ -1,5 +1,5 @@
 ---
-display_name: Remove Track
+title: Remove Track
 order: 77
 ---
 ## Navigation

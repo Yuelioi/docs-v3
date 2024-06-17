@@ -1,5 +1,5 @@
 ---
-display_name: Receive Ice Candidate
+title: Receive Ice Candidate
 order: 16
 ---
 ## Navigation

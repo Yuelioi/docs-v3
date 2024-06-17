@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Controller from Input Device
+title: Get Player Controller from Input Device
 order: 5
 ---
 ## Navigation

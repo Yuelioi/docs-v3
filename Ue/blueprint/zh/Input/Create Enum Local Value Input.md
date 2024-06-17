@@ -1,5 +1,5 @@
 ---
-display_name: Create Enum Local Value Input
+title: Create Enum Local Value Input
 order: 11
 ---
 ## Navigation

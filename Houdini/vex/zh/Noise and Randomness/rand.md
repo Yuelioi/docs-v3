@@ -1,5 +1,5 @@
 ---
-display_name: rand
+title: rand
 order: 29
 ---
 `float  rand(float seed)`

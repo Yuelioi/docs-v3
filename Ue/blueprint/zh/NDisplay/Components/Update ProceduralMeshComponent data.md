@@ -1,5 +1,5 @@
 ---
-display_name: Update ProceduralMeshComponent data
+title: Update ProceduralMeshComponent data
 order: 3
 ---
 ## Navigation

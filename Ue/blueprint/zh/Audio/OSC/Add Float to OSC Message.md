@@ -1,5 +1,5 @@
 ---
-display_name: Add Float to OSC Message
+title: Add Float to OSC Message
 order: 4
 ---
 ## Navigation

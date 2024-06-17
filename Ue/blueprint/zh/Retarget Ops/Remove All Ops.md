@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Ops
+title: Remove All Ops
 order: 9
 ---
 ## Navigation

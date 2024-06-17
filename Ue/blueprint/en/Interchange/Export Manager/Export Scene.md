@@ -1,5 +1,5 @@
 ---
-display_name: Export Scene
+title: Export Scene
 order: 2
 ---
 ## Navigation

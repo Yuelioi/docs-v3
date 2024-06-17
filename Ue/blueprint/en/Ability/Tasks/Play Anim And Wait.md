@@ -1,5 +1,5 @@
 ---
-display_name: Play Anim And Wait
+title: Play Anim And Wait
 order: 12
 ---
 ## Navigation

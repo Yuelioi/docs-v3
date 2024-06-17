@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Quat)
+title: Assert Equal (Quat)
 order: 10
 ---
 ## Navigation

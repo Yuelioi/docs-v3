@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Data End Point
+title: Get Target Data End Point
 order: 13
 ---
 ## Navigation

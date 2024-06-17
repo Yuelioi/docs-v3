@@ -1,6 +1,6 @@
 ---
 order: 9
-display_name: CC缩放擦除
+title: CC缩放擦除
 ---
 
 # CC Scale Wipe - CC缩放擦除

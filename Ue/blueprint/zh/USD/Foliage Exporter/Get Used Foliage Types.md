@@ -1,5 +1,5 @@
 ---
-display_name: Get Used Foliage Types
+title: Get Used Foliage Types
 order: 4
 ---
 ## Navigation

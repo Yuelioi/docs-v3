@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Deltas Paths
+title: Get Cached Deltas Paths
 order: 3
 ---
 ## Navigation

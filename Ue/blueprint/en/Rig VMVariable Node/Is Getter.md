@@ -1,5 +1,5 @@
 ---
-display_name: Is Getter
+title: Is Getter
 order: 7
 ---
 ## Navigation

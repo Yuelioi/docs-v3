@@ -1,5 +1,5 @@
 ---
-display_name: Get Stat Inc Average
+title: Get Stat Inc Average
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Dim
+title: Get Input Dim
 order: 8
 ---
 ## Navigation

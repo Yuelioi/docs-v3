@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Array Metadata
+title: Get Float Array Metadata
 order: 30
 ---
 ## Navigation

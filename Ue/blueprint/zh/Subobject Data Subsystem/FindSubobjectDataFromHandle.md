@@ -1,5 +1,5 @@
 ---
-display_name: FindSubobjectDataFromHandle
+title: FindSubobjectDataFromHandle
 order: 15
 ---
 ## Navigation

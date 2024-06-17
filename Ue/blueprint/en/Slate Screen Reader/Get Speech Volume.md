@@ -1,5 +1,5 @@
 ---
-display_name: Get Speech Volume
+title: Get Speech Volume
 order: 6
 ---
 ## Navigation

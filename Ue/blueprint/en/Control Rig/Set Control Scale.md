@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Scale
+title: Set Control Scale
 order: 34
 ---
 ## Navigation

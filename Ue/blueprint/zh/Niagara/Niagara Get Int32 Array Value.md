@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Int32 Array Value
+title: Niagara Get Int32 Array Value
 order: 38
 ---
 ## Navigation

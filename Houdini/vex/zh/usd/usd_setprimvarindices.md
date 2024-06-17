@@ -1,5 +1,5 @@
 ---
-display_name: usd_setprimvarindices
+title: usd_setprimvarindices
 order: 135
 ---
 | Since | 18.0 |

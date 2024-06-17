@@ -1,5 +1,5 @@
 ---
-display_name: On Key Selected
+title: On Key Selected
 order: 5
 ---
 ## Navigation

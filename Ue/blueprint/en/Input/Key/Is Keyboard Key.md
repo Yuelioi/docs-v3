@@ -1,5 +1,5 @@
 ---
-display_name: Is Keyboard Key
+title: Is Keyboard Key
 order: 10
 ---
 ## Navigation

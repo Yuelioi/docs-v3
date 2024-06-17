@@ -1,5 +1,5 @@
 ---
-display_name: Generate Unique Random Job Id
+title: Generate Unique Random Job Id
 order: 9
 ---
 ## Navigation

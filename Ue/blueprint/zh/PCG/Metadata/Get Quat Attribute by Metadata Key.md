@@ -1,5 +1,5 @@
 ---
-display_name: Get Quat Attribute by Metadata Key
+title: Get Quat Attribute by Metadata Key
 order: 40
 ---
 ## Navigation

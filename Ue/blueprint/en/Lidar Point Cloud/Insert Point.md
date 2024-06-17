@@ -1,5 +1,5 @@
 ---
-display_name: Insert Point
+title: Insert Point
 order: 38
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Was Input Key Just Released
+title: Was Input Key Just Released
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Rotation
+title: Get Target Rotation
 order: 1
 ---
 ## Navigation

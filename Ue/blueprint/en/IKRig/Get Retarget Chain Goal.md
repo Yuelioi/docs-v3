@@ -1,5 +1,5 @@
 ---
-display_name: Get Retarget Chain Goal
+title: Get Retarget Chain Goal
 order: 22
 ---
 ## Navigation

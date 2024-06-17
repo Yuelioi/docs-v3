@@ -1,5 +1,5 @@
 ---
-display_name: Get Past Trajectory
+title: Get Past Trajectory
 order: 21
 ---
 ## Navigation

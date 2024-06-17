@@ -1,5 +1,5 @@
 ---
-display_name: Find Shared Settings Mutable
+title: Find Shared Settings Mutable
 order: 6
 ---
 ## Navigation

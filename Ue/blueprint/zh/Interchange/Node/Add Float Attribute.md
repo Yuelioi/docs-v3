@@ -1,5 +1,5 @@
 ---
-display_name: Add Float Attribute
+title: Add Float Attribute
 order: 5
 ---
 ## Navigation

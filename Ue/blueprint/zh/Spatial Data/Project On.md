@@ -1,5 +1,5 @@
 ---
-display_name: Project On
+title: Project On
 order: 15
 ---
 ## Navigation

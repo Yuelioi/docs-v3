@@ -1,5 +1,5 @@
 ---
-display_name: Has All Matching GameplayTags
+title: Has All Matching GameplayTags
 order: 5
 ---
 ## Navigation

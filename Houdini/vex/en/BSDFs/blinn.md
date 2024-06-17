@@ -1,5 +1,5 @@
 ---
-display_name: blinn
+title: blinn
 order: 3
 ---
 `bsdf  blinn(float exponent, ...)`

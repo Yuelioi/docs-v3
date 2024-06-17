@@ -1,5 +1,5 @@
 ---
-display_name: Deselect Element
+title: Deselect Element
 order: 10
 ---
 ## Navigation

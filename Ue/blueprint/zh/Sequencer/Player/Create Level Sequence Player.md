@@ -1,5 +1,5 @@
 ---
-display_name: Create Level Sequence Player
+title: Create Level Sequence Player
 order: 3
 ---
 ## Navigation

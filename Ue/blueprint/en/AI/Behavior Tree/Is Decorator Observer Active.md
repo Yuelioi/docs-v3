@@ -1,5 +1,5 @@
 ---
-display_name: Is Decorator Observer Active
+title: Is Decorator Observer Active
 order: 8
 ---
 ## Navigation

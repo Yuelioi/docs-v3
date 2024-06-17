@@ -1,5 +1,5 @@
 ---
-display_name: Rotation Rate
+title: Rotation Rate
 order: 3
 ---
 ## Navigation

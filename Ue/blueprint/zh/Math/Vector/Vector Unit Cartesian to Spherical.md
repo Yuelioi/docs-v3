@@ -1,5 +1,5 @@
 ---
-display_name: Vector Unit Cartesian to Spherical
+title: Vector Unit Cartesian to Spherical
 order: 90
 ---
 ## Navigation

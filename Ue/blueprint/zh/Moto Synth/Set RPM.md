@@ -1,5 +1,5 @@
 ---
-display_name: Set RPM
+title: Set RPM
 order: 3
 ---
 ## Navigation

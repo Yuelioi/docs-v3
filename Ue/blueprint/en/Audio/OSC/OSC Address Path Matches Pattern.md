@@ -1,5 +1,5 @@
 ---
-display_name: OSC Address Path Matches Pattern
+title: OSC Address Path Matches Pattern
 order: 56
 ---
 ## Navigation

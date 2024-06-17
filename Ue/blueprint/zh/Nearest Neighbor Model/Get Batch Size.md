@@ -1,5 +1,5 @@
 ---
-display_name: Get Batch Size
+title: Get Batch Size
 order: 2
 ---
 ## Navigation

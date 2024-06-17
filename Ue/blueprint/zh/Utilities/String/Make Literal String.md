@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal String
+title: Make Literal String
 order: 30
 ---
 ## Navigation

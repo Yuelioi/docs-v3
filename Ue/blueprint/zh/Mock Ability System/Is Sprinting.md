@@ -1,5 +1,5 @@
 ---
-display_name: Is Sprinting
+title: Is Sprinting
 order: 5
 ---
 ## Navigation

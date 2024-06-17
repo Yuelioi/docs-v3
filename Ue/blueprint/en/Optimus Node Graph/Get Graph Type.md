@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Type
+title: Get Graph Type
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Angle Observation
+title: Get Angle Observation
 order: 38
 ---
 ## Navigation

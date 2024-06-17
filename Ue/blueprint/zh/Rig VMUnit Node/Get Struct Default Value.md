@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Default Value
+title: Get Struct Default Value
 order: 3
 ---
 ## Navigation

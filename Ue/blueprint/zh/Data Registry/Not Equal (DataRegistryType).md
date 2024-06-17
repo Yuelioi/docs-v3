@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal (DataRegistryType)
+title: Not Equal (DataRegistryType)
 order: 10
 ---
 ## Navigation

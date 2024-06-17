@@ -1,5 +1,5 @@
 ---
-display_name: Find Nearest Point on Mesh
+title: Find Nearest Point on Mesh
 order: 2
 ---
 ## Navigation

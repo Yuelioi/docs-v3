@@ -1,5 +1,5 @@
 ---
-display_name: 高斯模糊（旧版）
+title: 高斯模糊（旧版）
 order: 3
 ---
 

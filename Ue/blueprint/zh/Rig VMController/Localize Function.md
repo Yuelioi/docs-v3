@@ -1,5 +1,5 @@
 ---
-display_name: Localize Function
+title: Localize Function
 order: 66
 ---
 ## Navigation

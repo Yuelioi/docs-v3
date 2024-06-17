@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Track Keys (Message)
+title: Set Bone Track Keys (Message)
 order: 17
 ---
 ## Navigation

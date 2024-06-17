@@ -1,5 +1,5 @@
 ---
-display_name: On Particle Burst
+title: On Particle Burst
 order: 127
 ---
 ## Navigation

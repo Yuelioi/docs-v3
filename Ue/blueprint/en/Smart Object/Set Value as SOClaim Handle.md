@@ -1,5 +1,5 @@
 ---
-display_name: Set Value as SOClaim Handle
+title: Set Value as SOClaim Handle
 order: 51
 ---
 ## Navigation

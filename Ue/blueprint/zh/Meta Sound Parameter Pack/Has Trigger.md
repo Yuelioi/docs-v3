@@ -1,5 +1,5 @@
 ---
-display_name: Has Trigger
+title: Has Trigger
 order: 17
 ---
 ## Navigation

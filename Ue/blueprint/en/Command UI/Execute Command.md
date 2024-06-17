@@ -1,5 +1,5 @@
 ---
-display_name: Execute Command
+title: Execute Command
 order: 1
 ---
 ## Navigation

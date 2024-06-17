@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Plasticity
+title: Get Linear Plasticity
 order: 22
 ---
 ## Navigation

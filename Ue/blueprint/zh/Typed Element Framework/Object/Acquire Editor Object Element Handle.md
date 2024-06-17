@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Editor Object Element Handle
+title: Acquire Editor Object Element Handle
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Strike Brush
+title: Set Default Strike Brush
 order: 42
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: importance_remap
+title: importance_remap
 order: 6
 ---
 | Since | 18.5 |

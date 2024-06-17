@@ -1,5 +1,5 @@
 ---
-display_name: Get VREditor Mode
+title: Get VREditor Mode
 order: 25
 ---
 ## Navigation

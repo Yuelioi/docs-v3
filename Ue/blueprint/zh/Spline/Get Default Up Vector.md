@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Up Vector
+title: Get Default Up Vector
 order: 24
 ---
 ## Navigation

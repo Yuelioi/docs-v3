@@ -1,5 +1,5 @@
 ---
-display_name: Set Description
+title: Set Description
 order: 17
 ---
 ## Navigation

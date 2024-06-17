@@ -1,5 +1,5 @@
 ---
-display_name: Compute Controlled Free Move
+title: Compute Controlled Free Move
 order: 7
 ---
 ## Navigation

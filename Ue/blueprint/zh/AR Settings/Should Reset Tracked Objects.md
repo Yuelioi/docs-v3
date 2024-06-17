@@ -1,5 +1,5 @@
 ---
-display_name: Should Reset Tracked Objects
+title: Should Reset Tracked Objects
 order: 35
 ---
 ## Navigation

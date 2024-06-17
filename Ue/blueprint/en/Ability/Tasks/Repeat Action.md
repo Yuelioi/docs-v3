@@ -1,5 +1,5 @@
 ---
-display_name: Repeat Action
+title: Repeat Action
 order: 14
 ---
 ## Navigation

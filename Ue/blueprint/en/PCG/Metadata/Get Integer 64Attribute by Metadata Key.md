@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer 64Attribute by Metadata Key
+title: Get Integer 64Attribute by Metadata Key
 order: 36
 ---
 ## Navigation

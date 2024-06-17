@@ -1,5 +1,5 @@
 ---
-display_name: Render Target Cube Create Static Texture Cube Editor Only
+title: Render Target Cube Create Static Texture Cube Editor Only
 order: 7
 ---
 ## Navigation

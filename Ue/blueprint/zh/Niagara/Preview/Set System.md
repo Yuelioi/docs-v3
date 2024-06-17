@@ -1,5 +1,5 @@
 ---
-display_name: Set System
+title: Set System
 order: 2
 ---
 ## Navigation

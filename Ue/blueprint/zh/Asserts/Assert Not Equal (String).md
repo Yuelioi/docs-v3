@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (String)
+title: Assert Not Equal (String)
 order: 26
 ---
 ## Navigation

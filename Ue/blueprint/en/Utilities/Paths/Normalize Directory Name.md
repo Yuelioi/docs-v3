@@ -1,5 +1,5 @@
 ---
-display_name: Normalize Directory Name
+title: Normalize Directory Name
 order: 64
 ---
 ## Navigation

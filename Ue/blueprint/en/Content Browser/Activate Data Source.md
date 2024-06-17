@@ -1,5 +1,5 @@
 ---
-display_name: Activate Data Source
+title: Activate Data Source
 order: 2
 ---
 ## Navigation

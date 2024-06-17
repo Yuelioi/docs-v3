@@ -1,5 +1,5 @@
 ---
-display_name: Parameter-Supervision
+title: Parameter-Supervision
 order: 16
 ---
 

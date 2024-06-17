@@ -1,5 +1,5 @@
 ---
-display_name: Move Query to Index
+title: Move Query to Index
 order: 89
 ---
 ## Navigation

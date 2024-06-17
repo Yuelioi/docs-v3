@@ -1,5 +1,5 @@
 ---
-display_name: Get Plane Detection Mode
+title: Get Plane Detection Mode
 order: 14
 ---
 ## Navigation

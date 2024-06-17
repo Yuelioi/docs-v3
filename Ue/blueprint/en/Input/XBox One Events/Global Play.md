@@ -1,5 +1,5 @@
 ---
-display_name: Global Play
+title: Global Play
 order: 4
 ---
 ## Navigation

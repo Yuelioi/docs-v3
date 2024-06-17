@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_nor
+title: fuzzy_nor
 order: 5
 ---
 `int  fuzzy_nor(int a, int b, ...)`

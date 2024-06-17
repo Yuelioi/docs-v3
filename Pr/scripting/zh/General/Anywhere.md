@@ -1,5 +1,5 @@
 ---
-display_name: Anywhere
+title: Anywhere
 order: 2
 ---
 

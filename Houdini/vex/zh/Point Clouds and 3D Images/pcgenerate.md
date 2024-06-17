@@ -1,5 +1,5 @@
 ---
-display_name: pcgenerate
+title: pcgenerate
 order: 13
 ---
 `int  pcgenerate(string filename, int npoints)`

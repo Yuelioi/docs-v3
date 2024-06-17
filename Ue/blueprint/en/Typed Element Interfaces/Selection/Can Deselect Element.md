@@ -1,5 +1,5 @@
 ---
-display_name: Can Deselect Element
+title: Can Deselect Element
 order: 4
 ---
 ## Navigation

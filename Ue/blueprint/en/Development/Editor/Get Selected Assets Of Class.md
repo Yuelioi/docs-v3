@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Assets Of Class
+title: Get Selected Assets Of Class
 order: 12
 ---
 ## Navigation

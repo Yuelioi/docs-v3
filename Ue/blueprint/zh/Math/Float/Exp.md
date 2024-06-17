@@ -1,5 +1,5 @@
 ---
-display_name: Exp
+title: Exp
 order: 9
 ---
 ## Navigation

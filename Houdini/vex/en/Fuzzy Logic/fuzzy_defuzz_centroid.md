@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_defuzz_centroid
+title: fuzzy_defuzz_centroid
 order: 3
 ---
 `float  fuzzy_defuzz_centroid(float aggregated_membership[], float min_value, float max_value)`

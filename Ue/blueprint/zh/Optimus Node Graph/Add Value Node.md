@@ -1,5 +1,5 @@
 ---
-display_name: Add Value Node
+title: Add Value Node
 order: 10
 ---
 ## Navigation

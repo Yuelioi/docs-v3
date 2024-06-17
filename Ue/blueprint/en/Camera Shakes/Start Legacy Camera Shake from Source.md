@@ -1,5 +1,5 @@
 ---
-display_name: Start Legacy Camera Shake from Source
+title: Start Legacy Camera Shake from Source
 order: 4
 ---
 ## Navigation

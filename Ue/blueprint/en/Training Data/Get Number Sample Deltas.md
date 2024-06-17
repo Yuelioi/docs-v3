@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Sample Deltas
+title: Get Number Sample Deltas
 order: 4
 ---
 ## Navigation

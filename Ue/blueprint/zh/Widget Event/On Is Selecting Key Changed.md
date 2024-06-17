@@ -1,5 +1,5 @@
 ---
-display_name: On Is Selecting Key Changed
+title: On Is Selecting Key Changed
 order: 4
 ---
 ## Navigation

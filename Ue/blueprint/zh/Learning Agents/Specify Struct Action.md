@@ -1,5 +1,5 @@
 ---
-display_name: Specify Struct Action
+title: Specify Struct Action
 order: 329
 ---
 ## Navigation

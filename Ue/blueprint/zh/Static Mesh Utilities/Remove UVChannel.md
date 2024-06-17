@@ -1,5 +1,5 @@
 ---
-display_name: Remove UVChannel
+title: Remove UVChannel
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Divide
+title: Divide
 order: 2
 ---
 ## Navigation

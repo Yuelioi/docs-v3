@@ -1,5 +1,5 @@
 ---
-display_name: Is SmartObject Enabled (for any reason)
+title: Is SmartObject Enabled (for any reason)
 order: 34
 ---
 ## Navigation

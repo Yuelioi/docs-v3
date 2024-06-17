@@ -1,5 +1,5 @@
 ---
-display_name: Apply Radial Damage with Falloff
+title: Apply Radial Damage with Falloff
 order: 3
 ---
 ## Navigation

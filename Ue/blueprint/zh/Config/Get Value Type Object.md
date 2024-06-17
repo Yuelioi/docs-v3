@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Type Object
+title: Get Value Type Object
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Object Path)
+title: Add Key (Object Path)
 order: 8
 ---
 ## Navigation

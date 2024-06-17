@@ -1,5 +1,5 @@
 ---
-display_name: Migrate Packages (Message)
+title: Migrate Packages (Message)
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parse String to Guid
+title: Parse String to Guid
 order: 4
 ---
 ## Navigation

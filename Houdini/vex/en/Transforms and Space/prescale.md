@@ -1,5 +1,5 @@
 ---
-display_name: prescale
+title: prescale
 order: 18
 ---
 | Since | 17.5 |

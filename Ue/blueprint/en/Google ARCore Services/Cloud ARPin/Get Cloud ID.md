@@ -1,5 +1,5 @@
 ---
-display_name: Get Cloud ID
+title: Get Cloud ID
 order: 7
 ---
 ## Navigation

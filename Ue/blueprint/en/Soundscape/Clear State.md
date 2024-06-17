@@ -1,5 +1,5 @@
 ---
-display_name: Clear State
+title: Clear State
 order: 4
 ---
 ## Navigation

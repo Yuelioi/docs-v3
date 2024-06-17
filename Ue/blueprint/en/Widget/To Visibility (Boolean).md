@@ -1,5 +1,5 @@
 ---
-display_name: To Visibility (Boolean)
+title: To Visibility (Boolean)
 order: 54
 ---
 ## Navigation

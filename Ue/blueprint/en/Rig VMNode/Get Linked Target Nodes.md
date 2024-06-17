@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Target Nodes
+title: Get Linked Target Nodes
 order: 16
 ---
 ## Navigation

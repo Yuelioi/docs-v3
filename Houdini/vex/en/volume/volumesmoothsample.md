@@ -1,5 +1,5 @@
 ---
-display_name: volumesmoothsample
+title: volumesmoothsample
 order: 20
 ---
 `float  volumesmoothsample(<geometry>geometry, int primnum, vector pos)`

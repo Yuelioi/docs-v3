@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttachLocationX
+title: ToggleAttachLocationX
 order: 98
 ---
 ## Navigation

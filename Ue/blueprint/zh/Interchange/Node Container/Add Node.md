@@ -1,5 +1,5 @@
 ---
-display_name: Add Node
+title: Add Node
 order: 1
 ---
 ## Navigation

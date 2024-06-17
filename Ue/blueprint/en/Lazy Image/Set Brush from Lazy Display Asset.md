@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Lazy Display Asset
+title: Set Brush from Lazy Display Asset
 order: 3
 ---
 ## Navigation

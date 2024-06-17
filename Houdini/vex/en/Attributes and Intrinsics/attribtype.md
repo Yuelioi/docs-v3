@@ -1,5 +1,5 @@
 ---
-display_name: attribtype
+title: attribtype
 order: 11
 ---
 If you know the attribute class ahead of time, using [detailattribtype](detailattribtype.html "Returns the type of a geometry detail attribute."), [primattribtype](primattribtype.html "Returns the type of a geometry prim attribute."), [pointattribtype](pointattribtype.html "Returns the type of a geometry point attribute."), or [vertexattribtype](vertexattribtype.html "Returns the type of a geometry vertex attribute.") may be faster.

@@ -1,5 +1,5 @@
 ---
-display_name: Get Export Text Name
+title: Get Export Text Name
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Replace Parameter Node with Variable
+title: Replace Parameter Node with Variable
 order: 95
 ---
 ## Navigation

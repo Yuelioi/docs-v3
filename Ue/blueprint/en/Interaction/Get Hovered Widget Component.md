@@ -1,5 +1,5 @@
 ---
-display_name: Get Hovered Widget Component
+title: Get Hovered Widget Component
 order: 3
 ---
 ## Navigation

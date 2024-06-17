@@ -1,5 +1,5 @@
 ---
-display_name: Add Curve (Message)
+title: Add Curve (Message)
 order: 1
 ---
 ## Navigation

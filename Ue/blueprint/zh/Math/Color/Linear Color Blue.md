@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Blue
+title: Linear Color Blue
 order: 10
 ---
 ## Navigation

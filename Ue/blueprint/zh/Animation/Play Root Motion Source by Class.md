@@ -1,5 +1,5 @@
 ---
-display_name: Play Root Motion Source by Class
+title: Play Root Motion Source by Class
 order: 14
 ---
 ## Navigation

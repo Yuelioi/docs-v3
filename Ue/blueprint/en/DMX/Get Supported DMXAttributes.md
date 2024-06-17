@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported DMXAttributes
+title: Get Supported DMXAttributes
 order: 53
 ---
 ## Navigation

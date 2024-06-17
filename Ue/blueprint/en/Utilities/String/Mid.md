@@ -1,5 +1,5 @@
 ---
-display_name: Mid
+title: Mid
 order: 32
 ---
 ## Navigation

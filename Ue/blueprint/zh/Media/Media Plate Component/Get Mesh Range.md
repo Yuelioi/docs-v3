@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Range
+title: Get Mesh Range
 order: 6
 ---
 ## Navigation

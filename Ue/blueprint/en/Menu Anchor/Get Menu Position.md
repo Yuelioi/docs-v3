@@ -1,5 +1,5 @@
 ---
-display_name: Get Menu Position
+title: Get Menu Position
 order: 3
 ---
 ## Navigation

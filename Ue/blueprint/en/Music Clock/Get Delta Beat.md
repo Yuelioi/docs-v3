@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Beat
+title: Get Delta Beat
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Select Node
+title: Add Select Node
 order: 25
 ---
 ## Navigation

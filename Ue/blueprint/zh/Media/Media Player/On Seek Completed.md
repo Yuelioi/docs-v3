@@ -1,5 +1,5 @@
 ---
-display_name: On Seek Completed
+title: On Seek Completed
 order: 54
 ---
 ## Navigation

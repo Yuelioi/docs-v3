@@ -1,5 +1,5 @@
 ---
-display_name: Has Training Failed
+title: Has Training Failed
 order: 137
 ---
 ## Navigation

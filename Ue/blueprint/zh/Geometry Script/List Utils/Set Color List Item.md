@@ -1,5 +1,5 @@
 ---
-display_name: Set Color List Item
+title: Set Color List Item
 order: 43
 ---
 ## Navigation

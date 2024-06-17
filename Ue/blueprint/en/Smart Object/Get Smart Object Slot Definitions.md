@@ -1,5 +1,5 @@
 ---
-display_name: Get Smart Object Slot Definitions
+title: Get Smart Object Slot Definitions
 order: 29
 ---
 ## Navigation

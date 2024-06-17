@@ -1,5 +1,5 @@
 ---
-display_name: Hide Bookmark Spline Mesh Indicator Implementation
+title: Hide Bookmark Spline Mesh Indicator Implementation
 order: 14
 ---
 ## Navigation

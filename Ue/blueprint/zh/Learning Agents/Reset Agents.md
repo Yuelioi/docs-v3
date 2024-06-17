@@ -1,5 +1,5 @@
 ---
-display_name: Reset Agents
+title: Reset Agents
 order: 256
 ---
 ## Navigation

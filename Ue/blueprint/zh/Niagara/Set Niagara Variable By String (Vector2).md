@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Vector2)
+title: Set Niagara Variable By String (Vector2)
 order: 55
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Host from Url
+title: Get Host from Url
 order: 1
 ---
 ## Navigation

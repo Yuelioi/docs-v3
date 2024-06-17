@@ -1,5 +1,5 @@
 ---
-display_name: Assets Modified
+title: Assets Modified
 order: 4
 ---
 ## Navigation

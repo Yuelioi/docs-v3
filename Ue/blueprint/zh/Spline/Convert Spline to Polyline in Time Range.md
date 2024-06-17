@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Polyline in Time Range
+title: Convert Spline to Polyline in Time Range
 order: 10
 ---
 ## Navigation

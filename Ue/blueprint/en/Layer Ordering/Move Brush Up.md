@@ -1,5 +1,5 @@
 ---
-display_name: Move Brush Up
+title: Move Brush Up
 order: 2
 ---
 ## Navigation

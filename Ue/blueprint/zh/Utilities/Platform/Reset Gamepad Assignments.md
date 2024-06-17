@@ -1,5 +1,5 @@
 ---
-display_name: Reset Gamepad Assignments
+title: Reset Gamepad Assignments
 order: 21
 ---
 ## Navigation

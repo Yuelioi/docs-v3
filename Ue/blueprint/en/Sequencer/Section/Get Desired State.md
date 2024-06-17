@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired State
+title: Get Desired State
 order: 26
 ---
 ## Navigation

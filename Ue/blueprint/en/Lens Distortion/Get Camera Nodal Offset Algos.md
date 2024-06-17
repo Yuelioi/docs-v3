@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Nodal Offset Algos
+title: Get Camera Nodal Offset Algos
 order: 8
 ---
 ## Navigation

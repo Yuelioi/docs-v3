@@ -1,5 +1,5 @@
 ---
-display_name: Generate Planar UVChannel
+title: Generate Planar UVChannel
 order: 10
 ---
 ## Navigation

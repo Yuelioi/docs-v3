@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvarelementsize
+title: usd_iprimvarelementsize
 order: 53
 ---
 | Since | 19.0 |

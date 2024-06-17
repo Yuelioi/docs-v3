@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Frames
+title: Get Number Of Frames
 order: 22
 ---
 ## Navigation

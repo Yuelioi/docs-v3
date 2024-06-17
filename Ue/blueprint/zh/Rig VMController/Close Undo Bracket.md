@@ -1,5 +1,5 @@
 ---
-display_name: Close Undo Bracket
+title: Close Undo Bracket
 order: 42
 ---
 ## Navigation

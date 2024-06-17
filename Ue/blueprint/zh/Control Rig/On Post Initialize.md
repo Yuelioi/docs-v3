@@ -1,5 +1,5 @@
 ---
-display_name: On Post Initialize
+title: On Post Initialize
 order: 18
 ---
 ## Navigation

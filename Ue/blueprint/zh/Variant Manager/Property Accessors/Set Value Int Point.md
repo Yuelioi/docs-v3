@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Int Point
+title: Set Value Int Point
 order: 17
 ---
 ## Navigation

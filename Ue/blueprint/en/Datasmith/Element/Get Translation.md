@@ -1,5 +1,5 @@
 ---
-display_name: Get Translation
+title: Get Translation
 order: 68
 ---
 ## Navigation

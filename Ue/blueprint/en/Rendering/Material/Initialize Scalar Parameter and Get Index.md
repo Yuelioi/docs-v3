@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Scalar Parameter and Get Index
+title: Initialize Scalar Parameter and Get Index
 order: 32
 ---
 ## Navigation

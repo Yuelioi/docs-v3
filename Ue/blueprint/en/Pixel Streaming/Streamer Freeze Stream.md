@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Freeze Stream
+title: Streamer Freeze Stream
 order: 27
 ---
 ## Navigation

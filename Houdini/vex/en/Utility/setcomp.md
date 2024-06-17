@@ -1,5 +1,5 @@
 ---
-display_name: setcomp
+title: setcomp
 order: 18
 ---
 `float|void setcomp(<vector>&target, float value, int index)`

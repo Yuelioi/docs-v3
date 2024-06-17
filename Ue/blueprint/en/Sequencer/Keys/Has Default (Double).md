@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Double)
+title: Has Default (Double)
 order: 76
 ---
 ## Navigation

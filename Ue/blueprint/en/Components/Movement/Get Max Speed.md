@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Speed
+title: Get Max Speed
 order: 2
 ---
 ## Navigation

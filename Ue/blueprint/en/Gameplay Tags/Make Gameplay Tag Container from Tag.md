@@ -1,5 +1,5 @@
 ---
-display_name: Make Gameplay Tag Container from Tag
+title: Make Gameplay Tag Container from Tag
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Location by Name
+title: Get Bone Location by Name
 order: 2
 ---
 ## Navigation

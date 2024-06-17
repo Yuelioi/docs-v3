@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Selection State
+title: Get Current Selection State
 order: 11
 ---
 ## Navigation

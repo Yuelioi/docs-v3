@@ -1,5 +1,5 @@
 ---
-display_name: Append Disc
+title: Append Disc
 order: 8
 ---
 ## Navigation

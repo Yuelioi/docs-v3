@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Weight
+title: Get Parent Weight
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Auto Connect Secondary Connectors
+title: Auto Connect Secondary Connectors
 order: 3
 ---
 ## Navigation

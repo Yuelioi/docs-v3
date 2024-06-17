@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Color
+title: Set Value Color
 order: 25
 ---
 ## Navigation

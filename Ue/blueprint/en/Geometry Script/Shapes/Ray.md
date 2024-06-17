@@ -1,5 +1,5 @@
 ---
-display_name: Ray
+title: Ray
 order: 2
 ---
 ## Navigation

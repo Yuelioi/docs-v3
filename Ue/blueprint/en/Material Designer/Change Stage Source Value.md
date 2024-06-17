@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source Value
+title: Change Stage Source Value
 order: 37
 ---
 ## Navigation

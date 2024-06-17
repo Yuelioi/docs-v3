@@ -1,5 +1,5 @@
 ---
-display_name: Add Velocity Change Impulse at Location
+title: Add Velocity Change Impulse at Location
 order: 16
 ---
 ## Navigation

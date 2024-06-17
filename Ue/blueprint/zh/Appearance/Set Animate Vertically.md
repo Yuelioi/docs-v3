@@ -1,5 +1,5 @@
 ---
-display_name: Set Animate Vertically
+title: Set Animate Vertically
 order: 13
 ---
 ## Navigation

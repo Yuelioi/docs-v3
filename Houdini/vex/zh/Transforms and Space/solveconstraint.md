@@ -1,5 +1,5 @@
 ---
-display_name: solveconstraint
+title: solveconstraint
 order: 26
 ---
 | Since | 17.5 |

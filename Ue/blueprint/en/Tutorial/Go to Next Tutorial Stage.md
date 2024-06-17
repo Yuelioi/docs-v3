@@ -1,5 +1,5 @@
 ---
-display_name: Go to Next Tutorial Stage
+title: Go to Next Tutorial Stage
 order: 4
 ---
 ## Navigation

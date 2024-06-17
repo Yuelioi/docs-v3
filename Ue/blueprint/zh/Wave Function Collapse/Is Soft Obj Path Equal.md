@@ -1,5 +1,5 @@
 ---
-display_name: Is Soft Obj Path Equal
+title: Is Soft Obj Path Equal
 order: 17
 ---
 ## Navigation

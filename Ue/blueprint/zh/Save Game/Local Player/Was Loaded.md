@@ -1,5 +1,5 @@
 ---
-display_name: Was Loaded
+title: Was Loaded
 order: 15
 ---
 ## Navigation

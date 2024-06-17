@@ -1,5 +1,5 @@
 ---
-display_name: Add Int
+title: Add Int
 order: 2
 ---
 ## Navigation

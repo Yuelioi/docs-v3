@@ -1,5 +1,5 @@
 ---
-display_name: Apply Radius Damage
+title: Apply Radius Damage
 order: 2
 ---
 ## Navigation

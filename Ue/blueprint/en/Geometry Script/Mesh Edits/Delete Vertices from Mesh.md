@@ -1,5 +1,5 @@
 ---
-display_name: Delete Vertices from Mesh
+title: Delete Vertices from Mesh
 order: 14
 ---
 ## Navigation

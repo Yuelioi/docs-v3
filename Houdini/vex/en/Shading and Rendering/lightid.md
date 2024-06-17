@@ -1,5 +1,5 @@
 ---
-display_name: lightid
+title: lightid
 order: 49
 ---
 | Context(s) | [shading](../contexts/shading.html) |

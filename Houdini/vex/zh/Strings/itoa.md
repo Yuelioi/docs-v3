@@ -1,5 +1,5 @@
 ---
-display_name: itoa
+title: itoa
 order: 16
 ---
 `string  itoa(int number)`

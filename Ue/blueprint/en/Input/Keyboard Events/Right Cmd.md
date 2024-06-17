@@ -1,5 +1,5 @@
 ---
-display_name: Right Cmd
+title: Right Cmd
 order: 91
 ---
 ## Navigation

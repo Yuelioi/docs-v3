@@ -1,5 +1,5 @@
 ---
-display_name: Get Set by Caller Magnitude by Name
+title: Get Set by Caller Magnitude by Name
 order: 22
 ---
 ## Navigation

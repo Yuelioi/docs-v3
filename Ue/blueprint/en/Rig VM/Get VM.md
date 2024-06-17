@@ -1,5 +1,5 @@
 ---
-display_name: Get VM
+title: Get VM
 order: 9
 ---
 ## Navigation

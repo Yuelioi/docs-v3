@@ -1,5 +1,5 @@
 ---
-display_name: Set Width Override
+title: Set Width Override
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: atof
+title: atof
 order: 1
 ---
 `float  atof(string str)`

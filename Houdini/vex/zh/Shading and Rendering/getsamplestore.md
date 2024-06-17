@@ -1,5 +1,5 @@
 ---
-display_name: getsamplestore
+title: getsamplestore
 order: 31
 ---
 | Context(s) | [shading](../contexts/shading.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Flip Faces
+title: Flip Faces
 order: 6
 ---
 ## Navigation

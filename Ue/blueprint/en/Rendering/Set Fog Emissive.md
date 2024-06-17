@@ -1,5 +1,5 @@
 ---
-display_name: Set Fog Emissive
+title: Set Fog Emissive
 order: 33
 ---
 ## Navigation

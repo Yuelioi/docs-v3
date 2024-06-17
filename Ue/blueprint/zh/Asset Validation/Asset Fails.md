@@ -1,5 +1,5 @@
 ---
-display_name: Asset Fails
+title: Asset Fails
 order: 1
 ---
 ## Navigation

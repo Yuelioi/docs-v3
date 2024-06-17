@@ -1,5 +1,5 @@
 ---
-display_name: Get Disk Free Space
+title: Get Disk Free Space
 order: 2
 ---
 ## Navigation

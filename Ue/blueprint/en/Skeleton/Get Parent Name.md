@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Name
+title: Get Parent Name
 order: 9
 ---
 ## Navigation

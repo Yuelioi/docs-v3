@@ -1,5 +1,5 @@
 ---
-display_name: Get GeometryMaskSubsystem
+title: Get GeometryMaskSubsystem
 order: 20
 ---
 ## Navigation

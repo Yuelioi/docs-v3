@@ -1,5 +1,5 @@
 ---
-display_name: Set Tiling
+title: Set Tiling
 order: 28
 ---
 ## Navigation

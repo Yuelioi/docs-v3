@@ -1,5 +1,5 @@
 ---
-display_name: Consumer
+title: Consumer
 order: 2
 ---
 ## Navigation

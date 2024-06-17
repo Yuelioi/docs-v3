@@ -1,5 +1,5 @@
 ---
-display_name: Set Translucency Sort Distance Offset
+title: Set Translucency Sort Distance Offset
 order: 89
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Offset in Retarget Pose
+title: Get Root Offset in Retarget Pose
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Entries
+title: Get All Entries
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Replication Mode
+title: Get Physics Replication Mode
 order: 1
 ---
 ## Navigation

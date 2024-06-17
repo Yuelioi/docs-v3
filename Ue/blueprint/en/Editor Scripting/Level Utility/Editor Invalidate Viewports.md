@@ -1,5 +1,5 @@
 ---
-display_name: Editor Invalidate Viewports
+title: Editor Invalidate Viewports
 order: 10
 ---
 ## Navigation

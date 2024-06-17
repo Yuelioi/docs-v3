@@ -1,5 +1,5 @@
 ---
-display_name: addpoint
+title: addpoint
 order: 1
 ---
 `int  addpoint(int geohandle, int point_number)`

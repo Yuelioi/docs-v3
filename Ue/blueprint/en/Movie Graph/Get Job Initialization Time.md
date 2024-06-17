@@ -1,5 +1,5 @@
 ---
-display_name: Get Job Initialization Time
+title: Get Job Initialization Time
 order: 32
 ---
 ## Navigation

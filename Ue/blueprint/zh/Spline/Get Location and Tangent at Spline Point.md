@@ -1,5 +1,5 @@
 ---
-display_name: Get Location and Tangent at Spline Point
+title: Get Location and Tangent at Spline Point
 order: 37
 ---
 ## Navigation

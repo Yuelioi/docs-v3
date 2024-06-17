@@ -1,5 +1,5 @@
 ---
-display_name: Record Progress with Attributes
+title: Record Progress with Attributes
 order: 15
 ---
 ## Navigation

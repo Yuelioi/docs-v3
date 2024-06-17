@@ -1,5 +1,5 @@
 ---
-display_name: Absolute to Viewport
+title: Absolute to Viewport
 order: 2
 ---
 ## Navigation

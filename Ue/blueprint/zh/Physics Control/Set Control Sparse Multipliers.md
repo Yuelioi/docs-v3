@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Sparse Multipliers
+title: Set Control Sparse Multipliers
 order: 99
 ---
 ## Navigation

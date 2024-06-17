@@ -1,5 +1,5 @@
 ---
-display_name: Get Critic Network Asset
+title: Get Critic Network Asset
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get AR World Scale
+title: Get AR World Scale
 order: 1
 ---
 ## Navigation

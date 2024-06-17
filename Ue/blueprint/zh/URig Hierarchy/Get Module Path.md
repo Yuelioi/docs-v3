@@ -1,5 +1,5 @@
 ---
-display_name: Get Module Path
+title: Get Module Path
 order: 55
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarelement
+title: usd_primvarelement
 order: 107
 ---
 | Since | 18.0 |

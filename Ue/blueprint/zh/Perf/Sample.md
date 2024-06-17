@@ -1,5 +1,5 @@
 ---
-display_name: Sample
+title: Sample
 order: 20
 ---
 ## Navigation

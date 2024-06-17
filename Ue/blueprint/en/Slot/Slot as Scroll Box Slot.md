@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Scroll Box Slot
+title: Slot as Scroll Box Slot
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Tangent Normal
+title: Make Bake Type Tangent Normal
 order: 14
 ---
 ## Navigation

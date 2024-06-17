@@ -1,5 +1,5 @@
 ---
-display_name: Get Drop Frame Number
+title: Get Drop Frame Number
 order: 2
 ---
 ## Navigation

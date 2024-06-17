@@ -1,5 +1,5 @@
 ---
-display_name: Get Ms Per Bar at Ms
+title: Get Ms Per Bar at Ms
 order: 2
 ---
 ## Navigation

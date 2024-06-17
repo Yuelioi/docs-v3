@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Matrix 4d Array
+title: Unstringify as Matrix 4d Array
 order: 107
 ---
 ## Navigation

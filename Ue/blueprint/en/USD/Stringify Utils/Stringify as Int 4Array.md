@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int 4Array
+title: Stringify as Int 4Array
 order: 34
 ---
 ## Navigation

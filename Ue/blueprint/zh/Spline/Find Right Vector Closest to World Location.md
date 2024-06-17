@@ -1,5 +1,5 @@
 ---
-display_name: Find Right Vector Closest to World Location
+title: Find Right Vector Closest to World Location
 order: 16
 ---
 ## Navigation

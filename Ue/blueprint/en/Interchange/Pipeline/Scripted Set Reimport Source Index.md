@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Set Reimport Source Index
+title: Scripted Set Reimport Source Index
 order: 9
 ---
 ## Navigation

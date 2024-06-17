@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Parameter Selected Option
+title: Set Float Parameter Selected Option
 order: 66
 ---
 ## Navigation

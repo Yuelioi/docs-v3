@@ -1,5 +1,5 @@
 ---
-display_name: 中间值
+title: 中间值
 order: 5
 ---
 

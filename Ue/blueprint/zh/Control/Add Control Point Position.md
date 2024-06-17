@@ -1,5 +1,5 @@
 ---
-display_name: Add Control Point Position
+title: Add Control Point Position
 order: 1
 ---
 ## Navigation

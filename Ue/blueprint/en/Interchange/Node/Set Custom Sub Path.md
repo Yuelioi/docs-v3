@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Sub Path
+title: Set Custom Sub Path
 order: 66
 ---
 ## Navigation

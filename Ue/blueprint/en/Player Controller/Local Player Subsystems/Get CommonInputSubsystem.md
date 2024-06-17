@@ -1,5 +1,5 @@
 ---
-display_name: Get CommonInputSubsystem
+title: Get CommonInputSubsystem
 order: 1
 ---
 ## Navigation

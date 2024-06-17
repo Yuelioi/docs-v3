@@ -1,5 +1,5 @@
 ---
-display_name: GetTextureSourceDiskAndMemorySize
+title: GetTextureSourceDiskAndMemorySize
 order: 6
 ---
 ## Navigation

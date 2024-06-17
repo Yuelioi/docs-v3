@@ -1,5 +1,5 @@
 ---
-display_name: Set Visibility Of Points in Box
+title: Set Visibility Of Points in Box
 order: 71
 ---
 ## Navigation

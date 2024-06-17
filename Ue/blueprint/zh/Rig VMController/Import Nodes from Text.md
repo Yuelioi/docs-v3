@@ -1,5 +1,5 @@
 ---
-display_name: Import Nodes from Text
+title: Import Nodes from Text
 order: 60
 ---
 ## Navigation

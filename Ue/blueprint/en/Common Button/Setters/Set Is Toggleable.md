@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Toggleable
+title: Set Is Toggleable
 order: 9
 ---
 ## Navigation

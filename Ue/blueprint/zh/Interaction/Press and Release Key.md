@@ -1,5 +1,5 @@
 ---
-display_name: Press and Release Key
+title: Press and Release Key
 order: 13
 ---
 ## Navigation

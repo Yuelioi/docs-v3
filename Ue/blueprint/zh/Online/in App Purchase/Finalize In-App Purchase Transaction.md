@@ -1,5 +1,5 @@
 ---
-display_name: Finalize In-App Purchase Transaction
+title: Finalize In-App Purchase Transaction
 order: 1
 ---
 ## Navigation

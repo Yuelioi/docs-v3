@@ -1,5 +1,5 @@
 ---
-display_name: Update Skeletal Mesh Component
+title: Update Skeletal Mesh Component
 order: 9
 ---
 ## Navigation

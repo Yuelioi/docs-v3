@@ -1,5 +1,5 @@
 ---
-display_name: Make Rot from XY
+title: Make Rot from XY
 order: 13
 ---
 ## Navigation

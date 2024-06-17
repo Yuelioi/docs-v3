@@ -1,5 +1,5 @@
 ---
-display_name: Render
+title: Render
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Verify View Model Rename
+title: Verify View Model Rename
 order: 29
 ---
 ## Navigation

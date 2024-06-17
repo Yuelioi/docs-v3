@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Preferred Rotator by Index
+title: Set Control Preferred Rotator by Index
 order: 131
 ---
 ## Navigation

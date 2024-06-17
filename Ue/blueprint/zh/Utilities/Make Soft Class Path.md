@@ -1,5 +1,5 @@
 ---
-display_name: Make Soft Class Path
+title: Make Soft Class Path
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Released
+title: On Released
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SlerpNormals
+title: SlerpNormals
 order: 54
 ---
 ## Navigation

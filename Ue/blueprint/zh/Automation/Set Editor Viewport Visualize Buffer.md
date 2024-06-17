@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Viewport Visualize Buffer
+title: Set Editor Viewport Visualize Buffer
 order: 29
 ---
 ## Navigation

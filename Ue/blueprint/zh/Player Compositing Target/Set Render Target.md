@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Target
+title: Set Render Target
 order: 3
 ---
 ## Navigation

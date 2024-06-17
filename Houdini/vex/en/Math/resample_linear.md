@@ -1,5 +1,5 @@
 ---
-display_name: resample_linear
+title: resample_linear
 order: 66
 ---
 `float [] resample_linear(float input[], int new_length)`

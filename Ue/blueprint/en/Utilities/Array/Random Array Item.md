@@ -1,5 +1,5 @@
 ---
-display_name: Random Array Item
+title: Random Array Item
 order: 19
 ---
 ## Navigation

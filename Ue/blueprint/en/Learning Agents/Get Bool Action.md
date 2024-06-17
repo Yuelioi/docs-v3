@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Action
+title: Get Bool Action
 order: 43
 ---
 ## Navigation

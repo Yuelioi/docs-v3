@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Observation to Arrays
+title: Get Struct Observation to Arrays
 order: 125
 ---
 ## Navigation

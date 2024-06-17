@@ -1,5 +1,5 @@
 ---
-display_name: agentcliptransformgroups
+title: agentcliptransformgroups
 order: 18
 ---
 See [Transform Groups](../../crowds/agents.html#xformgroups) for more information.

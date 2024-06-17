@@ -1,5 +1,5 @@
 ---
-display_name: Set Row Note Number
+title: Set Row Note Number
 order: 12
 ---
 ## Navigation

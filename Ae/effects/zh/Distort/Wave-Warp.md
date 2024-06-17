@@ -1,5 +1,5 @@
 ---
-display_name: 波形变形
+title: 波形变形
 order: 37
 ---
 

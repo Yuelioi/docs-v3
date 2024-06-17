@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation Gameplay Tags
+title: Set Animation Gameplay Tags
 order: 61
 ---
 ## Navigation

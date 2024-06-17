@@ -1,5 +1,5 @@
 ---
-display_name: Copy Mesh from Component
+title: Copy Mesh from Component
 order: 2
 ---
 ## Navigation

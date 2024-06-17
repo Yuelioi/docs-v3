@@ -1,5 +1,5 @@
 ---
-display_name: Force Update
+title: Force Update
 order: 4
 ---
 ## Navigation

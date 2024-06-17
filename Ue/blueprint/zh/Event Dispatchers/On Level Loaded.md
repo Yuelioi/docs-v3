@@ -1,5 +1,5 @@
 ---
-display_name: On Level Loaded
+title: On Level Loaded
 order: 108
 ---
 ## Navigation

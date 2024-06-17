@@ -1,5 +1,5 @@
 ---
-display_name: Create Template Sequence Player
+title: Create Template Sequence Player
 order: 4
 ---
 ## Navigation

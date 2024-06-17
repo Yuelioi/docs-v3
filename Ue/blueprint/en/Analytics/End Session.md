@@ -1,5 +1,5 @@
 ---
-display_name: End Session
+title: End Session
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Cone in Degrees from Stream
+title: Random Unit Vector in Cone in Degrees from Stream
 order: 34
 ---
 ## Navigation

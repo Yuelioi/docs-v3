@@ -1,5 +1,5 @@
 ---
-display_name: Get System Path
+title: Get System Path
 order: 51
 ---
 ## Navigation

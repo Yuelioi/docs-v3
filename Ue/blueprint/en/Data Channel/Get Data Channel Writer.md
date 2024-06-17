@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Channel Writer
+title: Get Data Channel Writer
 order: 2
 ---
 ## Navigation

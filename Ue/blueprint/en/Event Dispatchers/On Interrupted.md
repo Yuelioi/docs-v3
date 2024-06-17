@@ -1,5 +1,5 @@
 ---
-display_name: On Interrupted
+title: On Interrupted
 order: 98
 ---
 ## Navigation

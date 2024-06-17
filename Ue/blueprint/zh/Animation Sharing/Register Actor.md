@@ -1,5 +1,5 @@
 ---
-display_name: Register Actor
+title: Register Actor
 order: 5
 ---
 ## Navigation

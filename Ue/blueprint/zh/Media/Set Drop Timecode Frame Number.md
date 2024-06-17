@@ -1,5 +1,5 @@
 ---
-display_name: Set Drop Timecode Frame Number
+title: Set Drop Timecode Frame Number
 order: 12
 ---
 ## Navigation

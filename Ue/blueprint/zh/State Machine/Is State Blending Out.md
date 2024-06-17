@@ -1,5 +1,5 @@
 ---
-display_name: Is State Blending Out
+title: Is State Blending Out
 order: 7
 ---
 ## Navigation

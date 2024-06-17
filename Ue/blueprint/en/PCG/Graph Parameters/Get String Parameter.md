@@ -1,5 +1,5 @@
 ---
-display_name: Get String Parameter
+title: Get String Parameter
 order: 16
 ---
 ## Navigation

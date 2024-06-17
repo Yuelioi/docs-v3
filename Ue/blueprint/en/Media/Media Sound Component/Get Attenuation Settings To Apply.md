@@ -1,5 +1,5 @@
 ---
-display_name: Get Attenuation Settings To Apply
+title: Get Attenuation Settings To Apply
 order: 1
 ---
 ## Navigation

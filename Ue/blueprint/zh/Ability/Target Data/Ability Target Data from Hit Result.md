@@ -1,5 +1,5 @@
 ---
-display_name: Ability Target Data from Hit Result
+title: Ability Target Data from Hit Result
 order: 3
 ---
 ## Navigation

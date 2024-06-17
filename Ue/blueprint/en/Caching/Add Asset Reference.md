@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset Reference
+title: Add Asset Reference
 order: 1
 ---
 ## Navigation

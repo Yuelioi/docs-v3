@@ -1,5 +1,5 @@
 ---
-display_name: Set Can Render While Seeking
+title: Set Can Render While Seeking
 order: 13
 ---
 ## Navigation

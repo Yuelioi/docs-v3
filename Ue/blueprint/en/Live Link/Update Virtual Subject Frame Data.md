@@ -1,5 +1,5 @@
 ---
-display_name: Update Virtual Subject Frame Data
+title: Update Virtual Subject Frame Data
 order: 43
 ---
 ## Navigation

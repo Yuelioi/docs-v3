@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Onsets Between Times
+title: Get Channel Onsets Between Times
 order: 4
 ---
 ## Navigation

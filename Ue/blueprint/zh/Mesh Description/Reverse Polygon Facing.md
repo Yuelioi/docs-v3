@@ -1,5 +1,5 @@
 ---
-display_name: Reverse Polygon Facing
+title: Reverse Polygon Facing
 order: 90
 ---
 ## Navigation

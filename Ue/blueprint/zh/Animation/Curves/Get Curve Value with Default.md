@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Value with Default
+title: Get Curve Value with Default
 order: 3
 ---
 ## Navigation

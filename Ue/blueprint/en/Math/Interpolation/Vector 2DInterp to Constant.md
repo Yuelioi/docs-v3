@@ -1,5 +1,5 @@
 ---
-display_name: Vector 2DInterp to Constant
+title: Vector 2DInterp to Constant
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Parameter
+title: Set Object Parameter
 order: 31
 ---
 ## Navigation

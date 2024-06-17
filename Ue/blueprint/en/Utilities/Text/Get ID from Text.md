@@ -1,5 +1,5 @@
 ---
-display_name: Get ID from Text
+title: Get ID from Text
 order: 18
 ---
 ## Navigation

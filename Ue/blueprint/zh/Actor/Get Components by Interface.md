@@ -1,5 +1,5 @@
 ---
-display_name: Get Components by Interface
+title: Get Components by Interface
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: New Stage
+title: New Stage
 order: 7
 ---
 ## Navigation

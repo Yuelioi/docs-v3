@@ -1,5 +1,5 @@
 ---
-display_name: Is Temporarily Hidden in Editor
+title: Is Temporarily Hidden in Editor
 order: 8
 ---
 ## Navigation

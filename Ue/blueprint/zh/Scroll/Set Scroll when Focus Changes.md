@@ -1,5 +1,5 @@
 ---
-display_name: Set Scroll when Focus Changes
+title: Set Scroll when Focus Changes
 order: 9
 ---
 ## Navigation

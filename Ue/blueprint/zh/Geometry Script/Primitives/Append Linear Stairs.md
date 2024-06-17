@@ -1,5 +1,5 @@
 ---
-display_name: Append Linear Stairs
+title: Append Linear Stairs
 order: 9
 ---
 ## Navigation

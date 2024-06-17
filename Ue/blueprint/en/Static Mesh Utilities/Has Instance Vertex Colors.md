@@ -1,5 +1,5 @@
 ---
-display_name: Has Instance Vertex Colors
+title: Has Instance Vertex Colors
 order: 21
 ---
 ## Navigation

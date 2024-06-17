@@ -1,5 +1,5 @@
 ---
-display_name: HasAuthority
+title: HasAuthority
 order: 51
 ---
 ## Navigation

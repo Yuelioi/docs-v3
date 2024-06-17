@@ -1,5 +1,5 @@
 ---
-display_name: QE DOM
+title: QE DOM
 order: 2
 ---
 

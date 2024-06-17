@@ -1,5 +1,5 @@
 ---
-display_name: Modulation
+title: Modulation
 order: 55
 ---
 ## Navigation

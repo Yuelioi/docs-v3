@@ -1,5 +1,5 @@
 ---
-display_name: On Chaos Removal Event
+title: On Chaos Removal Event
 order: 4
 ---
 ## Navigation

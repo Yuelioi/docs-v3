@@ -1,5 +1,5 @@
 ---
-display_name: Set HMDColor Scale and Bias
+title: Set HMDColor Scale and Bias
 order: 20
 ---
 ## Navigation

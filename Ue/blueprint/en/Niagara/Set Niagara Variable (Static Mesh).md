@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Static Mesh)
+title: Set Niagara Variable (Static Mesh)
 order: 40
 ---
 ## Navigation

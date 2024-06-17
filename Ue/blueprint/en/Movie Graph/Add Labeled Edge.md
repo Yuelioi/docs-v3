@@ -1,5 +1,5 @@
 ---
-display_name: Add Labeled Edge
+title: Add Labeled Edge
 order: 2
 ---
 ## Navigation

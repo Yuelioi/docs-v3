@@ -1,5 +1,5 @@
 ---
-display_name: Get Ping in Milliseconds
+title: Get Ping in Milliseconds
 order: 2
 ---
 ## Navigation

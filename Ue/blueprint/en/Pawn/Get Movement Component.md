@@ -1,5 +1,5 @@
 ---
-display_name: Get Movement Component
+title: Get Movement Component
 order: 12
 ---
 ## Navigation

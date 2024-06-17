@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Offset
+title: Set Control Offset
 order: 30
 ---
 ## Navigation

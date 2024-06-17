@@ -1,5 +1,5 @@
 ---
-display_name: Keyboard Events
+title: Keyboard Events
 order: 5
 ---
 ## Navigation

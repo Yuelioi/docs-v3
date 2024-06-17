@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Device Property
+title: Get Active Device Property
 order: 2
 ---
 ## Navigation

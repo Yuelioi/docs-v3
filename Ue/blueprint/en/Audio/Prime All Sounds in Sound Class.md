@@ -1,5 +1,5 @@
 ---
-display_name: Prime All Sounds in Sound Class
+title: Prime All Sounds in Sound Class
 order: 43
 ---
 ## Navigation

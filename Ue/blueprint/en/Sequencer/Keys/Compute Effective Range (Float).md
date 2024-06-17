@@ -1,5 +1,5 @@
 ---
-display_name: Compute Effective Range (Float)
+title: Compute Effective Range (Float)
 order: 12
 ---
 ## Navigation

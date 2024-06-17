@@ -1,5 +1,5 @@
 ---
-display_name: Gather Rewards
+title: Gather Rewards
 order: 23
 ---
 ## Navigation

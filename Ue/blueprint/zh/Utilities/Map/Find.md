@@ -1,5 +1,5 @@
 ---
-display_name: Find
+title: Find
 order: 4
 ---
 ## Navigation

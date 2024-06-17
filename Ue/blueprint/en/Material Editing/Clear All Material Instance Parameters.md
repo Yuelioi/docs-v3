@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Material Instance Parameters
+title: Clear All Material Instance Parameters
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertical Distance To
+title: Get Vertical Distance To
 order: 51
 ---
 ## Navigation

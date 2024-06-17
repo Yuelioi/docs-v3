@@ -1,5 +1,5 @@
 ---
-display_name: Get Allow Cloth Actors
+title: Get Allow Cloth Actors
 order: 4
 ---
 ## Navigation

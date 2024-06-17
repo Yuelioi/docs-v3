@@ -1,5 +1,5 @@
 ---
-display_name: Get Occlusion Query Mode
+title: Get Occlusion Query Mode
 order: 19
 ---
 ## Navigation

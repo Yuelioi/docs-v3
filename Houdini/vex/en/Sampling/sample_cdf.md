@@ -1,5 +1,5 @@
 ---
-display_name: sample_cdf
+title: sample_cdf
 order: 7
 ---
 | On this page | * [Overview](#overview) * [Usage](#usage) |

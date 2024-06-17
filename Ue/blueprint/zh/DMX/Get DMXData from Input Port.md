@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXData from Input Port
+title: Get DMXData from Input Port
 order: 41
 ---
 ## Navigation

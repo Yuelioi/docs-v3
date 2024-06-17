@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug String from Gameplay Tag Container
+title: Get Debug String from Gameplay Tag Container
 order: 8
 ---
 ## Navigation

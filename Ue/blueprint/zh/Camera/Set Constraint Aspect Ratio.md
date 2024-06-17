@@ -1,5 +1,5 @@
 ---
-display_name: Set Constraint Aspect Ratio
+title: Set Constraint Aspect Ratio
 order: 22
 ---
 ## Navigation

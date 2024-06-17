@@ -1,5 +1,5 @@
 ---
-display_name: Get Policy Network Asset
+title: Get Policy Network Asset
 order: 101
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Animation Tracks (Message)
+title: Get Bone Animation Tracks (Message)
 order: 3
 ---
 ## Navigation

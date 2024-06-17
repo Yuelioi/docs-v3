@@ -1,5 +1,5 @@
 ---
-display_name: Undo
+title: Undo
 order: 128
 ---
 ## Navigation

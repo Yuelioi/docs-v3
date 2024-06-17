@@ -1,5 +1,5 @@
 ---
-display_name: chprim_clear
+title: chprim_clear
 order: 1
 ---
 `int  chprim_clear(int geohandle, int prim)`

@@ -1,5 +1,5 @@
 ---
-display_name: Revert Sequencer Animations
+title: Revert Sequencer Animations
 order: 8
 ---
 ## Navigation

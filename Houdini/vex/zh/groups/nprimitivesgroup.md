@@ -1,5 +1,5 @@
 ---
-display_name: nprimitivesgroup
+title: nprimitivesgroup
 order: 9
 ---
 `int  nprimitivesgroup(<geometry>geometry, string groupname)`

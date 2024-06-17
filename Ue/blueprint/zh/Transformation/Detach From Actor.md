@@ -1,5 +1,5 @@
 ---
-display_name: Detach From Actor
+title: Detach From Actor
 order: 20
 ---
 ## Navigation

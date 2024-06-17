@@ -1,5 +1,5 @@
 ---
-display_name: chnames
+title: chnames
 order: 10
 ---
 | Context(s) | [chop](../contexts/chop.html) |

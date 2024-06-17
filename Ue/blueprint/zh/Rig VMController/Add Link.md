@@ -1,5 +1,5 @@
 ---
-display_name: Add Link
+title: Add Link
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Matrix 2d Array
+title: Stringify as Matrix 2d Array
 order: 40
 ---
 ## Navigation

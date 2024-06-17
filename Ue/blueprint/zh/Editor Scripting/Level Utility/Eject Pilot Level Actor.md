@@ -1,5 +1,5 @@
 ---
-display_name: Eject Pilot Level Actor
+title: Eject Pilot Level Actor
 order: 14
 ---
 ## Navigation

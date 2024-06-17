@@ -1,5 +1,5 @@
 ---
-display_name: Should Hide Sub Pins
+title: Should Hide Sub Pins
 order: 53
 ---
 ## Navigation

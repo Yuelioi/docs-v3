@@ -1,5 +1,5 @@
 ---
-display_name: Stop Movement
+title: Stop Movement
 order: 46
 ---
 ## Navigation

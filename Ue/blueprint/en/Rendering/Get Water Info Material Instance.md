@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Info Material Instance
+title: Get Water Info Material Instance
 order: 25
 ---
 ## Navigation

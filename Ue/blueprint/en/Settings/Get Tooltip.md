@@ -1,5 +1,5 @@
 ---
-display_name: Get Tooltip
+title: Get Tooltip
 order: 66
 ---
 ## Navigation

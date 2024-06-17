@@ -1,5 +1,5 @@
 ---
-display_name: primattribtype
+title: primattribtype
 order: 49
 ---
 `int  primattribtype(<geometry>geometry, string attribute_name)`

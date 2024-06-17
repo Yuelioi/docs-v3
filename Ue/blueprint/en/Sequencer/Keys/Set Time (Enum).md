@@ -1,5 +1,5 @@
 ---
-display_name: Set Time (Enum)
+title: Set Time (Enum)
 order: 119
 ---
 ## Navigation

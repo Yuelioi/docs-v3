@@ -1,5 +1,5 @@
 ---
-display_name: Device Switched
+title: Device Switched
 order: 6
 ---
 ## Navigation

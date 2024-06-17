@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Evaluation State
+title: Get Channel Evaluation State
 order: 11
 ---
 ## Navigation

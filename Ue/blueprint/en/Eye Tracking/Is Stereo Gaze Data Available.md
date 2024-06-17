@@ -1,5 +1,5 @@
 ---
-display_name: Is Stereo Gaze Data Available
+title: Is Stereo Gaze Data Available
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: isfinite
+title: isfinite
 order: 33
 ---
 `int  isfinite(float x)`

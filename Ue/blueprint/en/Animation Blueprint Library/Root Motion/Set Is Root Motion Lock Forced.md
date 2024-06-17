@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Root Motion Lock Forced
+title: Set Is Root Motion Lock Forced
 order: 4
 ---
 ## Navigation

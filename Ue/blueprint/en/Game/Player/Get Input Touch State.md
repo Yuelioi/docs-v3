@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Touch State
+title: Get Input Touch State
 order: 20
 ---
 ## Navigation

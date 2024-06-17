@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawn Behavior Mode
+title: Get Spawn Behavior Mode
 order: 46
 ---
 ## Navigation

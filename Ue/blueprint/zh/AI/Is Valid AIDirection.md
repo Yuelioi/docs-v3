@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid AIDirection
+title: Is Valid AIDirection
 order: 19
 ---
 ## Navigation

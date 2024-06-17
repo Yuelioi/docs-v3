@@ -1,5 +1,5 @@
 ---
-display_name: Get Overscan Multiplier
+title: Get Overscan Multiplier
 order: 14
 ---
 ## Navigation

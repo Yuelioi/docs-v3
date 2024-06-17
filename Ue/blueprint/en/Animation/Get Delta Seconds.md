@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Seconds
+title: Get Delta Seconds
 order: 20
 ---
 ## Navigation

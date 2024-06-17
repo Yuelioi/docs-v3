@@ -1,5 +1,5 @@
 ---
-display_name: Play Item
+title: Play Item
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Send AIMessage
+title: Send AIMessage
 order: 29
 ---
 ## Navigation

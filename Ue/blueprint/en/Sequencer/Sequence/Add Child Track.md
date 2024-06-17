@@ -1,5 +1,5 @@
 ---
-display_name: Add Child Track
+title: Add Child Track
 order: 3
 ---
 ## Navigation

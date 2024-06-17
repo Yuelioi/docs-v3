@@ -1,5 +1,5 @@
 ---
-display_name: Add New Goal
+title: Add New Goal
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ConvertComponentsToPolyGroups
+title: ConvertComponentsToPolyGroups
 order: 4
 ---
 ## Navigation

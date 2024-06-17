@@ -1,5 +1,5 @@
 ---
-display_name: idtoprim
+title: idtoprim
 order: 30
 ---
 `int  idtoprim(<geometry>geometry, int id)`

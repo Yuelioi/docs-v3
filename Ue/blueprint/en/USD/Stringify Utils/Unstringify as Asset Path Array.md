@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Asset Path Array
+title: Unstringify as Asset Path Array
 order: 64
 ---
 ## Navigation

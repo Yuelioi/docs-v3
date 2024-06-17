@@ -1,5 +1,5 @@
 ---
-display_name: Append Triangulated Polygon 3D
+title: Append Triangulated Polygon 3D
 order: 25
 ---
 ## Navigation

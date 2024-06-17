@@ -1,5 +1,5 @@
 ---
-display_name: nametoprim
+title: nametoprim
 order: 32
 ---
 `int  nametoprim(<geometry>geometry, string name)`

@@ -1,5 +1,5 @@
 ---
-display_name: setcurrentlight
+title: setcurrentlight
 order: 68
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

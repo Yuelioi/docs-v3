@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Objects in Targeting Request
+title: Find Smart Objects in Targeting Request
 order: 11
 ---
 ## Navigation

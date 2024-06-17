@@ -1,5 +1,5 @@
 ---
-display_name: Record Simple Item Purchase
+title: Record Simple Item Purchase
 order: 21
 ---
 ## Navigation

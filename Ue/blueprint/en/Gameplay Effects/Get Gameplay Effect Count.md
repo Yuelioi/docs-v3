@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Effect Count
+title: Get Gameplay Effect Count
 order: 8
 ---
 ## Navigation

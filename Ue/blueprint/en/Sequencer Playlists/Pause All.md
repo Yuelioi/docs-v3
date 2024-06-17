@@ -1,5 +1,5 @@
 ---
-display_name: Pause All
+title: Pause All
 order: 5
 ---
 ## Navigation

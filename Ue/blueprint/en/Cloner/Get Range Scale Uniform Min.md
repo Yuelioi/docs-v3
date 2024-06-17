@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Scale Uniform Min
+title: Get Range Scale Uniform Min
 order: 41
 ---
 ## Navigation

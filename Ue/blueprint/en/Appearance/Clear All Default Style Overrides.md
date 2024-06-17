@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Default Style Overrides
+title: Clear All Default Style Overrides
 order: 1
 ---
 ## Navigation

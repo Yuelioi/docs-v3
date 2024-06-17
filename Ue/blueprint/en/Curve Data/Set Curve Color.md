@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Color
+title: Set Curve Color
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Binding ID
+title: Get Camera Binding ID
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Num Samples
+title: Num Samples
 order: 7
 ---
 ## Navigation

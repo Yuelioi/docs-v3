@@ -1,5 +1,5 @@
 ---
-display_name: Reset Curve Values
+title: Reset Curve Values
 order: 114
 ---
 ## Navigation

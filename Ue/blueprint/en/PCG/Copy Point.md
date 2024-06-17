@@ -1,5 +1,5 @@
 ---
-display_name: Copy Point
+title: Copy Point
 order: 5
 ---
 ## Navigation

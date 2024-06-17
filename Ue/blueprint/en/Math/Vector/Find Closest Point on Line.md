@@ -1,5 +1,5 @@
 ---
-display_name: Find Closest Point on Line
+title: Find Closest Point on Line
 order: 15
 ---
 ## Navigation

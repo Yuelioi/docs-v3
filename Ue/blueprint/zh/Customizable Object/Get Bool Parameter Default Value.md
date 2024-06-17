@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Parameter Default Value
+title: Get Bool Parameter Default Value
 order: 4
 ---
 ## Navigation

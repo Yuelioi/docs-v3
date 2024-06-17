@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Layer Identifiers
+title: Set Selected Layer Identifiers
 order: 5
 ---
 ## Navigation

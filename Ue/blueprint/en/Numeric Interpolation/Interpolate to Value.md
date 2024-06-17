@@ -1,5 +1,5 @@
 ---
-display_name: Interpolate to Value
+title: Interpolate to Value
 order: 1
 ---
 ## Navigation

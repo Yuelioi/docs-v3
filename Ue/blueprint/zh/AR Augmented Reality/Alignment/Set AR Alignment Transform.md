@@ -1,5 +1,5 @@
 ---
-display_name: Set AR Alignment Transform
+title: Set AR Alignment Transform
 order: 3
 ---
 ## Navigation

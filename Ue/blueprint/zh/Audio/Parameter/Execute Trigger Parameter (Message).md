@@ -1,5 +1,5 @@
 ---
-display_name: Execute Trigger Parameter (Message)
+title: Execute Trigger Parameter (Message)
 order: 3
 ---
 ## Navigation

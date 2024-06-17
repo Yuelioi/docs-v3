@@ -1,5 +1,5 @@
 ---
-display_name: Local Vector
+title: Local Vector
 order: 22
 ---
 ## Navigation

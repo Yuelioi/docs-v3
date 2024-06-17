@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Step Enabled
+title: Get Delta Step Enabled
 order: 8
 ---
 ## Navigation

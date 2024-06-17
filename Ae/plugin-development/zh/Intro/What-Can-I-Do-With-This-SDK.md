@@ -1,5 +1,5 @@
 ---
-display_name: What-Can-I-Do-With-This-SDK-
+title: What-Can-I-Do-With-This-SDK-
 order: 15
 ---
 

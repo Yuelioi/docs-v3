@@ -1,5 +1,5 @@
 ---
-display_name: vtransform
+title: vtransform
 order: 36
 ---
 `vector  vtransform(vector v, matrix transform)`

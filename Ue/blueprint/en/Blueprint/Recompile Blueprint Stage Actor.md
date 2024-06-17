@@ -1,5 +1,5 @@
 ---
-display_name: Recompile Blueprint Stage Actor
+title: Recompile Blueprint Stage Actor
 order: 2
 ---
 ## Navigation

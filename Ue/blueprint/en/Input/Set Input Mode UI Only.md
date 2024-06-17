@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Mode UI Only
+title: Set Input Mode UI Only
 order: 25
 ---
 ## Navigation

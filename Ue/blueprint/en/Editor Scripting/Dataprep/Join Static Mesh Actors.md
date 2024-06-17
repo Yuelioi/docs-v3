@@ -1,5 +1,5 @@
 ---
-display_name: Join Static Mesh Actors
+title: Join Static Mesh Actors
 order: 3
 ---
 ## Navigation

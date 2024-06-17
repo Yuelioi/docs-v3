@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Controller from Platform User
+title: Get Player Controller from Platform User
 order: 6
 ---
 ## Navigation

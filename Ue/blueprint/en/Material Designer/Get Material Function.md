@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Function
+title: Get Material Function
 order: 92
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sample_lognormal_by_median
+title: sample_lognormal_by_median
 order: 23
 ---
 `float  sample_lognormal_by_median(float median, float stddev, float u)`

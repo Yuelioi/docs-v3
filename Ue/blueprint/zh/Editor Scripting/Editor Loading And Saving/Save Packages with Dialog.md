@@ -1,5 +1,5 @@
 ---
-display_name: Save Packages with Dialog
+title: Save Packages with Dialog
 order: 14
 ---
 ## Navigation

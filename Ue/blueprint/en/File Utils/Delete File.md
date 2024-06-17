@@ -1,5 +1,5 @@
 ---
-display_name: Delete File
+title: Delete File
 order: 3
 ---
 ## Navigation

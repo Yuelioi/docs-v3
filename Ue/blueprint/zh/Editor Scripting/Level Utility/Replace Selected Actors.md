@@ -1,5 +1,5 @@
 ---
-display_name: Replace Selected Actors
+title: Replace Selected Actors
 order: 51
 ---
 ## Navigation

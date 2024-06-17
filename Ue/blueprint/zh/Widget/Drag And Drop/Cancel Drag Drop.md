@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Drag Drop
+title: Cancel Drag Drop
 order: 1
 ---
 ## Navigation

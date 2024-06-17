@@ -1,5 +1,5 @@
 ---
-display_name: Specify Struct Observation
+title: Specify Struct Observation
 order: 331
 ---
 ## Navigation

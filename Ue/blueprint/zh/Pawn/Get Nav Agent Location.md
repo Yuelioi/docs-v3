@@ -1,5 +1,5 @@
 ---
-display_name: Get Nav Agent Location
+title: Get Nav Agent Location
 order: 13
 ---
 ## Navigation

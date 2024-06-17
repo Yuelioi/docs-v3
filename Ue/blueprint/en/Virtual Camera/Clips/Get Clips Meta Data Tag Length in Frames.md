@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Length in Frames
+title: Get Clips Meta Data Tag Length in Frames
 order: 15
 ---
 ## Navigation

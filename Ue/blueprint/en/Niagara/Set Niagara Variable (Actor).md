@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Actor)
+title: Set Niagara Variable (Actor)
 order: 30
 ---
 ## Navigation

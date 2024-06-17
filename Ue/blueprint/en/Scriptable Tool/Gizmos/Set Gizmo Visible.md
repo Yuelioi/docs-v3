@@ -1,5 +1,5 @@
 ---
-display_name: Set Gizmo Visible
+title: Set Gizmo Visible
 order: 5
 ---
 ## Navigation

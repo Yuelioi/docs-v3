@@ -1,5 +1,5 @@
 ---
-display_name: Add Array Node
+title: Add Array Node
 order: 3
 ---
 ## Navigation

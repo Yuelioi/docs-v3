@@ -1,5 +1,5 @@
 ---
-display_name: Is Modifier Key
+title: Is Modifier Key
 order: 11
 ---
 ## Navigation

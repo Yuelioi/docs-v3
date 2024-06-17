@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Origin
+title: Set Level Origin
 order: 21
 ---
 ## Navigation

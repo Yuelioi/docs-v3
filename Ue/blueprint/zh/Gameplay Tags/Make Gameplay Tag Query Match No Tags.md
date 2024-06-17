@@ -1,5 +1,5 @@
 ---
-display_name: Make Gameplay Tag Query Match No Tags
+title: Make Gameplay Tag Query Match No Tags
 order: 30
 ---
 ## Navigation

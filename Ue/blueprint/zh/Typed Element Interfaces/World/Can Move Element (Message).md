@@ -1,5 +1,5 @@
 ---
-display_name: Can Move Element (Message)
+title: Can Move Element (Message)
 order: 7
 ---
 ## Navigation

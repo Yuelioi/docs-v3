@@ -1,5 +1,5 @@
 ---
-display_name: Set Blueprint Variable Expose to Cinematics
+title: Set Blueprint Variable Expose to Cinematics
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agentfindclip
+title: agentfindclip
 order: 24
 ---
 `int  agentfindclip(<geometry>geometry, int prim, string clipname)`

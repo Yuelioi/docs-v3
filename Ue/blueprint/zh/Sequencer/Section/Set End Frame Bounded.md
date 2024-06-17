@@ -1,5 +1,5 @@
 ---
-display_name: Set End Frame Bounded
+title: Set End Frame Bounded
 order: 77
 ---
 ## Navigation

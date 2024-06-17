@@ -1,5 +1,5 @@
 ---
-display_name: Set Time (Bool)
+title: Set Time (Bool)
 order: 117
 ---
 ## Navigation

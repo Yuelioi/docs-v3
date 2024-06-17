@@ -1,5 +1,5 @@
 ---
-display_name: Delete Selected Elements
+title: Delete Selected Elements
 order: 6
 ---
 ## Navigation

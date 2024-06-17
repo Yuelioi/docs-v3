@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Row Struct
+title: Get Data Table Row Struct
 order: 8
 ---
 ## Navigation

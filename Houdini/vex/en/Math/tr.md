@@ -1,5 +1,5 @@
 ---
-display_name: tr
+title: tr
 order: 86
 ---
 `float  tr(<matrix>m)`

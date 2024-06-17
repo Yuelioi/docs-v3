@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Velocity Drive Twist and Swing
+title: Get Angular Velocity Drive Twist and Swing
 order: 11
 ---
 ## Navigation

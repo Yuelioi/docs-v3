@@ -1,5 +1,5 @@
 ---
-display_name: Get Contained Graphs
+title: Get Contained Graphs
 order: 8
 ---
 ## Navigation

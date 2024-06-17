@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Binding
+title: Set Object Binding
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Select Mesh Elements in Sphere
+title: Select Mesh Elements in Sphere
 order: 17
 ---
 ## Navigation

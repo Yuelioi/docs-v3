@@ -1,5 +1,5 @@
 ---
-display_name: Export Alembic File to PCG
+title: Export Alembic File to PCG
 order: 2
 ---
 ## Navigation

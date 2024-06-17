@@ -1,5 +1,5 @@
 ---
-display_name: Text
+title: Text
 order: 3
 ---
 

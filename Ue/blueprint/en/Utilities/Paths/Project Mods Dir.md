@@ -1,5 +1,5 @@
 ---
-display_name: Project Mods Dir
+title: Project Mods Dir
 order: 72
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sum
+title: sum
 order: 82
 ---
 `float  sum(float n)`

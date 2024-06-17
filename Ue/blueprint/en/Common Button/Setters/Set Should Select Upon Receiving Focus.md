@@ -1,5 +1,5 @@
 ---
-display_name: Set Should Select Upon Receiving Focus
+title: Set Should Select Upon Receiving Focus
 order: 12
 ---
 ## Navigation

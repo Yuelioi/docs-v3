@@ -1,5 +1,5 @@
 ---
-display_name: Generate Python Commands
+title: Generate Python Commands
 order: 14
 ---
 ## Navigation

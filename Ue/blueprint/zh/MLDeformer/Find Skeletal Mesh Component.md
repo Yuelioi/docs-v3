@@ -1,5 +1,5 @@
 ---
-display_name: Find Skeletal Mesh Component
+title: Find Skeletal Mesh Component
 order: 2
 ---
 ## Navigation

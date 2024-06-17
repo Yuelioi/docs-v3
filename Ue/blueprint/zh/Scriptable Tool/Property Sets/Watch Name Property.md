@@ -1,5 +1,5 @@
 ---
-display_name: Watch Name Property
+title: Watch Name Property
 order: 11
 ---
 ## Navigation

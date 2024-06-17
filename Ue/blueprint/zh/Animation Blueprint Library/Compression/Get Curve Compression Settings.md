@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Compression Settings
+title: Get Curve Compression Settings
 order: 2
 ---
 ## Navigation

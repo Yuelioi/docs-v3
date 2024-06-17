@@ -1,5 +1,5 @@
 ---
-display_name: On Settings Applied
+title: On Settings Applied
 order: 20
 ---
 ## Navigation

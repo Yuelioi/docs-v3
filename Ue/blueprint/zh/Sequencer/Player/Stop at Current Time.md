@@ -1,5 +1,5 @@
 ---
-display_name: Stop at Current Time
+title: Stop at Current Time
 order: 49
 ---
 ## Navigation

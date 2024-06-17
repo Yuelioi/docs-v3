@@ -1,5 +1,5 @@
 ---
-display_name: Get Drop Time Code Frame Number
+title: Get Drop Time Code Frame Number
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Name
+title: Get Property Name
 order: 3
 ---
 ## Navigation

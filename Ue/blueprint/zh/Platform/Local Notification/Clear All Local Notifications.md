@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Local Notifications
+title: Clear All Local Notifications
 order: 3
 ---
 ## Navigation

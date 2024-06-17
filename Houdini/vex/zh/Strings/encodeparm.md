@@ -1,5 +1,5 @@
 ---
-display_name: encodeparm
+title: encodeparm
 order: 10
 ---
 | Since | 18.0 |

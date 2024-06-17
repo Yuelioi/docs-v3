@@ -1,5 +1,5 @@
 ---
-display_name: Capsule Trace By Profile
+title: Capsule Trace By Profile
 order: 12
 ---
 ## Navigation

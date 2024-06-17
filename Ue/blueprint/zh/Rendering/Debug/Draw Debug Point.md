@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Point
+title: Draw Debug Point
 order: 15
 ---
 ## Navigation

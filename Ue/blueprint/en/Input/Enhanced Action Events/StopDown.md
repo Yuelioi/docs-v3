@@ -1,5 +1,5 @@
 ---
-display_name: StopDown
+title: StopDown
 order: 88
 ---
 ## Navigation

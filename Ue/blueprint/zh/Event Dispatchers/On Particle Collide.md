@@ -1,5 +1,5 @@
 ---
-display_name: On Particle Collide
+title: On Particle Collide
 order: 128
 ---
 ## Navigation

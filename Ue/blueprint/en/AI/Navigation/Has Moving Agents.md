@@ -1,5 +1,5 @@
 ---
-display_name: Has Moving Agents
+title: Has Moving Agents
 order: 18
 ---
 ## Navigation

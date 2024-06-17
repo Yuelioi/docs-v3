@@ -1,5 +1,5 @@
 ---
-display_name: Exclamation
+title: Exclamation
 order: 33
 ---
 ## Navigation

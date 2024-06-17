@@ -1,5 +1,5 @@
 ---
-display_name: Set Pitch
+title: Set Pitch
 order: 13
 ---
 ## Navigation

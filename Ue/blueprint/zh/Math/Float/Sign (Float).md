@@ -1,5 +1,5 @@
 ---
-display_name: Sign (Float)
+title: Sign (Float)
 order: 36
 ---
 ## Navigation

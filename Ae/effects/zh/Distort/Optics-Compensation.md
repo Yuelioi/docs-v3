@@ -1,5 +1,5 @@
 ---
-display_name: 光学补偿
+title: 光学补偿
 order: 25
 ---
 

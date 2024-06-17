@@ -1,5 +1,5 @@
 ---
-display_name: nrandom
+title: nrandom
 order: 25
 ---
 `float  nrandom(...)`

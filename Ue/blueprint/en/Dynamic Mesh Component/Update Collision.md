@@ -1,5 +1,5 @@
 ---
-display_name: Update Collision
+title: Update Collision
 order: 22
 ---
 ## Navigation

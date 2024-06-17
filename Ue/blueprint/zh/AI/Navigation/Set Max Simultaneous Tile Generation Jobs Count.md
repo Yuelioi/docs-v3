@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Simultaneous Tile Generation Jobs Count
+title: Set Max Simultaneous Tile Generation Jobs Count
 order: 39
 ---
 ## Navigation

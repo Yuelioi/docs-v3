@@ -1,5 +1,5 @@
 ---
-display_name: Disable All Weight Patches
+title: Disable All Weight Patches
 order: 5
 ---
 ## Navigation

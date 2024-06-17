@@ -1,5 +1,5 @@
 ---
-display_name: Has Vertex Colors
+title: Has Vertex Colors
 order: 22
 ---
 ## Navigation

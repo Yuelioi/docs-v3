@@ -1,5 +1,5 @@
 ---
-display_name: Can Scale Element (Message)
+title: Can Scale Element (Message)
 order: 11
 ---
 ## Navigation

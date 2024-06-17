@@ -1,5 +1,5 @@
 ---
-display_name: Get DMX Attribute Values
+title: Get DMX Attribute Values
 order: 37
 ---
 ## Navigation

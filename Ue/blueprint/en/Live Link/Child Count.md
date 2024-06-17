@@ -1,5 +1,5 @@
 ---
-display_name: Child Count
+title: Child Count
 order: 14
 ---
 ## Navigation

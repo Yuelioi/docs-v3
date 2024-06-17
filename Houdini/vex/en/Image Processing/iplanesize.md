@@ -1,5 +1,5 @@
 ---
-display_name: iplanesize
+title: iplanesize
 order: 21
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Cloth Actors
+title: Set Allow Cloth Actors
 order: 21
 ---
 ## Navigation

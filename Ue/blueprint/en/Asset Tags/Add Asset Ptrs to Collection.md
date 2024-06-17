@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset Ptrs to Collection
+title: Add Asset Ptrs to Collection
 order: 4
 ---
 ## Navigation

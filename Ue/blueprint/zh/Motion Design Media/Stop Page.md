@@ -1,5 +1,5 @@
 ---
-display_name: Stop Page
+title: Stop Page
 order: 6
 ---
 ## Navigation

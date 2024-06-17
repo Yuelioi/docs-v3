@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Location
+title: VisLog Location
 order: 9
 ---
 ## Navigation

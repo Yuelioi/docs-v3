@@ -1,5 +1,5 @@
 ---
-display_name: WaitVelocityChange
+title: WaitVelocityChange
 order: 56
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Asset
+title: Duplicate Asset
 order: 16
 ---
 ## Navigation

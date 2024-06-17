@@ -1,5 +1,5 @@
 ---
-display_name: rotate_x_to
+title: rotate_x_to
 order: 22
 ---
 `vector2  rotate_x_to(vector2 direction, vector2 v)`

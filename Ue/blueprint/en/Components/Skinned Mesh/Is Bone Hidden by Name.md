@@ -1,5 +1,5 @@
 ---
-display_name: Is Bone Hidden by Name
+title: Is Bone Hidden by Name
 order: 23
 ---
 ## Navigation

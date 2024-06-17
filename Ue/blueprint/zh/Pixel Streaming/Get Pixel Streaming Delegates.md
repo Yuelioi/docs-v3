@@ -1,5 +1,5 @@
 ---
-display_name: Get Pixel Streaming Delegates
+title: Get Pixel Streaming Delegates
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Morph Target Names
+title: Get All Morph Target Names
 order: 3
 ---
 ## Navigation

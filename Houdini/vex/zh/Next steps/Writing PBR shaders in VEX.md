@@ -1,5 +1,5 @@
 ---
-display_name: Writing PBR shaders in VEX
+title: Writing PBR shaders in VEX
 order: 10
 ---
 | On this page | * [Overview](#overview) * [Primitive BSDFs](#primitive-bsdfs) * [Combining BSDFs](#combining-bsdfs) |

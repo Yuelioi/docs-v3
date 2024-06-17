@@ -1,5 +1,5 @@
 ---
-display_name: Get GPULightmassSubsystem
+title: Get GPULightmassSubsystem
 order: 27
 ---
 ## Navigation

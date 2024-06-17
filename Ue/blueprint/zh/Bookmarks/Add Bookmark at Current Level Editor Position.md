@@ -1,5 +1,5 @@
 ---
-display_name: Add Bookmark at Current Level Editor Position
+title: Add Bookmark at Current Level Editor Position
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Inner Cone Angle
+title: Set Inner Cone Angle
 order: 16
 ---
 ## Navigation

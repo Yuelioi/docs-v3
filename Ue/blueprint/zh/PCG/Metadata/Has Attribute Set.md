@@ -1,5 +1,5 @@
 ---
-display_name: Has Attribute Set
+title: Has Attribute Set
 order: 59
 ---
 ## Navigation

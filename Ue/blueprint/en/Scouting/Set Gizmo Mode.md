@@ -1,5 +1,5 @@
 ---
-display_name: Set Gizmo Mode
+title: Set Gizmo Mode
 order: 3
 ---
 ## Navigation

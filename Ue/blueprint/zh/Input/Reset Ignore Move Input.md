@@ -1,5 +1,5 @@
 ---
-display_name: Reset Ignore Move Input
+title: Reset Ignore Move Input
 order: 20
 ---
 ## Navigation

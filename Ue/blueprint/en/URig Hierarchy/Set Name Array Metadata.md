@@ -1,5 +1,5 @@
 ---
-display_name: Set Name Array Metadata
+title: Set Name Array Metadata
 order: 153
 ---
 ## Navigation

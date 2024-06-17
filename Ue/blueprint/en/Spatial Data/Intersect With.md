@@ -1,5 +1,5 @@
 ---
-display_name: Intersect With
+title: Intersect With
 order: 14
 ---
 ## Navigation

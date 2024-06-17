@@ -1,5 +1,5 @@
 ---
-display_name: Initialize from Data
+title: Initialize from Data
 order: 12
 ---
 ## Navigation

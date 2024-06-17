@@ -1,5 +1,5 @@
 ---
-display_name: Get Shadow Color
+title: Get Shadow Color
 order: 9
 ---
 ## Navigation

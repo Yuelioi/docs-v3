@@ -1,5 +1,5 @@
 ---
-display_name: Audio
+title: Audio
 order: 5
 ---
 

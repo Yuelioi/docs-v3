@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Force Max
+title: Get Orientation Force Max
 order: 28
 ---
 ## Navigation

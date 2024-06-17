@@ -1,5 +1,5 @@
 ---
-display_name: Third-party-Plug-in-Hosts-
+title: Third-party-Plug-in-Hosts-
 order: 14
 ---
 

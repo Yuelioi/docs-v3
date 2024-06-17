@@ -1,5 +1,5 @@
 ---
-display_name: Get Quarter Notes Per Tick
+title: Get Quarter Notes Per Tick
 order: 10
 ---
 ## Navigation

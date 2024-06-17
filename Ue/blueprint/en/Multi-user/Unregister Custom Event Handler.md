@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Custom Event Handler
+title: Unregister Custom Event Handler
 order: 4
 ---
 ## Navigation

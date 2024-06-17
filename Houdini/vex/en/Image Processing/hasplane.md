@@ -1,5 +1,5 @@
 ---
-display_name: hasplane
+title: hasplane
 order: 12
 ---
 | Context(s) | [cop](../contexts/cop.html) |

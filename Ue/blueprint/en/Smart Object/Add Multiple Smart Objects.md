@@ -1,5 +1,5 @@
 ---
-display_name: Add Multiple Smart Objects
+title: Add Multiple Smart Objects
 order: 1
 ---
 ## Navigation

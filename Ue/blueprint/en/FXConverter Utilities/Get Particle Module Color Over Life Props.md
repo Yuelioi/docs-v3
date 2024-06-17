@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Color Over Life Props
+title: Get Particle Module Color Over Life Props
 order: 65
 ---
 ## Navigation

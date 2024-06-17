@@ -1,5 +1,5 @@
 ---
-display_name: Get Local DMXNetwork Interface Card IPs
+title: Get Local DMXNetwork Interface Card IPs
 order: 50
 ---
 ## Navigation

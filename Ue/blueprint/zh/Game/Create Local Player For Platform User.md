@@ -1,5 +1,5 @@
 ---
-display_name: Create Local Player For Platform User
+title: Create Local Player For Platform User
 order: 9
 ---
 ## Navigation

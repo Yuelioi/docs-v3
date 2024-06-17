@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Motion Mode
+title: Set Root Motion Mode
 order: 1
 ---
 ## Navigation

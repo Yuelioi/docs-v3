@@ -1,5 +1,5 @@
 ---
-display_name: Unlock Selected Groups
+title: Unlock Selected Groups
 order: 13
 ---
 ## Navigation

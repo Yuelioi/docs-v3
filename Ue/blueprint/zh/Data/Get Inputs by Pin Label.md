@@ -1,5 +1,5 @@
 ---
-display_name: Get Inputs by Pin Label
+title: Get Inputs by Pin Label
 order: 3
 ---
 ## Navigation

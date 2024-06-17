@@ -1,5 +1,5 @@
 ---
-display_name: Get Sets Containing Control
+title: Get Sets Containing Control
 order: 48
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Editor Refresh Layer Browser
+title: Editor Refresh Layer Browser
 order: 18
 ---
 ## Navigation

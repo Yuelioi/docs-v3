@@ -1,5 +1,5 @@
 ---
-display_name: Hide Info Display Panel
+title: Hide Info Display Panel
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Quaternion Spring State Angular Velocity
+title: Set Quaternion Spring State Angular Velocity
 order: 13
 ---
 ## Navigation

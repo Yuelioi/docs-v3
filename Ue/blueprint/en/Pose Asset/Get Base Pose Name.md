@@ -1,5 +1,5 @@
 ---
-display_name: Get Base Pose Name
+title: Get Base Pose Name
 order: 1
 ---
 ## Navigation

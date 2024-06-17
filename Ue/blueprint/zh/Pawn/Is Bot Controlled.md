@@ -1,5 +1,5 @@
 ---
-display_name: Is Bot Controlled
+title: Is Bot Controlled
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Record Event
+title: Record Event
 order: 13
 ---
 ## Navigation

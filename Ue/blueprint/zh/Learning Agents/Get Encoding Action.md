@@ -1,5 +1,5 @@
 ---
-display_name: Get Encoding Action
+title: Get Encoding Action
 order: 59
 ---
 ## Navigation

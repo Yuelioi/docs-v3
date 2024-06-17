@@ -1,5 +1,5 @@
 ---
-display_name: Min (Integer64)
+title: Min (Integer64)
 order: 10
 ---
 ## Navigation

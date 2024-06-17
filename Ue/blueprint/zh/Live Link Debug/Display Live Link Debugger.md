@@ -1,5 +1,5 @@
 ---
-display_name: Display Live Link Debugger
+title: Display Live Link Debugger
 order: 1
 ---
 ## Navigation

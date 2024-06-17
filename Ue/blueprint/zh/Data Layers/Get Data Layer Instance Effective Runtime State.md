@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Instance Effective Runtime State
+title: Get Data Layer Instance Effective Runtime State
 order: 18
 ---
 ## Navigation

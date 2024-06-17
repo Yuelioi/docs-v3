@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Stamina
+title: Get Max Stamina
 order: 43
 ---
 ## Navigation

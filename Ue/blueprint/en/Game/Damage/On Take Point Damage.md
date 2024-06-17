@@ -1,5 +1,5 @@
 ---
-display_name: On Take Point Damage
+title: On Take Point Damage
 order: 9
 ---
 ## Navigation

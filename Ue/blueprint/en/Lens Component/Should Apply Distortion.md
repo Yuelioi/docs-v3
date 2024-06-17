@@ -1,5 +1,5 @@
 ---
-display_name: Should Apply Distortion
+title: Should Apply Distortion
 order: 26
 ---
 ## Navigation

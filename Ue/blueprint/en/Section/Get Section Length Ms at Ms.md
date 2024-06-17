@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Length Ms at Ms
+title: Get Section Length Ms at Ms
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Amount
+title: Set Shadow Amount
 order: 26
 ---
 ## Navigation

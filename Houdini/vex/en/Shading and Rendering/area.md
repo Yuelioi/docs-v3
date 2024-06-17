@@ -1,5 +1,5 @@
 ---
-display_name: area
+title: area
 order: 1
 ---
 | On this page | * [Derivatives options](#derivatives-options) * [Examples](#examples) |

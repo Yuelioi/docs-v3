@@ -1,5 +1,5 @@
 ---
-display_name: Get Force Added Columns
+title: Get Force Added Columns
 order: 3
 ---
 ## Navigation

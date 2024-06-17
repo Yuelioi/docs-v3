@@ -1,5 +1,5 @@
 ---
-display_name: OnTextCommitted (Editable Text)
+title: OnTextCommitted (Editable Text)
 order: 14
 ---
 ## Navigation

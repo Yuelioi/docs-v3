@@ -1,5 +1,5 @@
 ---
-display_name: Delete All Material Expressions
+title: Delete All Material Expressions
 order: 7
 ---
 ## Navigation

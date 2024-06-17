@@ -1,5 +1,5 @@
 ---
-display_name: Calibration
+title: Calibration
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Compute Combined Velocity
+title: Compute Combined Velocity
 order: 6
 ---
 ## Navigation

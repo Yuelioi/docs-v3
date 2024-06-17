@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Variables
+title: Get Local Variables
 order: 17
 ---
 ## Navigation

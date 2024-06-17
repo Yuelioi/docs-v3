@@ -1,5 +1,5 @@
 ---
-display_name: Draw Text at Location
+title: Draw Text at Location
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Zero
+title: Vector Zero
 order: 93
 ---
 ## Navigation

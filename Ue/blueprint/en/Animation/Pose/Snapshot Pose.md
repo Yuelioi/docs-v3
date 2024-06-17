@@ -1,5 +1,5 @@
 ---
-display_name: Snapshot Pose
+title: Snapshot Pose
 order: 19
 ---
 ## Navigation

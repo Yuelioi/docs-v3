@@ -1,5 +1,5 @@
 ---
-display_name: Get Sync Group Position
+title: Get Sync Group Position
 order: 1
 ---
 ## Navigation

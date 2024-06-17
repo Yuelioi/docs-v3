@@ -1,5 +1,5 @@
 ---
-display_name: Load Map
+title: Load Map
 order: 6
 ---
 ## Navigation

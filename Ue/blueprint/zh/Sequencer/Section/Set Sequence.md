@@ -1,5 +1,5 @@
 ---
-display_name: Set Sequence
+title: Set Sequence
 order: 96
 ---
 ## Navigation

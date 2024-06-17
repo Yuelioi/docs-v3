@@ -1,5 +1,5 @@
 ---
-display_name: Named Resolution from Size
+title: Named Resolution from Size
 order: 58
 ---
 ## Navigation

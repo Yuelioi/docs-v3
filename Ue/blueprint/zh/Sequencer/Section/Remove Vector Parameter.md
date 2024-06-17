@@ -1,5 +1,5 @@
 ---
-display_name: Remove Vector Parameter
+title: Remove Vector Parameter
 order: 67
 ---
 ## Navigation

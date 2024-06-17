@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation and Position
+title: Get Orientation and Position
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Job
+title: Duplicate Job
 order: 5
 ---
 ## Navigation

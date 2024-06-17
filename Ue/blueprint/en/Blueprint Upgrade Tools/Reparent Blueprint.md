@@ -1,5 +1,5 @@
 ---
-display_name: Reparent Blueprint
+title: Reparent Blueprint
 order: 11
 ---
 ## Navigation

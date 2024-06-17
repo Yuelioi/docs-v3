@@ -1,5 +1,5 @@
 ---
-display_name: Get Agent Ids
+title: Get Agent Ids
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enable Interpolation Mode
+title: Enable Interpolation Mode
 order: 1
 ---
 ## Navigation

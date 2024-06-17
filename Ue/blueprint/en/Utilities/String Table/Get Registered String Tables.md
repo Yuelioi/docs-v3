@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered String Tables
+title: Get Registered String Tables
 order: 3
 ---
 ## Navigation

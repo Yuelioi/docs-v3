@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Property Metadata Names
+title: Get Selected Property Metadata Names
 order: 3
 ---
 ## Navigation

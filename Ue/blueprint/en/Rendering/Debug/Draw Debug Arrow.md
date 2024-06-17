@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Arrow
+title: Draw Debug Arrow
 order: 2
 ---
 ## Navigation

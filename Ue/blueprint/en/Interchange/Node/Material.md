@@ -1,5 +1,5 @@
 ---
-display_name: Material
+title: Material
 order: 52
 ---
 ## Navigation

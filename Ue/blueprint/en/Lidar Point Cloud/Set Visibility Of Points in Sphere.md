@@ -1,5 +1,5 @@
 ---
-display_name: Set Visibility Of Points in Sphere
+title: Set Visibility Of Points in Sphere
 order: 72
 ---
 ## Navigation

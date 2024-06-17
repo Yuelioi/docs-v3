@@ -1,5 +1,5 @@
 ---
-display_name: Get World Velocity
+title: Get World Velocity
 order: 71
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Vector)
+title: Build String (Vector)
 order: 10
 ---
 ## Navigation

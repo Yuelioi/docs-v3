@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Navigation Grid for Capsule
+title: Add Local Navigation Grid for Capsule
 order: 2
 ---
 ## Navigation

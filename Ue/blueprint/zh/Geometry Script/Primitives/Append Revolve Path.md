@@ -1,5 +1,5 @@
 ---
-display_name: Append Revolve Path
+title: Append Revolve Path
 order: 12
 ---
 ## Navigation

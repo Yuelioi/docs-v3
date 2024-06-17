@@ -1,5 +1,5 @@
 ---
-display_name: Join Session
+title: Join Session
 order: 8
 ---
 ## Navigation

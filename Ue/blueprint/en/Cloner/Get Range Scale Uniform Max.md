@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Scale Uniform Max
+title: Get Range Scale Uniform Max
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Component
+title: Line Trace Component
 order: 43
 ---
 ## Navigation

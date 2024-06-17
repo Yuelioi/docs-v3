@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Tick Interval
+title: Set Actor Tick Interval
 order: 9
 ---
 ## Navigation

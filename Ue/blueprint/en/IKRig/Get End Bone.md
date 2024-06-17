@@ -1,5 +1,5 @@
 ---
-display_name: Get End Bone
+title: Get End Bone
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Current Page Index Changed
+title: On Current Page Index Changed
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Left Texture
+title: Get Left Texture
 order: 1
 ---
 ## Navigation

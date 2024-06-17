@@ -1,5 +1,5 @@
 ---
-display_name: Vector Forward (Quat)
+title: Vector Forward (Quat)
 order: 31
 ---
 ## Navigation

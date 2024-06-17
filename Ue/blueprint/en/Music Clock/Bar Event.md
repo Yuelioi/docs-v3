@@ -1,5 +1,5 @@
 ---
-display_name: Bar Event
+title: Bar Event
 order: 1
 ---
 ## Navigation

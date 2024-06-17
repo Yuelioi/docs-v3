@@ -1,5 +1,5 @@
 ---
-display_name: As Date
+title: As Date
 order: 3
 ---
 ## Navigation

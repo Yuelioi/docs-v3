@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Value
+title: Create Material Value
 order: 46
 ---
 ## Navigation

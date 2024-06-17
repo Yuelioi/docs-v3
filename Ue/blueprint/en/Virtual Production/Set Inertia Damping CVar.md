@@ -1,5 +1,5 @@
 ---
-display_name: Set Inertia Damping CVar
+title: Set Inertia Damping CVar
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Oriented Box Shape
+title: VisLog Oriented Box Shape
 order: 10
 ---
 ## Navigation

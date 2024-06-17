@@ -1,5 +1,5 @@
 ---
-display_name: Remove Animation Notify Events by Track
+title: Remove Animation Notify Events by Track
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pluralize
+title: pluralize
 order: 23
 ---
 `string  pluralize(string noun)`

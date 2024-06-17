@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Fixture
+title: Initialize Fixture
 order: 1
 ---
 ## Navigation

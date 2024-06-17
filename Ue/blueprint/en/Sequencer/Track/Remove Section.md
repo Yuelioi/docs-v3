@@ -1,5 +1,5 @@
 ---
-display_name: Remove Section
+title: Remove Section
 order: 16
 ---
 ## Navigation

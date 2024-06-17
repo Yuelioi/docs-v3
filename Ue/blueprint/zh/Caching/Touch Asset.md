@@ -1,5 +1,5 @@
 ---
-display_name: Touch Asset
+title: Touch Asset
 order: 14
 ---
 ## Navigation

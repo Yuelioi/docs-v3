@@ -1,5 +1,5 @@
 ---
-display_name: Find Path to Actor Synchronously
+title: Find Path to Actor Synchronously
 order: 7
 ---
 ## Navigation

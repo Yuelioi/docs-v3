@@ -1,5 +1,5 @@
 ---
-display_name: Get Transition Duration
+title: Get Transition Duration
 order: 2
 ---
 ## Navigation

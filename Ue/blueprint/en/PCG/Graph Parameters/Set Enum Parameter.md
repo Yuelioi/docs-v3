@@ -1,5 +1,5 @@
 ---
-display_name: Set Enum Parameter
+title: Set Enum Parameter
 order: 26
 ---
 ## Navigation

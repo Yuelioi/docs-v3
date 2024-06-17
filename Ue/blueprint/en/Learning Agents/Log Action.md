@@ -1,5 +1,5 @@
 ---
-display_name: Log Action
+title: Log Action
 order: 150
 ---
 ## Navigation

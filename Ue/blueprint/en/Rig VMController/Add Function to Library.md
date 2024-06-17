@@ -1,5 +1,5 @@
 ---
-display_name: Add Function to Library
+title: Add Function to Library
 order: 14
 ---
 ## Navigation

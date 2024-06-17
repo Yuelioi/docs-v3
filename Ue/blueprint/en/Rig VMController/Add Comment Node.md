@@ -1,5 +1,5 @@
 ---
-display_name: Add Comment Node
+title: Add Comment Node
 order: 6
 ---
 ## Navigation

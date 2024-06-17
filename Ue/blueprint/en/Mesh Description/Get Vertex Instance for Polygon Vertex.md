@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance for Polygon Vertex
+title: Get Vertex Instance for Polygon Vertex
 order: 68
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clamp (Integer)
+title: Clamp (Integer)
 order: 8
 ---
 ## Navigation

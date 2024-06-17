@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate and Retarget
+title: Duplicate and Retarget
 order: 1
 ---
 ## Navigation

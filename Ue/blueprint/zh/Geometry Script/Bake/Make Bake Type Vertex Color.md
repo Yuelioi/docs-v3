@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Vertex Color
+title: Make Bake Type Vertex Color
 order: 16
 ---
 ## Navigation

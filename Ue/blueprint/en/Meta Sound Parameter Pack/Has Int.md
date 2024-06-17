@@ -1,5 +1,5 @@
 ---
-display_name: Has Int
+title: Has Int
 order: 12
 ---
 ## Navigation

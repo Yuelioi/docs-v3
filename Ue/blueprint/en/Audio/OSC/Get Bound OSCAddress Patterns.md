@@ -1,5 +1,5 @@
 ---
-display_name: Get Bound OSCAddress Patterns
+title: Get Bound OSCAddress Patterns
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Class
+title: Get Object Class
 order: 3
 ---
 ## Navigation

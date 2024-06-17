@@ -1,5 +1,5 @@
 ---
-display_name: End Training
+title: End Training
 order: 16
 ---
 ## Navigation

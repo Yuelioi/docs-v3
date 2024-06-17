@@ -1,5 +1,5 @@
 ---
-display_name: Make Struct Observation
+title: Make Struct Observation
 order: 242
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent at Distance Along Spline
+title: Get Tangent at Distance Along Spline
 order: 63
 ---
 ## Navigation

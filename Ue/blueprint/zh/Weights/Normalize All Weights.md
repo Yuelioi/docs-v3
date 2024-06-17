@@ -1,5 +1,5 @@
 ---
-display_name: Normalize All Weights
+title: Normalize All Weights
 order: 3
 ---
 ## Navigation

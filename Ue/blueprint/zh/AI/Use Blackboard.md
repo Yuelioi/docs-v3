@@ -1,5 +1,5 @@
 ---
-display_name: Use Blackboard
+title: Use Blackboard
 order: 12
 ---
 ## Navigation

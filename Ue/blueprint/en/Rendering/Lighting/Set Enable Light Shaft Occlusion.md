@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Light Shaft Occlusion
+title: Set Enable Light Shaft Occlusion
 order: 14
 ---
 ## Navigation

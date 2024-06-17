@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Int Literal
+title: Create MetaSound Int Literal
 order: 7
 ---
 ## Navigation

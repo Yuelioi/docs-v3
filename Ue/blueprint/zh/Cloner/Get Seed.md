@@ -1,5 +1,5 @@
 ---
-display_name: Get Seed
+title: Get Seed
 order: 45
 ---
 ## Navigation

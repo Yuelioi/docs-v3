@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance Connected Polygons
+title: Get Vertex Instance Connected Polygons
 order: 62
 ---
 ## Navigation

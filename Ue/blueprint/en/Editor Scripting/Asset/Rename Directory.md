@@ -1,5 +1,5 @@
 ---
-display_name: Rename Directory
+title: Rename Directory
 order: 33
 ---
 ## Navigation

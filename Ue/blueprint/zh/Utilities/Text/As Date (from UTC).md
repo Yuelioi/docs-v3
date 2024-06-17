@@ -1,5 +1,5 @@
 ---
-display_name: As Date (from UTC)
+title: As Date (from UTC)
 order: 2
 ---
 ## Navigation

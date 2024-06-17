@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Trigger Axis
+title: Gamepad Right Trigger Axis
 order: 6
 ---
 ## Navigation

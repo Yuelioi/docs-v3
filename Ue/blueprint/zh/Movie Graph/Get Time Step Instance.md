@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Step Instance
+title: Get Time Step Instance
 order: 50
 ---
 ## Navigation

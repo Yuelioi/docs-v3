@@ -1,5 +1,5 @@
 ---
-display_name: Consolidate Nodes
+title: Consolidate Nodes
 order: 3
 ---
 ## Navigation

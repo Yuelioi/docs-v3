@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter
+title: Set Vector Parameter
 order: 72
 ---
 ## Navigation

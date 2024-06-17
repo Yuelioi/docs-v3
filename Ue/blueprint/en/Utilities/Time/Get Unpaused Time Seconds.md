@@ -1,5 +1,5 @@
 ---
-display_name: Get Unpaused Time Seconds
+title: Get Unpaused Time Seconds
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Rayleigh Scattering Scale
+title: Set Rayleigh Scattering Scale
 order: 71
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Measure Distances Between Meshes
+title: Measure Distances Between Meshes
 order: 3
 ---
 ## Navigation

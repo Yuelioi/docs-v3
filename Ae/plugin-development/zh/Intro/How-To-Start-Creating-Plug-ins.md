@@ -1,5 +1,5 @@
 ---
-display_name: How-To-Start-Creating-Plug-ins
+title: How-To-Start-Creating-Plug-ins
 order: 6
 ---
 

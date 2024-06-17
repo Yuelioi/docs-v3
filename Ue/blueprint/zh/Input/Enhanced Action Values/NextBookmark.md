@@ -1,5 +1,5 @@
 ---
-display_name: NextBookmark
+title: NextBookmark
 order: 35
 ---
 ## Navigation

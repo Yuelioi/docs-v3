@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Control Field Id from Label
+title: Get Remote Control Field Id from Label
 order: 20
 ---
 ## Navigation

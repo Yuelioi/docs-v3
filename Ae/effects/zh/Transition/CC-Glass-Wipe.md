@@ -1,5 +1,5 @@
 ---
-display_name: CC玻璃擦除
+title: CC玻璃擦除
 order: 2
 ---
 

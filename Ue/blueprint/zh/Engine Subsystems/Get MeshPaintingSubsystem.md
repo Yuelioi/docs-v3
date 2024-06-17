@@ -1,5 +1,5 @@
 ---
-display_name: Get MeshPaintingSubsystem
+title: Get MeshPaintingSubsystem
 order: 30
 ---
 ## Navigation

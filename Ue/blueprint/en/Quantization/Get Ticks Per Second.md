@@ -1,5 +1,5 @@
 ---
-display_name: Get Ticks Per Second
+title: Get Ticks Per Second
 order: 6
 ---
 ## Navigation

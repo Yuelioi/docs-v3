@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Parameter Source
+title: Get Vector Parameter Source
 order: 42
 ---
 ## Navigation

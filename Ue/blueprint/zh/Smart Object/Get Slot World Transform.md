@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot World Transform
+title: Get Slot World Transform
 order: 26
 ---
 ## Navigation

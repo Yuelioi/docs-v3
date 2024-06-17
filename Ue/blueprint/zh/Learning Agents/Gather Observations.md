@@ -1,5 +1,5 @@
 ---
-display_name: Gather Observations
+title: Gather Observations
 order: 22
 ---
 ## Navigation

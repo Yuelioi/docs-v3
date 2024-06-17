@@ -1,5 +1,5 @@
 ---
-display_name: Is Advanced Pin
+title: Is Advanced Pin
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Projection Policy
+title: Get Projection Policy
 order: 5
 ---
 ## Navigation

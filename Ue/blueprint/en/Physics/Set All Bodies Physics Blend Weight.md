@@ -1,5 +1,5 @@
 ---
-display_name: Set All Bodies Physics Blend Weight
+title: Set All Bodies Physics Blend Weight
 order: 14
 ---
 ## Navigation

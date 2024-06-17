@@ -1,5 +1,5 @@
 ---
-display_name: GetBoundObjectForSequencer
+title: GetBoundObjectForSequencer
 order: 7
 ---
 ## Navigation

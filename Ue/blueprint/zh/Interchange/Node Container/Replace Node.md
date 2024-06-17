@@ -1,5 +1,5 @@
 ---
-display_name: Replace Node
+title: Replace Node
 order: 12
 ---
 ## Navigation

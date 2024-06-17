@@ -1,5 +1,5 @@
 ---
-display_name: Delete Vertex from Mesh
+title: Delete Vertex from Mesh
 order: 13
 ---
 ## Navigation

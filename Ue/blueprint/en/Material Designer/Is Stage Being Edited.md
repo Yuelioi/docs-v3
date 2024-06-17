@@ -1,5 +1,5 @@
 ---
-display_name: Is Stage Being Edited
+title: Is Stage Being Edited
 order: 178
 ---
 ## Navigation

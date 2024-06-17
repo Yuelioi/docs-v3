@@ -1,5 +1,5 @@
 ---
-display_name: vertexprev
+title: vertexprev
 order: 43
 ---
 `int  vertexprev(<geometry>geometry, int linearvertex)`

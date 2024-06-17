@@ -1,5 +1,5 @@
 ---
-display_name: On Component Physics State Changed
+title: On Component Physics State Changed
 order: 4
 ---
 ## Navigation

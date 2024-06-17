@@ -1,5 +1,5 @@
 ---
-display_name: Get Selection Bounds
+title: Get Selection Bounds
 order: 17
 ---
 ## Navigation

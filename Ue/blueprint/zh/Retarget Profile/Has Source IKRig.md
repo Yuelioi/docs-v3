@@ -1,5 +1,5 @@
 ---
-display_name: Has Source IKRig
+title: Has Source IKRig
 order: 4
 ---
 ## Navigation

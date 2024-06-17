@@ -1,5 +1,5 @@
 ---
-display_name: Set Multi Scattering Factor
+title: Set Multi Scattering Factor
 order: 64
 ---
 ## Navigation

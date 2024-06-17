@@ -1,5 +1,5 @@
 ---
-display_name: Reset Ignore Input Flags
+title: Reset Ignore Input Flags
 order: 18
 ---
 ## Navigation

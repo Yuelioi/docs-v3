@@ -1,5 +1,5 @@
 ---
-display_name: Is Loading
+title: Is Loading
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Green
+title: Linear Color Green
 order: 12
 ---
 ## Navigation

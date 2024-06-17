@@ -1,5 +1,5 @@
 ---
-display_name: cosh
+title: cosh
 order: 14
 ---
 `float  cosh(float n)`

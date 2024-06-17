@@ -1,5 +1,5 @@
 ---
-display_name: Matches Wildcard
+title: Matches Wildcard
 order: 31
 ---
 ## Navigation

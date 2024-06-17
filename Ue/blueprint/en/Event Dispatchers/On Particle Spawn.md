@@ -1,5 +1,5 @@
 ---
-display_name: On Particle Spawn
+title: On Particle Spawn
 order: 130
 ---
 ## Navigation

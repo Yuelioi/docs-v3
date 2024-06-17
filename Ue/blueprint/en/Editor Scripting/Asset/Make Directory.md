@@ -1,5 +1,5 @@
 ---
-display_name: Make Directory
+title: Make Directory
 order: 29
 ---
 ## Navigation

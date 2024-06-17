@@ -1,5 +1,5 @@
 ---
-display_name: curlxnoise2d
+title: curlxnoise2d
 order: 7
 ---
 `vector  curlxnoise2d(float x, float y)`

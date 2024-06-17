@@ -1,5 +1,5 @@
 ---
-display_name: Get Option at Index
+title: Get Option at Index
 order: 6
 ---
 ## Navigation

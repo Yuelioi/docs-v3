@@ -1,5 +1,5 @@
 ---
-display_name: OnControlSelected
+title: OnControlSelected
 order: 22
 ---
 ## Navigation

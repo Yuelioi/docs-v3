@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace By Channel
+title: Line Trace By Channel
 order: 41
 ---
 ## Navigation

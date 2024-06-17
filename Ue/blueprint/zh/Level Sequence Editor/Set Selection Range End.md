@@ -1,5 +1,5 @@
 ---
-display_name: Set Selection Range End
+title: Set Selection Range End
 order: 68
 ---
 ## Navigation

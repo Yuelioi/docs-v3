@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Tabs
+title: Remove All Tabs
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Disconnected
+title: On Disconnected
 order: 12
 ---
 ## Navigation

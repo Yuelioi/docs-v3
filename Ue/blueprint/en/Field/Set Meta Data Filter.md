@@ -1,5 +1,5 @@
 ---
-display_name: Set Meta Data Filter
+title: Set Meta Data Filter
 order: 18
 ---
 ## Navigation

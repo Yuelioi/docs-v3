@@ -1,5 +1,5 @@
 ---
-display_name: Specify Struct Observation from Arrays
+title: Specify Struct Observation from Arrays
 order: 330
 ---
 ## Navigation

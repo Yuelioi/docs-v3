@@ -1,5 +1,5 @@
 ---
-display_name: Is Checked
+title: Is Checked
 order: 11
 ---
 ## Navigation

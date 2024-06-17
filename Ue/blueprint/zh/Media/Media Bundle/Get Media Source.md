@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Source
+title: Get Media Source
 order: 5
 ---
 ## Navigation

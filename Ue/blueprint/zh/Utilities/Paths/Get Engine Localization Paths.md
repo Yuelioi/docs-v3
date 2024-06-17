@@ -1,5 +1,5 @@
 ---
-display_name: Get Engine Localization Paths
+title: Get Engine Localization Paths
 order: 39
 ---
 ## Navigation

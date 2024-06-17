@@ -1,5 +1,5 @@
 ---
-display_name: Run EQS
+title: Run EQS
 order: 8
 ---
 ## Navigation

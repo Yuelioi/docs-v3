@@ -1,5 +1,5 @@
 ---
-display_name: Find Component by Tag
+title: Find Component by Tag
 order: 3
 ---
 ## Navigation

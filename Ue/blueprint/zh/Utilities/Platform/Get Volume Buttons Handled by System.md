@@ -1,5 +1,5 @@
 ---
-display_name: Get Volume Buttons Handled by System
+title: Get Volume Buttons Handled by System
 order: 11
 ---
 ## Navigation

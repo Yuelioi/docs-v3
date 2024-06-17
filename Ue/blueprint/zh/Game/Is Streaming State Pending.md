@@ -1,5 +1,5 @@
 ---
-display_name: Is Streaming State Pending
+title: Is Streaming State Pending
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as UInt 64
+title: Stringify as UInt 64
 order: 60
 ---
 ## Navigation

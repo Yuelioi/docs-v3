@@ -1,5 +1,5 @@
 ---
-display_name: Get Required Disk Space
+title: Get Required Disk Space
 order: 6
 ---
 ## Navigation

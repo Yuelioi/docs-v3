@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Event)
+title: Add Key (Event)
 order: 5
 ---
 ## Navigation

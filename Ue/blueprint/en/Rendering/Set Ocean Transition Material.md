@@ -1,5 +1,5 @@
 ---
-display_name: Set Ocean Transition Material
+title: Set Ocean Transition Material
 order: 65
 ---
 ## Navigation

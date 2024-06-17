@@ -1,5 +1,5 @@
 ---
-display_name: Get Config
+title: Get Config
 order: 10
 ---
 ## Navigation

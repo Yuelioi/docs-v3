@@ -1,5 +1,5 @@
 ---
-display_name: Set Tab Visibility
+title: Set Tab Visibility
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer from Label
+title: Get Data Layer from Label
 order: 24
 ---
 ## Navigation

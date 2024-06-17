@@ -1,5 +1,5 @@
 ---
-display_name: Combo Key
+title: Combo Key
 order: 1
 ---
 ## Navigation

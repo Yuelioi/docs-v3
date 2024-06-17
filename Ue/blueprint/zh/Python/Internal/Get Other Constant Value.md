@@ -1,5 +1,5 @@
 ---
-display_name: Get Other Constant Value
+title: Get Other Constant Value
 order: 42
 ---
 ## Navigation

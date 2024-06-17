@@ -1,5 +1,5 @@
 ---
-display_name: Is Edge Internal
+title: Is Edge Internal
 order: 74
 ---
 ## Navigation

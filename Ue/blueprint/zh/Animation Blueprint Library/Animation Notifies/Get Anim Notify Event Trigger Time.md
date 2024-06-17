@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim Notify Event Trigger Time
+title: Get Anim Notify Event Trigger Time
 order: 3
 ---
 ## Navigation

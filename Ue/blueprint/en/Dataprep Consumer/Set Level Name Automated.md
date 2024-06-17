@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Name Automated
+title: Set Level Name Automated
 order: 3
 ---
 ## Navigation

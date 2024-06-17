@@ -1,5 +1,5 @@
 ---
-display_name: Create Wall Clock Driven Music Clock
+title: Create Wall Clock Driven Music Clock
 order: 2
 ---
 ## Navigation

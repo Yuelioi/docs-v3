@@ -1,5 +1,5 @@
 ---
-display_name: To Text (Boolean)
+title: To Text (Boolean)
 order: 37
 ---
 ## Navigation

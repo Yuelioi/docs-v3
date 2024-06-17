@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int 2Array
+title: Stringify as Int 2Array
 order: 30
 ---
 ## Navigation

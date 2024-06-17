@@ -1,5 +1,5 @@
 ---
-display_name: Make Brush from Sprite
+title: Make Brush from Sprite
 order: 7
 ---
 ## Navigation

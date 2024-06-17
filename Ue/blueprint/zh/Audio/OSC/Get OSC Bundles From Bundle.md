@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Bundles From Bundle
+title: Get OSC Bundles From Bundle
 order: 32
 ---
 ## Navigation

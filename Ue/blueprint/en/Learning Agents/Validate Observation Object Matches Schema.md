@@ -1,5 +1,5 @@
 ---
-display_name: Validate Observation Object Matches Schema
+title: Validate Observation Object Matches Schema
 order: 337
 ---
 ## Navigation

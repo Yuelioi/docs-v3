@@ -1,5 +1,5 @@
 ---
-display_name: On Playback Resumed
+title: On Playback Resumed
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Settings for Branch
+title: Get Settings for Branch
 order: 49
 ---
 ## Navigation

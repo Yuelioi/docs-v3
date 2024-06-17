@@ -1,5 +1,5 @@
 ---
-display_name: On Active
+title: On Active
 order: 2
 ---
 ## Navigation

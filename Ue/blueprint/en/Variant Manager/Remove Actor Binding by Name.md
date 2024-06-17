@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor Binding by Name
+title: Remove Actor Binding by Name
 order: 28
 ---
 ## Navigation

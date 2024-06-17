@@ -1,5 +1,5 @@
 ---
-display_name: To Text (Integer)
+title: To Text (Integer)
 order: 40
 ---
 ## Navigation

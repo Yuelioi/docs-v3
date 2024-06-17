@@ -1,5 +1,5 @@
 ---
-display_name: Is VREditor Mode Active
+title: Is VREditor Mode Active
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Start Play
+title: Start Play
 order: 53
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame Count End
+title: Set Frame Count End
 order: 11
 ---
 ## Navigation

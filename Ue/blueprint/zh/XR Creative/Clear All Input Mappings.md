@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Input Mappings
+title: Clear All Input Mappings
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Event Trigger Section
+title: Add Event Trigger Section
 order: 2
 ---
 ## Navigation

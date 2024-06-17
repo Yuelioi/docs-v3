@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Nodes Of Class
+title: Get Graph Nodes Of Class
 order: 1
 ---
 ## Navigation

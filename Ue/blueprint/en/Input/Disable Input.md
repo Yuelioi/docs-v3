@@ -1,5 +1,5 @@
 ---
-display_name: Disable Input
+title: Disable Input
 order: 11
 ---
 ## Navigation

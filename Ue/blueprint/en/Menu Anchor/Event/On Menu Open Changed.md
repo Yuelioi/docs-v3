@@ -1,5 +1,5 @@
 ---
-display_name: On Menu Open Changed
+title: On Menu Open Changed
 order: 1
 ---
 ## Navigation

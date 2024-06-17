@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Async Loading
+title: Cancel Async Loading
 order: 5
 ---
 ## Navigation

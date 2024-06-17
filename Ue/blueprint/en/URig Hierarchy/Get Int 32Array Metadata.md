@@ -1,5 +1,5 @@
 ---
-display_name: Get Int 32Array Metadata
+title: Get Int 32Array Metadata
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetTrianglesInPolyGroup
+title: GetTrianglesInPolyGroup
 order: 12
 ---
 ## Navigation

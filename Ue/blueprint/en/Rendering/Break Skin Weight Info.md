@@ -1,5 +1,5 @@
 ---
-display_name: Break Skin Weight Info
+title: Break Skin Weight Info
 order: 3
 ---
 ## Navigation

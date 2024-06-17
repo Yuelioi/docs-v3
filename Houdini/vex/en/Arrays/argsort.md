@@ -1,5 +1,5 @@
 ---
-display_name: argsort
+title: argsort
 order: 2
 ---
 `int [] argsort(<type>value[])`

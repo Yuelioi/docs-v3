@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Conversion Functions
+title: Get Available Conversion Functions
 order: 11
 ---
 ## Navigation

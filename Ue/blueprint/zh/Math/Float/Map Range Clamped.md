@@ -1,5 +1,5 @@
 ---
-display_name: Map Range Clamped
+title: Map Range Clamped
 order: 22
 ---
 ## Navigation

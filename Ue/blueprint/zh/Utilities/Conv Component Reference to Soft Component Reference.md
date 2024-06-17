@@ -1,5 +1,5 @@
 ---
-display_name: Conv Component Reference to Soft Component Reference
+title: Conv Component Reference to Soft Component Reference
 order: 2
 ---
 ## Navigation

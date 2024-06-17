@@ -1,5 +1,5 @@
 ---
-display_name: Get Cascade System Emitters
+title: Get Cascade System Emitters
 order: 38
 ---
 ## Navigation

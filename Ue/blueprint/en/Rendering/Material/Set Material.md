@@ -1,5 +1,5 @@
 ---
-display_name: Set Material
+title: Set Material
 order: 46
 ---
 ## Navigation

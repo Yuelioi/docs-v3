@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Angular Velocity in Degrees
+title: Get Physics Angular Velocity in Degrees
 order: 79
 ---
 ## Navigation

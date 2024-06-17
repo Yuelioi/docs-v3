@@ -1,5 +1,5 @@
 ---
-display_name: Get Spline Point Type
+title: Get Spline Point Type
 order: 62
 ---
 ## Navigation

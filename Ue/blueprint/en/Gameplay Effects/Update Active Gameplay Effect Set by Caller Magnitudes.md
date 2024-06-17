@@ -1,5 +1,5 @@
 ---
-display_name: Update Active Gameplay Effect Set by Caller Magnitudes
+title: Update Active Gameplay Effect Set by Caller Magnitudes
 order: 21
 ---
 ## Navigation

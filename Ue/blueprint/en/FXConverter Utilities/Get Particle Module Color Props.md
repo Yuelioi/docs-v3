@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Color Props
+title: Get Particle Module Color Props
 order: 66
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Boundary Max
+title: Get Boundary Max
 order: 1
 ---
 ## Navigation

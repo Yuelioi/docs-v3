@@ -1,5 +1,5 @@
 ---
-display_name: New-Kids-On-The-Function-Block
+title: New-Kids-On-The-Function-Block
 order: 5
 ---
 

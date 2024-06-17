@@ -1,5 +1,5 @@
 ---
-display_name: Add IKGoals (Message)
+title: Add IKGoals (Message)
 order: 1
 ---
 ## Navigation

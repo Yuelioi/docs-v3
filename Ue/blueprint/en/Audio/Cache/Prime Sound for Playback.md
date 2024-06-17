@@ -1,5 +1,5 @@
 ---
-display_name: Prime Sound for Playback
+title: Prime Sound for Playback
 order: 2
 ---
 ## Navigation

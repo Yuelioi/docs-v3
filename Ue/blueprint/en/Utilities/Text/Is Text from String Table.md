@@ -1,5 +1,5 @@
 ---
-display_name: Is Text from String Table
+title: Is Text from String Table
 order: 22
 ---
 ## Navigation

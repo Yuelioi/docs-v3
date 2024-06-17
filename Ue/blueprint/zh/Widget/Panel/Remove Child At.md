@@ -1,5 +1,5 @@
 ---
-display_name: Remove Child At
+title: Remove Child At
 order: 11
 ---
 ## Navigation

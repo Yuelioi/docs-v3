@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double 2Array
+title: Unstringify as Double 2Array
 order: 69
 ---
 ## Navigation

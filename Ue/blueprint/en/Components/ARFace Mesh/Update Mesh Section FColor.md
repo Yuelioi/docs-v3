@@ -1,5 +1,5 @@
 ---
-display_name: Update Mesh Section FColor
+title: Update Mesh Section FColor
 order: 11
 ---
 ## Navigation

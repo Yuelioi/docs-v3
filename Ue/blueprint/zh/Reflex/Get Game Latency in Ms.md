@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Latency in Ms
+title: Get Game Latency in Ms
 order: 2
 ---
 ## Navigation

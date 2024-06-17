@@ -1,5 +1,5 @@
 ---
-display_name: Append Revolve Polygon
+title: Append Revolve Polygon
 order: 13
 ---
 ## Navigation

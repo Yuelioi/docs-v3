@@ -1,5 +1,5 @@
 ---
-display_name: Add New Subobject
+title: Add New Subobject
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Animation Notify State Event Object
+title: Add Animation Notify State Event Object
 order: 3
 ---
 ## Navigation

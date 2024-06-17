@@ -1,5 +1,5 @@
 ---
-display_name: GetTransformOrigin
+title: GetTransformOrigin
 order: 54
 ---
 ## Navigation

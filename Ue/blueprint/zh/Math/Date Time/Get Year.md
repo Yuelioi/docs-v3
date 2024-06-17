@@ -1,5 +1,5 @@
 ---
-display_name: Get Year
+title: Get Year
 order: 24
 ---
 ## Navigation

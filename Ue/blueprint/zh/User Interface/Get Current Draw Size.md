@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Draw Size
+title: Get Current Draw Size
 order: 16
 ---
 ## Navigation

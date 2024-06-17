@@ -1,5 +1,5 @@
 ---
-display_name: Get Static Array Action
+title: Get Static Array Action
 order: 118
 ---
 ## Navigation

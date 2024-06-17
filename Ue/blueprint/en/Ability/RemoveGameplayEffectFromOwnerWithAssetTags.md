@@ -1,5 +1,5 @@
 ---
-display_name: RemoveGameplayEffectFromOwnerWithAssetTags
+title: RemoveGameplayEffectFromOwnerWithAssetTags
 order: 59
 ---
 ## Navigation

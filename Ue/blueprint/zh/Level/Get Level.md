@@ -1,5 +1,5 @@
 ---
-display_name: Get Level
+title: Get Level
 order: 2
 ---
 ## Navigation

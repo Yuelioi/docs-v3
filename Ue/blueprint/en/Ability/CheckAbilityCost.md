@@ -1,5 +1,5 @@
 ---
-display_name: CheckAbilityCost
+title: CheckAbilityCost
 order: 12
 ---
 ## Navigation

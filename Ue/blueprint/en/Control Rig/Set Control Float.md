@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Float
+title: Set Control Float
 order: 28
 ---
 ## Navigation

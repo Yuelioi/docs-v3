@@ -1,5 +1,5 @@
 ---
-display_name: Get Augmented Image Database
+title: Get Augmented Image Database
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera ISO
+title: Get Camera ISO
 order: 17
 ---
 ## Navigation

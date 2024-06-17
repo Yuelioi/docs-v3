@@ -1,5 +1,5 @@
 ---
-display_name: Get Basic Data
+title: Get Basic Data
 order: 3
 ---
 ## Navigation

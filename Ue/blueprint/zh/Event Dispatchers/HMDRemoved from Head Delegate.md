@@ -1,5 +1,5 @@
 ---
-display_name: HMDRemoved from Head Delegate
+title: HMDRemoved from Head Delegate
 order: 34
 ---
 ## Navigation

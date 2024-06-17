@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect MRMesh
+title: Disconnect MRMesh
 order: 3
 ---
 ## Navigation

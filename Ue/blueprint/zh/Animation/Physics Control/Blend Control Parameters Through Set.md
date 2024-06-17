@@ -1,5 +1,5 @@
 ---
-display_name: Blend Control Parameters Through Set
+title: Blend Control Parameters Through Set
 order: 5
 ---
 ## Navigation

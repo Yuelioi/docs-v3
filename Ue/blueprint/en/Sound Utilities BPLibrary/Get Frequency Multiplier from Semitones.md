@@ -1,5 +1,5 @@
 ---
-display_name: Get Frequency Multiplier from Semitones
+title: Get Frequency Multiplier from Semitones
 order: 5
 ---
 ## Navigation

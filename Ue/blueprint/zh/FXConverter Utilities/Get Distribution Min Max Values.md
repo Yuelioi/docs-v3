@@ -1,5 +1,5 @@
 ---
-display_name: Get Distribution Min Max Values
+title: Get Distribution Min Max Values
 order: 40
 ---
 ## Navigation

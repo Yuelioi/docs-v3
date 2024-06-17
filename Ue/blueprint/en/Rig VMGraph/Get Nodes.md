@@ -1,5 +1,5 @@
 ---
-display_name: Get Nodes
+title: Get Nodes
 order: 19
 ---
 ## Navigation

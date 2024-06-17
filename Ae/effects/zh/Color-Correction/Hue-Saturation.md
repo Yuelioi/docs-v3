@@ -1,5 +1,5 @@
 ---
-display_name: 色相 饱和度
+title: 色相 饱和度
 order: 23
 ---
 

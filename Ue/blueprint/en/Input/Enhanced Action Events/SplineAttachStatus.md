@@ -1,5 +1,5 @@
 ---
-display_name: SplineAttachStatus
+title: SplineAttachStatus
 order: 84
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Regularization Factor
+title: Get Regularization Factor
 order: 16
 ---
 ## Navigation

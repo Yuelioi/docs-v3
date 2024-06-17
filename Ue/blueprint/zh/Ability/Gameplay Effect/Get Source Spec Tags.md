@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Spec Tags
+title: Get Source Spec Tags
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Bind to Animation Finished
+title: Bind to Animation Finished
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Event TouchEnter
+title: Event TouchEnter
 order: 3
 ---
 ## Navigation

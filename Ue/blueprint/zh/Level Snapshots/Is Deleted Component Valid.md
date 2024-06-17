@@ -1,5 +1,5 @@
 ---
-display_name: Is Deleted Component Valid
+title: Is Deleted Component Valid
 order: 18
 ---
 ## Navigation

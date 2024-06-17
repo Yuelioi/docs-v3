@@ -1,5 +1,5 @@
 ---
-display_name: usd_boundmaterialpath
+title: usd_boundmaterialpath
 order: 27
 ---
 | Since | 18.0 |

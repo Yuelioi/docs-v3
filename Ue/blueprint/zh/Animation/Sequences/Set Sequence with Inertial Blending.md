@@ -1,5 +1,5 @@
 ---
-display_name: Set Sequence with Inertial Blending
+title: Set Sequence with Inertial Blending
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Measure Span Progress
+title: Measure Span Progress
 order: 38
 ---
 ## Navigation

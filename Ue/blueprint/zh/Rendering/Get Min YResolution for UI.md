@@ -1,5 +1,5 @@
 ---
-display_name: Get Min YResolution for UI
+title: Get Min YResolution for UI
 order: 13
 ---
 ## Navigation

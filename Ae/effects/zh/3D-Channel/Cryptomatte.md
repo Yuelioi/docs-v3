@@ -1,5 +1,5 @@
 ---
-display_name: Cryptomatte
+title: Cryptomatte
 order: 2
 ---
 

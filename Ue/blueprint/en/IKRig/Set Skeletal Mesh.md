@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh
+title: Set Skeletal Mesh
 order: 48
 ---
 ## Navigation

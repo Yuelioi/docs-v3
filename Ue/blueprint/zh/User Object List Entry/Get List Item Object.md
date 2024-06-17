@@ -1,5 +1,5 @@
 ---
-display_name: Get List Item Object
+title: Get List Item Object
 order: 1
 ---
 ## Navigation

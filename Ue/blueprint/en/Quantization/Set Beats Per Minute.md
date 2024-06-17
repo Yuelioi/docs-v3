@@ -1,5 +1,5 @@
 ---
-display_name: Set Beats Per Minute
+title: Set Beats Per Minute
 order: 7
 ---
 ## Navigation

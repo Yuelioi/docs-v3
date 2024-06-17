@@ -1,5 +1,5 @@
 ---
-display_name: Make Policy
+title: Make Policy
 order: 215
 ---
 ## Navigation

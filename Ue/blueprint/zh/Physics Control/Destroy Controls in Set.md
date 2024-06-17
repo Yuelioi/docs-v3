@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Controls in Set
+title: Destroy Controls in Set
 order: 24
 ---
 ## Navigation

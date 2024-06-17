@@ -1,5 +1,5 @@
 ---
-display_name: Set Rendering Phase
+title: Set Rendering Phase
 order: 5
 ---
 ## Navigation

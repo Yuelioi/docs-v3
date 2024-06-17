@@ -1,5 +1,5 @@
 ---
-display_name: Save Current Level
+title: Save Current Level
 order: 10
 ---
 ## Navigation

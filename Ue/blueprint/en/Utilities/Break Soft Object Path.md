@@ -1,5 +1,5 @@
 ---
-display_name: Break Soft Object Path
+title: Break Soft Object Path
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Internal Strain
+title: Apply Internal Strain
 order: 6
 ---
 ## Navigation

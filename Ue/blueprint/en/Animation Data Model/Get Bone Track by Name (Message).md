@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Track by Name (Message)
+title: Get Bone Track by Name (Message)
 order: 13
 ---
 ## Navigation

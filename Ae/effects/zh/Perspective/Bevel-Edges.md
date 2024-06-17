@@ -1,5 +1,5 @@
 ---
-display_name: 边缘斜面
+title: 边缘斜面
 order: 4
 ---
 

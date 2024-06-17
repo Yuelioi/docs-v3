@@ -1,5 +1,5 @@
 ---
-display_name: Snap to Position
+title: Snap to Position
 order: 13
 ---
 ## Navigation

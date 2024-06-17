@@ -1,5 +1,5 @@
 ---
-display_name: Split Mesh by Polygroups
+title: Split Mesh by Polygroups
 order: 6
 ---
 ## Navigation

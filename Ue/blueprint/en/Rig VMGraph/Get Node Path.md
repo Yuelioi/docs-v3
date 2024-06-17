@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Path
+title: Get Node Path
 order: 18
 ---
 ## Navigation

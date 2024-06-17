@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Emitter at Location
+title: Spawn Emitter at Location
 order: 3
 ---
 ## Navigation

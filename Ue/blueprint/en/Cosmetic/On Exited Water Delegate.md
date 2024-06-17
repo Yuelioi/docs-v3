@@ -1,5 +1,5 @@
 ---
-display_name: On Exited Water Delegate
+title: On Exited Water Delegate
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Check ARService Availability
+title: Check ARService Availability
 order: 1
 ---
 ## Navigation

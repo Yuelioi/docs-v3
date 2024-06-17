@@ -1,5 +1,5 @@
 ---
-display_name: Make Scale Action
+title: Make Scale Action
 order: 233
 ---
 ## Navigation

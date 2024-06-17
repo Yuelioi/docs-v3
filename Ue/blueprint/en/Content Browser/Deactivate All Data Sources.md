@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate All Data Sources
+title: Deactivate All Data Sources
 order: 4
 ---
 ## Navigation

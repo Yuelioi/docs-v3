@@ -1,5 +1,5 @@
 ---
-display_name: Texture
+title: Texture
 order: 84
 ---
 ## Navigation

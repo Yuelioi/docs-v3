@@ -1,5 +1,5 @@
 ---
-display_name: Get Flash Indicator Enabled
+title: Get Flash Indicator Enabled
 order: 1
 ---
 ## Navigation

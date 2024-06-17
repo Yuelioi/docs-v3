@@ -1,5 +1,5 @@
 ---
-display_name: Vector to Normal
+title: Vector to Normal
 order: 74
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Entry Spacing
+title: Set Entry Spacing
 order: 7
 ---
 ## Navigation

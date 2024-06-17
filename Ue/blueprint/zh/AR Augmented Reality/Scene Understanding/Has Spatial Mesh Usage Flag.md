@@ -1,5 +1,5 @@
 ---
-display_name: Has Spatial Mesh Usage Flag
+title: Has Spatial Mesh Usage Flag
 order: 2
 ---
 ## Navigation

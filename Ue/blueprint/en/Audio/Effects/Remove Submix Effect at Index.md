@@ -1,5 +1,5 @@
 ---
-display_name: Remove Submix Effect at Index
+title: Remove Submix Effect at Index
 order: 15
 ---
 ## Navigation

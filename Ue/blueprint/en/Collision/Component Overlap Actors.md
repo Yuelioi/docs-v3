@@ -1,5 +1,5 @@
 ---
-display_name: Component Overlap Actors
+title: Component Overlap Actors
 order: 16
 ---
 ## Navigation

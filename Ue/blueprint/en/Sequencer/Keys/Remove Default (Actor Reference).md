@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Actor Reference)
+title: Remove Default (Actor Reference)
 order: 82
 ---
 ## Navigation

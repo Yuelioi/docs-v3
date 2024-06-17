@@ -1,5 +1,5 @@
 ---
-display_name: Get Collection by Name
+title: Get Collection by Name
 order: 29
 ---
 ## Navigation

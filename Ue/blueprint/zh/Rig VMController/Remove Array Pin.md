@@ -1,5 +1,5 @@
 ---
-display_name: Remove Array Pin
+title: Remove Array Pin
 order: 81
 ---
 ## Navigation

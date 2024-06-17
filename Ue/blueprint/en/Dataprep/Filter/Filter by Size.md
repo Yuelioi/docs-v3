@@ -1,5 +1,5 @@
 ---
-display_name: Filter by Size
+title: Filter by Size
 order: 3
 ---
 ## Navigation

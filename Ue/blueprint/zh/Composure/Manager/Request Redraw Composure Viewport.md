@@ -1,5 +1,5 @@
 ---
-display_name: Request Redraw Composure Viewport
+title: Request Redraw Composure Viewport
 order: 8
 ---
 ## Navigation

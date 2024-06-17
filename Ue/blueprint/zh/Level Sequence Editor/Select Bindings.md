@@ -1,5 +1,5 @@
 ---
-display_name: Select Bindings
+title: Select Bindings
 order: 56
 ---
 ## Navigation

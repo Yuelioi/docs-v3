@@ -1,5 +1,5 @@
 ---
-display_name: ptexture
+title: ptexture
 order: 8
 ---
 `<type> ptexture(string map, int face_id, ...)`

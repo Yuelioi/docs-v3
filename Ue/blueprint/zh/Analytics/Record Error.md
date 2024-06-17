@@ -1,5 +1,5 @@
 ---
-display_name: Record Error
+title: Record Error
 order: 10
 ---
 ## Navigation

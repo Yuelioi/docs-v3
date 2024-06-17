@@ -1,5 +1,5 @@
 ---
-display_name: Get Frequency
+title: Get Frequency
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Min (Integer)
+title: Min (Integer)
 order: 15
 ---
 ## Navigation

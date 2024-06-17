@@ -1,5 +1,5 @@
 ---
-display_name: Set All Bodies Below Physics Disabled
+title: Set All Bodies Below Physics Disabled
 order: 12
 ---
 ## Navigation

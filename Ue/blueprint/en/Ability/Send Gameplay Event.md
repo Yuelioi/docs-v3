@@ -1,5 +1,5 @@
 ---
-display_name: Send Gameplay Event
+title: Send Gameplay Event
 order: 63
 ---
 ## Navigation

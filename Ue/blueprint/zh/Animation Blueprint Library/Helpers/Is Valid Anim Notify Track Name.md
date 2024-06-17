@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Anim Notify Track Name
+title: Is Valid Anim Notify Track Name
 order: 6
 ---
 ## Navigation

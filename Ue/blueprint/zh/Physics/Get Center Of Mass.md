@@ -1,5 +1,5 @@
 ---
-display_name: Get Center Of Mass
+title: Get Center Of Mass
 order: 68
 ---
 ## Navigation

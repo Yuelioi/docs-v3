@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Iterations
+title: Set Num Iterations
 order: 28
 ---
 ## Navigation

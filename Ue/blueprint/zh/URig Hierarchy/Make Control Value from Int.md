@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Int
+title: Make Control Value from Int
 order: 105
 ---
 ## Navigation

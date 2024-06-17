@@ -1,5 +1,5 @@
 ---
-display_name: Enum to Name
+title: Enum to Name
 order: 1
 ---
 ## Navigation

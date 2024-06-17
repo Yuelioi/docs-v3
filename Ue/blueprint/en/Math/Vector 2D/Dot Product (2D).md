@@ -1,5 +1,5 @@
 ---
-display_name: Dot Product (2D)
+title: Dot Product (2D)
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Profiling Dir
+title: Profiling Dir
 order: 66
 ---
 ## Navigation

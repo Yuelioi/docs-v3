@@ -1,5 +1,5 @@
 ---
-display_name: Get FIZ Evaluation Mode
+title: Get FIZ Evaluation Mode
 order: 6
 ---
 ## Navigation

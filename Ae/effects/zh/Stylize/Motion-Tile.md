@@ -1,5 +1,5 @@
 ---
-display_name: 动态拼贴
+title: 动态拼贴
 order: 19
 ---
 

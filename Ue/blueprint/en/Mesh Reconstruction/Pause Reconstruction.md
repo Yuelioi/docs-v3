@@ -1,5 +1,5 @@
 ---
-display_name: Pause Reconstruction
+title: Pause Reconstruction
 order: 11
 ---
 ## Navigation

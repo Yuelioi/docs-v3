@@ -1,5 +1,5 @@
 ---
-display_name: Get Movie Scene
+title: Get Movie Scene
 order: 39
 ---
 ## Navigation

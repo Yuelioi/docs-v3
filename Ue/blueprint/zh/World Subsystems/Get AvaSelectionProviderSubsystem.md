@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaSelectionProviderSubsystem
+title: Get AvaSelectionProviderSubsystem
 order: 11
 ---
 ## Navigation

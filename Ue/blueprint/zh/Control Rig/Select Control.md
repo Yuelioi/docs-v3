@@ -1,5 +1,5 @@
 ---
-display_name: Select Control
+title: Select Control
 order: 24
 ---
 ## Navigation

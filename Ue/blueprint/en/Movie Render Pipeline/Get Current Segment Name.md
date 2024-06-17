@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Segment Name
+title: Get Current Segment Name
 order: 30
 ---
 ## Navigation

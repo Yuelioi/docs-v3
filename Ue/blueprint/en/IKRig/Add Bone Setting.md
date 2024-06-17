@@ -1,5 +1,5 @@
 ---
-display_name: Add Bone Setting
+title: Add Bone Setting
 order: 1
 ---
 ## Navigation

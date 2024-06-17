@@ -1,5 +1,5 @@
 ---
-display_name: Find Edges
+title: Find Edges
 order: 3
 ---
 ## Navigation

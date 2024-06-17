@@ -1,5 +1,5 @@
 ---
-display_name: Render and Send DMX
+title: Render and Send DMX
 order: 3
 ---
 ## Navigation

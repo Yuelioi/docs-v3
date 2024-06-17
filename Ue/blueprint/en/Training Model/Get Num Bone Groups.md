@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Bone Groups
+title: Get Num Bone Groups
 order: 4
 ---
 ## Navigation

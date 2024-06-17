@@ -1,5 +1,5 @@
 ---
-display_name: Multi Line Trace For Objects
+title: Multi Line Trace For Objects
 order: 54
 ---
 ## Navigation

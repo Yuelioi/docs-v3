@@ -1,5 +1,5 @@
 ---
-display_name: Get Stage Root Layer
+title: Get Stage Root Layer
 order: 3
 ---
 ## Navigation

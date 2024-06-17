@@ -1,5 +1,5 @@
 ---
-display_name: Get Font
+title: Get Font
 order: 3
 ---
 ## Navigation

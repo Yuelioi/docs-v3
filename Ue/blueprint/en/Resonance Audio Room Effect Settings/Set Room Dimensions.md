@@ -1,5 +1,5 @@
 ---
-display_name: Set Room Dimensions
+title: Set Room Dimensions
 order: 6
 ---
 ## Navigation

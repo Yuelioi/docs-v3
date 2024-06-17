@@ -1,5 +1,5 @@
 ---
-display_name: Get Components By Class
+title: Get Components By Class
 order: 18
 ---
 ## Navigation

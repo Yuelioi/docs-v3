@@ -1,5 +1,5 @@
 ---
-display_name: CC网格变型
+title: CC网格变型
 order: 7
 ---
 

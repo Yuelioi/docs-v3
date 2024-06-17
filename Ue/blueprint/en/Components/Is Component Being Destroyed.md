@@ -1,5 +1,5 @@
 ---
-display_name: Is Component Being Destroyed
+title: Is Component Being Destroyed
 order: 20
 ---
 ## Navigation

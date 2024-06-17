@@ -1,5 +1,5 @@
 ---
-display_name: normalize
+title: normalize
 order: 49
 ---
 `<vector> normalize(<vector>v)`

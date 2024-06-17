@@ -1,5 +1,5 @@
 ---
-display_name: Begin Recording Baseline
+title: Begin Recording Baseline
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Tag Values
+title: Get Metadata Tag Values
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Curve Value Set
+title: Is Curve Value Set
 order: 96
 ---
 ## Navigation

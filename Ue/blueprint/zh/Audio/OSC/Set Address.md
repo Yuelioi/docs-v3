@@ -1,5 +1,5 @@
 ---
-display_name: Set Address
+title: Set Address
 order: 67
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Face Tracking Update
+title: Get Face Tracking Update
 order: 10
 ---
 ## Navigation

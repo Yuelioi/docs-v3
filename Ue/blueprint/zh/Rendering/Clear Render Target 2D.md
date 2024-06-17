@@ -1,5 +1,5 @@
 ---
-display_name: Clear Render Target 2D
+title: Clear Render Target 2D
 order: 5
 ---
 ## Navigation

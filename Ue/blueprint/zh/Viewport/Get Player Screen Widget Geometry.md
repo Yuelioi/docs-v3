@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Screen Widget Geometry
+title: Get Player Screen Widget Geometry
 order: 4
 ---
 ## Navigation

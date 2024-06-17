@@ -1,5 +1,5 @@
 ---
-display_name: Break Gameplay Cue Parameters
+title: Break Gameplay Cue Parameters
 order: 1
 ---
 ## Navigation

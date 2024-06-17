@@ -1,5 +1,5 @@
 ---
-display_name: Save Map
+title: Save Map
 order: 13
 ---
 ## Navigation

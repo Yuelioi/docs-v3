@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Pressed Sound Override
+title: Set Selected Pressed Sound Override
 order: 6
 ---
 ## Navigation

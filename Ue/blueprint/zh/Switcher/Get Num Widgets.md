@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Widgets
+title: Get Num Widgets
 order: 3
 ---
 ## Navigation

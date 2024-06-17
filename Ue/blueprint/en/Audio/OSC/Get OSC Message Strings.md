@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Strings
+title: Get OSC Message Strings
 order: 46
 ---
 ## Navigation

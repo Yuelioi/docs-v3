@@ -1,5 +1,5 @@
 ---
-display_name: Set Minimum LODFor Platform
+title: Set Minimum LODFor Platform
 order: 24
 ---
 ## Navigation

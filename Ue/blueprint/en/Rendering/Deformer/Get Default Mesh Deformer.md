@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Mesh Deformer
+title: Get Default Mesh Deformer
 order: 1
 ---
 ## Navigation

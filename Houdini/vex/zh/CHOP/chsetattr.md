@@ -1,5 +1,5 @@
 ---
-display_name: chsetattr
+title: chsetattr
 order: 22
 ---
 | Context(s) | [chop](../contexts/chop.html) |

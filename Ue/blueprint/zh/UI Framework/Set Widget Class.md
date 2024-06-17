@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Class
+title: Set Widget Class
 order: 31
 ---
 ## Navigation

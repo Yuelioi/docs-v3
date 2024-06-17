@@ -1,5 +1,5 @@
 ---
-display_name: Add Root Motion Modifier Scale
+title: Add Root Motion Modifier Scale
 order: 1
 ---
 ## Navigation

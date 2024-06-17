@@ -1,5 +1,5 @@
 ---
-display_name: Is Data Buffer Size Controlled by Input
+title: Is Data Buffer Size Controlled by Input
 order: 18
 ---
 ## Navigation

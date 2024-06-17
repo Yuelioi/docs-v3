@@ -1,5 +1,5 @@
 ---
-display_name: binput
+title: binput
 order: 3
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

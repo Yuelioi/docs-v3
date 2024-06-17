@@ -1,5 +1,5 @@
 ---
-display_name: On Visibility Changed
+title: On Visibility Changed
 order: 1
 ---
 ## Navigation

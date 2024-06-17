@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Selection
+title: Get Normalized Selection
 order: 13
 ---
 ## Navigation

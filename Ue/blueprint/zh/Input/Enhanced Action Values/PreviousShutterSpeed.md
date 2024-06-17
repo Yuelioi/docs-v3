@@ -1,5 +1,5 @@
 ---
-display_name: PreviousShutterSpeed
+title: PreviousShutterSpeed
 order: 64
 ---
 ## Navigation

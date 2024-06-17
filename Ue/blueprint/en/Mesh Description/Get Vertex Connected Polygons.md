@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Connected Polygons
+title: Get Vertex Connected Polygons
 order: 59
 ---
 ## Navigation

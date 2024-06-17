@@ -1,5 +1,5 @@
 ---
-display_name: Added
+title: Added
 order: 4
 ---
 ## Navigation

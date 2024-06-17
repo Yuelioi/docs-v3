@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variable Int Value
+title: Get Console Variable Int Value
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get MassSpawnerSubsystem
+title: Get MassSpawnerSubsystem
 order: 53
 ---
 ## Navigation

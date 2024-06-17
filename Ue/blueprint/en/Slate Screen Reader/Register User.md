@@ -1,5 +1,5 @@
 ---
-display_name: Register User
+title: Register User
 order: 12
 ---
 ## Navigation

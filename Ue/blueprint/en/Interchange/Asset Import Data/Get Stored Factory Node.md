@@ -1,5 +1,5 @@
 ---
-display_name: Get Stored Factory Node
+title: Get Stored Factory Node
 order: 4
 ---
 ## Navigation

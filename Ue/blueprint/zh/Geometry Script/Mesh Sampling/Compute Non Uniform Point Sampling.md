@@ -1,5 +1,5 @@
 ---
-display_name: Compute Non Uniform Point Sampling
+title: Compute Non Uniform Point Sampling
 order: 1
 ---
 ## Navigation

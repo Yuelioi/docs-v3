@@ -1,5 +1,5 @@
 ---
-display_name: Left Mouse Button
+title: Left Mouse Button
 order: 1
 ---
 ## Navigation

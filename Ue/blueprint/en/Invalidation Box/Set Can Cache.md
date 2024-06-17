@@ -1,5 +1,5 @@
 ---
-display_name: Set Can Cache
+title: Set Can Cache
 order: 2
 ---
 ## Navigation

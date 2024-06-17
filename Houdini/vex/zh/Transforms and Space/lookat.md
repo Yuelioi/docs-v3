@@ -1,5 +1,5 @@
 ---
-display_name: lookat
+title: lookat
 order: 6
 ---
 `matrix3  lookat(vector from, vector to)`

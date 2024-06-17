@@ -1,5 +1,5 @@
 ---
-display_name: On Tracks Changed
+title: On Tracks Changed
 order: 55
 ---
 ## Navigation

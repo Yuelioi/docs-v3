@@ -1,5 +1,5 @@
 ---
-display_name: ComputePolyGroupsFromPolygonDetection
+title: ComputePolyGroupsFromPolygonDetection
 order: 3
 ---
 ## Navigation

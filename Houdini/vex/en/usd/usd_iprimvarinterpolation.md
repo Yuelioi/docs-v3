@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvarinterpolation
+title: usd_iprimvarinterpolation
 order: 55
 ---
 | Since | 19.0 |

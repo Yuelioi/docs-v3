@@ -1,5 +1,5 @@
 ---
-display_name: Add All Patches
+title: Add All Patches
 order: 1
 ---
 ## Navigation

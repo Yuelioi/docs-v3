@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Modify Curve Node
+title: Convert to Modify Curve Node
 order: 4
 ---
 ## Navigation

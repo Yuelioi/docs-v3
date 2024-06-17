@@ -1,5 +1,5 @@
 ---
-display_name: expandpointgroup
+title: expandpointgroup
 order: 2
 ---
 `int [] expandpointgroup(<geometry>geometry, string groupname)`

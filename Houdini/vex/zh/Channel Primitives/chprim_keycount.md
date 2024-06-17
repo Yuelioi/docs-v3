@@ -1,5 +1,5 @@
 ---
-display_name: chprim_keycount
+title: chprim_keycount
 order: 6
 ---
 `int  chprim_keycount(<geometry>geometry, int prim)`

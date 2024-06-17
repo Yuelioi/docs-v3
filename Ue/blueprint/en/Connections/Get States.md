@@ -1,5 +1,5 @@
 ---
-display_name: Get States
+title: Get States
 order: 3
 ---
 ## Navigation

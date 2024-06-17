@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Mappings (Message)
+title: Clear All Mappings (Message)
 order: 6
 ---
 ## Navigation

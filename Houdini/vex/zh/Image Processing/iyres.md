@@ -1,5 +1,5 @@
 ---
-display_name: iyres
+title: iyres
 order: 26
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

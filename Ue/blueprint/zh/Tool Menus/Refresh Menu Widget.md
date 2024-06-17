@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Menu Widget
+title: Refresh Menu Widget
 order: 30
 ---
 ## Navigation

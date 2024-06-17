@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttach
+title: ToggleAttach
 order: 96
 ---
 ## Navigation

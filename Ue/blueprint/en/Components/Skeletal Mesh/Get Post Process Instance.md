@@ -1,5 +1,5 @@
 ---
-display_name: Get Post Process Instance
+title: Get Post Process Instance
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Cull Distances
+title: Get Cull Distances
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Camera Rig from Actors
+title: Spawn Camera Rig from Actors
 order: 19
 ---
 ## Navigation

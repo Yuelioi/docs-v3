@@ -1,5 +1,5 @@
 ---
-display_name: Open Url
+title: Open Url
 order: 18
 ---
 ## Navigation

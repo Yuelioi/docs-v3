@@ -1,5 +1,5 @@
 ---
-display_name: lstrip
+title: lstrip
 order: 18
 ---
 `string  lstrip(string value)`

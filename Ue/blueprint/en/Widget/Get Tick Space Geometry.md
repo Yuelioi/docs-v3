@@ -1,5 +1,5 @@
 ---
-display_name: Get Tick Space Geometry
+title: Get Tick Space Geometry
 order: 40
 ---
 ## Navigation

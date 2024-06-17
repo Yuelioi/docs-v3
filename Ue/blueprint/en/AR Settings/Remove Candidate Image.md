@@ -1,5 +1,5 @@
 ---
-display_name: Remove Candidate Image
+title: Remove Candidate Image
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is File Server Running
+title: Is File Server Running
 order: 1
 ---
 ## Navigation

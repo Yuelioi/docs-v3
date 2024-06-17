@@ -1,5 +1,5 @@
 ---
-display_name: Set Percent
+title: Set Percent
 order: 3
 ---
 ## Navigation

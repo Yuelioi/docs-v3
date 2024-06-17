@@ -1,5 +1,5 @@
 ---
-display_name: Is Being Edited
+title: Is Being Edited
 order: 161
 ---
 ## Navigation

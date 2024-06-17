@@ -1,5 +1,5 @@
 ---
-display_name: Remove Brush from Tree
+title: Remove Brush from Tree
 order: 10
 ---
 ## Navigation

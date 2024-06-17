@@ -1,5 +1,5 @@
 ---
-display_name: Read Int
+title: Read Int
 order: 11
 ---
 ## Navigation

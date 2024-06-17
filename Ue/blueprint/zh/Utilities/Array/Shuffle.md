@@ -1,5 +1,5 @@
 ---
-display_name: Shuffle
+title: Shuffle
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Push Container Array to OSC Address
+title: Push Container Array to OSC Address
 order: 61
 ---
 ## Navigation

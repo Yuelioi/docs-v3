@@ -1,5 +1,5 @@
 ---
-display_name: Get Distortion Displacement Map
+title: Get Distortion Displacement Map
 order: 1
 ---
 ## Navigation

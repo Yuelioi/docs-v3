@@ -1,5 +1,5 @@
 ---
-display_name: Move to Bottom
+title: Move to Bottom
 order: 3
 ---
 ## Navigation

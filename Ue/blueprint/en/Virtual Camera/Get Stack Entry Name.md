@@ -1,5 +1,5 @@
 ---
-display_name: Get Stack Entry Name
+title: Get Stack Entry Name
 order: 40
 ---
 ## Navigation

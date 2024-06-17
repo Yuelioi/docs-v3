@@ -1,5 +1,5 @@
 ---
-display_name: Find Button Index
+title: Find Button Index
 order: 2
 ---
 ## Navigation

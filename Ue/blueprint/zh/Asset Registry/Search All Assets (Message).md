@@ -1,5 +1,5 @@
 ---
-display_name: Search All Assets (Message)
+title: Search All Assets (Message)
 order: 48
 ---
 ## Navigation

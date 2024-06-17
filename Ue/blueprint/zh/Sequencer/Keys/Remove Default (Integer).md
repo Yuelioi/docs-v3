@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Integer)
+title: Remove Default (Integer)
 order: 87
 ---
 ## Navigation

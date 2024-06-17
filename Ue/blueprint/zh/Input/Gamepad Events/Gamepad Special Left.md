@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Special Left
+title: Gamepad Special Left
 order: 31
 ---
 ## Navigation

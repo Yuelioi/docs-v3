@@ -1,5 +1,5 @@
 ---
-display_name: Make Script Slate Icon
+title: Make Script Slate Icon
 order: 26
 ---
 ## Navigation

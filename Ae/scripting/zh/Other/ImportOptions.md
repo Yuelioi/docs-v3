@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: ImportOptions
+title: ImportOptions
 ---
 
 # ImportOptions 导入设置

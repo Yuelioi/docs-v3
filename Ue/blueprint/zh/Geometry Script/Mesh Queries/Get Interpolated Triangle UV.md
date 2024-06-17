@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated Triangle UV
+title: Get Interpolated Triangle UV
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Material ID
+title: Make Bake Type Material ID
 order: 10
 ---
 ## Navigation

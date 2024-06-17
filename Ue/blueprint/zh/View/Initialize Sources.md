@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Sources
+title: Initialize Sources
 order: 8
 ---
 ## Navigation

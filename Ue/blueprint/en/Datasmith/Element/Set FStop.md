@@ -1,5 +1,5 @@
 ---
-display_name: Set FStop
+title: Set FStop
 order: 111
 ---
 ## Navigation

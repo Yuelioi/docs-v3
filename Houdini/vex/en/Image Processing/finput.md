@@ -1,5 +1,5 @@
 ---
-display_name: finput
+title: finput
 order: 10
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

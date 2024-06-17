@@ -1,5 +1,5 @@
 ---
-display_name: Get Set Observation to Array
+title: Get Set Observation to Array
 order: 115
 ---
 ## Navigation

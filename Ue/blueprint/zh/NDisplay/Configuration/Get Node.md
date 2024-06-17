@@ -1,5 +1,5 @@
 ---
-display_name: Get Node
+title: Get Node
 order: 3
 ---
 ## Navigation

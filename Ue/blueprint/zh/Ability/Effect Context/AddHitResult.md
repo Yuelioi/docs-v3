@@ -1,5 +1,5 @@
 ---
-display_name: AddHitResult
+title: AddHitResult
 order: 1
 ---
 ## Navigation

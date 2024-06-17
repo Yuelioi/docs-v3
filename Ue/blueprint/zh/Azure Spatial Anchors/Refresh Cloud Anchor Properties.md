@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Cloud Anchor Properties
+title: Refresh Cloud Anchor Properties
 order: 7
 ---
 ## Navigation

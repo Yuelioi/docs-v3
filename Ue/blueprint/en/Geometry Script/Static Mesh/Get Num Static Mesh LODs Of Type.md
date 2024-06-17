@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Static Mesh LODs Of Type
+title: Get Num Static Mesh LODs Of Type
 order: 4
 ---
 ## Navigation

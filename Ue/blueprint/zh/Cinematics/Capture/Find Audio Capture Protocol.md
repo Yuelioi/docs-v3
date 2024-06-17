@@ -1,5 +1,5 @@
 ---
-display_name: Find Audio Capture Protocol
+title: Find Audio Capture Protocol
 order: 1
 ---
 ## Navigation

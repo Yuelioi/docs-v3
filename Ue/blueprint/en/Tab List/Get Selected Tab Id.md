@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Tab Id
+title: Get Selected Tab Id
 order: 4
 ---
 ## Navigation

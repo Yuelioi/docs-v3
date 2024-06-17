@@ -1,5 +1,5 @@
 ---
-display_name: Noise and randomness
+title: Noise and randomness
 order: 4
 ---
 | On this page | * [Noise generators](#noise-generators) * [Random number generators](#random-number-generators) |

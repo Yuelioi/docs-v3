@@ -1,5 +1,5 @@
 ---
-display_name: Editor Apply Spline
+title: Editor Apply Spline
 order: 1
 ---
 ## Navigation

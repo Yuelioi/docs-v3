@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Vector Around Axis
+title: Rotate Vector Around Axis
 order: 50
 ---
 ## Navigation

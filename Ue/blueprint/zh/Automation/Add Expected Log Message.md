@@ -1,5 +1,5 @@
 ---
-display_name: Add Expected Log Message
+title: Add Expected Log Message
 order: 2
 ---
 ## Navigation

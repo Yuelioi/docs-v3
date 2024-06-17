@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Poses for Time
+title: Get Bone Poses for Time
 order: 4
 ---
 ## Navigation

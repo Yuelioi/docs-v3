@@ -1,5 +1,5 @@
 ---
-display_name: Release Render Target 2D
+title: Release Render Target 2D
 order: 79
 ---
 ## Navigation

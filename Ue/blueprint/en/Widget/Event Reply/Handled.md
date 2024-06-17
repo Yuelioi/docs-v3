@@ -1,5 +1,5 @@
 ---
-display_name: Handled
+title: Handled
 order: 3
 ---
 ## Navigation

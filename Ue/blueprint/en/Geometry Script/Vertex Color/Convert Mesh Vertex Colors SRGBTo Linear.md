@@ -1,5 +1,5 @@
 ---
-display_name: Convert Mesh Vertex Colors SRGBTo Linear
+title: Convert Mesh Vertex Colors SRGBTo Linear
 order: 3
 ---
 ## Navigation

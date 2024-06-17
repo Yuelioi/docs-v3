@@ -1,5 +1,5 @@
 ---
-display_name: Get Stamina
+title: Get Stamina
 order: 2
 ---
 ## Navigation

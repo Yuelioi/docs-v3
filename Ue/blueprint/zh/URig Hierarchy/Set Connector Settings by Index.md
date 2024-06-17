@@ -1,5 +1,5 @@
 ---
-display_name: Set Connector Settings by Index
+title: Set Connector Settings by Index
 order: 123
 ---
 ## Navigation

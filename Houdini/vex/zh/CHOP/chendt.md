@@ -1,5 +1,5 @@
 ---
-display_name: chendt
+title: chendt
 order: 6
 ---
 | Context(s) | [chop](../contexts/chop.html) |

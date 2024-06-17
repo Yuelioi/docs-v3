@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (TraceQuery)
+title: Assert Equal (TraceQuery)
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ixres
+title: ixres
 order: 25
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

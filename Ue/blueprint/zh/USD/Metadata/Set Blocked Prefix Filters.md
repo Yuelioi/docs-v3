@@ -1,5 +1,5 @@
 ---
-display_name: Set Blocked Prefix Filters
+title: Set Blocked Prefix Filters
 order: 1
 ---
 ## Navigation

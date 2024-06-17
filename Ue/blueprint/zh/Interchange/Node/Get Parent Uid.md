@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Uid
+title: Get Parent Uid
 order: 36
 ---
 ## Navigation

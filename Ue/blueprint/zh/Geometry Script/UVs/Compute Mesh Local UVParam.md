@@ -1,5 +1,5 @@
 ---
-display_name: Compute Mesh Local UVParam
+title: Compute Mesh Local UVParam
 order: 3
 ---
 ## Navigation

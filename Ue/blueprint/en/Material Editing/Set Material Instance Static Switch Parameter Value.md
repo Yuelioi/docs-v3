@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Static Switch Parameter Value
+title: Set Material Instance Static Switch Parameter Value
 order: 52
 ---
 ## Navigation

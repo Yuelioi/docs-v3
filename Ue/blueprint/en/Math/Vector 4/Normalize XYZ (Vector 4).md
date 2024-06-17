@@ -1,5 +1,5 @@
 ---
-display_name: Normalize XYZ (Vector 4)
+title: Normalize XYZ (Vector 4)
 order: 16
 ---
 ## Navigation

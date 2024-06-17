@@ -1,5 +1,5 @@
 ---
-display_name: Unbind from Animation Finished
+title: Unbind from Animation Finished
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Name Collision Test Delegate
+title: On Name Collision Test Delegate
 order: 48
 ---
 ## Navigation

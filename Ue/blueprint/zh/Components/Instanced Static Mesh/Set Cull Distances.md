@@ -1,5 +1,5 @@
 ---
-display_name: Set Cull Distances
+title: Set Cull Distances
 order: 15
 ---
 ## Navigation

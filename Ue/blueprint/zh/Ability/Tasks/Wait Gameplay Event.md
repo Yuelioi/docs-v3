@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Event
+title: Wait Gameplay Event
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Wave Scalar
+title: Set Wave Scalar
 order: 34
 ---
 ## Navigation

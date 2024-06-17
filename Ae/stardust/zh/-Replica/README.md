@@ -1,5 +1,5 @@
 ---
-display_name: README
+title: README
 order: 1
 ---
 

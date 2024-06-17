@@ -1,5 +1,5 @@
 ---
-display_name: UpdateSplinePoint
+title: UpdateSplinePoint
 order: 126
 ---
 ## Navigation

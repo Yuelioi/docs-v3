@@ -1,5 +1,5 @@
 ---
-display_name: Clear Templates
+title: Clear Templates
 order: 1
 ---
 ## Navigation

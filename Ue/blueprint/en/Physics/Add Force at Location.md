@@ -1,5 +1,5 @@
 ---
-display_name: Add Force at Location
+title: Add Force at Location
 order: 5
 ---
 ## Navigation

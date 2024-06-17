@@ -1,5 +1,5 @@
 ---
-display_name: Export Image Async
+title: Export Image Async
 order: 1
 ---
 ## Navigation

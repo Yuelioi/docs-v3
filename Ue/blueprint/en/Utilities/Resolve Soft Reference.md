@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Soft Reference
+title: Resolve Soft Reference
 order: 31
 ---
 ## Navigation

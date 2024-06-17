@@ -1,5 +1,5 @@
 ---
-display_name: Get State Parameter Name
+title: Get State Parameter Name
 order: 21
 ---
 ## Navigation

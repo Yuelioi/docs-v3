@@ -1,5 +1,5 @@
 ---
-display_name: Set Location at Spline Point
+title: Set Location at Spline Point
 order: 84
 ---
 ## Navigation

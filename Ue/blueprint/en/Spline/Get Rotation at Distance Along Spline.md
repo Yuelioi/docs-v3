@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation at Distance Along Spline
+title: Get Rotation at Distance Along Spline
 order: 52
 ---
 ## Navigation

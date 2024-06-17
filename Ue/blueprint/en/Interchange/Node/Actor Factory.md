@@ -1,5 +1,5 @@
 ---
-display_name: Actor Factory
+title: Actor Factory
 order: 1
 ---
 ## Navigation

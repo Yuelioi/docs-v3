@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Elliptical Cone in Degrees from Stream
+title: Random Unit Vector in Elliptical Cone in Degrees from Stream
 order: 38
 ---
 ## Navigation

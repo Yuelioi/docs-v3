@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Hidden In Game
+title: Set Actor Hidden In Game
 order: 13
 ---
 ## Navigation

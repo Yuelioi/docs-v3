@@ -1,5 +1,5 @@
 ---
-display_name: Clear List Items
+title: Clear List Items
 order: 3
 ---
 ## Navigation

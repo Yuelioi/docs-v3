@@ -1,5 +1,5 @@
 ---
-display_name: Set Allowed Device Orientation
+title: Set Allowed Device Orientation
 order: 11
 ---
 ## Navigation

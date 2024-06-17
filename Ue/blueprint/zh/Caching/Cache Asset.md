@@ -1,5 +1,5 @@
 ---
-display_name: Cache Asset
+title: Cache Asset
 order: 2
 ---
 ## Navigation

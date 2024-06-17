@@ -1,5 +1,5 @@
 ---
-display_name: Get Outer Radius
+title: Get Outer Radius
 order: 9
 ---
 ## Navigation

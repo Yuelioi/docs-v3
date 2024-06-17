@@ -1,5 +1,5 @@
 ---
-display_name: Set Pre Skinning Offsets
+title: Set Pre Skinning Offsets
 order: 32
 ---
 ## Navigation

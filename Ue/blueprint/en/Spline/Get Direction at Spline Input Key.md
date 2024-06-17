@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction at Spline Input Key
+title: Get Direction at Spline Input Key
 order: 26
 ---
 ## Navigation

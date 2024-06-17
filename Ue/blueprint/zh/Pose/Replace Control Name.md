@@ -1,5 +1,5 @@
 ---
-display_name: Replace Control Name
+title: Replace Control Name
 order: 5
 ---
 ## Navigation

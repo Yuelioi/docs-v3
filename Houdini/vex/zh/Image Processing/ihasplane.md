@@ -1,5 +1,5 @@
 ---
-display_name: ihasplane
+title: ihasplane
 order: 17
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

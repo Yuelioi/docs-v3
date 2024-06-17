@@ -1,5 +1,5 @@
 ---
-display_name: Lerp Using HSV (LinearColor)
+title: Lerp Using HSV (LinearColor)
 order: 8
 ---
 ## Navigation

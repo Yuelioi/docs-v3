@@ -1,5 +1,5 @@
 ---
-display_name: Get Hours
+title: Get Hours
 order: 10
 ---
 ## Navigation

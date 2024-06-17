@@ -1,5 +1,5 @@
 ---
-display_name: Get Namespaced Point Names
+title: Get Namespaced Point Names
 order: 1
 ---
 ## Navigation

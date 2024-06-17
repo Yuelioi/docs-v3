@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (LinearColor)
+title: Set Niagara Variable By String (LinearColor)
 order: 50
 ---
 ## Navigation

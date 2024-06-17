@@ -1,5 +1,5 @@
 ---
-display_name: Remove Validator
+title: Remove Validator
 order: 2
 ---
 ## Navigation

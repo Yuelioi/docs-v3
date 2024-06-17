@@ -1,6 +1,6 @@
 ---
 order: 9
-display_name: Viewer
+title: Viewer
 ---
 
 # Viewer 查看器

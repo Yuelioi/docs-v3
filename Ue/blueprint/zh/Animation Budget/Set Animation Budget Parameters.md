@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation Budget Parameters
+title: Set Animation Budget Parameters
 order: 2
 ---
 ## Navigation

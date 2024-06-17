@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Cloud
+title: Get Point Cloud
 order: 1
 ---
 ## Navigation

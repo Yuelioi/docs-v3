@@ -1,5 +1,5 @@
 ---
-display_name: Can Modify
+title: Can Modify
 order: 11
 ---
 ## Navigation

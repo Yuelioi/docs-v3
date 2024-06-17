@@ -1,5 +1,5 @@
 ---
-display_name: Set User Ability Activation Inhibited
+title: Set User Ability Activation Inhibited
 order: 2
 ---
 ## Navigation

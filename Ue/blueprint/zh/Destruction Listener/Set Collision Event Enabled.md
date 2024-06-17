@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Event Enabled
+title: Set Collision Event Enabled
 order: 8
 ---
 ## Navigation

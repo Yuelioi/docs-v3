@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect
+title: Disconnect
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC 水银滴落
+title: CC 水银滴落
 order: 7
 ---
 

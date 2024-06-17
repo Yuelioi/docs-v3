@@ -1,5 +1,5 @@
 ---
-display_name: GetClosestPointTo (Box)
+title: GetClosestPointTo (Box)
 order: 2
 ---
 ## Navigation

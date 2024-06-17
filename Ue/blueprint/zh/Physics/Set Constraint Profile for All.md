@@ -1,5 +1,5 @@
 ---
-display_name: Set Constraint Profile for All
+title: Set Constraint Profile for All
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Double Click Propagation
+title: Stop Double Click Propagation
 order: 7
 ---
 ## Navigation

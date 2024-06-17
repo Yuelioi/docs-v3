@@ -1,5 +1,5 @@
 ---
-display_name: Colors
+title: Colors
 order: 1
 ---
 

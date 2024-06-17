@@ -1,5 +1,5 @@
 ---
-display_name: Get Chain Settings from Retarget Profile
+title: Get Chain Settings from Retarget Profile
 order: 1
 ---
 ## Navigation

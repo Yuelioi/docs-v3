@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Size Start Frame Seconds
+title: Get Auto Size Start Frame Seconds
 order: 15
 ---
 ## Navigation

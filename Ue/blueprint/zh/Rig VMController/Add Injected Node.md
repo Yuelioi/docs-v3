@@ -1,5 +1,5 @@
 ---
-display_name: Add Injected Node
+title: Add Injected Node
 order: 16
 ---
 ## Navigation

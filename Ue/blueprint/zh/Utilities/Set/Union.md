@@ -1,5 +1,5 @@
 ---
-display_name: Union
+title: Union
 order: 14
 ---
 ## Navigation

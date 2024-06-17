@@ -1,5 +1,5 @@
 ---
-display_name: Get Solver Enabled
+title: Get Solver Enabled
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Num Lock
+title: Num Lock
 order: 79
 ---
 ## Navigation

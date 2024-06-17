@@ -1,5 +1,5 @@
 ---
-display_name: Merge Simple Collision Shapes
+title: Merge Simple Collision Shapes
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Secondary Render Material
+title: Get Secondary Render Material
 order: 10
 ---
 ## Navigation

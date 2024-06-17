@@ -1,5 +1,5 @@
 ---
-display_name: Register Navigation Invoker
+title: Register Navigation Invoker
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Select Folders
+title: Select Folders
 order: 58
 ---
 ## Navigation

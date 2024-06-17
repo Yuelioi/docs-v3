@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Location Grid Snapping
+title: Toggle Location Grid Snapping
 order: 28
 ---
 ## Navigation

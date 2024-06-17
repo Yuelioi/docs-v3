@@ -1,5 +1,5 @@
 ---
-display_name: Get Blackboard Value As Smart Object Claim Handle
+title: Get Blackboard Value As Smart Object Claim Handle
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get GameFeaturesSubsystem
+title: Get GameFeaturesSubsystem
 order: 18
 ---
 ## Navigation

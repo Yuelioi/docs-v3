@@ -1,5 +1,5 @@
 ---
-display_name: SetSubmixDryLevel (linear gain)
+title: SetSubmixDryLevel (linear gain)
 order: 15
 ---
 ## Navigation

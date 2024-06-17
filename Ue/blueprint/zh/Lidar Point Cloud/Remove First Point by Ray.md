@@ -1,5 +1,5 @@
 ---
-display_name: Remove First Point by Ray
+title: Remove First Point by Ray
 order: 57
 ---
 ## Navigation

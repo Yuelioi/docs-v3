@@ -1,5 +1,5 @@
 ---
-display_name: Get Constant Value
+title: Get Constant Value
 order: 40
 ---
 ## Navigation

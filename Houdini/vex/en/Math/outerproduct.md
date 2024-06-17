@@ -1,5 +1,5 @@
 ---
-display_name: outerproduct
+title: outerproduct
 order: 50
 ---
 `matrix2  outerproduct(vector2 v, vector2 v)`

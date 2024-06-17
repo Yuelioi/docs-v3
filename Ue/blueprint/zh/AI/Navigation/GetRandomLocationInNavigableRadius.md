@@ -1,5 +1,5 @@
 ---
-display_name: GetRandomLocationInNavigableRadius
+title: GetRandomLocationInNavigableRadius
 order: 16
 ---
 ## Navigation

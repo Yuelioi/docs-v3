@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable Type
+title: Get Variable Type
 order: 10
 ---
 ## Navigation

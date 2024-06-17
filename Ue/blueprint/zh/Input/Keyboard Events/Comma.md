@@ -1,5 +1,5 @@
 ---
-display_name: Comma
+title: Comma
 order: 23
 ---
 ## Navigation

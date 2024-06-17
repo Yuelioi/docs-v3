@@ -1,5 +1,5 @@
 ---
-display_name: Update Cloud Anchor Properties
+title: Update Cloud Anchor Properties
 order: 12
 ---
 ## Navigation

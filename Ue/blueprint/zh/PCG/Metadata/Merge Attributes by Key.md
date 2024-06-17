@@ -1,5 +1,5 @@
 ---
-display_name: Merge Attributes by Key
+title: Merge Attributes by Key
 order: 67
 ---
 ## Navigation

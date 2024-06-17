@@ -1,5 +1,5 @@
 ---
-display_name: Is Currently Rendering
+title: Is Currently Rendering
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Wait Net Sync
+title: Wait Net Sync
 order: 39
 ---
 ## Navigation

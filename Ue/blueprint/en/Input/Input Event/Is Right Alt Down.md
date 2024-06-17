@@ -1,5 +1,5 @@
 ---
-display_name: Is Right Alt Down
+title: Is Right Alt Down
 order: 10
 ---
 ## Navigation

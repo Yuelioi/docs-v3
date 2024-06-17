@@ -1,5 +1,5 @@
 ---
-display_name: Get Targeting Source Context
+title: Get Targeting Source Context
 order: 1
 ---
 ## Navigation

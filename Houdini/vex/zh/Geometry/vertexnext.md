@@ -1,5 +1,5 @@
 ---
-display_name: vertexnext
+title: vertexnext
 order: 41
 ---
 `int  vertexnext(<geometry>geometry, int linearvertex)`

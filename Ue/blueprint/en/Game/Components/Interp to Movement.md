@@ -1,5 +1,5 @@
 ---
-display_name: Interp to Movement
+title: Interp to Movement
 order: 3
 ---
 ## Navigation

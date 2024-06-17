@@ -1,5 +1,5 @@
 ---
-display_name: resize
+title: resize
 order: 14
 ---
 

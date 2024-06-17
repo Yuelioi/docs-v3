@@ -1,6 +1,6 @@
 ---
 order: 8
-display_name: CC塑料
+title: CC塑料
 ---
 
 # CC Plastic - CC塑料

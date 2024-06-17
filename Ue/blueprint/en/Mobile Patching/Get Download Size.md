@@ -1,5 +1,5 @@
 ---
-display_name: Get Download Size
+title: Get Download Size
 order: 3
 ---
 ## Navigation

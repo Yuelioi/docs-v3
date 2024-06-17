@@ -1,5 +1,5 @@
 ---
-display_name: fromNDC
+title: fromNDC
 order: 2
 ---
 `vector  fromNDC(vector v)`

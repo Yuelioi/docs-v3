@@ -1,5 +1,5 @@
 ---
-display_name: Add Geometry Collection Actor
+title: Add Geometry Collection Actor
 order: 2
 ---
 ## Navigation

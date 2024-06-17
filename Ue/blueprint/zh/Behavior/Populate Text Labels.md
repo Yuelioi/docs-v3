@@ -1,5 +1,5 @@
 ---
-display_name: Populate Text Labels
+title: Populate Text Labels
 order: 18
 ---
 ## Navigation

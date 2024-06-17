@@ -1,5 +1,5 @@
 ---
-display_name: Update Instance Transform
+title: Update Instance Transform
 order: 19
 ---
 ## Navigation

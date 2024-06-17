@@ -1,5 +1,5 @@
 ---
-display_name: Add Float
+title: Add Float
 order: 1
 ---
 ## Navigation

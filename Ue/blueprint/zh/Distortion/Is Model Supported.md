@@ -1,5 +1,5 @@
 ---
-display_name: Is Model Supported
+title: Is Model Supported
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Generated Config Dir
+title: Generated Config Dir
 order: 35
 ---
 ## Navigation

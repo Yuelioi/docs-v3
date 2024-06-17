@@ -1,5 +1,5 @@
 ---
-display_name: Get Pixel Linear Color
+title: Get Pixel Linear Color
 order: 2
 ---
 ## Navigation

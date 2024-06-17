@@ -1,5 +1,5 @@
 ---
-display_name: Get CommonUIActionRouterBase
+title: Get CommonUIActionRouterBase
 order: 2
 ---
 ## Navigation

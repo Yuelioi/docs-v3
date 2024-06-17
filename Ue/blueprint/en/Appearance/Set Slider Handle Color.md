@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Handle Color
+title: Set Slider Handle Color
 order: 80
 ---
 ## Navigation

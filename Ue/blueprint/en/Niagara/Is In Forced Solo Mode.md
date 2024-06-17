@@ -1,5 +1,5 @@
 ---
-display_name: Is In Forced Solo Mode
+title: Is In Forced Solo Mode
 order: 30
 ---
 ## Navigation

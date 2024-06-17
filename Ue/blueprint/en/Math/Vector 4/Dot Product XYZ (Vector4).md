@@ -1,5 +1,5 @@
 ---
-display_name: Dot Product XYZ (Vector4)
+title: Dot Product XYZ (Vector4)
 order: 4
 ---
 ## Navigation

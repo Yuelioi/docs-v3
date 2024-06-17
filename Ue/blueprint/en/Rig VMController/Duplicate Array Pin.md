@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Array Pin
+title: Duplicate Array Pin
 order: 44
 ---
 ## Navigation

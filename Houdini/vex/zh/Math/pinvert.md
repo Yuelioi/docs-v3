@@ -1,5 +1,5 @@
 ---
-display_name: pinvert
+title: pinvert
 order: 51
 ---
 `matrix3  pinvert(matrix3 m)`

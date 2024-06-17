@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Env Probe
+title: On Add Tracked Env Probe
 order: 1
 ---
 ## Navigation

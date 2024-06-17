@@ -1,5 +1,5 @@
 ---
-display_name: Menu
+title: Menu
 order: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick 2D-Axis
+title: Gamepad Right Thumbstick 2D-Axis
 order: 21
 ---
 ## Navigation

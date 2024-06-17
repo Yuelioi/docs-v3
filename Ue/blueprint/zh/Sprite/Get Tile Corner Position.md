@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile Corner Position
+title: Get Tile Corner Position
 order: 15
 ---
 ## Navigation

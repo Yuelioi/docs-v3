@@ -1,5 +1,5 @@
 ---
-display_name: Is Interstitial Ad Available
+title: Is Interstitial Ad Available
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SetForegroundColor (Text Box)
+title: SetForegroundColor (Text Box)
 order: 42
 ---
 ## Navigation

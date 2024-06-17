@@ -1,5 +1,5 @@
 ---
-display_name: Get Battery Level
+title: Get Battery Level
 order: 2
 ---
 ## Navigation

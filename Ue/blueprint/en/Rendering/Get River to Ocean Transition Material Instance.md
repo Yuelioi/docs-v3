@@ -1,5 +1,5 @@
 ---
-display_name: Get River to Ocean Transition Material Instance
+title: Get River to Ocean Transition Material Instance
 order: 18
 ---
 ## Navigation

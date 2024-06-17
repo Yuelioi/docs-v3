@@ -1,5 +1,5 @@
 ---
-display_name: Set 2D
+title: Set 2D
 order: 21
 ---
 ## Navigation

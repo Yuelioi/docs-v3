@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect Connector
+title: Disconnect Connector
 order: 8
 ---
 ## Navigation

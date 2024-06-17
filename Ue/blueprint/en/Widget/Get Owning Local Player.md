@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Local Player
+title: Get Owning Local Player
 order: 31
 ---
 ## Navigation

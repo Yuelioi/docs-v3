@@ -1,5 +1,5 @@
 ---
-display_name: Paint Vertices Lerp Along Axis
+title: Paint Vertices Lerp Along Axis
 order: 1
 ---
 ## Navigation

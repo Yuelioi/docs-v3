@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Sequence
+title: Get Animation Sequence
 order: 2
 ---
 ## Navigation

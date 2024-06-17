@@ -1,5 +1,5 @@
 ---
-display_name: Get Shallow Water Simulation Render Target Size
+title: Get Shallow Water Simulation Render Target Size
 order: 10
 ---
 ## Navigation

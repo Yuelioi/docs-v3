@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Visibility by Index
+title: Set Control Visibility by Index
 order: 139
 ---
 ## Navigation

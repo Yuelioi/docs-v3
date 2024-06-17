@@ -1,5 +1,5 @@
 ---
-display_name: Get Azure Cloud Identifier
+title: Get Azure Cloud Identifier
 order: 5
 ---
 ## Navigation

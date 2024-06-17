@@ -1,5 +1,5 @@
 ---
-display_name: Client Stop Force Feedback
+title: Client Stop Force Feedback
 order: 8
 ---
 ## Navigation

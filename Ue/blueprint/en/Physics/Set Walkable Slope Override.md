@@ -1,5 +1,5 @@
 ---
-display_name: Set Walkable Slope Override
+title: Set Walkable Slope Override
 order: 60
 ---
 ## Navigation

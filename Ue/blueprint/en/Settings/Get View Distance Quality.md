@@ -1,5 +1,5 @@
 ---
-display_name: Get View Distance Quality
+title: Get View Distance Quality
 order: 67
 ---
 ## Navigation

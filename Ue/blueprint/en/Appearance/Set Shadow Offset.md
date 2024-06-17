@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Offset
+title: Set Shadow Offset
 order: 72
 ---
 ## Navigation

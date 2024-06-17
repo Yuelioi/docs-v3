@@ -1,5 +1,5 @@
 ---
-display_name: Get MetaSoundOutputSubsystem
+title: Get MetaSoundOutputSubsystem
 order: 58
 ---
 ## Navigation

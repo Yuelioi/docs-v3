@@ -1,5 +1,5 @@
 ---
-display_name: Make Optional Observation
+title: Make Optional Observation
 order: 210
 ---
 ## Navigation

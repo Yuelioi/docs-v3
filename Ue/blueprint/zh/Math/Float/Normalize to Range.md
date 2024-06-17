@@ -1,5 +1,5 @@
 ---
-display_name: Normalize to Range
+title: Normalize to Range
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Color and Opacity
+title: Set Color and Opacity
 order: 2
 ---
 ## Navigation

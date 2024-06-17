@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Frames Anim Sequence
+title: Get Num Frames Anim Sequence
 order: 9
 ---
 ## Navigation

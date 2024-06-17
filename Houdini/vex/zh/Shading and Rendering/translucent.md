@@ -1,5 +1,5 @@
 ---
-display_name: translucent
+title: translucent
 order: 78
 ---
 `bsdf  translucent(vector nml, vector ng, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Name for Object Path
+title: Get Plugin Name for Object Path
 order: 10
 ---
 ## Navigation

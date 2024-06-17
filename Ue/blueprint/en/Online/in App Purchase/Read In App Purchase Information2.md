@@ -1,5 +1,5 @@
 ---
-display_name: Read In App Purchase Information2
+title: Read In App Purchase Information2
 order: 7
 ---
 ## Navigation

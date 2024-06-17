@@ -1,5 +1,5 @@
 ---
-display_name: 数据访问(bpy.data)
+title: 数据访问(bpy.data)
 order: 7
 ---
 

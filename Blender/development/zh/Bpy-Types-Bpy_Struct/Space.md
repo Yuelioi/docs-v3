@@ -1,5 +1,5 @@
 ---
-display_name: Space
+title: Space
 order: 11
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Providers
+title: Get Available Providers
 order: 21
 ---
 ## Navigation

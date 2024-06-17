@@ -1,5 +1,5 @@
 ---
-display_name: To LinearColor (Color)
+title: To LinearColor (Color)
 order: 20
 ---
 ## Navigation

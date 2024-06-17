@@ -1,5 +1,5 @@
 ---
-display_name: Remove Value by Name
+title: Remove Value by Name
 order: 196
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Enabled
+title: Get Range Enabled
 order: 33
 ---
 ## Navigation

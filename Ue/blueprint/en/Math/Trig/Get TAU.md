@@ -1,5 +1,5 @@
 ---
-display_name: Get TAU
+title: Get TAU
 order: 13
 ---
 ## Navigation

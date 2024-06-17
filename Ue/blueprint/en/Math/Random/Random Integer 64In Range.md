@@ -1,5 +1,5 @@
 ---
-display_name: Random Integer 64In Range
+title: Random Integer 64In Range
 order: 19
 ---
 ## Navigation

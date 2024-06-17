@@ -1,5 +1,5 @@
 ---
-display_name: Get Conversation Participant
+title: Get Conversation Participant
 order: 8
 ---
 ## Navigation

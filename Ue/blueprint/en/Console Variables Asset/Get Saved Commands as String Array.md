@@ -1,5 +1,5 @@
 ---
-display_name: Get Saved Commands as String Array
+title: Get Saved Commands as String Array
 order: 7
 ---
 ## Navigation

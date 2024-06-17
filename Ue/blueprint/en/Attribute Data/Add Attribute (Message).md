@@ -1,5 +1,5 @@
 ---
-display_name: Add Attribute (Message)
+title: Add Attribute (Message)
 order: 1
 ---
 ## Navigation

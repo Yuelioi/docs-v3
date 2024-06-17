@@ -1,5 +1,5 @@
 ---
-display_name: Is Blinking
+title: Is Blinking
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Animation Camera Modifier from Player Controller
+title: Get Camera Animation Camera Modifier from Player Controller
 order: 5
 ---
 ## Navigation

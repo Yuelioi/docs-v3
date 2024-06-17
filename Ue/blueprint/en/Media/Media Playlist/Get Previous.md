@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous
+title: Get Previous
 order: 5
 ---
 ## Navigation

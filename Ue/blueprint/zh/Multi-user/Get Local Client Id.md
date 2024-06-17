@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Client Id
+title: Get Local Client Id
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Show Only Actor Components
+title: Remove Show Only Actor Components
 order: 6
 ---
 ## Navigation

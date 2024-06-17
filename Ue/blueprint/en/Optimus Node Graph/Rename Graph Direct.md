@@ -1,5 +1,5 @@
 ---
-display_name: Rename Graph Direct
+title: Rename Graph Direct
 order: 39
 ---
 ## Navigation

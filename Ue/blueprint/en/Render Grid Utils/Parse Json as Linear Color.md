@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Linear Color
+title: Parse Json as Linear Color
 order: 18
 ---
 ## Navigation

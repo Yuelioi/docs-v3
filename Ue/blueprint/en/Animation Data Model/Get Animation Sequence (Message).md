@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Sequence (Message)
+title: Get Animation Sequence (Message)
 order: 1
 ---
 ## Navigation

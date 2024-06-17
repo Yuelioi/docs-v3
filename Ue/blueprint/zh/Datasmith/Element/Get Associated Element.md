@@ -1,5 +1,5 @@
 ---
-display_name: Get Associated Element
+title: Get Associated Element
 order: 12
 ---
 ## Navigation

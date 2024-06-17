@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Names in Set
+title: Get Control Names in Set
 order: 10
 ---
 ## Navigation

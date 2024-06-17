@@ -1,5 +1,5 @@
 ---
-display_name: Get Gravity Force Acceleration
+title: Get Gravity Force Acceleration
 order: 14
 ---
 ## Navigation

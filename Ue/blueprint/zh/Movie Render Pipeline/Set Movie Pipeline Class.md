@@ -1,5 +1,5 @@
 ---
-display_name: Set Movie Pipeline Class
+title: Set Movie Pipeline Class
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Sky Light Cloud Bottom Occlusion
+title: Set Sky Light Cloud Bottom Occlusion
 order: 83
 ---
 ## Navigation

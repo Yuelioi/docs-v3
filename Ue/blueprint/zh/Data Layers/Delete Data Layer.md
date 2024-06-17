@@ -1,5 +1,5 @@
 ---
-display_name: Delete Data Layer
+title: Delete Data Layer
 order: 12
 ---
 ## Navigation

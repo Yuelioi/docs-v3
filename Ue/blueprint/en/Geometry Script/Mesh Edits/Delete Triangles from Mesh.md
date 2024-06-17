@@ -1,5 +1,5 @@
 ---
-display_name: Delete Triangles from Mesh
+title: Delete Triangles from Mesh
 order: 12
 ---
 ## Navigation

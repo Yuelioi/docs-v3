@@ -1,5 +1,5 @@
 ---
-display_name: primintrinsic
+title: primintrinsic
 order: 53
 ---
 Intrinsic values are similar to attributes, but are computed on-demand by Houdini rather than stored.

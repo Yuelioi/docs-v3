@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttachLocationY
+title: ToggleAttachLocationY
 order: 99
 ---
 ## Navigation

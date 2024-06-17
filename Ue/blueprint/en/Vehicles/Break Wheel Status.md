@@ -1,5 +1,5 @@
 ---
-display_name: Break Wheel Status
+title: Break Wheel Status
 order: 2
 ---
 ## Navigation

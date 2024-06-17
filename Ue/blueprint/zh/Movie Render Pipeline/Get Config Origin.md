@@ -1,5 +1,5 @@
 ---
-display_name: Get Config Origin
+title: Get Config Origin
 order: 23
 ---
 ## Navigation

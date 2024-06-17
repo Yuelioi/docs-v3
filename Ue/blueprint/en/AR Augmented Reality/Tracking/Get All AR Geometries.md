@@ -1,5 +1,5 @@
 ---
-display_name: Get All AR Geometries
+title: Get All AR Geometries
 order: 7
 ---
 ## Navigation

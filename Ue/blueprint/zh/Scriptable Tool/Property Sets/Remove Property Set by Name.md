@@ -1,5 +1,5 @@
 ---
-display_name: Remove Property Set by Name
+title: Remove Property Set by Name
 order: 3
 ---
 ## Navigation

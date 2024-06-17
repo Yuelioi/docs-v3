@@ -1,5 +1,5 @@
 ---
-display_name: Get View Rotation
+title: Get View Rotation
 order: 14
 ---
 ## Navigation

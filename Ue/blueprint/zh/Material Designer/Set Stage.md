@@ -1,5 +1,5 @@
 ---
-display_name: Set Stage
+title: Set Stage
 order: 235
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Android Menu
+title: Android Menu
 order: 2
 ---
 ## Navigation

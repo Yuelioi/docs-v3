@@ -1,5 +1,5 @@
 ---
-display_name: Load File
+title: Load File
 order: 8
 ---
 ## Navigation

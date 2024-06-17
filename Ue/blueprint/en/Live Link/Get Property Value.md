@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Value
+title: Get Property Value
 order: 27
 ---
 ## Navigation

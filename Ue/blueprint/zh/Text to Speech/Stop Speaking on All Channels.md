@@ -1,5 +1,5 @@
 ---
-display_name: Stop Speaking on All Channels
+title: Stop Speaking on All Channels
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 深度遮罩
+title: 深度遮罩
 order: 3
 ---
 

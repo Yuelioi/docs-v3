@@ -1,5 +1,5 @@
 ---
-display_name: Set Anchors
+title: Set Anchors
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Curl Noise Force Frequency
+title: Set Curl Noise Force Frequency
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get CameraCalibrationSubsystem
+title: Get CameraCalibrationSubsystem
 order: 11
 ---
 ## Navigation

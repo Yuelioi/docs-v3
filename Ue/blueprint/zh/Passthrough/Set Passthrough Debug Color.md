@@ -1,5 +1,5 @@
 ---
-display_name: Set Passthrough Debug Color
+title: Set Passthrough Debug Color
 order: 4
 ---
 ## Navigation

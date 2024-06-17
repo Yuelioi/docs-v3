@@ -1,5 +1,5 @@
 ---
-display_name: On Generate Move
+title: On Generate Move
 order: 16
 ---
 ## Navigation

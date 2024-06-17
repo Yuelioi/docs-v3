@@ -1,5 +1,5 @@
 ---
-display_name: CC瓷砖
+title: CC瓷砖
 order: 9
 ---
 

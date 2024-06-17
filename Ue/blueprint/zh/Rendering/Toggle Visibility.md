@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Visibility
+title: Toggle Visibility
 order: 8
 ---
 ## Navigation

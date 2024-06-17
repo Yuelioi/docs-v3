@@ -1,5 +1,5 @@
 ---
-display_name: Rename Element
+title: Rename Element
 order: 26
 ---
 ## Navigation

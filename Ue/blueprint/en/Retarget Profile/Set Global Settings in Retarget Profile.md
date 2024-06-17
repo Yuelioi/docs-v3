@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Settings in Retarget Profile
+title: Set Global Settings in Retarget Profile
 order: 10
 ---
 ## Navigation

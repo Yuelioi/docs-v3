@@ -1,5 +1,5 @@
 ---
-display_name: Add Polygon to List
+title: Add Polygon to List
 order: 1
 ---
 ## Navigation

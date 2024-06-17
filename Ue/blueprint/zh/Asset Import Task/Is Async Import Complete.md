@@ -1,5 +1,5 @@
 ---
-display_name: Is Async Import Complete
+title: Is Async Import Complete
 order: 2
 ---
 ## Navigation

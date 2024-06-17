@@ -1,5 +1,5 @@
 ---
-display_name: Set Multi-User Presence Visibility By Id
+title: Set Multi-User Presence Visibility By Id
 order: 4
 ---
 ## Navigation

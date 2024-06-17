@@ -1,5 +1,5 @@
 ---
-display_name: matchvex_specular
+title: matchvex_specular
 order: 53
 ---
 `bsdf  matchvex_specular(float exponent, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Add Properties to Object
+title: Add Properties to Object
 order: 4
 ---
 ## Navigation

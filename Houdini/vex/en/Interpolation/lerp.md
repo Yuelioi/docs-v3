@@ -1,5 +1,5 @@
 ---
-display_name: lerp
+title: lerp
 order: 10
 ---
 `float  lerp(float value1, float value2, float amount)`

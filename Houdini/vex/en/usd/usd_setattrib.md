@@ -1,5 +1,5 @@
 ---
-display_name: usd_setattrib
+title: usd_setattrib
 order: 123
 ---
 | Since | 17.5 |

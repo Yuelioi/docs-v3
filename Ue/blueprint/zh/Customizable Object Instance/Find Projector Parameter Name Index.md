@@ -1,5 +1,5 @@
 ---
-display_name: Find Projector Parameter Name Index
+title: Find Projector Parameter Name Index
 order: 10
 ---
 ## Navigation

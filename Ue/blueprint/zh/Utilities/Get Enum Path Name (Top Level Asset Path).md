@@ -1,5 +1,5 @@
 ---
-display_name: Get Enum Path Name (Top Level Asset Path)
+title: Get Enum Path Name (Top Level Asset Path)
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Draw Distance
+title: Set Max Draw Distance
 order: 1
 ---
 ## Navigation

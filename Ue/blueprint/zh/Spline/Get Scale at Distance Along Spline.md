@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale at Distance Along Spline
+title: Get Scale at Distance Along Spline
 order: 56
 ---
 ## Navigation

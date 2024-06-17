@@ -1,5 +1,5 @@
 ---
-display_name: K
+title: K
 order: 54
 ---
 ## Navigation

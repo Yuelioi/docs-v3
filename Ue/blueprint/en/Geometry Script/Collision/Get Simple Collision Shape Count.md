@@ -1,5 +1,5 @@
 ---
-display_name: Get Simple Collision Shape Count
+title: Get Simple Collision Shape Count
 order: 5
 ---
 ## Navigation

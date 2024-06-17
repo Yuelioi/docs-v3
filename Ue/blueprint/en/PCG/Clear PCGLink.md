@@ -1,5 +1,5 @@
 ---
-display_name: Clear PCGLink
+title: Clear PCGLink
 order: 4
 ---
 ## Navigation

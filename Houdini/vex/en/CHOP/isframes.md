@@ -1,5 +1,5 @@
 ---
-display_name: isframes
+title: isframes
 order: 30
 ---
 | Context(s) | [chop](../contexts/chop.html) |

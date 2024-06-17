@@ -1,5 +1,5 @@
 ---
-display_name: Set Capsule Half Height
+title: Set Capsule Half Height
 order: 12
 ---
 ## Navigation

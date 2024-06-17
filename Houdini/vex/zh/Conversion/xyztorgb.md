@@ -1,5 +1,5 @@
 ---
-display_name: xyztorgb
+title: xyztorgb
 order: 14
 ---
 `vector  xyztorgb(vector xyz)`

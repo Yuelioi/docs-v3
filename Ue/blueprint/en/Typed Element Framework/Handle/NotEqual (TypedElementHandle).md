@@ -1,5 +1,5 @@
 ---
-display_name: NotEqual (TypedElementHandle)
+title: NotEqual (TypedElementHandle)
 order: 3
 ---
 ## Navigation

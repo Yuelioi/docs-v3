@@ -1,5 +1,5 @@
 ---
-display_name: Get Simulation Time
+title: Get Simulation Time
 order: 10
 ---
 ## Navigation

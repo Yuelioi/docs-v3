@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Uniform Grid Slot
+title: Slot as Uniform Grid Slot
 order: 10
 ---
 ## Navigation

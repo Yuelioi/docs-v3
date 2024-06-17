@@ -1,5 +1,5 @@
 ---
-display_name: Add Action Mapping
+title: Add Action Mapping
 order: 1
 ---
 ## Navigation

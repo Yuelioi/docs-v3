@@ -1,5 +1,5 @@
 ---
-display_name: Set Scene Extension Is Active Function
+title: Set Scene Extension Is Active Function
 order: 12
 ---
 ## Navigation

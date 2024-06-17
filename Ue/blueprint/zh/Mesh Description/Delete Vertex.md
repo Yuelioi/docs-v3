@@ -1,5 +1,5 @@
 ---
-display_name: Delete Vertex
+title: Delete Vertex
 order: 20
 ---
 ## Navigation

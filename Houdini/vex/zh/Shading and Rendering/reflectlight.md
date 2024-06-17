@@ -1,5 +1,5 @@
 ---
-display_name: reflectlight
+title: reflectlight
 order: 62
 ---
 | On this page | * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) * [Image filtering options](#image-filtering-options) * [Examples](#examples) |

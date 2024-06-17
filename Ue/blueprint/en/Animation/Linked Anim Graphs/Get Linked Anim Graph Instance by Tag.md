@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Anim Graph Instance by Tag
+title: Get Linked Anim Graph Instance by Tag
 order: 2
 ---
 ## Navigation

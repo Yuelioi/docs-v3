@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Key Profile
+title: Get Current Key Profile
 order: 9
 ---
 ## Navigation

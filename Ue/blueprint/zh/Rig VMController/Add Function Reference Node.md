@@ -1,5 +1,5 @@
 ---
-display_name: Add Function Reference Node
+title: Add Function Reference Node
 order: 13
 ---
 ## Navigation

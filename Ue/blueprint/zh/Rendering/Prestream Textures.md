@@ -1,5 +1,5 @@
 ---
-display_name: Prestream Textures
+title: Prestream Textures
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Zero
+title: Vector 4 Zero
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Native Culture
+title: Get Native Culture
 order: 12
 ---
 ## Navigation

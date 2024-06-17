@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (String)
+title: Has Default (String)
 order: 81
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation at Spline Input Key
+title: Get Rotation at Spline Input Key
 order: 53
 ---
 ## Navigation

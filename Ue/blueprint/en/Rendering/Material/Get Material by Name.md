@@ -1,5 +1,5 @@
 ---
-display_name: Get Material by Name
+title: Get Material by Name
 order: 11
 ---
 ## Navigation

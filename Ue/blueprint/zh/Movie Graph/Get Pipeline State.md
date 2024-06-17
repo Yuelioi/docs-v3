@@ -1,5 +1,5 @@
 ---
-display_name: Get Pipeline State
+title: Get Pipeline State
 order: 43
 ---
 ## Navigation

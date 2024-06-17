@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Soft Swing Limit Params
+title: Get Angular Soft Swing Limit Params
 order: 8
 ---
 ## Navigation

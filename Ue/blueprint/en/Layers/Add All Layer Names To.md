@@ -1,5 +1,5 @@
 ---
-display_name: Add All Layer Names To
+title: Add All Layer Names To
 order: 5
 ---
 ## Navigation

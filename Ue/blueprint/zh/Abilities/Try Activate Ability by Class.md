@@ -1,5 +1,5 @@
 ---
-display_name: Try Activate Ability by Class
+title: Try Activate Ability by Class
 order: 6
 ---
 ## Navigation

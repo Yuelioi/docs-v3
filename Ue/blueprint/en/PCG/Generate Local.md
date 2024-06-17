@@ -1,5 +1,5 @@
 ---
-display_name: Generate Local
+title: Generate Local
 order: 5
 ---
 ## Navigation

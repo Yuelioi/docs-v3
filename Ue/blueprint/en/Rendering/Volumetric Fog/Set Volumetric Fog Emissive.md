@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog Emissive
+title: Set Volumetric Fog Emissive
 order: 4
 ---
 ## Navigation

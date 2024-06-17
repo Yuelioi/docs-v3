@@ -1,5 +1,5 @@
 ---
-display_name: Play Scheduled Sequences
+title: Play Scheduled Sequences
 order: 9
 ---
 ## Navigation

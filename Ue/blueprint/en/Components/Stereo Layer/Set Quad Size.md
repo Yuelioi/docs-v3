@@ -1,5 +1,5 @@
 ---
-display_name: Set Quad Size
+title: Set Quad Size
 order: 12
 ---
 ## Navigation

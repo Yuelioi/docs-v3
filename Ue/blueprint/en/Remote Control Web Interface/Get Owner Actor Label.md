@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner Actor Label
+title: Get Owner Actor Label
 order: 3
 ---
 ## Navigation

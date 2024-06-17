@@ -1,5 +1,5 @@
 ---
-display_name: Open Asset
+title: Open Asset
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delete Job
+title: Delete Job
 order: 4
 ---
 ## Navigation

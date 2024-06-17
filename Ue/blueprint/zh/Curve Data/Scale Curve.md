@@ -1,5 +1,5 @@
 ---
-display_name: Scale Curve
+title: Scale Curve
 order: 16
 ---
 ## Navigation

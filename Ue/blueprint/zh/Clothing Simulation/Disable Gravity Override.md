@@ -1,5 +1,5 @@
 ---
-display_name: Disable Gravity Override
+title: Disable Gravity Override
 order: 2
 ---
 ## Navigation

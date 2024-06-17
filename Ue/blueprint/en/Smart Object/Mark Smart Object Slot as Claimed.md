@@ -1,5 +1,5 @@
 ---
-display_name: Mark Smart Object Slot as Claimed
+title: Mark Smart Object Slot as Claimed
 order: 38
 ---
 ## Navigation

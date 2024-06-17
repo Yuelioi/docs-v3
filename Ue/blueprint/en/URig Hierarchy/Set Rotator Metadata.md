@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotator Metadata
+title: Set Rotator Metadata
 order: 163
 ---
 ## Navigation

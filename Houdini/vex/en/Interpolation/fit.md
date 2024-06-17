@@ -1,5 +1,5 @@
 ---
-display_name: fit
+title: fit
 order: 5
 ---
 `float  fit(float value, float omin, float omax, float nmin, float nmax)`

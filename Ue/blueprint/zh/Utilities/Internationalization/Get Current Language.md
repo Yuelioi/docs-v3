@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Language
+title: Get Current Language
 order: 5
 ---
 ## Navigation

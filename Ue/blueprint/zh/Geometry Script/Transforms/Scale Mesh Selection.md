@@ -1,5 +1,5 @@
 ---
-display_name: Scale Mesh Selection
+title: Scale Mesh Selection
 order: 3
 ---
 ## Navigation

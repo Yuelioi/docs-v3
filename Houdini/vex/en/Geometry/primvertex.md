@@ -1,5 +1,5 @@
 ---
-display_name: primvertex
+title: primvertex
 order: 28
 ---
 `int  primvertex(<geometry>geometry, int primnum, int vertex)`

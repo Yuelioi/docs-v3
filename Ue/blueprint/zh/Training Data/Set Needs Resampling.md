@@ -1,5 +1,5 @@
 ---
-display_name: Set Needs Resampling
+title: Set Needs Resampling
 order: 9
 ---
 ## Navigation

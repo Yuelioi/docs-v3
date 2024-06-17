@@ -1,5 +1,5 @@
 ---
-display_name: Paste Tracks
+title: Paste Tracks
 order: 46
 ---
 ## Navigation

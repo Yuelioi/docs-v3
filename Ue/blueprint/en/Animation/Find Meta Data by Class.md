@@ -1,5 +1,5 @@
 ---
-display_name: Find Meta Data by Class
+title: Find Meta Data by Class
 order: 7
 ---
 ## Navigation

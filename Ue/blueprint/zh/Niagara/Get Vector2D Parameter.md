@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector2D Parameter
+title: Get Vector2D Parameter
 order: 27
 ---
 ## Navigation

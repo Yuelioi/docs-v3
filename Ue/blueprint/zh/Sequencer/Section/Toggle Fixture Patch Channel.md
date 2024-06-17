@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Fixture Patch Channel
+title: Toggle Fixture Patch Channel
 order: 105
 ---
 ## Navigation

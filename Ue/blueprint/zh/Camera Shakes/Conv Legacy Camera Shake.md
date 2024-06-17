@@ -1,5 +1,5 @@
 ---
-display_name: Conv Legacy Camera Shake
+title: Conv Legacy Camera Shake
 order: 1
 ---
 ## Navigation

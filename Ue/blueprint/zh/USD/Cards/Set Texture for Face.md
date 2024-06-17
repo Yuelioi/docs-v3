@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture for Face
+title: Set Texture for Face
 order: 2
 ---
 ## Navigation

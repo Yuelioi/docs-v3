@@ -1,5 +1,5 @@
 ---
-display_name: usd_attribsize
+title: usd_attribsize
 order: 20
 ---
 | Since | 17.5 |

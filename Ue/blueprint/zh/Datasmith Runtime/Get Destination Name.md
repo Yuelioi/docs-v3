@@ -1,5 +1,5 @@
 ---
-display_name: Get Destination Name
+title: Get Destination Name
 order: 2
 ---
 ## Navigation

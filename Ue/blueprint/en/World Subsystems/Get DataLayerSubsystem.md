@@ -1,5 +1,5 @@
 ---
-display_name: Get DataLayerSubsystem
+title: Get DataLayerSubsystem
 order: 24
 ---
 ## Navigation

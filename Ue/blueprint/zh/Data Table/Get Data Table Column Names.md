@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Column Names
+title: Get Data Table Column Names
 order: 5
 ---
 ## Navigation

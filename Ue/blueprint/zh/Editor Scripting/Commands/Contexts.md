@@ -1,5 +1,5 @@
 ---
-display_name: Contexts
+title: Contexts
 order: 1
 ---
 ## Navigation

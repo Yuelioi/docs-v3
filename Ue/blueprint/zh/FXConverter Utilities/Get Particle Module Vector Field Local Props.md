@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Vector Field Local Props
+title: Get Particle Module Vector Field Local Props
 order: 104
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Matches Tag
+title: Matches Tag
 order: 35
 ---
 ## Navigation

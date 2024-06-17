@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug String from Gameplay Attribute
+title: Get Debug String from Gameplay Attribute
 order: 3
 ---
 ## Navigation

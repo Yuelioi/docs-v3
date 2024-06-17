@@ -1,5 +1,5 @@
 ---
-display_name: Transition Single Actor
+title: Transition Single Actor
 order: 10
 ---
 ## Navigation

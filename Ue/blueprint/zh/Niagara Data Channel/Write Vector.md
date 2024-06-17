@@ -1,5 +1,5 @@
 ---
-display_name: Write Vector
+title: Write Vector
 order: 32
 ---
 ## Navigation

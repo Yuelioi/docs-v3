@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Light Estimate
+title: Get Current Light Estimate
 order: 1
 ---
 ## Navigation

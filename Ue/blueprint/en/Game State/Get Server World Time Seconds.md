@@ -1,5 +1,5 @@
 ---
-display_name: Get Server World Time Seconds
+title: Get Server World Time Seconds
 order: 3
 ---
 ## Navigation

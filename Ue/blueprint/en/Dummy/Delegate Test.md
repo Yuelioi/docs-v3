@@ -1,5 +1,5 @@
 ---
-display_name: Delegate Test
+title: Delegate Test
 order: 1
 ---
 ## Navigation

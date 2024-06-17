@@ -1,5 +1,5 @@
 ---
-display_name: Remove Input Mapping Context
+title: Remove Input Mapping Context
 order: 25
 ---
 ## Navigation

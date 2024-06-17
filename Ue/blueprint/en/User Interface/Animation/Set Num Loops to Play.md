@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Loops to Play
+title: Set Num Loops to Play
 order: 23
 ---
 ## Navigation

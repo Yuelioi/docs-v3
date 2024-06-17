@@ -1,5 +1,5 @@
 ---
-display_name: Is HDR Enabled
+title: Is HDR Enabled
 order: 82
 ---
 ## Navigation

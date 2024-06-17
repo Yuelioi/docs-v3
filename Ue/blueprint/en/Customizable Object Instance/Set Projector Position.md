@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Position
+title: Set Projector Position
 order: 71
 ---
 ## Navigation

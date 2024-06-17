@@ -1,5 +1,5 @@
 ---
-display_name: Get Retarget Poses
+title: Get Retarget Poses
 order: 12
 ---
 ## Navigation

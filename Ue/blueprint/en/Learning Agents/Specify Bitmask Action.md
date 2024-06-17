@@ -1,5 +1,5 @@
 ---
-display_name: Specify Bitmask Action
+title: Specify Bitmask Action
 order: 278
 ---
 ## Navigation

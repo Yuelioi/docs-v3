@@ -1,5 +1,5 @@
 ---
-display_name: Int 64To Json
+title: Int 64To Json
 order: 7
 ---
 ## Navigation

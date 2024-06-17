@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Metadata
+title: Get Float Metadata
 order: 31
 ---
 ## Navigation

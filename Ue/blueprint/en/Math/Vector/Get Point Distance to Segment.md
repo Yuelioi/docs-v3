@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Distance to Segment
+title: Get Point Distance to Segment
 order: 23
 ---
 ## Navigation

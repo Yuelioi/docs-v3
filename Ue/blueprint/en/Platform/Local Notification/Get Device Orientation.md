@@ -1,5 +1,5 @@
 ---
-display_name: Get Device Orientation
+title: Get Device Orientation
 order: 5
 ---
 ## Navigation

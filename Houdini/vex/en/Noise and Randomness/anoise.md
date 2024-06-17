@@ -1,5 +1,5 @@
 ---
-display_name: anoise
+title: anoise
 order: 1
 ---
 `float  anoise(vector pos)`

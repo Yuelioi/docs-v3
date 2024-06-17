@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Scroll Into View
+title: Cancel Scroll Into View
 order: 2
 ---
 ## Navigation

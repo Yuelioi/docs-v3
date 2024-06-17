@@ -1,5 +1,5 @@
 ---
-display_name: Resources
+title: Resources
 order: 5
 ---
 

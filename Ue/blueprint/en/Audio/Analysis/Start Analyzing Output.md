@@ -1,5 +1,5 @@
 ---
-display_name: Start Analyzing Output
+title: Start Analyzing Output
 order: 6
 ---
 ## Navigation

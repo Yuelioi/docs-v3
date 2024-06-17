@@ -1,5 +1,5 @@
 ---
-display_name: Get Memory State Size
+title: Get Memory State Size
 order: 90
 ---
 ## Navigation

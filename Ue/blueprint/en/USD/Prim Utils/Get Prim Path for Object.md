@@ -1,5 +1,5 @@
 ---
-display_name: Get Prim Path for Object
+title: Get Prim Path for Object
 order: 6
 ---
 ## Navigation

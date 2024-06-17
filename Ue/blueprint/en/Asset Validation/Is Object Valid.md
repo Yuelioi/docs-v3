@@ -1,5 +1,5 @@
 ---
-display_name: Is Object Valid
+title: Is Object Valid
 order: 6
 ---
 ## Navigation

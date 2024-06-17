@@ -1,5 +1,5 @@
 ---
-display_name: Get Index Of Patch
+title: Get Index Of Patch
 order: 10
 ---
 ## Navigation

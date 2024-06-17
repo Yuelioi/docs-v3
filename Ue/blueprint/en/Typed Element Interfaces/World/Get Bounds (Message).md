@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounds (Message)
+title: Get Bounds (Message)
 order: 17
 ---
 ## Navigation

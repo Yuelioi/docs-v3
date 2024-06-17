@@ -1,5 +1,5 @@
 ---
-display_name: Load Level
+title: Load Level
 order: 30
 ---
 ## Navigation

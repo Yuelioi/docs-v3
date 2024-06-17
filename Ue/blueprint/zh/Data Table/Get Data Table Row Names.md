@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Row Names
+title: Get Data Table Row Names
 order: 7
 ---
 ## Navigation

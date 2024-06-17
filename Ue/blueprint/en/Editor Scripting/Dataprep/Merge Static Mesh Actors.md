@@ -1,5 +1,5 @@
 ---
-display_name: Merge Static Mesh Actors
+title: Merge Static Mesh Actors
 order: 4
 ---
 ## Navigation

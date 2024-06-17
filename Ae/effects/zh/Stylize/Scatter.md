@@ -1,5 +1,5 @@
 ---
-display_name: 散布
+title: 散布
 order: 22
 ---
 

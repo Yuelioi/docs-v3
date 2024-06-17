@@ -1,5 +1,5 @@
 ---
-display_name: Get OpenColorIO Configuration
+title: Get OpenColorIO Configuration
 order: 7
 ---
 ## Navigation

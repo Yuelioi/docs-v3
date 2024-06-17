@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Workflows
+title: Get Supported Workflows
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Force Key Frame
+title: Force Key Frame
 order: 5
 ---
 ## Navigation

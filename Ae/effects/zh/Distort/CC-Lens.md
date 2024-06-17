@@ -1,5 +1,5 @@
 ---
-display_name: CC镜头
+title: CC镜头
 order: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Attribute
+title: Get Float Attribute
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Calibrate Tilt
+title: Calibrate Tilt
 order: 1
 ---
 ## Navigation

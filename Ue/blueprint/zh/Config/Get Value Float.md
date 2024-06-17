@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Float
+title: Get Value Float
 order: 8
 ---
 ## Navigation

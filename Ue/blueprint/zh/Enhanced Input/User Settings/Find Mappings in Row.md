@@ -1,5 +1,5 @@
 ---
-display_name: Find Mappings in Row
+title: Find Mappings in Row
 order: 7
 ---
 ## Navigation

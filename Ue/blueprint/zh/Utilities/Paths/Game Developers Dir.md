@@ -1,5 +1,5 @@
 ---
-display_name: Game Developers Dir
+title: Game Developers Dir
 order: 32
 ---
 ## Navigation

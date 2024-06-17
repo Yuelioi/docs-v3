@@ -1,5 +1,5 @@
 ---
-display_name: Set Decorators
+title: Set Decorators
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Active GameplayEffect Debug String
+title: Get Active GameplayEffect Debug String
 order: 14
 ---
 ## Navigation

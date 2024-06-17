@@ -1,5 +1,5 @@
 ---
-display_name: Set Seed
+title: Set Seed
 order: 55
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Generic Camera Lens Effect
+title: Remove Generic Camera Lens Effect
 order: 17
 ---
 ## Navigation

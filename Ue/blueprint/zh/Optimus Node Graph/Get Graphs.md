@@ -1,5 +1,5 @@
 ---
-display_name: Get Graphs
+title: Get Graphs
 order: 25
 ---
 ## Navigation

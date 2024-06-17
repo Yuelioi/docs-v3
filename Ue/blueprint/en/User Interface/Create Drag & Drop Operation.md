@@ -1,5 +1,5 @@
 ---
-display_name: Create Drag & Drop Operation
+title: Create Drag & Drop Operation
 order: 27
 ---
 ## Navigation

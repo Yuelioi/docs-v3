@@ -1,5 +1,5 @@
 ---
-display_name: ch4
+title: ch4
 order: 5
 ---
 `matrix  ch4(string channel)`

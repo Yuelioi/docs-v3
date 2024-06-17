@@ -1,5 +1,5 @@
 ---
-display_name: Get Light Estimation Mode
+title: Get Light Estimation Mode
 order: 12
 ---
 ## Navigation

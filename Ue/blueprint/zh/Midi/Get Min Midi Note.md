@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Midi Note
+title: Get Min Midi Note
 order: 7
 ---
 ## Navigation

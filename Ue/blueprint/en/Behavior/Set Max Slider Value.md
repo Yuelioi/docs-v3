@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Slider Value
+title: Set Max Slider Value
 order: 22
 ---
 ## Navigation

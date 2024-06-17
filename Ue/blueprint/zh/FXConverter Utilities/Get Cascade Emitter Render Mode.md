@@ -1,5 +1,5 @@
 ---
-display_name: Get Cascade Emitter Render Mode
+title: Get Cascade Emitter Render Mode
 order: 37
 ---
 ## Navigation

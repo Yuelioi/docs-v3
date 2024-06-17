@@ -1,5 +1,5 @@
 ---
-display_name: Move Patch to Index
+title: Move Patch to Index
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Child Object Binding
+title: Add Child Object Binding
 order: 2
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: 画笔描边
+title: 画笔描边
 ---
 
 # Brush Strokes - 画笔描边

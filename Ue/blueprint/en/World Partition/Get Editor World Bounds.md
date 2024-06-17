@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor World Bounds
+title: Get Editor World Bounds
 order: 4
 ---
 ## Navigation

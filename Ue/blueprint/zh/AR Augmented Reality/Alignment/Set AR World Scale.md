@@ -1,5 +1,5 @@
 ---
-display_name: Set AR World Scale
+title: Set AR World Scale
 order: 5
 ---
 ## Navigation

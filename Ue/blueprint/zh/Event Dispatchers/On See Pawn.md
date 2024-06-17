@@ -1,5 +1,5 @@
 ---
-display_name: On See Pawn
+title: On See Pawn
 order: 149
 ---
 ## Navigation

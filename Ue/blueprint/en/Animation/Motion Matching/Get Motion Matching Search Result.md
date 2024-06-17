@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Matching Search Result
+title: Get Motion Matching Search Result
 order: 2
 ---
 ## Navigation

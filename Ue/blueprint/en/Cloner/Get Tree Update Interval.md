@@ -1,5 +1,5 @@
 ---
-display_name: Get Tree Update Interval
+title: Get Tree Update Interval
 order: 51
 ---
 ## Navigation

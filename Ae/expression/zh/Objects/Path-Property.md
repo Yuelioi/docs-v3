@@ -1,5 +1,5 @@
 ---
-display_name: Path-Property
+title: Path-Property
 order: 10
 ---
 

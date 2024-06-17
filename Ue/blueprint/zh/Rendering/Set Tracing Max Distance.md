@@ -1,5 +1,5 @@
 ---
-display_name: Set Tracing Max Distance
+title: Set Tracing Max Distance
 order: 86
 ---
 ## Navigation

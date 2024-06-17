@@ -1,5 +1,5 @@
 ---
-display_name: Pop Input Component
+title: Pop Input Component
 order: 3
 ---
 ## Navigation

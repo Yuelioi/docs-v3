@@ -1,5 +1,5 @@
 ---
-display_name: storelightexport
+title: storelightexport
 order: 75
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

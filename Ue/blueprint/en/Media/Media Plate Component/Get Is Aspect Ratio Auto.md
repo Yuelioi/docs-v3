@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Aspect Ratio Auto
+title: Get Is Aspect Ratio Auto
 order: 2
 ---
 ## Navigation

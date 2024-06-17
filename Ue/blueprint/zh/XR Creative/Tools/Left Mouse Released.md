@@ -1,5 +1,5 @@
 ---
-display_name: Left Mouse Released
+title: Left Mouse Released
 order: 8
 ---
 ## Navigation

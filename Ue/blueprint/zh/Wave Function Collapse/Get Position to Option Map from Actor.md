@@ -1,5 +1,5 @@
 ---
-display_name: Get Position to Option Map from Actor
+title: Get Position to Option Map from Actor
 order: 14
 ---
 ## Navigation

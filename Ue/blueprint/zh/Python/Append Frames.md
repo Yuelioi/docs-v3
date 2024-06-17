@@ -1,5 +1,5 @@
 ---
-display_name: Append Frames
+title: Append Frames
 order: 1
 ---
 ## Navigation

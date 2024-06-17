@@ -1,5 +1,5 @@
 ---
-display_name: Script Reimport Helper
+title: Script Reimport Helper
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Snap Bone to Ground
+title: Snap Bone to Ground
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Locale
+title: Set Current Locale
 order: 19
 ---
 ## Navigation

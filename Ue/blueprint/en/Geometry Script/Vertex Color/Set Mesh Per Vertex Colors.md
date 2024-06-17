@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Per Vertex Colors
+title: Set Mesh Per Vertex Colors
 order: 6
 ---
 ## Navigation

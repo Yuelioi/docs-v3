@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Parent Uid
+title: Set Node Parent Uid
 order: 16
 ---
 ## Navigation

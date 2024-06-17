@@ -1,5 +1,5 @@
 ---
-display_name: Find Object at OSC Address
+title: Find Object at OSC Address
 order: 23
 ---
 ## Navigation

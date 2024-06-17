@@ -1,5 +1,5 @@
 ---
-display_name: Watch String Property
+title: Watch String Property
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 调整柔和遮罩
+title: 调整柔和遮罩
 order: 3
 ---
 

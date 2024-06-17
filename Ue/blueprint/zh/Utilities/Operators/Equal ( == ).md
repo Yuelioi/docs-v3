@@ -1,5 +1,5 @@
 ---
-display_name: Equal ( == )
+title: Equal ( == )
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Matrix 2d Array
+title: Unstringify as Matrix 2d Array
 order: 103
 ---
 ## Navigation

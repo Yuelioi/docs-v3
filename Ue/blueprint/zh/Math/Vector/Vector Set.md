@@ -1,5 +1,5 @@
 ---
-display_name: Vector Set
+title: Vector Set
 order: 88
 ---
 ## Navigation

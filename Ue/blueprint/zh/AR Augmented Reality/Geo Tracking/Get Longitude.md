@@ -1,5 +1,5 @@
 ---
-display_name: Get Longitude
+title: Get Longitude
 order: 14
 ---
 ## Navigation

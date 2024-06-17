@@ -1,5 +1,5 @@
 ---
-display_name: Get Single Material Style MID
+title: Get Single Material Style MID
 order: 11
 ---
 ## Navigation

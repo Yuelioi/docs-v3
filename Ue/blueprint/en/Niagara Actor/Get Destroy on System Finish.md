@@ -1,5 +1,5 @@
 ---
-display_name: Get Destroy on System Finish
+title: Get Destroy on System Finish
 order: 1
 ---
 ## Navigation

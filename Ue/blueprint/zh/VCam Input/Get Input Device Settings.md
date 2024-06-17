@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Device Settings
+title: Get Input Device Settings
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Navigation Invoker
+title: Unregister Navigation Invoker
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: isconnected
+title: isconnected
 order: 24
 ---
 | Context(s) | [chop](../contexts/chop.html)  [cop2](../contexts/cop2.html)  [sop](../contexts/sop.html) |

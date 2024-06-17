@@ -1,5 +1,5 @@
 ---
-display_name: Is Ready
+title: Is Ready
 order: 45
 ---
 ## Navigation

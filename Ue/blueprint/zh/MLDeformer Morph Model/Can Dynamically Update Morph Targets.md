@@ -1,5 +1,5 @@
 ---
-display_name: Can Dynamically Update Morph Targets
+title: Can Dynamically Update Morph Targets
 order: 1
 ---
 ## Navigation

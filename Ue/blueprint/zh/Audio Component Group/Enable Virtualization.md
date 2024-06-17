@@ -1,5 +1,5 @@
 ---
-display_name: Enable Virtualization
+title: Enable Virtualization
 order: 7
 ---
 ## Navigation

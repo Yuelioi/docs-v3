@@ -1,5 +1,5 @@
 ---
-display_name: Set Delta Step Enabled
+title: Set Delta Step Enabled
 order: 20
 ---
 ## Navigation

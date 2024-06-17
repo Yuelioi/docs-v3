@@ -1,5 +1,5 @@
 ---
-display_name: Wrap (Integer)
+title: Wrap (Integer)
 order: 19
 ---
 ## Navigation

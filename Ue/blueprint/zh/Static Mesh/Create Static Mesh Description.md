@@ -1,5 +1,5 @@
 ---
-display_name: Create Static Mesh Description
+title: Create Static Mesh Description
 order: 4
 ---
 ## Navigation

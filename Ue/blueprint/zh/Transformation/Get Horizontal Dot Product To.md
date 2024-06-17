@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Dot Product To
+title: Get Horizontal Dot Product To
 order: 41
 ---
 ## Navigation

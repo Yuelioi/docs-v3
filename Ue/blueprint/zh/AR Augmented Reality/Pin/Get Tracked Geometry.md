@@ -1,5 +1,5 @@
 ---
-display_name: Get Tracked Geometry
+title: Get Tracked Geometry
 order: 5
 ---
 ## Navigation

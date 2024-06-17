@@ -1,5 +1,5 @@
 ---
-display_name: Switch to World Space
+title: Switch to World Space
 order: 172
 ---
 ## Navigation

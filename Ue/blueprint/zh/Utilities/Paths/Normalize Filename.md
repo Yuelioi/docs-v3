@@ -1,5 +1,5 @@
 ---
-display_name: Normalize Filename
+title: Normalize Filename
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Local String
+title: Local String
 order: 19
 ---
 ## Navigation

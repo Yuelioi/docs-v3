@@ -1,5 +1,5 @@
 ---
-display_name: Get HMDDevice Type
+title: Get HMDDevice Type
 order: 3
 ---
 ## Navigation

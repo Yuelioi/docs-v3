@@ -1,5 +1,5 @@
 ---
-display_name: Days In Month
+title: Days In Month
 order: 10
 ---
 ## Navigation

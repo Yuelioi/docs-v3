@@ -1,5 +1,5 @@
 ---
-display_name: Is in Active Scene
+title: Is in Active Scene
 order: 4
 ---
 ## Navigation

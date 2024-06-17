@@ -1,5 +1,5 @@
 ---
-display_name: Get Orphaned Pins
+title: Get Orphaned Pins
 order: 24
 ---
 ## Navigation

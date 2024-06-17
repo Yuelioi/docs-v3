@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Intensity
+title: Set Light Intensity
 order: 16
 ---
 ## Navigation

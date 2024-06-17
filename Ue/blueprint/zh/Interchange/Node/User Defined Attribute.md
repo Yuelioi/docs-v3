@@ -1,5 +1,5 @@
 ---
-display_name: User Defined Attribute
+title: User Defined Attribute
 order: 88
 ---
 ## Navigation

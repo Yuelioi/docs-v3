@@ -1,5 +1,5 @@
 ---
-display_name: Get Rule Manager
+title: Get Rule Manager
 order: 80
 ---
 ## Navigation

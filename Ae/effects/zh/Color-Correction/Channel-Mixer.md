@@ -1,6 +1,6 @@
 ---
 order: 13
-display_name: 通道混合器
+title: 通道混合器
 ---
 
 # Channel Mixer - 通道混合器

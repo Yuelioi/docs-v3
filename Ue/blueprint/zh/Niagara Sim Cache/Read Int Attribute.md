@@ -1,5 +1,5 @@
 ---
-display_name: Read Int Attribute
+title: Read Int Attribute
 order: 17
 ---
 ## Navigation

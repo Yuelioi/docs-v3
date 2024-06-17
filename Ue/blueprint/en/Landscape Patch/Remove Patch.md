@@ -1,5 +1,5 @@
 ---
-display_name: Remove Patch
+title: Remove Patch
 order: 22
 ---
 ## Navigation

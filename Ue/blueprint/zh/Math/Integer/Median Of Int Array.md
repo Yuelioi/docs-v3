@@ -1,5 +1,5 @@
 ---
-display_name: Median Of Int Array
+title: Median Of Int Array
 order: 14
 ---
 ## Navigation

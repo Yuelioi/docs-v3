@@ -1,5 +1,5 @@
 ---
-display_name: Set Longitude
+title: Set Longitude
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Type for Float Count
+title: Get Type for Float Count
 order: 141
 ---
 ## Navigation

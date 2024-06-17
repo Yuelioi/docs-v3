@@ -1,5 +1,5 @@
 ---
-display_name: Set Static Mesh Collision from Mesh
+title: Set Static Mesh Collision from Mesh
 order: 14
 ---
 ## Navigation

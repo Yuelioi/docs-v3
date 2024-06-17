@@ -1,5 +1,5 @@
 ---
-display_name: Override Atmosphere Light Direction
+title: Override Atmosphere Light Direction
 order: 67
 ---
 ## Navigation

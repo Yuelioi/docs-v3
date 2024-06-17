@@ -1,5 +1,5 @@
 ---
-display_name: Apply Radial Force
+title: Apply Radial Force
 order: 6
 ---
 ## Navigation

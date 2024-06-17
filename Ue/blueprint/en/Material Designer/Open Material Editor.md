@@ -1,5 +1,5 @@
 ---
-display_name: Open Material Editor
+title: Open Material Editor
 order: 186
 ---
 ## Navigation

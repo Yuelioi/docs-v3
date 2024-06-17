@@ -1,5 +1,5 @@
 ---
-display_name: Set End Tangent
+title: Set End Tangent
 order: 22
 ---
 ## Navigation

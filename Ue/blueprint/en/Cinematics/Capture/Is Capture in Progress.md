@@ -1,5 +1,5 @@
 ---
-display_name: Is Capture in Progress
+title: Is Capture in Progress
 order: 5
 ---
 ## Navigation

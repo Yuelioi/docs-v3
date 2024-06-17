@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Offset
+title: Set Angular Offset
 order: 1
 ---
 ## Navigation

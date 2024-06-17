@@ -1,5 +1,5 @@
 ---
-display_name: Listen To
+title: Listen To
 order: 2
 ---
 ## Navigation

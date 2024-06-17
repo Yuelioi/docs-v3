@@ -1,5 +1,5 @@
 ---
-display_name: israytracing
+title: israytracing
 order: 44
 ---
 | Context(s) | [shading](../contexts/shading.html) |

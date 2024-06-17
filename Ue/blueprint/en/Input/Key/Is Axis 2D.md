@@ -1,5 +1,5 @@
 ---
-display_name: Is Axis 2D
+title: Is Axis 2D
 order: 5
 ---
 ## Navigation

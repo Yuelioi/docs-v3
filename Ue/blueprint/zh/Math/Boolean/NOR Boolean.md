@@ -1,5 +1,5 @@
 ---
-display_name: NOR Boolean
+title: NOR Boolean
 order: 4
 ---
 ## Navigation

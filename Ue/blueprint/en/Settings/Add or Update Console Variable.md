@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Console Variable
+title: Add or Update Console Variable
 order: 9
 ---
 ## Navigation

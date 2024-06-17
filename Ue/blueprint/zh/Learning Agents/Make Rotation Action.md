@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotation Action
+title: Make Rotation Action
 order: 230
 ---
 ## Navigation

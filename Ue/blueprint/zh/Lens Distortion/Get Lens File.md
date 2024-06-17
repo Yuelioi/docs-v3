@@ -1,5 +1,5 @@
 ---
-display_name: Get Lens File
+title: Get Lens File
 order: 11
 ---
 ## Navigation

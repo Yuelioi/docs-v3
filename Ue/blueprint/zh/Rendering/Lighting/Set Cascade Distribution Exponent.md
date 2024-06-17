@@ -1,5 +1,5 @@
 ---
-display_name: Set Cascade Distribution Exponent
+title: Set Cascade Distribution Exponent
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Critic
+title: Evaluate Critic
 order: 18
 ---
 ## Navigation

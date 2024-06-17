@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Velocity Drive SLERP
+title: Set Angular Velocity Drive SLERP
 order: 41
 ---
 ## Navigation

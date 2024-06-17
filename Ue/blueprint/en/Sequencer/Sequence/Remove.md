@@ -1,5 +1,5 @@
 ---
-display_name: Remove
+title: Remove
 order: 78
 ---
 ## Navigation

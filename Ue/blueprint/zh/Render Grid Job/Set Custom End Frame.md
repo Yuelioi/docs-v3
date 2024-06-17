@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom End Frame
+title: Set Custom End Frame
 order: 30
 ---
 ## Navigation

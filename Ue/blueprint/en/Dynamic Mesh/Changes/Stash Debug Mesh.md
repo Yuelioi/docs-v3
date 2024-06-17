@@ -1,5 +1,5 @@
 ---
-display_name: Stash Debug Mesh
+title: Stash Debug Mesh
 order: 4
 ---
 ## Navigation

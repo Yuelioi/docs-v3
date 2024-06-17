@@ -1,5 +1,5 @@
 ---
-display_name: Get Variant Set
+title: Get Variant Set
 order: 85
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Module
+title: Has Module
 order: 16
 ---
 ## Navigation

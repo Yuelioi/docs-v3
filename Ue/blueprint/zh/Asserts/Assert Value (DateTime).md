@@ -1,5 +1,5 @@
 ---
-display_name: Assert Value (DateTime)
+title: Assert Value (DateTime)
 order: 32
 ---
 ## Navigation

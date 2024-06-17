@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Cast Shadow
+title: Get Section Cast Shadow
 order: 4
 ---
 ## Navigation

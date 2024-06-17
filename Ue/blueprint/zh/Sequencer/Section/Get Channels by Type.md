@@ -1,5 +1,5 @@
 ---
-display_name: Get Channels by Type
+title: Get Channels by Type
 order: 20
 ---
 ## Navigation

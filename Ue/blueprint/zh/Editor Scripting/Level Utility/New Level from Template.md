@@ -1,5 +1,5 @@
 ---
-display_name: New Level from Template
+title: New Level from Template
 order: 31
 ---
 ## Navigation

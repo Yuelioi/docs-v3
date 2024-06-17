@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Position
+title: Get Control Position
 order: 13
 ---
 ## Navigation

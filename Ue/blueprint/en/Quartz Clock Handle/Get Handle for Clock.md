@@ -1,5 +1,5 @@
 ---
-display_name: Get Handle for Clock
+title: Get Handle for Clock
 order: 10
 ---
 ## Navigation

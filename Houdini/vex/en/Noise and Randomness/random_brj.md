@@ -1,5 +1,5 @@
 ---
-display_name: random_brj
+title: random_brj
 order: 31
 ---
 | Since | 18.5 |

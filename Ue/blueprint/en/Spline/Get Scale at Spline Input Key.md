@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale at Spline Input Key
+title: Get Scale at Spline Input Key
 order: 57
 ---
 ## Navigation

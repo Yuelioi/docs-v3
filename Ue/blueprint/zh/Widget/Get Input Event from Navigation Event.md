@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Event from Navigation Event
+title: Get Input Event from Navigation Event
 order: 24
 ---
 ## Navigation

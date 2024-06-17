@@ -1,5 +1,5 @@
 ---
-display_name: SetHintText (Multi-Line Text Box)
+title: SetHintText (Multi-Line Text Box)
 order: 44
 ---
 ## Navigation

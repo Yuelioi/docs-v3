@@ -1,5 +1,5 @@
 ---
-display_name: volumeindexi
+title: volumeindexi
 order: 7
 ---
 `int  volumeindexi(<geometry>geometry, int primnum, vector voxel)`

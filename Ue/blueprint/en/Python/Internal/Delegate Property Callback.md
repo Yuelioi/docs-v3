@@ -1,5 +1,5 @@
 ---
-display_name: Delegate Property Callback
+title: Delegate Property Callback
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delete Loaded Asset
+title: Delete Loaded Asset
 order: 9
 ---
 ## Navigation

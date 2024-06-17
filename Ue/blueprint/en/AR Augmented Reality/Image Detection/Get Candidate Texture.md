@@ -1,5 +1,5 @@
 ---
-display_name: Get Candidate Texture
+title: Get Candidate Texture
 order: 1
 ---
 ## Navigation

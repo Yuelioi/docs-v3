@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Pitch Modulation
+title: Set Global Pitch Modulation
 order: 10
 ---
 ## Navigation

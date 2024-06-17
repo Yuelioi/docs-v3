@@ -1,5 +1,5 @@
 ---
-display_name: Remove Metadata
+title: Remove Metadata
 order: 113
 ---
 ## Navigation

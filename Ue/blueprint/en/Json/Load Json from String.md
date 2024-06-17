@@ -1,5 +1,5 @@
 ---
-display_name: Load Json from String
+title: Load Json from String
 order: 7
 ---
 ## Navigation

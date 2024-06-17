@@ -1,5 +1,5 @@
 ---
-display_name: Is Async
+title: Is Async
 order: 4
 ---
 ## Navigation

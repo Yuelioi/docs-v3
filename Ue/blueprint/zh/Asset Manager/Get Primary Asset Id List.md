@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Asset Id List
+title: Get Primary Asset Id List
 order: 10
 ---
 ## Navigation

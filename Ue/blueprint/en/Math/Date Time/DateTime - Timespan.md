@@ -1,5 +1,5 @@
 ---
-display_name: DateTime - Timespan
+title: DateTime - Timespan
 order: 7
 ---
 ## Navigation

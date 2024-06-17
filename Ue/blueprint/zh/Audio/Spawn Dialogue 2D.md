@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Dialogue 2D
+title: Spawn Dialogue 2D
 order: 18
 ---
 ## Navigation

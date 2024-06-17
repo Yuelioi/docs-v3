@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Mesh
+title: Rotate Mesh
 order: 2
 ---
 ## Navigation

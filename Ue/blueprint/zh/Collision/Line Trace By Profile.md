@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace By Profile
+title: Line Trace By Profile
 order: 42
 ---
 ## Navigation

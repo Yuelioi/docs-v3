@@ -1,5 +1,5 @@
 ---
-display_name: Find Turn Based Match
+title: Find Turn Based Match
 order: 3
 ---
 ## Navigation

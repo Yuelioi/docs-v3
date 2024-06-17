@@ -1,5 +1,5 @@
 ---
-display_name: Get Base Filename
+title: Get Base Filename
 order: 36
 ---
 ## Navigation

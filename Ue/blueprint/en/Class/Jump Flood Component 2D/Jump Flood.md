@@ -1,5 +1,5 @@
 ---
-display_name: Jump Flood
+title: Jump Flood
 order: 5
 ---
 ## Navigation

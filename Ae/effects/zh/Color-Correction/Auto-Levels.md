@@ -1,5 +1,5 @@
 ---
-display_name: 自动色阶
+title: 自动色阶
 order: 3
 ---
 

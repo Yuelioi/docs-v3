@@ -1,5 +1,5 @@
 ---
-display_name: Send Custom Data
+title: Send Custom Data
 order: 4
 ---
 ## Navigation

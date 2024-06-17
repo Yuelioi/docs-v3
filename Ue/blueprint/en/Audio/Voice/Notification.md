@@ -1,5 +1,5 @@
 ---
-display_name: Notification
+title: Notification
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Gizmo Mode
+title: Get Gizmo Mode
 order: 1
 ---
 ## Navigation

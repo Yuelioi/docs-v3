@@ -1,5 +1,5 @@
 ---
-display_name: OnNavigationGenerationFinished
+title: OnNavigationGenerationFinished
 order: 194
 ---
 ## Navigation

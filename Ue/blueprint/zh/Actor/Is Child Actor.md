@@ -1,5 +1,5 @@
 ---
-display_name: Is Child Actor
+title: Is Child Actor
 order: 26
 ---
 ## Navigation

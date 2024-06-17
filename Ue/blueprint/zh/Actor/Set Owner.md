@@ -1,5 +1,5 @@
 ---
-display_name: Set Owner
+title: Set Owner
 order: 28
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 6
-display_name: CC 毛发
+title: CC 毛发
 ---
 
 # CC Hair - CC 毛发

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Grading Wheel Delta
+title: Apply Color Grading Wheel Delta
 order: 1
 ---
 ## Navigation

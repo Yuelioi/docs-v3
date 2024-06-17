@@ -1,5 +1,5 @@
 ---
-display_name: Set Aspect Ratio Axis Constraint
+title: Set Aspect Ratio Axis Constraint
 order: 18
 ---
 ## Navigation

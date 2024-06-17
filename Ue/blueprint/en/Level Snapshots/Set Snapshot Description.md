@@ -1,5 +1,5 @@
 ---
-display_name: Set Snapshot Description
+title: Set Snapshot Description
 order: 28
 ---
 ## Navigation

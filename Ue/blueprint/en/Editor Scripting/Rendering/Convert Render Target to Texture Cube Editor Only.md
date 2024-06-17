@@ -1,5 +1,5 @@
 ---
-display_name: Convert Render Target to Texture Cube Editor Only
+title: Convert Render Target to Texture Cube Editor Only
 order: 3
 ---
 ## Navigation

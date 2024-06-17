@@ -1,5 +1,5 @@
 ---
-display_name: Steam Touch 0
+title: Steam Touch 0
 order: 3
 ---
 ## Navigation

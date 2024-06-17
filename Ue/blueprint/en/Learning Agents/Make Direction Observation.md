@@ -1,5 +1,5 @@
 ---
-display_name: Make Direction Observation
+title: Make Direction Observation
 order: 175
 ---
 ## Navigation

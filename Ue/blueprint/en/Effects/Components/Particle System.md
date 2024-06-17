@@ -1,5 +1,5 @@
 ---
-display_name: Particle System
+title: Particle System
 order: 1
 ---
 ## Navigation

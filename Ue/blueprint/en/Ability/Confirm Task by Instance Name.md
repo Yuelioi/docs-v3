@@ -1,5 +1,5 @@
 ---
-display_name: Confirm Task by Instance Name
+title: Confirm Task by Instance Name
 order: 16
 ---
 ## Navigation

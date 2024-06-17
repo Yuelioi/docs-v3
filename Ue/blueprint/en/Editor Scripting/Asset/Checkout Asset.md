@@ -1,5 +1,5 @@
 ---
-display_name: Checkout Asset
+title: Checkout Asset
 order: 2
 ---
 ## Navigation

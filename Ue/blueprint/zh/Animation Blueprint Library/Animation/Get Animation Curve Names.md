@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Curve Names
+title: Get Animation Curve Names
 order: 1
 ---
 ## Navigation

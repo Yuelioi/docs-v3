@@ -1,5 +1,5 @@
 ---
-display_name: Play Link (Message)
+title: Play Link (Message)
 order: 3
 ---
 ## Navigation

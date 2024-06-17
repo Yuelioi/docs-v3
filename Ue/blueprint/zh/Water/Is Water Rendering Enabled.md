@@ -1,5 +1,5 @@
 ---
-display_name: Is Water Rendering Enabled
+title: Is Water Rendering Enabled
 order: 23
 ---
 ## Navigation

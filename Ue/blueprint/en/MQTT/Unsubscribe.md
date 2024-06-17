@@ -1,5 +1,5 @@
 ---
-display_name: Unsubscribe
+title: Unsubscribe
 order: 14
 ---
 ## Navigation

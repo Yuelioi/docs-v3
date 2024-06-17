@@ -1,5 +1,5 @@
 ---
-display_name: Set Distortion State
+title: Set Distortion State
 order: 19
 ---
 ## Navigation

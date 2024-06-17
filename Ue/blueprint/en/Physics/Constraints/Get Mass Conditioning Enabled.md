@@ -1,5 +1,5 @@
 ---
-display_name: Get Mass Conditioning Enabled
+title: Get Mass Conditioning Enabled
 order: 28
 ---
 ## Navigation

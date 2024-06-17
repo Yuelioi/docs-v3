@@ -1,5 +1,5 @@
 ---
-display_name: Get Typed Inputs
+title: Get Typed Inputs
 order: 12
 ---
 ## Navigation

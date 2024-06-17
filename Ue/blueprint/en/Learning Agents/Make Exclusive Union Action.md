@@ -1,5 +1,5 @@
 ---
-display_name: Make Exclusive Union Action
+title: Make Exclusive Union Action
 order: 188
 ---
 ## Navigation

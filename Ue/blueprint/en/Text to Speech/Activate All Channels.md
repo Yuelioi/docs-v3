@@ -1,5 +1,5 @@
 ---
-display_name: Activate All Channels
+title: Activate All Channels
 order: 1
 ---
 ## Navigation

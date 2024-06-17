@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Gizmo
+title: Toggle Gizmo
 order: 9
 ---
 ## Navigation

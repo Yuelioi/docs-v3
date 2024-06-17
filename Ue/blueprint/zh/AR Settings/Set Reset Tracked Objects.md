@@ -1,5 +1,5 @@
 ---
-display_name: Set Reset Tracked Objects
+title: Set Reset Tracked Objects
 order: 27
 ---
 ## Navigation

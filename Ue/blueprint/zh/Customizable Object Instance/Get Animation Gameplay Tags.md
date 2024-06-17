@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Gameplay Tags
+title: Get Animation Gameplay Tags
 order: 14
 ---
 ## Navigation

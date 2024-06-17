@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Rotator)
+title: Build String (Rotator)
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Animation Blueprint Linking
+title: Animation Blueprint Linking
 order: 2
 ---
 ## Navigation

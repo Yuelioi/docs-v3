@@ -1,5 +1,5 @@
 ---
-display_name: Remove Meta Data
+title: Remove Meta Data
 order: 8
 ---
 ## Navigation

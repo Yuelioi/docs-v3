@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Channel
+title: Deactivate Channel
 order: 6
 ---
 ## Navigation

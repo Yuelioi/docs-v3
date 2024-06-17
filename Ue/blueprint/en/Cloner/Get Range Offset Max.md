@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Offset Max
+title: Get Range Offset Max
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: NextKeyframe
+title: NextKeyframe
 order: 39
 ---
 ## Navigation

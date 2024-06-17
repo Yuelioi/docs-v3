@@ -1,5 +1,5 @@
 ---
-display_name: Add Entry
+title: Add Entry
 order: 3
 ---
 ## Navigation

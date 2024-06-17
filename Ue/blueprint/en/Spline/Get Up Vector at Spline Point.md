@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Vector at Spline Point
+title: Get Up Vector at Spline Point
 order: 74
 ---
 ## Navigation

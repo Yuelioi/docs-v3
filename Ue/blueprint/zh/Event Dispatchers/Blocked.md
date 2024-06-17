@@ -1,5 +1,5 @@
 ---
-display_name: Blocked
+title: Blocked
 order: 18
 ---
 ## Navigation

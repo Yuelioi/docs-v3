@@ -1,5 +1,5 @@
 ---
-display_name: Set Blur Strength
+title: Set Blur Strength
 order: 20
 ---
 ## Navigation

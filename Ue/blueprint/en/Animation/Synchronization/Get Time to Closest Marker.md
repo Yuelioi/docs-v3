@@ -1,5 +1,5 @@
 ---
-display_name: Get Time to Closest Marker
+title: Get Time to Closest Marker
 order: 2
 ---
 ## Navigation

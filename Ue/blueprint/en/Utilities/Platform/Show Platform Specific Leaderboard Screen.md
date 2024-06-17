@@ -1,5 +1,5 @@
 ---
-display_name: Show Platform Specific Leaderboard Screen
+title: Show Platform Specific Leaderboard Screen
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Content
+title: Request Content
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get String Attribute
+title: Get String Attribute
 order: 6
 ---
 ## Navigation

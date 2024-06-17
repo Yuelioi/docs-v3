@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Asset Classes in Directories
+title: Unregister Asset Classes in Directories
 order: 2
 ---
 ## Navigation

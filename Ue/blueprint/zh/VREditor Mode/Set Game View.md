@@ -1,5 +1,5 @@
 ---
-display_name: Set Game View
+title: Set Game View
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Bool Set
+title: Is Bool Set
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Focal Length
+title: Get Current Focal Length
 order: 13
 ---
 ## Navigation

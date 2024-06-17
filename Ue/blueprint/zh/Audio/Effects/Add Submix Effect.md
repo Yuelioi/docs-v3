@@ -1,5 +1,5 @@
 ---
-display_name: Add Submix Effect
+title: Add Submix Effect
 order: 3
 ---
 ## Navigation

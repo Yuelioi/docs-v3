@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Desired Slot Width
+title: Set Min Desired Slot Width
 order: 2
 ---
 ## Navigation

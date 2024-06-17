@@ -1,5 +1,5 @@
 ---
-display_name: Ungroup Actors
+title: Ungroup Actors
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Colon
+title: Colon
 order: 22
 ---
 ## Navigation

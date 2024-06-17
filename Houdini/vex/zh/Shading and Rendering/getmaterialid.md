@@ -1,5 +1,5 @@
 ---
-display_name: getmaterialid
+title: getmaterialid
 order: 23
 ---
 | Context(s) | [shading](../contexts/shading.html) |

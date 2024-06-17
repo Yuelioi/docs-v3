@@ -1,5 +1,5 @@
 ---
-display_name: On Input Touch Enter
+title: On Input Touch Enter
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Tooltip
+title: Set Tooltip
 order: 134
 ---
 ## Navigation

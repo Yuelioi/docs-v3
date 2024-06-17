@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner World (Message)
+title: Get Owner World (Message)
 order: 21
 ---
 ## Navigation

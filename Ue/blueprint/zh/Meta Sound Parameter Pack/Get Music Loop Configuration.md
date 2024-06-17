@@ -1,5 +1,5 @@
 ---
-display_name: Get Music Loop Configuration
+title: Get Music Loop Configuration
 order: 5
 ---
 ## Navigation

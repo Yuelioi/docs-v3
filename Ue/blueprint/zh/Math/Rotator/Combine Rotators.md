@@ -1,5 +1,5 @@
 ---
-display_name: Combine Rotators
+title: Combine Rotators
 order: 4
 ---
 ## Navigation

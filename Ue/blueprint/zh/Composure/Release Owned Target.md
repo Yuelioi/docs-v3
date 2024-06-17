@@ -1,5 +1,5 @@
 ---
-display_name: Release Owned Target
+title: Release Owned Target
 order: 6
 ---
 ## Navigation

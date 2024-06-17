@@ -1,5 +1,5 @@
 ---
-display_name: Transforms to Points
+title: Transforms to Points
 order: 8
 ---
 ## Navigation

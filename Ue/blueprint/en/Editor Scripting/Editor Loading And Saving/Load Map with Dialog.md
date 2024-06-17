@@ -1,5 +1,5 @@
 ---
-display_name: Load Map with Dialog
+title: Load Map with Dialog
 order: 5
 ---
 ## Navigation

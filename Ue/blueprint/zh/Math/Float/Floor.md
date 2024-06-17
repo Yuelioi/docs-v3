@@ -1,5 +1,5 @@
 ---
-display_name: Floor
+title: Floor
 order: 13
 ---
 ## Navigation

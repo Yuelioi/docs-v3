@@ -1,5 +1,5 @@
 ---
-display_name: Find Graph
+title: Find Graph
 order: 4
 ---
 ## Navigation

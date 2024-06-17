@@ -1,5 +1,5 @@
 ---
-display_name: Area + AreaSpaces
+title: Area + AreaSpaces
 order: 2
 ---
 

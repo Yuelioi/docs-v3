@@ -1,5 +1,5 @@
 ---
-display_name: Get Beats Including Count In
+title: Get Beats Including Count In
 order: 9
 ---
 ## Navigation

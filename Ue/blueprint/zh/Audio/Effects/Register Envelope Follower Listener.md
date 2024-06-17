@@ -1,5 +1,5 @@
 ---
-display_name: Register Envelope Follower Listener
+title: Register Envelope Follower Listener
 order: 12
 ---
 ## Navigation

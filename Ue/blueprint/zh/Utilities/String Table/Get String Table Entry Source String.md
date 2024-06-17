@@ -1,5 +1,5 @@
 ---
-display_name: Get String Table Entry Source String
+title: Get String Table Entry Source String
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Transform Mesh
+title: Transform Mesh
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Sphere Radius
+title: Get Unscaled Sphere Radius
 order: 3
 ---
 ## Navigation

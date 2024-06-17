@@ -1,5 +1,5 @@
 ---
-display_name: Begin Draw Canvas to Render Target
+title: Begin Draw Canvas to Render Target
 order: 2
 ---
 ## Navigation

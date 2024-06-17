@@ -1,5 +1,5 @@
 ---
-display_name: Mark File for Delete
+title: Mark File for Delete
 order: 14
 ---
 ## Navigation

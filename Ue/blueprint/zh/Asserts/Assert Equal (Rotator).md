@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Rotator)
+title: Assert Equal (Rotator)
 order: 12
 ---
 ## Navigation

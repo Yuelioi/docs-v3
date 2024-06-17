@@ -1,5 +1,5 @@
 ---
-display_name: Set Num UV Channels
+title: Set Num UV Channels
 order: 21
 ---
 ## Navigation

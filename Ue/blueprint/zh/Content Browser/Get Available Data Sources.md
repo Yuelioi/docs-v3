@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Data Sources
+title: Get Available Data Sources
 order: 7
 ---
 ## Navigation

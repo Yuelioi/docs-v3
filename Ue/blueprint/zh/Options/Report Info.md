@@ -1,5 +1,5 @@
 ---
-display_name: Report Info
+title: Report Info
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Graph
+title: Remove Graph
 order: 7
 ---
 ## Navigation

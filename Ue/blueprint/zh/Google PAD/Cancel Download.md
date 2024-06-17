@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Download
+title: Cancel Download
 order: 1
 ---
 ## Navigation

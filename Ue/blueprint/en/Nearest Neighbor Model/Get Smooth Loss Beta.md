@@ -1,5 +1,5 @@
 ---
-display_name: Get Smooth Loss Beta
+title: Get Smooth Loss Beta
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Uid
+title: Set Parent Uid
 order: 70
 ---
 ## Navigation

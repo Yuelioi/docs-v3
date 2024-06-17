@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounds
+title: Get Bounds
 order: 7
 ---
 ## Navigation

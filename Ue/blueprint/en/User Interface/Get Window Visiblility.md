@@ -1,5 +1,5 @@
 ---
-display_name: Get Window Visiblility
+title: Get Window Visiblility
 order: 33
 ---
 ## Navigation

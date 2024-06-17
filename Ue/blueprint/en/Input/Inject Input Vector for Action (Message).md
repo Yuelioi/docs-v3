@@ -1,5 +1,5 @@
 ---
-display_name: Inject Input Vector for Action (Message)
+title: Inject Input Vector for Action (Message)
 order: 24
 ---
 ## Navigation

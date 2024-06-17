@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Location
+title: Get Actor Location
 order: 25
 ---
 ## Navigation

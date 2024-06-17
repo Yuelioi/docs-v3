@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Position
+title: Set Vertex Position
 order: 17
 ---
 ## Navigation

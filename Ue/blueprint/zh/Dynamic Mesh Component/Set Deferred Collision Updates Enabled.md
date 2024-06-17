@@ -1,5 +1,5 @@
 ---
-display_name: Set Deferred Collision Updates Enabled
+title: Set Deferred Collision Updates Enabled
 order: 12
 ---
 ## Navigation

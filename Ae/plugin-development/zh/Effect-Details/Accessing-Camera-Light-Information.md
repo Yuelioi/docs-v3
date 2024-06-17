@@ -1,5 +1,5 @@
 ---
-display_name: Accessing-Camera-Light-Information
+title: Accessing-Camera-Light-Information
 order: 1
 ---
 

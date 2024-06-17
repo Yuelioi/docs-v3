@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Sparse Data
+title: Set Control Sparse Data
 order: 94
 ---
 ## Navigation

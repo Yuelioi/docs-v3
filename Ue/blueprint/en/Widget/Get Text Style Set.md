@@ -1,5 +1,5 @@
 ---
-display_name: Get Text Style Set
+title: Get Text Style Set
 order: 38
 ---
 ## Navigation

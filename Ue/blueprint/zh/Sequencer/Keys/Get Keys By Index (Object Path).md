@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys By Index (Object Path)
+title: Get Keys By Index (Object Path)
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Count Selected Elements
+title: Count Selected Elements
 order: 5
 ---
 ## Navigation

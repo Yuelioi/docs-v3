@@ -1,5 +1,5 @@
 ---
-display_name: To String (Text)
+title: To String (Text)
 order: 80
 ---
 ## Navigation

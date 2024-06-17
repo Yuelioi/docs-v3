@@ -1,5 +1,5 @@
 ---
-display_name: E
+title: E
 order: 28
 ---
 ## Navigation

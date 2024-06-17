@@ -1,5 +1,5 @@
 ---
-display_name: Has Valid Tracking Position
+title: Has Valid Tracking Position
 order: 14
 ---
 ## Navigation

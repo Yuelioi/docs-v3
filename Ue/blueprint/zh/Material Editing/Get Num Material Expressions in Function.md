@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Material Expressions in Function
+title: Get Num Material Expressions in Function
 order: 31
 ---
 ## Navigation

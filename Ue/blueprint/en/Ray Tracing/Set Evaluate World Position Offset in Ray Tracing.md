@@ -1,5 +1,5 @@
 ---
-display_name: Set Evaluate World Position Offset in Ray Tracing
+title: Set Evaluate World Position Offset in Ray Tracing
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get RPMRange
+title: Get RPMRange
 order: 1
 ---
 ## Navigation

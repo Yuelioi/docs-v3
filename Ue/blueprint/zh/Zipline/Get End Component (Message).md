@@ -1,5 +1,5 @@
 ---
-display_name: Get End Component (Message)
+title: Get End Component (Message)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Simple Collision from Static Mesh
+title: Get Simple Collision from Static Mesh
 order: 7
 ---
 ## Navigation

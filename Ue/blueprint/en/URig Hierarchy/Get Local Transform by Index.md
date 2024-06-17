@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Transform by Index
+title: Get Local Transform by Index
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Widget
+title: Get Active Widget
 order: 5
 ---
 ## Navigation

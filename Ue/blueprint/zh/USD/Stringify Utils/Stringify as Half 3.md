@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Half 3
+title: Stringify as Half 3
 order: 23
 ---
 ## Navigation

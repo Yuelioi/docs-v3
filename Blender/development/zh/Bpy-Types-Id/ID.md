@@ -1,5 +1,5 @@
 ---
-display_name: ID
+title: ID
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Array Average Location
+title: Get Actor Array Average Location
 order: 23
 ---
 ## Navigation

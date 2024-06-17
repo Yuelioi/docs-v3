@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal Exactly (Vector)
+title: Not Equal Exactly (Vector)
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Variable from Object Path
+title: Add Local Variable from Object Path
 order: 19
 ---
 ## Navigation

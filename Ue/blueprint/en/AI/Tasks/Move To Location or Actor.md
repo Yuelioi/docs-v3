@@ -1,5 +1,5 @@
 ---
-display_name: Move To Location or Actor
+title: Move To Location or Actor
 order: 4
 ---
 ## Navigation

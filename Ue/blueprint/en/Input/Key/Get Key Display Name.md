@@ -1,5 +1,5 @@
 ---
-display_name: Get Key Display Name
+title: Get Key Display Name
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Bindings
+title: Get Selected Bindings
 order: 28
 ---
 ## Navigation

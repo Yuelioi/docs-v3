@@ -1,5 +1,5 @@
 ---
-display_name: On VREditing Mode Exit
+title: On VREditing Mode Exit
 order: 2
 ---
 ## Navigation

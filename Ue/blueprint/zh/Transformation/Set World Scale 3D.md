@@ -1,5 +1,5 @@
 ---
-display_name: Set World Scale 3D
+title: Set World Scale 3D
 order: 76
 ---
 ## Navigation

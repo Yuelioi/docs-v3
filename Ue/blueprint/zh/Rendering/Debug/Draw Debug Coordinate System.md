@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Coordinate System
+title: Draw Debug Coordinate System
 order: 8
 ---
 ## Navigation

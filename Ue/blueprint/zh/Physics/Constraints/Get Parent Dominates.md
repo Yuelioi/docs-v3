@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Dominates
+title: Get Parent Dominates
 order: 31
 ---
 ## Navigation

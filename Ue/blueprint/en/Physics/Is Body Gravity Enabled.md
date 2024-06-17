@@ -1,5 +1,5 @@
 ---
-display_name: Is Body Gravity Enabled
+title: Is Body Gravity Enabled
 order: 95
 ---
 ## Navigation

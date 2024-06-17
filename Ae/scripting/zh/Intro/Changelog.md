@@ -1,5 +1,5 @@
 ---
-display_name: Changelog
+title: Changelog
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Vector 2D
+title: Set Value Vector 2D
 order: 24
 ---
 ## Navigation

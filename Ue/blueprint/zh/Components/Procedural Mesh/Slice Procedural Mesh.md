@@ -1,5 +1,5 @@
 ---
-display_name: Slice Procedural Mesh
+title: Slice Procedural Mesh
 order: 18
 ---
 ## Navigation

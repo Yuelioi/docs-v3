@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Mesh TJunctions
+title: Resolve Mesh TJunctions
 order: 7
 ---
 ## Navigation

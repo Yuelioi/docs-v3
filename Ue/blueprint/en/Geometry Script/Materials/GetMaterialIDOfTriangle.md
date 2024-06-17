@@ -1,5 +1,5 @@
 ---
-display_name: GetMaterialIDOfTriangle
+title: GetMaterialIDOfTriangle
 order: 6
 ---
 ## Navigation

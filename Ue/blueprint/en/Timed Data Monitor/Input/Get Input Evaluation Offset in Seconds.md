@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Evaluation Offset in Seconds
+title: Get Input Evaluation Offset in Seconds
 order: 12
 ---
 ## Navigation

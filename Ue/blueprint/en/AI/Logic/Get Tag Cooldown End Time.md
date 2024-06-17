@@ -1,5 +1,5 @@
 ---
-display_name: Get Tag Cooldown End Time
+title: Get Tag Cooldown End Time
 order: 2
 ---
 ## Navigation

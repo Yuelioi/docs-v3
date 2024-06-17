@@ -1,5 +1,5 @@
 ---
-display_name: Remove Role
+title: Remove Role
 order: 7
 ---
 ## Navigation

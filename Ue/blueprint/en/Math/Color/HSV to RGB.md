@@ -1,5 +1,5 @@
 ---
-display_name: HSV to RGB
+title: HSV to RGB
 order: 6
 ---
 ## Navigation

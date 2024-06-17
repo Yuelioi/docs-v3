@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Property Metadata Names
+title: Set Selected Property Metadata Names
 order: 7
 ---
 ## Navigation

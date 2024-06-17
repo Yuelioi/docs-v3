@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal Exactly (Text)
+title: Not Equal Exactly (Text)
 order: 26
 ---
 ## Navigation

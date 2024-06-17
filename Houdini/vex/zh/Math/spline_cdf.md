@@ -1,5 +1,5 @@
 ---
-display_name: spline_cdf
+title: spline_cdf
 order: 80
 ---
 | On this page | * [Overview](#overview) * [Usage](#usage) |

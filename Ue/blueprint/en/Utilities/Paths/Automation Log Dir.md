@@ -1,5 +1,5 @@
 ---
-display_name: Automation Log Dir
+title: Automation Log Dir
 order: 2
 ---
 ## Navigation

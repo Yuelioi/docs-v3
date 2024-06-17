@@ -1,5 +1,5 @@
 ---
-display_name: chsetlength
+title: chsetlength
 order: 23
 ---
 | Context(s) | [chop](../contexts/chop.html) |

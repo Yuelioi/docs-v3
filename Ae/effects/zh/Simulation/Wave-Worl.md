@@ -1,5 +1,5 @@
 ---
-display_name: 波形环境
+title: 波形环境
 order: 18
 ---
 

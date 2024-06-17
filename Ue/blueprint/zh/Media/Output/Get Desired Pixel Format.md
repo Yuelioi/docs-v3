@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Pixel Format
+title: Get Desired Pixel Format
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Examples
+title: Examples
 order: 2
 ---
 

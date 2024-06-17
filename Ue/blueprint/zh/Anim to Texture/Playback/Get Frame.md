@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame
+title: Get Frame
 order: 5
 ---
 ## Navigation

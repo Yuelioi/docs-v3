@@ -1,5 +1,5 @@
 ---
-display_name: Split Mesh by Material IDs
+title: Split Mesh by Material IDs
 order: 5
 ---
 ## Navigation

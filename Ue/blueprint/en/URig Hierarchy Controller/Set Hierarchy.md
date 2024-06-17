@@ -1,5 +1,5 @@
 ---
-display_name: Set Hierarchy
+title: Set Hierarchy
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Rotation Max
+title: Get Range Rotation Max
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Int from Control Value
+title: Get Int from Control Value
 order: 42
 ---
 ## Navigation

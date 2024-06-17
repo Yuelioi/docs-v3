@@ -1,5 +1,5 @@
 ---
-display_name: ComponentCollection 对象
+title: ComponentCollection 对象
 order: 1
 ---
 

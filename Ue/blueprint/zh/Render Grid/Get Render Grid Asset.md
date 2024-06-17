@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Grid Asset
+title: Get Render Grid Asset
 order: 24
 ---
 ## Navigation

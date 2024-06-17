@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Light Props
+title: Get Particle Module Light Props
 order: 71
 ---
 ## Navigation

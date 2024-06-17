@@ -1,5 +1,5 @@
 ---
-display_name: Screen Shot Dir
+title: Screen Shot Dir
 order: 80
 ---
 ## Navigation

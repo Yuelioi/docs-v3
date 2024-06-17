@@ -1,5 +1,5 @@
 ---
-display_name: Can Execute
+title: Can Execute
 order: 5
 ---
 ## Navigation

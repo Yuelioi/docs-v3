@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Properties for Slot
+title: Get Material Properties for Slot
 order: 96
 ---
 ## Navigation

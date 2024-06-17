@@ -1,5 +1,5 @@
 ---
-display_name: Get All Matrix Cells
+title: Get All Matrix Cells
 order: 5
 ---
 ## Navigation

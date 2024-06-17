@@ -1,5 +1,5 @@
 ---
-display_name: Get Mouse Position
+title: Get Mouse Position
 order: 22
 ---
 ## Navigation

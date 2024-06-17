@@ -1,5 +1,5 @@
 ---
-display_name: Supports Backwards Solve
+title: Supports Backwards Solve
 order: 3
 ---
 ## Navigation

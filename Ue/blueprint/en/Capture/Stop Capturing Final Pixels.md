@@ -1,5 +1,5 @@
 ---
-display_name: Stop Capturing Final Pixels
+title: Stop Capturing Final Pixels
 order: 13
 ---
 ## Navigation

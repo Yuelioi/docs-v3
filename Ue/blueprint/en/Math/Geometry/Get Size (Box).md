@@ -1,5 +1,5 @@
 ---
-display_name: Get Size (Box)
+title: Get Size (Box)
 order: 2
 ---
 ## Navigation

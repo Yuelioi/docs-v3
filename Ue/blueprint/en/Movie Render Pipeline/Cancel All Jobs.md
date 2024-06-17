@@ -1,5 +1,5 @@
 ---
-display_name: Cancel All Jobs
+title: Cancel All Jobs
 order: 4
 ---
 ## Navigation

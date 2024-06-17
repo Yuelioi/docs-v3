@@ -1,5 +1,5 @@
 ---
-display_name: Get Value String
+title: Get Value String
 order: 16
 ---
 ## Navigation

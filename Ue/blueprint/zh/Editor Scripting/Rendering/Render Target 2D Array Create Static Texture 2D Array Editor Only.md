@@ -1,5 +1,5 @@
 ---
-display_name: Render Target 2D Array Create Static Texture 2D Array Editor Only
+title: Render Target 2D Array Create Static Texture 2D Array Editor Only
 order: 5
 ---
 ## Navigation

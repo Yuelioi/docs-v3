@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Montage
+title: Get Current Montage
 order: 18
 ---
 ## Navigation

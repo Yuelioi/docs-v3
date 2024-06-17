@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double 4
+title: Unstringify as Double 4
 order: 72
 ---
 ## Navigation

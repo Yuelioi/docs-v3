@@ -1,5 +1,5 @@
 ---
-display_name: Set Post Infinity Extrapolation
+title: Set Post Infinity Extrapolation
 order: 112
 ---
 ## Navigation

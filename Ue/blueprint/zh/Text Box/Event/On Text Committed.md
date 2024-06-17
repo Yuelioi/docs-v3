@@ -1,5 +1,5 @@
 ---
-display_name: On Text Committed
+title: On Text Committed
 order: 2
 ---
 ## Navigation

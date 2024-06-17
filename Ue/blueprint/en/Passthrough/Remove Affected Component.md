@@ -1,5 +1,5 @@
 ---
-display_name: Remove Affected Component
+title: Remove Affected Component
 order: 3
 ---
 ## Navigation

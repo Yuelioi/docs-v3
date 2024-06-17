@@ -1,5 +1,5 @@
 ---
-display_name: GetNextActorIndexInSequence
+title: GetNextActorIndexInSequence
 order: 3
 ---
 ## Navigation

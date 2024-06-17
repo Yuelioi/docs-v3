@@ -1,5 +1,5 @@
 ---
-display_name: Add OSC Message to Bundle
+title: Add OSC Message to Bundle
 order: 9
 ---
 ## Navigation

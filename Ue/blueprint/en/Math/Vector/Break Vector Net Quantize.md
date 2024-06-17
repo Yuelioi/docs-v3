@@ -1,5 +1,5 @@
 ---
-display_name: Break Vector Net Quantize
+title: Break Vector Net Quantize
 order: 4
 ---
 ## Navigation

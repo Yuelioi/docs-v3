@@ -1,5 +1,5 @@
 ---
-display_name: Enumerate Webcam Capture Devices
+title: Enumerate Webcam Capture Devices
 order: 3
 ---
 ## Navigation

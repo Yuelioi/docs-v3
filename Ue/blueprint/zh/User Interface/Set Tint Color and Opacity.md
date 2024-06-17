@@ -1,5 +1,5 @@
 ---
-display_name: Set Tint Color and Opacity
+title: Set Tint Color and Opacity
 order: 48
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Continuous Action
+title: Specify Continuous Action
 order: 282
 ---
 ## Navigation

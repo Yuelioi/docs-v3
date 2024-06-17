@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Parameter Dynamic Props
+title: Get Particle Module Parameter Dynamic Props
 order: 83
 ---
 ## Navigation

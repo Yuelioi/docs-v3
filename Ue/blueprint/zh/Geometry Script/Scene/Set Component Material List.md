@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Material List
+title: Set Component Material List
 order: 4
 ---
 ## Navigation

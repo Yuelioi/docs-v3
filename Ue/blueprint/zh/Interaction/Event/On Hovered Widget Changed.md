@@ -1,5 +1,5 @@
 ---
-display_name: On Hovered Widget Changed
+title: On Hovered Widget Changed
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Pin Lane
+title: Pin Lane
 order: 19
 ---
 ## Navigation

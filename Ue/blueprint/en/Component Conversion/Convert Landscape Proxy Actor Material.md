@@ -1,5 +1,5 @@
 ---
-display_name: Convert Landscape Proxy Actor Material
+title: Convert Landscape Proxy Actor Material
 order: 6
 ---
 ## Navigation

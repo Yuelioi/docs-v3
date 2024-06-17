@@ -1,5 +1,5 @@
 ---
-display_name: Open Playlist Index
+title: Open Playlist Index
 order: 57
 ---
 ## Navigation

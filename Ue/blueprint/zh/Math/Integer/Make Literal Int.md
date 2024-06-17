@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Int
+title: Make Literal Int
 order: 11
 ---
 ## Navigation

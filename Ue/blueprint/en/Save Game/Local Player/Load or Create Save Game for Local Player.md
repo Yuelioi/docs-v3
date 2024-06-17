@@ -1,5 +1,5 @@
 ---
-display_name: Load or Create Save Game for Local Player
+title: Load or Create Save Game for Local Player
 order: 11
 ---
 ## Navigation

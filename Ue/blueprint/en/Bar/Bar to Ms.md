@@ -1,5 +1,5 @@
 ---
-display_name: Bar to Ms
+title: Bar to Ms
 order: 1
 ---
 ## Navigation

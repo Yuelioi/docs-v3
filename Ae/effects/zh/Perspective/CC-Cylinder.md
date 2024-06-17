@@ -1,5 +1,5 @@
 ---
-display_name: CC 圆柱体
+title: CC 圆柱体
 order: 5
 ---
 

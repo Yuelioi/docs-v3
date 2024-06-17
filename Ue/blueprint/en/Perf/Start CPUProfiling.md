@@ -1,5 +1,5 @@
 ---
-display_name: Start CPUProfiling
+title: Start CPUProfiling
 order: 21
 ---
 ## Navigation

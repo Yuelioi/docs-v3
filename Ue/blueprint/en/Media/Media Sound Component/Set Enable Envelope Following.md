@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Envelope Following
+title: Set Enable Envelope Following
 order: 3
 ---
 ## Navigation

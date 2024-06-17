@@ -1,5 +1,5 @@
 ---
-display_name: Set Expiration
+title: Set Expiration
 order: 10
 ---
 ## Navigation

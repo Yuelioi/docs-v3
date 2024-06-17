@@ -1,5 +1,5 @@
 ---
-display_name: CC 球体
+title: CC 球体
 order: 7
 ---
 

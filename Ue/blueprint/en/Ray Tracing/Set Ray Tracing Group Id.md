@@ -1,5 +1,5 @@
 ---
-display_name: Set Ray Tracing Group Id
+title: Set Ray Tracing Group Id
 order: 3
 ---
 ## Navigation

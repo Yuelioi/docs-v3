@@ -1,5 +1,5 @@
 ---
-display_name: Add Component to Cluster
+title: Add Component to Cluster
 order: 1
 ---
 ## Navigation

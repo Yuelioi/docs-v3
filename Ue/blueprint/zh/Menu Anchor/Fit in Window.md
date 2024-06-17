@@ -1,5 +1,5 @@
 ---
-display_name: Fit in Window
+title: Fit in Window
 order: 2
 ---
 ## Navigation

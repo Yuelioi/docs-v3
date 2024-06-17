@@ -1,5 +1,5 @@
 ---
-display_name: Get Init State
+title: Get Init State
 order: 4
 ---
 ## Navigation

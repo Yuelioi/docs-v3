@@ -1,5 +1,5 @@
 ---
-display_name: Get OSCAddress Container Path
+title: Get OSCAddress Container Path
 order: 48
 ---
 ## Navigation

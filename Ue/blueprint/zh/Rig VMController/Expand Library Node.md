@@ -1,5 +1,5 @@
 ---
-display_name: Expand Library Node
+title: Expand Library Node
 order: 47
 ---
 ## Navigation

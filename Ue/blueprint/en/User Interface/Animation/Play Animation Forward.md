@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation Forward
+title: Play Animation Forward
 order: 8
 ---
 ## Navigation

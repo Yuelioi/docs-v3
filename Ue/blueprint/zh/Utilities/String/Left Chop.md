@@ -1,5 +1,5 @@
 ---
-display_name: Left Chop
+title: Left Chop
 order: 25
 ---
 ## Navigation

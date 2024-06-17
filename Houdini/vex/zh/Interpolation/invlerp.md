@@ -1,5 +1,5 @@
 ---
-display_name: invlerp
+title: invlerp
 order: 9
 ---
 | Since | 18.5 |

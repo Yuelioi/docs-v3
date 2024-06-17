@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Non Uniform Scaling
+title: Set Enable Non Uniform Scaling
 order: 27
 ---
 ## Navigation

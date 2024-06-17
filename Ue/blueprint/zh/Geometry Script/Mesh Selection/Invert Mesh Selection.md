@@ -1,5 +1,5 @@
 ---
-display_name: Invert Mesh Selection
+title: Invert Mesh Selection
 order: 13
 ---
 ## Navigation

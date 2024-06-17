@@ -1,5 +1,5 @@
 ---
-display_name: Create New Texture 2DAsset
+title: Create New Texture 2DAsset
 order: 5
 ---
 ## Navigation

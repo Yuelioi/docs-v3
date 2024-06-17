@@ -1,5 +1,5 @@
 ---
-display_name: 闪电
+title: 闪电
 order: 4
 ---
 

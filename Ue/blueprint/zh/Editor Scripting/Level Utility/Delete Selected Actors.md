@@ -1,5 +1,5 @@
 ---
-display_name: Delete Selected Actors
+title: Delete Selected Actors
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Recorded Level Name
+title: Get Recorded Level Name
 order: 7
 ---
 ## Navigation

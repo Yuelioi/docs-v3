@@ -1,5 +1,5 @@
 ---
-display_name: Resize Number Of Frames (Message)
+title: Resize Number Of Frames (Message)
 order: 13
 ---
 ## Navigation

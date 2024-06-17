@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Blend List Base
+title: Convert to Blend List Base
 order: 1
 ---
 ## Navigation

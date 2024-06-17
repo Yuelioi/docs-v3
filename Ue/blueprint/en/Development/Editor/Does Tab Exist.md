@@ -1,5 +1,5 @@
 ---
-display_name: Does Tab Exist
+title: Does Tab Exist
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Ignore Move Input
+title: Set Ignore Move Input
 order: 22
 ---
 ## Navigation

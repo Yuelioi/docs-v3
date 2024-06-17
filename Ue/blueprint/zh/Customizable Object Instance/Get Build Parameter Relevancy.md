@@ -1,5 +1,5 @@
 ---
-display_name: Get Build Parameter Relevancy
+title: Get Build Parameter Relevancy
 order: 17
 ---
 ## Navigation

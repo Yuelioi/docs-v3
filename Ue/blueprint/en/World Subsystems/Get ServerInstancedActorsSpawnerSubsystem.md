@@ -1,5 +1,5 @@
 ---
-display_name: Get ServerInstancedActorsSpawnerSubsystem
+title: Get ServerInstancedActorsSpawnerSubsystem
 order: 70
 ---
 ## Navigation

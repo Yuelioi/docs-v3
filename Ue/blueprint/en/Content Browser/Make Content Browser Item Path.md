@@ -1,5 +1,5 @@
 ---
-display_name: Make Content Browser Item Path
+title: Make Content Browser Item Path
 order: 16
 ---
 ## Navigation

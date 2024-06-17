@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Buffer Underflow Stat
+title: Get Channel Buffer Underflow Stat
 order: 3
 ---
 ## Navigation

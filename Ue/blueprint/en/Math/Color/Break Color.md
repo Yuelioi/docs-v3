@@ -1,5 +1,5 @@
 ---
-display_name: Break Color
+title: Break Color
 order: 1
 ---
 ## Navigation

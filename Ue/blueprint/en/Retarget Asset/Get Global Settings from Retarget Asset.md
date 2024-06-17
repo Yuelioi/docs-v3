@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Settings from Retarget Asset
+title: Get Global Settings from Retarget Asset
 order: 3
 ---
 ## Navigation

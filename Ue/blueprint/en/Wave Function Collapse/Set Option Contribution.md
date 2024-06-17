@@ -1,5 +1,5 @@
 ---
-display_name: Set Option Contribution
+title: Set Option Contribution
 order: 25
 ---
 ## Navigation

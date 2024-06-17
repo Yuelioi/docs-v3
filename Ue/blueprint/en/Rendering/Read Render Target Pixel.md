@@ -1,5 +1,5 @@
 ---
-display_name: Read Render Target Pixel
+title: Read Render Target Pixel
 order: 70
 ---
 ## Navigation

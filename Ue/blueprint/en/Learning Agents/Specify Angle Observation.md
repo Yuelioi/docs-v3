@@ -1,5 +1,5 @@
 ---
-display_name: Specify Angle Observation
+title: Specify Angle Observation
 order: 275
 ---
 ## Navigation

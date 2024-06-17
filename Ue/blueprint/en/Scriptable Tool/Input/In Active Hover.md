@@ -1,5 +1,5 @@
 ---
-display_name: In Active Hover
+title: In Active Hover
 order: 3
 ---
 ## Navigation

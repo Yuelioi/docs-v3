@@ -1,5 +1,5 @@
 ---
-display_name: Time Seconds to String
+title: Time Seconds to String
 order: 56
 ---
 ## Navigation

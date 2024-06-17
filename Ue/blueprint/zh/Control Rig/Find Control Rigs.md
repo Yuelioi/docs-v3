@@ -1,5 +1,5 @@
 ---
-display_name: Find Control Rigs
+title: Find Control Rigs
 order: 6
 ---
 ## Navigation

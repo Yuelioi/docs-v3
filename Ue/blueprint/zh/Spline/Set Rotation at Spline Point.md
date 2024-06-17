@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotation at Spline Point
+title: Set Rotation at Spline Point
 order: 85
 ---
 ## Navigation

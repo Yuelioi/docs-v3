@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Velocity Target
+title: Set Linear Velocity Target
 order: 54
 ---
 ## Navigation

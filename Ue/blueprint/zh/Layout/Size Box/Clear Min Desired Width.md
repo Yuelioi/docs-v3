@@ -1,5 +1,5 @@
 ---
-display_name: Clear Min Desired Width
+title: Clear Min Desired Width
 order: 7
 ---
 ## Navigation

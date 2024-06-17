@@ -1,5 +1,5 @@
 ---
-display_name: On New Connection
+title: On New Connection
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Event OnEndViewTarget
+title: Event OnEndViewTarget
 order: 2
 ---
 ## Navigation

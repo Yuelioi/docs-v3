@@ -1,5 +1,5 @@
 ---
-display_name: Is Decorator Pin
+title: Is Decorator Pin
 order: 42
 ---
 ## Navigation

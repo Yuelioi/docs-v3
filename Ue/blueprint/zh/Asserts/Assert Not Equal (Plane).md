@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Plane)
+title: Assert Not Equal (Plane)
 order: 23
 ---
 ## Navigation

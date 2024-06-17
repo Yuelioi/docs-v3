@@ -1,5 +1,5 @@
 ---
-display_name: Remove Receiver
+title: Remove Receiver
 order: 4
 ---
 ## Navigation

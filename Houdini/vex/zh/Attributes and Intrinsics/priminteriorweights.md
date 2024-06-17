@@ -1,5 +1,5 @@
 ---
-display_name: priminteriorweights
+title: priminteriorweights
 order: 52
 ---
 `int  priminteriorweights(<geometry>geometry, int prim_num, vector uvw, int &verts[], float &weights[])`

@@ -1,5 +1,5 @@
 ---
-display_name: Modify Object Metadata Tags
+title: Modify Object Metadata Tags
 order: 18
 ---
 ## Navigation

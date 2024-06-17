@@ -1,5 +1,5 @@
 ---
-display_name: Has Launch Option
+title: Has Launch Option
 order: 27
 ---
 ## Navigation

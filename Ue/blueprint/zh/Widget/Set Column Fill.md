@@ -1,5 +1,5 @@
 ---
-display_name: Set Column Fill
+title: Set Column Fill
 order: 10
 ---
 ## Navigation

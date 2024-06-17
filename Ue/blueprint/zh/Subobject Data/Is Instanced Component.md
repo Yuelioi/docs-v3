@@ -1,5 +1,5 @@
 ---
-display_name: Is Instanced Component
+title: Is Instanced Component
 order: 22
 ---
 ## Navigation

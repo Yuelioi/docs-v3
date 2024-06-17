@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Selected Nodes
+title: Get Material Selected Nodes
 order: 29
 ---
 ## Navigation

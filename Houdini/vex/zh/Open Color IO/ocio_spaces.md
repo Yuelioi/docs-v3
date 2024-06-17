@@ -1,5 +1,5 @@
 ---
-display_name: ocio_spaces
+title: ocio_spaces
 order: 6
 ---
 `string [] ocio_spaces()`

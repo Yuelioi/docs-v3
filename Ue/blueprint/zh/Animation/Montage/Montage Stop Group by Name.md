@@ -1,5 +1,5 @@
 ---
-display_name: Montage Stop Group by Name
+title: Montage Stop Group by Name
 order: 25
 ---
 ## Navigation

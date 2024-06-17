@@ -1,5 +1,5 @@
 ---
-display_name: Get AudioDeviceNotificationSubsystem
+title: Get AudioDeviceNotificationSubsystem
 order: 5
 ---
 ## Navigation

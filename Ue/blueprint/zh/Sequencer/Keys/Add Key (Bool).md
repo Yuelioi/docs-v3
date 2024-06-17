@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Bool)
+title: Add Key (Bool)
 order: 2
 ---
 ## Navigation

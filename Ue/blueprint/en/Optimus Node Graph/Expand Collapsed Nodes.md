@@ -1,5 +1,5 @@
 ---
-display_name: Expand Collapsed Nodes
+title: Expand Collapsed Nodes
 order: 20
 ---
 ## Navigation

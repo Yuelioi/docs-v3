@@ -1,5 +1,5 @@
 ---
-display_name: Period
+title: Period
 order: 85
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get World to Meters Scale
+title: Get World to Meters Scale
 order: 12
 ---
 ## Navigation

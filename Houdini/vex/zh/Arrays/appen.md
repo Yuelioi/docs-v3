@@ -1,5 +1,5 @@
 ---
-display_name: append
+title: append
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Material ID
+title: Get Max Material ID
 order: 20
 ---
 ## Navigation

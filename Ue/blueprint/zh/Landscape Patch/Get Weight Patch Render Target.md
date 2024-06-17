@@ -1,5 +1,5 @@
 ---
-display_name: Get Weight Patch Render Target
+title: Get Weight Patch Render Target
 order: 17
 ---
 ## Navigation

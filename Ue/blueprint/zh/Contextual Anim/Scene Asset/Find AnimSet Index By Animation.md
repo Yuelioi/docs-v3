@@ -1,5 +1,5 @@
 ---
-display_name: Find AnimSet Index By Animation
+title: Find AnimSet Index By Animation
 order: 3
 ---
 ## Navigation

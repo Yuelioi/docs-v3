@@ -1,5 +1,5 @@
 ---
-display_name: Set Closed Loop
+title: Set Closed Loop
 order: 81
 ---
 ## Navigation

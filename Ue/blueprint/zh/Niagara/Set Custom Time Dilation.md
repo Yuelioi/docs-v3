@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Time Dilation
+title: Set Custom Time Dilation
 order: 16
 ---
 ## Navigation

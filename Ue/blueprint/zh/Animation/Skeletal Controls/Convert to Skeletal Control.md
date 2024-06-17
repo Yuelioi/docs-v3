@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Skeletal Control
+title: Convert to Skeletal Control
 order: 1
 ---
 ## Navigation

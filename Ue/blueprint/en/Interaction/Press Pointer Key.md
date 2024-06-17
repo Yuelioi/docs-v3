@@ -1,5 +1,5 @@
 ---
-display_name: Press Pointer Key
+title: Press Pointer Key
 order: 12
 ---
 ## Navigation

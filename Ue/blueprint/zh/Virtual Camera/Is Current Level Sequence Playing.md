@@ -1,5 +1,5 @@
 ---
-display_name: Is Current Level Sequence Playing
+title: Is Current Level Sequence Playing
 order: 13
 ---
 ## Navigation

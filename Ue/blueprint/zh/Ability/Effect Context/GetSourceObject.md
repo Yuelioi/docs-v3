@@ -1,5 +1,5 @@
 ---
-display_name: GetSourceObject
+title: GetSourceObject
 order: 7
 ---
 ## Navigation

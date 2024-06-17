@@ -1,5 +1,5 @@
 ---
-display_name: Get Playlist
+title: Get Playlist
 order: 2
 ---
 ## Navigation

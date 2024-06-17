@@ -1,5 +1,5 @@
 ---
-display_name: Make Wheel Snapshot
+title: Make Wheel Snapshot
 order: 4
 ---
 ## Navigation

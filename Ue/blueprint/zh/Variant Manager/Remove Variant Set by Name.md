@@ -1,5 +1,5 @@
 ---
-display_name: Remove Variant Set by Name
+title: Remove Variant Set by Name
 order: 32
 ---
 ## Navigation

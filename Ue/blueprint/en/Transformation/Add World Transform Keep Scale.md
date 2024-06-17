@@ -1,5 +1,5 @@
 ---
-display_name: Add World Transform Keep Scale
+title: Add World Transform Keep Scale
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert To HEIF
+title: Convert To HEIF
 order: 1
 ---
 ## Navigation

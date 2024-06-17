@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Face Button Top
+title: Gamepad Face Button Top
 order: 8
 ---
 ## Navigation

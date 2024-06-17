@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Integer at Index
+title: Get OSC Message Integer at Index
 order: 42
 ---
 ## Navigation

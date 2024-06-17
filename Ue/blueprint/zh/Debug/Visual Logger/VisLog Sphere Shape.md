@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Sphere Shape
+title: VisLog Sphere Shape
 order: 12
 ---
 ## Navigation

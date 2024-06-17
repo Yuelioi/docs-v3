@@ -1,5 +1,5 @@
 ---
-display_name: Add Event
+title: Add Event
 order: 1
 ---
 ## Navigation

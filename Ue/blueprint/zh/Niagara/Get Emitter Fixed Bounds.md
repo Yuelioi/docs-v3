@@ -1,5 +1,5 @@
 ---
-display_name: Get Emitter Fixed Bounds
+title: Get Emitter Fixed Bounds
 order: 13
 ---
 ## Navigation

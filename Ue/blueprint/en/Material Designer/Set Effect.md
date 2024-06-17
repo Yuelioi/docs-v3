@@ -1,5 +1,5 @@
 ---
-display_name: Set Effect
+title: Set Effect
 order: 212
 ---
 ## Navigation

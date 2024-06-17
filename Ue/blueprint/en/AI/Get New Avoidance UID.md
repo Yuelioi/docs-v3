@@ -1,5 +1,5 @@
 ---
-display_name: Get New Avoidance UID
+title: Get New Avoidance UID
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimate Size
+title: Get Estimate Size
 order: 3
 ---
 ## Navigation

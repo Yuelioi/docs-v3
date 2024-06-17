@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Widget Switcher Slot
+title: Slot as Widget Switcher Slot
 order: 12
 ---
 ## Navigation

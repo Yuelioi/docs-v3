@@ -1,5 +1,5 @@
 ---
-display_name: Stop Audio Bus
+title: Stop Audio Bus
 order: 4
 ---
 ## Navigation

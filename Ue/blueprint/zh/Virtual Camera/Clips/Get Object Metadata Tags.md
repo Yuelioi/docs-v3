@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Metadata Tags
+title: Get Object Metadata Tags
 order: 17
 ---
 ## Navigation

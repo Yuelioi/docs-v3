@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Mode Game And UI
+title: Set Input Mode Game And UI
 order: 23
 ---
 ## Navigation

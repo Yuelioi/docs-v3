@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Num Notes
+title: Get Max Num Notes
 order: 6
 ---
 ## Navigation

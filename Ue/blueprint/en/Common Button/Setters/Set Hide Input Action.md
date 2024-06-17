@@ -1,5 +1,5 @@
 ---
-display_name: Set Hide Input Action
+title: Set Hide Input Action
 order: 3
 ---
 ## Navigation

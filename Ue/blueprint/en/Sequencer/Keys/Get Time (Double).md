@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Double)
+title: Get Time (Double)
 order: 58
 ---
 ## Navigation

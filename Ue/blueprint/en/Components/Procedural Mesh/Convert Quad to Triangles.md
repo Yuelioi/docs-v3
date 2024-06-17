@@ -1,5 +1,5 @@
 ---
-display_name: Convert Quad to Triangles
+title: Convert Quad to Triangles
 order: 6
 ---
 ## Navigation

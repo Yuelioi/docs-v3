@@ -1,5 +1,5 @@
 ---
-display_name: Get Runtime World Bounds
+title: Get Runtime World Bounds
 order: 6
 ---
 ## Navigation

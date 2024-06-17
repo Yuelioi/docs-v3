@@ -1,5 +1,5 @@
 ---
-display_name: Force Property Set Update by Name
+title: Force Property Set Update by Name
 order: 2
 ---
 ## Navigation

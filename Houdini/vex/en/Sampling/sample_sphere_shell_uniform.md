@@ -1,5 +1,5 @@
 ---
-display_name: sample_sphere_shell_uniform
+title: sample_sphere_shell_uniform
 order: 29
 ---
 | Since | 17.0 |

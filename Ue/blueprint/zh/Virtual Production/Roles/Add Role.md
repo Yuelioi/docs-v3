@@ -1,5 +1,5 @@
 ---
-display_name: Add Role
+title: Add Role
 order: 1
 ---
 ## Navigation

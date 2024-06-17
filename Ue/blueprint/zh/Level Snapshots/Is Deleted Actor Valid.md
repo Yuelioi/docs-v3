@@ -1,5 +1,5 @@
 ---
-display_name: Is Deleted Actor Valid
+title: Is Deleted Actor Valid
 order: 17
 ---
 ## Navigation

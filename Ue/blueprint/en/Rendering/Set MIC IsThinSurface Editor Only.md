@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC IsThinSurface Editor Only
+title: Set MIC IsThinSurface Editor Only
 order: 51
 ---
 ## Navigation

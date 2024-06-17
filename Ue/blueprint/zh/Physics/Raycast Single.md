@@ -1,5 +1,5 @@
 ---
-display_name: Raycast Single
+title: Raycast Single
 order: 6
 ---
 ## Navigation

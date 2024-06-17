@@ -1,5 +1,5 @@
 ---
-display_name: Conv Camera Animation Camera Modifier
+title: Conv Camera Animation Camera Modifier
 order: 1
 ---
 ## Navigation

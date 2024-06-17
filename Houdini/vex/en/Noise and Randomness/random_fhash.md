@@ -1,5 +1,5 @@
 ---
-display_name: random_fhash
+title: random_fhash
 order: 32
 ---
 `int  random_fhash(float seed)`

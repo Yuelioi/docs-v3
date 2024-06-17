@@ -1,5 +1,5 @@
 ---
-display_name: Remove Fixture Patch
+title: Remove Fixture Patch
 order: 63
 ---
 ## Navigation

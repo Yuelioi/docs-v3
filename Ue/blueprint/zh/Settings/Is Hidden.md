@@ -1,5 +1,5 @@
 ---
-display_name: Is Hidden
+title: Is Hidden
 order: 83
 ---
 ## Navigation

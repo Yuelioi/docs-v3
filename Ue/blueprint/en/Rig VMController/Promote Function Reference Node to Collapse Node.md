@@ -1,5 +1,5 @@
 ---
-display_name: Promote Function Reference Node to Collapse Node
+title: Promote Function Reference Node to Collapse Node
 order: 76
 ---
 ## Navigation

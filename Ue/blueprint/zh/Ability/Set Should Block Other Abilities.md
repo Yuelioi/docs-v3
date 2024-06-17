@@ -1,5 +1,5 @@
 ---
-display_name: Set Should Block Other Abilities
+title: Set Should Block Other Abilities
 order: 65
 ---
 ## Navigation

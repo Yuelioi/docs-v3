@@ -1,5 +1,5 @@
 ---
-display_name: Remove Modifier
+title: Remove Modifier
 order: 95
 ---
 ## Navigation

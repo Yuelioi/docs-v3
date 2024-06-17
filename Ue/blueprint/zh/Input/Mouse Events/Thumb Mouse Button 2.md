@@ -1,5 +1,5 @@
 ---
-display_name: Thumb Mouse Button 2
+title: Thumb Mouse Button 2
 order: 10
 ---
 ## Navigation

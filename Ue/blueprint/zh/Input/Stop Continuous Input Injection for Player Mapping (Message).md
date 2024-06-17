@@ -1,5 +1,5 @@
 ---
-display_name: Stop Continuous Input Injection for Player Mapping (Message)
+title: Stop Continuous Input Injection for Player Mapping (Message)
 order: 9
 ---
 ## Navigation

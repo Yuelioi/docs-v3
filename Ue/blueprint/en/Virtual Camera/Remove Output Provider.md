@@ -1,5 +1,5 @@
 ---
-display_name: Remove Output Provider
+title: Remove Output Provider
 order: 19
 ---
 ## Navigation

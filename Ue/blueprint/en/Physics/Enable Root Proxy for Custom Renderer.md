@@ -1,5 +1,5 @@
 ---
-display_name: Enable Root Proxy for Custom Renderer
+title: Enable Root Proxy for Custom Renderer
 order: 60
 ---
 ## Navigation

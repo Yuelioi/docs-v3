@@ -1,5 +1,5 @@
 ---
-display_name: chprim_keytimes
+title: chprim_keytimes
 order: 7
 ---
 `float [] chprim_keytimes(<geometry>geometry, int prim)`

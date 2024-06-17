@@ -1,5 +1,5 @@
 ---
-display_name: Lumetri颜色
+title: Lumetri颜色
 order: 27
 ---
 

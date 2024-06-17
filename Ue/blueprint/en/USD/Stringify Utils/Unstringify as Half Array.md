@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Half Array
+title: Unstringify as Half Array
 order: 90
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source Slot
+title: Change Stage Source Slot
 order: 35
 ---
 ## Navigation

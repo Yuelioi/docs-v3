@@ -1,5 +1,5 @@
 ---
-display_name: Water-color
+title: Water-color
 order: 5
 ---
 

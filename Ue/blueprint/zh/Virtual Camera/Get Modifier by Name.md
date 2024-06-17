@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifier by Name
+title: Get Modifier by Name
 order: 28
 ---
 ## Navigation

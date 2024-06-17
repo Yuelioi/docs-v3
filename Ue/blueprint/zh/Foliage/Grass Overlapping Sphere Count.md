@@ -1,5 +1,5 @@
 ---
-display_name: Grass Overlapping Sphere Count
+title: Grass Overlapping Sphere Count
 order: 7
 ---
 ## Navigation

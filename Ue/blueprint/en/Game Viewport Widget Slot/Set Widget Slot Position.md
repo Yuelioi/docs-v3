@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Slot Position
+title: Set Widget Slot Position
 order: 2
 ---
 ## Navigation

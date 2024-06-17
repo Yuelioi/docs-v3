@@ -1,5 +1,5 @@
 ---
-display_name: Set Stereo Offset
+title: Set Stereo Offset
 order: 5
 ---
 ## Navigation

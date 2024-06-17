@@ -1,5 +1,5 @@
 ---
-display_name: Add Agents
+title: Add Agents
 order: 2
 ---
 ## Navigation

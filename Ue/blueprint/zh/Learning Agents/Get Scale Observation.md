@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale Observation
+title: Get Scale Observation
 order: 113
 ---
 ## Navigation

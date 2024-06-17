@@ -1,5 +1,5 @@
 ---
-display_name: Set User Focus
+title: Set User Focus
 order: 37
 ---
 ## Navigation

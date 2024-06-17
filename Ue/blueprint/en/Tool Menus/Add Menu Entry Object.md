@@ -1,5 +1,5 @@
 ---
-display_name: Add Menu Entry Object
+title: Add Menu Entry Object
 order: 4
 ---
 ## Navigation

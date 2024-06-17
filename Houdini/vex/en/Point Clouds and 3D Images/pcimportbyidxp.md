@@ -1,5 +1,5 @@
 ---
-display_name: pcimportbyidxp
+title: pcimportbyidxp
 order: 19
 ---
 `vector4  pcimportbyidxp(int handle, string channel_name, int idx)`

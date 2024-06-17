@@ -1,5 +1,5 @@
 ---
-display_name: Get STMap Point
+title: Get STMap Point
 order: 16
 ---
 ## Navigation

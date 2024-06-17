@@ -1,5 +1,5 @@
 ---
-display_name: Destroy in HLOD
+title: Destroy in HLOD
 order: 2
 ---
 ## Navigation

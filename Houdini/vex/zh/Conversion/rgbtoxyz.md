@@ -1,5 +1,5 @@
 ---
-display_name: rgbtoxyz
+title: rgbtoxyz
 order: 11
 ---
 `vector  rgbtoxyz(vector rgb)`

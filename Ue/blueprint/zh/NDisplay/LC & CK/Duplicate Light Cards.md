@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Light Cards
+title: Duplicate Light Cards
 order: 2
 ---
 ## Navigation

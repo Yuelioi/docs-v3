@@ -1,5 +1,5 @@
 ---
-display_name: Export Scene Capture Buffers
+title: Export Scene Capture Buffers
 order: 1
 ---
 ## Navigation

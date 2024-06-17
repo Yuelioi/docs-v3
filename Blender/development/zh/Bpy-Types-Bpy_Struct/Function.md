@@ -1,6 +1,6 @@
 ---
 order: 6
-display_name: Function
+title: Function
 ---
 
 # Function

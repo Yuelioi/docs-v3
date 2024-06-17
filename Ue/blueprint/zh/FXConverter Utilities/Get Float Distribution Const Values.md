@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Distribution Const Values
+title: Get Float Distribution Const Values
 order: 45
 ---
 ## Navigation

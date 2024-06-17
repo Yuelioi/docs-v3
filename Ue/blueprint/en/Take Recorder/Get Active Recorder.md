@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Recorder
+title: Get Active Recorder
 order: 6
 ---
 ## Navigation

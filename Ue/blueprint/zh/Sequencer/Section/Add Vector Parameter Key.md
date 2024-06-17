@@ -1,5 +1,5 @@
 ---
-display_name: Add Vector Parameter Key
+title: Add Vector Parameter Key
 order: 7
 ---
 ## Navigation

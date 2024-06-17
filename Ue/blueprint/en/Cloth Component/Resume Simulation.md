@@ -1,5 +1,5 @@
 ---
-display_name: Resume Simulation
+title: Resume Simulation
 order: 9
 ---
 ## Navigation

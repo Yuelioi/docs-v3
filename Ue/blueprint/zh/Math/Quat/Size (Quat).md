@@ -1,5 +1,5 @@
 ---
-display_name: Size (Quat)
+title: Size (Quat)
 order: 27
 ---
 ## Navigation

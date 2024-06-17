@@ -1,5 +1,5 @@
 ---
-display_name: On Take Radial Damage
+title: On Take Radial Damage
 order: 10
 ---
 ## Navigation

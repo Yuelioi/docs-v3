@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Global Breaks
+title: Set Notify Global Breaks
 order: 42
 ---
 ## Navigation

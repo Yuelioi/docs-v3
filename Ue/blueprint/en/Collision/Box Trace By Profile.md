@@ -1,5 +1,5 @@
 ---
-display_name: Box Trace By Profile
+title: Box Trace By Profile
 order: 5
 ---
 ## Navigation

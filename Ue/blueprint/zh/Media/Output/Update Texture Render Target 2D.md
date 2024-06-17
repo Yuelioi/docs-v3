@@ -1,5 +1,5 @@
 ---
-display_name: Update Texture Render Target 2D
+title: Update Texture Render Target 2D
 order: 10
 ---
 ## Navigation

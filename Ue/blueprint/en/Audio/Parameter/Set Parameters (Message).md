@@ -1,5 +1,5 @@
 ---
-display_name: Set Parameters (Message)
+title: Set Parameters (Message)
 order: 29
 ---
 ## Navigation

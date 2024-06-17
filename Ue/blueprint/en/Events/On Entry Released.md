@@ -1,5 +1,5 @@
 ---
-display_name: On Entry Released
+title: On Entry Released
 order: 9
 ---
 ## Navigation

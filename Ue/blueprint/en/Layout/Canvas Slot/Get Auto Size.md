@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Size
+title: Get Auto Size
 order: 3
 ---
 ## Navigation

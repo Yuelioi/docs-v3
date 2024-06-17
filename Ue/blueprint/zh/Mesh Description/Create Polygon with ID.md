@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon with ID
+title: Create Polygon with ID
 order: 7
 ---
 ## Navigation

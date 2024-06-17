@@ -1,5 +1,5 @@
 ---
-display_name: Get Sync State
+title: Get Sync State
 order: 23
 ---
 ## Navigation

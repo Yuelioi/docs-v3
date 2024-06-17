@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Settings from Retarget Asset
+title: Get Root Settings from Retarget Asset
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Timed Out
+title: On Timed Out
 order: 177
 ---
 ## Navigation

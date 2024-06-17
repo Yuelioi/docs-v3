@@ -1,5 +1,5 @@
 ---
-display_name: Get Original Pin from Injected Node
+title: Get Original Pin from Injected Node
 order: 20
 ---
 ## Navigation

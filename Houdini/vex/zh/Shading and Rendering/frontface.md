@@ -1,5 +1,5 @@
 ---
-display_name: frontface
+title: frontface
 order: 8
 ---
 `vector  frontface(vector N, vector I)`

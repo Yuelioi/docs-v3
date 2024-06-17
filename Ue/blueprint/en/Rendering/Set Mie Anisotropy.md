@@ -1,5 +1,5 @@
 ---
-display_name: Set Mie Anisotropy
+title: Set Mie Anisotropy
 order: 60
 ---
 ## Navigation

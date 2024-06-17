@@ -1,5 +1,5 @@
 ---
-display_name: Get List Of Sources
+title: Get List Of Sources
 order: 7
 ---
 ## Navigation

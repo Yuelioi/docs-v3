@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Open Border Loops
+title: Get Num Open Border Loops
 order: 28
 ---
 ## Navigation

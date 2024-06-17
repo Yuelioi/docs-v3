@@ -1,5 +1,5 @@
 ---
-display_name: Copy Current List to Asset
+title: Copy Current List to Asset
 order: 2
 ---
 ## Navigation

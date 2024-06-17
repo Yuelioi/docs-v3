@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance to Closest Bar
+title: Get Distance to Closest Bar
 order: 23
 ---
 ## Navigation

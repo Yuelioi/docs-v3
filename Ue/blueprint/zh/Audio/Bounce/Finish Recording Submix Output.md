@@ -1,5 +1,5 @@
 ---
-display_name: Finish Recording Submix Output
+title: Finish Recording Submix Output
 order: 1
 ---
 ## Navigation

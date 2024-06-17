@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar Parameter Source
+title: Get Scalar Parameter Source
 order: 34
 ---
 ## Navigation

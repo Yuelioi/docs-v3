@@ -1,5 +1,5 @@
 ---
-display_name: Get Ad ID Count
+title: Get Ad ID Count
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Target Object
+title: Remove Target Object
 order: 4
 ---
 ## Navigation

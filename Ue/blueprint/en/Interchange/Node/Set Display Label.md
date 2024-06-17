@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Label
+title: Set Display Label
 order: 67
 ---
 ## Navigation

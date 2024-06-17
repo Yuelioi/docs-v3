@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad D-pad Down
+title: Gamepad D-pad Down
 order: 1
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 15
-display_name: 浮雕
+title: 浮雕
 ---
 
 # Emboss - 浮雕

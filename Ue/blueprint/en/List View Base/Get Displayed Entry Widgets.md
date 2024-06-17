@@ -1,5 +1,5 @@
 ---
-display_name: Get Displayed Entry Widgets
+title: Get Displayed Entry Widgets
 order: 1
 ---
 ## Navigation

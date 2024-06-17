@@ -1,5 +1,5 @@
 ---
-display_name: Set Sub Ouput Level
+title: Set Sub Ouput Level
 order: 19
 ---
 ## Navigation

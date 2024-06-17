@@ -1,5 +1,5 @@
 ---
-display_name: Append Recording to Asset
+title: Append Recording to Asset
 order: 6
 ---
 ## Navigation

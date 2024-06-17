@@ -1,5 +1,5 @@
 ---
-display_name: Get Weight
+title: Get Weight
 order: 6
 ---
 ## Navigation

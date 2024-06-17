@@ -1,5 +1,5 @@
 ---
-display_name: Project World Location to Widget Position
+title: Project World Location to Widget Position
 order: 12
 ---
 ## Navigation

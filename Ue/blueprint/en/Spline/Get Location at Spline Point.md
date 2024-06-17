@@ -1,5 +1,5 @@
 ---
-display_name: Get Location at Spline Point
+title: Get Location at Spline Point
 order: 40
 ---
 ## Navigation

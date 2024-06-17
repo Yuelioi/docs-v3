@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Notify Track Names
+title: Get Animation Notify Track Names
 order: 4
 ---
 ## Navigation

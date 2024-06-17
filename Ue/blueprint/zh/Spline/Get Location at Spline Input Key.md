@@ -1,5 +1,5 @@
 ---
-display_name: Get Location at Spline Input Key
+title: Get Location at Spline Input Key
 order: 39
 ---
 ## Navigation

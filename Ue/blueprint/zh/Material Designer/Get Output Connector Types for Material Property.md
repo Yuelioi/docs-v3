@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Connector Types for Material Property
+title: Get Output Connector Types for Material Property
 order: 113
 ---
 ## Navigation

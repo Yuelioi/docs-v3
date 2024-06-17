@@ -1,5 +1,5 @@
 ---
-display_name: Inverse Transform Direction
+title: Inverse Transform Direction
 order: 4
 ---
 ## Navigation

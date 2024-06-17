@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Rule Explicit
+title: Set Navigation Rule Explicit
 order: 25
 ---
 ## Navigation

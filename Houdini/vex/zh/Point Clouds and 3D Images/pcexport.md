@@ -1,5 +1,5 @@
 ---
-display_name: pcexport
+title: pcexport
 order: 8
 ---
 `int  pcexport(int handle, string channel_name, <type>value, ...)`

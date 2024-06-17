@@ -1,5 +1,5 @@
 ---
-display_name: Bone Is Child Of
+title: Bone Is Child Of
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor
+title: Set Actor
 order: 100
 ---
 ## Navigation

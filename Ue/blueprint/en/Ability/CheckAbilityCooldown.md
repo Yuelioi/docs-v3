@@ -1,5 +1,5 @@
 ---
-display_name: CheckAbilityCooldown
+title: CheckAbilityCooldown
 order: 11
 ---
 ## Navigation

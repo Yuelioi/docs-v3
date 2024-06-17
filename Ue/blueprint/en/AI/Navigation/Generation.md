@@ -1,5 +1,5 @@
 ---
-display_name: Generation
+title: Generation
 order: 9
 ---
 ## Navigation

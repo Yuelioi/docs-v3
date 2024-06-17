@@ -1,5 +1,5 @@
 ---
-display_name: Set Box Falloff
+title: Set Box Falloff
 order: 15
 ---
 ## Navigation

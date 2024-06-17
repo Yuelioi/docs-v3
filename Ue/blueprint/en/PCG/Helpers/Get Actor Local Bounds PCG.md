@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Local Bounds PCG
+title: Get Actor Local Bounds PCG
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Asset User Data Of Class (Message)
+title: Has Asset User Data Of Class (Message)
 order: 5
 ---
 ## Navigation

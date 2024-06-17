@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Without Scale (Matrix)
+title: Get Matrix Without Scale (Matrix)
 order: 12
 ---
 ## Navigation

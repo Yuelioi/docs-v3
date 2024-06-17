@@ -1,5 +1,5 @@
 ---
-display_name: CC 星爆
+title: CC 星爆
 order: 14
 ---
 

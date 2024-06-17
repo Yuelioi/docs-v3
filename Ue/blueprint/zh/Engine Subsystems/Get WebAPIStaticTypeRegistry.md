@@ -1,5 +1,5 @@
 ---
-display_name: Get WebAPIStaticTypeRegistry
+title: Get WebAPIStaticTypeRegistry
 order: 52
 ---
 ## Navigation

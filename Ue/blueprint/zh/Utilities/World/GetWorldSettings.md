@@ -1,5 +1,5 @@
 ---
-display_name: GetWorldSettings
+title: GetWorldSettings
 order: 1
 ---
 ## Navigation

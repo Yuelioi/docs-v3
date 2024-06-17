@@ -1,5 +1,5 @@
 ---
-display_name: Add Validator
+title: Add Validator
 order: 1
 ---
 ## Navigation

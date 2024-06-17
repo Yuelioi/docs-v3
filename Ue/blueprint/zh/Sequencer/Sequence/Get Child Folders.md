@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Folders
+title: Get Child Folders
 order: 24
 ---
 ## Navigation

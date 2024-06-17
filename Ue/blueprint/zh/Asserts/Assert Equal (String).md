@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (String)
+title: Assert Equal (String)
 order: 13
 ---
 ## Navigation

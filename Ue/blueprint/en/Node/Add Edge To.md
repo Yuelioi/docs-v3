@@ -1,5 +1,5 @@
 ---
-display_name: Add Edge To
+title: Add Edge To
 order: 1
 ---
 ## Navigation

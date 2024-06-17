@@ -1,5 +1,5 @@
 ---
-display_name: Clear Skin Weight Override
+title: Clear Skin Weight Override
 order: 2
 ---
 ## Navigation

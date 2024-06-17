@@ -1,5 +1,5 @@
 ---
-display_name: Cleanup Local
+title: Cleanup Local
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 类型 (bpy.types)
+title: 类型 (bpy.types)
 order: 9
 ---
 

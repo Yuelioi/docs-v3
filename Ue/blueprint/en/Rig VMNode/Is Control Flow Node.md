@@ -1,5 +1,5 @@
 ---
-display_name: Is Control Flow Node
+title: Is Control Flow Node
 order: 41
 ---
 ## Navigation

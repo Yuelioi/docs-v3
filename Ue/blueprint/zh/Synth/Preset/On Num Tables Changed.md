@@ -1,5 +1,5 @@
 ---
-display_name: On Num Tables Changed
+title: On Num Tables Changed
 order: 1
 ---
 ## Navigation

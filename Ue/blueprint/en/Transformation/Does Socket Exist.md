@@ -1,5 +1,5 @@
 ---
-display_name: Does Socket Exist
+title: Does Socket Exist
 order: 22
 ---
 ## Navigation

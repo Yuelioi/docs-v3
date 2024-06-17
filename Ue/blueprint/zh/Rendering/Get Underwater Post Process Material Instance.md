@@ -1,5 +1,5 @@
 ---
-display_name: Get Underwater Post Process Material Instance
+title: Get Underwater Post Process Material Instance
 order: 24
 ---
 ## Navigation

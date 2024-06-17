@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Channel Constant QAt Time
+title: Get Normalized Channel Constant QAt Time
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback End
+title: Get Playback End
 order: 44
 ---
 ## Navigation

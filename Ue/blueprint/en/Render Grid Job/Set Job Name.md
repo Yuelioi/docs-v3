@@ -1,5 +1,5 @@
 ---
-display_name: Set Job Name
+title: Set Job Name
 order: 38
 ---
 ## Navigation

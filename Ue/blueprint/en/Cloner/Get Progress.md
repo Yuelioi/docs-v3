@@ -1,5 +1,5 @@
 ---
-display_name: Get Progress
+title: Get Progress
 order: 32
 ---
 ## Navigation

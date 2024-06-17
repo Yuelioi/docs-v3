@@ -1,5 +1,5 @@
 ---
-display_name: Find MIDIDevices
+title: Find MIDIDevices
 order: 5
 ---
 ## Navigation

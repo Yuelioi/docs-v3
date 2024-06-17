@@ -1,5 +1,5 @@
 ---
-display_name: Set Bounding Box
+title: Set Bounding Box
 order: 5
 ---
 ## Navigation

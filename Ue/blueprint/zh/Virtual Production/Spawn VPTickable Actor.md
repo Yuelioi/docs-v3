@@ -1,5 +1,5 @@
 ---
-display_name: Spawn VPTickable Actor
+title: Spawn VPTickable Actor
 order: 25
 ---
 ## Navigation

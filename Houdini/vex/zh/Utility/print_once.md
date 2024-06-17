@@ -1,5 +1,5 @@
 ---
-display_name: print_once
+title: print_once
 order: 11
 ---
 `void  print_once(string msg, ...)`

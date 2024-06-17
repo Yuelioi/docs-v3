@@ -1,5 +1,5 @@
 ---
-display_name: Get BuoyancySubsystem
+title: Get BuoyancySubsystem
 order: 16
 ---
 ## Navigation

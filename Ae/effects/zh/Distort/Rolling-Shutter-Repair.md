@@ -1,6 +1,6 @@
 ---
 order: 29
-display_name: 果冻效应修复
+title: 果冻效应修复
 ---
 
 # Rolling Shutter Repair - 果冻效应修复

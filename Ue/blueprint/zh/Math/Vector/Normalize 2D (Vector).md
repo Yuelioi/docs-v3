@@ -1,5 +1,5 @@
 ---
-display_name: Normalize 2D (Vector)
+title: Normalize 2D (Vector)
 order: 42
 ---
 ## Navigation

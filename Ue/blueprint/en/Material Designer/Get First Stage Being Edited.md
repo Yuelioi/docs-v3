@@ -1,5 +1,5 @@
 ---
-display_name: Get First Stage Being Edited
+title: Get First Stage Being Edited
 order: 73
 ---
 ## Navigation

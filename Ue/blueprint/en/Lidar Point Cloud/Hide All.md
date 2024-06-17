@@ -1,5 +1,5 @@
 ---
-display_name: Hide All
+title: Hide All
 order: 36
 ---
 ## Navigation

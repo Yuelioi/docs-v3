@@ -1,5 +1,5 @@
 ---
-display_name: Two Bone IK Function
+title: Two Bone IK Function
 order: 19
 ---
 ## Navigation

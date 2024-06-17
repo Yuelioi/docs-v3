@@ -1,5 +1,5 @@
 ---
-display_name: Loge
+title: Loge
 order: 19
 ---
 ## Navigation

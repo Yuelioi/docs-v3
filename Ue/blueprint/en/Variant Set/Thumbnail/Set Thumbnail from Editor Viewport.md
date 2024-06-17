@@ -1,5 +1,5 @@
 ---
-display_name: Set Thumbnail from Editor Viewport
+title: Set Thumbnail from Editor Viewport
 order: 3
 ---
 ## Navigation

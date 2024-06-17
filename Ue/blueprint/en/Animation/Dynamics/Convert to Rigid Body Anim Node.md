@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Rigid Body Anim Node
+title: Convert to Rigid Body Anim Node
 order: 1
 ---
 ## Navigation

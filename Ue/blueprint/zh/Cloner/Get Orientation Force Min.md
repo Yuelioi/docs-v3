@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Force Min
+title: Get Orientation Force Min
 order: 29
 ---
 ## Navigation

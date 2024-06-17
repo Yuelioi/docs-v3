@@ -1,5 +1,5 @@
 ---
-display_name: Montage Play
+title: Montage Play
 order: 20
 ---
 ## Navigation

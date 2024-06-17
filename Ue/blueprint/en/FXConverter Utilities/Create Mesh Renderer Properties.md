@@ -1,5 +1,5 @@
 ---
-display_name: Create Mesh Renderer Properties
+title: Create Mesh Renderer Properties
 order: 11
 ---
 ## Navigation

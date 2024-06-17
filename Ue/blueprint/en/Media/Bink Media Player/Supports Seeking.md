@@ -1,5 +1,5 @@
 ---
-display_name: Supports Seeking
+title: Supports Seeking
 order: 29
 ---
 ## Navigation

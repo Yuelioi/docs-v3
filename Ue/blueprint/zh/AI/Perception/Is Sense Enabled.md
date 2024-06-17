@@ -1,5 +1,5 @@
 ---
-display_name: Is Sense Enabled
+title: Is Sense Enabled
 order: 11
 ---
 ## Navigation

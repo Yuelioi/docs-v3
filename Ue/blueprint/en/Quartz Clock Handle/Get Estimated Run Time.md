@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimated Run Time
+title: Get Estimated Run Time
 order: 9
 ---
 ## Navigation

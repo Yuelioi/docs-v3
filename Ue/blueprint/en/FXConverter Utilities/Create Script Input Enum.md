@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Enum
+title: Create Script Input Enum
 order: 17
 ---
 ## Navigation

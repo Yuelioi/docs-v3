@@ -1,5 +1,5 @@
 ---
-display_name: Get Float
+title: Get Float
 order: 2
 ---
 ## Navigation

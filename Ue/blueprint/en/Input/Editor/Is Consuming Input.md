@@ -1,5 +1,5 @@
 ---
-display_name: Is Consuming Input
+title: Is Consuming Input
 order: 2
 ---
 ## Navigation

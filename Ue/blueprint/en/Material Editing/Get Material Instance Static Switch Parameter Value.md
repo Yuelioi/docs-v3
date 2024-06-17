@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance Static Switch Parameter Value
+title: Get Material Instance Static Switch Parameter Value
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Quat Attribute
+title: Set Quat Attribute
 order: 87
 ---
 ## Navigation

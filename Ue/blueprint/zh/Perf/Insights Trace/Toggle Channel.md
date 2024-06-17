@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Channel
+title: Toggle Channel
 order: 10
 ---
 ## Navigation

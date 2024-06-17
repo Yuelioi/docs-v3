@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Type Data Gpu Props
+title: Get Particle Module Type Data Gpu Props
 order: 100
 ---
 ## Navigation

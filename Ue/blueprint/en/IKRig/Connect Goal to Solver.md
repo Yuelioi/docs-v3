@@ -1,5 +1,5 @@
 ---
-display_name: Connect Goal to Solver
+title: Connect Goal to Solver
 order: 7
 ---
 ## Navigation

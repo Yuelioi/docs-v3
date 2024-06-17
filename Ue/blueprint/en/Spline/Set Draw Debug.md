@@ -1,5 +1,5 @@
 ---
-display_name: Set Draw Debug
+title: Set Draw Debug
 order: 83
 ---
 ## Navigation

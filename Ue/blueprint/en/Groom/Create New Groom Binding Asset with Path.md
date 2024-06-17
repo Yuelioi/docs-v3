@@ -1,5 +1,5 @@
 ---
-display_name: Create New Groom Binding Asset with Path
+title: Create New Groom Binding Asset with Path
 order: 3
 ---
 ## Navigation

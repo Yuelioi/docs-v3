@@ -1,5 +1,5 @@
 ---
-display_name: Enable Live Link Evaluation
+title: Enable Live Link Evaluation
 order: 1
 ---
 ## Navigation

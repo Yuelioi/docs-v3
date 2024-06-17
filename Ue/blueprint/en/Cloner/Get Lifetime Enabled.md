@@ -1,5 +1,5 @@
 ---
-display_name: Get Lifetime Enabled
+title: Get Lifetime Enabled
 order: 18
 ---
 ## Navigation

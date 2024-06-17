@@ -1,5 +1,5 @@
 ---
-display_name: Conv Camera Animation Play Space
+title: Conv Camera Animation Play Space
 order: 2
 ---
 ## Navigation

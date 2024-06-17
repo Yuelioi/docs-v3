@@ -1,5 +1,5 @@
 ---
-display_name: Control Screensaver
+title: Control Screensaver
 order: 3
 ---
 ## Navigation

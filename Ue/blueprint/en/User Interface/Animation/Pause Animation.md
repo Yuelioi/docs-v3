@@ -1,5 +1,5 @@
 ---
-display_name: Pause Animation
+title: Pause Animation
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: FBX
+title: FBX
 order: 3
 ---
 ## Navigation

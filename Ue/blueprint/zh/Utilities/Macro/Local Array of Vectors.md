@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Vectors
+title: Local Array of Vectors
 order: 11
 ---
 ## Navigation

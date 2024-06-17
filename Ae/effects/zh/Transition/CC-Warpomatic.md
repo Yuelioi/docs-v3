@@ -1,6 +1,6 @@
 ---
 order: 11
-display_name: CC自动翘曲过渡
+title: CC自动翘曲过渡
 ---
 
 # CC Warpomatic - CC自动翘曲过渡

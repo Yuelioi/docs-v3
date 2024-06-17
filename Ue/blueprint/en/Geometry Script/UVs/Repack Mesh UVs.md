@@ -1,5 +1,5 @@
 ---
-display_name: Repack Mesh UVs
+title: Repack Mesh UVs
 order: 12
 ---
 ## Navigation

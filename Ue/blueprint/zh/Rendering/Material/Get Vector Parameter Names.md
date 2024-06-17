@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Parameter Names
+title: Get Vector Parameter Names
 order: 29
 ---
 ## Navigation

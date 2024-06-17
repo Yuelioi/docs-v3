@@ -1,5 +1,5 @@
 ---
-display_name: Compute Children Cache
+title: Compute Children Cache
 order: 2
 ---
 ## Navigation

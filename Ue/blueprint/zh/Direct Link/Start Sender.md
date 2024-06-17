@@ -1,5 +1,5 @@
 ---
-display_name: Start Sender
+title: Start Sender
 order: 13
 ---
 ## Navigation

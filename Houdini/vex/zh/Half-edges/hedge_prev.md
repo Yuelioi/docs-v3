@@ -1,5 +1,5 @@
 ---
-display_name: hedge_prev
+title: hedge_prev
 order: 13
 ---
 `int  hedge_prev(<geometry>geometry, int hedge)`

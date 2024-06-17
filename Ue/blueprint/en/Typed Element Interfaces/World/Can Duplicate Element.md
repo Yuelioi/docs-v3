@@ -1,5 +1,5 @@
 ---
-display_name: Can Duplicate Element
+title: Can Duplicate Element
 order: 4
 ---
 ## Navigation

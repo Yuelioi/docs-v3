@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Level Is Enabled
+title: Get Lod Level Is Enabled
 order: 49
 ---
 ## Navigation

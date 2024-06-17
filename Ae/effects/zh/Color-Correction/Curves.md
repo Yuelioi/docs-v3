@@ -1,5 +1,5 @@
 ---
-display_name: 曲线
+title: 曲线
 order: 19
 ---
 

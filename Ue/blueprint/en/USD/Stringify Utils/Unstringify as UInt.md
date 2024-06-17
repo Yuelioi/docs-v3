@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as UInt
+title: Unstringify as UInt
 order: 126
 ---
 ## Navigation

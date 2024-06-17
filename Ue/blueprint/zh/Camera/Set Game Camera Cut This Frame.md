@@ -1,5 +1,5 @@
 ---
-display_name: Set Game Camera Cut This Frame
+title: Set Game Camera Cut This Frame
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Encoding Settings
+title: Set Height Encoding Settings
 order: 30
 ---
 ## Navigation

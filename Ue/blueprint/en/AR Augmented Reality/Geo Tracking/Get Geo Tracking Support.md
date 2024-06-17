@@ -1,5 +1,5 @@
 ---
-display_name: Get Geo Tracking Support
+title: Get Geo Tracking Support
 order: 12
 ---
 ## Navigation

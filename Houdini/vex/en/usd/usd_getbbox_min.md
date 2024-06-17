@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbbox_min
+title: usd_getbbox_min
 order: 45
 ---
 | Since | 18.0 |

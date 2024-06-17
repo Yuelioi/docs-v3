@@ -1,5 +1,5 @@
 ---
-display_name: Set Atlas
+title: Set Atlas
 order: 203
 ---
 ## Navigation

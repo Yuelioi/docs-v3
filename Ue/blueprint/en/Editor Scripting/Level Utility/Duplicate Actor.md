@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Actor
+title: Duplicate Actor
 order: 5
 ---
 ## Navigation

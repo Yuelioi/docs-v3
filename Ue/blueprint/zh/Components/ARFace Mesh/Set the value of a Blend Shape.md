@@ -1,5 +1,5 @@
 ---
-display_name: Set the value of a Blend Shape
+title: Set the value of a Blend Shape
 order: 9
 ---
 ## Navigation

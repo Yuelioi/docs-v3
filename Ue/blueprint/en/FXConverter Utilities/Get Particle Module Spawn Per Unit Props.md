@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Spawn Per Unit Props
+title: Get Particle Module Spawn Per Unit Props
 order: 95
 ---
 ## Navigation

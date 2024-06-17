@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Text
+title: Get Selected Text
 order: 15
 ---
 ## Navigation

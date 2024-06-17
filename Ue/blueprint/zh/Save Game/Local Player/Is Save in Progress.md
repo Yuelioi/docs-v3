@@ -1,5 +1,5 @@
 ---
-display_name: Is Save in Progress
+title: Is Save in Progress
 order: 10
 ---
 ## Navigation

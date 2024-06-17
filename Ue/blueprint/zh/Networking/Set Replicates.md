@@ -1,5 +1,5 @@
 ---
-display_name: Set Replicates
+title: Set Replicates
 order: 13
 ---
 ## Navigation

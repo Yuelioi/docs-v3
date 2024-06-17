@@ -1,5 +1,5 @@
 ---
-display_name: Set Convex Decomposition Collision
+title: Set Convex Decomposition Collision
 order: 10
 ---
 ## Navigation

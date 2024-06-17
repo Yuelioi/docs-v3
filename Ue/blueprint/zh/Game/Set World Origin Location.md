@@ -1,5 +1,5 @@
 ---
-display_name: Set World Origin Location
+title: Set World Origin Location
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Multiple Modifier Parameters
+title: Add Multiple Modifier Parameters
 order: 4
 ---
 ## Navigation

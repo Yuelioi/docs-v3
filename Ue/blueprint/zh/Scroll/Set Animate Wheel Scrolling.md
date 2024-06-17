@@ -1,5 +1,5 @@
 ---
-display_name: Set Animate Wheel Scrolling
+title: Set Animate Wheel Scrolling
 order: 4
 ---
 ## Navigation

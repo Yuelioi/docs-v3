@@ -1,5 +1,5 @@
 ---
-display_name: Animation Sharing Enabled
+title: Animation Sharing Enabled
 order: 1
 ---
 ## Navigation

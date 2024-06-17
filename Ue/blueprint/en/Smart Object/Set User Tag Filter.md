@@ -1,5 +1,5 @@
 ---
-display_name: Set User Tag Filter
+title: Set User Tag Filter
 order: 50
 ---
 ## Navigation

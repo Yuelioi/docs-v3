@@ -1,5 +1,5 @@
 ---
-display_name: CC 光线爆发 2
+title: CC 光线爆发 2
 order: 7
 ---
 

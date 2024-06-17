@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Material Expression
+title: Duplicate Material Expression
 order: 10
 ---
 ## Navigation

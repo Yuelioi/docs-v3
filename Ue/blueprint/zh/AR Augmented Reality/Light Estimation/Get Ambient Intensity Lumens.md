@@ -1,5 +1,5 @@
 ---
-display_name: Get Ambient Intensity Lumens
+title: Get Ambient Intensity Lumens
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Menus
+title: Get Menus
 order: 106
 ---
 ## Navigation

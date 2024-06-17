@@ -1,5 +1,5 @@
 ---
-display_name: Set Translator Settings
+title: Set Translator Settings
 order: 12
 ---
 ## Navigation

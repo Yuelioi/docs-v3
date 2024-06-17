@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Nodes
+title: Get Num Nodes
 order: 25
 ---
 ## Navigation

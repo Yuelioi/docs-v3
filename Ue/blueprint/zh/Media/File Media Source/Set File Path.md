@@ -1,5 +1,5 @@
 ---
-display_name: Set File Path
+title: Set File Path
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ntransform
+title: ntransform
 order: 9
 ---
 `vector  ntransform(vector v, matrix transform)`

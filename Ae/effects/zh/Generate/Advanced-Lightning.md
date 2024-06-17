@@ -1,5 +1,5 @@
 ---
-display_name: 高级闪电
+title: 高级闪电
 order: 2
 ---
 

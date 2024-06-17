@@ -1,5 +1,5 @@
 ---
-display_name: In Active Click Drag
+title: In Active Click Drag
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Horizontal Anchor
+title: Set Horizontal Anchor
 order: 10
 ---
 ## Navigation

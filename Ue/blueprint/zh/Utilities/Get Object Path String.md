@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Path String
+title: Get Object Path String
 order: 20
 ---
 ## Navigation

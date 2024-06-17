@@ -1,5 +1,5 @@
 ---
-display_name: Remove External Component
+title: Remove External Component
 order: 14
 ---
 ## Navigation

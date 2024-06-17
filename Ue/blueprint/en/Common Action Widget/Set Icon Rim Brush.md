@@ -1,5 +1,5 @@
 ---
-display_name: Set Icon Rim Brush
+title: Set Icon Rim Brush
 order: 6
 ---
 ## Navigation

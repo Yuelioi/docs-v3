@@ -1,5 +1,5 @@
 ---
-display_name: Snapshot Object
+title: Snapshot Object
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounding Box Size
+title: Get Bounding Box Size
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Switch on Variant by Name
+title: Switch on Variant by Name
 order: 7
 ---
 ## Navigation

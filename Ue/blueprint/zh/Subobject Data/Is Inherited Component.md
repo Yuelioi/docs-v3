@@ -1,5 +1,5 @@
 ---
-display_name: Is Inherited Component
+title: Is Inherited Component
 order: 20
 ---
 ## Navigation

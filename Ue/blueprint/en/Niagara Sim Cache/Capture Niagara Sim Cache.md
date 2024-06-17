@@ -1,5 +1,5 @@
 ---
-display_name: Capture Niagara Sim Cache
+title: Capture Niagara Sim Cache
 order: 4
 ---
 ## Navigation

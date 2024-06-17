@@ -1,5 +1,5 @@
 ---
-display_name: Un Retain All Sounds in Sound Class
+title: Un Retain All Sounds in Sound Class
 order: 4
 ---
 ## Navigation

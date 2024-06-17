@@ -1,5 +1,5 @@
 ---
-display_name: pointattribtypeinfo
+title: pointattribtypeinfo
 order: 38
 ---
 `string  pointattribtypeinfo(<geometry>geometry, string attribute_name)`

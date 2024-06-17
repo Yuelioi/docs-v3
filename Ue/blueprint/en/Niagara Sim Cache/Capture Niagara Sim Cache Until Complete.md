@@ -1,5 +1,5 @@
 ---
-display_name: Capture Niagara Sim Cache Until Complete
+title: Capture Niagara Sim Cache Until Complete
 order: 3
 ---
 ## Navigation

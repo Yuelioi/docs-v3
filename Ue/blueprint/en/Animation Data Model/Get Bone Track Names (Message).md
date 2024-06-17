@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Track Names (Message)
+title: Get Bone Track Names (Message)
 order: 9
 ---
 ## Navigation

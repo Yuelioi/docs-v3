@@ -1,5 +1,5 @@
 ---
-display_name: Apply Nodal Offset
+title: Apply Nodal Offset
 order: 1
 ---
 ## Navigation

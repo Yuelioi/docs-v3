@@ -1,5 +1,5 @@
 ---
-display_name: Get Shortest Vertex Path
+title: Get Shortest Vertex Path
 order: 3
 ---
 ## Navigation

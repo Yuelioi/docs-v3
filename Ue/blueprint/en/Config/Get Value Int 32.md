@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Int 32
+title: Get Value Int 32
 order: 9
 ---
 ## Navigation

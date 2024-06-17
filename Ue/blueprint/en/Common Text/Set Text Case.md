@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Case
+title: Set Text Case
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Edge Valid
+title: Is Edge Valid
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Sphere Radius
+title: Get Scaled Sphere Radius
 order: 1
 ---
 ## Navigation

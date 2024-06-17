@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance to Stage Geometry
+title: Get Distance to Stage Geometry
 order: 1
 ---
 ## Navigation

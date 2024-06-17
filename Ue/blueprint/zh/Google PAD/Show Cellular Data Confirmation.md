@@ -1,5 +1,5 @@
 ---
-display_name: Show Cellular Data Confirmation
+title: Show Cellular Data Confirmation
 order: 15
 ---
 ## Navigation

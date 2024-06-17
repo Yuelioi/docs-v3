@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Vertical Box Slot
+title: Slot as Vertical Box Slot
 order: 11
 ---
 ## Navigation

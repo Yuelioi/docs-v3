@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Excluded
+title: Set Bone Excluded
 order: 40
 ---
 ## Navigation

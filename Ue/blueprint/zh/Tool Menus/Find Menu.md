@@ -1,5 +1,5 @@
 ---
-display_name: Find Menu
+title: Find Menu
 order: 13
 ---
 ## Navigation

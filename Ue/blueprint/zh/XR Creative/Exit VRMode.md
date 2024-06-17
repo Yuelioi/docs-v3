@@ -1,5 +1,5 @@
 ---
-display_name: Exit VRMode
+title: Exit VRMode
 order: 4
 ---
 ## Navigation

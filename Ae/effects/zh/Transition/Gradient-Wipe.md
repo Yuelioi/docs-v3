@@ -1,5 +1,5 @@
 ---
-display_name: 渐变擦除
+title: 渐变擦除
 order: 13
 ---
 

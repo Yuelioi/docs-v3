@@ -1,5 +1,5 @@
 ---
-display_name: Get Squared Distance To
+title: Get Squared Distance To
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Test Info
+title: Add Test Info
 order: 6
 ---
 ## Navigation

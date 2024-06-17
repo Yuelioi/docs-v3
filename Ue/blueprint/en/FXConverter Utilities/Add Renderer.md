@@ -1,5 +1,5 @@
 ---
-display_name: Add Renderer
+title: Add Renderer
 order: 5
 ---
 ## Navigation

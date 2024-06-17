@@ -1,5 +1,5 @@
 ---
-display_name: Tree
+title: Tree
 order: 34
 ---
 

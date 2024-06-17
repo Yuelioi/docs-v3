@@ -1,5 +1,5 @@
 ---
-display_name: Get Pose Names
+title: Get Pose Names
 order: 2
 ---
 ## Navigation

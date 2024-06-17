@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Instances
+title: Remove All Instances
 order: 8
 ---
 ## Navigation

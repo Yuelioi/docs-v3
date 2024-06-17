@@ -1,5 +1,5 @@
 ---
-display_name: Restore In-App Purchases2
+title: Restore In-App Purchases2
 order: 8
 ---
 ## Navigation

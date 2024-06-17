@@ -1,6 +1,6 @@
 ---
 order: 27
-display_name: 改变形状
+title: 改变形状
 ---
 
 # Reshape - 改变形状

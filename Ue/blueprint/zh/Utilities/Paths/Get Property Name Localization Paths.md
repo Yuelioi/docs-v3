@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Name Localization Paths
+title: Get Property Name Localization Paths
 order: 48
 ---
 ## Navigation

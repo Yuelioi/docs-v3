@@ -1,5 +1,5 @@
 ---
-display_name: Other-Math
+title: Other-Math
 order: 5
 ---
 

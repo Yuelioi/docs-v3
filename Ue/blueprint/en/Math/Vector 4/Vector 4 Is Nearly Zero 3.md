@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Is Nearly Zero 3
+title: Vector 4 Is Nearly Zero 3
 order: 21
 ---
 ## Navigation

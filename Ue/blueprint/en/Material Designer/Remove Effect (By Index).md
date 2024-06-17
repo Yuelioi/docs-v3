@@ -1,5 +1,5 @@
 ---
-display_name: Remove Effect (By Index)
+title: Remove Effect (By Index)
 order: 189
 ---
 ## Navigation

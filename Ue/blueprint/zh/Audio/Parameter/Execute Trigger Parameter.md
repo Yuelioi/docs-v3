@@ -1,5 +1,5 @@
 ---
-display_name: Execute Trigger Parameter
+title: Execute Trigger Parameter
 order: 4
 ---
 ## Navigation

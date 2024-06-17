@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Curve Data
+title: Remove All Curve Data
 order: 14
 ---
 ## Navigation

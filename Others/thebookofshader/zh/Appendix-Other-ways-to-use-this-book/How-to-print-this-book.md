@@ -1,5 +1,5 @@
 ---
-display_name: How-to-print-this-book
+title: How-to-print-this-book
 order: 4
 ---
 

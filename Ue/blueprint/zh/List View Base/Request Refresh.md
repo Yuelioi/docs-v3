@@ -1,5 +1,5 @@
 ---
-display_name: Request Refresh
+title: Request Refresh
 order: 4
 ---
 ## Navigation

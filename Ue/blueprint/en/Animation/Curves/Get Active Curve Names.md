@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Curve Names
+title: Get Active Curve Names
 order: 1
 ---
 ## Navigation

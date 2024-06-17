@@ -1,5 +1,5 @@
 ---
-display_name: Generate Bone Group Indices
+title: Generate Bone Group Indices
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: eval_bsdf
+title: eval_bsdf
 order: 9
 ---
 | On this page | * [Variadic arguments](#variadic-arguments) * [Examples](#examples) |

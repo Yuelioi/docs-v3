@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Activate Player Index
+title: Get Auto Activate Player Index
 order: 1
 ---
 ## Navigation

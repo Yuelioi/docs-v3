@@ -1,5 +1,5 @@
 ---
-display_name: Character Movement
+title: Character Movement
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Resolution
+title: Get Output Resolution
 order: 19
 ---
 ## Navigation

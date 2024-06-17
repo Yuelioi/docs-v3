@@ -1,5 +1,5 @@
 ---
-display_name: Create Triangle
+title: Create Triangle
 order: 10
 ---
 ## Navigation

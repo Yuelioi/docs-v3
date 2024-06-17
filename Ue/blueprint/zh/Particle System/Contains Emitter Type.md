@@ -1,5 +1,5 @@
 ---
-display_name: Contains Emitter Type
+title: Contains Emitter Type
 order: 1
 ---
 ## Navigation

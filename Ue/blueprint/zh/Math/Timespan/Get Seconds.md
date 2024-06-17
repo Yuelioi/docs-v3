@@ -1,5 +1,5 @@
 ---
-display_name: Get Seconds
+title: Get Seconds
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Difference
+title: Polygons Difference
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delay Until Next Tick
+title: Delay Until Next Tick
 order: 2
 ---
 ## Navigation

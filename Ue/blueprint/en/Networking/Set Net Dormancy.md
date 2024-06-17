@@ -1,5 +1,5 @@
 ---
-display_name: Set Net Dormancy
+title: Set Net Dormancy
 order: 11
 ---
 ## Navigation

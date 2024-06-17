@@ -1,5 +1,5 @@
 ---
-display_name: Find Quat Between Normals
+title: Find Quat Between Normals
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetMemorySize
+title: GetMemorySize
 order: 3
 ---
 ## Navigation

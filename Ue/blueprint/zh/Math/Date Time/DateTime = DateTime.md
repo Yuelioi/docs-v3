@@ -1,5 +1,5 @@
 ---
-display_name: DateTime = DateTime
+title: DateTime = DateTime
 order: 8
 ---
 ## Navigation

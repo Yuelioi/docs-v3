@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment in Viewport
+title: Get Alignment in Viewport
 order: 3
 ---
 ## Navigation

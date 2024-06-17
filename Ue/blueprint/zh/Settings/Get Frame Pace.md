@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Pace
+title: Get Frame Pace
 order: 40
 ---
 ## Navigation

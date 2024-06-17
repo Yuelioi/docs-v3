@@ -1,5 +1,5 @@
 ---
-display_name: Is Dedicated Server
+title: Is Dedicated Server
 order: 7
 ---
 ## Navigation

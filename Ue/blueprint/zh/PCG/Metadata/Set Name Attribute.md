@@ -1,5 +1,5 @@
 ---
-display_name: Set Name Attribute
+title: Set Name Attribute
 order: 84
 ---
 ## Navigation

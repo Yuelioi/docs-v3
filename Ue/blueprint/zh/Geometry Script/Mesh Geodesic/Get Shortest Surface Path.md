@@ -1,5 +1,5 @@
 ---
-display_name: Get Shortest Surface Path
+title: Get Shortest Surface Path
 order: 2
 ---
 ## Navigation

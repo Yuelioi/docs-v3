@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifiers by Interface
+title: Get Modifiers by Interface
 order: 30
 ---
 ## Navigation

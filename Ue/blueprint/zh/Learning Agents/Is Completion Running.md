@@ -1,5 +1,5 @@
 ---
-display_name: Is Completion Running
+title: Is Completion Running
 order: 139
 ---
 ## Navigation

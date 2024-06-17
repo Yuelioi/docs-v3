@@ -1,5 +1,5 @@
 ---
-display_name: choplocal
+title: choplocal
 order: 13
 ---
 | Since | 17.5 |

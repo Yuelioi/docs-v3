@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Pos X
+title: Get Node Pos X
 order: 36
 ---
 ## Navigation

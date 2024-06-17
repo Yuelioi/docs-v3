@@ -1,5 +1,5 @@
 ---
-display_name: On Particle Death
+title: On Particle Death
 order: 129
 ---
 ## Navigation

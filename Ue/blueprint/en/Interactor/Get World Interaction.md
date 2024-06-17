@@ -1,5 +1,5 @@
 ---
-display_name: Get World Interaction
+title: Get World Interaction
 order: 12
 ---
 ## Navigation

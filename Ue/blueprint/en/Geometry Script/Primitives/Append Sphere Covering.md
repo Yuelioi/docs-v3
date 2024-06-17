@@ -1,5 +1,5 @@
 ---
-display_name: Append Sphere Covering
+title: Append Sphere Covering
 order: 19
 ---
 ## Navigation

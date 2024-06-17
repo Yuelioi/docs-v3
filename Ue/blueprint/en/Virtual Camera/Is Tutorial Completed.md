@@ -1,5 +1,5 @@
 ---
-display_name: Is Tutorial Completed
+title: Is Tutorial Completed
 order: 16
 ---
 ## Navigation

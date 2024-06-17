@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Pose History Node
+title: Convert to Pose History Node
 order: 1
 ---
 ## Navigation

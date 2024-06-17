@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable (Vector4)
+title: Set Variable (Vector4)
 order: 7
 ---
 ## Navigation

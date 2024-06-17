@@ -1,5 +1,5 @@
 ---
-display_name: Set Occlusion Query Mode
+title: Set Occlusion Query Mode
 order: 58
 ---
 ## Navigation

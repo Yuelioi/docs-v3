@@ -1,5 +1,5 @@
 ---
-display_name: Make Controller
+title: Make Controller
 order: 170
 ---
 ## Navigation

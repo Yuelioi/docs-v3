@@ -1,5 +1,5 @@
 ---
-display_name: Get UIMenu Actor
+title: Get UIMenu Actor
 order: 17
 ---
 ## Navigation

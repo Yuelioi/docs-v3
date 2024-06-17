@@ -1,5 +1,5 @@
 ---
-display_name: Set Sides to Pad
+title: Set Sides to Pad
 order: 1
 ---
 ## Navigation

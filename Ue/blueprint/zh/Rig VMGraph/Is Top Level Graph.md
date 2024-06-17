@@ -1,5 +1,5 @@
 ---
-display_name: Is Top Level Graph
+title: Is Top Level Graph
 order: 30
 ---
 ## Navigation

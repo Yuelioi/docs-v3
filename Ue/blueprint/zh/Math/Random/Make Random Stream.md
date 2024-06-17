@@ -1,5 +1,5 @@
 ---
-display_name: Make Random Stream
+title: Make Random Stream
 order: 5
 ---
 ## Navigation

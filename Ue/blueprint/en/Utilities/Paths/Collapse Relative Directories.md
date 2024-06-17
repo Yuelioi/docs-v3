@@ -1,5 +1,5 @@
 ---
-display_name: Collapse Relative Directories
+title: Collapse Relative Directories
 order: 7
 ---
 ## Navigation

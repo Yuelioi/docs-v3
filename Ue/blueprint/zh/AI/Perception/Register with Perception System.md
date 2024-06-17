@@ -1,5 +1,5 @@
 ---
-display_name: Register with Perception System
+title: Register with Perception System
 order: 14
 ---
 ## Navigation

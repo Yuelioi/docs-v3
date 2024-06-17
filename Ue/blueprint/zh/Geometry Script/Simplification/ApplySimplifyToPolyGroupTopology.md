@@ -1,5 +1,5 @@
 ---
-display_name: ApplySimplifyToPolyGroupTopology
+title: ApplySimplifyToPolyGroupTopology
 order: 6
 ---
 ## Navigation

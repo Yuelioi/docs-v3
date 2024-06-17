@@ -1,5 +1,5 @@
 ---
-display_name: Get Return Node
+title: Get Return Node
 order: 24
 ---
 ## Navigation

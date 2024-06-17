@@ -1,5 +1,5 @@
 ---
-display_name: Set Suppress Viewport Transition Message
+title: Set Suppress Viewport Transition Message
 order: 19
 ---
 ## Navigation

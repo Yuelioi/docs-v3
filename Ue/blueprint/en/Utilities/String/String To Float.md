@@ -1,5 +1,5 @@
 ---
-display_name: String To Float
+title: String To Float
 order: 49
 ---
 ## Navigation

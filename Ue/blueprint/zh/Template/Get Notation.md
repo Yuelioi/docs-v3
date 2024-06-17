@@ -1,5 +1,5 @@
 ---
-display_name: Get Notation
+title: Get Notation
 order: 1
 ---
 ## Navigation

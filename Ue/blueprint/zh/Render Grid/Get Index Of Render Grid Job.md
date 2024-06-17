@@ -1,5 +1,5 @@
 ---
-display_name: Get Index Of Render Grid Job
+title: Get Index Of Render Grid Job
 order: 19
 ---
 ## Navigation

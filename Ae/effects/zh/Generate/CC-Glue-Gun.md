@@ -1,5 +1,5 @@
 ---
-display_name: CC胶枪
+title: CC胶枪
 order: 6
 ---
 

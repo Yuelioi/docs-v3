@@ -1,5 +1,5 @@
 ---
-display_name: Get SoundHandleSubsystem
+title: Get SoundHandleSubsystem
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get TickableWorldSubsystem
+title: Get TickableWorldSubsystem
 order: 74
 ---
 ## Navigation

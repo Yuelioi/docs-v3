@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Axes (Matrix)
+title: Get Scaled Axes (Matrix)
 order: 18
 ---
 ## Navigation

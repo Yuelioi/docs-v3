@@ -1,5 +1,5 @@
 ---
-display_name: To Integer64 (Byte)
+title: To Integer64 (Byte)
 order: 17
 ---
 ## Navigation

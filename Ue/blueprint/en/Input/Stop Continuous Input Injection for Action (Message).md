@@ -1,5 +1,5 @@
 ---
-display_name: Stop Continuous Input Injection for Action (Message)
+title: Stop Continuous Input Injection for Action (Message)
 order: 7
 ---
 ## Navigation

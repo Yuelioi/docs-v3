@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Pending Instances
+title: Get Num Pending Instances
 order: 5
 ---
 ## Navigation

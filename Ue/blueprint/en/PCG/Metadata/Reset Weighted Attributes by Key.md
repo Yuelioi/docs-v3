@@ -1,5 +1,5 @@
 ---
-display_name: Reset Weighted Attributes by Key
+title: Reset Weighted Attributes by Key
 order: 71
 ---
 ## Navigation

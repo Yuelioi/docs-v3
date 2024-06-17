@@ -1,5 +1,5 @@
 ---
-display_name: To Text (LinearColor)
+title: To Text (LinearColor)
 order: 42
 ---
 ## Navigation

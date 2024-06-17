@@ -1,5 +1,5 @@
 ---
-display_name: Show Object Dialog
+title: Show Object Dialog
 order: 1
 ---
 ## Navigation

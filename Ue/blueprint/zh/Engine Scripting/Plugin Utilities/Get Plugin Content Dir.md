@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Content Dir
+title: Get Plugin Content Dir
 order: 5
 ---
 ## Navigation

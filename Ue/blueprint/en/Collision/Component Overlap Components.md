@@ -1,5 +1,5 @@
 ---
-display_name: Component Overlap Components
+title: Component Overlap Components
 order: 17
 ---
 ## Navigation

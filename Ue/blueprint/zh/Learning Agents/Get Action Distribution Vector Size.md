@@ -1,5 +1,5 @@
 ---
-display_name: Get Action Distribution Vector Size
+title: Get Action Distribution Vector Size
 order: 24
 ---
 ## Navigation

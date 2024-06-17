@@ -1,5 +1,5 @@
 ---
-display_name: New Level
+title: New Level
 order: 32
 ---
 ## Navigation

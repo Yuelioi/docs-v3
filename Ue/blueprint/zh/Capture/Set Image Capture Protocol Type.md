@@ -1,5 +1,5 @@
 ---
-display_name: Set Image Capture Protocol Type
+title: Set Image Capture Protocol Type
 order: 11
 ---
 ## Navigation

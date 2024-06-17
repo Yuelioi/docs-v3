@@ -1,5 +1,5 @@
 ---
-display_name: Get Standard Renderable Components
+title: Get Standard Renderable Components
 order: 20
 ---
 ## Navigation

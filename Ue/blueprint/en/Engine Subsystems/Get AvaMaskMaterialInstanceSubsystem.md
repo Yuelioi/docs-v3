@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaMaskMaterialInstanceSubsystem
+title: Get AvaMaskMaterialInstanceSubsystem
 order: 7
 ---
 ## Navigation

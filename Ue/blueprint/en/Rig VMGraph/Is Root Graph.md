@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Graph
+title: Is Root Graph
 order: 29
 ---
 ## Navigation

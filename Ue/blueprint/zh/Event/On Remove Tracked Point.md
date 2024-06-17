@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Point
+title: On Remove Tracked Point
 order: 14
 ---
 ## Navigation

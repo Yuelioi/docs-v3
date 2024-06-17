@@ -1,5 +1,5 @@
 ---
-display_name: Import Bones
+title: Import Bones
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Orientation Force Min
+title: Set Orientation Force Min
 order: 39
 ---
 ## Navigation

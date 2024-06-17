@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Tangent
+title: Set Start Tangent
 order: 30
 ---
 ## Navigation

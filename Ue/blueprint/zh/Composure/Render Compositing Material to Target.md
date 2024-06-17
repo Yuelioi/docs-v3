@@ -1,5 +1,5 @@
 ---
-display_name: Render Compositing Material to Target
+title: Render Compositing Material to Target
 order: 7
 ---
 ## Navigation

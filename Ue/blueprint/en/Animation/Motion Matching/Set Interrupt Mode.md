@@ -1,5 +1,5 @@
 ---
-display_name: Set Interrupt Mode
+title: Set Interrupt Mode
 order: 6
 ---
 ## Navigation

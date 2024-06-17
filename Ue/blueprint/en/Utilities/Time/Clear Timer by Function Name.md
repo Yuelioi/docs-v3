@@ -1,5 +1,5 @@
 ---
-display_name: Clear Timer by Function Name
+title: Clear Timer by Function Name
 order: 1
 ---
 ## Navigation

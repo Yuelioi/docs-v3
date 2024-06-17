@@ -1,5 +1,5 @@
 ---
-display_name: On Proxy Exit
+title: On Proxy Exit
 order: 26
 ---
 ## Navigation

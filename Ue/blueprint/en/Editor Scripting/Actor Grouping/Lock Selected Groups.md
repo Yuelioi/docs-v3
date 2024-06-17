@@ -1,5 +1,5 @@
 ---
-display_name: Lock Selected Groups
+title: Lock Selected Groups
 order: 8
 ---
 ## Navigation

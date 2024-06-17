@@ -1,5 +1,5 @@
 ---
-display_name: Get Song Pos
+title: Get Song Pos
 order: 30
 ---
 ## Navigation

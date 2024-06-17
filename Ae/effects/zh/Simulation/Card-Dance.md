@@ -1,5 +1,5 @@
 ---
-display_name: 卡片动画
+title: 卡片动画
 order: 1
 ---
 

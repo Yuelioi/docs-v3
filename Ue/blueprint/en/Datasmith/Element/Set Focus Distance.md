@@ -1,5 +1,5 @@
 ---
-display_name: Set Focus Distance
+title: Set Focus Distance
 order: 114
 ---
 ## Navigation

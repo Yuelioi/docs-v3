@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Spline Segment Color
+title: Set Selected Spline Segment Color
 order: 5
 ---
 ## Navigation

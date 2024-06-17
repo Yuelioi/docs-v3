@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Zone Index
+title: Get Water Zone Index
 order: 20
 ---
 ## Navigation

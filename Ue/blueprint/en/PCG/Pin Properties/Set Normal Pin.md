@@ -1,5 +1,5 @@
 ---
-display_name: Set Normal Pin
+title: Set Normal Pin
 order: 7
 ---
 ## Navigation

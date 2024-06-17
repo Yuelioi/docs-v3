@@ -1,5 +1,5 @@
 ---
-display_name: Has Reward
+title: Has Reward
 order: 136
 ---
 ## Navigation

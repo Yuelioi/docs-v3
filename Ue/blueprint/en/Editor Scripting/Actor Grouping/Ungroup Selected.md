@@ -1,5 +1,5 @@
 ---
-display_name: Ungroup Selected
+title: Ungroup Selected
 order: 12
 ---
 ## Navigation

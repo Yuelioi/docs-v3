@@ -1,5 +1,5 @@
 ---
-display_name: Keys
+title: Keys
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Widget Deactivated
+title: On Widget Deactivated
 order: 34
 ---
 ## Navigation

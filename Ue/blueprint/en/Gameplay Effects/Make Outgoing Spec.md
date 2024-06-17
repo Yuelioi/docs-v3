@@ -1,5 +1,5 @@
 ---
-display_name: Make Outgoing Spec
+title: Make Outgoing Spec
 order: 11
 ---
 ## Navigation

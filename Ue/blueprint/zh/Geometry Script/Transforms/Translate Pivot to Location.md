@@ -1,5 +1,5 @@
 ---
-display_name: Translate Pivot to Location
+title: Translate Pivot to Location
 order: 9
 ---
 ## Navigation

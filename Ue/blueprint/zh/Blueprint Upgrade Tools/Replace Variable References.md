@@ -1,5 +1,5 @@
 ---
-display_name: Replace Variable References
+title: Replace Variable References
 order: 12
 ---
 ## Navigation

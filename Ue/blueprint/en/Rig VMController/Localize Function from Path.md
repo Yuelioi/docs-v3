@@ -1,5 +1,5 @@
 ---
-display_name: Localize Function from Path
+title: Localize Function from Path
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set AR Shared World Data
+title: Set AR Shared World Data
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Proportion Along Ray Observation
+title: Get Proportion Along Ray Observation
 order: 102
 ---
 ## Navigation

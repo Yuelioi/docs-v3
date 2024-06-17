@@ -1,5 +1,5 @@
 ---
-display_name: Custom-UI-Drawbot
+title: Custom-UI-Drawbot
 order: 1
 ---
 

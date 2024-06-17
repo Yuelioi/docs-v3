@@ -1,5 +1,5 @@
 ---
-display_name: Is Smart Link Enabled
+title: Is Smart Link Enabled
 order: 23
 ---
 ## Navigation

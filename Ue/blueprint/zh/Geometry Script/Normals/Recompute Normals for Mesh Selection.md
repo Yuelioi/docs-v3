@@ -1,5 +1,5 @@
 ---
-display_name: Recompute Normals for Mesh Selection
+title: Recompute Normals for Mesh Selection
 order: 9
 ---
 ## Navigation

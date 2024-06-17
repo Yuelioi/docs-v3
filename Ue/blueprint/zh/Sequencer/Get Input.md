@@ -1,5 +1,5 @@
 ---
-display_name: Get Input
+title: Get Input
 order: 3
 ---
 ## Navigation

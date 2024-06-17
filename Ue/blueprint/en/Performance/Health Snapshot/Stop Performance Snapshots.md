@@ -1,5 +1,5 @@
 ---
-display_name: Stop Performance Snapshots
+title: Stop Performance Snapshots
 order: 3
 ---
 ## Navigation

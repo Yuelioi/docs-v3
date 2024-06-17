@@ -1,5 +1,5 @@
 ---
-display_name: Get Effecting Button
+title: Get Effecting Button
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PreviousSplinePoint
+title: PreviousSplinePoint
 order: 65
 ---
 ## Navigation

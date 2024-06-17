@@ -1,5 +1,5 @@
 ---
-display_name: curlgxnoise2d
+title: curlgxnoise2d
 order: 3
 ---
 `vector  curlgxnoise2d(vector2 xy)`

@@ -1,5 +1,5 @@
 ---
-display_name: Start Clock
+title: Start Clock
 order: 7
 ---
 ## Navigation

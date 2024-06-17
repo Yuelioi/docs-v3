@@ -1,5 +1,5 @@
 ---
-display_name: Specify Location Action
+title: Specify Location Action
 order: 309
 ---
 ## Navigation

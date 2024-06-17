@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Acceleration
+title: Get Linear Acceleration
 order: 3
 ---
 ## Navigation

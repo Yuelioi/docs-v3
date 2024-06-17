@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Mutable Via Ref
+title: Set Bool Mutable Via Ref
 order: 53
 ---
 ## Navigation

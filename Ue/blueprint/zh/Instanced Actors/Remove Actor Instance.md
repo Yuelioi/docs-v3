@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor Instance
+title: Remove Actor Instance
 order: 4
 ---
 ## Navigation

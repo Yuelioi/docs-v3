@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Int
+title: Set Control Int
 order: 29
 ---
 ## Navigation

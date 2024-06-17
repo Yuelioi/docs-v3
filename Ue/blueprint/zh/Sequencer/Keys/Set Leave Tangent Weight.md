@@ -1,5 +1,5 @@
 ---
-display_name: Set Leave Tangent Weight
+title: Set Leave Tangent Weight
 order: 110
 ---
 ## Navigation

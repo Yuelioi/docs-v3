@@ -1,5 +1,5 @@
 ---
-display_name: texture3d
+title: texture3d
 order: 36
 ---
 `<type> texture3d(string filename, string channel, vector P, ...)`

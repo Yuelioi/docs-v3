@@ -1,5 +1,5 @@
 ---
-display_name: Set Letterbox Aspect Ratio
+title: Set Letterbox Aspect Ratio
 order: 13
 ---
 ## Navigation

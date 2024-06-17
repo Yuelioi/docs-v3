@@ -1,5 +1,5 @@
 ---
-display_name: Bump-maps
+title: Bump-maps
 order: 1
 ---
 

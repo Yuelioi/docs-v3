@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Class Path Attribute
+title: Get Soft Class Path Attribute
 order: 45
 ---
 ## Navigation

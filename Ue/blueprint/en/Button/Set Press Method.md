@@ -1,5 +1,5 @@
 ---
-display_name: Set Press Method
+title: Set Press Method
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertical Alignment
+title: Get Vertical Alignment
 order: 5
 ---
 ## Navigation

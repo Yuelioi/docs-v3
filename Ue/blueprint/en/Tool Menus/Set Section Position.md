@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Position
+title: Set Section Position
 order: 38
 ---
 ## Navigation

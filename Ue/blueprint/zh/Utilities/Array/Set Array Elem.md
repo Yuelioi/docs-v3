@@ -1,5 +1,5 @@
 ---
-display_name: Set Array Elem
+title: Set Array Elem
 order: 24
 ---
 ## Navigation

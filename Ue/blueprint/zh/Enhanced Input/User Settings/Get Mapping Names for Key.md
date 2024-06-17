@@ -1,5 +1,5 @@
 ---
-display_name: Get Mapping Names for Key
+title: Get Mapping Names for Key
 order: 14
 ---
 ## Navigation

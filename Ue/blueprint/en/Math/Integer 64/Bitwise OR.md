@@ -1,5 +1,5 @@
 ---
-display_name: Bitwise OR
+title: Bitwise OR
 order: 5
 ---
 ## Navigation

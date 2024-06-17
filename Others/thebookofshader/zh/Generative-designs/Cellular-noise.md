@@ -1,5 +1,5 @@
 ---
-display_name: Cellular-noise
+title: Cellular-noise
 order: 1
 ---
 

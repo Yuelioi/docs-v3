@@ -1,5 +1,5 @@
 ---
-display_name: Get Category
+title: Get Category
 order: 19
 ---
 ## Navigation

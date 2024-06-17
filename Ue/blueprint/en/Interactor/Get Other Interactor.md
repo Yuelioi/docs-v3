@@ -1,5 +1,5 @@
 ---
-display_name: Get Other Interactor
+title: Get Other Interactor
 order: 8
 ---
 ## Navigation

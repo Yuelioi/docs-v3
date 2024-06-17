@@ -1,5 +1,5 @@
 ---
-display_name: Get Recommended Resolution Scale
+title: Get Recommended Resolution Scale
 order: 55
 ---
 ## Navigation

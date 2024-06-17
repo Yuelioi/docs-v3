@@ -1,5 +1,5 @@
 ---
-display_name: Is Property Active
+title: Is Property Active
 order: 8
 ---
 ## Navigation

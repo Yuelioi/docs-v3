@@ -1,5 +1,5 @@
 ---
-display_name: geoself
+title: geoself
 order: 5
 ---
 `int  geoself()`

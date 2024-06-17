@@ -1,5 +1,5 @@
 ---
-display_name: Set Ortho Far Clip Plane
+title: Set Ortho Far Clip Plane
 order: 25
 ---
 ## Navigation

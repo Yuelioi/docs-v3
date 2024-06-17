@@ -1,5 +1,5 @@
 ---
-display_name: Is Multiple Of
+title: Is Multiple Of
 order: 7
 ---
 ## Navigation

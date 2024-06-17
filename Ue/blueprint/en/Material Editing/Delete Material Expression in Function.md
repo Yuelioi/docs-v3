@@ -1,5 +1,5 @@
 ---
-display_name: Delete Material Expression in Function
+title: Delete Material Expression in Function
 order: 8
 ---
 ## Navigation

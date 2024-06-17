@@ -1,5 +1,5 @@
 ---
-display_name: Auto Size
+title: Auto Size
 order: 3
 ---
 ## Navigation

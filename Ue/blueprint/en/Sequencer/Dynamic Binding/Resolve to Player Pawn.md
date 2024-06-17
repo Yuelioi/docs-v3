@@ -1,5 +1,5 @@
 ---
-display_name: Resolve to Player Pawn
+title: Resolve to Player Pawn
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Asterisk
+title: Asterisk
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Async Editor Delay
+title: Async Editor Delay
 order: 1
 ---
 ## Navigation

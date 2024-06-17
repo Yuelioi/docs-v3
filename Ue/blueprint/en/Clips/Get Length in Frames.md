@@ -1,5 +1,5 @@
 ---
-display_name: Get Length in Frames
+title: Get Length in Frames
 order: 6
 ---
 ## Navigation

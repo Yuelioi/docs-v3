@@ -1,5 +1,5 @@
 ---
-display_name: ComputePolyGroupsFromAngleThreshold
+title: ComputePolyGroupsFromAngleThreshold
 order: 2
 ---
 ## Navigation

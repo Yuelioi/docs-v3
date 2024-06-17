@@ -1,5 +1,5 @@
 ---
-display_name: Can Scale Element
+title: Can Scale Element
 order: 12
 ---
 ## Navigation

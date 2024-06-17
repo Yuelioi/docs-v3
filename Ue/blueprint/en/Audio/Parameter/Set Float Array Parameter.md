@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Array Parameter
+title: Set Float Array Parameter
 order: 18
 ---
 ## Navigation

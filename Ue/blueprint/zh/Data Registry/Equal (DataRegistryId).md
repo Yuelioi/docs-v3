@@ -1,5 +1,5 @@
 ---
-display_name: Equal (DataRegistryId)
+title: Equal (DataRegistryId)
 order: 2
 ---
 ## Navigation

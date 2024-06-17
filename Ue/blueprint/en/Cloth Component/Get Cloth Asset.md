@@ -1,5 +1,5 @@
 ---
-display_name: Get Cloth Asset
+title: Get Cloth Asset
 order: 3
 ---
 ## Navigation

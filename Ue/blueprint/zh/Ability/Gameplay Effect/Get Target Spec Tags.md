@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Spec Tags
+title: Get Target Spec Tags
 order: 29
 ---
 ## Navigation

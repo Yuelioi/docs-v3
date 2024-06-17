@@ -1,5 +1,5 @@
 ---
-display_name: Send Extension Event
+title: Send Extension Event
 order: 5
 ---
 ## Navigation

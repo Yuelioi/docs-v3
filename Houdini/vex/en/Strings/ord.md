@@ -1,5 +1,5 @@
 ---
-display_name: ord
+title: ord
 order: 22
 ---
 `int  ord(string value)`

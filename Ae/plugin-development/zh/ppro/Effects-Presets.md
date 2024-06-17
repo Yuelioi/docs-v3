@@ -1,5 +1,5 @@
 ---
-display_name: Effects-Presets
+title: Effects-Presets
 order: 4
 ---
 

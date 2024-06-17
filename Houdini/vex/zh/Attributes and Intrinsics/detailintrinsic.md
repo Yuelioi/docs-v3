@@ -1,5 +1,5 @@
 ---
-display_name: detailintrinsic
+title: detailintrinsic
 order: 19
 ---
 Intrinsic values are similar to attributes, but are computed on-demand by Houdini rather than stored.

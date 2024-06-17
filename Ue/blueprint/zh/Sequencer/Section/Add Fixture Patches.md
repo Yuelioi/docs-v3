@@ -1,5 +1,5 @@
 ---
-display_name: Add Fixture Patches
+title: Add Fixture Patches
 order: 3
 ---
 ## Navigation

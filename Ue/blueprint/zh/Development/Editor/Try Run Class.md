@@ -1,5 +1,5 @@
 ---
-display_name: Try Run Class
+title: Try Run Class
 order: 35
 ---
 ## Navigation

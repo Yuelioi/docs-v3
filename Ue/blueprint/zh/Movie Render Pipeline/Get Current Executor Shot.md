@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Executor Shot
+title: Get Current Executor Shot
 order: 26
 ---
 ## Navigation

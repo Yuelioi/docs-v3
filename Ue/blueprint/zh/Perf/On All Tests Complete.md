@@ -1,5 +1,5 @@
 ---
-display_name: On All Tests Complete
+title: On All Tests Complete
 order: 18
 ---
 ## Navigation

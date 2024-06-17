@@ -1,5 +1,5 @@
 ---
-display_name: New Blank Map
+title: New Blank Map
 order: 7
 ---
 ## Navigation

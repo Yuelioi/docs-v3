@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Grid
+title: Get Render Grid
 order: 15
 ---
 ## Navigation

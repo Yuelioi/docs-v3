@@ -1,5 +1,5 @@
 ---
-display_name: Take High Res Screenshot
+title: Take High Res Screenshot
 order: 38
 ---
 ## Navigation

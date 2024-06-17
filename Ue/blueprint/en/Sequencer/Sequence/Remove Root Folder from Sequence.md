@@ -1,5 +1,5 @@
 ---
-display_name: Remove Root Folder from Sequence
+title: Remove Root Folder from Sequence
 order: 75
 ---
 ## Navigation

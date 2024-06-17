@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket Transform
+title: Get Socket Transform
 order: 46
 ---
 ## Navigation

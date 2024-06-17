@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Event Request Settings
+title: Set Collision Event Request Settings
 order: 9
 ---
 ## Navigation

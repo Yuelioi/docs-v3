@@ -1,5 +1,5 @@
 ---
-display_name: Normalized (Quat)
+title: Normalized (Quat)
 order: 21
 ---
 ## Navigation

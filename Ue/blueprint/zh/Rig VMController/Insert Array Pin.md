@@ -1,5 +1,5 @@
 ---
-display_name: Insert Array Pin
+title: Insert Array Pin
 order: 61
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Exporter Version
+title: Get Exporter Version
 order: 26
 ---
 ## Navigation

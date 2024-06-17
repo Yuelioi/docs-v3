@@ -1,5 +1,5 @@
 ---
-display_name: Get Show Transient Objects
+title: Get Show Transient Objects
 order: 9
 ---
 ## Navigation

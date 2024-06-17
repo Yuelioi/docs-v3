@@ -1,5 +1,5 @@
 ---
-display_name: EnablePolyGroups
+title: EnablePolyGroups
 order: 8
 ---
 ## Navigation

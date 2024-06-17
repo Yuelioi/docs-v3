@@ -1,5 +1,5 @@
 ---
-display_name: Add Generic Camera Lens Effect
+title: Add Generic Camera Lens Effect
 order: 3
 ---
 ## Navigation

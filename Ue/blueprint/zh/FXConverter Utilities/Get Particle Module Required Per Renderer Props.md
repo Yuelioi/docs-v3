@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Required Per Renderer Props
+title: Get Particle Module Required Per Renderer Props
 order: 87
 ---
 ## Navigation

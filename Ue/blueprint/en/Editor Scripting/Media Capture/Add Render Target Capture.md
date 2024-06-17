@@ -1,5 +1,5 @@
 ---
-display_name: Add Render Target Capture
+title: Add Render Target Capture
 order: 1
 ---
 ## Navigation

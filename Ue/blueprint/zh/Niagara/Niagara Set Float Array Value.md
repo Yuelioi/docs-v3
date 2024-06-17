@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Float Array Value
+title: Niagara Set Float Array Value
 order: 58
 ---
 ## Navigation

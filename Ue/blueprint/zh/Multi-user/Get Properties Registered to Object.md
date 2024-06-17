@@ -1,5 +1,5 @@
 ---
-display_name: Get Properties Registered to Object
+title: Get Properties Registered to Object
 order: 9
 ---
 ## Navigation

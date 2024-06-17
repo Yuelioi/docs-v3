@@ -1,5 +1,5 @@
 ---
-display_name: Unbind Cloth from Leader Pose Component
+title: Unbind Cloth from Leader Pose Component
 order: 11
 ---
 ## Navigation

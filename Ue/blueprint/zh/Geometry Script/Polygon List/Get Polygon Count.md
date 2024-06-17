@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Count
+title: Get Polygon Count
 order: 9
 ---
 ## Navigation

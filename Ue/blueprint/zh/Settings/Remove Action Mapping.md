@@ -1,5 +1,5 @@
 ---
-display_name: Remove Action Mapping
+title: Remove Action Mapping
 order: 91
 ---
 ## Navigation

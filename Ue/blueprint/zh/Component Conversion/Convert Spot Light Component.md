@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spot Light Component
+title: Convert Spot Light Component
 order: 14
 ---
 ## Navigation

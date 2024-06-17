@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Offset in Retarget Pose
+title: Set Root Offset in Retarget Pose
 order: 25
 ---
 ## Navigation

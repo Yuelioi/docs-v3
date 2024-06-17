@@ -1,5 +1,5 @@
 ---
-display_name: Make Continuous Action
+title: Make Continuous Action
 order: 168
 ---
 ## Navigation

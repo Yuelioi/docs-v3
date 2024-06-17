@@ -1,5 +1,5 @@
 ---
-display_name: Start Audio Bus
+title: Start Audio Bus
 order: 3
 ---
 ## Navigation

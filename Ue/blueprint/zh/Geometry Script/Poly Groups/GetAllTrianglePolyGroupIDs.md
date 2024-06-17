@@ -1,5 +1,5 @@
 ---
-display_name: GetAllTrianglePolyGroupIDs
+title: GetAllTrianglePolyGroupIDs
 order: 9
 ---
 ## Navigation

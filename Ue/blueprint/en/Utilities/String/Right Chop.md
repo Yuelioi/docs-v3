@@ -1,5 +1,5 @@
 ---
-display_name: Right Chop
+title: Right Chop
 order: 39
 ---
 ## Navigation

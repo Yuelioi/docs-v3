@@ -1,5 +1,5 @@
 ---
-display_name: Mark as Tested (Message)
+title: Mark as Tested (Message)
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is CRSString Valid
+title: Is CRSString Valid
 order: 3
 ---
 ## Navigation

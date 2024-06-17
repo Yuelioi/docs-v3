@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Multiple Connections
+title: Set Allow Multiple Connections
 order: 6
 ---
 ## Navigation

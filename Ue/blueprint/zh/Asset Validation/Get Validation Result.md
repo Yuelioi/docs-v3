@@ -1,5 +1,5 @@
 ---
-display_name: Get Validation Result
+title: Get Validation Result
 order: 4
 ---
 ## Navigation

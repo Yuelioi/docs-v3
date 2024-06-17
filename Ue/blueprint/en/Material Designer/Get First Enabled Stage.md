@@ -1,5 +1,5 @@
 ---
-display_name: Get First Enabled Stage
+title: Get First Enabled Stage
 order: 72
 ---
 ## Navigation

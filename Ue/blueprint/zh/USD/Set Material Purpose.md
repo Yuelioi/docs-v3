@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Purpose
+title: Set Material Purpose
 order: 15
 ---
 ## Navigation

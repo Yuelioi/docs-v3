@@ -1,5 +1,5 @@
 ---
-display_name: Expose Function
+title: Expose Function
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Index Of Retarget Op
+title: Get Index Of Retarget Op
 order: 4
 ---
 ## Navigation

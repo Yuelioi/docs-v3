@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Rotation Min
+title: Get Range Rotation Min
 order: 37
 ---
 ## Navigation

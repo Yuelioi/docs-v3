@@ -1,5 +1,5 @@
 ---
-display_name: Convert Skeletal Mesh to Static Mesh
+title: Convert Skeletal Mesh to Static Mesh
 order: 2
 ---
 ## Navigation

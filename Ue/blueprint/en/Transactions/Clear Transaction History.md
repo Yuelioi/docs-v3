@@ -1,5 +1,5 @@
 ---
-display_name: Clear Transaction History
+title: Clear Transaction History
 order: 3
 ---
 ## Navigation

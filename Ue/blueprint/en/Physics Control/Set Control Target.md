@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target
+title: Set Control Target
 order: 113
 ---
 ## Navigation

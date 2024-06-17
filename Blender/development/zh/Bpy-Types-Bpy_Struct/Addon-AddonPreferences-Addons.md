@@ -1,5 +1,5 @@
 ---
-display_name: Addon AddonPreferences Addons
+title: Addon AddonPreferences Addons
 order: 1
 ---
 

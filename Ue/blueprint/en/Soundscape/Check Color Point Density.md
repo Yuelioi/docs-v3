@@ -1,5 +1,5 @@
 ---
-display_name: Check Color Point Density
+title: Check Color Point Density
 order: 3
 ---
 ## Navigation

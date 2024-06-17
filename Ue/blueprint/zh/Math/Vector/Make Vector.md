@@ -1,5 +1,5 @@
 ---
-display_name: Make Vector
+title: Make Vector
 order: 38
 ---
 ## Navigation

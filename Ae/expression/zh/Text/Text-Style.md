@@ -1,5 +1,5 @@
 ---
-display_name: Text-Style
+title: Text-Style
 order: 2
 ---
 

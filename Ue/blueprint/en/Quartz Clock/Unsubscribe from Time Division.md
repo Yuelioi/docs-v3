@@ -1,5 +1,5 @@
 ---
-display_name: Unsubscribe from Time Division
+title: Unsubscribe from Time Division
 order: 12
 ---
 ## Navigation

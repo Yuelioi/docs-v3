@@ -1,5 +1,5 @@
 ---
-display_name: Update Spline Data at Index
+title: Update Spline Data at Index
 order: 14
 ---
 ## Navigation

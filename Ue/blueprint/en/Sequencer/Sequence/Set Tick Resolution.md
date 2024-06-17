@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick Resolution
+title: Set Tick Resolution
 order: 103
 ---
 ## Navigation

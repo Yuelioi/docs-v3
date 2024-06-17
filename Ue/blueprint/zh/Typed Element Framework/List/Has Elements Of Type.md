@@ -1,5 +1,5 @@
 ---
-display_name: Has Elements Of Type
+title: Has Elements Of Type
 order: 12
 ---
 ## Navigation

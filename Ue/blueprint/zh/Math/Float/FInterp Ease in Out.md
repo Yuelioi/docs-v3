@@ -1,5 +1,5 @@
 ---
-display_name: FInterp Ease in Out
+title: FInterp Ease in Out
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: slice
+title: slice
 order: 16
 ---
 

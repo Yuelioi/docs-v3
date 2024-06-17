@@ -1,5 +1,5 @@
 ---
-display_name: Get Blackboard
+title: Get Blackboard
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Modular Vehicle
+title: Modular Vehicle
 order: 4
 ---
 ## Navigation

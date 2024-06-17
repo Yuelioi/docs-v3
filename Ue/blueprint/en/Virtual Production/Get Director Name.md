@@ -1,5 +1,5 @@
 ---
-display_name: Get Director Name
+title: Get Director Name
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Days
+title: Get Days
 order: 8
 ---
 ## Navigation

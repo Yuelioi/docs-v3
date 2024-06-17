@@ -1,5 +1,5 @@
 ---
-display_name: Term Bodies Below
+title: Term Bodies Below
 order: 61
 ---
 ## Navigation

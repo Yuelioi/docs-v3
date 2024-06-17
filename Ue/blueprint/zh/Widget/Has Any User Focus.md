@@ -1,5 +1,5 @@
 ---
-display_name: Has Any User Focus
+title: Has Any User Focus
 order: 2
 ---
 ## Navigation

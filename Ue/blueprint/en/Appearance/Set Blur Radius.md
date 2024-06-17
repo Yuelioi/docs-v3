@@ -1,5 +1,5 @@
 ---
-display_name: Set Blur Radius
+title: Set Blur Radius
 order: 19
 ---
 ## Navigation

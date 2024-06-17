@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Render Thread to Game Thread Average Latency
+title: Get Audio Render Thread to Game Thread Average Latency
 order: 1
 ---
 ## Navigation

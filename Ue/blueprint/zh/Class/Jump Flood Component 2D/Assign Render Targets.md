@@ -1,5 +1,5 @@
 ---
-display_name: Assign Render Targets
+title: Assign Render Targets
 order: 1
 ---
 ## Navigation

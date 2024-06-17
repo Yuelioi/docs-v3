@@ -1,5 +1,5 @@
 ---
-display_name: Set Forced LOD
+title: Set Forced LOD
 order: 27
 ---
 ## Navigation

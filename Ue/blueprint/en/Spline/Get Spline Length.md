@@ -1,5 +1,5 @@
 ---
-display_name: Get Spline Length
+title: Get Spline Length
 order: 60
 ---
 ## Navigation

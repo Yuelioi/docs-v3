@@ -1,5 +1,5 @@
 ---
-display_name: Get Named Canvas
+title: Get Named Canvas
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Text Is Transient
+title: Text Is Transient
 order: 31
 ---
 ## Navigation

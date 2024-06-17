@@ -1,5 +1,5 @@
 ---
-display_name: Clear Procedural Foliage Components
+title: Clear Procedural Foliage Components
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parse Into Array
+title: Parse Into Array
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Vector Array
+title: Niagara Set Vector Array
 order: 76
 ---
 ## Navigation

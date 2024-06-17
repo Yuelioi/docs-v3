@@ -1,5 +1,5 @@
 ---
-display_name: Append Voronoi Diagram 2D
+title: Append Voronoi Diagram 2D
 order: 27
 ---
 ## Navigation

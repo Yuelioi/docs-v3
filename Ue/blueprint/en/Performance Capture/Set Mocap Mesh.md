@@ -1,5 +1,5 @@
 ---
-display_name: Set Mocap Mesh
+title: Set Mocap Mesh
 order: 9
 ---
 ## Navigation

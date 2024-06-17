@@ -1,5 +1,5 @@
 ---
-display_name: Batch Update Instances Transforms
+title: Batch Update Instances Transforms
 order: 4
 ---
 ## Navigation

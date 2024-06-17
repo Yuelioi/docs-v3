@@ -1,6 +1,6 @@
 ---
 order: 5
-display_name: 组 Group
+title: 组 Group
 ---
 
 # 组 Group

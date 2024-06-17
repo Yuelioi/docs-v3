@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Timeline Length
+title: Get Scaled Timeline Length
 order: 8
 ---
 ## Navigation

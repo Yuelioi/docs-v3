@@ -1,5 +1,5 @@
 ---
-display_name: Source
+title: Source
 order: 79
 ---
 ## Navigation

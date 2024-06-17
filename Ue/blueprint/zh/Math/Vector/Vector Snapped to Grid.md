@@ -1,5 +1,5 @@
 ---
-display_name: Vector Snapped to Grid
+title: Vector Snapped to Grid
 order: 89
 ---
 ## Navigation

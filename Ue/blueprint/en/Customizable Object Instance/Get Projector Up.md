@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Up
+title: Get Projector Up
 order: 35
 ---
 ## Navigation

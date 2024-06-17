@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Duration
+title: Get Frame Duration
 order: 11
 ---
 ## Navigation

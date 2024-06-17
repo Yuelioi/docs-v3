@@ -1,5 +1,5 @@
 ---
-display_name: mask_bsdf
+title: mask_bsdf
 order: 15
 ---
 `bsdf  mask_bsdf(bsdf b, int mask)`

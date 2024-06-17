@@ -1,5 +1,5 @@
 ---
-display_name: NextLens
+title: NextLens
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Wait Begin Delegate
+title: On Wait Begin Delegate
 order: 183
 ---
 ## Navigation

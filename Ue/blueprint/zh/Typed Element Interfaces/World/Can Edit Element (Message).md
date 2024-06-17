@@ -1,5 +1,5 @@
 ---
-display_name: Can Edit Element (Message)
+title: Can Edit Element (Message)
 order: 5
 ---
 ## Navigation

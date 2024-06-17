@@ -1,5 +1,5 @@
 ---
-display_name: Can Play Source
+title: Can Play Source
 order: 2
 ---
 ## Navigation

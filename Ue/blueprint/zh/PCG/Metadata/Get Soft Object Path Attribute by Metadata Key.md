@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Object Path Attribute by Metadata Key
+title: Get Soft Object Path Attribute by Metadata Key
 order: 46
 ---
 ## Navigation

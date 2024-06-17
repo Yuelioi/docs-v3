@@ -1,5 +1,5 @@
 ---
-display_name: Have Active Tool
+title: Have Active Tool
 order: 6
 ---
 ## Navigation

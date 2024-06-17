@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Paths (Message)
+title: Get Assets by Paths (Message)
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Optional Valid Observation
+title: Make Optional Valid Observation
 order: 212
 ---
 ## Navigation

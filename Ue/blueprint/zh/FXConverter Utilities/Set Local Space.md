@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Space
+title: Set Local Space
 order: 121
 ---
 ## Navigation

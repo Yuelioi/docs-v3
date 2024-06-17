@@ -1,5 +1,5 @@
 ---
-display_name: Invert Selection
+title: Invert Selection
 order: 28
 ---
 ## Navigation

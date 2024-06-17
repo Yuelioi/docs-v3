@@ -1,5 +1,5 @@
 ---
-display_name: Get Midi Event Info
+title: Get Midi Event Info
 order: 4
 ---
 ## Navigation

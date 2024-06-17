@@ -1,5 +1,5 @@
 ---
-display_name: Ensure Shortest Arc To (Quat)
+title: Ensure Shortest Arc To (Quat)
 order: 7
 ---
 ## Navigation

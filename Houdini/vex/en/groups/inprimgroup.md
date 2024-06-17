@@ -1,5 +1,5 @@
 ---
-display_name: inprimgroup
+title: inprimgroup
 order: 6
 ---
 `int  inprimgroup(<geometry>geometry, string groupname, int primnum)`

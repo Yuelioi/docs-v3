@@ -1,5 +1,5 @@
 ---
-display_name: Reload Packages
+title: Reload Packages
 order: 9
 ---
 ## Navigation

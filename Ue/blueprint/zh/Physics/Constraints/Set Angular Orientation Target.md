@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Orientation Target
+title: Set Angular Orientation Target
 order: 37
 ---
 ## Navigation

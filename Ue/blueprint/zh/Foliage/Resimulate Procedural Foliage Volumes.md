@@ -1,5 +1,5 @@
 ---
-display_name: Resimulate Procedural Foliage Volumes
+title: Resimulate Procedural Foliage Volumes
 order: 10
 ---
 ## Navigation

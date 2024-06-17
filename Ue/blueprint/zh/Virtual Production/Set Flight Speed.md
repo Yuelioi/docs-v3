@@ -1,5 +1,5 @@
 ---
-display_name: Set Flight Speed
+title: Set Flight Speed
 order: 9
 ---
 ## Navigation

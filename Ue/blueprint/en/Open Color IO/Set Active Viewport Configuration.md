@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Viewport Configuration
+title: Set Active Viewport Configuration
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcimport
+title: pcimport
 order: 14
 ---
 This function is only valid while looping with `pciterate` or `pcunshaded`.

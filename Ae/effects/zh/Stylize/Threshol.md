@@ -1,5 +1,5 @@
 ---
-display_name: 阈值
+title: 阈值
 order: 25
 ---
 

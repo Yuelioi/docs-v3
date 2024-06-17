@@ -1,5 +1,5 @@
 ---
-display_name: Get Layer Color
+title: Get Layer Color
 order: 6
 ---
 ## Navigation

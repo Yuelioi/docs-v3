@@ -1,5 +1,5 @@
 ---
-display_name: Set Turn Generator Class
+title: Set Turn Generator Class
 order: 30
 ---
 ## Navigation

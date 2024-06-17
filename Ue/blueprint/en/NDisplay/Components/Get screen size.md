@@ -1,5 +1,5 @@
 ---
-display_name: Get screen size
+title: Get screen size
 order: 1
 ---
 ## Navigation

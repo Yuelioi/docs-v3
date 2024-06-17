@@ -1,5 +1,5 @@
 ---
-display_name: Apply External Strain
+title: Apply External Strain
 order: 5
 ---
 ## Navigation

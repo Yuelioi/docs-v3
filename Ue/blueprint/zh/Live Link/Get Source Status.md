@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Status
+title: Get Source Status
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_drawmode
+title: usd_drawmode
 order: 36
 ---
 | Since | 17.5 |

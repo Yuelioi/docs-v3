@@ -1,5 +1,5 @@
 ---
-display_name: Remove Smart Object
+title: Remove Smart Object
 order: 43
 ---
 ## Navigation

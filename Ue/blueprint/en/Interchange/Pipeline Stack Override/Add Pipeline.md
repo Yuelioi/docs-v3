@@ -1,5 +1,5 @@
 ---
-display_name: Add Pipeline
+title: Add Pipeline
 order: 2
 ---
 ## Navigation

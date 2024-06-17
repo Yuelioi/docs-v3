@@ -1,5 +1,5 @@
 ---
-display_name: Set Database to Search
+title: Set Database to Search
 order: 4
 ---
 ## Navigation

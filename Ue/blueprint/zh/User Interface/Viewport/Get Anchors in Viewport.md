@@ -1,5 +1,5 @@
 ---
-display_name: Get Anchors in Viewport
+title: Get Anchors in Viewport
 order: 4
 ---
 ## Navigation

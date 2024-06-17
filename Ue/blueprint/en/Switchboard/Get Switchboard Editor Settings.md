@@ -1,5 +1,5 @@
 ---
-display_name: Get Switchboard Editor Settings
+title: Get Switchboard Editor Settings
 order: 1
 ---
 ## Navigation

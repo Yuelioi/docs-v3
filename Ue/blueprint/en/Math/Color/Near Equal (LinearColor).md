@@ -1,5 +1,5 @@
 ---
-display_name: Near Equal (LinearColor)
+title: Near Equal (LinearColor)
 order: 28
 ---
 ## Navigation

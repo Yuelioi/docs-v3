@@ -1,5 +1,5 @@
 ---
-display_name: Geographic To Projected
+title: Geographic To Projected
 order: 8
 ---
 ## Navigation

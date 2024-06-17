@@ -1,5 +1,5 @@
 ---
-display_name: Detach Subobject
+title: Detach Subobject
 order: 13
 ---
 ## Navigation

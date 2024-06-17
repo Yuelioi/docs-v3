@@ -1,5 +1,5 @@
 ---
-display_name: Decrease Speed Scalar
+title: Decrease Speed Scalar
 order: 1
 ---
 ## Navigation

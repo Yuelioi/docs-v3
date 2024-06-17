@@ -1,5 +1,5 @@
 ---
-display_name: Rebuild Collision
+title: Rebuild Collision
 order: 26
 ---
 ## Navigation

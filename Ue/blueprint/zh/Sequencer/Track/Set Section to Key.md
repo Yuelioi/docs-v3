@@ -1,5 +1,5 @@
 ---
-display_name: Set Section to Key
+title: Set Section to Key
 order: 24
 ---
 ## Navigation

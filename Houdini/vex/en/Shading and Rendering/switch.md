@@ -1,5 +1,5 @@
 ---
-display_name: switch
+title: switch
 order: 76
 ---
 `bsdf  switch(bsdf direct, bsdf indirect)`

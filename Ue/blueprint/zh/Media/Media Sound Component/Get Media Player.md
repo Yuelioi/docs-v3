@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Player
+title: Get Media Player
 order: 2
 ---
 ## Navigation

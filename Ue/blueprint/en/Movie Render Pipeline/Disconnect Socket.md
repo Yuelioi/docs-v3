@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect Socket
+title: Disconnect Socket
 order: 10
 ---
 ## Navigation

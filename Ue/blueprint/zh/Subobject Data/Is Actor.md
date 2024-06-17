@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor
+title: Is Actor
 order: 14
 ---
 ## Navigation

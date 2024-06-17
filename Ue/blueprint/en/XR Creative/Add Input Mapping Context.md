@@ -1,5 +1,5 @@
 ---
-display_name: Add Input Mapping Context
+title: Add Input Mapping Context
 order: 1
 ---
 ## Navigation

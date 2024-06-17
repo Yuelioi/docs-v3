@@ -1,5 +1,5 @@
 ---
-display_name: usd_getpointinstancebounds
+title: usd_getpointinstancebounds
 order: 48
 ---
 | Since | 18.0 |

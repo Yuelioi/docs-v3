@@ -1,5 +1,5 @@
 ---
-display_name: Get Solver at Index
+title: Get Solver at Index
 order: 29
 ---
 ## Navigation

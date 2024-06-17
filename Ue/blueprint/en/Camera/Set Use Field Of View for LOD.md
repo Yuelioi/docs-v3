@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Field Of View for LOD
+title: Set Use Field Of View for LOD
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Transform Parameter
+title: Remove Transform Parameter
 order: 65
 ---
 ## Navigation

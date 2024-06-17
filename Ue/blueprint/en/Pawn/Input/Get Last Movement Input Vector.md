@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Movement Input Vector
+title: Get Last Movement Input Vector
 order: 6
 ---
 ## Navigation

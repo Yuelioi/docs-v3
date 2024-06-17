@@ -1,5 +1,5 @@
 ---
-display_name: Set Live Link Subject Enabled
+title: Set Live Link Subject Enabled
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Parameter
+title: Add Parameter
 order: 2
 ---
 ## Navigation

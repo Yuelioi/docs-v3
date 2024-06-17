@@ -1,5 +1,5 @@
 ---
-display_name: Editor Set Game View
+title: Editor Set Game View
 order: 13
 ---
 ## Navigation

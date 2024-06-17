@@ -1,5 +1,5 @@
 ---
-display_name: Get Style for Name by Class
+title: Get Style for Name by Class
 order: 43
 ---
 ## Navigation

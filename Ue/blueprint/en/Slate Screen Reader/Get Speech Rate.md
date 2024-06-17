@@ -1,5 +1,5 @@
 ---
-display_name: Get Speech Rate
+title: Get Speech Rate
 order: 5
 ---
 ## Navigation

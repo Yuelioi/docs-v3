@@ -1,5 +1,5 @@
 ---
-display_name: Apply Simplify to Triangle Count
+title: Apply Simplify to Triangle Count
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is External Variable
+title: Is External Variable
 order: 6
 ---
 ## Navigation

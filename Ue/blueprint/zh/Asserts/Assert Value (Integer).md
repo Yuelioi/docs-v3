@@ -1,5 +1,5 @@
 ---
-display_name: Assert Value (Integer)
+title: Assert Value (Integer)
 order: 35
 ---
 ## Navigation

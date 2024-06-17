@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Tags
+title: Get Asset Tags
 order: 15
 ---
 ## Navigation

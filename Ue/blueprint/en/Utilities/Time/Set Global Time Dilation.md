@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Time Dilation
+title: Set Global Time Dilation
 order: 26
 ---
 ## Navigation

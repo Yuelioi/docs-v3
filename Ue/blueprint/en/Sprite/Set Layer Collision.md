@@ -1,5 +1,5 @@
 ---
-display_name: Set Layer Collision
+title: Set Layer Collision
 order: 30
 ---
 ## Navigation

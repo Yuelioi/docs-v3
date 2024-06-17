@@ -1,5 +1,5 @@
 ---
-display_name: Reset Children Cache
+title: Reset Children Cache
 order: 13
 ---
 ## Navigation

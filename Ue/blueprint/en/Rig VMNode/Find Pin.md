@@ -1,5 +1,5 @@
 ---
-display_name: Find Pin
+title: Find Pin
 order: 5
 ---
 ## Navigation

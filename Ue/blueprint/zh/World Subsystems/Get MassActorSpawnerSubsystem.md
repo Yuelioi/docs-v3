@@ -1,5 +1,5 @@
 ---
-display_name: Get MassActorSpawnerSubsystem
+title: Get MassActorSpawnerSubsystem
 order: 38
 ---
 ## Navigation

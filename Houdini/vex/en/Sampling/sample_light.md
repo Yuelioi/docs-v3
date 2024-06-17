@@ -1,5 +1,5 @@
 ---
-display_name: sample_light
+title: sample_light
 order: 21
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

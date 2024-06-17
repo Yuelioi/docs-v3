@@ -1,5 +1,5 @@
 ---
-display_name: Is Visible
+title: Is Visible
 order: 3
 ---
 ## Navigation

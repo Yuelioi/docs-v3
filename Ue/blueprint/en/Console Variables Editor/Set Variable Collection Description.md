@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable Collection Description
+title: Set Variable Collection Description
 order: 16
 ---
 ## Navigation

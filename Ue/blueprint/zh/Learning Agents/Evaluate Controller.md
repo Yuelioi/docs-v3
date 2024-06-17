@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Controller
+title: Evaluate Controller
 order: 17
 ---
 ## Navigation

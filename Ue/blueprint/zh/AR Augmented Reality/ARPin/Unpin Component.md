@@ -1,5 +1,5 @@
 ---
-display_name: Unpin Component
+title: Unpin Component
 order: 12
 ---
 ## Navigation

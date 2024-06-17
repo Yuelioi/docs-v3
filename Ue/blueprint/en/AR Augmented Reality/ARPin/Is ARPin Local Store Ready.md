@@ -1,5 +1,5 @@
 ---
-display_name: Is ARPin Local Store Ready
+title: Is ARPin Local Store Ready
 order: 2
 ---
 ## Navigation

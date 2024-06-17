@@ -1,5 +1,5 @@
 ---
-display_name: Set Replicate Movement
+title: Set Replicate Movement
 order: 12
 ---
 ## Navigation

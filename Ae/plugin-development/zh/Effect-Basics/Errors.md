@@ -1,5 +1,5 @@
 ---
-display_name: Errors
+title: Errors
 order: 4
 ---
 

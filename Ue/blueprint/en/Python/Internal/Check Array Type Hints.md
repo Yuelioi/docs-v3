@@ -1,5 +1,5 @@
 ---
-display_name: Check Array Type Hints
+title: Check Array Type Hints
 order: 8
 ---
 ## Navigation

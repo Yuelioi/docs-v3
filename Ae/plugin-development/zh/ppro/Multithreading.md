@@ -1,5 +1,5 @@
 ---
-display_name: Multithreading
+title: Multithreading
 order: 5
 ---
 

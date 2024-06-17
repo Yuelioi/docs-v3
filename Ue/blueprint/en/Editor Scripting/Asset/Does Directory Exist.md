@@ -1,5 +1,5 @@
 ---
-display_name: Does Directory Exist
+title: Does Directory Exist
 order: 14
 ---
 ## Navigation

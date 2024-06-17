@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable
+title: Set Console Variable
 order: 11
 ---
 ## Navigation

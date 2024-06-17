@@ -1,5 +1,5 @@
 ---
-display_name: Get NetworkPhysicsSystem
+title: Get NetworkPhysicsSystem
 order: 61
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Submix Effect Chain Override
+title: Set Submix Effect Chain Override
 order: 24
 ---
 ## Navigation

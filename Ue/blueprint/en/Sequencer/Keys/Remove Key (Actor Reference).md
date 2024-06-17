@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Actor Reference)
+title: Remove Key (Actor Reference)
 order: 90
 ---
 ## Navigation

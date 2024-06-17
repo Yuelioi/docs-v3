@@ -1,5 +1,5 @@
 ---
-display_name: degrees
+title: degrees
 order: 4
 ---
 `float  degrees(float num_in_rads)`

@@ -1,5 +1,5 @@
 ---
-display_name: Receive Packets
+title: Receive Packets
 order: 47
 ---
 ## Navigation

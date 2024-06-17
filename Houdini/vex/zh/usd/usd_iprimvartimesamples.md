@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvartimesamples
+title: usd_iprimvartimesamples
 order: 59
 ---
 | Since | 19.0 |

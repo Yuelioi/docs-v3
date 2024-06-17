@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color to Points in Sphere
+title: Apply Color to Points in Sphere
 order: 6
 ---
 ## Navigation

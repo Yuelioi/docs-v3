@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Role
+title: Get Remote Role
 order: 5
 ---
 ## Navigation

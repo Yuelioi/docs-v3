@@ -1,5 +1,5 @@
 ---
-display_name: getobjectname
+title: getobjectname
 order: 25
 ---
 | Context(s) | [shading](../contexts/shading.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Localization Paths
+title: Get Game Localization Paths
 order: 41
 ---
 ## Navigation

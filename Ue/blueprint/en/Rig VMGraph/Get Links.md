@@ -1,5 +1,5 @@
 ---
-display_name: Get Links
+title: Get Links
 order: 16
 ---
 ## Navigation

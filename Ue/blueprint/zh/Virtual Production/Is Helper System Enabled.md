@@ -1,5 +1,5 @@
 ---
-display_name: Is Helper System Enabled
+title: Is Helper System Enabled
 order: 29
 ---
 ## Navigation

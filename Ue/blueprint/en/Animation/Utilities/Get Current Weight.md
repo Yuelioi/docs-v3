@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Weight
+title: Get Current Weight
 order: 10
 ---
 ## Navigation

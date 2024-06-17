@@ -1,5 +1,5 @@
 ---
-display_name: Is Locally Viewed
+title: Is Locally Viewed
 order: 15
 ---
 ## Navigation

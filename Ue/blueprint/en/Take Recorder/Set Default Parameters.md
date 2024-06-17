@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Parameters
+title: Set Default Parameters
 order: 20
 ---
 ## Navigation

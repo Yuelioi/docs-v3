@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Scale Uniform Min
+title: Set Range Scale Uniform Min
 order: 51
 ---
 ## Navigation

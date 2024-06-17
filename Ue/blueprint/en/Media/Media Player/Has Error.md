@@ -1,5 +1,5 @@
 ---
-display_name: Has Error
+title: Has Error
 order: 37
 ---
 ## Navigation

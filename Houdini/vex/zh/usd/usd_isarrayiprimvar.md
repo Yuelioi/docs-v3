@@ -1,5 +1,5 @@
 ---
-display_name: usd_isarrayiprimvar
+title: usd_isarrayiprimvar
 order: 64
 ---
 | Since | 19.0 |

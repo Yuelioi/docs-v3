@@ -1,5 +1,5 @@
 ---
-display_name: Set Can Affect Navigation Generation
+title: Set Can Affect Navigation Generation
 order: 37
 ---
 ## Navigation

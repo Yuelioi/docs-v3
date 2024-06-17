@@ -1,5 +1,5 @@
 ---
-display_name: Get Tempo
+title: Get Tempo
 order: 34
 ---
 ## Navigation

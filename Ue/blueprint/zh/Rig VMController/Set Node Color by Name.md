@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Color by Name
+title: Set Node Color by Name
 order: 110
 ---
 ## Navigation

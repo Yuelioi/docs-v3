@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation
+title: Set Animation
 order: 9
 ---
 ## Navigation

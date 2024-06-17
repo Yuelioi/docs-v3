@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Control Shape Transform
+title: Get Global Control Shape Transform
 order: 36
 ---
 ## Navigation

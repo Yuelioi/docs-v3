@@ -1,5 +1,5 @@
 ---
-display_name: Set Reuse Identical Assets
+title: Set Reuse Identical Assets
 order: 20
 ---
 ## Navigation

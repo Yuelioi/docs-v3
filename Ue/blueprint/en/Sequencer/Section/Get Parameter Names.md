@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter Names
+title: Get Parameter Names
 order: 38
 ---
 ## Navigation

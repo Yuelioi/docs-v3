@@ -1,5 +1,5 @@
 ---
-display_name: CC颜色中和剂
+title: CC颜色中和剂
 order: 7
 ---
 

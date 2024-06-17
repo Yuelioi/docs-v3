@@ -1,5 +1,5 @@
 ---
-display_name: Turn at Rate
+title: Turn at Rate
 order: 30
 ---
 ## Navigation

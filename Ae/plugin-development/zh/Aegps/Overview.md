@@ -1,5 +1,5 @@
 ---
-display_name: Overview
+title: Overview
 order: 7
 ---
 

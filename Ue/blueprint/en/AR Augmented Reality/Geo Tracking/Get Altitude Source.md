@@ -1,5 +1,5 @@
 ---
-display_name: Get Altitude Source
+title: Get Altitude Source
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Mark as Tested
+title: Mark as Tested
 order: 6
 ---
 ## Navigation

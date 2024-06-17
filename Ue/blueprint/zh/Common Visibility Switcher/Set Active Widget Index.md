@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Widget Index
+title: Set Active Widget Index
 order: 8
 ---
 ## Navigation

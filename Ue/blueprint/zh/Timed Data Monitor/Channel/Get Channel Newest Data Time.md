@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Newest Data Time
+title: Get Channel Newest Data Time
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Uniform Remesh
+title: Apply Uniform Remesh
 order: 5
 ---
 ## Navigation

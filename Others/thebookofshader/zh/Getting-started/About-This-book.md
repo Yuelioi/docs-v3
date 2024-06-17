@@ -1,5 +1,5 @@
 ---
-display_name: About-This-book
+title: About-This-book
 order: 1
 ---
 

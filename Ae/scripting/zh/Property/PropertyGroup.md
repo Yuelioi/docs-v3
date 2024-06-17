@@ -1,6 +1,6 @@
 ---
 order: 4
-display_name: PropertyGroup
+title: PropertyGroup
 ---
 
 # PropertyGroup 属性组

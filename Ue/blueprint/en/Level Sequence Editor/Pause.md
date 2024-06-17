@@ -1,5 +1,5 @@
 ---
-display_name: Pause
+title: Pause
 order: 47
 ---
 ## Navigation

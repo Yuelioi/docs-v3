@@ -1,5 +1,5 @@
 ---
-display_name: Get Physical Height
+title: Get Physical Height
 order: 6
 ---
 ## Navigation

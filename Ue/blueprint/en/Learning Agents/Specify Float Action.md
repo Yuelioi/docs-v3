@@ -1,5 +1,5 @@
 ---
-display_name: Specify Float Action
+title: Specify Float Action
 order: 301
 ---
 ## Navigation

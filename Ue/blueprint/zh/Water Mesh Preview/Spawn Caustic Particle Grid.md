@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Caustic Particle Grid
+title: Spawn Caustic Particle Grid
 order: 1
 ---
 ## Navigation

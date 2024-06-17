@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Path Tracing Output
+title: Refresh Path Tracing Output
 order: 78
 ---
 ## Navigation

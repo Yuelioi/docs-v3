@@ -1,5 +1,5 @@
 ---
-display_name: Montage Jump to Section
+title: Montage Jump to Section
 order: 15
 ---
 ## Navigation

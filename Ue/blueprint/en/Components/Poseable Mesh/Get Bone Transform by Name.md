@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Transform by Name
+title: Get Bone Transform by Name
 order: 5
 ---
 ## Navigation

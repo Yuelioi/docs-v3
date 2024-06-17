@@ -1,5 +1,5 @@
 ---
-display_name: Fast-Intro
+title: Fast-Intro
 order: 1
 ---
 

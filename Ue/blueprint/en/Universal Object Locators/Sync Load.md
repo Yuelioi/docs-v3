@@ -1,5 +1,5 @@
 ---
-display_name: Sync Load
+title: Sync Load
 order: 4
 ---
 ## Navigation

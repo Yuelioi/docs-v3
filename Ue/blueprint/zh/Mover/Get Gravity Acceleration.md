@@ -1,5 +1,5 @@
 ---
-display_name: Get Gravity Acceleration
+title: Get Gravity Acceleration
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Sort Brushes
+title: Sort Brushes
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets in Collection
+title: Get Assets in Collection
 order: 11
 ---
 ## Navigation

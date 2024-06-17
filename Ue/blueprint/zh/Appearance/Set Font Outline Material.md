@@ -1,5 +1,5 @@
 ---
-display_name: Set Font Outline Material
+title: Set Font Outline Material
 order: 50
 ---
 ## Navigation

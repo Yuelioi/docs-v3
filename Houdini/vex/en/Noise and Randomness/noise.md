@@ -1,5 +1,5 @@
 ---
-display_name: noise
+title: noise
 order: 23
 ---
 `float  noise(float pos)`

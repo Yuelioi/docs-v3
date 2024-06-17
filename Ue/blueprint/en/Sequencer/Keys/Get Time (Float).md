@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Float)
+title: Get Time (Float)
 order: 61
 ---
 ## Navigation

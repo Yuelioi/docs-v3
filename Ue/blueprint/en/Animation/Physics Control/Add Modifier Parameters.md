@@ -1,5 +1,5 @@
 ---
-display_name: Add Modifier Parameters
+title: Add Modifier Parameters
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Class
+title: Get Class
 order: 12
 ---
 ## Navigation

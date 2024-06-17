@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraint Binding ID
+title: Get Constraint Binding ID
 order: 23
 ---
 ## Navigation

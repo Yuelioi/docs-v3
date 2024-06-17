@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Activate
+title: Set Auto Activate
 order: 18
 ---
 ## Navigation

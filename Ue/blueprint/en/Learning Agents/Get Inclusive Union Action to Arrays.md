@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Union Action to Arrays
+title: Get Inclusive Union Action to Arrays
 order: 77
 ---
 ## Navigation

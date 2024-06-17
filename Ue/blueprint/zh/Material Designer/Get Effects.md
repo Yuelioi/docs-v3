@@ -1,5 +1,5 @@
 ---
-display_name: Get Effects
+title: Get Effects
 order: 71
 ---
 ## Navigation

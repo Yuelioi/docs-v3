@@ -1,5 +1,5 @@
 ---
-display_name: Open Stage Editor
+title: Open Stage Editor
 order: 3
 ---
 ## Navigation

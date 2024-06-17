@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning VCam Component
+title: Get Owning VCam Component
 order: 36
 ---
 ## Navigation

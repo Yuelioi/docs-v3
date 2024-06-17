@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvarindices
+title: usd_iprimvarindices
 order: 54
 ---
 | Since | 19.0 |

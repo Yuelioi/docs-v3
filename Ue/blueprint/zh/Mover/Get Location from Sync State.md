@@ -1,5 +1,5 @@
 ---
-display_name: Get Location from Sync State
+title: Get Location from Sync State
 order: 12
 ---
 ## Navigation

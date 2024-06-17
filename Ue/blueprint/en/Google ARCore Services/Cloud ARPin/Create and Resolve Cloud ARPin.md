@@ -1,5 +1,5 @@
 ---
-display_name: Create and Resolve Cloud ARPin
+title: Create and Resolve Cloud ARPin
 order: 4
 ---
 ## Navigation

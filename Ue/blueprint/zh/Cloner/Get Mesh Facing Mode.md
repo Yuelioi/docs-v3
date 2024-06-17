@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Facing Mode
+title: Get Mesh Facing Mode
 order: 25
 ---
 ## Navigation

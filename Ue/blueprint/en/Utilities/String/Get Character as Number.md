@@ -1,5 +1,5 @@
 ---
-display_name: Get Character as Number
+title: Get Character as Number
 order: 20
 ---
 ## Navigation

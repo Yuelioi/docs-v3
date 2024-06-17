@@ -1,5 +1,5 @@
 ---
-display_name: Rename Socket
+title: Rename Socket
 order: 9
 ---
 ## Navigation

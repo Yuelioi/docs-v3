@@ -1,5 +1,5 @@
 ---
-display_name: Set Projection Mode
+title: Set Projection Mode
 order: 29
 ---
 ## Navigation

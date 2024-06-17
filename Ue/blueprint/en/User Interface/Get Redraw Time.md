@@ -1,5 +1,5 @@
 ---
-display_name: Get Redraw Time
+title: Get Redraw Time
 order: 25
 ---
 ## Navigation

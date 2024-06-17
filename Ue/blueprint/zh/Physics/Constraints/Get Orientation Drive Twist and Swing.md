@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Drive Twist and Swing
+title: Get Orientation Drive Twist and Swing
 order: 30
 ---
 ## Navigation

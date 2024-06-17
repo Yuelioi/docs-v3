@@ -1,5 +1,5 @@
 ---
-display_name: Get Localized Cultures
+title: Get Localized Cultures
 order: 11
 ---
 ## Navigation

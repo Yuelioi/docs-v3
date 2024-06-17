@@ -1,5 +1,5 @@
 ---
-display_name: Get Full Name
+title: Get Full Name
 order: 5
 ---
 ## Navigation

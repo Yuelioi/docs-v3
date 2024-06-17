@@ -1,5 +1,5 @@
 ---
-display_name: Import File as Texture 2D
+title: Import File as Texture 2D
 order: 31
 ---
 ## Navigation

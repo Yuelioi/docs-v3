@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Number
+title: Get Take Number
 order: 10
 ---
 ## Navigation

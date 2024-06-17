@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Gameplay Effect Level
+title: Set Active Gameplay Effect Level
 order: 19
 ---
 ## Navigation

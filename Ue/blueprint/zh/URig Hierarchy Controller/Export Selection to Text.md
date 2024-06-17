@@ -1,5 +1,5 @@
 ---
-display_name: Export Selection to Text
+title: Export Selection to Text
 order: 12
 ---
 ## Navigation

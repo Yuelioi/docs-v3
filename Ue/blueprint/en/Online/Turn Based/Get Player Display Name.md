@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Display Name
+title: Get Player Display Name
 order: 6
 ---
 ## Navigation

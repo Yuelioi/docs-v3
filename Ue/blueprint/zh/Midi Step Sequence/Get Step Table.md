@@ -1,5 +1,5 @@
 ---
-display_name: Get Step Table
+title: Get Step Table
 order: 4
 ---
 ## Navigation

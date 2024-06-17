@@ -1,5 +1,5 @@
 ---
-display_name: VR色差
+title: VR色差
 order: 2
 ---
 

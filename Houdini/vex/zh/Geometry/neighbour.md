@@ -1,5 +1,5 @@
 ---
-display_name: neighbour
+title: neighbour
 order: 14
 ---
 This function lets you walk the points connected to a point (separated by a single edge). To get a list of all connected points at once, use [neighbours](neighbours.html "Returns an array of the point numbers of the neighbours of a point.").

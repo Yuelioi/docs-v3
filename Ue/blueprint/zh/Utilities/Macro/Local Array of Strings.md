@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Strings
+title: Local Array of Strings
 order: 8
 ---
 ## Navigation

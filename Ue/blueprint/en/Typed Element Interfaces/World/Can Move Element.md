@@ -1,5 +1,5 @@
 ---
-display_name: Can Move Element
+title: Can Move Element
 order: 8
 ---
 ## Navigation

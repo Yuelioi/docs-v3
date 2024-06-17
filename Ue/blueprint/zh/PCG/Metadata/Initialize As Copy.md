@@ -1,5 +1,5 @@
 ---
-display_name: Initialize As Copy
+title: Initialize As Copy
 order: 63
 ---
 ## Navigation

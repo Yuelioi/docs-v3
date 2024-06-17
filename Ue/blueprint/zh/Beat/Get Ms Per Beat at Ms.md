@@ -1,5 +1,5 @@
 ---
-display_name: Get Ms Per Beat at Ms
+title: Get Ms Per Beat at Ms
 order: 3
 ---
 ## Navigation

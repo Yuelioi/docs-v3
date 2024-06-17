@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbbox_size
+title: usd_getbbox_size
 order: 46
 ---
 | Since | 18.0 |

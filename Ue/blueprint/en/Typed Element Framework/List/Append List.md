@@ -1,5 +1,5 @@
 ---
-display_name: Append List
+title: Append List
 order: 2
 ---
 ## Navigation

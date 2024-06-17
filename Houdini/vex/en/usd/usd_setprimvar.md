@@ -1,5 +1,5 @@
 ---
-display_name: usd_setprimvar
+title: usd_setprimvar
 order: 132
 ---
 | Since | 18.0 |

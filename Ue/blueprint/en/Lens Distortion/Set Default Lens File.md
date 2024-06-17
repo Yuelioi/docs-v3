@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Lens File
+title: Set Default Lens File
 order: 4
 ---
 ## Navigation

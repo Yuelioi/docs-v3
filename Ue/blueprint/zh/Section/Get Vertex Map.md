@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Map
+title: Get Vertex Map
 order: 11
 ---
 ## Navigation

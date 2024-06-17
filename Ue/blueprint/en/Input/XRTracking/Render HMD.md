@@ -1,5 +1,5 @@
 ---
-display_name: Render HMD
+title: Render HMD
 order: 16
 ---
 ## Navigation

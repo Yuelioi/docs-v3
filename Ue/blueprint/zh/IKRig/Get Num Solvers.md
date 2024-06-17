@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Solvers
+title: Get Num Solvers
 order: 19
 ---
 ## Navigation

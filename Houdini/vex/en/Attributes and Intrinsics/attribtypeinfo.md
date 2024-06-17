@@ -1,5 +1,5 @@
 ---
-display_name: attribtypeinfo
+title: attribtypeinfo
 order: 12
 ---
 `string  attribtypeinfo(<geometry>geometry, string attribclass, string attribute_name)`

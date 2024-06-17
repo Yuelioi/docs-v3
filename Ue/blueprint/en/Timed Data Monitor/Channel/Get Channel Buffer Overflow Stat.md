@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Buffer Overflow Stat
+title: Get Channel Buffer Overflow Stat
 order: 2
 ---
 ## Navigation

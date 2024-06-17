@@ -1,5 +1,5 @@
 ---
-display_name: Set Arrow Color (Linear Color)
+title: Set Arrow Color (Linear Color)
 order: 1
 ---
 ## Navigation

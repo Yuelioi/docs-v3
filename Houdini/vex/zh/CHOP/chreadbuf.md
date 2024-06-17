@@ -1,5 +1,5 @@
 ---
-display_name: chreadbuf
+title: chreadbuf
 order: 17
 ---
 | Context(s) | [chop](../contexts/chop.html) |

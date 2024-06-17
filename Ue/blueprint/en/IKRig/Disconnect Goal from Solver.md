@@ -1,5 +1,5 @@
 ---
-display_name: Disconnect Goal from Solver
+title: Disconnect Goal from Solver
 order: 8
 ---
 ## Navigation

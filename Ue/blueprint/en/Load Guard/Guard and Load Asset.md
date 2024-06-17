@@ -1,5 +1,5 @@
 ---
-display_name: Guard and Load Asset
+title: Guard and Load Asset
 order: 1
 ---
 ## Navigation

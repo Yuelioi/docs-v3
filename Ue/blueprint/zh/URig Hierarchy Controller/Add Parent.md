@@ -1,5 +1,5 @@
 ---
-display_name: Add Parent
+title: Add Parent
 order: 6
 ---
 ## Navigation

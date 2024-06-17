@@ -1,5 +1,5 @@
 ---
-display_name: Landscape Export Weightmap to RenderTarget
+title: Landscape Export Weightmap to RenderTarget
 order: 7
 ---
 ## Navigation

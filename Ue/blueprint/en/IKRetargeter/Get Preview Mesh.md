@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview Mesh
+title: Get Preview Mesh
 order: 10
 ---
 ## Navigation

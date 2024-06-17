@@ -1,5 +1,5 @@
 ---
-display_name: Draw Texture Simple
+title: Draw Texture Simple
 order: 10
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: 点控制
+title: 点控制
 ---
 
 # Point Control - 点控制

@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Version Number
+title: Resolve Version Number
 order: 67
 ---
 ## Navigation

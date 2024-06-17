@@ -1,5 +1,5 @@
 ---
-display_name: Add Array Node from Object Path
+title: Add Array Node from Object Path
 order: 2
 ---
 ## Navigation

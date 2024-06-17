@@ -1,5 +1,5 @@
 ---
-display_name: Can Play Url
+title: Can Play Url
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enable HMD
+title: Enable HMD
 order: 1
 ---
 ## Navigation

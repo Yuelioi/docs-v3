@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Type Object
+title: Set Value Type Object
 order: 32
 ---
 ## Navigation

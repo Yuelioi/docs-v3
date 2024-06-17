@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector 2DParameter
+title: Set Vector 2DParameter
 order: 39
 ---
 ## Navigation

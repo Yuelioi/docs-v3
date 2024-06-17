@@ -1,5 +1,5 @@
 ---
-display_name: Ability Target Data from Locations
+title: Ability Target Data from Locations
 order: 4
 ---
 ## Navigation

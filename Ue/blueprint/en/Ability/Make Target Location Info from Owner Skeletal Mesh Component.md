@@ -1,5 +1,5 @@
 ---
-display_name: Make Target Location Info from Owner Skeletal Mesh Component
+title: Make Target Location Info from Owner Skeletal Mesh Component
 order: 56
 ---
 ## Navigation

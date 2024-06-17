@@ -1,5 +1,5 @@
 ---
-display_name: Unpause Timer by Function Name
+title: Unpause Timer by Function Name
 order: 31
 ---
 ## Navigation

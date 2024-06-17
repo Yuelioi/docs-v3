@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Color
+title: Get Node Color
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Area Class
+title: Set Area Class
 order: 36
 ---
 ## Navigation

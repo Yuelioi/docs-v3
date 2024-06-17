@@ -1,5 +1,5 @@
 ---
-display_name: Get CommonUIVisibilitySubsystem
+title: Get CommonUIVisibilitySubsystem
 order: 3
 ---
 ## Navigation

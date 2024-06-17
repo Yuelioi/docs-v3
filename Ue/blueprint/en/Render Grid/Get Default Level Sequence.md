@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Level Sequence
+title: Get Default Level Sequence
 order: 11
 ---
 ## Navigation

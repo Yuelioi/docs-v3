@@ -1,5 +1,5 @@
 ---
-display_name: isotropic
+title: isotropic
 order: 14
 ---
 `bsdf  isotropic(...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid AIRotation
+title: Is Valid AIRotation
 order: 21
 ---
 ## Navigation

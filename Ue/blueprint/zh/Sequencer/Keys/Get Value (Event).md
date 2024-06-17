@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Event)
+title: Get Value (Event)
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 高通 低通
+title: 高通 低通
 order: 5
 ---
 

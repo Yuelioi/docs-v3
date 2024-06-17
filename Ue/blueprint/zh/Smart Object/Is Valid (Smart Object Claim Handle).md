@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid (Smart Object Claim Handle)
+title: Is Valid (Smart Object Claim Handle)
 order: 36
 ---
 ## Navigation

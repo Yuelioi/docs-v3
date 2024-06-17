@@ -1,5 +1,5 @@
 ---
-display_name: Switch On
+title: Switch On
 order: 10
 ---
 ## Navigation

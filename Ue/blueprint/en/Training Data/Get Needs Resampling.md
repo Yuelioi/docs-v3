@@ -1,5 +1,5 @@
 ---
-display_name: Get Needs Resampling
+title: Get Needs Resampling
 order: 2
 ---
 ## Navigation

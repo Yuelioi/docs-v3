@@ -1,5 +1,5 @@
 ---
-display_name: Add Expected Plain Log Error
+title: Add Expected Plain Log Error
 order: 3
 ---
 ## Navigation

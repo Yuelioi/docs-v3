@@ -1,5 +1,5 @@
 ---
-display_name: Local Float (double-precision)
+title: Local Float (double-precision)
 order: 15
 ---
 ## Navigation

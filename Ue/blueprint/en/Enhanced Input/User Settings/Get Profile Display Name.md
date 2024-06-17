@@ -1,5 +1,5 @@
 ---
-display_name: Get Profile Display Name
+title: Get Profile Display Name
 order: 16
 ---
 ## Navigation

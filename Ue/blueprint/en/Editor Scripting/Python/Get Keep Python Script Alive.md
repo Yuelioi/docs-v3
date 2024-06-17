@@ -1,5 +1,5 @@
 ---
-display_name: Get Keep Python Script Alive
+title: Get Keep Python Script Alive
 order: 1
 ---
 ## Navigation

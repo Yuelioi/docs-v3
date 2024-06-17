@@ -1,5 +1,5 @@
 ---
-display_name: Animation to Texture
+title: Animation to Texture
 order: 1
 ---
 ## Navigation

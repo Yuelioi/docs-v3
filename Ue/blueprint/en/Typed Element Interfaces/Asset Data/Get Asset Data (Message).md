@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Data (Message)
+title: Get Asset Data (Message)
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Map Opened
+title: On Map Opened
 order: 45
 ---
 ## Navigation

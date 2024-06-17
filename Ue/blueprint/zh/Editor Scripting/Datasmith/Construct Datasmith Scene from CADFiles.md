@@ -1,5 +1,5 @@
 ---
-display_name: Construct Datasmith Scene from CADFiles
+title: Construct Datasmith Scene from CADFiles
 order: 1
 ---
 ## Navigation

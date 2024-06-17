@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Offset Faces
+title: Apply Mesh Offset Faces
 order: 6
 ---
 ## Navigation

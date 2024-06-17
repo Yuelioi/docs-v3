@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Desired Age Tick Delta
+title: Set Max Desired Age Tick Delta
 order: 24
 ---
 ## Navigation

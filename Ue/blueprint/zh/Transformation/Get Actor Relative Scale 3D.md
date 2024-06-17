@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Relative Scale 3D
+title: Get Actor Relative Scale 3D
 order: 26
 ---
 ## Navigation

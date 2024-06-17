@@ -1,5 +1,5 @@
 ---
-display_name: Get Codec
+title: Get Codec
 order: 9
 ---
 ## Navigation

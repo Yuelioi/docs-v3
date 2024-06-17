@@ -1,5 +1,5 @@
 ---
-display_name: Get Serialized Editing Mode
+title: Get Serialized Editing Mode
 order: 3
 ---
 ## Navigation

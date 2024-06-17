@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Track Index
+title: Get Bone Track Index
 order: 8
 ---
 ## Navigation

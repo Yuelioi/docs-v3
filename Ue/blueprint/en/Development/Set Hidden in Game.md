@@ -1,5 +1,5 @@
 ---
-display_name: Set Hidden in Game
+title: Set Hidden in Game
 order: 54
 ---
 ## Navigation

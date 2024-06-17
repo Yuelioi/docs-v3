@@ -1,5 +1,5 @@
 ---
-display_name: Report Error
+title: Report Error
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC扭曲器
+title: CC扭曲器
 order: 10
 ---
 

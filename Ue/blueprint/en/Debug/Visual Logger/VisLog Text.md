@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Text
+title: VisLog Text
 order: 13
 ---
 ## Navigation

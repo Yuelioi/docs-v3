@@ -1,5 +1,5 @@
 ---
-display_name: Reset Teleport Mode
+title: Reset Teleport Mode
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get User Settings
+title: Get User Settings
 order: 63
 ---
 ## Navigation

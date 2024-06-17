@@ -1,5 +1,5 @@
 ---
-display_name: Get Passthrough Material Update Component
+title: Get Passthrough Material Update Component
 order: 2
 ---
 ## Navigation

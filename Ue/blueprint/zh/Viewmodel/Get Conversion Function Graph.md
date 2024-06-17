@@ -1,5 +1,5 @@
 ---
-display_name: Get Conversion Function Graph
+title: Get Conversion Function Graph
 order: 13
 ---
 ## Navigation

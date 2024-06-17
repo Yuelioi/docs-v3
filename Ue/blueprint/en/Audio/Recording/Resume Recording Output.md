@@ -1,5 +1,5 @@
 ---
-display_name: Resume Recording Output
+title: Resume Recording Output
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Record Event with Attributes
+title: Record Event with Attributes
 order: 12
 ---
 ## Navigation

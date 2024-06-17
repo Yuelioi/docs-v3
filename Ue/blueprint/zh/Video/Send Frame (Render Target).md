@@ -1,5 +1,5 @@
 ---
-display_name: Send Frame (Render Target)
+title: Send Frame (Render Target)
 order: 10
 ---
 ## Navigation

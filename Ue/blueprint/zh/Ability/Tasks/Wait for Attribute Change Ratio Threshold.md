@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Attribute Change Ratio Threshold
+title: Wait for Attribute Change Ratio Threshold
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Action Mapping by Name
+title: Get Action Mapping by Name
 order: 21
 ---
 ## Navigation

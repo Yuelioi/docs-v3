@@ -1,5 +1,5 @@
 ---
-display_name: Audio-Specific-Float-Slider-Variables
+title: Audio-Specific-Float-Slider-Variables
 order: 4
 ---
 

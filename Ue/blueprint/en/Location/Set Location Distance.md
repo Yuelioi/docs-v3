@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Distance
+title: Set Location Distance
 order: 1
 ---
 ## Navigation

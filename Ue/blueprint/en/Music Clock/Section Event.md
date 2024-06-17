@@ -1,5 +1,5 @@
 ---
-display_name: Section Event
+title: Section Event
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Get Projection
+title: Vector Get Projection
 order: 73
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Renderer
+title: Find Renderer
 order: 31
 ---
 ## Navigation

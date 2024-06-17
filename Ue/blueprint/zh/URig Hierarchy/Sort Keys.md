@@ -1,5 +1,5 @@
 ---
-display_name: Sort Keys
+title: Sort Keys
 order: 169
 ---
 ## Navigation

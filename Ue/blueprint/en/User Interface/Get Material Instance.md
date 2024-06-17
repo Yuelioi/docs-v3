@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance
+title: Get Material Instance
 order: 22
 ---
 ## Navigation

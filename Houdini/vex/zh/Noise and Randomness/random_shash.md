@@ -1,5 +1,5 @@
 ---
-display_name: random_shash
+title: random_shash
 order: 35
 ---
 `int  random_shash(string seed)`

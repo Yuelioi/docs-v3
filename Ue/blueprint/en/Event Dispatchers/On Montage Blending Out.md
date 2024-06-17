@@ -1,5 +1,5 @@
 ---
-display_name: On Montage Blending Out
+title: On Montage Blending Out
 order: 116
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Teleport
+title: Teleport
 order: 78
 ---
 ## Navigation

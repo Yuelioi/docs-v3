@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Origin
+title: Get Level Origin
 order: 6
 ---
 ## Navigation

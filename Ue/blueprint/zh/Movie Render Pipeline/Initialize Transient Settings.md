@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Transient Settings
+title: Initialize Transient Settings
 order: 66
 ---
 ## Navigation

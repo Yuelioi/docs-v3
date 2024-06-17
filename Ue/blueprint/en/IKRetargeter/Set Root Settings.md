@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Settings
+title: Set Root Settings
 order: 26
 ---
 ## Navigation

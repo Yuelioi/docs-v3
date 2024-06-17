@@ -1,5 +1,5 @@
 ---
-display_name: Get Scroll Offset Of End
+title: Get Scroll Offset Of End
 order: 36
 ---
 ## Navigation

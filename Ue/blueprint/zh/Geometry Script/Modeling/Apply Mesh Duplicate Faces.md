@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Duplicate Faces
+title: Apply Mesh Duplicate Faces
 order: 3
 ---
 ## Navigation

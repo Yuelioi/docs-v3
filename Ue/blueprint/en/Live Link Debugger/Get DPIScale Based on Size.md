@@ -1,5 +1,5 @@
 ---
-display_name: Get DPIScale Based on Size
+title: Get DPIScale Based on Size
 order: 2
 ---
 ## Navigation

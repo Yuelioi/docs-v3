@@ -1,5 +1,5 @@
 ---
-display_name: Register Audio Bus to Submix
+title: Register Audio Bus to Submix
 order: 2
 ---
 ## Navigation

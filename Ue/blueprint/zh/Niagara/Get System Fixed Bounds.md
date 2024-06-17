@@ -1,5 +1,5 @@
 ---
-display_name: Get System Fixed Bounds
+title: Get System Fixed Bounds
 order: 23
 ---
 ## Navigation

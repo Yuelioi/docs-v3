@@ -1,5 +1,5 @@
 ---
-display_name: Bitwise XOR
+title: Bitwise XOR
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Bool Parameter Key
+title: Add Bool Parameter Key
 order: 1
 ---
 ## Navigation

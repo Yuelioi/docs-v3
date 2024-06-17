@@ -1,5 +1,5 @@
 ---
-display_name: Get Observation Vector Size
+title: Get Observation Vector Size
 order: 95
 ---
 ## Navigation

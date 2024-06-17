@@ -1,5 +1,5 @@
 ---
-display_name: Activate Control Bus (Deprecated - 5.4)
+title: Activate Control Bus (Deprecated - 5.4)
 order: 1
 ---
 ## Navigation

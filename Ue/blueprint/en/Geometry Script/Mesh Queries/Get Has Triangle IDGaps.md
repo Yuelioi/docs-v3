@@ -1,5 +1,5 @@
 ---
-display_name: Get Has Triangle IDGaps
+title: Get Has Triangle IDGaps
 order: 9
 ---
 ## Navigation

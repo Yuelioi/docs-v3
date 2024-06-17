@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Value by Index
+title: Set Curve Value by Index
 order: 141
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetDefaultMeshes
+title: GetDefaultMeshes
 order: 55
 ---
 ## Navigation

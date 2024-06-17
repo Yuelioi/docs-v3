@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Texture
+title: Set Source Texture
 order: 34
 ---
 ## Navigation

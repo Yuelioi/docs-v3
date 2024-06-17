@@ -1,5 +1,5 @@
 ---
-display_name: Is Gameplay Tag Valid
+title: Is Gameplay Tag Valid
 order: 24
 ---
 ## Navigation

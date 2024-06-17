@@ -1,5 +1,5 @@
 ---
-display_name: Launch
+title: Launch
 order: 5
 ---
 ## Navigation

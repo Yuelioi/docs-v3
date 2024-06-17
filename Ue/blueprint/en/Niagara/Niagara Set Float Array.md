@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Float Array
+title: Niagara Set Float Array
 order: 59
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Bone Track Index
+title: Is Valid Bone Track Index
 order: 30
 ---
 ## Navigation

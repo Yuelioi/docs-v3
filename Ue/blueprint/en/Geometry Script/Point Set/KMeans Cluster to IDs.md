@@ -1,5 +1,5 @@
 ---
-display_name: KMeans Cluster to IDs
+title: KMeans Cluster to IDs
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Bool Attribute
+title: Create Bool Attribute
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Speaking on Channel
+title: Is Speaking on Channel
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh Data Interface Sampling Regions
+title: Set Skeletal Mesh Data Interface Sampling Regions
 order: 66
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Cached Paths (Message)
+title: Get All Cached Paths (Message)
 order: 4
 ---
 ## Navigation

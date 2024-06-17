@@ -1,5 +1,5 @@
 ---
-display_name: Get Frustum Right Plane (Matrix)
+title: Get Frustum Right Plane (Matrix)
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Write Enum
+title: Write Enum
 order: 20
 ---
 ## Navigation

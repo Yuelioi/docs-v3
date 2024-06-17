@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh by Path Name
+title: Get Mesh by Path Name
 order: 30
 ---
 ## Navigation

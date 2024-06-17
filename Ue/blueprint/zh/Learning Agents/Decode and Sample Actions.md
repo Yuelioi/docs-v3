@@ -1,5 +1,5 @@
 ---
-display_name: Decode and Sample Actions
+title: Decode and Sample Actions
 order: 12
 ---
 ## Navigation

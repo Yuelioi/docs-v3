@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Variable Node
+title: Refresh Variable Node
 order: 79
 ---
 ## Navigation

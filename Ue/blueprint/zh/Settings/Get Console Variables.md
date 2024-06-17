@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variables
+title: Get Console Variables
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Quatd Array
+title: Unstringify as Quatd Array
 order: 109
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Give Ability And Activate Once
+title: Give Ability And Activate Once
 order: 8
 ---
 ## Navigation

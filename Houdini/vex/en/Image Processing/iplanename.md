@@ -1,5 +1,5 @@
 ---
-display_name: iplanename
+title: iplanename
 order: 20
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

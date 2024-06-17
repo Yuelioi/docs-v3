@@ -1,5 +1,5 @@
 ---
-display_name: Count Selected Objects
+title: Count Selected Objects
 order: 6
 ---
 ## Navigation

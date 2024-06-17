@@ -1,5 +1,5 @@
 ---
-display_name: Enter
+title: Enter
 order: 30
 ---
 ## Navigation

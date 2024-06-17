@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIProgram Change
+title: On MIDIProgram Change
 order: 7
 ---
 ## Navigation

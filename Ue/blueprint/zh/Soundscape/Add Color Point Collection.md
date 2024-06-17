@@ -1,5 +1,5 @@
 ---
-display_name: Add Color Point Collection
+title: Add Color Point Collection
 order: 1
 ---
 ## Navigation

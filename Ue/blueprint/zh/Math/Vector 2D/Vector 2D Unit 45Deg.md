@@ -1,5 +1,5 @@
 ---
-display_name: Vector 2D Unit 45Deg
+title: Vector 2D Unit 45Deg
 order: 27
 ---
 ## Navigation

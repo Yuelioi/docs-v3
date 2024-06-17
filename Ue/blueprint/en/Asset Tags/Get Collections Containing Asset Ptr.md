@@ -1,5 +1,5 @@
 ---
-display_name: Get Collections Containing Asset Ptr
+title: Get Collections Containing Asset Ptr
 order: 13
 ---
 ## Navigation

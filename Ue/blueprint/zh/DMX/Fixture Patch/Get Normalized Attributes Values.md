@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Attributes Values
+title: Get Normalized Attributes Values
 order: 21
 ---
 ## Navigation

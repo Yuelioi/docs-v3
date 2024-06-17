@@ -1,5 +1,5 @@
 ---
-display_name: Get Quaternion Parameter
+title: Get Quaternion Parameter
 order: 11
 ---
 ## Navigation

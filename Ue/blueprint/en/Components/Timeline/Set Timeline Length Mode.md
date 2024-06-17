@@ -1,5 +1,5 @@
 ---
-display_name: Set Timeline Length Mode
+title: Set Timeline Length Mode
 order: 25
 ---
 ## Navigation

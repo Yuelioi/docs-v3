@@ -1,5 +1,5 @@
 ---
-display_name: Update Global Variable Values
+title: Update Global Variable Values
 order: 34
 ---
 ## Navigation

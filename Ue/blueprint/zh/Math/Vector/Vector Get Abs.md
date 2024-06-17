@@ -1,5 +1,5 @@
 ---
-display_name: Vector Get Abs
+title: Vector Get Abs
 order: 72
 ---
 ## Navigation

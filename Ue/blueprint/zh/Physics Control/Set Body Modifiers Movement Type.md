@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifiers Movement Type
+title: Set Body Modifiers Movement Type
 order: 69
 ---
 ## Navigation

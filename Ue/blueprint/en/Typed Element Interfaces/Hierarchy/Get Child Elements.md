@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Elements
+title: Get Child Elements
 order: 2
 ---
 ## Navigation

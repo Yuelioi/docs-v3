@@ -1,5 +1,5 @@
 ---
-display_name: Damage in HLOD
+title: Damage in HLOD
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Locked
+title: Get Locked
 order: 8
 ---
 ## Navigation

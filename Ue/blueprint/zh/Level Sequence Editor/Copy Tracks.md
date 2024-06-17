@@ -1,5 +1,5 @@
 ---
-display_name: Copy Tracks
+title: Copy Tracks
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Player Controller Platform User Id
+title: Set Local Player Controller Platform User Id
 order: 49
 ---
 ## Navigation

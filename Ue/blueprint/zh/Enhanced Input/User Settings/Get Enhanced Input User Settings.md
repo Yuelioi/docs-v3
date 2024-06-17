@@ -1,5 +1,5 @@
 ---
-display_name: Get Enhanced Input User Settings
+title: Get Enhanced Input User Settings
 order: 11
 ---
 ## Navigation

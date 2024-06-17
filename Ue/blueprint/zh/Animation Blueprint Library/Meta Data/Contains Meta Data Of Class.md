@@ -1,5 +1,5 @@
 ---
-display_name: Contains Meta Data Of Class
+title: Contains Meta Data Of Class
 order: 3
 ---
 ## Navigation

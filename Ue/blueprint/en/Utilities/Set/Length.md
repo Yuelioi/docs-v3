@@ -1,5 +1,5 @@
 ---
-display_name: Length
+title: Length
 order: 9
 ---
 ## Navigation

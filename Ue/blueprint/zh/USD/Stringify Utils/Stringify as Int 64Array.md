@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int 64Array
+title: Stringify as Int 64Array
 order: 36
 ---
 ## Navigation

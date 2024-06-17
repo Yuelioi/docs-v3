@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Transform Pivot
+title: Set Render Transform Pivot
 order: 5
 ---
 ## Navigation

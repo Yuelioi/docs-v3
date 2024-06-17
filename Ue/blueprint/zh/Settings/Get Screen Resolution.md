@@ -1,5 +1,5 @@
 ---
-display_name: Get Screen Resolution
+title: Get Screen Resolution
 order: 60
 ---
 ## Navigation

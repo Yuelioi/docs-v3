@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Compression Settings
+title: Set Bone Compression Settings
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Section And AnimSet Indices
+title: Get Section And AnimSet Indices
 order: 12
 ---
 ## Navigation

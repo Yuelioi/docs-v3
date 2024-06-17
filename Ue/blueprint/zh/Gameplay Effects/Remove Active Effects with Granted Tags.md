@@ -1,5 +1,5 @@
 ---
-display_name: Remove Active Effects with Granted Tags
+title: Remove Active Effects with Granted Tags
 order: 13
 ---
 ## Navigation

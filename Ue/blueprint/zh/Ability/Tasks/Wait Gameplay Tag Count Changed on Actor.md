@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Count Changed on Actor
+title: Wait Gameplay Tag Count Changed on Actor
 order: 32
 ---
 ## Navigation

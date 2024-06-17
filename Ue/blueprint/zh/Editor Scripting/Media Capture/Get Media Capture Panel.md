@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Capture Panel
+title: Get Media Capture Panel
 order: 5
 ---
 ## Navigation

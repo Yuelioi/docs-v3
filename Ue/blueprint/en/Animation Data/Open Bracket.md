@@ -1,5 +1,5 @@
 ---
-display_name: Open Bracket
+title: Open Bracket
 order: 8
 ---
 ## Navigation

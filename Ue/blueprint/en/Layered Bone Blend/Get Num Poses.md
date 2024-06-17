@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Poses
+title: Get Num Poses
 order: 2
 ---
 ## Navigation

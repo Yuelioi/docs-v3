@@ -1,5 +1,5 @@
 ---
-display_name: Get Section to Key
+title: Get Section to Key
 order: 11
 ---
 ## Navigation

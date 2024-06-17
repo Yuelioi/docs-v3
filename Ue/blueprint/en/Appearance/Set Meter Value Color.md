@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Value Color
+title: Set Meter Value Color
 order: 62
 ---
 ## Navigation

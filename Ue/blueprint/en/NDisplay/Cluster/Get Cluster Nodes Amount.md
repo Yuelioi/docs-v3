@@ -1,5 +1,5 @@
 ---
-display_name: Get Cluster Nodes Amount
+title: Get Cluster Nodes Amount
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Seconds
+title: Set Range Seconds
 order: 93
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Break All Links
+title: Break All Links
 order: 35
 ---
 ## Navigation

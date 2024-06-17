@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result Under Finger by Channel
+title: Get Hit Result Under Finger by Channel
 order: 13
 ---
 ## Navigation

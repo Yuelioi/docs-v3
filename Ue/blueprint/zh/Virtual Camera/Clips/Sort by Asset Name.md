@@ -1,5 +1,5 @@
 ---
-display_name: Sort by Asset Name
+title: Sort by Asset Name
 order: 20
 ---
 ## Navigation

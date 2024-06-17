@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Camera Offset Props
+title: Get Particle Module Camera Offset Props
 order: 63
 ---
 ## Navigation

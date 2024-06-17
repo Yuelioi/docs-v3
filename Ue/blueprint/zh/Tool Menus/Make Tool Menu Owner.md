@@ -1,5 +1,5 @@
 ---
-display_name: Make Tool Menu Owner
+title: Make Tool Menu Owner
 order: 28
 ---
 ## Navigation

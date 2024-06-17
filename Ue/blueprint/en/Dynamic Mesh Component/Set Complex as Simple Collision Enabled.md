@@ -1,5 +1,5 @@
 ---
-display_name: Set Complex as Simple Collision Enabled
+title: Set Complex as Simple Collision Enabled
 order: 11
 ---
 ## Navigation

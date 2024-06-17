@@ -1,5 +1,5 @@
 ---
-display_name: Remove Aggregate Pin
+title: Remove Aggregate Pin
 order: 80
 ---
 ## Navigation

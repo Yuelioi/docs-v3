@@ -1,5 +1,5 @@
 ---
-display_name: Acceleration
+title: Acceleration
 order: 1
 ---
 ## Navigation

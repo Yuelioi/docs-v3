@@ -1,5 +1,5 @@
 ---
-display_name: Get Analog Event Navigation Direction
+title: Get Analog Event Navigation Direction
 order: 1
 ---
 ## Navigation

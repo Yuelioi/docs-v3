@@ -1,5 +1,5 @@
 ---
-display_name: Swap Audio Output Device
+title: Swap Audio Output Device
 order: 3
 ---
 ## Navigation

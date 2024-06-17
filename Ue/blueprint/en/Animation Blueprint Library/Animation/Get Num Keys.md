@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Keys
+title: Get Num Keys
 order: 4
 ---
 ## Navigation

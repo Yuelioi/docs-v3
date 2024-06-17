@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Hours
+title: Get Total Hours
 order: 15
 ---
 ## Navigation

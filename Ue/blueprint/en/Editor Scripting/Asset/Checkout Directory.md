@@ -1,5 +1,5 @@
 ---
-display_name: Checkout Directory
+title: Checkout Directory
 order: 3
 ---
 ## Navigation

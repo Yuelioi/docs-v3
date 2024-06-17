@@ -1,5 +1,5 @@
 ---
-display_name: Remove Extension
+title: Remove Extension
 order: 13
 ---
 ## Navigation

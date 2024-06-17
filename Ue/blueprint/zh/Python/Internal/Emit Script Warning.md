@@ -1,5 +1,5 @@
 ---
-display_name: Emit Script Warning
+title: Emit Script Warning
 order: 28
 ---
 ## Navigation

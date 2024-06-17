@@ -1,5 +1,5 @@
 ---
-display_name: Shuffle from Stream
+title: Shuffle from Stream
 order: 25
 ---
 ## Navigation

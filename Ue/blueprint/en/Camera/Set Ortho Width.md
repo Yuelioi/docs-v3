@@ -1,5 +1,5 @@
 ---
-display_name: Set Ortho Width
+title: Set Ortho Width
 order: 27
 ---
 ## Navigation

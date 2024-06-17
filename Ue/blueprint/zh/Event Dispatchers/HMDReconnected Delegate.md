@@ -1,5 +1,5 @@
 ---
-display_name: HMDReconnected Delegate
+title: HMDReconnected Delegate
 order: 33
 ---
 ## Navigation

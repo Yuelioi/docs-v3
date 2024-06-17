@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Option
+title: Get Selected Option
 order: 2
 ---
 ## Navigation

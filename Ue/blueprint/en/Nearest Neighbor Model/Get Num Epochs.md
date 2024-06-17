@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Epochs
+title: Get Num Epochs
 order: 11
 ---
 ## Navigation

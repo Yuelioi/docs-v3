@@ -1,5 +1,5 @@
 ---
-display_name: Allow Selection Modifiers
+title: Allow Selection Modifiers
 order: 1
 ---
 ## Navigation

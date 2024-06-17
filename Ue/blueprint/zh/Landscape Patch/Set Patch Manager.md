@@ -1,5 +1,5 @@
 ---
-display_name: Set Patch Manager
+title: Set Patch Manager
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Static Array Observation
+title: Make Static Array Observation
 order: 238
 ---
 ## Navigation

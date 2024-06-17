@@ -1,5 +1,5 @@
 ---
-display_name: Begin Tutorial
+title: Begin Tutorial
 order: 1
 ---
 ## Navigation

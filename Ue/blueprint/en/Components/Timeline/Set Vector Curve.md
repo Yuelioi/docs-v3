@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Curve
+title: Set Vector Curve
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC合成
+title: CC合成
 order: 4
 ---
 

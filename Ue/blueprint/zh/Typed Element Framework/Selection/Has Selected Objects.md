@@ -1,5 +1,5 @@
 ---
-display_name: Has Selected Objects
+title: Has Selected Objects
 order: 20
 ---
 ## Navigation

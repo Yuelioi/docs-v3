@@ -1,5 +1,5 @@
 ---
-display_name: Stop Camera Shake
+title: Stop Camera Shake
 order: 10
 ---
 ## Navigation

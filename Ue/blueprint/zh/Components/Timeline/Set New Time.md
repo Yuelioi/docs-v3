@@ -1,5 +1,5 @@
 ---
-display_name: Set New Time
+title: Set New Time
 order: 21
 ---
 ## Navigation

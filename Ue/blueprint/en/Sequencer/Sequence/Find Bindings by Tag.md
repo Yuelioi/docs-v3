@@ -1,5 +1,5 @@
 ---
-display_name: Find Bindings by Tag
+title: Find Bindings by Tag
 order: 16
 ---
 ## Navigation

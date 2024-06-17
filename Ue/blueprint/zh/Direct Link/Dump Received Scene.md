@@ -1,5 +1,5 @@
 ---
-display_name: Dump Received Scene
+title: Dump Received Scene
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Scale Uniform
+title: Get Range Scale Uniform
 order: 42
 ---
 ## Navigation

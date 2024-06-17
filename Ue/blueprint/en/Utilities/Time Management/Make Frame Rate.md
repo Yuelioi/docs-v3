@@ -1,5 +1,5 @@
 ---
-display_name: Make Frame Rate
+title: Make Frame Rate
 order: 9
 ---
 ## Navigation

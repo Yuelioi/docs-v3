@@ -1,5 +1,5 @@
 ---
-display_name: Add GameplayCue To Owner
+title: Add GameplayCue To Owner
 order: 1
 ---
 ## Navigation

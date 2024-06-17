@@ -1,5 +1,5 @@
 ---
-display_name: Apple-Silicon-Support
+title: Apple-Silicon-Support
 order: 1
 ---
 

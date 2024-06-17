@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawning Count Scale
+title: Get Spawning Count Scale
 order: 5
 ---
 ## Navigation

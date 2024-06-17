@@ -1,5 +1,5 @@
 ---
-display_name: Get ClientInstancedActorsSpawnerSubsystem
+title: Get ClientInstancedActorsSpawnerSubsystem
 order: 19
 ---
 ## Navigation

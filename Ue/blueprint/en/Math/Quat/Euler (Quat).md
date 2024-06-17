@@ -1,5 +1,5 @@
 ---
-display_name: Euler (Quat)
+title: Euler (Quat)
 order: 8
 ---
 ## Navigation

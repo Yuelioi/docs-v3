@@ -1,5 +1,5 @@
 ---
-display_name: On Map Changed
+title: On Map Changed
 order: 44
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: AEIOs
+title: AEIOs
 ---
 
 # AEIOs

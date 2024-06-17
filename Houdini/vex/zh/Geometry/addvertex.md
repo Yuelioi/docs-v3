@@ -1,5 +1,5 @@
 ---
-display_name: addvertex
+title: addvertex
 order: 3
 ---
 `int  addvertex(int geohandle, int prim_num, int point_num)`

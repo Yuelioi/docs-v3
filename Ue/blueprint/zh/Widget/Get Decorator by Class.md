@@ -1,5 +1,5 @@
 ---
-display_name: Get Decorator by Class
+title: Get Decorator by Class
 order: 19
 ---
 ## Navigation

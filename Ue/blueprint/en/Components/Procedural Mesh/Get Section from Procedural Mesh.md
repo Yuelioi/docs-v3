@@ -1,5 +1,5 @@
 ---
-display_name: Get Section from Procedural Mesh
+title: Get Section from Procedural Mesh
 order: 14
 ---
 ## Navigation

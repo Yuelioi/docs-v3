@@ -1,5 +1,5 @@
 ---
-display_name: SetSequenceFrameNormalized
+title: SetSequenceFrameNormalized
 order: 79
 ---
 ## Navigation

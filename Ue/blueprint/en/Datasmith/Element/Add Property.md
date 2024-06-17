@@ -1,5 +1,5 @@
 ---
-display_name: Add Property
+title: Add Property
 order: 5
 ---
 ## Navigation

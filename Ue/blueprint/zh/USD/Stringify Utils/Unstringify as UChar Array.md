@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as UChar Array
+title: Unstringify as UChar Array
 order: 121
 ---
 ## Navigation

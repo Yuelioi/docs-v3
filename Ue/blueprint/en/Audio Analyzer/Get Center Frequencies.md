@@ -1,5 +1,5 @@
 ---
-display_name: Get Center Frequencies
+title: Get Center Frequencies
 order: 1
 ---
 ## Navigation

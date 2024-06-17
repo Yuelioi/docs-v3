@@ -1,5 +1,5 @@
 ---
-display_name: Create Struct Local Value Input
+title: Create Struct Local Value Input
 order: 18
 ---
 ## Navigation

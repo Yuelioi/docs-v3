@@ -1,5 +1,5 @@
 ---
-display_name: To String (InputDeviceId)
+title: To String (InputDeviceId)
 order: 64
 ---
 ## Navigation

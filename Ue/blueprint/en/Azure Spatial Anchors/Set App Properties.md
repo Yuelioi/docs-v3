@@ -1,5 +1,5 @@
 ---
-display_name: Set App Properties
+title: Set App Properties
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Points Are Coplanar
+title: Points Are Coplanar
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Anchored by Index
+title: Set Anchored by Index
 order: 22
 ---
 ## Navigation

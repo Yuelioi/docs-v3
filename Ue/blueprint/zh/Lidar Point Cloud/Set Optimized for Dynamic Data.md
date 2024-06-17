@@ -1,5 +1,5 @@
 ---
-display_name: Set Optimized for Dynamic Data
+title: Set Optimized for Dynamic Data
 order: 67
 ---
 ## Navigation

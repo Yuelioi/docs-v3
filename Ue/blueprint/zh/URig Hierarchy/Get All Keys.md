@@ -1,5 +1,5 @@
 ---
-display_name: Get All Keys
+title: Get All Keys
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Add Filename
+title: Scripted Add Filename
 order: 3
 ---
 ## Navigation

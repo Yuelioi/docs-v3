@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Dominates
+title: Set Parent Dominates
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Paste Normalized Elements
+title: Paste Normalized Elements
 order: 12
 ---
 ## Navigation

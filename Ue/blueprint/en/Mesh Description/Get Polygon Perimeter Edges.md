@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Perimeter Edges
+title: Get Polygon Perimeter Edges
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Target IKRig
+title: Has Target IKRig
 order: 5
 ---
 ## Navigation

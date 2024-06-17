@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Bool Array
+title: Niagara Set Bool Array
 order: 55
 ---
 ## Navigation

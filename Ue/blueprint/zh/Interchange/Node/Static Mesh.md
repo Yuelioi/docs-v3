@@ -1,5 +1,5 @@
 ---
-display_name: Static Mesh
+title: Static Mesh
 order: 83
 ---
 ## Navigation

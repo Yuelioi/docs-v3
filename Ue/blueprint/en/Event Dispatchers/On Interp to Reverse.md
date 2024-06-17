@@ -1,5 +1,5 @@
 ---
-display_name: On Interp to Reverse
+title: On Interp to Reverse
 order: 96
 ---
 ## Navigation

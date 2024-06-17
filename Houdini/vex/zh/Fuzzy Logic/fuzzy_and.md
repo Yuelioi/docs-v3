@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_and
+title: fuzzy_and
 order: 2
 ---
 `int  fuzzy_and(int a, int b, ...)`

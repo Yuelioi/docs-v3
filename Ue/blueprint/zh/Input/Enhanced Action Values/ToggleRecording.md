@@ -1,5 +1,5 @@
 ---
-display_name: ToggleRecording
+title: ToggleRecording
 order: 116
 ---
 ## Navigation

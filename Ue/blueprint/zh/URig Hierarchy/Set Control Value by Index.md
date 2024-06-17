@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Value by Index
+title: Set Control Value by Index
 order: 137
 ---
 ## Navigation

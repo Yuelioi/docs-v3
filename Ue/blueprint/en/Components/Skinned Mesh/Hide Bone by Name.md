@@ -1,5 +1,5 @@
 ---
-display_name: Hide Bone by Name
+title: Hide Bone by Name
 order: 22
 ---
 ## Navigation

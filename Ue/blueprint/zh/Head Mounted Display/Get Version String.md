@@ -1,5 +1,5 @@
 ---
-display_name: Get Version String
+title: Get Version String
 order: 1
 ---
 ## Navigation

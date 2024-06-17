@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Primitive Data Vector 2
+title: Set Custom Primitive Data Vector 2
 order: 36
 ---
 ## Navigation

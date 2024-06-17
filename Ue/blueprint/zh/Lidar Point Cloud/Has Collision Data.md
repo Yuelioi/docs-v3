@@ -1,5 +1,5 @@
 ---
-display_name: Has Collision Data
+title: Has Collision Data
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Main Anim Instance
+title: Get Main Anim Instance
 order: 26
 ---
 ## Navigation

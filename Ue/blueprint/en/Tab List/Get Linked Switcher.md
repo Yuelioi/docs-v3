@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Switcher
+title: Get Linked Switcher
 order: 3
 ---
 ## Navigation

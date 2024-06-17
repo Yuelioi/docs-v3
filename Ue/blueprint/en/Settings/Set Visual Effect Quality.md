@@ -1,5 +1,5 @@
 ---
-display_name: Set Visual Effect Quality
+title: Set Visual Effect Quality
 order: 137
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Resource Node
+title: Add Resource Node
 order: 8
 ---
 ## Navigation

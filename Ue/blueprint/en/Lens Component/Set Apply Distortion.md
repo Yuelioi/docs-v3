@@ -1,5 +1,5 @@
 ---
-display_name: Set Apply Distortion
+title: Set Apply Distortion
 order: 15
 ---
 ## Navigation

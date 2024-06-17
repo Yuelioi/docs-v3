@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Time
+title: Get Animation Time
 order: 1
 ---
 ## Navigation

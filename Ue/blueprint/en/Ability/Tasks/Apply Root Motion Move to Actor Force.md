@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Move to Actor Force
+title: Apply Root Motion Move to Actor Force
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Media Reached End
+title: On Media Reached End
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Time Dilation
+title: Get Custom Time Dilation
 order: 9
 ---
 ## Navigation

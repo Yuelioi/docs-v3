@@ -1,5 +1,5 @@
 ---
-display_name: Get Bars Including Count In
+title: Get Bars Including Count In
 order: 7
 ---
 ## Navigation

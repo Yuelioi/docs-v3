@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound
+title: Set Sound
 order: 98
 ---
 ## Navigation

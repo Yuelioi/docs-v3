@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Mutable
+title: Set Bool Mutable
 order: 54
 ---
 ## Navigation

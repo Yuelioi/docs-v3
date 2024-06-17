@@ -1,5 +1,5 @@
 ---
-display_name: Location
+title: Location
 order: 1
 ---
 ## Navigation

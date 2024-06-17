@@ -1,5 +1,5 @@
 ---
-display_name: Get Geographic Ellipsoid Max Radius
+title: Get Geographic Ellipsoid Max Radius
 order: 1
 ---
 ## Navigation

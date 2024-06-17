@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Connector Type
+title: Get Input Connector Type
 order: 79
 ---
 ## Navigation

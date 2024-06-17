@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Render Target Format
+title: Set Height Render Target Format
 order: 31
 ---
 ## Navigation

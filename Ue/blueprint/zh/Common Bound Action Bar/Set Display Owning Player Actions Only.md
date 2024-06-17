@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Owning Player Actions Only
+title: Set Display Owning Player Actions Only
 order: 1
 ---
 ## Navigation

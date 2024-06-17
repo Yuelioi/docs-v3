@@ -1,5 +1,5 @@
 ---
-display_name: Make Vector Net Quantize 10
+title: Make Vector Net Quantize 10
 order: 34
 ---
 ## Navigation

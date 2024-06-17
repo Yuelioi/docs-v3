@@ -1,5 +1,5 @@
 ---
-display_name: Convert to rigid body
+title: Convert to rigid body
 order: 2
 ---
 ## Navigation

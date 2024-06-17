@@ -1,5 +1,5 @@
 ---
-display_name: Take Automation Screenshot at Camera
+title: Take Automation Screenshot at Camera
 order: 35
 ---
 ## Navigation

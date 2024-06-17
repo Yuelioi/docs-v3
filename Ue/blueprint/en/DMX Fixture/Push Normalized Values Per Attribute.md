@@ -1,5 +1,5 @@
 ---
-display_name: Push Normalized Values Per Attribute
+title: Push Normalized Values Per Attribute
 order: 3
 ---
 ## Navigation

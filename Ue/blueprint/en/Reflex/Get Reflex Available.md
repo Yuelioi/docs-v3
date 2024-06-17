@@ -1,5 +1,5 @@
 ---
-display_name: Get Reflex Available
+title: Get Reflex Available
 order: 4
 ---
 ## Navigation

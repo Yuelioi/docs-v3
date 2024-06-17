@@ -1,5 +1,5 @@
 ---
-display_name: Remove Duplicate Slashes
+title: Remove Duplicate Slashes
 order: 77
 ---
 ## Navigation

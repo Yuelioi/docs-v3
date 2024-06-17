@@ -1,5 +1,5 @@
 ---
-display_name: Keylight
+title: Keylight
 order: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Gizmo (Message)
+title: Toggle Gizmo (Message)
 order: 8
 ---
 ## Navigation

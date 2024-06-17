@@ -1,5 +1,5 @@
 ---
-display_name: Remove Edge To
+title: Remove Edge To
 order: 5
 ---
 ## Navigation

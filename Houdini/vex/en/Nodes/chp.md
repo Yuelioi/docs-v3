@@ -1,5 +1,5 @@
 ---
-display_name: chp
+title: chp
 order: 13
 ---
 `vector4  chp(string channel)`

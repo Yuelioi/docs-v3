@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance from Current Beat
+title: Get Distance from Current Beat
 order: 22
 ---
 ## Navigation

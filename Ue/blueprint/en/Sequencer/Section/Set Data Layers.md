@@ -1,5 +1,5 @@
 ---
-display_name: Set Data Layers
+title: Set Data Layers
 order: 75
 ---
 ## Navigation

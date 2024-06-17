@@ -1,5 +1,5 @@
 ---
-display_name: Remove View Model
+title: Remove View Model
 order: 24
 ---
 ## Navigation

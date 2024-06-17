@@ -1,5 +1,5 @@
 ---
-display_name: getattrib
+title: getattrib
 order: 22
 ---
 `<type> getattrib(<geometry>geometry, string attribclass, string attribute_name, int elemnum, int &success)`

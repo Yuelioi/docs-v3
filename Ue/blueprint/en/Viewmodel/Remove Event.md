@@ -1,5 +1,5 @@
 ---
-display_name: Remove Event
+title: Remove Event
 order: 23
 ---
 ## Navigation

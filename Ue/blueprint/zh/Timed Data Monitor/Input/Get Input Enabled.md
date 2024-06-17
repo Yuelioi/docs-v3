@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Enabled
+title: Get Input Enabled
 order: 6
 ---
 ## Navigation

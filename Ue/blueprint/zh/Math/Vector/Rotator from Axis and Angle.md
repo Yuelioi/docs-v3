@@ -1,5 +1,5 @@
 ---
-display_name: Rotator from Axis and Angle
+title: Rotator from Axis and Angle
 order: 52
 ---
 ## Navigation

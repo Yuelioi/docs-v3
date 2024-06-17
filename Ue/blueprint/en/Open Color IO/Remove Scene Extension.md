@@ -1,5 +1,5 @@
 ---
-display_name: Remove Scene Extension
+title: Remove Scene Extension
 order: 9
 ---
 ## Navigation

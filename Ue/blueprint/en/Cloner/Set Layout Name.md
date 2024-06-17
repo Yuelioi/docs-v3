@@ -1,5 +1,5 @@
 ---
-display_name: Set Layout Name
+title: Set Layout Name
 order: 28
 ---
 ## Navigation

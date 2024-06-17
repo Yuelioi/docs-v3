@@ -1,5 +1,5 @@
 ---
-display_name: Is Pixel Animation Flag Set
+title: Is Pixel Animation Flag Set
 order: 174
 ---
 ## Navigation

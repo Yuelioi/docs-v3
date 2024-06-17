@@ -1,5 +1,5 @@
 ---
-display_name: Set Shape Type
+title: Set Shape Type
 order: 6
 ---
 ## Navigation

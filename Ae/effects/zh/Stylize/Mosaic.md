@@ -1,5 +1,5 @@
 ---
-display_name: 马赛克
+title: 马赛克
 order: 18
 ---
 

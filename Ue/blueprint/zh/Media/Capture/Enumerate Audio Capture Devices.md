@@ -1,5 +1,5 @@
 ---
-display_name: Enumerate Audio Capture Devices
+title: Enumerate Audio Capture Devices
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Mark Function as Public
+title: Mark Function as Public
 order: 71
 ---
 ## Navigation

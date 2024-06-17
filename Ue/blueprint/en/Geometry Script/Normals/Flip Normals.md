@@ -1,5 +1,5 @@
 ---
-display_name: Flip Normals
+title: Flip Normals
 order: 5
 ---
 ## Navigation

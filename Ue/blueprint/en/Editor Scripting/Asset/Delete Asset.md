@@ -1,5 +1,5 @@
 ---
-display_name: Delete Asset
+title: Delete Asset
 order: 7
 ---
 ## Navigation

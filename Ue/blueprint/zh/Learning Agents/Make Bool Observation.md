@@ -1,5 +1,5 @@
 ---
-display_name: Make Bool Observation
+title: Make Bool Observation
 order: 160
 ---
 ## Navigation

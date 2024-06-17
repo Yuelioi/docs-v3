@@ -1,5 +1,5 @@
 ---
-display_name: Get End Offset
+title: Get End Offset
 order: 3
 ---
 ## Navigation

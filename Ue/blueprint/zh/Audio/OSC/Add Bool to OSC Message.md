@@ -1,5 +1,5 @@
 ---
-display_name: Add Bool to OSC Message
+title: Add Bool to OSC Message
 order: 3
 ---
 ## Navigation

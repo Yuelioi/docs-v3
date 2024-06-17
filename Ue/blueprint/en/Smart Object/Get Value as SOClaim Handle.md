@@ -1,5 +1,5 @@
 ---
-display_name: Get Value as SOClaim Handle
+title: Get Value as SOClaim Handle
 order: 32
 ---
 ## Navigation

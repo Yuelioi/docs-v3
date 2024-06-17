@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Definition
+title: Get Value Definition
 order: 145
 ---
 ## Navigation

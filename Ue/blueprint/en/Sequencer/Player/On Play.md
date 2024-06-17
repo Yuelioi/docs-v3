@@ -1,5 +1,5 @@
 ---
-display_name: On Play
+title: On Play
 order: 28
 ---
 ## Navigation

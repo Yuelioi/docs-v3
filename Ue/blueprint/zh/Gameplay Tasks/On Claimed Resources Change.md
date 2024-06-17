@@ -1,5 +1,5 @@
 ---
-display_name: On Claimed Resources Change
+title: On Claimed Resources Change
 order: 2
 ---
 ## Navigation

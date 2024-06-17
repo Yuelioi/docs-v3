@@ -1,5 +1,5 @@
 ---
-display_name: Is Pending Disable
+title: Is Pending Disable
 order: 5
 ---
 ## Navigation

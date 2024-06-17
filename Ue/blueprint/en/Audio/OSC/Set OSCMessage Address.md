@@ -1,5 +1,5 @@
 ---
-display_name: Set OSCMessage Address
+title: Set OSCMessage Address
 order: 71
 ---
 ## Navigation

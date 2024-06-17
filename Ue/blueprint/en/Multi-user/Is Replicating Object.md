@@ -1,5 +1,5 @@
 ---
-display_name: Is Replicating Object
+title: Is Replicating Object
 order: 14
 ---
 ## Navigation

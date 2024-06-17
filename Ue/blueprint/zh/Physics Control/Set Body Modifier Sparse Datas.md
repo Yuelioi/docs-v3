@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifier Sparse Datas
+title: Set Body Modifier Sparse Datas
 order: 64
 ---
 ## Navigation

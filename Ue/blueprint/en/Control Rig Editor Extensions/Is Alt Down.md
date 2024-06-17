@@ -1,5 +1,5 @@
 ---
-display_name: Is Alt Down
+title: Is Alt Down
 order: 6
 ---
 ## Navigation

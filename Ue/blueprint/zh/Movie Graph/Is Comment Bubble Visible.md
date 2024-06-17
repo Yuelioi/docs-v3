@@ -1,5 +1,5 @@
 ---
-display_name: Is Comment Bubble Visible
+title: Is Comment Bubble Visible
 order: 55
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Retriggerable Delay
+title: Retriggerable Delay
 order: 6
 ---
 ## Navigation

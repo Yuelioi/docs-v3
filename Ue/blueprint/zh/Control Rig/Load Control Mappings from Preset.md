@@ -1,5 +1,5 @@
 ---
-display_name: Load Control Mappings from Preset
+title: Load Control Mappings from Preset
 order: 27
 ---
 ## Navigation

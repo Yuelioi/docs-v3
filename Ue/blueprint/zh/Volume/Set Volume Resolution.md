@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume Resolution
+title: Set Volume Resolution
 order: 1
 ---
 ## Navigation

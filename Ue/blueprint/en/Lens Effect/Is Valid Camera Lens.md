@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Camera Lens
+title: Is Valid Camera Lens
 order: 3
 ---
 ## Navigation

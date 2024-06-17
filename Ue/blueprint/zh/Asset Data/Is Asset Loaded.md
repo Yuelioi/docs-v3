@@ -1,5 +1,5 @@
 ---
-display_name: Is Asset Loaded
+title: Is Asset Loaded
 order: 7
 ---
 ## Navigation

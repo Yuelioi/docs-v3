@@ -1,5 +1,5 @@
 ---
-display_name: Get Next
+title: Get Next
 order: 4
 ---
 ## Navigation

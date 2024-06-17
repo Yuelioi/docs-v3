@@ -1,5 +1,5 @@
 ---
-display_name: Get LevelStreamingProfilingSubsystem
+title: Get LevelStreamingProfilingSubsystem
 order: 37
 ---
 ## Navigation

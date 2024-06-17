@@ -1,5 +1,5 @@
 ---
-display_name: Input Play Root Motion Source
+title: Input Play Root Motion Source
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Agents
+title: Get All Agents
 order: 34
 ---
 ## Navigation

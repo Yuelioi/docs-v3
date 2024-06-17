@@ -1,5 +1,5 @@
 ---
-display_name: Open Connection with Index
+title: Open Connection with Index
 order: 9
 ---
 ## Navigation

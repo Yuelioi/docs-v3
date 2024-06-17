@@ -1,5 +1,5 @@
 ---
-display_name: Weighted Moving Average Vector
+title: Weighted Moving Average Vector
 order: 6
 ---
 ## Navigation

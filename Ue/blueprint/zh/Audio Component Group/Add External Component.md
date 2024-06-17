@@ -1,5 +1,5 @@
 ---
-display_name: Add External Component
+title: Add External Component
 order: 2
 ---
 ## Navigation

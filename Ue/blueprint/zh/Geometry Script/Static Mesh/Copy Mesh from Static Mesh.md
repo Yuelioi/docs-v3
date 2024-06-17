@@ -1,5 +1,5 @@
 ---
-display_name: Copy Mesh from Static Mesh
+title: Copy Mesh from Static Mesh
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: tan
+title: tan
 order: 84
 ---
 `float  tan(float n)`

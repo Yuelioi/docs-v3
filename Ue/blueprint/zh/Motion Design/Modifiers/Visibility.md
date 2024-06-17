@@ -1,5 +1,5 @@
 ---
-display_name: Visibility
+title: Visibility
 order: 8
 ---
 ## Navigation

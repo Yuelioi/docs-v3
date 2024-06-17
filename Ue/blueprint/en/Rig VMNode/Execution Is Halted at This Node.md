@@ -1,5 +1,5 @@
 ---
-display_name: Execution Is Halted at This Node
+title: Execution Is Halted at This Node
 order: 3
 ---
 ## Navigation

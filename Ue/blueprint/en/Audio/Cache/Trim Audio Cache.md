@@ -1,5 +1,5 @@
 ---
-display_name: Trim Audio Cache
+title: Trim Audio Cache
 order: 3
 ---
 ## Navigation

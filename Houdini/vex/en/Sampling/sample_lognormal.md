@@ -1,5 +1,5 @@
 ---
-display_name: sample_lognormal
+title: sample_lognormal
 order: 22
 ---
 `float  sample_lognormal(float mu, float sigma, float u)`

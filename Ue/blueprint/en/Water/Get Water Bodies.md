@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Bodies
+title: Get Water Bodies
 order: 12
 ---
 ## Navigation

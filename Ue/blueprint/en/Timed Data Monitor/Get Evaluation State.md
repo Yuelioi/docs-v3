@@ -1,5 +1,5 @@
 ---
-display_name: Get Evaluation State
+title: Get Evaluation State
 order: 25
 ---
 ## Navigation

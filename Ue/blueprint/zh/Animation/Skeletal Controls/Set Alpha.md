@@ -1,5 +1,5 @@
 ---
-display_name: Set Alpha
+title: Set Alpha
 order: 3
 ---
 ## Navigation

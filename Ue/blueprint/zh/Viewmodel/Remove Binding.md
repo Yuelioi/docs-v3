@@ -1,5 +1,5 @@
 ---
-display_name: Remove Binding
+title: Remove Binding
 order: 22
 ---
 ## Navigation

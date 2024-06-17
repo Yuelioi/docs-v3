@@ -1,5 +1,5 @@
 ---
-display_name: Free Parameter
+title: Free Parameter
 order: 52
 ---
 ## Navigation

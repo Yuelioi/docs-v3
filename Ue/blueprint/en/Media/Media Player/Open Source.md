@@ -1,5 +1,5 @@
 ---
-display_name: Open Source
+title: Open Source
 order: 61
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PreviousBookmark
+title: PreviousBookmark
 order: 55
 ---
 ## Navigation

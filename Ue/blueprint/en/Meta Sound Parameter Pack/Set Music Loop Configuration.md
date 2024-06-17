@@ -1,5 +1,5 @@
 ---
-display_name: Set Music Loop Configuration
+title: Set Music Loop Configuration
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Dynamic Mesh Pool
+title: Create Dynamic Mesh Pool
 order: 1
 ---
 ## Navigation

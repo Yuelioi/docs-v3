@@ -1,5 +1,5 @@
 ---
-display_name: Set Lock Camera Cut to Viewport
+title: Set Lock Camera Cut to Viewport
 order: 64
 ---
 ## Navigation

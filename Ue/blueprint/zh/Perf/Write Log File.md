@@ -1,5 +1,5 @@
 ---
-display_name: Write Log File
+title: Write Log File
 order: 25
 ---
 ## Navigation

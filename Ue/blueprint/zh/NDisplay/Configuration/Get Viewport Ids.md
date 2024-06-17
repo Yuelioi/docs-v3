@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Ids
+title: Get Viewport Ids
 order: 7
 ---
 ## Navigation

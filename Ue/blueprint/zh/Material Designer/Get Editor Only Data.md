@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor Only Data
+title: Get Editor Only Data
 order: 65
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Index
+title: Get Section Index
 order: 8
 ---
 ## Navigation

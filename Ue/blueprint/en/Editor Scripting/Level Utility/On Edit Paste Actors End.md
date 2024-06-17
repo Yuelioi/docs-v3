@@ -1,5 +1,5 @@
 ---
-display_name: On Edit Paste Actors End
+title: On Edit Paste Actors End
 order: 42
 ---
 ## Navigation

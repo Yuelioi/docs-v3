@@ -1,5 +1,5 @@
 ---
-display_name: Is Locked
+title: Is Locked
 order: 58
 ---
 ## Navigation

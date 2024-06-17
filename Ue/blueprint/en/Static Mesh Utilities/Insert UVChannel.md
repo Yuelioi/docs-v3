@@ -1,5 +1,5 @@
 ---
-display_name: Insert UVChannel
+title: Insert UVChannel
 order: 23
 ---
 ## Navigation

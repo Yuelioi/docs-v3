@@ -1,5 +1,5 @@
 ---
-display_name: Set Folder Name
+title: Set Folder Name
 order: 87
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Leave Tangent Weight
+title: Get Leave Tangent Weight
 order: 46
 ---
 ## Navigation

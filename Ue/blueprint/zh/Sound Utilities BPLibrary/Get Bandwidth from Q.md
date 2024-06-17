@@ -1,5 +1,5 @@
 ---
-display_name: Get Bandwidth from Q
+title: Get Bandwidth from Q
 order: 3
 ---
 ## Navigation

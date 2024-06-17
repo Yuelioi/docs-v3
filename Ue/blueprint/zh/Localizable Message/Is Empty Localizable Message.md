@@ -1,5 +1,5 @@
 ---
-display_name: Is Empty Localizable Message
+title: Is Empty Localizable Message
 order: 2
 ---
 ## Navigation

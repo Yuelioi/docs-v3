@@ -1,5 +1,5 @@
 ---
-display_name: Get Tiling
+title: Get Tiling
 order: 13
 ---
 ## Navigation

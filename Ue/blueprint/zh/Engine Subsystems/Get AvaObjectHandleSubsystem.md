@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaObjectHandleSubsystem
+title: Get AvaObjectHandleSubsystem
 order: 9
 ---
 ## Navigation

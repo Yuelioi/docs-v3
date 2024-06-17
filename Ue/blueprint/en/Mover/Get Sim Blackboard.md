@@ -1,5 +1,5 @@
 ---
-display_name: Get Sim Blackboard
+title: Get Sim Blackboard
 order: 22
 ---
 ## Navigation

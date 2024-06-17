@@ -1,5 +1,5 @@
 ---
-display_name: Is Player Controlled
+title: Is Player Controlled
 order: 17
 ---
 ## Navigation

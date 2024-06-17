@@ -1,5 +1,5 @@
 ---
-display_name: Start
+title: Start
 order: 5
 ---
 ## Navigation

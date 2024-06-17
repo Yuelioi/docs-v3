@@ -1,5 +1,5 @@
 ---
-display_name: Get Right Vector at Spline Point
+title: Get Right Vector at Spline Point
 order: 46
 ---
 ## Navigation

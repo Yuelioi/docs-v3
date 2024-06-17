@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Interface
+title: Get Data Interface
 order: 10
 ---
 ## Navigation

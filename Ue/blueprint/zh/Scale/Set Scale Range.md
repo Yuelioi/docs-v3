@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Range
+title: Set Scale Range
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Documentation Node...
+title: Add Documentation Node...
 order: 1
 ---
 ## Navigation

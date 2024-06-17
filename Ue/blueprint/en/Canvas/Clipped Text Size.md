@@ -1,5 +1,5 @@
 ---
-display_name: Clipped Text Size
+title: Clipped Text Size
 order: 1
 ---
 ## Navigation

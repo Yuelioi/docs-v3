@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 2Attribute
+title: Get Vector 2Attribute
 order: 42
 ---
 ## Navigation

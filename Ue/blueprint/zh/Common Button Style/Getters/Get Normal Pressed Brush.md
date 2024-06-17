@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal Pressed Brush
+title: Get Normal Pressed Brush
 order: 9
 ---
 ## Navigation

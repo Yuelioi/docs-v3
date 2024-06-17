@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Discrete Action
+title: Make Inclusive Discrete Action
 order: 193
 ---
 ## Navigation

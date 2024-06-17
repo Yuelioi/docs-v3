@@ -1,5 +1,5 @@
 ---
-display_name: Get MassReplicationSubsystem
+title: Get MassReplicationSubsystem
 order: 49
 ---
 ## Navigation

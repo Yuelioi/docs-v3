@@ -1,5 +1,5 @@
 ---
-display_name: Get Leave Tangent at Spline Point
+title: Get Leave Tangent at Spline Point
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Element Type
+title: Get Element Type
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Entry
+title: Find Entry
 order: 1
 ---
 ## Navigation

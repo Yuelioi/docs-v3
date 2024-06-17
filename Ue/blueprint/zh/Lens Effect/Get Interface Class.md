@@ -1,5 +1,5 @@
 ---
-display_name: Get Interface Class
+title: Get Interface Class
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Track Row Display Name
+title: Get Track Row Display Name
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default OSCServer
+title: Get Default OSCServer
 order: 9
 ---
 ## Navigation

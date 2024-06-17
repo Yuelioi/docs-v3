@@ -1,5 +1,5 @@
 ---
-display_name: metadata
+title: metadata
 order: 29
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

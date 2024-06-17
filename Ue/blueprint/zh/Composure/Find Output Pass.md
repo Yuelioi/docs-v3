@@ -1,5 +1,5 @@
 ---
-display_name: Find Output Pass
+title: Find Output Pass
 order: 6
 ---
 ## Navigation

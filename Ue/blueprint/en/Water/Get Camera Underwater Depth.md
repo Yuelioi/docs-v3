@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Underwater Depth
+title: Get Camera Underwater Depth
 order: 2
 ---
 ## Navigation

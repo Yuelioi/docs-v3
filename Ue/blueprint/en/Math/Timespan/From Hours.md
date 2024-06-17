@@ -1,5 +1,5 @@
 ---
-display_name: From Hours
+title: From Hours
 order: 4
 ---
 ## Navigation

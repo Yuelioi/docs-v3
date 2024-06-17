@@ -1,5 +1,5 @@
 ---
-display_name: Landed Delegate
+title: Landed Delegate
 order: 9
 ---
 ## Navigation

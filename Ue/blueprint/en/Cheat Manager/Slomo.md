@@ -1,5 +1,5 @@
 ---
-display_name: Slomo
+title: Slomo
 order: 12
 ---
 ## Navigation

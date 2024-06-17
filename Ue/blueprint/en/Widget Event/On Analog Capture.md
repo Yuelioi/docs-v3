@@ -1,5 +1,5 @@
 ---
-display_name: On Analog Capture
+title: On Analog Capture
 order: 1
 ---
 ## Navigation

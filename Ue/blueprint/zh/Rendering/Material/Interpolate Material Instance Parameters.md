@@ -1,5 +1,5 @@
 ---
-display_name: Interpolate Material Instance Parameters
+title: Interpolate Material Instance Parameters
 order: 33
 ---
 ## Navigation

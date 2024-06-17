@@ -1,5 +1,5 @@
 ---
-display_name: Reset Collision Components
+title: Reset Collision Components
 order: 3
 ---
 ## Navigation

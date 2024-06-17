@@ -1,5 +1,5 @@
 ---
-display_name: Get Location at Distance Along Spline
+title: Get Location at Distance Along Spline
 order: 38
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Control Names
+title: Get All Control Names
 order: 27
 ---
 ## Navigation

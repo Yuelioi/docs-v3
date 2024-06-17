@@ -1,5 +1,5 @@
 ---
-display_name: Get Size Y
+title: Get Size Y
 order: 6
 ---
 ## Navigation

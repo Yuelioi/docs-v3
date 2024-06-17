@@ -1,5 +1,5 @@
 ---
-display_name: Get TextureShareWorldSubsystem
+title: Get TextureShareWorldSubsystem
 order: 73
 ---
 ## Navigation

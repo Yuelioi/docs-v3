@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Control
+title: Destroy Control
 order: 23
 ---
 ## Navigation

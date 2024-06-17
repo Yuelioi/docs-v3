@@ -1,5 +1,5 @@
 ---
-display_name: Draw Triangles
+title: Draw Triangles
 order: 11
 ---
 ## Navigation

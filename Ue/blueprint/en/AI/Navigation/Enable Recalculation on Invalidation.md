@@ -1,5 +1,5 @@
 ---
-display_name: Enable Recalculation on Invalidation
+title: Enable Recalculation on Invalidation
 order: 5
 ---
 ## Navigation

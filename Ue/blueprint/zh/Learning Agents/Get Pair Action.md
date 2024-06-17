@@ -1,5 +1,5 @@
 ---
-display_name: Get Pair Action
+title: Get Pair Action
 order: 99
 ---
 ## Navigation

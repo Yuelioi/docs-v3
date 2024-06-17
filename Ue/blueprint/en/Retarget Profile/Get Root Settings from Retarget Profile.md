@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Settings from Retarget Profile
+title: Get Root Settings from Retarget Profile
 order: 3
 ---
 ## Navigation

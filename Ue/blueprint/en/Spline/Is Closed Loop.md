@@ -1,5 +1,5 @@
 ---
-display_name: Is Closed Loop
+title: Is Closed Loop
 order: 78
 ---
 ## Navigation

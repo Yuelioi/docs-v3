@@ -1,5 +1,5 @@
 ---
-display_name: Create Effect Stack (For Layer)
+title: Create Effect Stack (For Layer)
 order: 39
 ---
 ## Navigation

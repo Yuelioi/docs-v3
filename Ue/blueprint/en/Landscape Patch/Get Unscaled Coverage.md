@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Coverage
+title: Get Unscaled Coverage
 order: 16
 ---
 ## Navigation

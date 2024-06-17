@@ -1,5 +1,5 @@
 ---
-display_name: Write Position
+title: Write Position
 order: 25
 ---
 ## Navigation

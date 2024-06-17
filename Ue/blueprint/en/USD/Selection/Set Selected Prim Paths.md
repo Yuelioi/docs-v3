@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Prim Paths
+title: Set Selected Prim Paths
 order: 6
 ---
 ## Navigation

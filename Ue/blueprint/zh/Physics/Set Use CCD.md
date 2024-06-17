@@ -1,5 +1,5 @@
 ---
-display_name: Set Use CCD
+title: Set Use CCD
 order: 59
 ---
 ## Navigation

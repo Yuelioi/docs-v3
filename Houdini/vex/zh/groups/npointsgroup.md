@@ -1,5 +1,5 @@
 ---
-display_name: npointsgroup
+title: npointsgroup
 order: 8
 ---
 `int  npointsgroup(<geometry>geometry, string groupname)`

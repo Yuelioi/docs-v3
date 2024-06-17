@@ -1,5 +1,5 @@
 ---
-display_name: Is Normal XYZ (Vector4)
+title: Is Normal XYZ (Vector4)
 order: 6
 ---
 ## Navigation

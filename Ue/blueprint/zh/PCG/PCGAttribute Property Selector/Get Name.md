@@ -1,5 +1,5 @@
 ---
-display_name: Get Name
+title: Get Name
 order: 6
 ---
 ## Navigation

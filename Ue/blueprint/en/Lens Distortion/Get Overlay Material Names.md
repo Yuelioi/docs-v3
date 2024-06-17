@@ -1,5 +1,5 @@
 ---
-display_name: Get Overlay Material Names
+title: Get Overlay Material Names
 order: 12
 ---
 ## Navigation

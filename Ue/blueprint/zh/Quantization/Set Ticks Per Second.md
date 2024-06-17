@@ -1,5 +1,5 @@
 ---
-display_name: Set Ticks Per Second
+title: Set Ticks Per Second
 order: 11
 ---
 ## Navigation

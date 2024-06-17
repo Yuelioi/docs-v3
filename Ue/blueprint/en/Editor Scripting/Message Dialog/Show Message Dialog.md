@@ -1,5 +1,5 @@
 ---
-display_name: Show Message Dialog
+title: Show Message Dialog
 order: 1
 ---
 ## Navigation

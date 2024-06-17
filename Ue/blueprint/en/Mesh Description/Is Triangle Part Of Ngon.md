@@ -1,5 +1,5 @@
 ---
-display_name: Is Triangle Part Of Ngon
+title: Is Triangle Part Of Ngon
 order: 79
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Depth Stencil Value
+title: Set Custom Depth Stencil Value
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Culture
+title: Get Current Culture
 order: 4
 ---
 ## Navigation

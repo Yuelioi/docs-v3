@@ -1,5 +1,5 @@
 ---
-display_name: Multilayer Projector Update Layer
+title: Multilayer Projector Update Layer
 order: 55
 ---
 ## Navigation

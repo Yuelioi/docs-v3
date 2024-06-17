@@ -1,5 +1,5 @@
 ---
-display_name: Sky Light
+title: Sky Light
 order: 7
 ---
 ## Navigation

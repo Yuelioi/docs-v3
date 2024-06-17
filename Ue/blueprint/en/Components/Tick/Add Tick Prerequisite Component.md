@@ -1,5 +1,5 @@
 ---
-display_name: Add Tick Prerequisite Component
+title: Add Tick Prerequisite Component
 order: 2
 ---
 ## Navigation

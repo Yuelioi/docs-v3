@@ -1,5 +1,5 @@
 ---
-display_name: Get Volume State
+title: Get Volume State
 order: 4
 ---
 ## Navigation

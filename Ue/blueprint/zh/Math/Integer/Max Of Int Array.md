@@ -1,5 +1,5 @@
 ---
-display_name: Max Of Int Array
+title: Max Of Int Array
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Bool Action
+title: Specify Bool Action
 order: 280
 ---
 ## Navigation

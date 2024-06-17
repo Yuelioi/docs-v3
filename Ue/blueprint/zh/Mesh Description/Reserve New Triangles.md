@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Triangles
+title: Reserve New Triangles
 order: 87
 ---
 ## Navigation

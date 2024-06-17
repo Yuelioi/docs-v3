@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Control Rig
+title: Convert to Control Rig
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Time Limit
+title: Set Time Limit
 order: 12
 ---
 ## Navigation

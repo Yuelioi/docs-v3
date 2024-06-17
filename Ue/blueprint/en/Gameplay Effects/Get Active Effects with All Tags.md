@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Effects with All Tags
+title: Get Active Effects with All Tags
 order: 5
 ---
 ## Navigation

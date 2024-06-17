@@ -1,5 +1,5 @@
 ---
-display_name: usd_isattrib
+title: usd_isattrib
 order: 67
 ---
 | Since | 17.5 |

@@ -1,5 +1,5 @@
 ---
-display_name: Pilot Actor
+title: Pilot Actor
 order: 1
 ---
 ## Navigation

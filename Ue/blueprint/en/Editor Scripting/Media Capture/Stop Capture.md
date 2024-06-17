@@ -1,5 +1,5 @@
 ---
-display_name: Stop Capture
+title: Stop Capture
 order: 8
 ---
 ## Navigation

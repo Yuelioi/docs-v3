@@ -1,5 +1,5 @@
 ---
-display_name: Is State Blending In
+title: Is State Blending In
 order: 6
 ---
 ## Navigation

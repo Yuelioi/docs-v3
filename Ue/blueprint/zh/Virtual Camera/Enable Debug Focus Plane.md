@@ -1,5 +1,5 @@
 ---
-display_name: Enable Debug Focus Plane
+title: Enable Debug Focus Plane
 order: 29
 ---
 ## Navigation

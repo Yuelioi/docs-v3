@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Multi User CVar Sync
+title: Set Enable Multi User CVar Sync
 order: 15
 ---
 ## Navigation

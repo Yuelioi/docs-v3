@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Simulation
+title: Set Enable Simulation
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Trigger Type
+title: Get Trigger Type
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Enum by Name
+title: Find Enum by Name
 order: 20
 ---
 ## Navigation

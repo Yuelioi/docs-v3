@@ -1,5 +1,5 @@
 ---
-display_name: Get Number of Entries
+title: Get Number of Entries
 order: 39
 ---
 ## Navigation

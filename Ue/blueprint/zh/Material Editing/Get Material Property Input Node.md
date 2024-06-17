@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Property Input Node
+title: Get Material Property Input Node
 order: 28
 ---
 ## Navigation

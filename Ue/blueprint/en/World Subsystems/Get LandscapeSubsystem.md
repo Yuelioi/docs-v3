@@ -1,5 +1,5 @@
 ---
-display_name: Get LandscapeSubsystem
+title: Get LandscapeSubsystem
 order: 34
 ---
 ## Navigation

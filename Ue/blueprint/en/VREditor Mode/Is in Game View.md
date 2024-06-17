@@ -1,5 +1,5 @@
 ---
-display_name: Is in Game View
+title: Is in Game View
 order: 2
 ---
 ## Navigation

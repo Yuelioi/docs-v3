@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Update Frame Number
+title: Get Last Update Frame Number
 order: 4
 ---
 ## Navigation

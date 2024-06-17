@@ -1,5 +1,5 @@
 ---
-display_name: Remap Material IDs
+title: Remap Material IDs
 order: 8
 ---
 ## Navigation

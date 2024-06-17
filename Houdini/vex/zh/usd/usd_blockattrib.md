@@ -1,5 +1,5 @@
 ---
-display_name: usd_blockattrib
+title: usd_blockattrib
 order: 23
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: On Audio Playback Percent
+title: On Audio Playback Percent
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Matrix Array Value
+title: Niagara Set Matrix Array Value
 order: 62
 ---
 ## Navigation

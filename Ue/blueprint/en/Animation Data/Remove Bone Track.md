@@ -1,5 +1,5 @@
 ---
-display_name: Remove Bone Track
+title: Remove Bone Track
 order: 12
 ---
 ## Navigation

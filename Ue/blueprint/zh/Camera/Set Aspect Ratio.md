@@ -1,5 +1,5 @@
 ---
-display_name: Set Aspect Ratio
+title: Set Aspect Ratio
 order: 19
 ---
 ## Navigation

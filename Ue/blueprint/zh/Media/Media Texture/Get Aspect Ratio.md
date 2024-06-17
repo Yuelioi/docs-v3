@@ -1,5 +1,5 @@
 ---
-display_name: Get Aspect Ratio
+title: Get Aspect Ratio
 order: 2
 ---
 ## Navigation

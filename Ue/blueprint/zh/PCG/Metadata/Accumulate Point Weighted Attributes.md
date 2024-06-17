@@ -1,5 +1,5 @@
 ---
-display_name: Accumulate Point Weighted Attributes
+title: Accumulate Point Weighted Attributes
 order: 1
 ---
 ## Navigation

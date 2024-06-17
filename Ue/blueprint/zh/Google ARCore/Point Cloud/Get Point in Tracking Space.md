@@ -1,5 +1,5 @@
 ---
-display_name: Get Point in Tracking Space
+title: Get Point in Tracking Space
 order: 3
 ---
 ## Navigation

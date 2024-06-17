@@ -1,5 +1,5 @@
 ---
-display_name: Get Rpm
+title: Get Rpm
 order: 3
 ---
 ## Navigation

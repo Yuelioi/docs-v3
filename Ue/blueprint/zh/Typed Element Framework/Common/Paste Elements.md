@@ -1,5 +1,5 @@
 ---
-display_name: Paste Elements
+title: Paste Elements
 order: 10
 ---
 ## Navigation

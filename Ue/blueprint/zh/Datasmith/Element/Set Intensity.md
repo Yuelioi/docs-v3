@@ -1,5 +1,5 @@
 ---
-display_name: Set Intensity
+title: Set Intensity
 order: 117
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Distance2D Squared (Vector)
+title: Distance2D Squared (Vector)
 order: 12
 ---
 ## Navigation

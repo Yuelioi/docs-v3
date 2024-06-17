@@ -1,5 +1,5 @@
 ---
-display_name: Get Crop Preset by Name
+title: Get Crop Preset by Name
 order: 7
 ---
 ## Navigation

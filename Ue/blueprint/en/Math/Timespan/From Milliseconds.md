@@ -1,5 +1,5 @@
 ---
-display_name: From Milliseconds
+title: From Milliseconds
 order: 5
 ---
 ## Navigation

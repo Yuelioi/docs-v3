@@ -1,5 +1,5 @@
 ---
-display_name: Get Manually Redraw
+title: Get Manually Redraw
 order: 21
 ---
 ## Navigation

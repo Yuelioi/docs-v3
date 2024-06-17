@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Orientation Axis Lock Props
+title: Get Particle Module Orientation Axis Lock Props
 order: 82
 ---
 ## Navigation

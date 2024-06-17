@@ -1,5 +1,5 @@
 ---
-display_name: Is Injected
+title: Is Injected
 order: 46
 ---
 ## Navigation

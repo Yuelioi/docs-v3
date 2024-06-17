@@ -1,5 +1,5 @@
 ---
-display_name: Get Switchboard Project Settings
+title: Get Switchboard Project Settings
 order: 2
 ---
 ## Navigation

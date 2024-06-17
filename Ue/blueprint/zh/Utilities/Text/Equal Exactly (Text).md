@@ -1,5 +1,5 @@
 ---
-display_name: Equal Exactly (Text)
+title: Equal Exactly (Text)
 order: 13
 ---
 ## Navigation

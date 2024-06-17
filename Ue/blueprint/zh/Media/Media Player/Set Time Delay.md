@@ -1,5 +1,5 @@
 ---
-display_name: Set Time Delay
+title: Set Time Delay
 order: 78
 ---
 ## Navigation

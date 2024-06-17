@@ -1,5 +1,5 @@
 ---
-display_name: Get Sensor Aspect Ratio
+title: Get Sensor Aspect Ratio
 order: 62
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Corner Radius
+title: Set Corner Radius
 order: 35
 ---
 ## Navigation

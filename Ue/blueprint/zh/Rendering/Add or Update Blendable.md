@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Blendable
+title: Add or Update Blendable
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Simulation Enabled
+title: Is Simulation Enabled
 order: 5
 ---
 ## Navigation

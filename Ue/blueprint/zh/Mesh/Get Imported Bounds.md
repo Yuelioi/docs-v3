@@ -1,5 +1,5 @@
 ---
-display_name: Get Imported Bounds
+title: Get Imported Bounds
 order: 5
 ---
 ## Navigation

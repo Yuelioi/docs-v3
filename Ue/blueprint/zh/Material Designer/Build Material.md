@@ -1,5 +1,5 @@
 ---
-display_name: Build Material
+title: Build Material
 order: 13
 ---
 ## Navigation

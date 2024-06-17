@@ -1,5 +1,5 @@
 ---
-display_name: SetTextStyle (Multi-Line Text Box)
+title: SetTextStyle (Multi-Line Text Box)
 order: 53
 ---
 ## Navigation

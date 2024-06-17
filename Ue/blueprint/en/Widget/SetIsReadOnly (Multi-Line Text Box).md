@@ -1,5 +1,5 @@
 ---
-display_name: SetIsReadOnly (Multi-Line Text Box)
+title: SetIsReadOnly (Multi-Line Text Box)
 order: 47
 ---
 ## Navigation

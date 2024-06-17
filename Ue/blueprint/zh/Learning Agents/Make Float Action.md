@@ -1,5 +1,5 @@
 ---
-display_name: Make Float Action
+title: Make Float Action
 order: 190
 ---
 ## Navigation

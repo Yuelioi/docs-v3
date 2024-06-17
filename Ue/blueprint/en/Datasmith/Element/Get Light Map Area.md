@@ -1,5 +1,5 @@
 ---
-display_name: Get Light Map Area
+title: Get Light Map Area
 order: 38
 ---
 ## Navigation

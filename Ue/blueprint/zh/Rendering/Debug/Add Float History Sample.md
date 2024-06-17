@@ -1,5 +1,5 @@
 ---
-display_name: Add Float History Sample
+title: Add Float History Sample
 order: 1
 ---
 ## Navigation

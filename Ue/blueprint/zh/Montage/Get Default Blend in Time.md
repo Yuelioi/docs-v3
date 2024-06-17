@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Blend in Time
+title: Get Default Blend in Time
 order: 4
 ---
 ## Navigation

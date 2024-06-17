@@ -1,5 +1,5 @@
 ---
-display_name: Get Current State
+title: Get Current State
 order: 1
 ---
 ## Navigation

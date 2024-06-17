@@ -1,5 +1,5 @@
 ---
-display_name: Has Float
+title: Has Float
 order: 11
 ---
 ## Navigation

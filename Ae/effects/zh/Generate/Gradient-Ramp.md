@@ -1,5 +1,5 @@
 ---
-display_name: 梯度渐变
+title: 梯度渐变
 order: 18
 ---
 

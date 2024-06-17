@@ -1,5 +1,5 @@
 ---
-display_name: Make Rot from YX
+title: Make Rot from YX
 order: 16
 ---
 ## Navigation

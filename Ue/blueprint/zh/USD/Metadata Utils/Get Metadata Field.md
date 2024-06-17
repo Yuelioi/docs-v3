@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Field
+title: Get Metadata Field
 order: 2
 ---
 ## Navigation

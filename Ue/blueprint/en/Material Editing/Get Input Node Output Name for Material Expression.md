@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Node Output Name for Material Expression
+title: Get Input Node Output Name for Material Expression
 order: 12
 ---
 ## Navigation

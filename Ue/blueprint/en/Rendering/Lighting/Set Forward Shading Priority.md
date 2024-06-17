@@ -1,5 +1,5 @@
 ---
-display_name: Set Forward Shading Priority
+title: Set Forward Shading Priority
 order: 15
 ---
 ## Navigation

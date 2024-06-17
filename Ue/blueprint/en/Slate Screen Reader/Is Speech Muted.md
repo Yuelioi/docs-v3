@@ -1,5 +1,5 @@
 ---
-display_name: Is Speech Muted
+title: Is Speech Muted
 order: 9
 ---
 ## Navigation

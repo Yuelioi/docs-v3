@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Icons
+title: Refresh Icons
 order: 2
 ---
 ## Navigation

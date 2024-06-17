@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Double
+title: Set Value Double
 order: 22
 ---
 ## Navigation

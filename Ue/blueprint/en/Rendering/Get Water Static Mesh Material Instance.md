@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Static Mesh Material Instance
+title: Get Water Static Mesh Material Instance
 order: 29
 ---
 ## Navigation

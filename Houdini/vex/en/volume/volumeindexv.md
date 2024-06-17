@@ -1,5 +1,5 @@
 ---
-display_name: volumeindexv
+title: volumeindexv
 order: 12
 ---
 `vector  volumeindexv(<geometry>geometry, int primnum, vector voxel)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Constant Acceleration Props
+title: Get Particle Module Constant Acceleration Props
 order: 68
 ---
 ## Navigation

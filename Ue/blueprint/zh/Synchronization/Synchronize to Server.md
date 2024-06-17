@@ -1,5 +1,5 @@
 ---
-display_name: Synchronize to Server
+title: Synchronize to Server
 order: 4
 ---
 ## Navigation

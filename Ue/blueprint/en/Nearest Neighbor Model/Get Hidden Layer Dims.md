@@ -1,5 +1,5 @@
 ---
-display_name: Get Hidden Layer Dims
+title: Get Hidden Layer Dims
 order: 7
 ---
 ## Navigation

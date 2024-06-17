@@ -1,5 +1,5 @@
 ---
-display_name: Get Loop Regions
+title: Get Loop Regions
 order: 14
 ---
 ## Navigation

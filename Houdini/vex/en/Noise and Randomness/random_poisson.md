@@ -1,5 +1,5 @@
 ---
-display_name: random_poisson
+title: random_poisson
 order: 34
 ---
 | Since | 17.0 |

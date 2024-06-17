@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Object Reference
+title: Parse Json as Object Reference
 order: 20
 ---
 ## Navigation

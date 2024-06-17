@@ -1,5 +1,5 @@
 ---
-display_name: Timecode to Frame Amount
+title: Timecode to Frame Amount
 order: 5
 ---
 ## Navigation

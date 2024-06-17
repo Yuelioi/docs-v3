@@ -1,5 +1,5 @@
 ---
-display_name: Get Effect Target
+title: Get Effect Target
 order: 69
 ---
 ## Navigation

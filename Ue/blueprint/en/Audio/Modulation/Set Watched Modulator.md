@@ -1,5 +1,5 @@
 ---
-display_name: Set Watched Modulator
+title: Set Watched Modulator
 order: 29
 ---
 ## Navigation

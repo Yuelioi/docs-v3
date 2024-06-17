@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Units Text
+title: Set Show Units Text
 order: 77
 ---
 ## Navigation

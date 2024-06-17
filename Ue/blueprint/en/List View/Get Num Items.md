@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Items
+title: Get Num Items
 order: 10
 ---
 ## Navigation

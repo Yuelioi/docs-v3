@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Color Curve
+title: Set Linear Color Curve
 order: 19
 ---
 ## Navigation

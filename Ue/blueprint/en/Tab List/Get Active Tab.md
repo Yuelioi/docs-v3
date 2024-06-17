@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Tab
+title: Get Active Tab
 order: 2
 ---
 ## Navigation

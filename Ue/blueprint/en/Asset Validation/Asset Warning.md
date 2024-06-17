@@ -1,5 +1,5 @@
 ---
-display_name: Asset Warning
+title: Asset Warning
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mie Exponential Distribution
+title: Set Mie Exponential Distribution
 order: 61
 ---
 ## Navigation

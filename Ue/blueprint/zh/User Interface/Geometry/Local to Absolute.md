@@ -1,5 +1,5 @@
 ---
-display_name: Local to Absolute
+title: Local to Absolute
 order: 7
 ---
 ## Navigation

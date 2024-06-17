@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated Triangle Position
+title: Get Interpolated Triangle Position
 order: 15
 ---
 ## Navigation

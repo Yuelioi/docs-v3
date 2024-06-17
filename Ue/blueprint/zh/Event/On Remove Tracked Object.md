@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Object
+title: On Remove Tracked Object
 order: 12
 ---
 ## Navigation

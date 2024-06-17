@@ -1,5 +1,5 @@
 ---
-display_name: fastshadow
+title: fastshadow
 order: 3
 ---
 | On this page | * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) |

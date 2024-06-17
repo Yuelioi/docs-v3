@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Velocity From Sockets
+title: Calculate Velocity From Sockets
 order: 3
 ---
 ## Navigation

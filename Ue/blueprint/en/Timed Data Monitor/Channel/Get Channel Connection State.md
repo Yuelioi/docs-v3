@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Connection State
+title: Get Channel Connection State
 order: 4
 ---
 ## Navigation

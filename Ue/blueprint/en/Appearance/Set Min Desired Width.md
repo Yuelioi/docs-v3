@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Desired Width
+title: Set Min Desired Width
 order: 63
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Min YResolution for 3DView
+title: Get Min YResolution for 3DView
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Migrate Packages
+title: Migrate Packages
 order: 34
 ---
 ## Navigation

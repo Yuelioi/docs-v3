@@ -1,5 +1,5 @@
 ---
-display_name: Contains Patch
+title: Contains Patch
 order: 4
 ---
 ## Navigation

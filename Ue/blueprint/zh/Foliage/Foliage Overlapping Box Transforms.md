@@ -1,5 +1,5 @@
 ---
-display_name: Foliage Overlapping Box Transforms
+title: Foliage Overlapping Box Transforms
 order: 5
 ---
 ## Navigation

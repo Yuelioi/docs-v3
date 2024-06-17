@@ -1,5 +1,5 @@
 ---
-display_name: Remove Collisions with Notification
+title: Remove Collisions with Notification
 order: 25
 ---
 ## Navigation

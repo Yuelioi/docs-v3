@@ -1,5 +1,5 @@
 ---
-display_name: Set Parameter in Scope
+title: Set Parameter in Scope
 order: 4
 ---
 ## Navigation

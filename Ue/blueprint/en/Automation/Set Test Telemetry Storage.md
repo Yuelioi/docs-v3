@@ -1,5 +1,5 @@
 ---
-display_name: Set Test Telemetry Storage
+title: Set Test Telemetry Storage
 order: 33
 ---
 ## Navigation

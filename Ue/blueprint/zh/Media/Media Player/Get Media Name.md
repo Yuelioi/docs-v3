@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Name
+title: Get Media Name
 order: 13
 ---
 ## Navigation

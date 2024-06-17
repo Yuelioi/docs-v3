@@ -1,5 +1,5 @@
 ---
-display_name: sensor_panorama_create
+title: sensor_panorama_create
 order: 1
 ---
 `int  sensor_panorama_create(float time, vector pos, int size, float near, float far, string candidateobj, string includeobj, string excludeobj, int uselit)`

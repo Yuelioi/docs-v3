@@ -1,5 +1,5 @@
 ---
-display_name: Find Binding by Name
+title: Find Binding by Name
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Copy Selected Elements
+title: Copy Selected Elements
 order: 4
 ---
 ## Navigation

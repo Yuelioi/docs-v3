@@ -1,5 +1,5 @@
 ---
-display_name: Find Vector Parameter Name Index
+title: Find Vector Parameter Name Index
 order: 11
 ---
 ## Navigation

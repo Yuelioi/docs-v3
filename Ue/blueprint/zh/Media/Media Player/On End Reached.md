@@ -1,5 +1,5 @@
 ---
-display_name: On End Reached
+title: On End Reached
 order: 47
 ---
 ## Navigation

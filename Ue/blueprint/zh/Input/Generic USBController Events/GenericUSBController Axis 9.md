@@ -1,5 +1,5 @@
 ---
-display_name: GenericUSBController Axis 9
+title: GenericUSBController Axis 9
 order: 24
 ---
 ## Navigation

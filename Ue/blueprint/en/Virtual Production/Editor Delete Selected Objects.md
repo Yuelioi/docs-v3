@@ -1,5 +1,5 @@
 ---
-display_name: Editor Delete Selected Objects
+title: Editor Delete Selected Objects
 order: 2
 ---
 ## Navigation

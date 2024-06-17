@@ -1,5 +1,5 @@
 ---
-display_name: Rename Asset
+title: Rename Asset
 order: 32
 ---
 ## Navigation

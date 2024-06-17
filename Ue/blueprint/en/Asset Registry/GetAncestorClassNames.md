@@ -1,5 +1,5 @@
 ---
-display_name: GetAncestorClassNames
+title: GetAncestorClassNames
 order: 27
 ---
 ## Navigation

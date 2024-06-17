@@ -1,5 +1,5 @@
 ---
-display_name: Unbind All Events from on OSCAddress Pattern Matching
+title: Unbind All Events from on OSCAddress Pattern Matching
 order: 76
 ---
 ## Navigation

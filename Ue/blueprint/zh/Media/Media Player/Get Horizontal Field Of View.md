@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Field Of View
+title: Get Horizontal Field Of View
 order: 12
 ---
 ## Navigation

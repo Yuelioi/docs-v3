@@ -1,5 +1,5 @@
 ---
-display_name: Get NetworkSubsystem
+title: Get NetworkSubsystem
 order: 63
 ---
 ## Navigation

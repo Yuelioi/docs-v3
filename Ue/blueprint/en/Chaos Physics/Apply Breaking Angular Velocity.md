@@ -1,5 +1,5 @@
 ---
-display_name: Apply Breaking Angular Velocity
+title: Apply Breaking Angular Velocity
 order: 3
 ---
 ## Navigation

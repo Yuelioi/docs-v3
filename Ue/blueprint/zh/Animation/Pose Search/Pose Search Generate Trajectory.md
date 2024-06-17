@@ -1,5 +1,5 @@
 ---
-display_name: Pose Search Generate Trajectory
+title: Pose Search Generate Trajectory
 order: 3
 ---
 ## Navigation

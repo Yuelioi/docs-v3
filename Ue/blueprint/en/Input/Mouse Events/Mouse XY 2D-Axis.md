@@ -1,5 +1,5 @@
 ---
-display_name: Mouse XY 2D-Axis
+title: Mouse XY 2D-Axis
 order: 7
 ---
 ## Navigation

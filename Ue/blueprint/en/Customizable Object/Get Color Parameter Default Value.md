@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Parameter Default Value
+title: Get Color Parameter Default Value
 order: 5
 ---
 ## Navigation

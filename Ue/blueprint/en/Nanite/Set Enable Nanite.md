@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Nanite
+title: Set Enable Nanite
 order: 1
 ---
 ## Navigation

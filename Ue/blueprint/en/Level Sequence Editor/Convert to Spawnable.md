@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Spawnable
+title: Convert to Spawnable
 order: 7
 ---
 ## Navigation

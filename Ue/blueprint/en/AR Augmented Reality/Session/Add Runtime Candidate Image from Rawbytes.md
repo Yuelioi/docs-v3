@@ -1,5 +1,5 @@
 ---
-display_name: Add Runtime Candidate Image from Rawbytes
+title: Add Runtime Candidate Image from Rawbytes
 order: 1
 ---
 ## Navigation

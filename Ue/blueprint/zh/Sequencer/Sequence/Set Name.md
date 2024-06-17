@@ -1,5 +1,5 @@
 ---
-display_name: Set Name
+title: Set Name
 order: 90
 ---
 ## Navigation

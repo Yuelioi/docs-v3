@@ -1,5 +1,5 @@
 ---
-display_name: O
+title: O
 order: 80
 ---
 ## Navigation

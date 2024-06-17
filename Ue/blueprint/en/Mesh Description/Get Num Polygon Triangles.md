@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Polygon Triangles
+title: Get Num Polygon Triangles
 order: 31
 ---
 ## Navigation

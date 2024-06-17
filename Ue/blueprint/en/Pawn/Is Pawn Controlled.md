@@ -1,5 +1,5 @@
 ---
-display_name: Is Pawn Controlled
+title: Is Pawn Controlled
 order: 16
 ---
 ## Navigation

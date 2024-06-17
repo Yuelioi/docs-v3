@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Normalized Iris
+title: Evaluate Normalized Iris
 order: 8
 ---
 ## Navigation

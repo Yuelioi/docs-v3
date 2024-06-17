@@ -1,5 +1,5 @@
 ---
-display_name: Clear Color List
+title: Clear Color List
 order: 1
 ---
 ## Navigation

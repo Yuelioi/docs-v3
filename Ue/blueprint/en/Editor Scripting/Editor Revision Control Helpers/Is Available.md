@@ -1,5 +1,5 @@
 ---
-display_name: Is Available
+title: Is Available
 order: 10
 ---
 ## Navigation

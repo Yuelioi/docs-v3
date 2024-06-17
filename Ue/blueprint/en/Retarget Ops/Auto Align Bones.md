@@ -1,5 +1,5 @@
 ---
-display_name: Auto Align Bones
+title: Auto Align Bones
 order: 3
 ---
 ## Navigation

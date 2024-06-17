@@ -1,5 +1,5 @@
 ---
-display_name: Is Pressed
+title: Is Pressed
 order: 13
 ---
 ## Navigation

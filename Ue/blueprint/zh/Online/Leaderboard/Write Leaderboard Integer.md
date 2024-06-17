@@ -1,5 +1,5 @@
 ---
-display_name: Write Leaderboard Integer
+title: Write Leaderboard Integer
 order: 3
 ---
 ## Navigation

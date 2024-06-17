@@ -1,5 +1,5 @@
 ---
-display_name: Ignore Actor when Moving
+title: Ignore Actor when Moving
 order: 34
 ---
 ## Navigation

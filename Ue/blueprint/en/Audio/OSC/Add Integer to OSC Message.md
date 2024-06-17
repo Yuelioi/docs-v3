@@ -1,5 +1,5 @@
 ---
-display_name: Add Integer to OSC Message
+title: Add Integer to OSC Message
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CameraLayer
+title: CameraLayer
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 2
+title: Unstringify as Int 2
 order: 92
 ---
 ## Navigation

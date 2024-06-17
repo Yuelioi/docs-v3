@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Package (Message)
+title: Wait for Package (Message)
 order: 55
 ---
 ## Navigation

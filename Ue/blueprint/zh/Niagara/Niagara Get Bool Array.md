@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Bool Array
+title: Niagara Get Bool Array
 order: 33
 ---
 ## Navigation

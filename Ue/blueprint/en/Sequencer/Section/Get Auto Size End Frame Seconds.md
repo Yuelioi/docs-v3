@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Size End Frame Seconds
+title: Get Auto Size End Frame Seconds
 order: 11
 ---
 ## Navigation

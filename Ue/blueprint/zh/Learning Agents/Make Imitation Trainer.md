@@ -1,5 +1,5 @@
 ---
-display_name: Make Imitation Trainer
+title: Make Imitation Trainer
 order: 192
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Build Configuration
+title: Get Build Configuration
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Endpoint
+title: Make Endpoint
 order: 8
 ---
 ## Navigation

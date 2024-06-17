@@ -1,5 +1,5 @@
 ---
-display_name: Add Test Warning
+title: Add Test Warning
 order: 8
 ---
 ## Navigation

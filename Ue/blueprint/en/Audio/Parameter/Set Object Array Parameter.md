@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Array Parameter
+title: Set Object Array Parameter
 order: 26
 ---
 ## Navigation

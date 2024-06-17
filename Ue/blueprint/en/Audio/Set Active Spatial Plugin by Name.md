@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Spatial Plugin by Name
+title: Set Active Spatial Plugin by Name
 order: 6
 ---
 ## Navigation

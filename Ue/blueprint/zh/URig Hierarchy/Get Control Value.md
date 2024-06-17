@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Value
+title: Get Control Value
 order: 21
 ---
 ## Navigation

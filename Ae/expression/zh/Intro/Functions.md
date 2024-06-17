@@ -1,5 +1,5 @@
 ---
-display_name: Functions
+title: Functions
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: 编号
+title: 编号
 order: 1
 ---
 

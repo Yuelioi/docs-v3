@@ -1,5 +1,5 @@
 ---
-display_name: Property Access
+title: Property Access
 order: 2
 ---
 ## Navigation

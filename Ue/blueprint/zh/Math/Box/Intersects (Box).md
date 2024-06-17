@@ -1,5 +1,5 @@
 ---
-display_name: Intersects (Box)
+title: Intersects (Box)
 order: 3
 ---
 ## Navigation

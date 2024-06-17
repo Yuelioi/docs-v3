@@ -1,5 +1,5 @@
 ---
-display_name: Get Reflection Quality
+title: Get Reflection Quality
 order: 56
 ---
 ## Navigation

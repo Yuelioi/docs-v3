@@ -1,5 +1,5 @@
 ---
-display_name: Regenerate LOD
+title: Regenerate LOD
 order: 8
 ---
 ## Navigation

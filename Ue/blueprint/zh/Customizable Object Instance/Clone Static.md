@@ -1,5 +1,5 @@
 ---
-display_name: Clone Static
+title: Clone Static
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Destination
+title: Set Navigation Destination
 order: 6
 ---
 ## Navigation

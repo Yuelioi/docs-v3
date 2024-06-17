@@ -1,5 +1,5 @@
 ---
-display_name: Append Mesh
+title: Append Mesh
 order: 9
 ---
 ## Navigation

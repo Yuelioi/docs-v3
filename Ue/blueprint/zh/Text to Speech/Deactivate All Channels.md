@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate All Channels
+title: Deactivate All Channels
 order: 5
 ---
 ## Navigation

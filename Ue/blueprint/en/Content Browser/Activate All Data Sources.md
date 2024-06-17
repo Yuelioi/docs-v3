@@ -1,5 +1,5 @@
 ---
-display_name: Activate All Data Sources
+title: Activate All Data Sources
 order: 1
 ---
 ## Navigation

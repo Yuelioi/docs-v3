@@ -1,5 +1,5 @@
 ---
-display_name: Get Planet Center Transform
+title: Get Planet Center Transform
 order: 2
 ---
 ## Navigation

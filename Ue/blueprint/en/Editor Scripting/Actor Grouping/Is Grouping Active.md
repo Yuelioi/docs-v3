@@ -1,5 +1,5 @@
 ---
-display_name: Is Grouping Active
+title: Is Grouping Active
 order: 7
 ---
 ## Navigation

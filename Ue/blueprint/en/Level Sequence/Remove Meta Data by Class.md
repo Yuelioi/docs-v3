@@ -1,5 +1,5 @@
 ---
-display_name: Remove Meta Data by Class
+title: Remove Meta Data by Class
 order: 4
 ---
 ## Navigation

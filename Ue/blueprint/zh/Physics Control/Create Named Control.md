@@ -1,5 +1,5 @@
 ---
-display_name: Create Named Control
+title: Create Named Control
 order: 19
 ---
 ## Navigation

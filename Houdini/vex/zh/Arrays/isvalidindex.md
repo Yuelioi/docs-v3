@@ -1,5 +1,5 @@
 ---
-display_name: isvalidindex
+title: isvalidindex
 order: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: pcimportbyidxs
+title: pcimportbyidxs
 order: 20
 ---
 `string  pcimportbyidxs(int handle, string channel_name, int idx)`

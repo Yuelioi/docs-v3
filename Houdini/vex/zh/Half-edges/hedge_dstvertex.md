@@ -1,5 +1,5 @@
 ---
-display_name: hedge_dstvertex
+title: hedge_dstvertex
 order: 2
 ---
 `int  hedge_dstvertex(<geometry>geometry, int hedge)`

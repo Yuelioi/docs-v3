@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Cone
+title: Draw Debug Cone
 order: 7
 ---
 ## Navigation

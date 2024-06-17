@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Offset Min
+title: Get Range Offset Min
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Comp Element Name
+title: Get Comp Element Name
 order: 2
 ---
 ## Navigation

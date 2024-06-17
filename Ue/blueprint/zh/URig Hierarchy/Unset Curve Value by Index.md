@@ -1,5 +1,5 @@
 ---
-display_name: Unset Curve Value by Index
+title: Unset Curve Value by Index
 order: 173
 ---
 ## Navigation

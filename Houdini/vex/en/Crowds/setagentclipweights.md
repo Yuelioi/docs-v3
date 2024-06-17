@@ -1,5 +1,5 @@
 ---
-display_name: setagentclipweights
+title: setagentclipweights
 order: 55
 ---
 `void  setagentclipweights(int geohandle, int prim, float clipweights[])`

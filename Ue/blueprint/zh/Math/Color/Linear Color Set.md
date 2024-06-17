@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set
+title: Linear Color Set
 order: 20
 ---
 ## Navigation

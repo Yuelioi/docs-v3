@@ -1,5 +1,5 @@
 ---
-display_name: Get All Widgets Of Class
+title: Get All Widgets Of Class
 order: 14
 ---
 ## Navigation

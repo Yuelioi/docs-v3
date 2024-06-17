@@ -1,5 +1,5 @@
 ---
-display_name: Get Adjacent Indices
+title: Get Adjacent Indices
 order: 6
 ---
 ## Navigation

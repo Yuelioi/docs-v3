@@ -1,5 +1,5 @@
 ---
-display_name: Get Element Parent
+title: Get Element Parent
 order: 3
 ---
 ## Navigation

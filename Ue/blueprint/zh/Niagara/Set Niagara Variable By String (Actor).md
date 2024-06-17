@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Actor)
+title: Set Niagara Variable By String (Actor)
 order: 46
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Status
+title: Get Status
 order: 17
 ---
 ## Navigation

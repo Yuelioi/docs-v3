@@ -1,5 +1,5 @@
 ---
-display_name: Add Target Node Uid
+title: Add Target Node Uid
 order: 10
 ---
 ## Navigation

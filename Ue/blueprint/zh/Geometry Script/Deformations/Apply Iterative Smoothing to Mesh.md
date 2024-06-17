@@ -1,5 +1,5 @@
 ---
-display_name: Apply Iterative Smoothing to Mesh
+title: Apply Iterative Smoothing to Mesh
 order: 5
 ---
 ## Navigation

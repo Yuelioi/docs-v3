@@ -1,5 +1,5 @@
 ---
-display_name: Derive Model from Actors
+title: Derive Model from Actors
 order: 5
 ---
 ## Navigation

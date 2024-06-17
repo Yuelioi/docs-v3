@@ -1,5 +1,5 @@
 ---
-display_name: Remove Weight
+title: Remove Weight
 order: 37
 ---
 ## Navigation

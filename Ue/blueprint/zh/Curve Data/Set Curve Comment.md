@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Comment
+title: Set Curve Comment
 order: 20
 ---
 ## Navigation

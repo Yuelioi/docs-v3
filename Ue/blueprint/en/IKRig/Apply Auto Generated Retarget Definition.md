@@ -1,5 +1,5 @@
 ---
-display_name: Apply Auto Generated Retarget Definition
+title: Apply Auto Generated Retarget Definition
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Polygon Vertices
+title: Get Num Polygon Vertices
 order: 32
 ---
 ## Navigation

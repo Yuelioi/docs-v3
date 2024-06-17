@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalar Parameter by Index
+title: Set Scalar Parameter by Index
 order: 55
 ---
 ## Navigation

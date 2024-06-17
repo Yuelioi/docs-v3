@@ -1,5 +1,5 @@
 ---
-display_name: Convert Actor to Light Weight Instance
+title: Convert Actor to Light Weight Instance
 order: 1
 ---
 ## Navigation

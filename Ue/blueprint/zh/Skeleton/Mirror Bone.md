@@ -1,5 +1,5 @@
 ---
-display_name: Mirror Bone
+title: Mirror Bone
 order: 10
 ---
 ## Navigation

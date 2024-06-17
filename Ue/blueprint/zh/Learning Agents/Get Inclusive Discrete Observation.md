@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Discrete Observation
+title: Get Inclusive Discrete Observation
 order: 75
 ---
 ## Navigation

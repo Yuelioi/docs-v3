@@ -1,5 +1,5 @@
 ---
-display_name: Get Attenuation Factor
+title: Get Attenuation Factor
 order: 1
 ---
 ## Navigation

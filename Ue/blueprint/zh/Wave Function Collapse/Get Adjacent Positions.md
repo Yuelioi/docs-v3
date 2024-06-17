@@ -1,5 +1,5 @@
 ---
-display_name: Get Adjacent Positions
+title: Get Adjacent Positions
 order: 7
 ---
 ## Navigation

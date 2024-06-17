@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: 反转
+title: 反转
 ---
 
 # Invert - 反转

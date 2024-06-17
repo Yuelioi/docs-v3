@@ -1,5 +1,5 @@
 ---
-display_name: Get Perform GCOn Unload
+title: Get Perform GCOn Unload
 order: 40
 ---
 ## Navigation

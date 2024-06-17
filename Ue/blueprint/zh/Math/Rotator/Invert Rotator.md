@@ -1,5 +1,5 @@
 ---
-display_name: Invert Rotator
+title: Invert Rotator
 order: 10
 ---
 ## Navigation

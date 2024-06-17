@@ -1,5 +1,5 @@
 ---
-display_name: setpointgroup
+title: setpointgroup
 order: 10
 ---
 `int  setpointgroup(int geohandle, string name, int point_num, int value, string mode="set")`

@@ -1,5 +1,5 @@
 ---
-display_name: Material Sprite
+title: Material Sprite
 order: 5
 ---
 ## Navigation

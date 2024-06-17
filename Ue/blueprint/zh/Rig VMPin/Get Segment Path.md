@@ -1,5 +1,5 @@
 ---
-display_name: Get Segment Path
+title: Get Segment Path
 order: 27
 ---
 ## Navigation

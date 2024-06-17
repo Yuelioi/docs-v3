@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Float 4Array
+title: Unstringify as Float 4Array
 order: 81
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Reflex Mode
+title: Set Reflex Mode
 order: 8
 ---
 ## Navigation

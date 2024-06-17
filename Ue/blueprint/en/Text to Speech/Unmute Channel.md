@@ -1,5 +1,5 @@
 ---
-display_name: Unmute Channel
+title: Unmute Channel
 order: 22
 ---
 ## Navigation

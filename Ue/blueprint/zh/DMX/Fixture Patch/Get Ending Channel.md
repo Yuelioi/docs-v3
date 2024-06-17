@@ -1,5 +1,5 @@
 ---
-display_name: Get Ending Channel
+title: Get Ending Channel
 order: 14
 ---
 ## Navigation

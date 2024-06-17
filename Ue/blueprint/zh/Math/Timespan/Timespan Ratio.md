@@ -1,5 +1,5 @@
 ---
-display_name: Timespan Ratio
+title: Timespan Ratio
 order: 23
 ---
 ## Navigation

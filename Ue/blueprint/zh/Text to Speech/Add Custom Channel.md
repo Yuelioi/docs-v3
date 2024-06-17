@@ -1,5 +1,5 @@
 ---
-display_name: Add Custom Channel
+title: Add Custom Channel
 order: 3
 ---
 ## Navigation

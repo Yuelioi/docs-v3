@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Desired Slot Height
+title: Set Min Desired Slot Height
 order: 1
 ---
 ## Navigation

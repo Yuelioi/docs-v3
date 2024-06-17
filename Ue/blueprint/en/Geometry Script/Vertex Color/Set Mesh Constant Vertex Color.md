@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Constant Vertex Color
+title: Set Mesh Constant Vertex Color
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Linear Color
+title: Set Value Linear Color
 order: 148
 ---
 ## Navigation

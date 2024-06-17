@@ -1,5 +1,5 @@
 ---
-display_name: Interpolate Component
+title: Interpolate Component
 order: 59
 ---
 ## Navigation

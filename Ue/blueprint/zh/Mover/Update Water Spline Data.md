@@ -1,5 +1,5 @@
 ---
-display_name: Update Water Spline Data
+title: Update Water Spline Data
 order: 7
 ---
 ## Navigation

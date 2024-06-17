@@ -1,5 +1,5 @@
 ---
-display_name: Set Relative Location
+title: Set Relative Location
 order: 69
 ---
 ## Navigation

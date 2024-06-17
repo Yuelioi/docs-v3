@@ -1,5 +1,5 @@
 ---
-display_name: Get Deprecated Input Yaw Scale
+title: Get Deprecated Input Yaw Scale
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Ies Brightness
+title: Set Use Ies Brightness
 order: 140
 ---
 ## Navigation

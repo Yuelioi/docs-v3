@@ -1,5 +1,5 @@
 ---
-display_name: Reset Control Point
+title: Reset Control Point
 order: 53
 ---
 ## Navigation

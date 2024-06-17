@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_getbbox_size
+title: usd_pointinstance_getbbox_size
 order: 102
 ---
 | Since | 18.0 |

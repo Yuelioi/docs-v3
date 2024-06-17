@@ -1,5 +1,5 @@
 ---
-display_name: Distance (LinearColor)
+title: Distance (LinearColor)
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Minimum LODFor Platforms
+title: Get Minimum LODFor Platforms
 order: 12
 ---
 ## Navigation

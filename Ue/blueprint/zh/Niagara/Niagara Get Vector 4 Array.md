@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Vector 4 Array
+title: Niagara Get Vector 4 Array
 order: 51
 ---
 ## Navigation

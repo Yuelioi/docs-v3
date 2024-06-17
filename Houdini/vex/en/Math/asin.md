@@ -1,5 +1,5 @@
 ---
-display_name: asin
+title: asin
 order: 6
 ---
 `float  asin(float n)`

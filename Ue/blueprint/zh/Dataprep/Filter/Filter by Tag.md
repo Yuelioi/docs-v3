@@ -1,5 +1,5 @@
 ---
-display_name: Filter by Tag
+title: Filter by Tag
 order: 4
 ---
 ## Navigation

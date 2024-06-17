@@ -1,5 +1,5 @@
 ---
-display_name: Update Virtual Subject Static Data
+title: Update Virtual Subject Static Data
 order: 44
 ---
 ## Navigation

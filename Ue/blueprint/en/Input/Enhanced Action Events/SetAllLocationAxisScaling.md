@@ -1,5 +1,5 @@
 ---
-display_name: SetAllLocationAxisScaling
+title: SetAllLocationAxisScaling
 order: 70
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Y
+title: Y
 order: 111
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Random Seed Offset
+title: Get Random Seed Offset
 order: 21
 ---
 ## Navigation

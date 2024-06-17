@@ -1,5 +1,5 @@
 ---
-display_name: Set World Rotation
+title: Set World Rotation
 order: 75
 ---
 ## Navigation

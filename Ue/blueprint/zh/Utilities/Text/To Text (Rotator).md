@@ -1,5 +1,5 @@
 ---
-display_name: To Text (Rotator)
+title: To Text (Rotator)
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket Rotation
+title: Get Socket Rotation
 order: 45
 ---
 ## Navigation

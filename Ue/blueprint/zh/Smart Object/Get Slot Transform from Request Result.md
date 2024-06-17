@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot Transform from Request Result
+title: Get Slot Transform from Request Result
 order: 24
 ---
 ## Navigation

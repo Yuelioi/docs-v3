@@ -1,5 +1,5 @@
 ---
-display_name: Set Layer Material Property and Replace Others
+title: Set Layer Material Property and Replace Others
 order: 214
 ---
 ## Navigation

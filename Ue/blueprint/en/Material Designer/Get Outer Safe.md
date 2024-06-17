@@ -1,5 +1,5 @@
 ---
-display_name: Get Outer Safe
+title: Get Outer Safe
 order: 112
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Propagate
+title: Propagate
 order: 7
 ---
 ## Navigation

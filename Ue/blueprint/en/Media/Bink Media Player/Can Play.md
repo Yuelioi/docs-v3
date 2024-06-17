@@ -1,5 +1,5 @@
 ---
-display_name: Can Play
+title: Can Play
 order: 2
 ---
 ## Navigation

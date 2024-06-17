@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume
+title: Set Volume
 order: 25
 ---
 ## Navigation

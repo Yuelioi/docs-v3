@@ -1,5 +1,5 @@
 ---
-display_name: Get All Inputs
+title: Get All Inputs
 order: 24
 ---
 ## Navigation

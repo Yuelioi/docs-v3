@@ -1,5 +1,5 @@
 ---
-display_name: Read Linear Color
+title: Read Linear Color
 order: 12
 ---
 ## Navigation

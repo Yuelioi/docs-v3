@@ -1,5 +1,5 @@
 ---
-display_name: solvecubic
+title: solvecubic
 order: 75
 ---
 `int  solvecubic(float a, float b, float c, float d, float &t1, float &t2, float &t3)`

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Morph Targets
+title: Clear Morph Targets
 order: 1
 ---
 ## Navigation

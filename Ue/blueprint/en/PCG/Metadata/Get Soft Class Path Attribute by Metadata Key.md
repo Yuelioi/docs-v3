@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Class Path Attribute by Metadata Key
+title: Get Soft Class Path Attribute by Metadata Key
 order: 44
 ---
 ## Navigation

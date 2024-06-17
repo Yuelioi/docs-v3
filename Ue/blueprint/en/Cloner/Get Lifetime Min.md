@@ -1,5 +1,5 @@
 ---
-display_name: Get Lifetime Min
+title: Get Lifetime Min
 order: 20
 ---
 ## Navigation

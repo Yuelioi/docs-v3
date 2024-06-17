@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Event)
+title: Remove Key (Event)
 order: 94
 ---
 ## Navigation

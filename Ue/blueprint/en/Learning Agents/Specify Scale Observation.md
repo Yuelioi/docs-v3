@@ -1,5 +1,5 @@
 ---
-display_name: Specify Scale Observation
+title: Specify Scale Observation
 order: 324
 ---
 ## Navigation

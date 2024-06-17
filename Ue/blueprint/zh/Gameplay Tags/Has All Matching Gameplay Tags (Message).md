@@ -1,5 +1,5 @@
 ---
-display_name: Has All Matching Gameplay Tags (Message)
+title: Has All Matching Gameplay Tags (Message)
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Array Size
+title: Get Array Size
 order: 6
 ---
 ## Navigation

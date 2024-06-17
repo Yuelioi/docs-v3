@@ -1,5 +1,5 @@
 ---
-display_name: On Breaking Events
+title: On Breaking Events
 order: 57
 ---
 ## Navigation

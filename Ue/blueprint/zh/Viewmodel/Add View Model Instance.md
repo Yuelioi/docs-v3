@@ -1,5 +1,5 @@
 ---
-display_name: Add View Model Instance
+title: Add View Model Instance
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agentclipsample
+title: agentclipsample
 order: 12
 ---
 `float  agentclipsample(<geometry>geometry, int prim, string clipname, float time, int channel_index)`

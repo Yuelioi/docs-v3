@@ -1,5 +1,5 @@
 ---
-display_name: 椭圆
+title: 椭圆
 order: 14
 ---
 

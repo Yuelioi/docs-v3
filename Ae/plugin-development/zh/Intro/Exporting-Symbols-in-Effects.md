@@ -1,5 +1,5 @@
 ---
-display_name: Exporting-Symbols-in-Effects
+title: Exporting-Symbols-in-Effects
 order: 5
 ---
 

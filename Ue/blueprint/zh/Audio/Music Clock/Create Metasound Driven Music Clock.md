@@ -1,5 +1,5 @@
 ---
-display_name: Create Metasound Driven Music Clock
+title: Create Metasound Driven Music Clock
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Plane
+title: On Add Tracked Plane
 order: 6
 ---
 ## Navigation

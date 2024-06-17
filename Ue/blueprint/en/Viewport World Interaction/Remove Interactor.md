@@ -1,5 +1,5 @@
 ---
-display_name: Remove Interactor
+title: Remove Interactor
 order: 9
 ---
 ## Navigation

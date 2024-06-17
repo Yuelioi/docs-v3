@@ -1,5 +1,5 @@
 ---
-display_name: Compute Velocity from Gravity
+title: Compute Velocity from Gravity
 order: 13
 ---
 ## Navigation

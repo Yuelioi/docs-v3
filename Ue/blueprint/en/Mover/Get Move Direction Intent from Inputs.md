@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Direction Intent from Inputs
+title: Get Move Direction Intent from Inputs
 order: 13
 ---
 ## Navigation

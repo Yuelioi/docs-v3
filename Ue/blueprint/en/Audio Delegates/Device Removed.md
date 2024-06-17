@@ -1,5 +1,5 @@
 ---
-display_name: Device Removed
+title: Device Removed
 order: 4
 ---
 ## Navigation

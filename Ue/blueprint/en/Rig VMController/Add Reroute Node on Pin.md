@@ -1,5 +1,5 @@
 ---
-display_name: Add Reroute Node on Pin
+title: Add Reroute Node on Pin
 order: 23
 ---
 ## Navigation

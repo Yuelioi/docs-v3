@@ -1,5 +1,5 @@
 ---
-display_name: Set Low Quality Fallback Brush
+title: Set Low Quality Fallback Brush
 order: 56
 ---
 ## Navigation

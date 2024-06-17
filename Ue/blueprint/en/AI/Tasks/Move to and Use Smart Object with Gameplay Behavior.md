@@ -1,5 +1,5 @@
 ---
-display_name: Move to and Use Smart Object with Gameplay Behavior
+title: Move to and Use Smart Object with Gameplay Behavior
 order: 5
 ---
 ## Navigation

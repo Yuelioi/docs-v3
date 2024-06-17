@@ -1,5 +1,5 @@
 ---
-display_name: Get Decorator Pins
+title: Get Decorator Pins
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 亮度和对比度
+title: 亮度和对比度
 order: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Associated Bookmark Actor
+title: Get Associated Bookmark Actor
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Nearest Neighbor Model
+title: Get Nearest Neighbor Model
 order: 8
 ---
 ## Navigation

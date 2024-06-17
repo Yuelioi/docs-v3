@@ -1,5 +1,5 @@
 ---
-display_name: Write Bool
+title: Write Bool
 order: 19
 ---
 ## Navigation

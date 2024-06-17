@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Start Time
+title: Get Player Start Time
 order: 2
 ---
 ## Navigation

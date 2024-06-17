@@ -1,5 +1,5 @@
 ---
-display_name: Is Stage Editor Opened
+title: Is Stage Editor Opened
 order: 2
 ---
 ## Navigation

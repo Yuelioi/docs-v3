@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Enabled
+title: Set Range Enabled
 order: 43
 ---
 ## Navigation

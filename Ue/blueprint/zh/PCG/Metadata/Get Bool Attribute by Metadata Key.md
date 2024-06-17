@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Attribute by Metadata Key
+title: Get Bool Attribute by Metadata Key
 order: 28
 ---
 ## Navigation

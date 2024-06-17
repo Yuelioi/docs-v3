@@ -1,5 +1,5 @@
 ---
-display_name: Set Closed Loop at Position
+title: Set Closed Loop at Position
 order: 80
 ---
 ## Navigation

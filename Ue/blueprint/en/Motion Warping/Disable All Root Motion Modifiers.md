@@ -1,5 +1,5 @@
 ---
-display_name: Disable All Root Motion Modifiers
+title: Disable All Root Motion Modifiers
 order: 8
 ---
 ## Navigation

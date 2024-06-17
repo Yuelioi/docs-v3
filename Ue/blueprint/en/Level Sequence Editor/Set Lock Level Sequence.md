@@ -1,5 +1,5 @@
 ---
-display_name: Set Lock Level Sequence
+title: Set Lock Level Sequence
 order: 65
 ---
 ## Navigation

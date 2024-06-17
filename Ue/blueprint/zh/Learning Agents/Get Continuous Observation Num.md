@@ -1,5 +1,5 @@
 ---
-display_name: Get Continuous Observation Num
+title: Get Continuous Observation Num
 order: 48
 ---
 ## Navigation

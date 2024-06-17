@@ -1,5 +1,5 @@
 ---
-display_name: Get Shading Quality
+title: Get Shading Quality
 order: 61
 ---
 ## Navigation

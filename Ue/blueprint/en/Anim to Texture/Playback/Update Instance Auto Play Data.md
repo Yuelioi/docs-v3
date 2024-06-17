@@ -1,5 +1,5 @@
 ---
-display_name: Update Instance Auto Play Data
+title: Update Instance Auto Play Data
 order: 7
 ---
 ## Navigation

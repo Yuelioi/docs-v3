@@ -1,5 +1,5 @@
 ---
-display_name: Set Speech Rate
+title: Set Speech Rate
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Thumbnail Resolution
+title: Set Editor Thumbnail Resolution
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Multi-User Client Infos
+title: Get Remote Multi-User Client Infos
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Text Layout
+title: Refresh Text Layout
 order: 14
 ---
 ## Navigation

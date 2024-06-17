@@ -1,5 +1,5 @@
 ---
-display_name: Get Measured User Experience and Reaction to Audio Render Offset Ms
+title: Get Measured User Experience and Reaction to Audio Render Offset Ms
 order: 1
 ---
 ## Navigation

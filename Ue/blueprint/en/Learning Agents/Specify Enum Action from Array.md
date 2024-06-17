@@ -1,5 +1,5 @@
 ---
-display_name: Specify Enum Action from Array
+title: Specify Enum Action from Array
 order: 292
 ---
 ## Navigation

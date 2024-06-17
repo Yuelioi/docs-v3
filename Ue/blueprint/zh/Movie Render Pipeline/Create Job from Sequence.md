@@ -1,5 +1,5 @@
 ---
-display_name: Create Job from Sequence
+title: Create Job from Sequence
 order: 9
 ---
 ## Navigation

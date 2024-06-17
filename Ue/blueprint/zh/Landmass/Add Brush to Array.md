@@ -1,5 +1,5 @@
 ---
-display_name: Add Brush to Array
+title: Add Brush to Array
 order: 1
 ---
 ## Navigation

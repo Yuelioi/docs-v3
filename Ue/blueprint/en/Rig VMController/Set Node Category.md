@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Category
+title: Set Node Category
 order: 109
 ---
 ## Navigation

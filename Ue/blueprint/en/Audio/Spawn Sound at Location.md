@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Sound at Location
+title: Spawn Sound at Location
 order: 23
 ---
 ## Navigation

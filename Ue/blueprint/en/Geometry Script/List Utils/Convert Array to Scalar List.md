@@ -1,5 +1,5 @@
 ---
-display_name: Convert Array to Scalar List
+title: Convert Array to Scalar List
 order: 8
 ---
 ## Navigation

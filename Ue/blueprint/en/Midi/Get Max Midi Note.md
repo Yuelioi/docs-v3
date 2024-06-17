@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Midi Note
+title: Get Max Midi Note
 order: 3
 ---
 ## Navigation

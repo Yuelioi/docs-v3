@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Active
+title: Set Is Active
 order: 83
 ---
 ## Navigation

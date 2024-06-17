@@ -1,5 +1,5 @@
 ---
-display_name: Set Component
+title: Set Component
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Label
+title: Set Actor Label
 order: 9
 ---
 ## Navigation

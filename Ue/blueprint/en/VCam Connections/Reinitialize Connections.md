@@ -1,5 +1,5 @@
 ---
-display_name: Reinitialize Connections
+title: Reinitialize Connections
 order: 10
 ---
 ## Navigation

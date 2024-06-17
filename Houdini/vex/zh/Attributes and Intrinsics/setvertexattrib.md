@@ -1,5 +1,5 @@
 ---
-display_name: setvertexattrib
+title: setvertexattrib
 order: 73
 ---
 `int  setvertexattrib(int geohandle, string name, int prim_num, int vertex_num, <type>value, string mode="set")`

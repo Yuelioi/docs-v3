@@ -1,5 +1,5 @@
 ---
-display_name: Set Attached Stage Actor
+title: Set Attached Stage Actor
 order: 2
 ---
 ## Navigation

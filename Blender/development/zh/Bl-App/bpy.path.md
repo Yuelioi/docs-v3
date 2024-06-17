@@ -1,6 +1,6 @@
 ---
 order: 10
-display_name: 路径工具(bpy.path)
+title: 路径工具(bpy.path)
 ---
 
 # 路径工具(bpy.path)

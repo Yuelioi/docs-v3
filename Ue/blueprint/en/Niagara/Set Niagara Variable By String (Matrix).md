@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Matrix)
+title: Set Niagara Variable By String (Matrix)
 order: 51
 ---
 ## Navigation

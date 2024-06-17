@@ -1,5 +1,5 @@
 ---
-display_name: Draw
+title: Draw
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Loudness at Time
+title: Get Channel Loudness at Time
 order: 3
 ---
 ## Navigation

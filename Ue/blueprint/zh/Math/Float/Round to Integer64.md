@@ -1,5 +1,5 @@
 ---
-display_name: Round to Integer64
+title: Round to Integer64
 order: 32
 ---
 ## Navigation

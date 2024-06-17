@@ -1,5 +1,5 @@
 ---
-display_name: Get All Connected Input Devices
+title: Get All Connected Input Devices
 order: 2
 ---
 ## Navigation

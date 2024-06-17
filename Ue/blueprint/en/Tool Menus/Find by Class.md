@@ -1,5 +1,5 @@
 ---
-display_name: Find by Class
+title: Find by Class
 order: 14
 ---
 ## Navigation

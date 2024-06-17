@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Hit Result
+title: Get Last Hit Result
 order: 4
 ---
 ## Navigation

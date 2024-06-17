@@ -1,5 +1,5 @@
 ---
-display_name: Get Substring
+title: Get Substring
 order: 21
 ---
 ## Navigation

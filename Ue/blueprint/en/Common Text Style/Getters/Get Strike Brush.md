@@ -1,5 +1,5 @@
 ---
-display_name: Get Strike Brush
+title: Get Strike Brush
 order: 8
 ---
 ## Navigation

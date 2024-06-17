@@ -1,5 +1,5 @@
 ---
-display_name: 角度控制
+title: 角度控制
 order: 2
 ---
 

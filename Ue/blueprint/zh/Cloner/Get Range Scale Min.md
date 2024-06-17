@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Scale Min
+title: Get Range Scale Min
 order: 39
 ---
 ## Navigation

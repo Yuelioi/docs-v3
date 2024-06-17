@@ -1,5 +1,5 @@
 ---
-display_name: agentrigfind
+title: agentrigfind
 order: 36
 ---
 `int  agentrigfind(<geometry>geometry, int prim, string transformname)`

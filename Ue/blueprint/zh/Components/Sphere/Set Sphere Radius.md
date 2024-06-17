@@ -1,5 +1,5 @@
 ---
-display_name: Set Sphere Radius
+title: Set Sphere Radius
 order: 4
 ---
 ## Navigation

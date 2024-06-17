@@ -1,5 +1,5 @@
 ---
-display_name: Equal (DateTime)
+title: Equal (DateTime)
 order: 12
 ---
 ## Navigation

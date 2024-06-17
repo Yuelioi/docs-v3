@@ -1,5 +1,5 @@
 ---
-display_name: On Explode
+title: On Explode
 order: 1
 ---
 ## Navigation

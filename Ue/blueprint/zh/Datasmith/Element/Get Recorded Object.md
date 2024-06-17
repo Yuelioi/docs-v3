@@ -1,5 +1,5 @@
 ---
-display_name: Get Recorded Object
+title: Get Recorded Object
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform by Index
+title: Get Transform by Index
 order: 7
 ---
 ## Navigation

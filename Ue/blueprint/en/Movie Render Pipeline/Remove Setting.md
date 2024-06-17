@@ -1,5 +1,5 @@
 ---
-display_name: Remove Setting
+title: Remove Setting
 order: 12
 ---
 ## Navigation

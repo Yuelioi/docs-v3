@@ -1,5 +1,5 @@
 ---
-display_name: chprim_destroykey
+title: chprim_destroykey
 order: 2
 ---
 `int  chprim_destroykey(int geohandle, int prim, float time)`

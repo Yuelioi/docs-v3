@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeletal Mesh
+title: Get Skeletal Mesh
 order: 10
 ---
 ## Navigation

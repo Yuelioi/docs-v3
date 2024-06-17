@@ -1,5 +1,5 @@
 ---
-display_name: Get Int 32Parameter
+title: Get Int 32Parameter
 order: 7
 ---
 ## Navigation

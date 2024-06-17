@@ -1,5 +1,5 @@
 ---
-display_name: To Upper
+title: To Upper
 order: 85
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Widgets
+title: Has Widgets
 order: 3
 ---
 ## Navigation

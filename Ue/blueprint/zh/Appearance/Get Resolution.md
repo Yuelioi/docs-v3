@@ -1,5 +1,5 @@
 ---
-display_name: Get Resolution
+title: Get Resolution
 order: 9
 ---
 ## Navigation

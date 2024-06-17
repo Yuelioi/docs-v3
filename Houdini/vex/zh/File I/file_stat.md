@@ -1,5 +1,5 @@
 ---
-display_name: file_stat
+title: file_stat
 order: 1
 ---
 | On this page | * [Better file_stat functions](#better) * [Examples](#examples) |

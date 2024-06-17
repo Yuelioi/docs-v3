@@ -1,5 +1,5 @@
 ---
-display_name: Get Mirror on Y
+title: Get Mirror on Y
 order: 108
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Path Relative To
+title: Make Path Relative To
 order: 60
 ---
 ## Navigation

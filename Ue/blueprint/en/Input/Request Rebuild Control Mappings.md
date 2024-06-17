@@ -1,5 +1,5 @@
 ---
-display_name: Request Rebuild Control Mappings
+title: Request Rebuild Control Mappings
 order: 17
 ---
 ## Navigation

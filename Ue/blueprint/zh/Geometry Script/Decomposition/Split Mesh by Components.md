@@ -1,5 +1,5 @@
 ---
-display_name: Split Mesh by Components
+title: Split Mesh by Components
 order: 4
 ---
 ## Navigation

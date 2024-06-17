@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Color (Message)
+title: Set Curve Color (Message)
 order: 17
 ---
 ## Navigation

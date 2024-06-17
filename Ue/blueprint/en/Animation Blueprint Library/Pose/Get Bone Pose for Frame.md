@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Pose for Frame
+title: Get Bone Pose for Frame
 order: 1
 ---
 ## Navigation

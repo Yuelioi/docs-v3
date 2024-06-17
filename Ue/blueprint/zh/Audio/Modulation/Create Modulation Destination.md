@@ -1,5 +1,5 @@
 ---
-display_name: Create Modulation Destination
+title: Create Modulation Destination
 order: 14
 ---
 ## Navigation

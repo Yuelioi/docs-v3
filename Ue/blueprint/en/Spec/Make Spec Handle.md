@@ -1,5 +1,5 @@
 ---
-display_name: Make Spec Handle
+title: Make Spec Handle
 order: 2
 ---
 ## Navigation

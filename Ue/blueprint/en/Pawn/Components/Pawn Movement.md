@@ -1,5 +1,5 @@
 ---
-display_name: Pawn Movement
+title: Pawn Movement
 order: 2
 ---
 ## Navigation

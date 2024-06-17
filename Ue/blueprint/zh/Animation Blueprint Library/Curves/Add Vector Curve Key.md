@@ -1,5 +1,5 @@
 ---
-display_name: Add Vector Curve Key
+title: Add Vector Curve Key
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: rayhittest
+title: rayhittest
 order: 59
 ---
 | On this page | * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) |

@@ -1,5 +1,5 @@
 ---
-display_name: Set Reverb Time Modifier
+title: Set Reverb Time Modifier
 order: 5
 ---
 ## Navigation

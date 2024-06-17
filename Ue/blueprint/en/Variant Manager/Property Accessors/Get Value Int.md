@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Int
+title: Get Value Int
 order: 5
 ---
 ## Navigation

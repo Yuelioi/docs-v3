@@ -1,5 +1,5 @@
 ---
-display_name: Add External Function Reference Node
+title: Add External Function Reference Node
 order: 10
 ---
 ## Navigation

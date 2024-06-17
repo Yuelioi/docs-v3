@@ -1,5 +1,5 @@
 ---
-display_name: Is Dynamic Array
+title: Is Dynamic Array
 order: 37
 ---
 ## Navigation

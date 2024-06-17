@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Capture Device Info
+title: Get Audio Capture Device Info
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Chain
+title: Set Source Chain
 order: 28
 ---
 ## Navigation

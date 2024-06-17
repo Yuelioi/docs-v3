@@ -1,5 +1,5 @@
 ---
-display_name: Mirror Module
+title: Mirror Module
 order: 10
 ---
 ## Navigation

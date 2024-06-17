@@ -1,5 +1,5 @@
 ---
-display_name: Actor Has Tag
+title: Actor Has Tag
 order: 1
 ---
 ## Navigation

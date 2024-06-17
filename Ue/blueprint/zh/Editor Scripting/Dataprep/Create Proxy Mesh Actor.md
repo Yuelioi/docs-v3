@@ -1,5 +1,5 @@
 ---
-display_name: Create Proxy Mesh Actor
+title: Create Proxy Mesh Actor
 order: 2
 ---
 ## Navigation

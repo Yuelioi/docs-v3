@@ -1,5 +1,5 @@
 ---
-display_name: Get Face Blend Shape Amount
+title: Get Face Blend Shape Amount
 order: 3
 ---
 ## Navigation

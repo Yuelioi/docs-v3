@@ -1,5 +1,5 @@
 ---
-display_name: To String (LinearColor)
+title: To String (LinearColor)
 order: 69
 ---
 ## Navigation

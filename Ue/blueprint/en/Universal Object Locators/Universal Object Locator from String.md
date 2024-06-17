@@ -1,5 +1,5 @@
 ---
-display_name: Universal Object Locator from String
+title: Universal Object Locator from String
 order: 7
 ---
 ## Navigation

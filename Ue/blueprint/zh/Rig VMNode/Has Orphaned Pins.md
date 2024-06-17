@@ -1,5 +1,5 @@
 ---
-display_name: Has Orphaned Pins
+title: Has Orphaned Pins
 order: 37
 ---
 ## Navigation

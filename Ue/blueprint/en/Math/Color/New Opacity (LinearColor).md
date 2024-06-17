@@ -1,5 +1,5 @@
 ---
-display_name: New Opacity (LinearColor)
+title: New Opacity (LinearColor)
 order: 29
 ---
 ## Navigation

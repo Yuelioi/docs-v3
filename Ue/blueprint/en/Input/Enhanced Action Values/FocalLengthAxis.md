@@ -1,5 +1,5 @@
 ---
-display_name: FocalLengthAxis
+title: FocalLengthAxis
 order: 22
 ---
 ## Navigation

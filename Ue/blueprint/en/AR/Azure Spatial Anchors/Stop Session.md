@@ -1,5 +1,5 @@
 ---
-display_name: Stop Session
+title: Stop Session
 order: 13
 ---
 ## Navigation

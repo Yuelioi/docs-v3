@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Self Union
+title: Apply Mesh Self Union
 order: 5
 ---
 ## Navigation

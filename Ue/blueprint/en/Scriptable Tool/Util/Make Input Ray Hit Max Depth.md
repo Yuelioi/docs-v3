@@ -1,5 +1,5 @@
 ---
-display_name: Make Input Ray Hit Max Depth
+title: Make Input Ray Hit Max Depth
 order: 1
 ---
 ## Navigation

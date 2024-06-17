@@ -1,5 +1,5 @@
 ---
-display_name: Start Other Clock
+title: Start Other Clock
 order: 8
 ---
 ## Navigation

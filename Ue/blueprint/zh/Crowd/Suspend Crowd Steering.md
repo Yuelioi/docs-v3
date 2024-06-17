@@ -1,5 +1,5 @@
 ---
-display_name: Suspend Crowd Steering
+title: Suspend Crowd Steering
 order: 1
 ---
 ## Navigation

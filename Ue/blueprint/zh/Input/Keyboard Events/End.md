@@ -1,5 +1,5 @@
 ---
-display_name: End
+title: End
 order: 29
 ---
 ## Navigation

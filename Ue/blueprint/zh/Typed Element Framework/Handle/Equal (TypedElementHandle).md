@@ -1,5 +1,5 @@
 ---
-display_name: Equal (TypedElementHandle)
+title: Equal (TypedElementHandle)
 order: 1
 ---
 ## Navigation

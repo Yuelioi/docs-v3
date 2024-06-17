@@ -1,5 +1,5 @@
 ---
-display_name: EndBehavior
+title: EndBehavior
 order: 2
 ---
 ## Navigation

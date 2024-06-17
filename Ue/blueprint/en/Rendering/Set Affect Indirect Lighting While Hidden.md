@@ -1,5 +1,5 @@
 ---
-display_name: Set Affect Indirect Lighting While Hidden
+title: Set Affect Indirect Lighting While Hidden
 order: 17
 ---
 ## Navigation

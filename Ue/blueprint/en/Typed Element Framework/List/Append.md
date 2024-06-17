@@ -1,5 +1,5 @@
 ---
-display_name: Append
+title: Append
 order: 3
 ---
 ## Navigation

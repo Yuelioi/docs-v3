@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Vertex Instances
+title: Reserve New Vertex Instances
 order: 88
 ---
 ## Navigation

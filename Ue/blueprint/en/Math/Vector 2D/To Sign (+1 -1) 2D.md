@@ -1,5 +1,5 @@
 ---
-display_name: To Sign (+1 -1) 2D
+title: To Sign (+1 -1) 2D
 order: 25
 ---
 ## Navigation

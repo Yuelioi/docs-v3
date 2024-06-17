@@ -1,5 +1,5 @@
 ---
-display_name: agentclipsamplelocal
+title: agentclipsamplelocal
 order: 13
 ---
 `matrix [] agentclipsamplelocal(<geometry>geometry, int prim, string clipname, float time)`

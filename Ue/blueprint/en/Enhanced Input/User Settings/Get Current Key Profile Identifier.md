@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Key Profile Identifier
+title: Get Current Key Profile Identifier
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ToRotator (Quat)
+title: ToRotator (Quat)
 order: 40
 ---
 ## Navigation

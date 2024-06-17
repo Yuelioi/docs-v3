@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Binding
+title: Get Actor Binding
 order: 8
 ---
 ## Navigation

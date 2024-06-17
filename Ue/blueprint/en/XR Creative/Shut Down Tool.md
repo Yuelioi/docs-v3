@@ -1,5 +1,5 @@
 ---
-display_name: Shut Down Tool
+title: Shut Down Tool
 order: 32
 ---
 ## Navigation

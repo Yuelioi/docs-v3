@@ -1,5 +1,5 @@
 ---
-display_name: Activate Modulation Generator (Deprecated - 5.4)
+title: Activate Modulation Generator (Deprecated - 5.4)
 order: 3
 ---
 ## Navigation

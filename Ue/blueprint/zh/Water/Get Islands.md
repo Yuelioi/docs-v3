@@ -1,5 +1,5 @@
 ---
-display_name: Get Islands
+title: Get Islands
 order: 4
 ---
 ## Navigation

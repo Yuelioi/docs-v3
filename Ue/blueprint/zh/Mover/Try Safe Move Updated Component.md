@@ -1,5 +1,5 @@
 ---
-display_name: Try Safe Move Updated Component
+title: Try Safe Move Updated Component
 order: 5
 ---
 ## Navigation

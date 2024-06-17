@@ -1,5 +1,5 @@
 ---
-display_name: Get Tick when Offscreen
+title: Get Tick when Offscreen
 order: 39
 ---
 ## Navigation

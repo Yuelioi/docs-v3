@@ -1,5 +1,5 @@
 ---
-display_name: Get MassCrowdSpawnerSubsystem
+title: Get MassCrowdSpawnerSubsystem
 order: 43
 ---
 ## Navigation

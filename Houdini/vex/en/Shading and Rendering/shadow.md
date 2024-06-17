@@ -1,5 +1,5 @@
 ---
-display_name: shadow
+title: shadow
 order: 70
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

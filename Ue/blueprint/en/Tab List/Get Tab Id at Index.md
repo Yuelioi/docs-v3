@@ -1,5 +1,5 @@
 ---
-display_name: Get Tab Id at Index
+title: Get Tab Id at Index
 order: 7
 ---
 ## Navigation

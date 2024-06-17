@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Valid for Layer
+title: Is Actor Valid for Layer
 order: 25
 ---
 ## Navigation

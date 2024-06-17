@@ -1,5 +1,5 @@
 ---
-display_name: Get Right Vector at Spline Input Key
+title: Get Right Vector at Spline Input Key
 order: 45
 ---
 ## Navigation

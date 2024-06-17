@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Memory Used
+title: Get Texture Memory Used
 order: 7
 ---
 ## Navigation

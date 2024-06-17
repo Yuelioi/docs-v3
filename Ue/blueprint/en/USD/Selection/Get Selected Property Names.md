@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Property Names
+title: Get Selected Property Names
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Nanite Override Material
+title: Get Nanite Override Material
 order: 30
 ---
 ## Navigation

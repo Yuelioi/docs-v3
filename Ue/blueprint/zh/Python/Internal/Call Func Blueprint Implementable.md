@@ -1,5 +1,5 @@
 ---
-display_name: Call Func Blueprint Implementable
+title: Call Func Blueprint Implementable
 order: 5
 ---
 ## Navigation

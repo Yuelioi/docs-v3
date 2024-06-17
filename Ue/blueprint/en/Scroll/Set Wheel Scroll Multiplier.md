@@ -1,5 +1,5 @@
 ---
-display_name: Set Wheel Scroll Multiplier
+title: Set Wheel Scroll Multiplier
 order: 12
 ---
 ## Navigation

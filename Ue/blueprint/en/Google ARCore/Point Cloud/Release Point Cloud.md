@@ -1,5 +1,5 @@
 ---
-display_name: Release Point Cloud
+title: Release Point Cloud
 order: 6
 ---
 ## Navigation

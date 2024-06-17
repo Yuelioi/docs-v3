@@ -1,5 +1,5 @@
 ---
-display_name: Normalized Value to Bytes
+title: Normalized Value to Bytes
 order: 63
 ---
 ## Navigation

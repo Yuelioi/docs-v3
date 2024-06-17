@@ -1,5 +1,5 @@
 ---
-display_name: Set Timer for Next Tick by Function Name
+title: Set Timer for Next Tick by Function Name
 order: 30
 ---
 ## Navigation

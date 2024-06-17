@@ -1,5 +1,5 @@
 ---
-display_name: Time 时间对象
+title: Time 时间对象
 order: 3
 ---
 

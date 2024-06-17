@@ -1,5 +1,5 @@
 ---
-display_name: Init Entry
+title: Init Entry
 order: 1
 ---
 ## Navigation

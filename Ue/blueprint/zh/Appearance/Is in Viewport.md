@@ -1,5 +1,5 @@
 ---
-display_name: Is in Viewport
+title: Is in Viewport
 order: 10
 ---
 ## Navigation

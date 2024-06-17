@@ -1,5 +1,5 @@
 ---
-display_name: Set Resolution Scale Normalized
+title: Set Resolution Scale Normalized
 order: 129
 ---
 ## Navigation

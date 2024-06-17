@@ -1,5 +1,5 @@
 ---
-display_name: GetCPUCopy
+title: GetCPUCopy
 order: 2
 ---
 ## Navigation

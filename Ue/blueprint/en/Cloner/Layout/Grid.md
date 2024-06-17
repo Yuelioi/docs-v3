@@ -1,5 +1,5 @@
 ---
-display_name: Grid
+title: Grid
 order: 5
 ---
 ## Navigation

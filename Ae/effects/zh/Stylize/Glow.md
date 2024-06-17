@@ -1,5 +1,5 @@
 ---
-display_name: 发光
+title: 发光
 order: 17
 ---
 

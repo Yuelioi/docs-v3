@@ -1,5 +1,5 @@
 ---
-display_name: Replace Submix Effect
+title: Replace Submix Effect
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: OnQueryFinished
+title: OnQueryFinished
 order: 4
 ---
 ## Navigation

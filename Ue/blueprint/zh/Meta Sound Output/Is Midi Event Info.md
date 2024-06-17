@@ -1,5 +1,5 @@
 ---
-display_name: Is Midi Event Info
+title: Is Midi Event Info
 order: 12
 ---
 ## Navigation

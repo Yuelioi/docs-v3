@@ -1,5 +1,5 @@
 ---
-display_name: Transform Name
+title: Transform Name
 order: 42
 ---
 ## Navigation

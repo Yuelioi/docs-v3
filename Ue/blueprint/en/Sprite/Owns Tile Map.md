@@ -1,5 +1,5 @@
 ---
-display_name: Owns Tile Map
+title: Owns Tile Map
 order: 25
 ---
 ## Navigation

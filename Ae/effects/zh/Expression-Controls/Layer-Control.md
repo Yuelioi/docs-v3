@@ -1,5 +1,5 @@
 ---
-display_name: 图层控制
+title: 图层控制
 order: 6
 ---
 

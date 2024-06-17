@@ -1,5 +1,5 @@
 ---
-display_name: CC像素溶解
+title: CC像素溶解
 order: 7
 ---
 

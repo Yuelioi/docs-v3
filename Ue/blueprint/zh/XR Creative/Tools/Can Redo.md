@@ -1,5 +1,5 @@
 ---
-display_name: Can Redo
+title: Can Redo
 order: 1
 ---
 ## Navigation

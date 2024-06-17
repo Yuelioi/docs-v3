@@ -1,5 +1,5 @@
 ---
-display_name: On Blink State Change
+title: On Blink State Change
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls from Skeletal Mesh and Constraint Profile Below
+title: Create Controls from Skeletal Mesh and Constraint Profile Below
 order: 14
 ---
 ## Navigation

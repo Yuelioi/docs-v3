@@ -1,5 +1,5 @@
 ---
-display_name: Remove Texture
+title: Remove Texture
 order: 54
 ---
 ## Navigation

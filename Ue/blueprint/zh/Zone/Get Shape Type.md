@@ -1,5 +1,5 @@
 ---
-display_name: Get Shape Type
+title: Get Shape Type
 order: 1
 ---
 ## Navigation

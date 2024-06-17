@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Rigid Body Anim Node
+title: Set Allow Rigid Body Anim Node
 order: 22
 ---
 ## Navigation

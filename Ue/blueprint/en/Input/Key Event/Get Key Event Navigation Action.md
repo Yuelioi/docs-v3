@@ -1,5 +1,5 @@
 ---
-display_name: Get Key Event Navigation Action
+title: Get Key Event Navigation Action
 order: 1
 ---
 ## Navigation

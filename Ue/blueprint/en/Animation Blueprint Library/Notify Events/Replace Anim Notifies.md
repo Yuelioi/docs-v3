@@ -1,5 +1,5 @@
 ---
-display_name: Replace Anim Notifies
+title: Replace Anim Notifies
 order: 11
 ---
 ## Navigation

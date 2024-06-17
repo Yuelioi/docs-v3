@@ -1,5 +1,5 @@
 ---
-display_name: Create Cube
+title: Create Cube
 order: 2
 ---
 ## Navigation

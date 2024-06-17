@@ -1,5 +1,5 @@
 ---
-display_name: Get Secondary Buffers Visibility
+title: Get Secondary Buffers Visibility
 order: 9
 ---
 ## Navigation

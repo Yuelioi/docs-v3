@@ -1,5 +1,5 @@
 ---
-display_name: Set Locked Hovered Sound Override
+title: Set Locked Hovered Sound Override
 order: 2
 ---
 ## Navigation

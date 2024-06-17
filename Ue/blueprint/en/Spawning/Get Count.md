@@ -1,5 +1,5 @@
 ---
-display_name: Get Count
+title: Get Count
 order: 4
 ---
 ## Navigation

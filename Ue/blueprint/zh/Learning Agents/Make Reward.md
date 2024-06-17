@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward
+title: Make Reward
 order: 228
 ---
 ## Navigation

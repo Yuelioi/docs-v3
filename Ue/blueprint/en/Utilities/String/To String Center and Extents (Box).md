@@ -1,5 +1,5 @@
 ---
-display_name: To String Center and Extents (Box)
+title: To String Center and Extents (Box)
 order: 84
 ---
 ## Navigation

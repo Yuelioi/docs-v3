@@ -1,5 +1,5 @@
 ---
-display_name: Get Comment Bubble Visible
+title: Get Comment Bubble Visible
 order: 1
 ---
 ## Navigation

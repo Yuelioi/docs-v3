@@ -1,5 +1,5 @@
 ---
-display_name: Get Walkable Slope Override
+title: Get Walkable Slope Override
 order: 92
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC 像素多边形
+title: CC 像素多边形
 order: 10
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Parents
+title: Remove All Parents
 order: 23
 ---
 ## Navigation

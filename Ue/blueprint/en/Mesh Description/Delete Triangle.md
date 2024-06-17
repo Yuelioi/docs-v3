@@ -1,5 +1,5 @@
 ---
-display_name: Delete Triangle
+title: Delete Triangle
 order: 18
 ---
 ## Navigation

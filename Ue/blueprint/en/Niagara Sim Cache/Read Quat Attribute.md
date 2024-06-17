@@ -1,5 +1,5 @@
 ---
-display_name: Read Quat Attribute
+title: Read Quat Attribute
 order: 21
 ---
 ## Navigation

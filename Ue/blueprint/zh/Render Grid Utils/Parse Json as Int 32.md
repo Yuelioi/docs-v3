@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Int 32
+title: Parse Json as Int 32
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Component Been Created
+title: Has Component Been Created
 order: 154
 ---
 ## Navigation

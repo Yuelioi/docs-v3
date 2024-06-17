@@ -1,5 +1,5 @@
 ---
-display_name: To Vector (IntVector)
+title: To Vector (IntVector)
 order: 31
 ---
 ## Navigation

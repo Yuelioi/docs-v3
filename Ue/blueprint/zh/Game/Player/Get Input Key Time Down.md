@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Key Time Down
+title: Get Input Key Time Down
 order: 17
 ---
 ## Navigation

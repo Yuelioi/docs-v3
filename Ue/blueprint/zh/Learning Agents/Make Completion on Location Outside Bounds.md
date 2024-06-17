@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion on Location Outside Bounds
+title: Make Completion on Location Outside Bounds
 order: 165
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Compile Customizable Object Synchronously
+title: Compile Customizable Object Synchronously
 order: 1
 ---
 ## Navigation

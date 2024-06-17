@@ -1,5 +1,5 @@
 ---
-display_name: Random Bool with Weight
+title: Random Bool with Weight
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Vector (Quat)
+title: Rotate Vector (Quat)
 order: 23
 ---
 ## Navigation

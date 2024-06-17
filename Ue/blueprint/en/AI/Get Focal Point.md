@@ -1,5 +1,5 @@
 ---
-display_name: Get Focal Point
+title: Get Focal Point
 order: 14
 ---
 ## Navigation

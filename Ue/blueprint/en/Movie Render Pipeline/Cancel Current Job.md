@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Current Job
+title: Cancel Current Job
 order: 5
 ---
 ## Navigation

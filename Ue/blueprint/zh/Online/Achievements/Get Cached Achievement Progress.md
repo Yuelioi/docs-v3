@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Achievement Progress
+title: Get Cached Achievement Progress
 order: 4
 ---
 ## Navigation

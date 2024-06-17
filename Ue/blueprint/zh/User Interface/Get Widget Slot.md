@@ -1,5 +1,5 @@
 ---
-display_name: Get Widget Slot
+title: Get Widget Slot
 order: 29
 ---
 ## Navigation

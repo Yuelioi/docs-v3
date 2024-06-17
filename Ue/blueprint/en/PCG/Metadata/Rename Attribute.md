@@ -1,5 +1,5 @@
 ---
-display_name: Rename Attribute
+title: Rename Attribute
 order: 69
 ---
 ## Navigation

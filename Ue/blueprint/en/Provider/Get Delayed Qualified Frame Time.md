@@ -1,5 +1,5 @@
 ---
-display_name: Get Delayed Qualified Frame Time
+title: Get Delayed Qualified Frame Time
 order: 3
 ---
 ## Navigation

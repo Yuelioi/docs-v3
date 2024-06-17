@@ -1,5 +1,5 @@
 ---
-display_name: Set Render in Main Pass
+title: Set Render in Main Pass
 order: 77
 ---
 ## Navigation

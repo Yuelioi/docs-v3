@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Type
+title: Get Value Type
 order: 17
 ---
 ## Navigation

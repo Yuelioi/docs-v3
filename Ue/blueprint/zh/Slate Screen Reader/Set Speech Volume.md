@@ -1,5 +1,5 @@
 ---
-display_name: Set Speech Volume
+title: Set Speech Volume
 order: 16
 ---
 ## Navigation

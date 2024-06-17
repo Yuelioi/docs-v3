@@ -1,5 +1,5 @@
 ---
-display_name: Get Rendering Material Quality Level
+title: Get Rendering Material Quality Level
 order: 21
 ---
 ## Navigation

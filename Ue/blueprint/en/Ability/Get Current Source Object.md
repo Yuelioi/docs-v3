@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Source Object
+title: Get Current Source Object
 order: 41
 ---
 ## Navigation

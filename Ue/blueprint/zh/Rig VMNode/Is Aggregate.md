@@ -1,5 +1,5 @@
 ---
-display_name: Is Aggregate
+title: Is Aggregate
 order: 40
 ---
 ## Navigation

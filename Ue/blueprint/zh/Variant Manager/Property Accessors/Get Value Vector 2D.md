@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Vector 2D
+title: Get Value Vector 2D
 order: 11
 ---
 ## Navigation

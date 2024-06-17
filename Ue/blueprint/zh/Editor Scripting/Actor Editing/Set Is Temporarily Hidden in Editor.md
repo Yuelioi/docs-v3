@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Temporarily Hidden in Editor
+title: Set Is Temporarily Hidden in Editor
 order: 11
 ---
 ## Navigation

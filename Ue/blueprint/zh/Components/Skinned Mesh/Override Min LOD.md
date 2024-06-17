@@ -1,5 +1,5 @@
 ---
-display_name: Override Min LOD
+title: Override Min LOD
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Color Picker Display Image
+title: Set Editor Color Picker Display Image
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set AR Preview Image Data
+title: Set AR Preview Image Data
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Tickable when Paused
+title: Get Tickable when Paused
 order: 4
 ---
 ## Navigation

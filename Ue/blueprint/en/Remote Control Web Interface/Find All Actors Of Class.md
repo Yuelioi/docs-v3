@@ -1,5 +1,5 @@
 ---
-display_name: Find All Actors Of Class
+title: Find All Actors Of Class
 order: 1
 ---
 ## Navigation

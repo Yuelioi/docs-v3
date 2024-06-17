@@ -1,5 +1,5 @@
 ---
-display_name: CustomAspectRatio
+title: CustomAspectRatio
 order: 11
 ---
 ## Navigation

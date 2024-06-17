@@ -1,5 +1,5 @@
 ---
-display_name: Get Option Weight
+title: Get Option Weight
 order: 12
 ---
 ## Navigation

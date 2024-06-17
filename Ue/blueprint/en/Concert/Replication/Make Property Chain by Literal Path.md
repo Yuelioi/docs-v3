@@ -1,5 +1,5 @@
 ---
-display_name: Make Property Chain by Literal Path
+title: Make Property Chain by Literal Path
 order: 9
 ---
 ## Navigation

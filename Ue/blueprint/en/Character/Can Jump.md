@@ -1,5 +1,5 @@
 ---
-display_name: Can Jump
+title: Can Jump
 order: 3
 ---
 ## Navigation

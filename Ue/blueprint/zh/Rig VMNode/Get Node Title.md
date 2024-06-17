@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Title
+title: Get Node Title
 order: 22
 ---
 ## Navigation

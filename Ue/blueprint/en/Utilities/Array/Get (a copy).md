@@ -1,5 +1,5 @@
 ---
-display_name: Get (a copy)
+title: Get (a copy)
 order: 8
 ---
 ## Navigation

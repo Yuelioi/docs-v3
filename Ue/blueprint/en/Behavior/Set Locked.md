@@ -1,5 +1,5 @@
 ---
-display_name: Set Locked
+title: Set Locked
 order: 21
 ---
 ## Navigation

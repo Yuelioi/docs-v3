@@ -1,5 +1,5 @@
 ---
-display_name: usd_iscollectionpath
+title: usd_iscollectionpath
 order: 69
 ---
 | Since | 18.0 |

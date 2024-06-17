@@ -1,5 +1,5 @@
 ---
-display_name: Force Notification for Editor
+title: Force Notification for Editor
 order: 1
 ---
 ## Navigation

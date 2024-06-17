@@ -1,5 +1,5 @@
 ---
-display_name: Append Sweep Polygon
+title: Append Sweep Polygon
 order: 22
 ---
 ## Navigation

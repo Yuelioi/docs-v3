@@ -1,5 +1,5 @@
 ---
-display_name: Open
+title: Open
 order: 7
 ---
 ## Navigation

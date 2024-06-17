@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Location Direct Props
+title: Get Particle Module Location Direct Props
 order: 73
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Global
+title: Global
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get User Widget Object
+title: Get User Widget Object
 order: 27
 ---
 ## Navigation

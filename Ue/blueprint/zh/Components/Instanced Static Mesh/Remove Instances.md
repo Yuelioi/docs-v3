@@ -1,5 +1,5 @@
 ---
-display_name: Remove Instances
+title: Remove Instances
 order: 14
 ---
 ## Navigation

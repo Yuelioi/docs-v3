@@ -1,5 +1,5 @@
 ---
-display_name: Get Simple Collision Count
+title: Get Simple Collision Count
 order: 20
 ---
 ## Navigation

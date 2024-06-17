@@ -1,5 +1,5 @@
 ---
-display_name: blinnBRDF
+title: blinnBRDF
 order: 2
 ---
 `float  blinnBRDF(vector L, vector N, vector V, float rough)`

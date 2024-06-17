@@ -1,5 +1,5 @@
 ---
-display_name: Get All Widgets with Interface
+title: Get All Widgets with Interface
 order: 15
 ---
 ## Navigation

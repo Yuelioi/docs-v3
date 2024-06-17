@@ -1,5 +1,5 @@
 ---
-display_name: usd_flattenedprimvarelement
+title: usd_flattenedprimvarelement
 order: 41
 ---
 | Since | 18.0 |

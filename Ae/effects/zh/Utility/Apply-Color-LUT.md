@@ -1,5 +1,5 @@
 ---
-display_name: 应用颜色 LUT
+title: 应用颜色 LUT
 order: 1
 ---
 

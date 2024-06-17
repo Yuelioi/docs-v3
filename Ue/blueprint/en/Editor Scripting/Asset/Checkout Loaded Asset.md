@@ -1,5 +1,5 @@
 ---
-display_name: Checkout Loaded Asset
+title: Checkout Loaded Asset
 order: 4
 ---
 ## Navigation

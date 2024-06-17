@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Recompute Tangent
+title: Get Section Recompute Tangent
 order: 5
 ---
 ## Navigation

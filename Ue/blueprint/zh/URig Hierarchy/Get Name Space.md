@@ -1,5 +1,5 @@
 ---
-display_name: Get Name Space
+title: Get Name Space
 order: 59
 ---
 ## Navigation

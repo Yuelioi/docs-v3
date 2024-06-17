@@ -1,5 +1,5 @@
 ---
-display_name: Add Source for Actor
+title: Add Source for Actor
 order: 1
 ---
 ## Navigation

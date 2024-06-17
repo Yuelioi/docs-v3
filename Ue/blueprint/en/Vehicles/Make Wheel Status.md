@@ -1,5 +1,5 @@
 ---
-display_name: Make Wheel Status
+title: Make Wheel Status
 order: 5
 ---
 ## Navigation

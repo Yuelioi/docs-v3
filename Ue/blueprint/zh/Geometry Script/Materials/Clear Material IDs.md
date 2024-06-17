@@ -1,5 +1,5 @@
 ---
-display_name: Clear Material IDs
+title: Clear Material IDs
 order: 1
 ---
 ## Navigation

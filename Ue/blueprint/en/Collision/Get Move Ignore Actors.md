@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Ignore Actors
+title: Get Move Ignore Actors
 order: 29
 ---
 ## Navigation

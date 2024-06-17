@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color White
+title: Linear Color White
 order: 22
 ---
 ## Navigation

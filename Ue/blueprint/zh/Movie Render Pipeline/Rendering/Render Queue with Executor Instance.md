@@ -1,5 +1,5 @@
 ---
-display_name: Render Queue with Executor Instance
+title: Render Queue with Executor Instance
 order: 4
 ---
 ## Navigation

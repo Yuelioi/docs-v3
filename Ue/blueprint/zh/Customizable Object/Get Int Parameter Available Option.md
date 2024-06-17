@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Parameter Available Option
+title: Get Int Parameter Available Option
 order: 8
 ---
 ## Navigation

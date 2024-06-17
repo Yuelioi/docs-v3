@@ -1,5 +1,5 @@
 ---
-display_name: Enforce Max Influences
+title: Enforce Max Influences
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug String
+title: Get Debug String
 order: 2
 ---
 ## Navigation

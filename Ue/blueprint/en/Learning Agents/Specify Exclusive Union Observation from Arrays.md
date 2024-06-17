@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Union Observation from Arrays
+title: Specify Exclusive Union Observation from Arrays
 order: 299
 ---
 ## Navigation

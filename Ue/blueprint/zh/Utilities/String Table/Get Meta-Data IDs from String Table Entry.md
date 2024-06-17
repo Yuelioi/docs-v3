@@ -1,5 +1,5 @@
 ---
-display_name: Get Meta-Data IDs from String Table Entry
+title: Get Meta-Data IDs from String Table Entry
 order: 2
 ---
 ## Navigation

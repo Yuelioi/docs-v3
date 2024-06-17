@@ -1,5 +1,5 @@
 ---
-display_name: setagentclips
+title: setagentclips
 order: 53
 ---
 `int  setagentclips(int geohandle, int prim, string clip_names[], float clip_times[], float clip_weights[], string clip_transform_groups[], int clip_layer_ids[], int layer_blend_modes[], float layer_weights[], int layer_parent_ids[])`

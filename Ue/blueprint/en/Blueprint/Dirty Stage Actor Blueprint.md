@@ -1,5 +1,5 @@
 ---
-display_name: Dirty Stage Actor Blueprint
+title: Dirty Stage Actor Blueprint
 order: 1
 ---
 ## Navigation

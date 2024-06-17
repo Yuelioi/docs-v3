@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixtures in Universe
+title: Get All Fixtures in Universe
 order: 34
 ---
 ## Navigation

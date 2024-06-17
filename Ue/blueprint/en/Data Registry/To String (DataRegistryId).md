@@ -1,5 +1,5 @@
 ---
-display_name: To String (DataRegistryId)
+title: To String (DataRegistryId)
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Quat Identity
+title: Quat Identity
 order: 22
 ---
 ## Navigation

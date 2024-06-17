@@ -1,5 +1,5 @@
 ---
-display_name: Is Channel Muted
+title: Is Channel Muted
 order: 12
 ---
 ## Navigation

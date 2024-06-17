@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Index
+title: Get Local Index
 order: 49
 ---
 ## Navigation

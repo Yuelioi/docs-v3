@@ -1,5 +1,5 @@
 ---
-display_name: Can Change Source
+title: Can Change Source
 order: 14
 ---
 ## Navigation

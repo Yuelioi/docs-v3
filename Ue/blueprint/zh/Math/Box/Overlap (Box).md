@@ -1,5 +1,5 @@
 ---
-display_name: Overlap (Box)
+title: Overlap (Box)
 order: 9
 ---
 ## Navigation

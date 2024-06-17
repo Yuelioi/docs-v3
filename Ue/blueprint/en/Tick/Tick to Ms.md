@@ -1,5 +1,5 @@
 ---
-display_name: Tick to Ms
+title: Tick to Ms
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Editing Mode
+title: Set Editing Mode
 order: 4
 ---
 ## Navigation

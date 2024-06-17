@@ -1,5 +1,5 @@
 ---
-display_name: Play Slot Animation as Dynamic Montage
+title: Play Slot Animation as Dynamic Montage
 order: 33
 ---
 ## Navigation

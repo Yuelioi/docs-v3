@@ -1,5 +1,5 @@
 ---
-display_name: Find Handle for Object
+title: Find Handle for Object
 order: 14
 ---
 ## Navigation

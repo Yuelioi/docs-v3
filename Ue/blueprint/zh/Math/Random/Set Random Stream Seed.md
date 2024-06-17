@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Stream Seed
+title: Set Random Stream Seed
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Existing Material from Search Location
+title: Find Existing Material from Search Location
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Dependencies (Message)
+title: Get Dependencies (Message)
 order: 20
 ---
 ## Navigation

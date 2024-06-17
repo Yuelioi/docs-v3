@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Position
+title: Get Start Position
 order: 6
 ---
 ## Navigation

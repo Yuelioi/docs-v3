@@ -1,5 +1,5 @@
 ---
-display_name: Export Selected Layers
+title: Export Selected Layers
 order: 2
 ---
 ## Navigation

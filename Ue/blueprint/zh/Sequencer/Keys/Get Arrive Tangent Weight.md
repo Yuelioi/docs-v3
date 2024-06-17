@@ -1,5 +1,5 @@
 ---
-display_name: Get Arrive Tangent Weight
+title: Get Arrive Tangent Weight
 order: 17
 ---
 ## Navigation

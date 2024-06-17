@@ -1,5 +1,5 @@
 ---
-display_name: Intro
+title: Intro
 order: 7
 ---
 

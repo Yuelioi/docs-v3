@@ -1,5 +1,5 @@
 ---
-display_name: pcfilter
+title: pcfilter
 order: 10
 ---
 `<type> pcfilter(int handle, string channel_name, ...)`

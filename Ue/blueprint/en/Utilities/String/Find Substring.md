@@ -1,5 +1,5 @@
 ---
-display_name: Find Substring
+title: Find Substring
 order: 18
 ---
 ## Navigation

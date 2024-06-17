@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Spline Points
+title: Get Number Of Spline Points
 order: 42
 ---
 ## Navigation

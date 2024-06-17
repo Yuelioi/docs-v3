@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Paths (Message)
+title: Get Sub Paths (Message)
 order: 24
 ---
 ## Navigation

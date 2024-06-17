@@ -1,5 +1,5 @@
 ---
-display_name: Mark for Mesh Rebuild
+title: Mark for Mesh Rebuild
 order: 7
 ---
 ## Navigation

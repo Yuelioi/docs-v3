@@ -1,5 +1,5 @@
 ---
-display_name: Set Selection from List
+title: Set Selection from List
 order: 28
 ---
 ## Navigation

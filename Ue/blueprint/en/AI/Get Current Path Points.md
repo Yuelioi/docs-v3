@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Path Points
+title: Get Current Path Points
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Select Sections
+title: Select Sections
 order: 60
 ---
 ## Navigation

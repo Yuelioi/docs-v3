@@ -1,5 +1,5 @@
 ---
-display_name: Get Curl Noise Force Enabled
+title: Get Curl Noise Force Enabled
 order: 5
 ---
 ## Navigation

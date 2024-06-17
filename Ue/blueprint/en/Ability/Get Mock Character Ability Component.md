@@ -1,5 +1,5 @@
 ---
-display_name: Get Mock Character Ability Component
+title: Get Mock Character Ability Component
 order: 44
 ---
 ## Navigation

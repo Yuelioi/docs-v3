@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Selectable
+title: Set Is Selectable
 order: 7
 ---
 ## Navigation

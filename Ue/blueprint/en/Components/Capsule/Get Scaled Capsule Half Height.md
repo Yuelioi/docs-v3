@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Capsule Half Height
+title: Get Scaled Capsule Half Height
 order: 2
 ---
 ## Navigation

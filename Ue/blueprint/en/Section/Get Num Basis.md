@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Basis
+title: Get Num Basis
 order: 5
 ---
 ## Navigation

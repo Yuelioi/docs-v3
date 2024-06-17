@@ -1,5 +1,5 @@
 ---
-display_name: isvarying
+title: isvarying
 order: 7
 ---
 `int  isvarying(<type>x)`

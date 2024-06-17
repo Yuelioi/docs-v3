@@ -1,5 +1,5 @@
 ---
-display_name: Vector Component Min
+title: Vector Component Min
 order: 66
 ---
 ## Navigation

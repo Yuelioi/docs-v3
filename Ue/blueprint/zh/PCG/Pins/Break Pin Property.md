@@ -1,5 +1,5 @@
 ---
-display_name: Break Pin Property
+title: Break Pin Property
 order: 1
 ---
 ## Navigation

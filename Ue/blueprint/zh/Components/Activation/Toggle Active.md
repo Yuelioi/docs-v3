@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Active
+title: Toggle Active
 order: 20
 ---
 ## Navigation

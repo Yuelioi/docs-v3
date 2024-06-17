@@ -1,5 +1,5 @@
 ---
-display_name: End Profiling Timer
+title: End Profiling Timer
 order: 8
 ---
 ## Navigation

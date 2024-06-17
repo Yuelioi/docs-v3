@@ -1,5 +1,5 @@
 ---
-display_name: Working with geometry groups in VEX
+title: Working with geometry groups in VEX
 order: 9
 ---
 | On this page | * [Dedicated functions](#dedicated-functions) * [Getting the existing groups](#getting-the-existing-groups) * [Reading groups as attributes](#reading-groups-as-attributes) |

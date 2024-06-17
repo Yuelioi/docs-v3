@@ -1,5 +1,5 @@
 ---
-display_name: reverse
+title: reverse
 order: 15
 ---
 

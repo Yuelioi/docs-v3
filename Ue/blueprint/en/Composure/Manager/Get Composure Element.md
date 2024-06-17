@@ -1,5 +1,5 @@
 ---
-display_name: Get Composure Element
+title: Get Composure Element
 order: 4
 ---
 ## Navigation

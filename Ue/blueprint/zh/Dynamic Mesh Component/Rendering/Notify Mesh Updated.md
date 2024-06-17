@@ -1,5 +1,5 @@
 ---
-display_name: Notify Mesh Updated
+title: Notify Mesh Updated
 order: 5
 ---
 ## Navigation

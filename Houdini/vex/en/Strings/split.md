@@ -1,5 +1,5 @@
 ---
-display_name: split
+title: split
 order: 34
 ---
 `string [] split(string s)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Channels
+title: Get Number Of Channels
 order: 8
 ---
 ## Navigation

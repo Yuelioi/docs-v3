@@ -1,5 +1,5 @@
 ---
-display_name: Set Enabled XRCamera
+title: Set Enabled XRCamera
 order: 15
 ---
 ## Navigation

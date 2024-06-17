@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation Reverse
+title: Play Animation Reverse
 order: 9
 ---
 ## Navigation

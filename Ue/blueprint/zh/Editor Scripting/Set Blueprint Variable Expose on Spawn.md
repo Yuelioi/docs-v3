@@ -1,5 +1,5 @@
 ---
-display_name: Set Blueprint Variable Expose on Spawn
+title: Set Blueprint Variable Expose on Spawn
 order: 4
 ---
 ## Navigation

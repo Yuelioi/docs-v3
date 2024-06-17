@@ -1,5 +1,5 @@
 ---
-display_name: Append Bounding Box
+title: Append Bounding Box
 order: 1
 ---
 ## Navigation

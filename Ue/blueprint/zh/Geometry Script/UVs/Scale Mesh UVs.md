@@ -1,5 +1,5 @@
 ---
-display_name: Scale Mesh UVs
+title: Scale Mesh UVs
 order: 14
 ---
 ## Navigation

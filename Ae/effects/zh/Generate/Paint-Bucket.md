@@ -1,5 +1,5 @@
 ---
-display_name: 油漆桶
+title: 油漆桶
 order: 21
 ---
 

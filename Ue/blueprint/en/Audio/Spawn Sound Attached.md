@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Sound Attached
+title: Spawn Sound Attached
 order: 22
 ---
 ## Navigation

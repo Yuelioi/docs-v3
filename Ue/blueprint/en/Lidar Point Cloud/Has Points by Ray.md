@@ -1,5 +1,5 @@
 ---
-display_name: Has Points by Ray
+title: Has Points by Ray
 order: 33
 ---
 ## Navigation

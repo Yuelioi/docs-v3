@@ -1,5 +1,5 @@
 ---
-display_name: Bake Texture
+title: Bake Texture
 order: 2
 ---
 ## Navigation

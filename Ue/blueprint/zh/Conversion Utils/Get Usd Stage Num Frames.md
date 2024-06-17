@@ -1,5 +1,5 @@
 ---
-display_name: Get Usd Stage Num Frames
+title: Get Usd Stage Num Frames
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get UMGClass
+title: Get UMGClass
 order: 2
 ---
 ## Navigation

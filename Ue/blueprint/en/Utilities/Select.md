@@ -1,5 +1,5 @@
 ---
-display_name: Select
+title: Select
 order: 34
 ---
 ## Navigation

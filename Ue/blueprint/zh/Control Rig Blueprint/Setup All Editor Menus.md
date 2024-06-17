@@ -1,5 +1,5 @@
 ---
-display_name: Setup All Editor Menus
+title: Setup All Editor Menus
 order: 10
 ---
 ## Navigation

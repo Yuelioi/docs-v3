@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Editor
+title: Get Curve Editor
 order: 22
 ---
 ## Navigation

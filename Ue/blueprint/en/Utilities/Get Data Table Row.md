@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Row
+title: Get Data Table Row
 order: 14
 ---
 ## Navigation

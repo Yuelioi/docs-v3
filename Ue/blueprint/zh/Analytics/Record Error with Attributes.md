@@ -1,5 +1,5 @@
 ---
-display_name: Record Error with Attributes
+title: Record Error with Attributes
 order: 9
 ---
 ## Navigation

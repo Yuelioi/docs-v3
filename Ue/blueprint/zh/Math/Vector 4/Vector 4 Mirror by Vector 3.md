@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Mirror by Vector 3
+title: Vector 4 Mirror by Vector 3
 order: 23
 ---
 ## Navigation

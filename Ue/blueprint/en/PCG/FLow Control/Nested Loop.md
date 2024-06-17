@@ -1,5 +1,5 @@
 ---
-display_name: Nested Loop
+title: Nested Loop
 order: 2
 ---
 ## Navigation

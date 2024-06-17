@@ -1,5 +1,5 @@
 ---
-display_name: Find Files
+title: Find Files
 order: 6
 ---
 ## Navigation

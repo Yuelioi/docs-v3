@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Frame Metrics
+title: Get Current Frame Metrics
 order: 5
 ---
 ## Navigation

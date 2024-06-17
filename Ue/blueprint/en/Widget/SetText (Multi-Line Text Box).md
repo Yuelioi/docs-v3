@@ -1,5 +1,5 @@
 ---
-display_name: SetText (Multi-Line Text Box)
+title: SetText (Multi-Line Text Box)
 order: 50
 ---
 ## Navigation

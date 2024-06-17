@@ -1,5 +1,5 @@
 ---
-display_name: solvecurve
+title: solvecurve
 order: 27
 ---
 | Since | 17.5 |

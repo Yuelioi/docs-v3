@@ -1,5 +1,5 @@
 ---
-display_name: CancelAbility
+title: CancelAbility
 order: 10
 ---
 ## Navigation

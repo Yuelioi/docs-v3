@@ -1,5 +1,5 @@
 ---
-display_name: Compute Tangents
+title: Compute Tangents
 order: 3
 ---
 ## Navigation

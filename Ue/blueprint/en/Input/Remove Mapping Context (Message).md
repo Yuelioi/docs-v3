@@ -1,5 +1,5 @@
 ---
-display_name: Remove Mapping Context (Message)
+title: Remove Mapping Context (Message)
 order: 13
 ---
 ## Navigation

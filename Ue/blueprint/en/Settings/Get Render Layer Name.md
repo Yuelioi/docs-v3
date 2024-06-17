@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Layer Name
+title: Get Render Layer Name
 order: 57
 ---
 ## Navigation

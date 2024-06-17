@@ -1,5 +1,5 @@
 ---
-display_name: Add Rigid Body
+title: Add Rigid Body
 order: 7
 ---
 ## Navigation

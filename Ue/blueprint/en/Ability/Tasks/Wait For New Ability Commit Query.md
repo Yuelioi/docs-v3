@@ -1,5 +1,5 @@
 ---
-display_name: Wait For New Ability Commit Query
+title: Wait For New Ability Commit Query
 order: 21
 ---
 ## Navigation

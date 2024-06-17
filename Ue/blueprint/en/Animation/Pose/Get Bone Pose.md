@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Pose
+title: Get Bone Pose
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Envelope Follower Generator
+title: Create Envelope Follower Generator
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: uvdist
+title: uvdist
 order: 18
 ---
 `float  uvdist(<geometry>geometry, string uvname, vector uv, int &prim, vector &primuv)`

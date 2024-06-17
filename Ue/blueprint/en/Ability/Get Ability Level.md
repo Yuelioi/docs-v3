@@ -1,5 +1,5 @@
 ---
-display_name: Get Ability Level
+title: Get Ability Level
 order: 34
 ---
 ## Navigation

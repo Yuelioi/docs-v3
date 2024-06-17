@@ -1,5 +1,5 @@
 ---
-display_name: UTC Now
+title: UTC Now
 order: 36
 ---
 ## Navigation

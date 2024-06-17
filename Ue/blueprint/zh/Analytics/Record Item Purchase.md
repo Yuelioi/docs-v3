@@ -1,5 +1,5 @@
 ---
-display_name: Record Item Purchase
+title: Record Item Purchase
 order: 14
 ---
 ## Navigation

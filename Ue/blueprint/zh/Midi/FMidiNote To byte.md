@@ -1,5 +1,5 @@
 ---
-display_name: FMidiNote To byte
+title: FMidiNote To byte
 order: 1
 ---
 ## Navigation

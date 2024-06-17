@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Profile
+title: Get Blend Profile
 order: 6
 ---
 ## Navigation

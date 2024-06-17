@@ -1,5 +1,5 @@
 ---
-display_name: Component Space Transform
+title: Component Space Transform
 order: 15
 ---
 ## Navigation

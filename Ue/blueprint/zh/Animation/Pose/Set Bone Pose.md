@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Pose
+title: Set Bone Pose
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Directory Exists
+title: Directory Exists
 order: 4
 ---
 ## Navigation

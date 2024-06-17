@@ -1,5 +1,5 @@
 ---
-display_name: Is Widget Visible
+title: Is Widget Visible
 order: 35
 ---
 ## Navigation

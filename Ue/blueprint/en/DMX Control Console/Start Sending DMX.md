@@ -1,5 +1,5 @@
 ---
-display_name: Start Sending DMX
+title: Start Sending DMX
 order: 1
 ---
 ## Navigation

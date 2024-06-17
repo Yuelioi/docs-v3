@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Offset
+title: Get Control Offset
 order: 12
 ---
 ## Navigation

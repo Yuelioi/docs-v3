@@ -1,5 +1,5 @@
 ---
-display_name: Set Transform Curve Key
+title: Set Transform Curve Key
 order: 30
 ---
 ## Navigation

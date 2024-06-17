@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Pos Y
+title: Get Node Pos Y
 order: 37
 ---
 ## Navigation

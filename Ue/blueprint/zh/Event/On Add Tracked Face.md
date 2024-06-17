@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Face
+title: On Add Tracked Face
 order: 2
 ---
 ## Navigation

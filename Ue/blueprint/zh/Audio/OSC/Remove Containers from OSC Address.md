@@ -1,5 +1,5 @@
 ---
-display_name: Remove Containers from OSC Address
+title: Remove Containers from OSC Address
 order: 64
 ---
 ## Navigation

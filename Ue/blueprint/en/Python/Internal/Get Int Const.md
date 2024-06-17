@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Const
+title: Get Int Const
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Hide Bookmark Spline Mesh Indicator (Message)
+title: Hide Bookmark Spline Mesh Indicator (Message)
 order: 13
 ---
 ## Navigation

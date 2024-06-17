@@ -1,5 +1,5 @@
 ---
-display_name: Greater Equal ( = )
+title: Greater Equal ( = )
 order: 5
 ---
 ## Navigation

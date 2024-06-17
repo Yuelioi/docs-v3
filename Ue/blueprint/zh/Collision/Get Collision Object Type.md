@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Object Type
+title: Get Collision Object Type
 order: 25
 ---
 ## Navigation

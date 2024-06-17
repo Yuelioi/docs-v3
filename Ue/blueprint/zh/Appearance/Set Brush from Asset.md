@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Asset
+title: Set Brush from Asset
 order: 24
 ---
 ## Navigation

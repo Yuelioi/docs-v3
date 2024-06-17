@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Events
+title: Initialize Events
 order: 7
 ---
 ## Navigation

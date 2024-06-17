@@ -1,5 +1,5 @@
 ---
-display_name: 色调
+title: 色调
 order: 32
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Open Curve Editor
+title: Open Curve Editor
 order: 9
 ---
 ## Navigation

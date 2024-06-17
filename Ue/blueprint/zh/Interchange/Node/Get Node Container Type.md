@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Container Type
+title: Get Node Container Type
 order: 35
 ---
 ## Navigation

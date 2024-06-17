@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment Transform For Role Relative To WarpPoint
+title: Get Alignment Transform For Role Relative To WarpPoint
 order: 7
 ---
 ## Navigation

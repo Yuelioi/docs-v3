@@ -1,5 +1,5 @@
 ---
-display_name: Select Int
+title: Select Int
 order: 17
 ---
 ## Navigation

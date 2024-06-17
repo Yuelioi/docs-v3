@@ -1,5 +1,5 @@
 ---
-display_name: Start Recording Sequence
+title: Start Recording Sequence
 order: 2
 ---
 ## Navigation

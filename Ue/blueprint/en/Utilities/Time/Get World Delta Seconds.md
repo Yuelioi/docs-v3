@@ -1,5 +1,5 @@
 ---
-display_name: Get World Delta Seconds
+title: Get World Delta Seconds
 order: 17
 ---
 ## Navigation

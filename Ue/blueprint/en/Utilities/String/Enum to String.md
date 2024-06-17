@@ -1,5 +1,5 @@
 ---
-display_name: Enum to String
+title: Enum to String
 order: 15
 ---
 ## Navigation

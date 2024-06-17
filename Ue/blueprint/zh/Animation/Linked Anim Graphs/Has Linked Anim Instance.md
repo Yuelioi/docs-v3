@@ -1,5 +1,5 @@
 ---
-display_name: Has Linked Anim Instance
+title: Has Linked Anim Instance
 order: 8
 ---
 ## Navigation

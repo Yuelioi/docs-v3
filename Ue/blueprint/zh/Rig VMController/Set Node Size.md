@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Size
+title: Set Node Size
 order: 120
 ---
 ## Navigation

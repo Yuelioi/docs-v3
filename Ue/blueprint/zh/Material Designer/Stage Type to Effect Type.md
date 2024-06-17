@@ -1,5 +1,5 @@
 ---
-display_name: Stage Type to Effect Type
+title: Stage Type to Effect Type
 order: 241
 ---
 ## Navigation

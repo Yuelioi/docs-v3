@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Capsule Half Height Without Hemisphere
+title: Get Unscaled Capsule Half Height Without Hemisphere
 order: 7
 ---
 ## Navigation

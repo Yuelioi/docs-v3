@@ -1,5 +1,5 @@
 ---
-display_name: Set Relative Scale 3D
+title: Set Relative Scale 3D
 order: 71
 ---
 ## Navigation

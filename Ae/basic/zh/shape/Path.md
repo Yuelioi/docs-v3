@@ -1,5 +1,5 @@
 ---
-display_name: 路径选项
+title: 路径选项
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: getbounds
+title: getbounds
 order: 8
 ---
 `int  getbounds(string filename, vector &min, vector &max)`

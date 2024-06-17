@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as UChar Array
+title: Stringify as UChar Array
 order: 58
 ---
 ## Navigation

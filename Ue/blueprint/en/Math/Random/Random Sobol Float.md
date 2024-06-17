@@ -1,5 +1,5 @@
 ---
-display_name: Random Sobol Float
+title: Random Sobol Float
 order: 32
 ---
 ## Navigation

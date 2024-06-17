@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Add
+title: Wait Gameplay Tag Add
 order: 30
 ---
 ## Navigation

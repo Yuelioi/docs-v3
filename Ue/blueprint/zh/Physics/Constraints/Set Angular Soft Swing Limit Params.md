@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Soft Swing Limit Params
+title: Set Angular Soft Swing Limit Params
 order: 39
 ---
 ## Navigation

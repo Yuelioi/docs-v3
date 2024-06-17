@@ -1,5 +1,5 @@
 ---
-display_name: ninput
+title: ninput
 order: 30
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

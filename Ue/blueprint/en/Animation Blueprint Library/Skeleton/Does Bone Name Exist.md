@@ -1,5 +1,5 @@
 ---
-display_name: Does Bone Name Exist
+title: Does Bone Name Exist
 order: 1
 ---
 ## Navigation

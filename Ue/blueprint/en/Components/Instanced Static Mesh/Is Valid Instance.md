@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Instance
+title: Is Valid Instance
 order: 12
 ---
 ## Navigation

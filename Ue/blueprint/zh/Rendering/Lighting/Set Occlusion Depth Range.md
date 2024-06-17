@@ -1,5 +1,5 @@
 ---
-display_name: Set Occlusion Depth Range
+title: Set Occlusion Depth Range
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable (Integer)
+title: Set Variable (Integer)
 order: 4
 ---
 ## Navigation

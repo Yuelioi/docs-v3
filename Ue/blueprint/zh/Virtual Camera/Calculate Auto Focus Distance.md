@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Auto Focus Distance
+title: Calculate Auto Focus Distance
 order: 3
 ---
 ## Navigation

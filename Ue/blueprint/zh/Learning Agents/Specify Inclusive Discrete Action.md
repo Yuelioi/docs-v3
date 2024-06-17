@@ -1,5 +1,5 @@
 ---
-display_name: Specify Inclusive Discrete Action
+title: Specify Inclusive Discrete Action
 order: 303
 ---
 ## Navigation

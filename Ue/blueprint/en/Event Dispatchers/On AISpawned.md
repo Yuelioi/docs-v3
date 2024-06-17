@@ -1,5 +1,5 @@
 ---
-display_name: On AISpawned
+title: On AISpawned
 order: 40
 ---
 ## Navigation

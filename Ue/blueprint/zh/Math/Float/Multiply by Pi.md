@@ -1,5 +1,5 @@
 ---
-display_name: Multiply by Pi
+title: Multiply by Pi
 order: 28
 ---
 ## Navigation

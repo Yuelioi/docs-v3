@@ -1,5 +1,5 @@
 ---
-display_name: Event End Play
+title: Event End Play
 order: 5
 ---
 ## Navigation

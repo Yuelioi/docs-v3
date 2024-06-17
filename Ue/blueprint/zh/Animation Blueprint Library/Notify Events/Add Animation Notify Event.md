@@ -1,5 +1,5 @@
 ---
-display_name: Add Animation Notify Event
+title: Add Animation Notify Event
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VPBookmark Spline Mesh Indicator Disable
+title: VPBookmark Spline Mesh Indicator Disable
 order: 1
 ---
 ## Navigation

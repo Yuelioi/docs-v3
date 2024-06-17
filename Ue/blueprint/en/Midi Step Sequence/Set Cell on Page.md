@@ -1,5 +1,5 @@
 ---
-display_name: Set Cell on Page
+title: Set Cell on Page
 order: 7
 ---
 ## Navigation

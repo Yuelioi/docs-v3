@@ -1,5 +1,5 @@
 ---
-display_name: Remove Loose Gameplay Tags
+title: Remove Loose Gameplay Tags
 order: 30
 ---
 ## Navigation

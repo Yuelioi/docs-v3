@@ -1,5 +1,5 @@
 ---
-display_name: Register Perception Stimuli Source
+title: Register Perception Stimuli Source
 order: 12
 ---
 ## Navigation

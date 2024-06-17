@@ -1,5 +1,5 @@
 ---
-display_name: 属性组
+title: 属性组
 order: 2
 ---
 

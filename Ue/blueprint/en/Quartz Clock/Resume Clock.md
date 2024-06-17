@@ -1,5 +1,5 @@
 ---
-display_name: Resume Clock
+title: Resume Clock
 order: 6
 ---
 ## Navigation

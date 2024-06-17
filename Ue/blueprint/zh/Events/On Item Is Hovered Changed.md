@@ -1,5 +1,5 @@
 ---
-display_name: On Item Is Hovered Changed
+title: On Item Is Hovered Changed
 order: 14
 ---
 ## Navigation

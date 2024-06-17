@@ -1,5 +1,5 @@
 ---
-display_name: Clamp Vector Size
+title: Clamp Vector Size
 order: 6
 ---
 ## Navigation

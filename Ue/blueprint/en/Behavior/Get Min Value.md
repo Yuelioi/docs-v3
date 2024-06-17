@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Value
+title: Get Min Value
 order: 10
 ---
 ## Navigation

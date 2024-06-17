@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Color Array Metadata
+title: Get Linear Color Array Metadata
 order: 45
 ---
 ## Navigation

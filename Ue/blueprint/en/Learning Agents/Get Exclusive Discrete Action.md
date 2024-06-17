@@ -1,5 +1,5 @@
 ---
-display_name: Get Exclusive Discrete Action
+title: Get Exclusive Discrete Action
 order: 66
 ---
 ## Navigation

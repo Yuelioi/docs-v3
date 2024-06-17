@@ -1,5 +1,5 @@
 ---
-display_name: Indices
+title: Indices
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Reconstruction Paused
+title: Is Reconstruction Paused
 order: 9
 ---
 ## Navigation

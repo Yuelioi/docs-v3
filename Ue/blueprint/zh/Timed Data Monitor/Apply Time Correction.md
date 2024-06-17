@@ -1,5 +1,5 @@
 ---
-display_name: Apply Time Correction
+title: Apply Time Correction
 order: 1
 ---
 ## Navigation

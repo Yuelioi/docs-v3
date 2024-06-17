@@ -1,5 +1,5 @@
 ---
-display_name: Remove Socket
+title: Remove Socket
 order: 21
 ---
 ## Navigation

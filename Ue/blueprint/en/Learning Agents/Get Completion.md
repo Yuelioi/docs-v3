@@ -1,5 +1,5 @@
 ---
-display_name: Get Completion
+title: Get Completion
 order: 45
 ---
 ## Navigation

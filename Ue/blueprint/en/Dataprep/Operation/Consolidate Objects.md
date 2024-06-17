@@ -1,5 +1,5 @@
 ---
-display_name: Consolidate Objects
+title: Consolidate Objects
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Blend Stack Node
+title: Convert to Blend Stack Node
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Jobs
+title: Get Jobs
 order: 13
 ---
 ## Navigation

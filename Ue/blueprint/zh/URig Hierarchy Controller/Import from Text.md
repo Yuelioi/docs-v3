@@ -1,5 +1,5 @@
 ---
-display_name: Import from Text
+title: Import from Text
 order: 21
 ---
 ## Navigation

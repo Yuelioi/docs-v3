@@ -1,5 +1,5 @@
 ---
-display_name: Func Interface
+title: Func Interface
 order: 34
 ---
 ## Navigation

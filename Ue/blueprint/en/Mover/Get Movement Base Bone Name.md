@@ -1,5 +1,5 @@
 ---
-display_name: Get Movement Base Bone Name
+title: Get Movement Base Bone Name
 order: 15
 ---
 ## Navigation

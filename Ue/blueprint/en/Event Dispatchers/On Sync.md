@@ -1,5 +1,5 @@
 ---
-display_name: On Sync
+title: On Sync
 order: 162
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Raw Track Rotation Data
+title: Get Raw Track Rotation Data
 order: 3
 ---
 ## Navigation

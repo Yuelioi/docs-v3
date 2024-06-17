@@ -1,5 +1,5 @@
 ---
-display_name: Set Exposed Pin Index
+title: Set Exposed Pin Index
 order: 103
 ---
 ## Navigation

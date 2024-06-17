@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target Poses
+title: Set Control Target Poses
 order: 104
 ---
 ## Navigation

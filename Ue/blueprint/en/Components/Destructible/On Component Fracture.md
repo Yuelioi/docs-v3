@@ -1,5 +1,5 @@
 ---
-display_name: On Component Fracture
+title: On Component Fracture
 order: 4
 ---
 ## Navigation

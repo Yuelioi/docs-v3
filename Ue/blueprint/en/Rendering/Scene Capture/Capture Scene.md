@@ -1,5 +1,5 @@
 ---
-display_name: Capture Scene
+title: Capture Scene
 order: 1
 ---
 ## Navigation

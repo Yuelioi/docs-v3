@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Tracing Distance
+title: Set Shadow Tracing Distance
 order: 80
 ---
 ## Navigation

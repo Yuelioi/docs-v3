@@ -1,5 +1,5 @@
 ---
-display_name: Uninitialize Bindings
+title: Uninitialize Bindings
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert OSC Address To String
+title: Convert OSC Address To String
 order: 16
 ---
 ## Navigation

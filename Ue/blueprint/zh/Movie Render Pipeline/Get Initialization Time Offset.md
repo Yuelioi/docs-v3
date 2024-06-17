@@ -1,5 +1,5 @@
 ---
-display_name: Get Initialization Time Offset
+title: Get Initialization Time Offset
 order: 41
 ---
 ## Navigation

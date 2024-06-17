@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounding Box Depth
+title: Get Bounding Box Depth
 order: 13
 ---
 ## Navigation

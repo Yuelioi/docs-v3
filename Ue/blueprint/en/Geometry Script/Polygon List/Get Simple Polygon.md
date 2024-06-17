@@ -1,5 +1,5 @@
 ---
-display_name: Get Simple Polygon
+title: Get Simple Polygon
 order: 16
 ---
 ## Navigation

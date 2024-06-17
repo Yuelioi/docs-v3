@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance Sparse Volume Texture Parameter Value
+title: Get Material Instance Sparse Volume Texture Parameter Value
 order: 23
 ---
 ## Navigation

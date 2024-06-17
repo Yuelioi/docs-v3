@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Is Cine ACine Camera Recording
+title: Get Clips Meta Data Tag Is Cine ACine Camera Recording
 order: 10
 ---
 ## Navigation

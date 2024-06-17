@@ -1,5 +1,5 @@
 ---
-display_name: Capture Active Scene Viewport
+title: Capture Active Scene Viewport
 order: 1
 ---
 ## Navigation

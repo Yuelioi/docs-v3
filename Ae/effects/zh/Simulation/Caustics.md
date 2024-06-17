@@ -1,5 +1,5 @@
 ---
-display_name: 焦散
+title: 焦散
 order: 2
 ---
 

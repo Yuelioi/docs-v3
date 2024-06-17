@@ -1,5 +1,5 @@
 ---
-display_name: End Transaction
+title: End Transaction
 order: 4
 ---
 ## Navigation

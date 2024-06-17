@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Audio Output Devices
+title: Get Available Audio Output Devices
 order: 6
 ---
 ## Navigation

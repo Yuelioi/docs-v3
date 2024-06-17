@@ -1,5 +1,5 @@
 ---
-display_name: primvertexcount
+title: primvertexcount
 order: 29
 ---
 `int  primvertexcount(<geometry>geometry, int prim_num)`

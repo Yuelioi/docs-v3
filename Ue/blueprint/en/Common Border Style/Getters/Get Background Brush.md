@@ -1,5 +1,5 @@
 ---
-display_name: Get Background Brush
+title: Get Background Brush
 order: 1
 ---
 ## Navigation

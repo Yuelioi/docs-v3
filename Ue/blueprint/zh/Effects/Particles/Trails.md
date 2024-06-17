@@ -1,5 +1,5 @@
 ---
-display_name: Trails
+title: Trails
 order: 1
 ---
 ## Navigation

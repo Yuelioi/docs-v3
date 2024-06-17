@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Text
+title: Get Value Text
 order: 15
 ---
 ## Navigation

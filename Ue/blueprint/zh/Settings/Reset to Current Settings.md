@@ -1,5 +1,5 @@
 ---
-display_name: Reset to Current Settings
+title: Reset to Current Settings
 order: 98
 ---
 ## Navigation

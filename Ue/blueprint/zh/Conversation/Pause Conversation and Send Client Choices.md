@@ -1,5 +1,5 @@
 ---
-display_name: Pause Conversation and Send Client Choices
+title: Pause Conversation and Send Client Choices
 order: 15
 ---
 ## Navigation

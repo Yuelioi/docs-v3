@@ -1,5 +1,5 @@
 ---
-display_name: Add Error
+title: Add Error
 order: 1
 ---
 ## Navigation

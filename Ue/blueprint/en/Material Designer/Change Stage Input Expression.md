@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input Expression
+title: Change Stage Input Expression
 order: 22
 ---
 ## Navigation

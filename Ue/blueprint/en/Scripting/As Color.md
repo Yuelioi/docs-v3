@@ -1,5 +1,5 @@
 ---
-display_name: As Color
+title: As Color
 order: 2
 ---
 ## Navigation

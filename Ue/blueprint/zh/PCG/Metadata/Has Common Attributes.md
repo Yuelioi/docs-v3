@@ -1,5 +1,5 @@
 ---
-display_name: Has Common Attributes
+title: Has Common Attributes
 order: 61
 ---
 ## Navigation

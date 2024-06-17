@@ -1,5 +1,5 @@
 ---
-display_name: Is Component
+title: Is Component
 order: 17
 ---
 ## Navigation

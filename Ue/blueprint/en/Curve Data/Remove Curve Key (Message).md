@@ -1,5 +1,5 @@
 ---
-display_name: Remove Curve Key (Message)
+title: Remove Curve Key (Message)
 order: 8
 ---
 ## Navigation

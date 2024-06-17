@@ -1,5 +1,5 @@
 ---
-display_name: Next Sobol Float
+title: Next Sobol Float
 order: 8
 ---
 ## Navigation

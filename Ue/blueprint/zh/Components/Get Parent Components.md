@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Components
+title: Get Parent Components
 order: 34
 ---
 ## Navigation

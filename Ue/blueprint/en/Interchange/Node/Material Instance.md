@@ -1,5 +1,5 @@
 ---
-display_name: Material Instance
+title: Material Instance
 order: 51
 ---
 ## Navigation

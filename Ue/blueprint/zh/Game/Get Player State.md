@@ -1,5 +1,5 @@
 ---
-display_name: Get Player State
+title: Get Player State
 order: 42
 ---
 ## Navigation

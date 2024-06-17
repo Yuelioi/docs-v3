@@ -1,5 +1,5 @@
 ---
-display_name: Set Ortho Near Clip Plane
+title: Set Ortho Near Clip Plane
 order: 26
 ---
 ## Navigation

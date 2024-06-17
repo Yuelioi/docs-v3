@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Offset
+title: Set Location Offset
 order: 65
 ---
 ## Navigation

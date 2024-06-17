@@ -1,5 +1,5 @@
 ---
-display_name: Get List Items
+title: Get List Items
 order: 8
 ---
 ## Navigation

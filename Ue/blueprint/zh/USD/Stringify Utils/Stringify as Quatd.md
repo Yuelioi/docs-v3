@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Quatd
+title: Stringify as Quatd
 order: 47
 ---
 ## Navigation

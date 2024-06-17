@@ -1,5 +1,5 @@
 ---
-display_name: As Percent
+title: As Percent
 order: 6
 ---
 ## Navigation

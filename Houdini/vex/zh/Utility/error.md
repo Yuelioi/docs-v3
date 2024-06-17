@@ -1,5 +1,5 @@
 ---
-display_name: error
+title: error
 order: 3
 ---
 `void  error(string format, ...)`

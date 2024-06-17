@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Parameter Num Options
+title: Get Int Parameter Num Options
 order: 10
 ---
 ## Navigation

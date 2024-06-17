@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Resize
+title: Set Allow Resize
 order: 101
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Can Launch URL
+title: Can Launch URL
 order: 1
 ---
 ## Navigation

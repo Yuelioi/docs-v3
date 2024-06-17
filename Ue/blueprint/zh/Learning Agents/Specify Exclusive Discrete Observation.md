@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Discrete Observation
+title: Specify Exclusive Discrete Observation
 order: 296
 ---
 ## Navigation

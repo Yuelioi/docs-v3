@@ -1,5 +1,5 @@
 ---
-display_name: pointvertices
+title: pointvertices
 order: 23
 ---
 `int [] pointvertices(<geometry>geometry, int ptnum)`

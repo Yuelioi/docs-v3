@@ -1,5 +1,5 @@
 ---
-display_name: Last Index
+title: Last Index
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Simulation Tick
+title: On Simulation Tick
 order: 22
 ---
 ## Navigation

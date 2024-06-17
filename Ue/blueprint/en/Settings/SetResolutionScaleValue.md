@@ -1,5 +1,5 @@
 ---
-display_name: SetResolutionScaleValue
+title: SetResolutionScaleValue
 order: 139
 ---
 ## Navigation

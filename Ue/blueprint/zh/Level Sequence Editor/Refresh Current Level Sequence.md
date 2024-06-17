@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Current Level Sequence
+title: Refresh Current Level Sequence
 order: 51
 ---
 ## Navigation

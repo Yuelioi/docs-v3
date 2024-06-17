@@ -1,5 +1,5 @@
 ---
-display_name: Clear Custom Mesh Triangles
+title: Clear Custom Mesh Triangles
 order: 2
 ---
 ## Navigation

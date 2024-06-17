@@ -1,5 +1,5 @@
 ---
-display_name: Clear Submix Effect Chain Override
+title: Clear Submix Effect Chain Override
 order: 7
 ---
 ## Navigation

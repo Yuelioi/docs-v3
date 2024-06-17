@@ -1,5 +1,5 @@
 ---
-display_name: Import Curves
+title: Import Curves
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Scene
+title: Destroy Scene
 order: 13
 ---
 ## Navigation

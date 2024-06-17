@@ -1,5 +1,5 @@
 ---
-display_name: Rotation Axis (Quat)
+title: Rotation Axis (Quat)
 order: 24
 ---
 ## Navigation

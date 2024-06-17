@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Module Script
+title: Find or Add Module Script
 order: 33
 ---
 ## Navigation

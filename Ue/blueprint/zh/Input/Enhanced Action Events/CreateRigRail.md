@@ -1,5 +1,5 @@
 ---
-display_name: CreateRigRail
+title: CreateRigRail
 order: 8
 ---
 ## Navigation

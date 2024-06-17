@@ -1,5 +1,5 @@
 ---
-display_name: usd_isinstance
+title: usd_isinstance
 order: 72
 ---
 | Since | 18.0 |

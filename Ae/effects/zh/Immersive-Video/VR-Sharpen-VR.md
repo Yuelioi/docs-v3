@@ -1,5 +1,5 @@
 ---
-display_name: VR锐化
+title: VR锐化
 order: 11
 ---
 

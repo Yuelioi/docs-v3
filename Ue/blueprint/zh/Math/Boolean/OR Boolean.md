@@ -1,5 +1,5 @@
 ---
-display_name: OR Boolean
+title: OR Boolean
 order: 6
 ---
 ## Navigation

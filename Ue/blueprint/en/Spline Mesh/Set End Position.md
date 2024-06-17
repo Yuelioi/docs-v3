@@ -1,5 +1,5 @@
 ---
-display_name: Set End Position
+title: Set End Position
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Vertex to Mesh
+title: Add Vertex to Mesh
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: alphaname
+title: alphaname
 order: 2
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

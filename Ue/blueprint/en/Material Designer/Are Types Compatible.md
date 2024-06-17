@@ -1,5 +1,5 @@
 ---
-display_name: Are Types Compatible
+title: Are Types Compatible
 order: 11
 ---
 ## Navigation

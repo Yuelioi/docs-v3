@@ -1,5 +1,5 @@
 ---
-display_name: Create Harmonix Peak Tamer
+title: Create Harmonix Peak Tamer
 order: 2
 ---
 ## Navigation

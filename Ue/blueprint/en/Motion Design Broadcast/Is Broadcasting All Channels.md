@@ -1,5 +1,5 @@
 ---
-display_name: Is Broadcasting All Channels
+title: Is Broadcasting All Channels
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Instanced Struct
+title: Make Instanced Struct
 order: 4
 ---
 ## Navigation

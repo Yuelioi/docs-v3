@@ -1,5 +1,5 @@
 ---
-display_name: Set Mark
+title: Set Mark
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Running Py Latent Command
+title: Set Is Running Py Latent Command
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset User Data Of Class
+title: Add Asset User Data Of Class
 order: 2
 ---
 ## Navigation

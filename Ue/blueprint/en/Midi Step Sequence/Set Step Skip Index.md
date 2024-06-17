@@ -1,5 +1,5 @@
 ---
-display_name: Set Step Skip Index
+title: Set Step Skip Index
 order: 14
 ---
 ## Navigation

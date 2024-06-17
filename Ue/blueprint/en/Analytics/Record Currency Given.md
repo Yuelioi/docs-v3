@@ -1,5 +1,5 @@
 ---
-display_name: Record Currency Given
+title: Record Currency Given
 order: 7
 ---
 ## Navigation

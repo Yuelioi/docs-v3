@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Checked
+title: Set Is Checked
 order: 16
 ---
 ## Navigation

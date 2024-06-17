@@ -1,5 +1,5 @@
 ---
-display_name: Get Module
+title: Get Module
 order: 11
 ---
 ## Navigation

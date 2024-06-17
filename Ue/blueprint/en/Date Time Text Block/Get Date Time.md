@@ -1,5 +1,5 @@
 ---
-display_name: Get Date Time
+title: Get Date Time
 order: 1
 ---
 ## Navigation

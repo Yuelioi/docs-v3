@@ -1,5 +1,5 @@
 ---
-display_name: Check Name Type Hints
+title: Check Name Type Hints
 order: 16
 ---
 ## Navigation

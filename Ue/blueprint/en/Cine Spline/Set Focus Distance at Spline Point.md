@@ -1,5 +1,5 @@
 ---
-display_name: Set Focus Distance at Spline Point
+title: Set Focus Distance at Spline Point
 order: 12
 ---
 ## Navigation

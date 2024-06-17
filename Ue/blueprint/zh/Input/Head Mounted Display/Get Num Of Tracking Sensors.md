@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Of Tracking Sensors
+title: Get Num Of Tracking Sensors
 order: 5
 ---
 ## Navigation

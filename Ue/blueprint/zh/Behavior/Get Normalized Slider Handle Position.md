@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Slider Handle Position
+title: Get Normalized Slider Handle Position
 order: 11
 ---
 ## Navigation

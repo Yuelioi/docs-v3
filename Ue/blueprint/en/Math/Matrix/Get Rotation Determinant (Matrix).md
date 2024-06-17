@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Determinant (Matrix)
+title: Get Rotation Determinant (Matrix)
 order: 15
 ---
 ## Navigation

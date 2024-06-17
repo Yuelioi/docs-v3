@@ -1,5 +1,5 @@
 ---
-display_name: Get Conversation Participant Actor
+title: Get Conversation Participant Actor
 order: 7
 ---
 ## Navigation

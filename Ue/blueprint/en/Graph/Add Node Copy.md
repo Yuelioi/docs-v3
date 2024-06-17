@@ -1,5 +1,5 @@
 ---
-display_name: Add Node Copy
+title: Add Node Copy
 order: 2
 ---
 ## Navigation

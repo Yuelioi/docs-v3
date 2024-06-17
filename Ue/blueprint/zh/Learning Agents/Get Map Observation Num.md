@@ -1,5 +1,5 @@
 ---
-display_name: Get Map Observation Num
+title: Get Map Observation Num
 order: 86
 ---
 ## Navigation

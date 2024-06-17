@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance Vector Parameter Value
+title: Get Material Instance Vector Parameter Value
 order: 26
 ---
 ## Navigation

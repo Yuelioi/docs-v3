@@ -1,5 +1,5 @@
 ---
-display_name: Event Run
+title: Event Run
 order: 1
 ---
 ## Navigation

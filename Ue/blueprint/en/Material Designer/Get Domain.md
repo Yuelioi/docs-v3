@@ -1,5 +1,5 @@
 ---
-display_name: Get Domain
+title: Get Domain
 order: 63
 ---
 ## Navigation

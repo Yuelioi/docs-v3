@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Distortion Parameters
+title: Evaluate Distortion Parameters
 order: 3
 ---
 ## Navigation

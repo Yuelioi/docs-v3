@@ -1,5 +1,5 @@
 ---
-display_name: Set Game View Enabled for All Viewports
+title: Set Game View Enabled for All Viewports
 order: 4
 ---
 ## Navigation

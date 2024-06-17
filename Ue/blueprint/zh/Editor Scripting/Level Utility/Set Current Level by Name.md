@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Level by Name
+title: Set Current Level by Name
 order: 59
 ---
 ## Navigation

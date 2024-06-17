@@ -1,5 +1,5 @@
 ---
-display_name: Has Points in Sphere
+title: Has Points in Sphere
 order: 35
 ---
 ## Navigation

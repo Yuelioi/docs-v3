@@ -1,5 +1,5 @@
 ---
-display_name: Local Integer
+title: Local Integer
 order: 16
 ---
 ## Navigation

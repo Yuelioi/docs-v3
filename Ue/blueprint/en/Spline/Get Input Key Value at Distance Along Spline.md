@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Key Value at Distance Along Spline
+title: Get Input Key Value at Distance Along Spline
 order: 34
 ---
 ## Navigation

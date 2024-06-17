@@ -1,5 +1,5 @@
 ---
-display_name: Draw Text Array at Location
+title: Draw Text Array at Location
 order: 1
 ---
 ## Navigation

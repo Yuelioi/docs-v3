@@ -1,5 +1,5 @@
 ---
-display_name: Create Edge with ID
+title: Create Edge with ID
 order: 3
 ---
 ## Navigation

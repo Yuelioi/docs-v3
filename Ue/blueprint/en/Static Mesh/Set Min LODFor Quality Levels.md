@@ -1,5 +1,5 @@
 ---
-display_name: Set Min LODFor Quality Levels
+title: Set Min LODFor Quality Levels
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is VSync Dirty
+title: Is VSync Dirty
 order: 85
 ---
 ## Navigation

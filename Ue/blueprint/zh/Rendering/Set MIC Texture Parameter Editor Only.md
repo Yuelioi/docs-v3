@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Texture Parameter Editor Only
+title: Set MIC Texture Parameter Editor Only
 order: 54
 ---
 ## Navigation

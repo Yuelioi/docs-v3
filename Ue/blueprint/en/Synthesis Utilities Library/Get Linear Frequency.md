@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Frequency
+title: Get Linear Frequency
 order: 1
 ---
 ## Navigation

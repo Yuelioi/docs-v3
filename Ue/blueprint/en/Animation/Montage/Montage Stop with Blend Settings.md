@@ -1,5 +1,5 @@
 ---
-display_name: Montage Stop with Blend Settings
+title: Montage Stop with Blend Settings
 order: 27
 ---
 ## Navigation

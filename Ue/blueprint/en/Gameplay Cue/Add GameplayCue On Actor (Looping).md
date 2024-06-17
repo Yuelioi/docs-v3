@@ -1,5 +1,5 @@
 ---
-display_name: Add GameplayCue On Actor (Looping)
+title: Add GameplayCue On Actor (Looping)
 order: 1
 ---
 ## Navigation

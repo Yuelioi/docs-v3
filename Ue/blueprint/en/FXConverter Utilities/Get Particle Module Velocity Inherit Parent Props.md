@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Velocity Inherit Parent Props
+title: Get Particle Module Velocity Inherit Parent Props
 order: 106
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Distance to Line
+title: Get Point Distance to Line
 order: 22
 ---
 ## Navigation

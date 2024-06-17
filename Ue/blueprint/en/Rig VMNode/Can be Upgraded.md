@@ -1,5 +1,5 @@
 ---
-display_name: Can be Upgraded
+title: Can be Upgraded
 order: 2
 ---
 ## Navigation

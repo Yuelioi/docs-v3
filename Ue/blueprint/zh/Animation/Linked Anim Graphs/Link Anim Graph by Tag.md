@@ -1,5 +1,5 @@
 ---
-display_name: Link Anim Graph by Tag
+title: Link Anim Graph by Tag
 order: 10
 ---
 ## Navigation

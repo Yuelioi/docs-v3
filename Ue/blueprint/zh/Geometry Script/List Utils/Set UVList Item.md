@@ -1,5 +1,5 @@
 ---
-display_name: Set UVList Item
+title: Set UVList Item
 order: 46
 ---
 ## Navigation

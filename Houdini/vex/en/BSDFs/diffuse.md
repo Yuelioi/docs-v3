@@ -1,5 +1,5 @@
 ---
-display_name: diffuse
+title: diffuse
 order: 8
 ---
 ![](../../images/rendering/diffuse.png)

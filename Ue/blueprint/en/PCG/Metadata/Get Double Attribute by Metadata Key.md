@@ -1,5 +1,5 @@
 ---
-display_name: Get Double Attribute by Metadata Key
+title: Get Double Attribute by Metadata Key
 order: 30
 ---
 ## Navigation

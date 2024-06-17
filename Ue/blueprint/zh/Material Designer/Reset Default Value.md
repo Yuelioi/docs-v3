@@ -1,5 +1,5 @@
 ---
-display_name: Reset Default Value
+title: Reset Default Value
 order: 201
 ---
 ## Navigation

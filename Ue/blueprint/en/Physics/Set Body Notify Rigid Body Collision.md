@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Notify Rigid Body Collision
+title: Set Body Notify Rigid Body Collision
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Reverse
+title: Set Reverse
 order: 33
 ---
 ## Navigation

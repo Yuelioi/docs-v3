@@ -1,5 +1,5 @@
 ---
-display_name: Set Text
+title: Set Text
 order: 34
 ---
 ## Navigation

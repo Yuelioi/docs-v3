@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Custom Padding
+title: Get Current Custom Padding
 order: 2
 ---
 ## Navigation

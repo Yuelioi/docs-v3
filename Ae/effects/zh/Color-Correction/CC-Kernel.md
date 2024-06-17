@@ -1,5 +1,5 @@
 ---
-display_name: CC颜色内核
+title: CC颜色内核
 order: 9
 ---
 

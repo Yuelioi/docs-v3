@@ -1,5 +1,5 @@
 ---
-display_name: Set Depth Of Field Parameters
+title: Set Depth Of Field Parameters
 order: 1
 ---
 ## Navigation

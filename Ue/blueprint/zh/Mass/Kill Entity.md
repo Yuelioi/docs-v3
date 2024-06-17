@@ -1,5 +1,5 @@
 ---
-display_name: Kill Entity
+title: Kill Entity
 order: 9
 ---
 ## Navigation

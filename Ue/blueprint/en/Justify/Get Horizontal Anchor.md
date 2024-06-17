@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Anchor
+title: Get Horizontal Anchor
 order: 4
 ---
 ## Navigation

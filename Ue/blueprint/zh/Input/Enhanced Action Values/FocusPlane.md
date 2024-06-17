@@ -1,5 +1,5 @@
 ---
-display_name: FocusPlane
+title: FocusPlane
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Event GameplayCue
+title: Event GameplayCue
 order: 2
 ---
 ## Navigation

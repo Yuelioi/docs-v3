@@ -1,5 +1,5 @@
 ---
-display_name: Get Stat Exc Max
+title: Get Stat Exc Max
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Damage Target
+title: Damage Target
 order: 2
 ---
 ## Navigation

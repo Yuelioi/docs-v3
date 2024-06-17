@@ -1,5 +1,5 @@
 ---
-display_name: Sets
+title: Sets
 order: 6
 ---
 ## Navigation

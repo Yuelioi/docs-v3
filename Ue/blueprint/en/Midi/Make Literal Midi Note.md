@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Midi Note
+title: Make Literal Midi Note
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Query on Actor
+title: Wait Gameplay Tag Query on Actor
 order: 33
 ---
 ## Navigation

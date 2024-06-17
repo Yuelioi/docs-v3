@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Bones
+title: Get Num Bones
 order: 12
 ---
 ## Navigation

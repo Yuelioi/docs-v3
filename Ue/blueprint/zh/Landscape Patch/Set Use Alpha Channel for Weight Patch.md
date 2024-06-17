@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Alpha Channel for Weight Patch
+title: Set Use Alpha Channel for Weight Patch
 order: 40
 ---
 ## Navigation

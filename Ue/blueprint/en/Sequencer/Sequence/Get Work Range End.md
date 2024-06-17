@@ -1,5 +1,5 @@
 ---
-display_name: Get Work Range End
+title: Get Work Range End
 order: 60
 ---
 ## Navigation

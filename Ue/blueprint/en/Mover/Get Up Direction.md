@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Direction
+title: Get Up Direction
 order: 26
 ---
 ## Navigation

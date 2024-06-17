@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Exclusive Or
+title: Polygons Exclusive Or
 order: 18
 ---
 ## Navigation

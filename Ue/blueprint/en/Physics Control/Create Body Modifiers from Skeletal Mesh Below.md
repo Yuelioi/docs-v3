@@ -1,5 +1,5 @@
 ---
-display_name: Create Body Modifiers from Skeletal Mesh Below
+title: Create Body Modifiers from Skeletal Mesh Below
 order: 7
 ---
 ## Navigation

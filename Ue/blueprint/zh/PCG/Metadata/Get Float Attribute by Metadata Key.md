@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Attribute by Metadata Key
+title: Get Float Attribute by Metadata Key
 order: 32
 ---
 ## Navigation

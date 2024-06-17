@@ -1,5 +1,5 @@
 ---
-display_name: limit_sample_space
+title: limit_sample_space
 order: 3
 ---
 `float  limit_sample_space(float minu, float maxu, float u)`

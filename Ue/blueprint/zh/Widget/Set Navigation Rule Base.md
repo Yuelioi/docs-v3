@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Rule Base
+title: Set Navigation Rule Base
 order: 22
 ---
 ## Navigation

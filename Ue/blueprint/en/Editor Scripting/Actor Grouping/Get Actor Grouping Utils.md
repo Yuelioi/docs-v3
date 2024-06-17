@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Grouping Utils
+title: Get Actor Grouping Utils
 order: 4
 ---
 ## Navigation

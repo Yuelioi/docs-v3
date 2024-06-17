@@ -1,5 +1,5 @@
 ---
-display_name: On Component Deactivated
+title: On Component Deactivated
 order: 8
 ---
 ## Navigation

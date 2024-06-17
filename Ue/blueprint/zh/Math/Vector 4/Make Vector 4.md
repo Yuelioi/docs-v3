@@ -1,5 +1,5 @@
 ---
-display_name: Make Vector 4
+title: Make Vector 4
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set DMXInput Port Device Address
+title: Set DMXInput Port Device Address
 order: 15
 ---
 ## Navigation

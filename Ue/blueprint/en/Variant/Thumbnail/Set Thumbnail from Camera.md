@@ -1,5 +1,5 @@
 ---
-display_name: Set Thumbnail from Camera
+title: Set Thumbnail from Camera
 order: 2
 ---
 ## Navigation

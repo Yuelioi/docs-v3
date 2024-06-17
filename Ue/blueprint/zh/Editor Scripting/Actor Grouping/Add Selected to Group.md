@@ -1,5 +1,5 @@
 ---
-display_name: Add Selected to Group
+title: Add Selected to Group
 order: 1
 ---
 ## Navigation

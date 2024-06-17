@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Outbound Edges
+title: Remove All Outbound Edges
 order: 60
 ---
 ## Navigation

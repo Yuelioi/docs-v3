@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot Transform
+title: Get Slot Transform
 order: 25
 ---
 ## Navigation

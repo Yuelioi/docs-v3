@@ -1,5 +1,5 @@
 ---
-display_name: Is Selected
+title: Is Selected
 order: 52
 ---
 ## Navigation

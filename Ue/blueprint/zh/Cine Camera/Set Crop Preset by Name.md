@@ -1,5 +1,5 @@
 ---
-display_name: Set Crop Preset by Name
+title: Set Crop Preset by Name
 order: 9
 ---
 ## Navigation

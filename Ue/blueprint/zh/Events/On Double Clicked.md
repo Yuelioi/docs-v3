@@ -1,5 +1,5 @@
 ---
-display_name: On Double Clicked
+title: On Double Clicked
 order: 6
 ---
 ## Navigation

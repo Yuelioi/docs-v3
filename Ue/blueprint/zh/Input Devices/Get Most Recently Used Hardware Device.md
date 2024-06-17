@@ -1,5 +1,5 @@
 ---
-display_name: Get Most Recently Used Hardware Device
+title: Get Most Recently Used Hardware Device
 order: 4
 ---
 ## Navigation

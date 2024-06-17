@@ -1,5 +1,5 @@
 ---
-display_name: Update Material Function
+title: Update Material Function
 order: 56
 ---
 ## Navigation

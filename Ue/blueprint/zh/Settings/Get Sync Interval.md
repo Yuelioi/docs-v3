@@ -1,5 +1,5 @@
 ---
-display_name: Get Sync Interval
+title: Get Sync Interval
 order: 63
 ---
 ## Navigation

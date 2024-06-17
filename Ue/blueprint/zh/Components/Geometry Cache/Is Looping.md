@@ -1,5 +1,5 @@
 ---
-display_name: Is Looping
+title: Is Looping
 order: 12
 ---
 ## Navigation

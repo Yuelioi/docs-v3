@@ -1,5 +1,5 @@
 ---
-display_name: Bind Pin to Variable
+title: Bind Pin to Variable
 order: 34
 ---
 ## Navigation

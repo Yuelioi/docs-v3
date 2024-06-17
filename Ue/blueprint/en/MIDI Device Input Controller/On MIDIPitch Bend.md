@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIPitch Bend
+title: On MIDIPitch Bend
 order: 6
 ---
 ## Navigation

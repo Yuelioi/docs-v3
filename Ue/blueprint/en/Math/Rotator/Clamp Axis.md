@@ -1,5 +1,5 @@
 ---
-display_name: Clamp Axis
+title: Clamp Axis
 order: 3
 ---
 ## Navigation

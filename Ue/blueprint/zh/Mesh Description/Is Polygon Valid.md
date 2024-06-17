@@ -1,5 +1,5 @@
 ---
-display_name: Is Polygon Valid
+title: Is Polygon Valid
 order: 78
 ---
 ## Navigation

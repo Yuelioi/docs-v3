@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Frame Count End
+title: Get Clips Meta Data Tag Frame Count End
 order: 8
 ---
 ## Navigation

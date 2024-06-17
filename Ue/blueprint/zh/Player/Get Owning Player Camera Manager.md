@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Player Camera Manager
+title: Get Owning Player Camera Manager
 order: 1
 ---
 ## Navigation

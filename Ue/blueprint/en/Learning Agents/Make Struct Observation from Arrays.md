@@ -1,5 +1,5 @@
 ---
-display_name: Make Struct Observation from Arrays
+title: Make Struct Observation from Arrays
 order: 241
 ---
 ## Navigation

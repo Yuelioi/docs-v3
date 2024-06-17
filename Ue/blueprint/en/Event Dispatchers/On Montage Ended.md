@@ -1,5 +1,5 @@
 ---
-display_name: On Montage Ended
+title: On Montage Ended
 order: 117
 ---
 ## Navigation

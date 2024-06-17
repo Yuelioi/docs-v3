@@ -1,5 +1,5 @@
 ---
-display_name: Reverse Animation
+title: Reverse Animation
 order: 21
 ---
 ## Navigation

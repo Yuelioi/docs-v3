@@ -1,5 +1,5 @@
 ---
-display_name: Capture Texture Render Target 2D
+title: Capture Texture Render Target 2D
 order: 2
 ---
 ## Navigation

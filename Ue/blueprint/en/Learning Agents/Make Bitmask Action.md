@@ -1,5 +1,5 @@
 ---
-display_name: Make Bitmask Action
+title: Make Bitmask Action
 order: 157
 ---
 ## Navigation

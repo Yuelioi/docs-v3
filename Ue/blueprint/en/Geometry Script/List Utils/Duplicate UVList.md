@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate UVList
+title: Duplicate UVList
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Box 2D
+title: Make Box 2D
 order: 1
 ---
 ## Navigation

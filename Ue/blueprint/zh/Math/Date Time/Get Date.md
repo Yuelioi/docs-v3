@@ -1,5 +1,5 @@
 ---
-display_name: Get Date
+title: Get Date
 order: 14
 ---
 ## Navigation

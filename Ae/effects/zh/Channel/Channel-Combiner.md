@@ -1,5 +1,5 @@
 ---
-display_name: 通道合成器
+title: 通道合成器
 order: 5
 ---
 

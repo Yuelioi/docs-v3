@@ -1,5 +1,5 @@
 ---
-display_name: ToName (DMX Fixture Category)
+title: ToName (DMX Fixture Category)
 order: 8
 ---
 ## Navigation

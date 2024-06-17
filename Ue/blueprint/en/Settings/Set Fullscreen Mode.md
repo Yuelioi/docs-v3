@@ -1,5 +1,5 @@
 ---
-display_name: Set Fullscreen Mode
+title: Set Fullscreen Mode
 order: 117
 ---
 ## Navigation

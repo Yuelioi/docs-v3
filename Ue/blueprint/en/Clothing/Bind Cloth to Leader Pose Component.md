@@ -1,5 +1,5 @@
 ---
-display_name: Bind Cloth to Leader Pose Component
+title: Bind Cloth to Leader Pose Component
 order: 1
 ---
 ## Navigation

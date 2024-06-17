@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Connection State
+title: Get Input Connection State
 order: 3
 ---
 ## Navigation

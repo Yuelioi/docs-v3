@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Reduction Settings
+title: Get Lod Reduction Settings
 order: 4
 ---
 ## Navigation

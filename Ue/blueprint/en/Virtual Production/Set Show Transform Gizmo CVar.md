@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Transform Gizmo CVar
+title: Set Show Transform Gizmo CVar
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Func Interface Child
+title: Func Interface Child
 order: 31
 ---
 ## Navigation

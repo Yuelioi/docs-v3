@@ -1,5 +1,5 @@
 ---
-display_name: teximport
+title: teximport
 order: 11
 ---
 | On this page | * [Queryable attributes](#queryable-attributes) * [Examples](#examples) |

@@ -1,5 +1,5 @@
 ---
-display_name: GetAbilityLevelNonInstanced
+title: GetAbilityLevelNonInstanced
 order: 48
 ---
 ## Navigation

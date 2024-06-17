@@ -1,5 +1,5 @@
 ---
-display_name: Is Sub Graph Reference
+title: Is Sub Graph Reference
 order: 33
 ---
 ## Navigation

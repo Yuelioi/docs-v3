@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int Array
+title: Unstringify as Int Array
 order: 100
 ---
 ## Navigation

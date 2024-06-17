@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid (Smart Object Slot Handle)
+title: Is Valid (Smart Object Slot Handle)
 order: 4
 ---
 ## Navigation

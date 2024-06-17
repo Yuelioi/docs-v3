@@ -1,5 +1,5 @@
 ---
-display_name: Enable
+title: Enable
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Activate Reverb Effect
+title: Activate Reverb Effect
 order: 1
 ---
 ## Navigation

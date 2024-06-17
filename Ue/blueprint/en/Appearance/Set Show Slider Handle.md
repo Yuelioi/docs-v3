@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Slider Handle
+title: Set Show Slider Handle
 order: 76
 ---
 ## Navigation

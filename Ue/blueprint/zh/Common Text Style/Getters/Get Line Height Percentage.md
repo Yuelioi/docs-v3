@@ -1,5 +1,5 @@
 ---
-display_name: Get Line Height Percentage
+title: Get Line Height Percentage
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 色调均化
+title: 色调均化
 order: 20
 ---
 

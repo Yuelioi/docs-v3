@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Overlay
+title: Add Child to Overlay
 order: 4
 ---
 ## Navigation

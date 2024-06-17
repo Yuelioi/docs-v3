@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Socket from Location
+title: Initialize Socket from Location
 order: 17
 ---
 ## Navigation

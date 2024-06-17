@@ -1,5 +1,5 @@
 ---
-display_name: radians
+title: radians
 order: 9
 ---
 `float  radians(float angle_in_degrees)`

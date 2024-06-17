@@ -1,5 +1,5 @@
 ---
-display_name: Set Visibility
+title: Set Visibility
 order: 95
 ---
 ## Navigation

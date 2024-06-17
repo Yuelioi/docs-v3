@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Floats Per Curve
+title: Set Num Floats Per Curve
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Layout
+title: Set Widget Layout
 order: 97
 ---
 ## Navigation

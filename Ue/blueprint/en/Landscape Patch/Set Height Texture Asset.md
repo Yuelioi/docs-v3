@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Texture Asset
+title: Set Height Texture Asset
 order: 33
 ---
 ## Navigation

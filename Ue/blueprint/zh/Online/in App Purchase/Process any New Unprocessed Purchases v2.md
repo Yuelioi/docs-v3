@@ -1,5 +1,5 @@
 ---
-display_name: Process any New Unprocessed Purchases v2
+title: Process any New Unprocessed Purchases v2
 order: 4
 ---
 ## Navigation

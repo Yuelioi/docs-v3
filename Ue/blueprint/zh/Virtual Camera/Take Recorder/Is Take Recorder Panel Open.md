@@ -1,5 +1,5 @@
 ---
-display_name: Is Take Recorder Panel Open
+title: Is Take Recorder Panel Open
 order: 2
 ---
 ## Navigation

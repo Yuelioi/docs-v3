@@ -1,5 +1,5 @@
 ---
-display_name: Create New Skeletal Mesh Asset from Mesh
+title: Create New Skeletal Mesh Asset from Mesh
 order: 2
 ---
 ## Navigation

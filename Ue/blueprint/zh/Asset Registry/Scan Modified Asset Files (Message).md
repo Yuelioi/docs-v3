@@ -1,5 +1,5 @@
 ---
-display_name: Scan Modified Asset Files (Message)
+title: Scan Modified Asset Files (Message)
 order: 44
 ---
 ## Navigation

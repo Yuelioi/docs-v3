@@ -1,5 +1,5 @@
 ---
-display_name: Can Run
+title: Can Run
 order: 1
 ---
 ## Navigation

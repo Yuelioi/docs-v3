@@ -1,5 +1,5 @@
 ---
-display_name: 定向模糊
+title: 定向模糊
 order: 10
 ---
 

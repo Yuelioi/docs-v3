@@ -1,5 +1,5 @@
 ---
-display_name: ow_nspace
+title: ow_nspace
 order: 11
 ---
 `vector  ow_nspace(vector v)`

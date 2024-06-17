@@ -1,5 +1,5 @@
 ---
-display_name: Get Comment Font Size
+title: Get Comment Font Size
 order: 3
 ---
 ## Navigation

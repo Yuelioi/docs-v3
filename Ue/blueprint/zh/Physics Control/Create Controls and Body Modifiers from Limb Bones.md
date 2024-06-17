@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls and Body Modifiers from Limb Bones
+title: Create Controls and Body Modifiers from Limb Bones
 order: 10
 ---
 ## Navigation

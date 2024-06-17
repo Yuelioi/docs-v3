@@ -1,5 +1,5 @@
 ---
-display_name: Update Assets
+title: Update Assets
 order: 4
 ---
 ## Navigation

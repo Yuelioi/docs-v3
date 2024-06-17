@@ -1,5 +1,5 @@
 ---
-display_name: Get Overlapping Components
+title: Get Overlapping Components
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: FocusDistanceAxis
+title: FocusDistanceAxis
 order: 25
 ---
 ## Navigation

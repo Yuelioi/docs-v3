@@ -1,5 +1,5 @@
 ---
-display_name: Find Moderated Sessions
+title: Find Moderated Sessions
 order: 3
 ---
 ## Navigation

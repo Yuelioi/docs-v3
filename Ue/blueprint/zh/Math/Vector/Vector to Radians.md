@@ -1,5 +1,5 @@
 ---
-display_name: Vector to Radians
+title: Vector to Radians
 order: 95
 ---
 ## Navigation

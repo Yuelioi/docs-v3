@@ -1,5 +1,5 @@
 ---
-display_name: Global-Outflags
+title: Global-Outflags
 order: 6
 ---
 

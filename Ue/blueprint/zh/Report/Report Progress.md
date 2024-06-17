@@ -1,5 +1,5 @@
 ---
-display_name: Report Progress
+title: Report Progress
 order: 3
 ---
 ## Navigation

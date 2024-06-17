@@ -1,5 +1,5 @@
 ---
-display_name: Get Perceived Hostile Actors by Sense
+title: Get Perceived Hostile Actors by Sense
 order: 8
 ---
 ## Navigation

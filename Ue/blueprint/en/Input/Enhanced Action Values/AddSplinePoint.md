@@ -1,5 +1,5 @@
 ---
-display_name: AddSplinePoint
+title: AddSplinePoint
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Pivot Offset (Message)
+title: Set Pivot Offset (Message)
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Validate Material Slots
+title: Validate Material Slots
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Close Media Source
+title: Request Close Media Source
 order: 8
 ---
 ## Navigation

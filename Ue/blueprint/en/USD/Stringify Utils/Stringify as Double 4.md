@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Double 4
+title: Stringify as Double 4
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Control Down
+title: Is Control Down
 order: 4
 ---
 ## Navigation

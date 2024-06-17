@@ -1,5 +1,5 @@
 ---
-display_name: Make Platform Filename
+title: Make Platform Filename
 order: 61
 ---
 ## Navigation

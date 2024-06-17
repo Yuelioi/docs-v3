@@ -1,5 +1,5 @@
 ---
-display_name: Make Exclusive Discrete Action
+title: Make Exclusive Discrete Action
 order: 186
 ---
 ## Navigation

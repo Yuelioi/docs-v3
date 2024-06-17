@@ -1,5 +1,5 @@
 ---
-display_name: Reset Ignore Look Input
+title: Reset Ignore Look Input
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Trajectory Sample at Time
+title: Get Trajectory Sample at Time
 order: 2
 ---
 ## Navigation

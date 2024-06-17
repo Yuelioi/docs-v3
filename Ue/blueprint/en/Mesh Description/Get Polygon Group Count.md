@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Group Count
+title: Get Polygon Group Count
 order: 41
 ---
 ## Navigation

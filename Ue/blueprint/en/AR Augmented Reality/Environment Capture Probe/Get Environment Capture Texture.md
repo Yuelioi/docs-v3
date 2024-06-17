@@ -1,5 +1,5 @@
 ---
-display_name: Get Environment Capture Texture
+title: Get Environment Capture Texture
 order: 1
 ---
 ## Navigation

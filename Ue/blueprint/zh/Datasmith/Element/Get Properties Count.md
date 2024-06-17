@@ -1,5 +1,5 @@
 ---
-display_name: Get Properties Count
+title: Get Properties Count
 order: 49
 ---
 ## Navigation

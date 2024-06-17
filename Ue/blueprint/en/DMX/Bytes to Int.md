@@ -1,5 +1,5 @@
 ---
-display_name: Bytes to Int
+title: Bytes to Int
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Common Pipeline Data
+title: Common Pipeline Data
 order: 19
 ---
 ## Navigation

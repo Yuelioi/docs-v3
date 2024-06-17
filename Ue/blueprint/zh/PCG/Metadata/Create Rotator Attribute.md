@@ -1,5 +1,5 @@
 ---
-display_name: Create Rotator Attribute
+title: Create Rotator Attribute
 order: 17
 ---
 ## Navigation

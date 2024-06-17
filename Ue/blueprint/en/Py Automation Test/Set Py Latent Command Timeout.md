@@ -1,5 +1,5 @@
 ---
-display_name: Set Py Latent Command Timeout
+title: Set Py Latent Command Timeout
 order: 5
 ---
 ## Navigation

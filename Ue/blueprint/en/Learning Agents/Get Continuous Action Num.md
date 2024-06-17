@@ -1,5 +1,5 @@
 ---
-display_name: Get Continuous Action Num
+title: Get Continuous Action Num
 order: 46
 ---
 ## Navigation

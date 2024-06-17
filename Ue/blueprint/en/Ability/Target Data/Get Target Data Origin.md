@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Data Origin
+title: Get Target Data Origin
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Folder Color
+title: Get Folder Color
 order: 35
 ---
 ## Navigation

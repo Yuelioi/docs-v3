@@ -1,5 +1,5 @@
 ---
-display_name: Connect Material Property
+title: Connect Material Property
 order: 3
 ---
 ## Navigation

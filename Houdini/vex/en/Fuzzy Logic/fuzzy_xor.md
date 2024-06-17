@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_xor
+title: fuzzy_xor
 order: 9
 ---
 `int  fuzzy_xor(int a, int b, ...)`

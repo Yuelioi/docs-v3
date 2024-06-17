@@ -1,5 +1,5 @@
 ---
-display_name: Add Variable Node from Object Path
+title: Add Variable Node from Object Path
 order: 30
 ---
 ## Navigation

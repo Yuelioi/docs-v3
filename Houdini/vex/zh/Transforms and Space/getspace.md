@@ -1,5 +1,5 @@
 ---
-display_name: getspace
+title: getspace
 order: 4
 ---
 `matrix  getspace(string fromspace, string tospace)`

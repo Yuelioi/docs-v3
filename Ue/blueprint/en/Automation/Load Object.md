@@ -1,5 +1,5 @@
 ---
-display_name: Load Object
+title: Load Object
 order: 25
 ---
 ## Navigation

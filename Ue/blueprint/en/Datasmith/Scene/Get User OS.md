@@ -1,5 +1,5 @@
 ---
-display_name: Get User OS
+title: Get User OS
 order: 42
 ---
 ## Navigation

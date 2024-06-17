@@ -1,5 +1,5 @@
 ---
-display_name: chdict
+title: chdict
 order: 6
 ---
 | Since | 18.5 |

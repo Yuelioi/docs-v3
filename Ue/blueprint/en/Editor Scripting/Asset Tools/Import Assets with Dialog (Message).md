@@ -1,5 +1,5 @@
 ---
-display_name: Import Assets with Dialog (Message)
+title: Import Assets with Dialog (Message)
 order: 31
 ---
 ## Navigation

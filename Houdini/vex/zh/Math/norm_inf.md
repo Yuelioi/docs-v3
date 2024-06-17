@@ -1,5 +1,5 @@
 ---
-display_name: norm_inf
+title: norm_inf
 order: 46
 ---
 `float  norm_inf(<matrix>m)`

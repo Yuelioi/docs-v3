@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effects for Query
+title: Get Active Gameplay Effects for Query
 order: 6
 ---
 ## Navigation

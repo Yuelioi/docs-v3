@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Background Color
+title: Set Slider Background Color
 order: 78
 ---
 ## Navigation

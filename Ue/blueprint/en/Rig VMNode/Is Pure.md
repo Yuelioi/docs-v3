@@ -1,5 +1,5 @@
 ---
-display_name: Is Pure
+title: Is Pure
 order: 51
 ---
 ## Navigation

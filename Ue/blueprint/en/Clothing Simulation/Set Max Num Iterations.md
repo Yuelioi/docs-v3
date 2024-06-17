@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Num Iterations
+title: Set Max Num Iterations
 order: 27
 ---
 ## Navigation

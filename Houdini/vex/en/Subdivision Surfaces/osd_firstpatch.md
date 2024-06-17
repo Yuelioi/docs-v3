@@ -1,5 +1,5 @@
 ---
-display_name: osd_firstpatch
+title: osd_firstpatch
 order: 2
 ---
 `int  osd_firstpatch(<geometry>geometry, int face_id)`

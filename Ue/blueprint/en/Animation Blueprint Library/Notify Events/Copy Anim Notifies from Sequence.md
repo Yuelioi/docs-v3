@@ -1,5 +1,5 @@
 ---
-display_name: Copy Anim Notifies from Sequence
+title: Copy Anim Notifies from Sequence
 order: 5
 ---
 ## Navigation

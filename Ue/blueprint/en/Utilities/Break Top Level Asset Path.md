@@ -1,5 +1,5 @@
 ---
-display_name: Break Top Level Asset Path
+title: Break Top Level Asset Path
 order: 34
 ---
 ## Navigation

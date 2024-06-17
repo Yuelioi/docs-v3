@@ -1,5 +1,5 @@
 ---
-display_name: Set Pointlight Intensity Scale
+title: Set Pointlight Intensity Scale
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Mixer Placement Class Inclusion Options
+title: Get Object Mixer Placement Class Inclusion Options
 order: 6
 ---
 ## Navigation

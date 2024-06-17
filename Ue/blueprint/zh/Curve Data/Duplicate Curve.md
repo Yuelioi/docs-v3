@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Curve
+title: Duplicate Curve
 order: 4
 ---
 ## Navigation

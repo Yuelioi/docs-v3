@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Spectral Analysis
+title: Set Enable Spectral Analysis
 order: 4
 ---
 ## Navigation

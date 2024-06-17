@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Transform
+title: Set Render Transform
 order: 6
 ---
 ## Navigation

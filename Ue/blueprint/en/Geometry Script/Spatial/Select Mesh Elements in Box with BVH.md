@@ -1,5 +1,5 @@
 ---
-display_name: Select Mesh Elements in Box with BVH
+title: Select Mesh Elements in Box with BVH
 order: 8
 ---
 ## Navigation

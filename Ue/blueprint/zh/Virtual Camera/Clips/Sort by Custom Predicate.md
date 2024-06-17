@@ -1,5 +1,5 @@
 ---
-display_name: Sort by Custom Predicate
+title: Sort by Custom Predicate
 order: 21
 ---
 ## Navigation

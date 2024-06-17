@@ -1,5 +1,5 @@
 ---
-display_name: Find Shared Settings
+title: Find Shared Settings
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Base Pose Name
+title: Set Base Pose Name
 order: 4
 ---
 ## Navigation

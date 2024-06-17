@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Override Mode
+title: Set Color Override Mode
 order: 7
 ---
 ## Navigation

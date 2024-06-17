@@ -1,5 +1,5 @@
 ---
-display_name: SetSplineDriveModeOptionValueAxis
+title: SetSplineDriveModeOptionValueAxis
 order: 82
 ---
 ## Navigation

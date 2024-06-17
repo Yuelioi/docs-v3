@@ -1,5 +1,5 @@
 ---
-display_name: Clear Hidden Components
+title: Clear Hidden Components
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has End
+title: Has End
 order: 62
 ---
 ## Navigation

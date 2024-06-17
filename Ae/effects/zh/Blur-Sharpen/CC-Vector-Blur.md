@@ -1,5 +1,5 @@
 ---
-display_name: CC矢量模糊
+title: CC矢量模糊
 order: 7
 ---
 

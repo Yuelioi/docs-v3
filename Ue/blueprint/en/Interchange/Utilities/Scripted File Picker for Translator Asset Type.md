@@ -1,5 +1,5 @@
 ---
-display_name: Scripted File Picker for Translator Asset Type
+title: Scripted File Picker for Translator Asset Type
 order: 1
 ---
 ## Navigation

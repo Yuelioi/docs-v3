@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Short Name
+title: Get Data Layer Short Name
 order: 6
 ---
 ## Navigation

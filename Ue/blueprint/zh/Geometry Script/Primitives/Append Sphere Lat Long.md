@@ -1,5 +1,5 @@
 ---
-display_name: Append Sphere Lat Long
+title: Append Sphere Lat Long
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Pawn Movement Speed Scale
+title: Set Pawn Movement Speed Scale
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 勾画
+title: 勾画
 order: 25
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Download Status Text
+title: Get Download Status Text
 order: 2
 ---
 ## Navigation

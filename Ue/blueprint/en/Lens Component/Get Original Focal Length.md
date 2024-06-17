@@ -1,5 +1,5 @@
 ---
-display_name: Get Original Focal Length
+title: Get Original Focal Length
 order: 13
 ---
 ## Navigation

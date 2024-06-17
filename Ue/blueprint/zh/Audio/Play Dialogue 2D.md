@@ -1,5 +1,5 @@
 ---
-display_name: Play Dialogue 2D
+title: Play Dialogue 2D
 order: 38
 ---
 ## Navigation

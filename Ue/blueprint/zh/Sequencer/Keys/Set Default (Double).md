@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Double)
+title: Set Default (Double)
 order: 103
 ---
 ## Navigation

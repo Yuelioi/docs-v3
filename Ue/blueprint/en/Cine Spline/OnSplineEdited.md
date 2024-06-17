@@ -1,5 +1,5 @@
 ---
-display_name: OnSplineEdited
+title: OnSplineEdited
 order: 8
 ---
 ## Navigation

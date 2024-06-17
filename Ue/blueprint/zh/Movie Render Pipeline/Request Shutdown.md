@@ -1,5 +1,5 @@
 ---
-display_name: Request Shutdown
+title: Request Shutdown
 order: 7
 ---
 ## Navigation

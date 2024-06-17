@@ -1,5 +1,5 @@
 ---
-display_name: Set Number Of Frames
+title: Set Number Of Frames
 order: 24
 ---
 ## Navigation

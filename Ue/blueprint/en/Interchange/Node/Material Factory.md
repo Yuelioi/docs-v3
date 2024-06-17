@@ -1,5 +1,5 @@
 ---
-display_name: Material Factory
+title: Material Factory
 order: 49
 ---
 ## Navigation

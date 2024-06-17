@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Bool
+title: Get Control Bool
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Level From World
+title: Remove Level From World
 order: 7
 ---
 ## Navigation

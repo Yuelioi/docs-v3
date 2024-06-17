@@ -1,5 +1,5 @@
 ---
-display_name: Find First View Model Instance Of Type
+title: Find First View Model Instance Of Type
 order: 7
 ---
 ## Navigation

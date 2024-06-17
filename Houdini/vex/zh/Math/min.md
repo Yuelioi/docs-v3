@@ -1,5 +1,5 @@
 ---
-display_name: min
+title: min
 order: 43
 ---
 `int  min(int value1, int value2, ...)`

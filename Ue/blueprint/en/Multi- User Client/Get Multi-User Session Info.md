@@ -1,5 +1,5 @@
 ---
-display_name: Get Multi-User Session Info
+title: Get Multi-User Session Info
 order: 6
 ---
 ## Navigation

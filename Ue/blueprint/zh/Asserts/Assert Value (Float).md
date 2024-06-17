@@ -1,5 +1,5 @@
 ---
-display_name: Assert Value (Float)
+title: Assert Value (Float)
 order: 34
 ---
 ## Navigation

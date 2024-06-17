@@ -1,5 +1,5 @@
 ---
-display_name: Get Geographic Ellipsoid Min Radius
+title: Get Geographic Ellipsoid Min Radius
 order: 2
 ---
 ## Navigation

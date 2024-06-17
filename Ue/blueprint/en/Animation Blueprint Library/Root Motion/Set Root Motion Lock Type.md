@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Motion Lock Type
+title: Set Root Motion Lock Type
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Info
+title: Add Info
 order: 2
 ---
 ## Navigation

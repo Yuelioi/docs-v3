@@ -1,5 +1,5 @@
 ---
-display_name: xyzdist
+title: xyzdist
 order: 21
 ---
 `float  xyzdist(<geometry>geometry, vector origin)`

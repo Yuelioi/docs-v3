@@ -1,5 +1,5 @@
 ---
-display_name: Find Binding by Tag
+title: Find Binding by Tag
 order: 15
 ---
 ## Navigation

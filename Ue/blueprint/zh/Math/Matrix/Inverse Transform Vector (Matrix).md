@@ -1,5 +1,5 @@
 ---
-display_name: Inverse Transform Vector (Matrix)
+title: Inverse Transform Vector (Matrix)
 order: 27
 ---
 ## Navigation

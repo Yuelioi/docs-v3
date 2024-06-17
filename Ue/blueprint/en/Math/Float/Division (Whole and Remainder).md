@@ -1,5 +1,5 @@
 ---
-display_name: Division (Whole and Remainder)
+title: Division (Whole and Remainder)
 order: 8
 ---
 ## Navigation

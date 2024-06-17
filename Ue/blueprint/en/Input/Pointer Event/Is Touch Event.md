@@ -1,5 +1,5 @@
 ---
-display_name: Is Touch Event
+title: Is Touch Event
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Move Actors to Level
+title: Move Actors to Level
 order: 5
 ---
 ## Navigation

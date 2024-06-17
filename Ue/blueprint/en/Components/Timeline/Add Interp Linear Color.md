@@ -1,5 +1,5 @@
 ---
-display_name: Add Interp Linear Color
+title: Add Interp Linear Color
 order: 3
 ---
 ## Navigation

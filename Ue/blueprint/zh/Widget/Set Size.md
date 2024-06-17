@@ -1,5 +1,5 @@
 ---
-display_name: Set Size
+title: Set Size
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Twist and Swing Angle Of Delta Rotation from Ref Pose
+title: Get Twist and Swing Angle Of Delta Rotation from Ref Pose
 order: 20
 ---
 ## Navigation

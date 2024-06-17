@@ -1,5 +1,5 @@
 ---
-display_name: Get Game to Render Latency in Ms
+title: Get Game to Render Latency in Ms
 order: 3
 ---
 ## Navigation

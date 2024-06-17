@@ -1,5 +1,5 @@
 ---
-display_name: Jump
+title: Jump
 order: 8
 ---
 ## Navigation

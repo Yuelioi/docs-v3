@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Spring State Velocity
+title: Set Vector Spring State Velocity
 order: 14
 ---
 ## Navigation

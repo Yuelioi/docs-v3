@@ -1,5 +1,5 @@
 ---
-display_name: Add Child Folder
+title: Add Child Folder
 order: 1
 ---
 ## Navigation

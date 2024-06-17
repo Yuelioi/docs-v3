@@ -1,5 +1,5 @@
 ---
-display_name: Get Initial Local Rest Transforms
+title: Get Initial Local Rest Transforms
 order: 12
 ---
 ## Navigation

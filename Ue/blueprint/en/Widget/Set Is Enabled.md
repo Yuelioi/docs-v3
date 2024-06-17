@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Enabled
+title: Set Is Enabled
 order: 17
 ---
 ## Navigation

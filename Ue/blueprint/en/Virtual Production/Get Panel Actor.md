@@ -1,5 +1,5 @@
 ---
-display_name: Get Panel Actor
+title: Get Panel Actor
 order: 19
 ---
 ## Navigation

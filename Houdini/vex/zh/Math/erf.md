@@ -1,5 +1,5 @@
 ---
-display_name: erf
+title: erf
 order: 24
 ---
 `float  erf(float v)`

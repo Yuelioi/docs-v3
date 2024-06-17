@@ -1,5 +1,5 @@
 ---
-display_name: chsraw
+title: chsraw
 order: 18
 ---
 `string  chsraw(string channel)`

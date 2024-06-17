@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Value
+title: Get Output Value
 order: 13
 ---
 ## Navigation

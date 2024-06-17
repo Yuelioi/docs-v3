@@ -1,5 +1,5 @@
 ---
-display_name: On Ice Candidate
+title: On Ice Candidate
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enable Stat Group
+title: Enable Stat Group
 order: 14
 ---
 ## Navigation

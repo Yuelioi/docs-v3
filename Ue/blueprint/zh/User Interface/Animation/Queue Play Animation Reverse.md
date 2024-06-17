@@ -1,5 +1,5 @@
 ---
-display_name: Queue Play Animation Reverse
+title: Queue Play Animation Reverse
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Snapshot to World
+title: Apply Snapshot to World
 order: 2
 ---
 ## Navigation

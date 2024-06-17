@@ -1,5 +1,5 @@
 ---
-display_name: pathtrace
+title: pathtrace
 order: 57
 ---
 | Context(s) | [shading](../contexts/shading.html) |

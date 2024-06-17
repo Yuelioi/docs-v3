@@ -1,5 +1,5 @@
 ---
-display_name: lkspline
+title: lkspline
 order: 11
 ---
 `float  lkspline(float sample_pos, float value1, float key_pos1, ...)`

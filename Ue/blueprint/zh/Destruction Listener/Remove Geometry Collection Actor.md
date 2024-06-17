@@ -1,5 +1,5 @@
 ---
-display_name: Remove Geometry Collection Actor
+title: Remove Geometry Collection Actor
 order: 5
 ---
 ## Navigation

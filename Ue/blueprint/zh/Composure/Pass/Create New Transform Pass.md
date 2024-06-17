@@ -1,5 +1,5 @@
 ---
-display_name: Create New Transform Pass
+title: Create New Transform Pass
 order: 3
 ---
 ## Navigation

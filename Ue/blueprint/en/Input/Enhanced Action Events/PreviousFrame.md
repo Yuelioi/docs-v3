@@ -1,5 +1,5 @@
 ---
-display_name: PreviousFrame
+title: PreviousFrame
 order: 57
 ---
 ## Navigation

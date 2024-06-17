@@ -1,5 +1,5 @@
 ---
-display_name: Is Afternoon
+title: Is Afternoon
 order: 25
 ---
 ## Navigation

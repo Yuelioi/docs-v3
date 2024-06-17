@@ -1,5 +1,5 @@
 ---
-display_name: Chaos Vehicle Movement
+title: Chaos Vehicle Movement
 order: 1
 ---
 ## Navigation

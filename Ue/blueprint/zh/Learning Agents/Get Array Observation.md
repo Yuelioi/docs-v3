@@ -1,5 +1,5 @@
 ---
-display_name: Get Array Observation
+title: Get Array Observation
 order: 40
 ---
 ## Navigation

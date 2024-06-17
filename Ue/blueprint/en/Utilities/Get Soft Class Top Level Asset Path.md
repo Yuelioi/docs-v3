@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Class Top Level Asset Path
+title: Get Soft Class Top Level Asset Path
 order: 24
 ---
 ## Navigation

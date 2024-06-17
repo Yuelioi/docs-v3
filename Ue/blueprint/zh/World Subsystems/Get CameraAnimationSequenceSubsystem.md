@@ -1,5 +1,5 @@
 ---
-display_name: Get CameraAnimationSequenceSubsystem
+title: Get CameraAnimationSequenceSubsystem
 order: 18
 ---
 ## Navigation

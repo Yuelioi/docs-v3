@@ -1,5 +1,5 @@
 ---
-display_name: Clear OSC Address Containers
+title: Clear OSC Address Containers
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Strength
+title: Set Strength
 order: 5
 ---
 ## Navigation

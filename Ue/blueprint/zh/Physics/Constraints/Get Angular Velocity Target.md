@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Velocity Target
+title: Get Angular Velocity Target
 order: 12
 ---
 ## Navigation

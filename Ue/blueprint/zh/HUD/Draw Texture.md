@@ -1,5 +1,5 @@
 ---
-display_name: Draw Texture
+title: Draw Texture
 order: 11
 ---
 ## Navigation

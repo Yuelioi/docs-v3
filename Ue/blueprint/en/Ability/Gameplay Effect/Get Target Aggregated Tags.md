@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Aggregated Tags
+title: Get Target Aggregated Tags
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcfind
+title: pcfind
 order: 11
 ---
 `int [] pcfind(<geometry>geometry, string Pchannel, vector P, float radius, int maxpoints)`

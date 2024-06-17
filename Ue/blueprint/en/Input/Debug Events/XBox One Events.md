@@ -1,5 +1,5 @@
 ---
-display_name: XBox One Events
+title: XBox One Events
 order: 10
 ---
 ## Navigation

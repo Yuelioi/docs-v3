@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal Text Style
+title: Get Normal Text Style
 order: 10
 ---
 ## Navigation

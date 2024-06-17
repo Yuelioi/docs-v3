@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Action
+title: Get Rotation Action
 order: 109
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Break Gameplay Tag Container
+title: Break Gameplay Tag Container
 order: 3
 ---
 ## Navigation

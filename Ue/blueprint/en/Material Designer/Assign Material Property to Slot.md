@@ -1,5 +1,5 @@
 ---
-display_name: Assign Material Property to Slot
+title: Assign Material Property to Slot
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SetCurrentLocationAxisScaling
+title: SetCurrentLocationAxisScaling
 order: 71
 ---
 ## Navigation

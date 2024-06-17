@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Output Directory for Display
+title: Get Default Output Directory for Display
 order: 12
 ---
 ## Navigation

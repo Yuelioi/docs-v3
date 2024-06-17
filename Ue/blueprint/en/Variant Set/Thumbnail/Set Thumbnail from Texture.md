@@ -1,5 +1,5 @@
 ---
-display_name: Set Thumbnail from Texture
+title: Set Thumbnail from Texture
 order: 5
 ---
 ## Navigation

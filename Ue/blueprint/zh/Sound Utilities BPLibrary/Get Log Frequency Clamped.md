@@ -1,5 +1,5 @@
 ---
-display_name: Get Log Frequency Clamped
+title: Get Log Frequency Clamped
 order: 9
 ---
 ## Navigation

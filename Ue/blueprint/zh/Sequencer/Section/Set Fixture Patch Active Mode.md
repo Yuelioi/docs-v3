@@ -1,5 +1,5 @@
 ---
-display_name: Set Fixture Patch Active Mode
+title: Set Fixture Patch Active Mode
 order: 80
 ---
 ## Navigation

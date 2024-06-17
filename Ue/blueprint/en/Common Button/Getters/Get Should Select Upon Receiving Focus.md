@@ -1,5 +1,5 @@
 ---
-display_name: Get Should Select Upon Receiving Focus
+title: Get Should Select Upon Receiving Focus
 order: 10
 ---
 ## Navigation

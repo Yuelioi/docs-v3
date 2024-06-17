@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Tick Interval
+title: Get Actor Tick Interval
 order: 3
 ---
 ## Navigation

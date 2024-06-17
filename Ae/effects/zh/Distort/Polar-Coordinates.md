@@ -1,6 +1,6 @@
 ---
 order: 26
-display_name: 极坐标
+title: 极坐标
 ---
 
 # Polar Coordinates - 极坐标

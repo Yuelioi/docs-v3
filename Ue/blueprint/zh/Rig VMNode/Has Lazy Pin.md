@@ -1,5 +1,5 @@
 ---
-display_name: Has Lazy Pin
+title: Has Lazy Pin
 order: 36
 ---
 ## Navigation

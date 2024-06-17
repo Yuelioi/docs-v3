@@ -1,5 +1,5 @@
 ---
-display_name: Get Tracking Sensor Parameters
+title: Get Tracking Sensor Parameters
 order: 9
 ---
 ## Navigation

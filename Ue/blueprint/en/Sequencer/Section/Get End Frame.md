@@ -1,5 +1,5 @@
 ---
-display_name: Get End Frame
+title: Get End Frame
 order: 28
 ---
 ## Navigation

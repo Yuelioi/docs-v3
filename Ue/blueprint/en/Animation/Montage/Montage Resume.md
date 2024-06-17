@@ -1,5 +1,5 @@
 ---
-display_name: Montage Resume
+title: Montage Resume
 order: 21
 ---
 ## Navigation

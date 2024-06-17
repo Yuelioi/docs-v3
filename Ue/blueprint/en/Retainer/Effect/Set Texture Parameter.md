@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Parameter
+title: Set Texture Parameter
 order: 3
 ---
 ## Navigation

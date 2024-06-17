@@ -1,5 +1,5 @@
 ---
-display_name: On Closed Connection
+title: On Closed Connection
 order: 2
 ---
 ## Navigation

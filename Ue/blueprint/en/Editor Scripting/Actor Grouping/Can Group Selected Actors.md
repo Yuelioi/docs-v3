@@ -1,5 +1,5 @@
 ---
-display_name: Can Group Selected Actors
+title: Can Group Selected Actors
 order: 3
 ---
 ## Navigation

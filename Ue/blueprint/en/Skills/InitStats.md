@@ -1,5 +1,5 @@
 ---
-display_name: InitStats
+title: InitStats
 order: 1
 ---
 ## Navigation

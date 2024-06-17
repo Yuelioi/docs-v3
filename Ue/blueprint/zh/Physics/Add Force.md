@@ -1,5 +1,5 @@
 ---
-display_name: Add Force
+title: Add Force
 order: 7
 ---
 ## Navigation

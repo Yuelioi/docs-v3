@@ -1,5 +1,5 @@
 ---
-display_name: Add View Model
+title: Add View Model
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer Attribute Ref
+title: Get Integer Attribute Ref
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Export Config to Asset
+title: Export Config to Asset
 order: 14
 ---
 ## Navigation

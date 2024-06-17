@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh Data Interface Filtered Sockets
+title: Set Skeletal Mesh Data Interface Filtered Sockets
 order: 65
 ---
 ## Navigation

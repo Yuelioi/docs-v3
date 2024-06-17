@@ -1,5 +1,5 @@
 ---
-display_name: osd_limitsurface
+title: osd_limitsurface
 order: 3
 ---
 `osd_limitsurface` evaluates the point attribute in the geometry specified as a

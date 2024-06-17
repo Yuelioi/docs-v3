@@ -1,5 +1,5 @@
 ---
-display_name: Replace Mesh Components Materials
+title: Replace Mesh Components Materials
 order: 30
 ---
 ## Navigation

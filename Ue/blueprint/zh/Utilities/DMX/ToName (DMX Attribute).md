@@ -1,5 +1,5 @@
 ---
-display_name: ToName (DMX Attribute)
+title: ToName (DMX Attribute)
 order: 7
 ---
 ## Navigation

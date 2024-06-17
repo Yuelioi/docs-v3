@@ -1,5 +1,5 @@
 ---
-display_name: Get Button Padding
+title: Get Button Padding
 order: 1
 ---
 ## Navigation

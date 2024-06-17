@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: Plug-Ins-Reloaded
+title: Plug-Ins-Reloaded
 ---
 
 # 插件重载

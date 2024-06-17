@@ -1,5 +1,5 @@
 ---
-display_name: Get Widget
+title: Get Widget
 order: 31
 ---
 ## Navigation

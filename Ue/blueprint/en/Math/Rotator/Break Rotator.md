@@ -1,5 +1,5 @@
 ---
-display_name: Break Rotator
+title: Break Rotator
 order: 2
 ---
 ## Navigation

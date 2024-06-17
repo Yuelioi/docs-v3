@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Curves Of Type
+title: Remove All Curves Of Type
 order: 6
 ---
 ## Navigation

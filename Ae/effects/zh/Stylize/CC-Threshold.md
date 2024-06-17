@@ -1,5 +1,5 @@
 ---
-display_name: CC阈值
+title: CC阈值
 order: 10
 ---
 

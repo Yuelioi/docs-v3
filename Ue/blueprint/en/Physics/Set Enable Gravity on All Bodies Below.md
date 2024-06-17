@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Gravity on All Bodies Below
+title: Set Enable Gravity on All Bodies Below
 order: 33
 ---
 ## Navigation

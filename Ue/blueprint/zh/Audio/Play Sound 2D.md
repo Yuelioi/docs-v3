@@ -1,5 +1,5 @@
 ---
-display_name: Play Sound 2D
+title: Play Sound 2D
 order: 40
 ---
 ## Navigation

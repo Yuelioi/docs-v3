@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Channels
+title: Get Selected Channels
 order: 29
 ---
 ## Navigation

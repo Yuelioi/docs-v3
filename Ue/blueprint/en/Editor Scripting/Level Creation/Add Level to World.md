@@ -1,5 +1,5 @@
 ---
-display_name: Add Level to World
+title: Add Level to World
 order: 2
 ---
 ## Navigation

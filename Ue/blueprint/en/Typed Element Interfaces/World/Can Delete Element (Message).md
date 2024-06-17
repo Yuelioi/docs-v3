@@ -1,5 +1,5 @@
 ---
-display_name: Can Delete Element (Message)
+title: Can Delete Element (Message)
 order: 1
 ---
 ## Navigation

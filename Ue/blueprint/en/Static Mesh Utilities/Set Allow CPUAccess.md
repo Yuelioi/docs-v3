@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow CPUAccess
+title: Set Allow CPUAccess
 order: 33
 ---
 ## Navigation

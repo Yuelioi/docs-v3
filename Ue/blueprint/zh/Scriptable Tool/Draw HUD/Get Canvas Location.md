@@ -1,5 +1,5 @@
 ---
-display_name: Get Canvas Location
+title: Get Canvas Location
 order: 3
 ---
 ## Navigation

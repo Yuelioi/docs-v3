@@ -1,5 +1,5 @@
 ---
-display_name: Min Of Byte Array
+title: Min Of Byte Array
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Location Action
+title: Get Location Action
 order: 83
 ---
 ## Navigation

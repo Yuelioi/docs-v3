@@ -1,5 +1,5 @@
 ---
-display_name: Run This Test
+title: Run This Test
 order: 1
 ---
 ## Navigation

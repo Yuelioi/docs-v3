@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Elements (Message)
+title: Get Child Elements (Message)
 order: 1
 ---
 ## Navigation

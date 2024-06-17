@@ -1,5 +1,5 @@
 ---
-display_name: Create Named Body Modifier
+title: Create Named Body Modifier
 order: 18
 ---
 ## Navigation

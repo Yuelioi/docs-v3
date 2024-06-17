@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Classes to Filter
+title: Get Object Classes to Filter
 order: 4
 ---
 ## Navigation

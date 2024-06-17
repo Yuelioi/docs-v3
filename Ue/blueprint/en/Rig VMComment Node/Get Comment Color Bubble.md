@@ -1,5 +1,5 @@
 ---
-display_name: Get Comment Color Bubble
+title: Get Comment Color Bubble
 order: 2
 ---
 ## Navigation

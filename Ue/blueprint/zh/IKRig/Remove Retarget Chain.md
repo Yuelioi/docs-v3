@@ -1,5 +1,5 @@
 ---
-display_name: Remove Retarget Chain
+title: Remove Retarget Chain
 order: 36
 ---
 ## Navigation

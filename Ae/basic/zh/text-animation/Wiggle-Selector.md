@@ -1,5 +1,5 @@
 ---
-display_name: 摆动选择器
+title: 摆动选择器
 order: 4
 ---
 

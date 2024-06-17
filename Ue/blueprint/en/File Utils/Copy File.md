@@ -1,5 +1,5 @@
 ---
-display_name: Copy File
+title: Copy File
 order: 1
 ---
 ## Navigation

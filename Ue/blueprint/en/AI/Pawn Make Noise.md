@@ -1,5 +1,5 @@
 ---
-display_name: Pawn Make Noise
+title: Pawn Make Noise
 order: 48
 ---
 ## Navigation

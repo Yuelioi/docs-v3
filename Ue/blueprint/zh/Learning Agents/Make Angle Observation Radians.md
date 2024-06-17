@@ -1,5 +1,5 @@
 ---
-display_name: Make Angle Observation Radians
+title: Make Angle Observation Radians
 order: 154
 ---
 ## Navigation

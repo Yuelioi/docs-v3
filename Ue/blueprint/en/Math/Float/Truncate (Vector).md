@@ -1,5 +1,5 @@
 ---
-display_name: Truncate (Vector)
+title: Truncate (Vector)
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set FIZ Evaluation Mode
+title: Set FIZ Evaluation Mode
 order: 20
 ---
 ## Navigation

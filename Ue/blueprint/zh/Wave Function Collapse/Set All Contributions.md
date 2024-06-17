@@ -1,5 +1,5 @@
 ---
-display_name: Set All Contributions
+title: Set All Contributions
 order: 23
 ---
 ## Navigation

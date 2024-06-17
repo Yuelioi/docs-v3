@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Name
+title: Get Game Name
 order: 22
 ---
 ## Navigation

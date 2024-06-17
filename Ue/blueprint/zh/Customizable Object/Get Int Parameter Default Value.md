@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Parameter Default Value
+title: Get Int Parameter Default Value
 order: 9
 ---
 ## Navigation

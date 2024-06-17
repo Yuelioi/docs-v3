@@ -1,5 +1,5 @@
 ---
-display_name: 颜色稳定器
+title: 颜色稳定器
 order: 17
 ---
 

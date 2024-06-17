@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Soft Twist Limit Params
+title: Set Angular Soft Twist Limit Params
 order: 40
 ---
 ## Navigation

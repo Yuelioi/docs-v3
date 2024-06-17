@@ -1,5 +1,5 @@
 ---
-display_name: re_replace
+title: re_replace
 order: 27
 ---
 `string  re_replace(string regex, string replacement, string input, int maxreplace=0)`

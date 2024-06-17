@@ -1,5 +1,5 @@
 ---
-display_name: Up
+title: Up
 order: 107
 ---
 ## Navigation

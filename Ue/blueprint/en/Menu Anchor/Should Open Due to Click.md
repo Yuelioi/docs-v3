@@ -1,5 +1,5 @@
 ---
-display_name: Should Open Due to Click
+title: Should Open Due to Click
 order: 8
 ---
 ## Navigation

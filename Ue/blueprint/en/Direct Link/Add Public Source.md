@@ -1,5 +1,5 @@
 ---
-display_name: Add Public Source
+title: Add Public Source
 order: 2
 ---
 ## Navigation

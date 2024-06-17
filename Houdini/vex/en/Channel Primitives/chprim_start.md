@@ -1,5 +1,5 @@
 ---
-display_name: chprim_start
+title: chprim_start
 order: 13
 ---
 `float  chprim_start(<geometry>geometry, int prim)`

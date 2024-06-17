@@ -1,5 +1,5 @@
 ---
-display_name: Allows Nested Inputs
+title: Allows Nested Inputs
 order: 7
 ---
 ## Navigation

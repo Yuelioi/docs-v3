@@ -1,5 +1,5 @@
 ---
-display_name: Clear Min Aspect Ratio
+title: Clear Min Aspect Ratio
 order: 5
 ---
 ## Navigation

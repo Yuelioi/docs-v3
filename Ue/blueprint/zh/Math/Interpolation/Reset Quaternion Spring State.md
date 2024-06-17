@@ -1,5 +1,5 @@
 ---
-display_name: Reset Quaternion Spring State
+title: Reset Quaternion Spring State
 order: 10
 ---
 ## Navigation

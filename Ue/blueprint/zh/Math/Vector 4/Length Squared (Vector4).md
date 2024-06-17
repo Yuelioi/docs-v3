@@ -1,5 +1,5 @@
 ---
-display_name: Length Squared (Vector4)
+title: Length Squared (Vector4)
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Module Enabled
+title: Get Module Enabled
 order: 55
 ---
 ## Navigation

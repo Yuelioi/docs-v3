@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Adjacent Triangles
+title: Get Triangle Adjacent Triangles
 order: 49
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Application Received Local Notification Delegate
+title: Application Received Local Notification Delegate
 order: 8
 ---
 ## Navigation

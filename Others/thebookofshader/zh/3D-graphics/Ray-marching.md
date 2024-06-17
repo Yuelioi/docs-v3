@@ -1,5 +1,5 @@
 ---
-display_name: Ray-marching
+title: Ray-marching
 order: 5
 ---
 

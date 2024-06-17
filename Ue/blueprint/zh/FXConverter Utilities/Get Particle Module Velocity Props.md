@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Velocity Props
+title: Get Particle Module Velocity Props
 order: 108
 ---
 ## Navigation

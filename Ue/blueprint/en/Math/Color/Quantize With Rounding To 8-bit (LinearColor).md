@@ -1,5 +1,5 @@
 ---
-display_name: Quantize With Rounding To 8-bit (LinearColor)
+title: Quantize With Rounding To 8-bit (LinearColor)
 order: 30
 ---
 ## Navigation

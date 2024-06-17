@@ -1,5 +1,5 @@
 ---
-display_name: Is Loaded (Message)
+title: Is Loaded (Message)
 order: 14
 ---
 ## Navigation

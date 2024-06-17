@@ -1,5 +1,5 @@
 ---
-display_name: Get Record on Client
+title: Get Record on Client
 order: 2
 ---
 ## Navigation

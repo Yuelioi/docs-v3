@@ -1,5 +1,5 @@
 ---
-display_name: Add Header
+title: Add Header
 order: 1
 ---
 ## Navigation

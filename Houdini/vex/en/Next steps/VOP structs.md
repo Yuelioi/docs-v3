@@ -1,5 +1,5 @@
 ---
-display_name: VOP structs
+title: VOP structs
 order: 8
 ---
 | On this page | * [Overview](#overview) * [Defined and ad-hoc structs](#defined-and-ad-hoc-structs) * [The nodes](#the-nodes) * [How to](#how-to) * [Tips](#tips) * [Storage of defined types](#json) * [Custom languages](#lang) |

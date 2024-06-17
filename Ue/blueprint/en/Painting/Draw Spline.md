@@ -1,5 +1,5 @@
 ---
-display_name: Draw Spline
+title: Draw Spline
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Property Class
+title: Get Object Property Class
 order: 8
 ---
 ## Navigation

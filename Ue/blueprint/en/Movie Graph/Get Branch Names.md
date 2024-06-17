@@ -1,5 +1,5 @@
 ---
-display_name: Get Branch Names
+title: Get Branch Names
 order: 7
 ---
 ## Navigation

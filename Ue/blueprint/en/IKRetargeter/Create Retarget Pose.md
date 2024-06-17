@@ -1,5 +1,5 @@
 ---
-display_name: Create Retarget Pose
+title: Create Retarget Pose
 order: 2
 ---
 ## Navigation

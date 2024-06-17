@@ -1,5 +1,5 @@
 ---
-display_name: array
+title: array
 order: 3
 ---
 `<type>[] array(...)`

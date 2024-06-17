@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Label
+title: Set Section Label
 order: 37
 ---
 ## Navigation

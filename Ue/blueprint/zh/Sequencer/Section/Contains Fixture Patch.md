@@ -1,5 +1,5 @@
 ---
-display_name: Contains Fixture Patch
+title: Contains Fixture Patch
 order: 8
 ---
 ## Navigation

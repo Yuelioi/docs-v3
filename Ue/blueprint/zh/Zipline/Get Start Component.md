@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Component
+title: Get Start Component
 order: 4
 ---
 ## Navigation

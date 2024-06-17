@@ -1,5 +1,5 @@
 ---
-display_name: Refresh All Open Blueprint Editors
+title: Refresh All Open Blueprint Editors
 order: 1
 ---
 ## Navigation

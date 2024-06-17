@@ -1,5 +1,5 @@
 ---
-display_name: Create Control Rig from Skeletal Mesh or Skeleton
+title: Create Control Rig from Skeletal Mesh or Skeleton
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Object Array Literal
+title: Create MetaSound Object Array Literal
 order: 9
 ---
 ## Navigation

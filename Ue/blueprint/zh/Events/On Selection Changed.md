@@ -1,5 +1,5 @@
 ---
-display_name: On Selection Changed
+title: On Selection Changed
 order: 30
 ---
 ## Navigation

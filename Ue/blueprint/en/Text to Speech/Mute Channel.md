@@ -1,5 +1,5 @@
 ---
-display_name: Mute Channel
+title: Mute Channel
 order: 14
 ---
 ## Navigation

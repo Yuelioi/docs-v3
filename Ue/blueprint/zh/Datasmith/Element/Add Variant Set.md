@@ -1,5 +1,5 @@
 ---
-display_name: Add Variant Set
+title: Add Variant Set
 order: 6
 ---
 ## Navigation

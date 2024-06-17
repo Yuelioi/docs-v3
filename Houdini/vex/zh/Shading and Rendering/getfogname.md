@@ -1,5 +1,5 @@
 ---
-display_name: getfogname
+title: getfogname
 order: 13
 ---
 | Context(s) | [shading](../contexts/shading.html) |

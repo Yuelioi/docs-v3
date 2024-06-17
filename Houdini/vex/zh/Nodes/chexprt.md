@@ -1,5 +1,5 @@
 ---
-display_name: chexprt
+title: chexprt
 order: 9
 ---
 `float  chexprt(string channel, string new_expr_function, float time_in_seconds)`

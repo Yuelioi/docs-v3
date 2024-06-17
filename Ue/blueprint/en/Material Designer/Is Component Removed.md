@@ -1,5 +1,5 @@
 ---
-display_name: Is Component Removed
+title: Is Component Removed
 order: 167
 ---
 ## Navigation

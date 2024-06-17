@@ -1,5 +1,5 @@
 ---
-display_name: GoToStartPosition
+title: GoToStartPosition
 order: 28
 ---
 ## Navigation

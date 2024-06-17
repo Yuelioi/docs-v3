@@ -1,5 +1,5 @@
 ---
-display_name: ashikhmin
+title: ashikhmin
 order: 2
 ---
 `bsdf  ashikhmin(float exponentx, float exponenty, vector framex, vector framey, ...)`

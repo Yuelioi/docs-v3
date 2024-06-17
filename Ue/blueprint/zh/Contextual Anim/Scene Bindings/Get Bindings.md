@@ -1,5 +1,5 @@
 ---
-display_name: Get Bindings
+title: Get Bindings
 order: 9
 ---
 ## Navigation

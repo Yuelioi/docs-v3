@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Using Metric System
+title: Set Is Using Metric System
 order: 15
 ---
 ## Navigation

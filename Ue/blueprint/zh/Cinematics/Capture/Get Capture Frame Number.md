@@ -1,5 +1,5 @@
 ---
-display_name: Get Capture Frame Number
+title: Get Capture Frame Number
 order: 4
 ---
 ## Navigation

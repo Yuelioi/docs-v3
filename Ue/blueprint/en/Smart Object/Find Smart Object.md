@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Object
+title: Find Smart Object
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Can Carry
+title: Can Carry
 order: 1
 ---
 ## Navigation

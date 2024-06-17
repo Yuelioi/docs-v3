@@ -1,5 +1,5 @@
 ---
-display_name: Load String
+title: Load String
 order: 7
 ---
 ## Navigation

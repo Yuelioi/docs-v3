@@ -1,5 +1,5 @@
 ---
-display_name: Is Playing Slot Animation
+title: Is Playing Slot Animation
 order: 5
 ---
 ## Navigation

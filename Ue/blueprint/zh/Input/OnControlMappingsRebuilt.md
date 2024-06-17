@@ -1,5 +1,5 @@
 ---
-display_name: OnControlMappingsRebuilt
+title: OnControlMappingsRebuilt
 order: 4
 ---
 ## Navigation

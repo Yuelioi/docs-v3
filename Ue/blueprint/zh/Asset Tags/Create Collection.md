@@ -1,5 +1,5 @@
 ---
-display_name: Create Collection
+title: Create Collection
 order: 8
 ---
 ## Navigation

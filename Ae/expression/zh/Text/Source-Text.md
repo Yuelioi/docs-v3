@@ -1,5 +1,5 @@
 ---
-display_name: Source-Text
+title: Source-Text
 order: 1
 ---
 

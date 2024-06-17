@@ -1,5 +1,5 @@
 ---
-display_name: Get Cellular Data Confirmation Status
+title: Get Cellular Data Confirmation Status
 order: 5
 ---
 ## Navigation

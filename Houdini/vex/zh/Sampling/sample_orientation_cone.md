@@ -1,5 +1,5 @@
 ---
-display_name: sample_orientation_cone
+title: sample_orientation_cone
 order: 25
 ---
 `vector4  sample_orientation_cone(vector4 center, float maxangle, vector u)`

@@ -1,5 +1,5 @@
 ---
-display_name: Is Loaded
+title: Is Loaded
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Rotation
+title: Get Camera Rotation
 order: 8
 ---
 ## Navigation

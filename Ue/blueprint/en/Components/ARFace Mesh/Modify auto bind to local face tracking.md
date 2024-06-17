@@ -1,5 +1,5 @@
 ---
-display_name: Modify auto bind to local face tracking
+title: Modify auto bind to local face tracking
 order: 7
 ---
 ## Navigation

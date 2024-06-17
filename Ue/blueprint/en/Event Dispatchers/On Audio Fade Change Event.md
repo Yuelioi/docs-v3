@@ -1,5 +1,5 @@
 ---
-display_name: On Audio Fade Change Event
+title: On Audio Fade Change Event
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Layered Bone Blend
+title: Convert to Layered Bone Blend
 order: 1
 ---
 ## Navigation

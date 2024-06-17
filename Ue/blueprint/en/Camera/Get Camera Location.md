@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Location
+title: Get Camera Location
 order: 7
 ---
 ## Navigation

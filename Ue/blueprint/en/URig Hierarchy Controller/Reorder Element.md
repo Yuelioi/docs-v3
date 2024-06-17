@@ -1,5 +1,5 @@
 ---
-display_name: Reorder Element
+title: Reorder Element
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Currently Open Rig Blueprints
+title: Get Currently Open Rig Blueprints
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Angular Impulse in Radians
+title: Add Angular Impulse in Radians
 order: 3
 ---
 ## Navigation

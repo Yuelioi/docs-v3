@@ -1,5 +1,5 @@
 ---
-display_name: Get Groups Containing Modifier
+title: Get Groups Containing Modifier
 order: 3
 ---
 ## Navigation

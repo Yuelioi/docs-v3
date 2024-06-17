@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Address Method
+title: Get OSC Address Method
 order: 31
 ---
 ## Navigation

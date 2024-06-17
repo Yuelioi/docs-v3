@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Decal at Location
+title: Spawn Decal at Location
 order: 2
 ---
 ## Navigation

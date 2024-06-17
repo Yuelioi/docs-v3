@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Mesh Collision from Mesh
+title: Set Dynamic Mesh Collision from Mesh
 order: 10
 ---
 ## Navigation

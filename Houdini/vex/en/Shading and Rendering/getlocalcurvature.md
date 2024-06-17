@@ -1,5 +1,5 @@
 ---
-display_name: getlocalcurvature
+title: getlocalcurvature
 order: 21
 ---
 | Context(s) | [shading](../contexts/shading.html) |

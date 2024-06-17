@@ -1,5 +1,5 @@
 ---
-display_name: Get Completion Mode Override
+title: Get Completion Mode Override
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Top Level Asset Path
+title: Make Top Level Asset Path
 order: 29
 ---
 ## Navigation

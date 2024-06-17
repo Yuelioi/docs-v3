@@ -1,5 +1,5 @@
 ---
-display_name: Montage Play with Blend In
+title: Montage Play with Blend In
 order: 18
 ---
 ## Navigation

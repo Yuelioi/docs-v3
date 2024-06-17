@@ -1,5 +1,5 @@
 ---
-display_name: Num
+title: Num
 order: 111
 ---
 ## Navigation

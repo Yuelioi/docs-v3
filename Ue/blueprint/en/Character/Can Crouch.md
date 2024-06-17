@@ -1,5 +1,5 @@
 ---
-display_name: Can Crouch
+title: Can Crouch
 order: 2
 ---
 ## Navigation

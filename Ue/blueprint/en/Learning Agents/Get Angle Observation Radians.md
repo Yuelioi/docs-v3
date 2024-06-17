@@ -1,5 +1,5 @@
 ---
-display_name: Get Angle Observation Radians
+title: Get Angle Observation Radians
 order: 37
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Triggered Input Action
+title: Set Triggered Input Action
 order: 16
 ---
 ## Navigation

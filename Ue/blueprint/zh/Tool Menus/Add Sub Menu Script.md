@@ -1,5 +1,5 @@
 ---
-display_name: Add Sub Menu Script
+title: Add Sub Menu Script
 order: 7
 ---
 ## Navigation

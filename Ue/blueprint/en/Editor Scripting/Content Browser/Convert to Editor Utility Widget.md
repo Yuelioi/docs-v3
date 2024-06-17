@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Editor Utility Widget
+title: Convert to Editor Utility Widget
 order: 1
 ---
 ## Navigation

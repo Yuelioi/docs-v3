@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Asset
+title: Get Cached Asset
 order: 6
 ---
 ## Navigation

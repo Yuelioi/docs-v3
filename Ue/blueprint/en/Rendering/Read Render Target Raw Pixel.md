@@ -1,5 +1,5 @@
 ---
-display_name: Read Render Target Raw Pixel
+title: Read Render Target Raw Pixel
 order: 72
 ---
 ## Navigation

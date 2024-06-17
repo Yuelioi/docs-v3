@@ -1,5 +1,5 @@
 ---
-display_name: Sprite
+title: Sprite
 order: 8
 ---
 ## Navigation

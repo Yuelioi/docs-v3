@@ -1,5 +1,5 @@
 ---
-display_name: Fraction
+title: Fraction
 order: 14
 ---
 ## Navigation

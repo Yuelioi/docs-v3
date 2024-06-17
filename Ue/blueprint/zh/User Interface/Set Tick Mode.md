@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick Mode
+title: Set Tick Mode
 order: 47
 ---
 ## Navigation

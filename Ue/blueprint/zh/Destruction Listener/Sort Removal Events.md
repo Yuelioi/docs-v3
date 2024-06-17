@@ -1,5 +1,5 @@
 ---
-display_name: Sort Removal Events
+title: Sort Removal Events
 order: 16
 ---
 ## Navigation

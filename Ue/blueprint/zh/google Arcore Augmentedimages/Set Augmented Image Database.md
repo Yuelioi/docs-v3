@@ -1,5 +1,5 @@
 ---
-display_name: Set Augmented Image Database
+title: Set Augmented Image Database
 order: 2
 ---
 ## Navigation

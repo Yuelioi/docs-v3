@@ -1,5 +1,5 @@
 ---
-display_name: Get Relevant Anim Time Remaining Fraction
+title: Get Relevant Anim Time Remaining Fraction
 order: 3
 ---
 ## Navigation

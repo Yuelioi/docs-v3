@@ -1,5 +1,5 @@
 ---
-display_name: Remove from Actor Editor Context
+title: Remove from Actor Editor Context
 order: 37
 ---
 ## Navigation

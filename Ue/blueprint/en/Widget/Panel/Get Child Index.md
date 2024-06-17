@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Index
+title: Get Child Index
 order: 5
 ---
 ## Navigation

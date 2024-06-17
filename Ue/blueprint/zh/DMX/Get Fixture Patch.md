@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture Patch
+title: Get Fixture Patch
 order: 47
 ---
 ## Navigation

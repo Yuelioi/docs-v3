@@ -1,5 +1,5 @@
 ---
-display_name: Get DMX Pixel Mapping Renderer Component
+title: Get DMX Pixel Mapping Renderer Component
 order: 40
 ---
 ## Navigation

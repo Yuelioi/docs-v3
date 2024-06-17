@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Valid Map
+title: Convert to Valid Map
 order: 3
 ---
 ## Navigation

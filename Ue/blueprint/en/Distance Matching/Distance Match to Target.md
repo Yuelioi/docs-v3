@@ -1,5 +1,5 @@
 ---
-display_name: Distance Match to Target
+title: Distance Match to Target
 order: 2
 ---
 ## Navigation

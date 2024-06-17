@@ -1,5 +1,5 @@
 ---
-display_name: Flush Leaderboards
+title: Flush Leaderboards
 order: 1
 ---
 ## Navigation

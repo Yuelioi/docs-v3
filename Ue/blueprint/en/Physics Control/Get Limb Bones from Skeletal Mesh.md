@@ -1,5 +1,5 @@
 ---
-display_name: Get Limb Bones from Skeletal Mesh
+title: Get Limb Bones from Skeletal Mesh
 order: 46
 ---
 ## Navigation

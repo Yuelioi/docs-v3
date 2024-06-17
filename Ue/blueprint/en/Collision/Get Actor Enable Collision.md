@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Enable Collision
+title: Get Actor Enable Collision
 order: 21
 ---
 ## Navigation

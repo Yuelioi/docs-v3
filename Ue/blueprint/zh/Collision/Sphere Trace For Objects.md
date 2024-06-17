@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Trace For Objects
+title: Sphere Trace For Objects
 order: 79
 ---
 ## Navigation

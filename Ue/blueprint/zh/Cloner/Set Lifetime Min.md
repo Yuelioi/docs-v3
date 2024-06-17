@@ -1,5 +1,5 @@
 ---
-display_name: Set Lifetime Min
+title: Set Lifetime Min
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Animation Track Set Instance
+title: Animation Track Set Instance
 order: 13
 ---
 ## Navigation

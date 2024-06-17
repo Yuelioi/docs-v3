@@ -1,5 +1,5 @@
 ---
-display_name: Get Text Color
+title: Get Text Color
 order: 11
 ---
 ## Navigation

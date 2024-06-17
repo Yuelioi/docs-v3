@@ -1,5 +1,5 @@
 ---
-display_name: Mark Files for Add
+title: Mark Files for Add
 order: 15
 ---
 ## Navigation

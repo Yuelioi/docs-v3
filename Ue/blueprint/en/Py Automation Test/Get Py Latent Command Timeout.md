@@ -1,5 +1,5 @@
 ---
-display_name: Get Py Latent Command Timeout
+title: Get Py Latent Command Timeout
 order: 2
 ---
 ## Navigation

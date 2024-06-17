@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Event from Character Event
+title: Get Input Event from Character Event
 order: 22
 ---
 ## Navigation

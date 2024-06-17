@@ -1,5 +1,5 @@
 ---
-display_name: TrackedActorLabel
+title: TrackedActorLabel
 order: 123
 ---
 ## Navigation

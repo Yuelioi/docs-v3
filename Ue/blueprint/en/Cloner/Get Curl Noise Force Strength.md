@@ -1,5 +1,5 @@
 ---
-display_name: Get Curl Noise Force Strength
+title: Get Curl Noise Force Strength
 order: 7
 ---
 ## Navigation

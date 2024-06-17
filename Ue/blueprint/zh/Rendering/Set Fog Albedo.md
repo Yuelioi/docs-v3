@@ -1,5 +1,5 @@
 ---
-display_name: Set Fog Albedo
+title: Set Fog Albedo
 order: 32
 ---
 ## Navigation

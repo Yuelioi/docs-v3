@@ -1,5 +1,5 @@
 ---
-display_name: Set Aerodynamics
+title: Set Aerodynamics
 order: 14
 ---
 ## Navigation

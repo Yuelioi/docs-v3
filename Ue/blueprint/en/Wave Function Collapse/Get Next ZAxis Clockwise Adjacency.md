@@ -1,5 +1,5 @@
 ---
-display_name: Get Next ZAxis Clockwise Adjacency
+title: Get Next ZAxis Clockwise Adjacency
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Curve (Message)
+title: Remove Curve (Message)
 order: 7
 ---
 ## Navigation

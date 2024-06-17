@@ -1,5 +1,5 @@
 ---
-display_name: Get Materials
+title: Get Materials
 order: 14
 ---
 ## Navigation

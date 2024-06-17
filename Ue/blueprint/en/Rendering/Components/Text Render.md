@@ -1,5 +1,5 @@
 ---
-display_name: Text Render
+title: Text Render
 order: 10
 ---
 ## Navigation

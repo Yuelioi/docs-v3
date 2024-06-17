@@ -1,5 +1,5 @@
 ---
-display_name: Clear Mesh Section
+title: Clear Mesh Section
 order: 5
 ---
 ## Navigation

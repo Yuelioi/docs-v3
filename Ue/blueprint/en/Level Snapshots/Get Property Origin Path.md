@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Origin Path
+title: Get Property Origin Path
 order: 11
 ---
 ## Navigation

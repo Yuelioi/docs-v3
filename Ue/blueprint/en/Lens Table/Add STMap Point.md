@@ -1,5 +1,5 @@
 ---
-display_name: Add STMap Point
+title: Add STMap Point
 order: 5
 ---
 ## Navigation

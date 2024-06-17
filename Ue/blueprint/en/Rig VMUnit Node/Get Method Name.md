@@ -1,5 +1,5 @@
 ---
-display_name: Get Method Name
+title: Get Method Name
 order: 1
 ---
 ## Navigation

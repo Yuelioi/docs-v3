@@ -1,5 +1,5 @@
 ---
-display_name: Get Edge Vertices
+title: Get Edge Vertices
 order: 26
 ---
 ## Navigation

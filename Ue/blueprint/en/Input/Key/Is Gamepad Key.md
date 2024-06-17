@@ -1,5 +1,5 @@
 ---
-display_name: Is Gamepad Key
+title: Is Gamepad Key
 order: 9
 ---
 ## Navigation

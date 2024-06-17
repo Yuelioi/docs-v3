@@ -1,5 +1,5 @@
 ---
-display_name: On Connection Error
+title: On Connection Error
 order: 11
 ---
 ## Navigation

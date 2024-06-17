@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Time
+title: Get Display Time
 order: 10
 ---
 ## Navigation

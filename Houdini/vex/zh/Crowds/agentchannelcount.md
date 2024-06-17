@@ -1,5 +1,5 @@
 ---
-display_name: agentchannelcount
+title: agentchannelcount
 order: 2
 ---
 `int  agentchannelcount(<geometry>geometry, int prim)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Day Of Year
+title: Get Day Of Year
 order: 15
 ---
 ## Navigation

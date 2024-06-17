@@ -1,5 +1,5 @@
 ---
-display_name: Does Channel Exist
+title: Does Channel Exist
 order: 1
 ---
 ## Navigation

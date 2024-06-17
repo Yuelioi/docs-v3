@@ -1,5 +1,5 @@
 ---
-display_name: Add Mapped Elements
+title: Add Mapped Elements
 order: 2
 ---
 ## Navigation

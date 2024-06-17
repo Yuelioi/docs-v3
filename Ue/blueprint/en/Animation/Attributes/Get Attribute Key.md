@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Key
+title: Get Attribute Key
 order: 1
 ---
 ## Navigation

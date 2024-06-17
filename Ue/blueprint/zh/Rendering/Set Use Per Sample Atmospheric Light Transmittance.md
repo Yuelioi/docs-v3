@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Per Sample Atmospheric Light Transmittance
+title: Set Use Per Sample Atmospheric Light Transmittance
 order: 93
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Fast Preview Mode
+title: Fast Preview Mode
 order: 1
 ---
 ## Navigation

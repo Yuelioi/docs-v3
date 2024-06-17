@@ -1,5 +1,5 @@
 ---
-display_name: Set Keep Python Script Alive
+title: Set Keep Python Script Alive
 order: 2
 ---
 ## Navigation

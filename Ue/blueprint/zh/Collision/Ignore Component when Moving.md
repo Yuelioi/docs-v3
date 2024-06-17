@@ -1,5 +1,5 @@
 ---
-display_name: Ignore Component when Moving
+title: Ignore Component when Moving
 order: 35
 ---
 ## Navigation

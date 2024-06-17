@@ -1,5 +1,5 @@
 ---
-display_name: Get Cluster Node IDs
+title: Get Cluster Node IDs
 order: 2
 ---
 ## Navigation

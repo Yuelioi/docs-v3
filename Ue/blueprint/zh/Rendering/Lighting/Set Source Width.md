@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Width
+title: Set Source Width
 order: 35
 ---
 ## Navigation

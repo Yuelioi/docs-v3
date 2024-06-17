@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Input
+title: Get Channel Input
 order: 14
 ---
 ## Navigation

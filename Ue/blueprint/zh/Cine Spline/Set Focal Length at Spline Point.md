@@ -1,5 +1,5 @@
 ---
-display_name: Set Focal Length at Spline Point
+title: Set Focal Length at Spline Point
 order: 11
 ---
 ## Navigation

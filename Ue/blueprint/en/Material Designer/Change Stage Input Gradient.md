@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input Gradient
+title: Change Stage Input Gradient
 order: 24
 ---
 ## Navigation

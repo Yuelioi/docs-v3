@@ -1,5 +1,5 @@
 ---
-display_name: Pack Custom Data from Attributes
+title: Pack Custom Data from Attributes
 order: 2
 ---
 ## Navigation

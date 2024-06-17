@@ -1,5 +1,5 @@
 ---
-display_name: Get Opacity
+title: Get Opacity
 order: 4
 ---
 ## Navigation

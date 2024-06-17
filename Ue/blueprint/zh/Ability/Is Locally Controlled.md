@@ -1,5 +1,5 @@
 ---
-display_name: Is Locally Controlled
+title: Is Locally Controlled
 order: 53
 ---
 ## Navigation

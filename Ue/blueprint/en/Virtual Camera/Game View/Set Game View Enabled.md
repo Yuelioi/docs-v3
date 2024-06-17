@@ -1,5 +1,5 @@
 ---
-display_name: Set Game View Enabled
+title: Set Game View Enabled
 order: 5
 ---
 ## Navigation

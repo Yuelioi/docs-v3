@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Float)
+title: Remove Key (Float)
 order: 95
 ---
 ## Navigation

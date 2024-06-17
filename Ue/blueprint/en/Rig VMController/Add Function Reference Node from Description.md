@@ -1,5 +1,5 @@
 ---
-display_name: Add Function Reference Node from Description
+title: Add Function Reference Node from Description
 order: 12
 ---
 ## Navigation

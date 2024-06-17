@@ -1,5 +1,5 @@
 ---
-display_name: Insert Sub Layer
+title: Insert Sub Layer
 order: 3
 ---
 ## Navigation

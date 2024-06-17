@@ -1,5 +1,5 @@
 ---
-display_name: Make Tile
+title: Make Tile
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Test Parameters
+title: Test Parameters
 order: 16
 ---
 ## Navigation

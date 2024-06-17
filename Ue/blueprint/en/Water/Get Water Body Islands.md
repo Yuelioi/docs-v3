@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Body Islands
+title: Get Water Body Islands
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Honeycomb
+title: Honeycomb
 order: 6
 ---
 ## Navigation

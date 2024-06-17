@@ -1,5 +1,5 @@
 ---
-display_name: Stop Output
+title: Stop Output
 order: 7
 ---
 ## Navigation

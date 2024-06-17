@@ -1,5 +1,5 @@
 ---
-display_name: Return to Main Menu Host
+title: Return to Main Menu Host
 order: 46
 ---
 ## Navigation

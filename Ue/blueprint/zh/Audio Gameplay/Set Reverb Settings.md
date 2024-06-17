@@ -1,5 +1,5 @@
 ---
-display_name: Set Reverb Settings
+title: Set Reverb Settings
 order: 7
 ---
 ## Navigation

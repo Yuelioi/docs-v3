@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Shake Pattern
+title: Get Root Shake Pattern
 order: 2
 ---
 ## Navigation

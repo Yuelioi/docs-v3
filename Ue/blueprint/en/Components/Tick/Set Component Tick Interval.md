@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Tick Interval
+title: Set Component Tick Interval
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Vector List
+title: Clear Vector List
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set VSync Enabled
+title: Set VSync Enabled
 order: 135
 ---
 ## Navigation

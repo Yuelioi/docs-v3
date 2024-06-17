@@ -1,5 +1,5 @@
 ---
-display_name: Mark Smart Object Slot as Free
+title: Mark Smart Object Slot as Free
 order: 39
 ---
 ## Navigation

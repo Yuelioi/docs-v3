@@ -1,5 +1,5 @@
 ---
-display_name: Set UVRect
+title: Set UVRect
 order: 15
 ---
 ## Navigation

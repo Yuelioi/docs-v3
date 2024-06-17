@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Vertical Drag
+title: Set Use Vertical Drag
 order: 32
 ---
 ## Navigation

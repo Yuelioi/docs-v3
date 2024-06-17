@@ -1,5 +1,5 @@
 ---
-display_name: depthmap
+title: depthmap
 order: 2
 ---
 `float  depthmap(string filename, vector uvw)`

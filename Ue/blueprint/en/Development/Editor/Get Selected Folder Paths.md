@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Folder Paths
+title: Get Selected Folder Paths
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Direction
+title: Get Playback Direction
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Rotation Closest to World Location
+title: Find Rotation Closest to World Location
 order: 18
 ---
 ## Navigation

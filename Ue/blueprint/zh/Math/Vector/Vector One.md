@@ -1,5 +1,5 @@
 ---
-display_name: Vector One
+title: Vector One
 order: 85
 ---
 ## Navigation

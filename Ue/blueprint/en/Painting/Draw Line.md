@@ -1,5 +1,5 @@
 ---
-display_name: Draw Line
+title: Draw Line
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Link Playing
+title: Is Link Playing
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attraction Force Strength
+title: Get Attraction Force Strength
 order: 4
 ---
 ## Navigation

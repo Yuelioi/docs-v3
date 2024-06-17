@@ -1,5 +1,5 @@
 ---
-display_name: Enable Path Tracing
+title: Enable Path Tracing
 order: 3
 ---
 ## Navigation

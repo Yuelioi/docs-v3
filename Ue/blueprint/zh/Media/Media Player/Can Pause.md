@@ -1,5 +1,5 @@
 ---
-display_name: Can Pause
+title: Can Pause
 order: 1
 ---
 ## Navigation

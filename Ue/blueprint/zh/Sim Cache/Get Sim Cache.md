@@ -1,5 +1,5 @@
 ---
-display_name: Get Sim Cache
+title: Get Sim Cache
 order: 2
 ---
 ## Navigation

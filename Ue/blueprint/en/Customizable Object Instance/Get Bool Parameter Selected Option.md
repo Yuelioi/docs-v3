@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Parameter Selected Option
+title: Get Bool Parameter Selected Option
 order: 15
 ---
 ## Navigation

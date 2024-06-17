@@ -1,5 +1,5 @@
 ---
-display_name: On Entered Water Delegate
+title: On Entered Water Delegate
 order: 1
 ---
 ## Navigation

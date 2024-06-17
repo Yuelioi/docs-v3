@@ -1,5 +1,5 @@
 ---
-display_name: Get Ref Pose Transform Of Bone
+title: Get Ref Pose Transform Of Bone
 order: 20
 ---
 ## Navigation

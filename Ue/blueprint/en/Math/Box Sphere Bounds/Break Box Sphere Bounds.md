@@ -1,5 +1,5 @@
 ---
-display_name: Break Box Sphere Bounds
+title: Break Box Sphere Bounds
 order: 1
 ---
 ## Navigation

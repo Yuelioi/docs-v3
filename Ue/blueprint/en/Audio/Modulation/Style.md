@@ -1,5 +1,5 @@
 ---
-display_name: Style
+title: Style
 order: 30
 ---
 ## Navigation

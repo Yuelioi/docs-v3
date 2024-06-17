@@ -1,5 +1,5 @@
 ---
-display_name: Reparent Collection
+title: Reparent Collection
 order: 23
 ---
 ## Navigation

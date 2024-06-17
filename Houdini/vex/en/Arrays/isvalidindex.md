@@ -1,5 +1,5 @@
 ---
-display_name: isvalidindex
+title: isvalidindex
 order: 6
 ---
 `int  isvalidindex(<type>&array[], int index)`

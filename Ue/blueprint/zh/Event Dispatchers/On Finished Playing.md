@@ -1,5 +1,5 @@
 ---
-display_name: On Finished Playing
+title: On Finished Playing
 order: 84
 ---
 ## Navigation

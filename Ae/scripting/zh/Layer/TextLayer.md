@@ -1,5 +1,5 @@
 ---
-display_name: TextLayer
+title: TextLayer
 order: 7
 ---
 

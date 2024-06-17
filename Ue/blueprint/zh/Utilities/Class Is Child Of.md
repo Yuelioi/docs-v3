@@ -1,5 +1,5 @@
 ---
-display_name: Class Is Child Of
+title: Class Is Child Of
 order: 36
 ---
 ## Navigation

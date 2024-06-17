@@ -1,5 +1,5 @@
 ---
-display_name: Print String
+title: Print String
 order: 50
 ---
 ## Navigation

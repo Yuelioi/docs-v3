@@ -1,5 +1,5 @@
 ---
-display_name: Get Job Status
+title: Get Job Status
 order: 9
 ---
 ## Navigation

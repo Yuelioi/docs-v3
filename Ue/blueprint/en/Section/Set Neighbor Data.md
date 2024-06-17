@@ -1,5 +1,5 @@
 ---
-display_name: Set Neighbor Data
+title: Set Neighbor Data
 order: 15
 ---
 ## Navigation

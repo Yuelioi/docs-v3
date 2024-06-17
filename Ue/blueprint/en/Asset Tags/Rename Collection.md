@@ -1,5 +1,5 @@
 ---
-display_name: Rename Collection
+title: Rename Collection
 order: 22
 ---
 ## Navigation

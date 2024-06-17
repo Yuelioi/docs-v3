@@ -1,5 +1,5 @@
 ---
-display_name: Set Solver Enabled
+title: Set Solver Enabled
 order: 49
 ---
 ## Navigation

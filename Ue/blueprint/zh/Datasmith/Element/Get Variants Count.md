@@ -1,5 +1,5 @@
 ---
-display_name: Get Variants Count
+title: Get Variants Count
 order: 88
 ---
 ## Navigation

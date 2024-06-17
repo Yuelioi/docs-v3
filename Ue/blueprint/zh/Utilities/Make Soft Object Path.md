@@ -1,5 +1,5 @@
 ---
-display_name: Make Soft Object Path
+title: Make Soft Object Path
 order: 28
 ---
 ## Navigation

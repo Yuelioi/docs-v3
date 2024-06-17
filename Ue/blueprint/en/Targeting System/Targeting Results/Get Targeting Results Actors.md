@@ -1,5 +1,5 @@
 ---
-display_name: Get Targeting Results Actors
+title: Get Targeting Results Actors
 order: 1
 ---
 ## Navigation

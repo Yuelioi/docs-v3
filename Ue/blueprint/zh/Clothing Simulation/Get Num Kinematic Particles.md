@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Kinematic Particles
+title: Get Num Kinematic Particles
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scrolling Enabled
+title: Set Scrolling Enabled
 order: 1
 ---
 ## Navigation

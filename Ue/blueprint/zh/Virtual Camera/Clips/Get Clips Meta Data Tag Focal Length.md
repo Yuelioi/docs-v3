@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Focal Length
+title: Get Clips Meta Data Tag Focal Length
 order: 7
 ---
 ## Navigation

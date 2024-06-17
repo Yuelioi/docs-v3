@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Vector Key State
+title: Get Input Vector Key State
 order: 21
 ---
 ## Navigation

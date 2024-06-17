@@ -1,5 +1,5 @@
 ---
-display_name: Get Data to Write
+title: Get Data to Write
 order: 4
 ---
 ## Navigation

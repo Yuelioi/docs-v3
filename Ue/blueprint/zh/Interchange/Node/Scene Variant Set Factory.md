@@ -1,5 +1,5 @@
 ---
-display_name: Scene Variant Set Factory
+title: Scene Variant Set Factory
 order: 61
 ---
 ## Navigation

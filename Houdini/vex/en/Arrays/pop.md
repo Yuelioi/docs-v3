@@ -1,5 +1,5 @@
 ---
-display_name: pop
+title: pop
 order: 8
 ---
 `<type> pop(<type>&array[])`

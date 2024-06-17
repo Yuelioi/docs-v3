@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal Hovered Brush
+title: Get Normal Hovered Brush
 order: 7
 ---
 ## Navigation

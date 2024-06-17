@@ -1,5 +1,5 @@
 ---
-display_name: Get Right Vector at Distance Along Spline
+title: Get Right Vector at Distance Along Spline
 order: 44
 ---
 ## Navigation

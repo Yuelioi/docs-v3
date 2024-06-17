@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Transform
+title: Get Bone Transform
 order: 8
 ---
 ## Navigation

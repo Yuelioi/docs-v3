@@ -1,5 +1,5 @@
 ---
-display_name: slerpv
+title: slerpv
 order: 14
 ---
 `vector2  slerpv(vector2 v1, vector2 v2, float bias)`

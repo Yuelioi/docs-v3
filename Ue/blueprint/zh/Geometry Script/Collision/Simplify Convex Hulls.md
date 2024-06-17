@@ -1,5 +1,5 @@
 ---
-display_name: Simplify Convex Hulls
+title: Simplify Convex Hulls
 order: 15
 ---
 ## Navigation

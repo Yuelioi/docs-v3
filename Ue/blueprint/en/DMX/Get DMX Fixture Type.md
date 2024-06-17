@@ -1,5 +1,5 @@
 ---
-display_name: Get DMX Fixture Type
+title: Get DMX Fixture Type
 order: 39
 ---
 ## Navigation

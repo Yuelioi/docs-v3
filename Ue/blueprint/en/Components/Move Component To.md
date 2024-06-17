@@ -1,5 +1,5 @@
 ---
-display_name: Move Component To
+title: Move Component To
 order: 6
 ---
 ## Navigation

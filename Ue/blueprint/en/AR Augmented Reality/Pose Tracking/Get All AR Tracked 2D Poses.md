@@ -1,5 +1,5 @@
 ---
-display_name: Get All AR Tracked 2D Poses
+title: Get All AR Tracked 2D Poses
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parse Param Value
+title: Parse Param Value
 order: 12
 ---
 ## Navigation

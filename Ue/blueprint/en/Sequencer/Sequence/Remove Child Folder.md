@@ -1,5 +1,5 @@
 ---
-display_name: Remove Child Folder
+title: Remove Child Folder
 order: 71
 ---
 ## Navigation

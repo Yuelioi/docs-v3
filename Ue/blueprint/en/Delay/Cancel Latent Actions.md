@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Latent Actions
+title: Cancel Latent Actions
 order: 1
 ---
 ## Navigation

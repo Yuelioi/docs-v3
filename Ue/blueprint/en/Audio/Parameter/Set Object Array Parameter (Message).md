@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Array Parameter (Message)
+title: Set Object Array Parameter (Message)
 order: 25
 ---
 ## Navigation

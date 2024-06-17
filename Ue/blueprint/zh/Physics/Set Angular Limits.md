@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Limits
+title: Set Angular Limits
 order: 25
 ---
 ## Navigation

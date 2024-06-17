@@ -1,5 +1,5 @@
 ---
-display_name: On Brush Updated
+title: On Brush Updated
 order: 8
 ---
 ## Navigation

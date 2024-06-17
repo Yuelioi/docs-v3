@@ -1,5 +1,5 @@
 ---
-display_name: Add Gameplay Tag
+title: Add Gameplay Tag
 order: 1
 ---
 ## Navigation

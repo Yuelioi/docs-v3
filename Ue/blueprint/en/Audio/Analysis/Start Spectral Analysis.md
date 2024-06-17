@@ -1,5 +1,5 @@
 ---
-display_name: Start Spectral Analysis
+title: Start Spectral Analysis
 order: 7
 ---
 ## Navigation

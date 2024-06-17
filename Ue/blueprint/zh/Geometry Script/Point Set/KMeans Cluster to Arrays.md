@@ -1,5 +1,5 @@
 ---
-display_name: KMeans Cluster to Arrays
+title: KMeans Cluster to Arrays
 order: 4
 ---
 ## Navigation

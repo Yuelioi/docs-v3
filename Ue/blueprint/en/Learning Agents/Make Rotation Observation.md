@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotation Observation
+title: Make Rotation Observation
 order: 232
 ---
 ## Navigation

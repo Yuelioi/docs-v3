@@ -1,5 +1,5 @@
 ---
-display_name: Find Up Vector Closest to World Location
+title: Find Up Vector Closest to World Location
 order: 22
 ---
 ## Navigation

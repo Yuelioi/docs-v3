@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Actor for Gameplay Task
+title: Spawn Actor for Gameplay Task
 order: 4
 ---
 ## Navigation

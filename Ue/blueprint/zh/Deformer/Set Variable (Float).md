@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable (Float)
+title: Set Variable (Float)
 order: 3
 ---
 ## Navigation

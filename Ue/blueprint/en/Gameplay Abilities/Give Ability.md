@@ -1,5 +1,5 @@
 ---
-display_name: Give Ability
+title: Give Ability
 order: 9
 ---
 ## Navigation

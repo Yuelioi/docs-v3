@@ -1,5 +1,5 @@
 ---
-display_name: 毛边
+title: 毛边
 order: 21
 ---
 

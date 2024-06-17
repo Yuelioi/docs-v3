@@ -1,5 +1,5 @@
 ---
-display_name: Set Initial Load Set
+title: Set Initial Load Set
 order: 11
 ---
 ## Navigation

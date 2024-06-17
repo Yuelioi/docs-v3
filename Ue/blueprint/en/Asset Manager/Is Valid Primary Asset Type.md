@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Primary Asset Type
+title: Is Valid Primary Asset Type
 order: 20
 ---
 ## Navigation

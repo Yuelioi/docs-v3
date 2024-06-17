@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Sections
+title: Get Selected Sections
 order: 32
 ---
 ## Navigation

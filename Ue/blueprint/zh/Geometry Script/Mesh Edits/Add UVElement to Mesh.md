@@ -1,5 +1,5 @@
 ---
-display_name: Add UVElement to Mesh
+title: Add UVElement to Mesh
 order: 3
 ---
 ## Navigation

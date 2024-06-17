@@ -1,5 +1,5 @@
 ---
-display_name: Get Channels with Selected Keys
+title: Get Channels with Selected Keys
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sample_circle_slice
+title: sample_circle_slice
 order: 11
 ---
 `vector2  sample_circle_slice(vector2 center, float maxangle, vector2 u)`

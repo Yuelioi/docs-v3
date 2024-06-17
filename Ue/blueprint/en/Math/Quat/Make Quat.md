@@ -1,5 +1,5 @@
 ---
-display_name: Make Quat
+title: Make Quat
 order: 18
 ---
 ## Navigation

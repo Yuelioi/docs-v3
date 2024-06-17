@@ -1,5 +1,5 @@
 ---
-display_name: Spectator Screen
+title: Spectator Screen
 order: 23
 ---
 ## Navigation

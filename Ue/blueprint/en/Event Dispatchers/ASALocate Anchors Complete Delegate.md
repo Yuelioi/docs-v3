@@ -1,5 +1,5 @@
 ---
-display_name: ASALocate Anchors Complete Delegate
+title: ASALocate Anchors Complete Delegate
 order: 2
 ---
 ## Navigation

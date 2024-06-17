@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Integer)
+title: Get Default (Integer)
 order: 24
 ---
 ## Navigation

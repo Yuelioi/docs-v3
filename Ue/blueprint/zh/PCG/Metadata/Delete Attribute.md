@@ -1,5 +1,5 @@
 ---
-display_name: Delete Attribute
+title: Delete Attribute
 order: 25
 ---
 ## Navigation

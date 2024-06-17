@@ -1,5 +1,5 @@
 ---
-display_name: Skeletal Animation Track
+title: Skeletal Animation Track
 order: 75
 ---
 ## Navigation

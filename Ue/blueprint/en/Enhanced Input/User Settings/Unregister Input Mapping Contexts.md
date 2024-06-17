@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Input Mapping Contexts
+title: Unregister Input Mapping Contexts
 order: 35
 ---
 ## Navigation

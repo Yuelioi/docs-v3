@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as String Array
+title: Unstringify as String Array
 order: 115
 ---
 ## Navigation

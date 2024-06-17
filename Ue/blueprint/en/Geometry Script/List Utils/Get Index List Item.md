@@ -1,5 +1,5 @@
 ---
-display_name: Get Index List Item
+title: Get Index List Item
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Attribute Change
+title: Wait for Attribute Change
 order: 48
 ---
 ## Navigation

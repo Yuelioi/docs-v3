@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Scale Label Color
+title: Set Meter Scale Label Color
 order: 61
 ---
 ## Navigation

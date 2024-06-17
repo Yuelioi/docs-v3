@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve
+title: Get Curve
 order: 60
 ---
 ## Navigation

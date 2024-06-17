@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Bool)
+title: Assert Equal (Bool)
 order: 1
 ---
 ## Navigation

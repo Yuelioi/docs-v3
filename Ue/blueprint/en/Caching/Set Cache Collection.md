@@ -1,5 +1,5 @@
 ---
-display_name: Set Cache Collection
+title: Set Cache Collection
 order: 12
 ---
 ## Navigation

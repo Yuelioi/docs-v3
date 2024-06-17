@@ -1,5 +1,5 @@
 ---
-display_name: Select String
+title: Select String
 order: 43
 ---
 ## Navigation

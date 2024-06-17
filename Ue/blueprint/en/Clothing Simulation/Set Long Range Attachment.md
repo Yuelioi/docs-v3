@@ -1,5 +1,5 @@
 ---
-display_name: Set Long Range Attachment
+title: Set Long Range Attachment
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Chaos Break Event
+title: On Chaos Break Event
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Random Bool
+title: Random Bool
 order: 13
 ---
 ## Navigation

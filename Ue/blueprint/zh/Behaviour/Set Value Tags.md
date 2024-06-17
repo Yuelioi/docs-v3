@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Tags
+title: Set Value Tags
 order: 3
 ---
 ## Navigation

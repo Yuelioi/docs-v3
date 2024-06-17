@@ -1,5 +1,5 @@
 ---
-display_name: Notify Geometry Collection Physics State Change
+title: Notify Geometry Collection Physics State Change
 order: 5
 ---
 ## Navigation

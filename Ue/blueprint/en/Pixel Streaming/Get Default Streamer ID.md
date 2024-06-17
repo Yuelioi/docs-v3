@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Streamer ID
+title: Get Default Streamer ID
 order: 9
 ---
 ## Navigation

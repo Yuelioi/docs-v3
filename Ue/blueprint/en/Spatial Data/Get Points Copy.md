@@ -1,5 +1,5 @@
 ---
-display_name: Get Points Copy
+title: Get Points Copy
 order: 8
 ---
 ## Navigation

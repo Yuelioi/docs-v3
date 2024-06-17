@@ -1,5 +1,5 @@
 ---
-display_name: GetOriginalInstigatorActor
+title: GetOriginalInstigatorActor
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vortex Force Enabled
+title: Get Vortex Force Enabled
 order: 54
 ---
 ## Navigation

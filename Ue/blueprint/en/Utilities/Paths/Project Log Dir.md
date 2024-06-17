@@ -1,5 +1,5 @@
 ---
-display_name: Project Log Dir
+title: Project Log Dir
 order: 71
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Capsule Half Height Without Hemisphere
+title: Get Scaled Capsule Half Height Without Hemisphere
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add to Client
+title: Add to Client
 order: 1
 ---
 ## Navigation

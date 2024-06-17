@@ -1,5 +1,5 @@
 ---
-display_name: Tear Off
+title: Tear Off
 order: 14
 ---
 ## Navigation

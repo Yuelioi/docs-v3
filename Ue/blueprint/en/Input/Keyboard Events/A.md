@@ -1,5 +1,5 @@
 ---
-display_name: A
+title: A
 order: 11
 ---
 ## Navigation

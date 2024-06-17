@@ -1,6 +1,6 @@
 ---
 order: 12
-display_name: VR球面到平面
+title: VR球面到平面
 ---
 
 # VR Sphere To Plane - VR球面到平面

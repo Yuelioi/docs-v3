@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Orientation Target
+title: Get Angular Orientation Target
 order: 6
 ---
 ## Navigation

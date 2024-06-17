@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Sequence Frame
+title: Get Parent Sequence Frame
 order: 39
 ---
 ## Navigation

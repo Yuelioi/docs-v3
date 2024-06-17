@@ -1,5 +1,5 @@
 ---
-display_name: Get Async Physics Data to Consume
+title: Get Async Physics Data to Consume
 order: 1
 ---
 ## Navigation

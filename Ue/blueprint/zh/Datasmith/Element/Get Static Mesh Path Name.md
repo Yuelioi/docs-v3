@@ -1,5 +1,5 @@
 ---
-display_name: Get Static Mesh Path Name
+title: Get Static Mesh Path Name
 order: 64
 ---
 ## Navigation

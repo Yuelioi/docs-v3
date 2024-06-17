@@ -1,5 +1,5 @@
 ---
-display_name: Get Agent
+title: Get Agent
 order: 32
 ---
 ## Navigation

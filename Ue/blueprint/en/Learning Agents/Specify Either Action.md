@@ -1,5 +1,5 @@
 ---
-display_name: Specify Either Action
+title: Specify Either Action
 order: 288
 ---
 ## Navigation

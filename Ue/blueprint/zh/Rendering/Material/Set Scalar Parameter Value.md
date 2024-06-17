@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalar Parameter Value
+title: Set Scalar Parameter Value
 order: 54
 ---
 ## Navigation

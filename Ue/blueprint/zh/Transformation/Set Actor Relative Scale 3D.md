@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Relative Scale 3D
+title: Set Actor Relative Scale 3D
 order: 62
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetResolutionScaleInformation
+title: GetResolutionScaleInformation
 order: 73
 ---
 ## Navigation

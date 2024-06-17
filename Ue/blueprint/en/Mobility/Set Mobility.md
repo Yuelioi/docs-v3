@@ -1,5 +1,5 @@
 ---
-display_name: Set Mobility
+title: Set Mobility
 order: 1
 ---
 ## Navigation

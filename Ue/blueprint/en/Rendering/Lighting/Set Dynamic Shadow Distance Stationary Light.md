@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Shadow Distance Stationary Light
+title: Set Dynamic Shadow Distance Stationary Light
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Can Export to Layer
+title: Can Export to Layer
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Entry of Class
+title: Create Entry of Class
 order: 1
 ---
 ## Navigation

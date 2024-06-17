@@ -1,5 +1,5 @@
 ---
-display_name: Get Slots Referenced By
+title: Get Slots Referenced By
 order: 128
 ---
 ## Navigation

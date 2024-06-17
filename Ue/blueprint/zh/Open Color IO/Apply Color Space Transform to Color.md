@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Space Transform to Color
+title: Apply Color Space Transform to Color
 order: 1
 ---
 ## Navigation

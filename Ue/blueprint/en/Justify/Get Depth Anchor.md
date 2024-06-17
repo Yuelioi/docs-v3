@@ -1,5 +1,5 @@
 ---
-display_name: Get Depth Anchor
+title: Get Depth Anchor
 order: 2
 ---
 ## Navigation

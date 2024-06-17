@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket States
+title: Get Socket States
 order: 82
 ---
 ## Navigation

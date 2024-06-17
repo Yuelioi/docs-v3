@@ -1,5 +1,5 @@
 ---
-display_name: Result
+title: Result
 order: 201
 ---
 ## Navigation

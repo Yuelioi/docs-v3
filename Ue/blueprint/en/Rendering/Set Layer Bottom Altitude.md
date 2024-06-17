@@ -1,5 +1,5 @@
 ---
-display_name: Set Layer Bottom Altitude
+title: Set Layer Bottom Altitude
 order: 46
 ---
 ## Navigation

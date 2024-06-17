@@ -1,5 +1,5 @@
 ---
-display_name: Enable Simulation from Actor
+title: Enable Simulation from Actor
 order: 61
 ---
 ## Navigation

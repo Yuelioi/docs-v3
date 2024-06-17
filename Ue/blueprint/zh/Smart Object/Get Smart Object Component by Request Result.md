@@ -1,5 +1,5 @@
 ---
-display_name: Get Smart Object Component by Request Result
+title: Get Smart Object Component by Request Result
 order: 27
 ---
 ## Navigation

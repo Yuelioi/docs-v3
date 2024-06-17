@@ -1,5 +1,5 @@
 ---
-display_name: Set Simple Collision
+title: Set Simple Collision
 order: 17
 ---
 ## Navigation

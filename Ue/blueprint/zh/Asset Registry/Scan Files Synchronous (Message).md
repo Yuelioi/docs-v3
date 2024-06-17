@@ -1,5 +1,5 @@
 ---
-display_name: Scan Files Synchronous (Message)
+title: Scan Files Synchronous (Message)
 order: 42
 ---
 ## Navigation

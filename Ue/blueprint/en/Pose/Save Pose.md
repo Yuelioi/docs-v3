@@ -1,5 +1,5 @@
 ---
-display_name: Save Pose
+title: Save Pose
 order: 6
 ---
 ## Navigation

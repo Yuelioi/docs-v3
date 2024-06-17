@@ -1,5 +1,5 @@
 ---
-display_name: Interpolation
+title: Interpolation
 order: 3
 ---
 

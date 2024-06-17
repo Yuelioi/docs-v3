@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Skin Weight Profile Name
+title: Get Current Skin Weight Profile Name
 order: 8
 ---
 ## Navigation

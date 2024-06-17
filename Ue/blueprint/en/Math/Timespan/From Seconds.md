@@ -1,5 +1,5 @@
 ---
-display_name: From Seconds
+title: From Seconds
 order: 7
 ---
 ## Navigation

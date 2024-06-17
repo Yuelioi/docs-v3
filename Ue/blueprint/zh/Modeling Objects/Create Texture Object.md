@@ -1,5 +1,5 @@
 ---
-display_name: Create Texture Object
+title: Create Texture Object
 order: 4
 ---
 ## Navigation

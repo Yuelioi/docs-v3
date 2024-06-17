@@ -1,5 +1,5 @@
 ---
-display_name: ShutterSpeed
+title: ShutterSpeed
 order: 83
 ---
 ## Navigation

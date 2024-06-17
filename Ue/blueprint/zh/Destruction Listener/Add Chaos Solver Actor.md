@@ -1,5 +1,5 @@
 ---
-display_name: Add Chaos Solver Actor
+title: Add Chaos Solver Actor
 order: 1
 ---
 ## Navigation

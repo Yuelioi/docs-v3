@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Cell Values
+title: Get Matrix Cell Values
 order: 18
 ---
 ## Navigation

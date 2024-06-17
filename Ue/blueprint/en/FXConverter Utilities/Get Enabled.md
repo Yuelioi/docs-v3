@@ -1,5 +1,5 @@
 ---
-display_name: Get Enabled
+title: Get Enabled
 order: 43
 ---
 ## Navigation

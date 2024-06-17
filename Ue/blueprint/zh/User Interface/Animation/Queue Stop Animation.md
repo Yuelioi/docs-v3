@@ -1,5 +1,5 @@
 ---
-display_name: Queue Stop Animation
+title: Queue Stop Animation
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove All ARPins from Local Store
+title: Remove All ARPins from Local Store
 order: 9
 ---
 ## Navigation

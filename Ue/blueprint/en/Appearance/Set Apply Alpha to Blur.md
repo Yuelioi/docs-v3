@@ -1,5 +1,5 @@
 ---
-display_name: Set Apply Alpha to Blur
+title: Set Apply Alpha to Blur
 order: 14
 ---
 ## Navigation

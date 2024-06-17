@@ -1,5 +1,5 @@
 ---
-display_name: 球面化
+title: 球面化
 order: 31
 ---
 

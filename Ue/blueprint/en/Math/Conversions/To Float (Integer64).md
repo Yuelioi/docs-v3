@@ -1,5 +1,5 @@
 ---
-display_name: To Float (Integer64)
+title: To Float (Integer64)
 order: 11
 ---
 ## Navigation

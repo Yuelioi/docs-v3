@@ -1,5 +1,5 @@
 ---
-display_name: Get Drag Dropping Content
+title: Get Drag Dropping Content
 order: 3
 ---
 ## Navigation

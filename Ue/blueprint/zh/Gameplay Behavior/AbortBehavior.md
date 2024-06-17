@@ -1,5 +1,5 @@
 ---
-display_name: AbortBehavior
+title: AbortBehavior
 order: 1
 ---
 ## Navigation

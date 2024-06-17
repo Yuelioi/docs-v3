@@ -1,5 +1,5 @@
 ---
-display_name: Clear Current Asset Group Culture
+title: Clear Current Asset Group Culture
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Transforms
+title: Local Array of Transforms
 order: 10
 ---
 ## Navigation

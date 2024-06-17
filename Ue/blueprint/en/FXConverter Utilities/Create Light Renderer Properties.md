@@ -1,5 +1,5 @@
 ---
-display_name: Create Light Renderer Properties
+title: Create Light Renderer Properties
 order: 10
 ---
 ## Navigation

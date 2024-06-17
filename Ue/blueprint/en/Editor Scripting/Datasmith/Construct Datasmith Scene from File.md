@@ -1,5 +1,5 @@
 ---
-display_name: Construct Datasmith Scene from File
+title: Construct Datasmith Scene from File
 order: 2
 ---
 ## Navigation

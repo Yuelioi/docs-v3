@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Resolution
+title: Set Custom Resolution
 order: 31
 ---
 ## Navigation

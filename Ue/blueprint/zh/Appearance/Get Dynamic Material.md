@@ -1,5 +1,5 @@
 ---
-display_name: Get Dynamic Material
+title: Get Dynamic Material
 order: 4
 ---
 ## Navigation

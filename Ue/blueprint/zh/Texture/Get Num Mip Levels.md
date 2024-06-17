@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Mip Levels
+title: Get Num Mip Levels
 order: 4
 ---
 ## Navigation

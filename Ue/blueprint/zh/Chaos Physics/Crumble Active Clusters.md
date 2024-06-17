@@ -1,5 +1,5 @@
 ---
-display_name: Crumble Active Clusters
+title: Crumble Active Clusters
 order: 8
 ---
 ## Navigation

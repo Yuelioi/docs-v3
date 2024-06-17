@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Motion State
+title: Get Input Motion State
 order: 18
 ---
 ## Navigation

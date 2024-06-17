@@ -1,5 +1,5 @@
 ---
-display_name: decodeparm
+title: decodeparm
 order: 6
 ---
 | Since | 18.0 |

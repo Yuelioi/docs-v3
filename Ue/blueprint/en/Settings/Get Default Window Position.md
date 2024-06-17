@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Window Position
+title: Get Default Window Position
 order: 37
 ---
 ## Navigation

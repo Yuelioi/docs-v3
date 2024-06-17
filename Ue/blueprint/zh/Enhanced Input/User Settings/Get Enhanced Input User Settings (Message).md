@@ -1,5 +1,5 @@
 ---
-display_name: Get Enhanced Input User Settings (Message)
+title: Get Enhanced Input User Settings (Message)
 order: 10
 ---
 ## Navigation

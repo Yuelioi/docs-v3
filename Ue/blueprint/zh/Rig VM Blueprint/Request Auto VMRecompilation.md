@@ -1,5 +1,5 @@
 ---
-display_name: Request Auto VMRecompilation
+title: Request Auto VMRecompilation
 order: 13
 ---
 ## Navigation

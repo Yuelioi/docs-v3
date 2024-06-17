@@ -1,5 +1,5 @@
 ---
-display_name: ToggleReplication
+title: ToggleReplication
 order: 117
 ---
 ## Navigation

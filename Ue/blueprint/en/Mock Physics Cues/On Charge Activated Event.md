@@ -1,5 +1,5 @@
 ---
-display_name: On Charge Activated Event
+title: On Charge Activated Event
 order: 1
 ---
 ## Navigation

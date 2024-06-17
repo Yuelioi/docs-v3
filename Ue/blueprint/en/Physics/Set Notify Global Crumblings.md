@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Global Crumblings
+title: Set Notify Global Crumblings
 order: 44
 ---
 ## Navigation

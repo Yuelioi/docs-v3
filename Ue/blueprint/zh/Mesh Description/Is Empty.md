@@ -1,5 +1,5 @@
 ---
-display_name: Is Empty
+title: Is Empty
 order: 76
 ---
 ## Navigation

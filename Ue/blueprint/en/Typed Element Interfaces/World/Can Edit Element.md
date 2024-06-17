@@ -1,5 +1,5 @@
 ---
-display_name: Can Edit Element
+title: Can Edit Element
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Playback End
+title: Set Playback End
 order: 93
 ---
 ## Navigation

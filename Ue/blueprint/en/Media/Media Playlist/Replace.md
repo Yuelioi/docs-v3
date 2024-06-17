@@ -1,5 +1,5 @@
 ---
-display_name: Replace
+title: Replace
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Is Zero
+title: Vector Is Zero
 order: 78
 ---
 ## Navigation

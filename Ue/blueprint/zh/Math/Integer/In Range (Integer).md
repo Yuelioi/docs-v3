@@ -1,5 +1,5 @@
 ---
-display_name: In Range (Integer)
+title: In Range (Integer)
 order: 9
 ---
 ## Navigation

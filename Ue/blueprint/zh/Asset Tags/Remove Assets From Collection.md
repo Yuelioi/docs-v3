@@ -1,5 +1,5 @@
 ---
-display_name: Remove Assets From Collection
+title: Remove Assets From Collection
 order: 21
 ---
 ## Navigation

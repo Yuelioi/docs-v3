@@ -1,5 +1,5 @@
 ---
-display_name: Get known In-App Receipts
+title: Get known In-App Receipts
 order: 2
 ---
 ## Navigation

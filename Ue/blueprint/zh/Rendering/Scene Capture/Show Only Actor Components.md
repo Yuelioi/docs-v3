@@ -1,5 +1,5 @@
 ---
-display_name: Show Only Actor Components
+title: Show Only Actor Components
 order: 9
 ---
 ## Navigation

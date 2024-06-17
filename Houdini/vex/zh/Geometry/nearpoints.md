@@ -1,5 +1,5 @@
 ---
-display_name: nearpoints
+title: nearpoints
 order: 12
 ---
 `int [] nearpoints(<geometry>geometry, vector pt, float maxdist)`

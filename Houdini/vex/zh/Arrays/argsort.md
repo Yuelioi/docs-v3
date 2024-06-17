@@ -1,6 +1,6 @@
 ---
 order: 3
-display_name: argsort
+title: argsort
 ---
 
 # argsort

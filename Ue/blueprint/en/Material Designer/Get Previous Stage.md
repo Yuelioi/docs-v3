@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous Stage
+title: Get Previous Stage
 order: 122
 ---
 ## Navigation

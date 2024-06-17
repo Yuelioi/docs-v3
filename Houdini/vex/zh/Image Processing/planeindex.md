@@ -1,5 +1,5 @@
 ---
-display_name: planeindex
+title: planeindex
 order: 32
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

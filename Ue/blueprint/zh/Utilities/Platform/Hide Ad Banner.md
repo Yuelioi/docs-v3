@@ -1,5 +1,5 @@
 ---
-display_name: Hide Ad Banner
+title: Hide Ad Banner
 order: 12
 ---
 ## Navigation

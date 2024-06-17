@@ -1,5 +1,5 @@
 ---
-display_name: Bit Crusher
+title: Bit Crusher
 order: 4
 ---
 ## Navigation

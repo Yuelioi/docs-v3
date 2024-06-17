@@ -1,5 +1,5 @@
 ---
-display_name: On Check State Changed
+title: On Check State Changed
 order: 1
 ---
 ## Navigation

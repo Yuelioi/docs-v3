@@ -1,5 +1,5 @@
 ---
-display_name: Script Extract Filenames
+title: Script Extract Filenames
 order: 8
 ---
 ## Navigation

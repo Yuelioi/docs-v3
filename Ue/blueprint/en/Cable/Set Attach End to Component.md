@@ -1,5 +1,5 @@
 ---
-display_name: Set Attach End to Component
+title: Set Attach End to Component
 order: 5
 ---
 ## Navigation

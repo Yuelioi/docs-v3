@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Overlap Actors
+title: Sphere Overlap Actors
 order: 73
 ---
 ## Navigation

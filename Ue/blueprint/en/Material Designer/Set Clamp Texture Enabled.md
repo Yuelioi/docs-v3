@@ -1,5 +1,5 @@
 ---
-display_name: Set Clamp Texture Enabled
+title: Set Clamp Texture Enabled
 order: 207
 ---
 ## Navigation

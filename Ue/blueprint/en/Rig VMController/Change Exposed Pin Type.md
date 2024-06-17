@@ -1,5 +1,5 @@
 ---
-display_name: Change Exposed Pin Type
+title: Change Exposed Pin Type
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Integer 32Attribute
+title: Set Integer 32Attribute
 order: 81
 ---
 ## Navigation

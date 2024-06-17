@@ -1,5 +1,5 @@
 ---
-display_name: Generate Bookmark Name
+title: Generate Bookmark Name
 order: 6
 ---
 ## Navigation

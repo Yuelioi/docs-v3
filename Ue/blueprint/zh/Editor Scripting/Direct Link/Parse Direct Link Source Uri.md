@@ -1,5 +1,5 @@
 ---
-display_name: Parse Direct Link Source Uri
+title: Parse Direct Link Source Uri
 order: 2
 ---
 ## Navigation

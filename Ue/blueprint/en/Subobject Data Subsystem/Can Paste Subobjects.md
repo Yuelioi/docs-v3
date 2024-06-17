@@ -1,5 +1,5 @@
 ---
-display_name: Can Paste Subobjects
+title: Can Paste Subobjects
 order: 4
 ---
 ## Navigation

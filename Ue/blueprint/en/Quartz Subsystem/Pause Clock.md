@@ -1,5 +1,5 @@
 ---
-display_name: Pause Clock
+title: Pause Clock
 order: 10
 ---
 ## Navigation

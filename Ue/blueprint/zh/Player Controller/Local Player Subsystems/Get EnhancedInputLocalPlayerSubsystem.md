@@ -1,5 +1,5 @@
 ---
-display_name: Get EnhancedInputLocalPlayerSubsystem
+title: Get EnhancedInputLocalPlayerSubsystem
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Tab Selected
+title: On Tab Selected
 order: 11
 ---
 ## Navigation

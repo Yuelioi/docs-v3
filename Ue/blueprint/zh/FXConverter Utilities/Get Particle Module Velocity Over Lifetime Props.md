@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Velocity Over Lifetime Props
+title: Get Particle Module Velocity Over Lifetime Props
 order: 107
 ---
 ## Navigation

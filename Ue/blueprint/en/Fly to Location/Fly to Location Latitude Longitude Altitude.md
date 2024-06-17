@@ -1,5 +1,5 @@
 ---
-display_name: Fly to Location Latitude Longitude Altitude
+title: Fly to Location Latitude Longitude Altitude
 order: 3
 ---
 ## Navigation

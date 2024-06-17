@@ -1,5 +1,5 @@
 ---
-display_name: Game User Developer Dir
+title: Game User Developer Dir
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Play Anim Montage
+title: Play Anim Montage
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Cooldown Tag Duration
+title: Add Cooldown Tag Duration
 order: 1
 ---
 ## Navigation

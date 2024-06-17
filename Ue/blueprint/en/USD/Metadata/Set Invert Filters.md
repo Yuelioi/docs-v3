@@ -1,5 +1,5 @@
 ---
-display_name: Set Invert Filters
+title: Set Invert Filters
 order: 5
 ---
 ## Navigation

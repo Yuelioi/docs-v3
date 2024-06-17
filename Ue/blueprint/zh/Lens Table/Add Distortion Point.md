@@ -1,5 +1,5 @@
 ---
-display_name: Add Distortion Point
+title: Add Distortion Point
 order: 1
 ---
 ## Navigation

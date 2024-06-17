@@ -1,5 +1,5 @@
 ---
-display_name: Device State Changed
+title: Device State Changed
 order: 5
 ---
 ## Navigation

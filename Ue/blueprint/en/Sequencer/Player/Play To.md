@@ -1,5 +1,5 @@
 ---
-display_name: Play To
+title: Play To
 order: 35
 ---
 ## Navigation

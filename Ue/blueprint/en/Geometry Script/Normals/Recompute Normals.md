@@ -1,5 +1,5 @@
 ---
-display_name: Recompute Normals
+title: Recompute Normals
 order: 10
 ---
 ## Navigation

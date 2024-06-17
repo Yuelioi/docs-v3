@@ -1,5 +1,5 @@
 ---
-display_name: Update World to Meter Scale
+title: Update World to Meter Scale
 order: 3
 ---
 ## Navigation

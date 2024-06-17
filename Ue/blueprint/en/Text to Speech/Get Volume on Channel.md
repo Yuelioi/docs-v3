@@ -1,5 +1,5 @@
 ---
-display_name: Get Volume on Channel
+title: Get Volume on Channel
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ReplaceAreaInTileBounds
+title: ReplaceAreaInTileBounds
 order: 1
 ---
 ## Navigation

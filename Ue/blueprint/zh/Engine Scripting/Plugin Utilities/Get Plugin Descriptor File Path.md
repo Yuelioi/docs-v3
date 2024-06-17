@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Descriptor File Path
+title: Get Plugin Descriptor File Path
 order: 7
 ---
 ## Navigation

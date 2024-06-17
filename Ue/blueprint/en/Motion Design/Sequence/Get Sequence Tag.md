@@ -1,5 +1,5 @@
 ---
-display_name: Get Sequence Tag
+title: Get Sequence Tag
 order: 3
 ---
 ## Navigation

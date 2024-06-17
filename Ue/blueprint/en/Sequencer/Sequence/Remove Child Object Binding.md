@@ -1,5 +1,5 @@
 ---
-display_name: Remove Child Object Binding
+title: Remove Child Object Binding
 order: 72
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Null Observation
+title: Get Null Observation
 order: 93
 ---
 ## Navigation

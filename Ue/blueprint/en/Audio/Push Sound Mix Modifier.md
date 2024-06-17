@@ -1,5 +1,5 @@
 ---
-display_name: Push Sound Mix Modifier
+title: Push Sound Mix Modifier
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Interactor
+title: Get Interactor
 order: 82
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Shallow Water Simulation Enabled
+title: Is Shallow Water Simulation Enabled
 order: 21
 ---
 ## Navigation

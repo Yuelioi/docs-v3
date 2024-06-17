@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotate Range
+title: Set Rotate Range
 order: 6
 ---
 ## Navigation

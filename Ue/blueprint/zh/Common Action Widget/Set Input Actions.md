@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Actions
+title: Set Input Actions
 order: 8
 ---
 ## Navigation

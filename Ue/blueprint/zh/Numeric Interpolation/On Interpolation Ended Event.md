@@ -1,5 +1,5 @@
 ---
-display_name: On Interpolation Ended Event
+title: On Interpolation Ended Event
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Observation Vector
+title: Get Observation Vector
 order: 96
 ---
 ## Navigation

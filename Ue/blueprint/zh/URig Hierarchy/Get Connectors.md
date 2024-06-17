@@ -1,5 +1,5 @@
 ---
-display_name: Get Connectors
+title: Get Connectors
 order: 13
 ---
 ## Navigation

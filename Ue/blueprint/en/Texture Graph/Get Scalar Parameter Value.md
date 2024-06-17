@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar Parameter Value
+title: Get Scalar Parameter Value
 order: 2
 ---
 ## Navigation

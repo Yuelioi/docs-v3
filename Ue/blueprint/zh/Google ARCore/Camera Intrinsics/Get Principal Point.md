@@ -1,5 +1,5 @@
 ---
-display_name: Get Principal Point
+title: Get Principal Point
 order: 3
 ---
 ## Navigation

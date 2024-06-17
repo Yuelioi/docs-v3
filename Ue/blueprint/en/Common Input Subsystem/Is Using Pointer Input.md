@@ -1,5 +1,5 @@
 ---
-display_name: Is Using Pointer Input
+title: Is Using Pointer Input
 order: 5
 ---
 ## Navigation

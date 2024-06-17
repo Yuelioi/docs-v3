@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawn Loop Mode
+title: Get Spawn Loop Mode
 order: 49
 ---
 ## Navigation

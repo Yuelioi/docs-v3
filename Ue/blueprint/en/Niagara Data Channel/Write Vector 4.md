@@ -1,5 +1,5 @@
 ---
-display_name: Write Vector 4
+title: Write Vector 4
 order: 31
 ---
 ## Navigation

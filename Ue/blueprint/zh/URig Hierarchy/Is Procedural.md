@@ -1,5 +1,5 @@
 ---
-display_name: Is Procedural
+title: Is Procedural
 order: 98
 ---
 ## Navigation

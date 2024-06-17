@@ -1,5 +1,5 @@
 ---
-display_name: Set Additive Base Pose Type
+title: Set Additive Base Pose Type
 order: 4
 ---
 ## Navigation

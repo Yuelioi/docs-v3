@@ -1,5 +1,5 @@
 ---
-display_name: Application Will Deactivate Delegate
+title: Application Will Deactivate Delegate
 order: 15
 ---
 ## Navigation

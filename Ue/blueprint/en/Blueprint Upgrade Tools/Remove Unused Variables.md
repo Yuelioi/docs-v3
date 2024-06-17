@@ -1,5 +1,5 @@
 ---
-display_name: Remove Unused Variables
+title: Remove Unused Variables
 order: 9
 ---
 ## Navigation

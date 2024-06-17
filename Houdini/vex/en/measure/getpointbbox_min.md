@@ -1,5 +1,5 @@
 ---
-display_name: getpointbbox_min
+title: getpointbbox_min
 order: 12
 ---
 `vector  getpointbbox_min(<geometry>geometry)`

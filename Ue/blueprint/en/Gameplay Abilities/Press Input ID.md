@@ -1,5 +1,5 @@
 ---
-display_name: Press Input ID
+title: Press Input ID
 order: 12
 ---
 ## Navigation

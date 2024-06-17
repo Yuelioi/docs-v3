@@ -1,5 +1,5 @@
 ---
-display_name: Inversed (Quat)
+title: Inversed (Quat)
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Gear Changed Event
+title: On Gear Changed Event
 order: 1
 ---
 ## Navigation

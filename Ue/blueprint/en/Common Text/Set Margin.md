@@ -1,5 +1,5 @@
 ---
-display_name: Set Margin
+title: Set Margin
 order: 5
 ---
 ## Navigation

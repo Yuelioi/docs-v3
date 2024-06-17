@@ -1,5 +1,5 @@
 ---
-display_name: snoise
+title: snoise
 order: 37
 ---
 `float  snoise(vector pos)`

@@ -1,5 +1,5 @@
 ---
-display_name: Loops and flow control
+title: Loops and flow control
 order: 3
 ---
 | On this page | * [{}](#) * [do loop](#do-loop) * [for loop](#for-loop) * [foreach loop](#foreach-loop) * [while loop](#while-loop) * [Other looping statements](#other-looping-statements) * [if](#if) * [return](#return) * [break](#break) * [continue](#continue) |

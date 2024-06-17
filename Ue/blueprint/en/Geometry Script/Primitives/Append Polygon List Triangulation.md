@@ -1,5 +1,5 @@
 ---
-display_name: Append Polygon List Triangulation
+title: Append Polygon List Triangulation
 order: 10
 ---
 ## Navigation

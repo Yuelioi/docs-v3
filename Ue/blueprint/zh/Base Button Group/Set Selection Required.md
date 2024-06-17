@@ -1,5 +1,5 @@
 ---
-display_name: Set Selection Required
+title: Set Selection Required
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Boolean
+title: Parse Json as Boolean
 order: 11
 ---
 ## Navigation

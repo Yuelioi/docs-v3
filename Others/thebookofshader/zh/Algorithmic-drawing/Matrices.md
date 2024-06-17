@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: Matrices
+title: Matrices
 ---
 
 ## 2D Matrices 二维矩阵

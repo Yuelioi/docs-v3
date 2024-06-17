@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Observation as Quat
+title: Get Rotation Observation as Quat
 order: 110
 ---
 ## Navigation

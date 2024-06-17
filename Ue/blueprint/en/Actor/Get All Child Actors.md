@@ -1,5 +1,5 @@
 ---
-display_name: Get All Child Actors
+title: Get All Child Actors
 order: 13
 ---
 ## Navigation

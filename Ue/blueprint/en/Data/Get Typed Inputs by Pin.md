@@ -1,5 +1,5 @@
 ---
-display_name: Get Typed Inputs by Pin
+title: Get Typed Inputs by Pin
 order: 10
 ---
 ## Navigation

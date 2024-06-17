@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Cast Shadow
+title: Set Section Cast Shadow
 order: 10
 ---
 ## Navigation

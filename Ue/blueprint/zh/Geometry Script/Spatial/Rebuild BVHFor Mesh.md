@@ -1,5 +1,5 @@
 ---
-display_name: Rebuild BVHFor Mesh
+title: Rebuild BVHFor Mesh
 order: 6
 ---
 ## Navigation

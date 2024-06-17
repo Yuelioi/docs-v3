@@ -1,5 +1,5 @@
 ---
-display_name: Unbind from Animation Started
+title: Unbind from Animation Started
 order: 9
 ---
 ## Navigation

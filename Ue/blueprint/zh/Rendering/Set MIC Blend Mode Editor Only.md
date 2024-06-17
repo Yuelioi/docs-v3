@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Blend Mode Editor Only
+title: Set MIC Blend Mode Editor Only
 order: 49
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ApplyMeshPolyGroupBevel
+title: ApplyMeshPolyGroupBevel
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Run Inference
+title: Run Inference
 order: 259
 ---
 ## Navigation

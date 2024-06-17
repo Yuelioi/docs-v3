@@ -1,5 +1,5 @@
 ---
-display_name: Display User Warning Message
+title: Display User Warning Message
 order: 4
 ---
 ## Navigation

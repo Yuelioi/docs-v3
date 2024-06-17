@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Bone
+title: Set Root Bone
 order: 47
 ---
 ## Navigation

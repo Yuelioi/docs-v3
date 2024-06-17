@@ -1,5 +1,5 @@
 ---
-display_name: ES工具和功能
+title: ES工具和功能
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Force Enabled
+title: Get Orientation Force Enabled
 order: 27
 ---
 ## Navigation

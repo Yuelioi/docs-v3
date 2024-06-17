@@ -1,5 +1,5 @@
 ---
-display_name: Select Vector
+title: Select Vector
 order: 53
 ---
 ## Navigation

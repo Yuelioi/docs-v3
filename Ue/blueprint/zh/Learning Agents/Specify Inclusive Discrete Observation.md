@@ -1,5 +1,5 @@
 ---
-display_name: Specify Inclusive Discrete Observation
+title: Specify Inclusive Discrete Observation
 order: 304
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: detailattribtype
+title: detailattribtype
 order: 17
 ---
 `int  detailattribtype(<geometry>geometry, string attribute_name)`

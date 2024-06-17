@@ -1,5 +1,5 @@
 ---
-display_name: Advance Time by Distance Matching
+title: Advance Time by Distance Matching
 order: 1
 ---
 ## Navigation

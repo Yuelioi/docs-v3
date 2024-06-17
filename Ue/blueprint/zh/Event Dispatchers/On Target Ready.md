@@ -1,5 +1,5 @@
 ---
-display_name: On Target Ready
+title: On Target Ready
 order: 168
 ---
 ## Navigation

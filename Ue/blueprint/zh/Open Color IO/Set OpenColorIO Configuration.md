@@ -1,5 +1,5 @@
 ---
-display_name: Set OpenColorIO Configuration
+title: Set OpenColorIO Configuration
 order: 11
 ---
 ## Navigation

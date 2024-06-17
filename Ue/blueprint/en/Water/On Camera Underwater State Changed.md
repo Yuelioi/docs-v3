@@ -1,5 +1,5 @@
 ---
-display_name: On Camera Underwater State Changed
+title: On Camera Underwater State Changed
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Track Row Display Name
+title: Set Track Row Display Name
 order: 26
 ---
 ## Navigation

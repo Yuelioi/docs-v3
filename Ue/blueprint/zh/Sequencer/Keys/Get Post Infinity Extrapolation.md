@@ -1,5 +1,5 @@
 ---
-display_name: Get Post Infinity Extrapolation
+title: Get Post Infinity Extrapolation
 order: 52
 ---
 ## Navigation

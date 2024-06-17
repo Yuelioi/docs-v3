@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounding Box Height
+title: Get Bounding Box Height
 order: 14
 ---
 ## Navigation

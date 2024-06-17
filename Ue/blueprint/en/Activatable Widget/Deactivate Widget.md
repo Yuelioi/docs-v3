@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Widget
+title: Deactivate Widget
 order: 4
 ---
 ## Navigation

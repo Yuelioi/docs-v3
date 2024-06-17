@@ -1,5 +1,5 @@
 ---
-display_name: Set Room Rotation
+title: Set Room Rotation
 order: 9
 ---
 ## Navigation

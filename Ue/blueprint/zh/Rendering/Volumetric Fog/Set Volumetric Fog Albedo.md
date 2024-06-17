@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog Albedo
+title: Set Volumetric Fog Albedo
 order: 2
 ---
 ## Navigation

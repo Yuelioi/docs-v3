@@ -1,5 +1,5 @@
 ---
-display_name: Get Live Link Subject
+title: Get Live Link Subject
 order: 3
 ---
 ## Navigation

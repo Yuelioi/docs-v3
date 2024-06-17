@@ -1,5 +1,5 @@
 ---
-display_name: Get Queries
+title: Get Queries
 order: 54
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Orientation Force Max
+title: Set Orientation Force Max
 order: 38
 ---
 ## Navigation

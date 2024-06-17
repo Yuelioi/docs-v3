@@ -1,5 +1,5 @@
 ---
-display_name: Resolve with Stage Actor
+title: Resolve with Stage Actor
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale
+title: Get Scale
 order: 7
 ---
 ## Navigation

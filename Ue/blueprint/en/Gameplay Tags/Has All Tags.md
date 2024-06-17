@@ -1,5 +1,5 @@
 ---
-display_name: Has All Tags
+title: Has All Tags
 order: 17
 ---
 ## Navigation

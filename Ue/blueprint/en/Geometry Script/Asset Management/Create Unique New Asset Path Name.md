@@ -1,5 +1,5 @@
 ---
-display_name: Create Unique New Asset Path Name
+title: Create Unique New Asset Path Name
 order: 7
 ---
 ## Navigation

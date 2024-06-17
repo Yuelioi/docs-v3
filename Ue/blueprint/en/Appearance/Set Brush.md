@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush
+title: Set Brush
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Scroll Lock
+title: Scroll Lock
 order: 97
 ---
 ## Navigation

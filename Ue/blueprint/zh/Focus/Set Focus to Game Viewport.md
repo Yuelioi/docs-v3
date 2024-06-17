@@ -1,5 +1,5 @@
 ---
-display_name: Set Focus to Game Viewport
+title: Set Focus to Game Viewport
 order: 1
 ---
 ## Navigation

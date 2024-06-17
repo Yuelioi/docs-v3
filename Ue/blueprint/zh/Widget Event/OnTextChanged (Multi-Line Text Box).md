@@ -1,5 +1,5 @@
 ---
-display_name: OnTextChanged (Multi-Line Text Box)
+title: OnTextChanged (Multi-Line Text Box)
 order: 13
 ---
 ## Navigation

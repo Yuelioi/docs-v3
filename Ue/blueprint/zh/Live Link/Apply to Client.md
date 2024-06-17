@@ -1,5 +1,5 @@
 ---
-display_name: Apply to Client
+title: Apply to Client
 order: 12
 ---
 ## Navigation

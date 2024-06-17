@@ -1,5 +1,5 @@
 ---
-display_name: Build String (LinearColor)
+title: Build String (LinearColor)
 order: 6
 ---
 ## Navigation

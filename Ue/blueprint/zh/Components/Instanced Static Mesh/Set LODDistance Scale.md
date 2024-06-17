@@ -1,5 +1,5 @@
 ---
-display_name: Set LODDistance Scale
+title: Set LODDistance Scale
 order: 17
 ---
 ## Navigation

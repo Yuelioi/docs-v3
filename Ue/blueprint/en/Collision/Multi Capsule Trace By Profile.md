@@ -1,5 +1,5 @@
 ---
-display_name: Multi Capsule Trace By Profile
+title: Multi Capsule Trace By Profile
 order: 50
 ---
 ## Navigation

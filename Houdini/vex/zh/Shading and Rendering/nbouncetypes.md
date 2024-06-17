@@ -1,5 +1,5 @@
 ---
-display_name: nbouncetypes
+title: nbouncetypes
 order: 54
 ---
 `int  nbouncetypes()`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Bypass Source Effect Chain Entry
+title: Set Bypass Source Effect Chain Entry
 order: 20
 ---
 ## Navigation

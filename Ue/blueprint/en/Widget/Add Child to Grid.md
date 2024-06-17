@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Grid
+title: Add Child to Grid
 order: 2
 ---
 ## Navigation

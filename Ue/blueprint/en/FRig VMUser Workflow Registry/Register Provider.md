@@ -1,5 +1,5 @@
 ---
-display_name: Register Provider
+title: Register Provider
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Over Hit Test Visible Widget
+title: Is Over Hit Test Visible Widget
 order: 6
 ---
 ## Navigation

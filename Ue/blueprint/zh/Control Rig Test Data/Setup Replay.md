@@ -1,5 +1,5 @@
 ---
-display_name: Setup Replay
+title: Setup Replay
 order: 9
 ---
 ## Navigation

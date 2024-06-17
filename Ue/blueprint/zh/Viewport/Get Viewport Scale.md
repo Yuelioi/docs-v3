@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Scale
+title: Get Viewport Scale
 order: 6
 ---
 ## Navigation

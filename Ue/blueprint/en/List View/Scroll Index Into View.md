@@ -1,5 +1,5 @@
 ---
-display_name: Scroll Index Into View
+title: Scroll Index Into View
 order: 19
 ---
 ## Navigation

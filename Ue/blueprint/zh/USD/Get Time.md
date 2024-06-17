@@ -1,5 +1,5 @@
 ---
-display_name: Get Time
+title: Get Time
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Metadata Field
+title: Has Metadata Field
 order: 4
 ---
 ## Navigation

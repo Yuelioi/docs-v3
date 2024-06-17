@@ -1,5 +1,5 @@
 ---
-display_name: Set Value as Gameplay Tag for Blackboard Comp
+title: Set Value as Gameplay Tag for Blackboard Comp
 order: 16
 ---
 ## Navigation

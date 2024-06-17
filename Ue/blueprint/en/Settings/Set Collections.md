@@ -1,5 +1,5 @@
 ---
-display_name: Set Collections
+title: Set Collections
 order: 111
 ---
 ## Navigation

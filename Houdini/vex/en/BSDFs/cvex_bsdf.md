@@ -1,5 +1,5 @@
 ---
-display_name: cvex_bsdf
+title: cvex_bsdf
 order: 7
 ---
 | On this page | * [Evaluation Function](#eval_fn) * [Sampling Function](#sample_fn) * [Component mask implicit argument](#component-mask-implicit-argument) * [Custom variadic arguments](#custom-variadic-arguments) * [Validation](#validation) * [Examples](#examples)   + [Example: Diffuse](#example-diffuse)  + [Example: Specular](#example-specular) |

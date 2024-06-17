@@ -1,5 +1,5 @@
 ---
-display_name: Get All Metadata
+title: Get All Metadata
 order: 20
 ---
 ## Navigation

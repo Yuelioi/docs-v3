@@ -1,5 +1,5 @@
 ---
-display_name: Add Geo Anchor at Location with Altitude
+title: Add Geo Anchor at Location with Altitude
 order: 1
 ---
 ## Navigation

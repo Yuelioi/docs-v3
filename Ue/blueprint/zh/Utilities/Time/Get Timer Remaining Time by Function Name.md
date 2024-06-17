@@ -1,5 +1,5 @@
 ---
-display_name: Get Timer Remaining Time by Function Name
+title: Get Timer Remaining Time by Function Name
 order: 14
 ---
 ## Navigation

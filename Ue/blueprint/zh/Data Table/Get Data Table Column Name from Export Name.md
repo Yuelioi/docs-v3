@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Column Name from Export Name
+title: Get Data Table Column Name from Export Name
 order: 4
 ---
 ## Navigation

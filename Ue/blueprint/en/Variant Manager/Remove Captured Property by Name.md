@@ -1,5 +1,5 @@
 ---
-display_name: Remove Captured Property by Name
+title: Remove Captured Property by Name
 order: 30
 ---
 ## Navigation

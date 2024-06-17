@@ -1,5 +1,5 @@
 ---
-display_name: usd_addcollectioninclude
+title: usd_addcollectioninclude
 order: 3
 ---
 | Since | 18.0 |

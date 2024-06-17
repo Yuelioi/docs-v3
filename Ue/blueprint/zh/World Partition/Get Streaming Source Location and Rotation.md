@@ -1,5 +1,5 @@
 ---
-display_name: Get Streaming Source Location and Rotation
+title: Get Streaming Source Location and Rotation
 order: 7
 ---
 ## Navigation

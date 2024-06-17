@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Step Rotation
+title: Get Delta Step Rotation
 order: 9
 ---
 ## Navigation

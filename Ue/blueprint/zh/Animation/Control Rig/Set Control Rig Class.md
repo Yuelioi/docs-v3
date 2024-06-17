@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Rig Class
+title: Set Control Rig Class
 order: 3
 ---
 ## Navigation

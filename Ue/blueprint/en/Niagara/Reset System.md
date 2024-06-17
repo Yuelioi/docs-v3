@@ -1,5 +1,5 @@
 ---
-display_name: Reset System
+title: Reset System
 order: 7
 ---
 ## Navigation

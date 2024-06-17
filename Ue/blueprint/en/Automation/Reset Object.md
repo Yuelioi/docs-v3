@@ -1,5 +1,5 @@
 ---
-display_name: Reset Object
+title: Reset Object
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: As Quat
+title: As Quat
 order: 7
 ---
 ## Navigation

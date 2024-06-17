@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Address At Index
+title: Get OSC Message Address At Index
 order: 33
 ---
 ## Navigation

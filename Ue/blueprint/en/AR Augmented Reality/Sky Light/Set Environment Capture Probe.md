@@ -1,5 +1,5 @@
 ---
-display_name: Set Environment Capture Probe
+title: Set Environment Capture Probe
 order: 1
 ---
 ## Navigation

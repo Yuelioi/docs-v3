@@ -1,5 +1,5 @@
 ---
-display_name: Specify Struct Action from Arrays
+title: Specify Struct Action from Arrays
 order: 328
 ---
 ## Navigation

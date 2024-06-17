@@ -1,5 +1,5 @@
 ---
-display_name: Send Frame (PCM16)
+title: Send Frame (PCM16)
 order: 5
 ---
 ## Navigation

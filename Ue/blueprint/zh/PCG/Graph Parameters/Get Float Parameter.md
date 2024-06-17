@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Parameter
+title: Get Float Parameter
 order: 6
 ---
 ## Navigation

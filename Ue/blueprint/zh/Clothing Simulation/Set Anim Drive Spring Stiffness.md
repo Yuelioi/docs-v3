@@ -1,5 +1,5 @@
 ---
-display_name: Set Anim Drive Spring Stiffness
+title: Set Anim Drive Spring Stiffness
 order: 17
 ---
 ## Navigation

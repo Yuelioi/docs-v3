@@ -1,5 +1,5 @@
 ---
-display_name: split_bsdf
+title: split_bsdf
 order: 22
 ---
 `void  split_bsdf(bsdf &lobes[], bsdf source, float &weights[])`

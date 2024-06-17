@@ -1,5 +1,5 @@
 ---
-display_name: Make Request Header
+title: Make Request Header
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Any Render Grid Jobs
+title: Has Any Render Grid Jobs
 order: 26
 ---
 ## Navigation

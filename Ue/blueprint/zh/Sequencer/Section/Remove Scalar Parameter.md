@@ -1,5 +1,5 @@
 ---
-display_name: Remove Scalar Parameter
+title: Remove Scalar Parameter
 order: 64
 ---
 ## Navigation

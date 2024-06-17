@@ -1,5 +1,5 @@
 ---
-display_name: Unpin Actors
+title: Unpin Actors
 order: 19
 ---
 ## Navigation

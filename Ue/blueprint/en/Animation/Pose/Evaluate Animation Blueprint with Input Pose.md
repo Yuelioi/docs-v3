@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Animation Blueprint with Input Pose
+title: Evaluate Animation Blueprint with Input Pose
 order: 1
 ---
 ## Navigation

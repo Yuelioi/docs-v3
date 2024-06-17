@@ -1,5 +1,5 @@
 ---
-display_name: Set Deprecated Input Yaw Scale
+title: Set Deprecated Input Yaw Scale
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset Pin Default Value
+title: Reset Pin Default Value
 order: 96
 ---
 ## Navigation

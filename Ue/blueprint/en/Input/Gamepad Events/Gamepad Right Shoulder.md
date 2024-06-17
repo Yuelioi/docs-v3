@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Shoulder
+title: Gamepad Right Shoulder
 order: 20
 ---
 ## Navigation

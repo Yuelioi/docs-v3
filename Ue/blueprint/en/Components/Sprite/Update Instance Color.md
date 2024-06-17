@@ -1,5 +1,5 @@
 ---
-display_name: Update Instance Color
+title: Update Instance Color
 order: 7
 ---
 ## Navigation

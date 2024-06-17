@@ -1,5 +1,5 @@
 ---
-display_name: Find Control
+title: Find Control
 order: 5
 ---
 ## Navigation

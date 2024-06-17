@@ -1,5 +1,5 @@
 ---
-display_name: Prepare for Pooling
+title: Prepare for Pooling
 order: 6
 ---
 ## Navigation

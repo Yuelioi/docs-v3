@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Action as Quat
+title: Get Rotation Action as Quat
 order: 108
 ---
 ## Navigation

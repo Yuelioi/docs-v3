@@ -1,5 +1,5 @@
 ---
-display_name: Is Search All Assets (Message)
+title: Is Search All Assets (Message)
 order: 34
 ---
 ## Navigation

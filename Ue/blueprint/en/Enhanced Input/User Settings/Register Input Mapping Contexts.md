@@ -1,5 +1,5 @@
 ---
-display_name: Register Input Mapping Contexts
+title: Register Input Mapping Contexts
 order: 24
 ---
 ## Navigation

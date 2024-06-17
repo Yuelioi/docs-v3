@@ -1,5 +1,5 @@
 ---
-display_name: Are Headphones Plugged In
+title: Are Headphones Plugged In
 order: 1
 ---
 ## Navigation

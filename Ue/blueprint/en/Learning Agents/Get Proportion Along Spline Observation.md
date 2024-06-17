@@ -1,5 +1,5 @@
 ---
-display_name: Get Proportion Along Spline Observation
+title: Get Proportion Along Spline Observation
 order: 103
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert Light Component
+title: Convert Light Component
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agentcliplayerblend
+title: agentcliplayerblend
 order: 9
 ---
 `float  agentcliplayerblend(float values[], float value_weights[], int value_layer_ids[], int layer_blend_modes[], float layer_weights[], int layer_parent_ids[])`

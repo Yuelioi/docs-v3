@@ -1,5 +1,5 @@
 ---
-display_name: Scene Variant Set
+title: Scene Variant Set
 order: 62
 ---
 ## Navigation

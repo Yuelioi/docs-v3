@@ -1,5 +1,5 @@
 ---
-display_name: Contains NaN (Matrix)
+title: Contains NaN (Matrix)
 order: 3
 ---
 ## Navigation

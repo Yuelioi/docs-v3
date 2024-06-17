@@ -1,5 +1,5 @@
 ---
-display_name: Rename Function
+title: Rename Function
 order: 92
 ---
 ## Navigation

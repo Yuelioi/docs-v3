@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Is NAN
+title: Vector 4 Is NAN
 order: 20
 ---
 ## Navigation

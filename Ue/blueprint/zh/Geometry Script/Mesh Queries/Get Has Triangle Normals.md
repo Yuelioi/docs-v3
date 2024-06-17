@@ -1,5 +1,5 @@
 ---
-display_name: Get Has Triangle Normals
+title: Get Has Triangle Normals
 order: 10
 ---
 ## Navigation

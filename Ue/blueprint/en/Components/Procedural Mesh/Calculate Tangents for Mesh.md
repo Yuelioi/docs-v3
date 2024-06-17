@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Tangents for Mesh
+title: Calculate Tangents for Mesh
 order: 2
 ---
 ## Navigation

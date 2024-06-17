@@ -1,5 +1,5 @@
 ---
-display_name: On Component Removed Event
+title: On Component Removed Event
 order: 5
 ---
 ## Navigation

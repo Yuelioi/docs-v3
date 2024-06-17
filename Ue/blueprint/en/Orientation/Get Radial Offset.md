@@ -1,5 +1,5 @@
 ---
-display_name: Get Radial Offset
+title: Get Radial Offset
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: issamples
+title: issamples
 order: 31
 ---
 | Context(s) | [chop](../contexts/chop.html) |

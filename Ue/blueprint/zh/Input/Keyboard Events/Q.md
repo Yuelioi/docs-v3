@@ -1,5 +1,5 @@
 ---
-display_name: Q
+title: Q
 order: 86
 ---
 ## Navigation

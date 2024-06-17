@@ -1,5 +1,5 @@
 ---
-display_name: ApplyGameplayEffectToSelf
+title: ApplyGameplayEffectToSelf
 order: 3
 ---
 ## Navigation

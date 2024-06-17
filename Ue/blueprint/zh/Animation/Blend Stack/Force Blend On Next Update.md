@@ -1,5 +1,5 @@
 ---
-display_name: Force Blend On Next Update
+title: Force Blend On Next Update
 order: 4
 ---
 ## Navigation

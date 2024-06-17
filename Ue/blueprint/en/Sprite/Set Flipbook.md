@@ -1,5 +1,5 @@
 ---
-display_name: Set Flipbook
+title: Set Flipbook
 order: 29
 ---
 ## Navigation

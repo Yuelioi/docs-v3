@@ -1,5 +1,5 @@
 ---
-display_name: Get Title Text
+title: Get Title Text
 order: 5
 ---
 ## Navigation

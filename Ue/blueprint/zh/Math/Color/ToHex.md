@@ -1,5 +1,5 @@
 ---
-display_name: ToHex
+title: ToHex
 order: 36
 ---
 ## Navigation

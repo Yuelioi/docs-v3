@@ -1,5 +1,5 @@
 ---
-display_name: Is Parameter Relevant
+title: Is Parameter Relevant
 order: 45
 ---
 ## Navigation

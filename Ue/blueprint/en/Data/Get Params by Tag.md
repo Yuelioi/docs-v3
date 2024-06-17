@@ -1,5 +1,5 @@
 ---
-display_name: Get Params by Tag
+title: Get Params by Tag
 order: 7
 ---
 ## Navigation

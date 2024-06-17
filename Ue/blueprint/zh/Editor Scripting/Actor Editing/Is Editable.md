@@ -1,5 +1,5 @@
 ---
-display_name: Is Editable
+title: Is Editable
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Content Browser Item Path
+title: Get Current Content Browser Item Path
 order: 8
 ---
 ## Navigation

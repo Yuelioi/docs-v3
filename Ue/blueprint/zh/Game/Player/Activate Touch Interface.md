@@ -1,5 +1,5 @@
 ---
-display_name: Activate Touch Interface
+title: Activate Touch Interface
 order: 1
 ---
 ## Navigation

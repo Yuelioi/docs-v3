@@ -1,5 +1,5 @@
 ---
-display_name: Is Connected By Name
+title: Is Connected By Name
 order: 8
 ---
 ## Navigation

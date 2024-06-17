@@ -1,5 +1,5 @@
 ---
-display_name: Set Item Selection
+title: Set Item Selection
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Does Mirror Match
+title: Does Mirror Match
 order: 1
 ---
 ## Navigation

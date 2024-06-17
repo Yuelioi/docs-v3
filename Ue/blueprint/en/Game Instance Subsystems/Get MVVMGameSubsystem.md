@@ -1,5 +1,5 @@
 ---
-display_name: Get MVVMGameSubsystem
+title: Get MVVMGameSubsystem
 order: 3
 ---
 ## Navigation

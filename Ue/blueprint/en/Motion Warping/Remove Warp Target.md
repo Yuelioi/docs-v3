@@ -1,5 +1,5 @@
 ---
-display_name: Remove Warp Target
+title: Remove Warp Target
 order: 14
 ---
 ## Navigation

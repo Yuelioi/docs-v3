@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Hit Result
+title: Set Custom Hit Result
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Importance Sample
+title: Importance Sample
 order: 3
 ---
 ## Navigation

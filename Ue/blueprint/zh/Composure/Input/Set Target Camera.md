@@ -1,5 +1,5 @@
 ---
-display_name: Set Target Camera
+title: Set Target Camera
 order: 2
 ---
 ## Navigation

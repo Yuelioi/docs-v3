@@ -1,5 +1,5 @@
 ---
-display_name: Application Registered for User Notifications Delegate
+title: Application Registered for User Notifications Delegate
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Load Class Asset Blocking
+title: Load Class Asset Blocking
 order: 28
 ---
 ## Navigation

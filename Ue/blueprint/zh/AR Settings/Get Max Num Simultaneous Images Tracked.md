@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Num Simultaneous Images Tracked
+title: Get Max Num Simultaneous Images Tracked
 order: 13
 ---
 ## Navigation

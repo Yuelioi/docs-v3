@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim Notify Event Duration
+title: Get Anim Notify Event Duration
 order: 2
 ---
 ## Navigation

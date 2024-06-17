@@ -1,5 +1,5 @@
 ---
-display_name: Add Granted Tag
+title: Add Granted Tag
 order: 3
 ---
 ## Navigation

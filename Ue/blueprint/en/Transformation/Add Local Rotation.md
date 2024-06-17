@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Rotation
+title: Add Local Rotation
 order: 9
 ---
 ## Navigation

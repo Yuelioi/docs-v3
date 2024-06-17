@@ -1,5 +1,5 @@
 ---
-display_name: Create Mesh Actor
+title: Create Mesh Actor
 order: 6
 ---
 ## Navigation

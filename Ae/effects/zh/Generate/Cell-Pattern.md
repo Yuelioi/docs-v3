@@ -1,5 +1,5 @@
 ---
-display_name: 单元格图案
+title: 单元格图案
 order: 11
 ---
 

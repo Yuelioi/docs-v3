@@ -1,5 +1,5 @@
 ---
-display_name: GetOrigin
+title: GetOrigin
 order: 5
 ---
 ## Navigation

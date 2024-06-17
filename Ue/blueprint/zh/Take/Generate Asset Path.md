@@ -1,5 +1,5 @@
 ---
-display_name: Generate Asset Path
+title: Generate Asset Path
 order: 1
 ---
 ## Navigation

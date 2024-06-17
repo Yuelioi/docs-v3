@@ -1,5 +1,5 @@
 ---
-display_name: Get Can Cache
+title: Get Can Cache
 order: 1
 ---
 ## Navigation

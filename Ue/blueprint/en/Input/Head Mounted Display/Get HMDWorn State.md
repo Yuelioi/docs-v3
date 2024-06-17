@@ -1,5 +1,5 @@
 ---
-display_name: Get HMDWorn State
+title: Get HMDWorn State
 order: 4
 ---
 ## Navigation

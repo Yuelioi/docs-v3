@@ -1,5 +1,5 @@
 ---
-display_name: Get MassEntitySubsystem
+title: Get MassEntitySubsystem
 order: 46
 ---
 ## Navigation

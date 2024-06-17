@@ -1,5 +1,5 @@
 ---
-display_name: Get Memory State
+title: Get Memory State
 order: 91
 ---
 ## Navigation

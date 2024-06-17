@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Out Args
+title: Get Blend Out Args
 order: 1
 ---
 ## Navigation

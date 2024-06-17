@@ -1,5 +1,5 @@
 ---
-display_name: Create Dynamic Material Instance
+title: Create Dynamic Material Instance
 order: 3
 ---
 ## Navigation

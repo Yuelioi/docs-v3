@@ -1,5 +1,5 @@
 ---
-display_name: Build from Static Mesh Descriptions
+title: Build from Static Mesh Descriptions
 order: 3
 ---
 ## Navigation

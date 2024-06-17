@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Parameter Value By Info
+title: Get Texture Parameter Value By Info
 order: 26
 ---
 ## Navigation

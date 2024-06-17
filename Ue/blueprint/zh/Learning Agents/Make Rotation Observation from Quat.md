@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotation Observation from Quat
+title: Make Rotation Observation from Quat
 order: 231
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Float 3
+title: Stringify as Float 3
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Color Override
+title: Set Vertex Color Override
 order: 37
 ---
 ## Navigation

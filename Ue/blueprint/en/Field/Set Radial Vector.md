@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Vector
+title: Set Radial Vector
 order: 26
 ---
 ## Navigation

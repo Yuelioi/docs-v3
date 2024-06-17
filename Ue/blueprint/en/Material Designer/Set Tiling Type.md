@@ -1,5 +1,5 @@
 ---
-display_name: Set Tiling Type
+title: Set Tiling Type
 order: 237
 ---
 ## Navigation

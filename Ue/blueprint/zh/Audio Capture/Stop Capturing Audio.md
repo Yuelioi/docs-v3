@@ -1,5 +1,5 @@
 ---
-display_name: Stop Capturing Audio
+title: Stop Capturing Audio
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Value Range
+title: Get Texture Value Range
 order: 41
 ---
 ## Navigation

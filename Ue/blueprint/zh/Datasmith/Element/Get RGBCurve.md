@@ -1,5 +1,5 @@
 ---
-display_name: Get RGBCurve
+title: Get RGBCurve
 order: 57
 ---
 ## Navigation

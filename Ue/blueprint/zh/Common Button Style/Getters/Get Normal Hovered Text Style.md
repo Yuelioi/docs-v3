@@ -1,5 +1,5 @@
 ---
-display_name: Get Normal Hovered Text Style
+title: Get Normal Hovered Text Style
 order: 8
 ---
 ## Navigation

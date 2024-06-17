@@ -1,5 +1,5 @@
 ---
-display_name: Float to Json
+title: Float to Json
 order: 5
 ---
 ## Navigation

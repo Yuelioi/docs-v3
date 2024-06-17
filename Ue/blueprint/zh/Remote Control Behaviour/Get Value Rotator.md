@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Rotator
+title: Get Value Rotator
 order: 15
 ---
 ## Navigation

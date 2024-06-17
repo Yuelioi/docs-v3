@@ -1,5 +1,5 @@
 ---
-display_name: Get Options
+title: Get Options
 order: 1
 ---
 ## Navigation

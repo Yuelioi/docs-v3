@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Max Angular Velocity in Degrees
+title: Set Physics Max Angular Velocity in Degrees
 order: 54
 ---
 ## Navigation

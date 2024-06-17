@@ -1,5 +1,5 @@
 ---
-display_name: Supports Convertible Laptops
+title: Supports Convertible Laptops
 order: 19
 ---
 ## Navigation

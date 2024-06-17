@@ -1,5 +1,5 @@
 ---
-display_name: Show Platform Specific Achievements Screen
+title: Show Platform Specific Achievements Screen
 order: 27
 ---
 ## Navigation

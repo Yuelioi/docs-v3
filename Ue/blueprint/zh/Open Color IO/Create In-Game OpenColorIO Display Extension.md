@@ -1,5 +1,5 @@
 ---
-display_name: Create In-Game OpenColorIO Display Extension
+title: Create In-Game OpenColorIO Display Extension
 order: 5
 ---
 ## Navigation

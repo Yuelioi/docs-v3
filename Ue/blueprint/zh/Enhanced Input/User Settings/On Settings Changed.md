@@ -1,5 +1,5 @@
 ---
-display_name: On Settings Changed
+title: On Settings Changed
 order: 21
 ---
 ## Navigation

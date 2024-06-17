@@ -1,5 +1,5 @@
 ---
-display_name: Snap To Grid (Float)
+title: Snap To Grid (Float)
 order: 37
 ---
 ## Navigation

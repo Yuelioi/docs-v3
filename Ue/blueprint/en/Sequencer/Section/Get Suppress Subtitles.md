@@ -1,5 +1,5 @@
 ---
-display_name: Get Suppress Subtitles
+title: Get Suppress Subtitles
 order: 51
 ---
 ## Navigation

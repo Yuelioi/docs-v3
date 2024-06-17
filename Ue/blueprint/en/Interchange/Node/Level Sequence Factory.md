@@ -1,5 +1,5 @@
 ---
-display_name: Level Sequence Factory
+title: Level Sequence Factory
 order: 46
 ---
 ## Navigation

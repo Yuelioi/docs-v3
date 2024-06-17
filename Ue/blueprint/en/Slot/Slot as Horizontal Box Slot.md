@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Horizontal Box Slot
+title: Slot as Horizontal Box Slot
 order: 4
 ---
 ## Navigation

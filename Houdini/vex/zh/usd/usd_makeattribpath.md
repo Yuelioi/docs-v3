@@ -1,5 +1,5 @@
 ---
-display_name: usd_makeattribpath
+title: usd_makeattribpath
 order: 86
 ---
 | Since | 18.0 |

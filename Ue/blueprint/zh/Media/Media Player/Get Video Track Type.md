@@ -1,5 +1,5 @@
 ---
-display_name: Get Video Track Type
+title: Get Video Track Type
 order: 35
 ---
 ## Navigation

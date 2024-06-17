@@ -1,5 +1,5 @@
 ---
-display_name: No Resource Brush
+title: No Resource Brush
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Type Name
+title: Get Type Name
 order: 140
 ---
 ## Navigation

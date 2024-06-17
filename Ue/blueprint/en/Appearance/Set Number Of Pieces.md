@@ -1,5 +1,5 @@
 ---
-display_name: Set Number Of Pieces
+title: Set Number Of Pieces
 order: 65
 ---
 ## Navigation

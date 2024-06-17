@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Bone Animation
+title: Remove All Bone Animation
 order: 13
 ---
 ## Navigation

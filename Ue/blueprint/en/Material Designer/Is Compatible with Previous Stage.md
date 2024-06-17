@@ -1,5 +1,5 @@
 ---
-display_name: Is Compatible with Previous Stage
+title: Is Compatible with Previous Stage
 order: 164
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Bounds
+title: Refresh Bounds
 order: 53
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Actors
+title: Get Selected Actors
 order: 13
 ---
 ## Navigation

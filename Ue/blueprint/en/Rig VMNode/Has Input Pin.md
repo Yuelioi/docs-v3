@@ -1,5 +1,5 @@
 ---
-display_name: Has Input Pin
+title: Has Input Pin
 order: 35
 ---
 ## Navigation

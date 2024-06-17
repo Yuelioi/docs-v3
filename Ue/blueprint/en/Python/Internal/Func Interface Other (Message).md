@@ -1,5 +1,5 @@
 ---
-display_name: Func Interface Other (Message)
+title: Func Interface Other (Message)
 order: 32
 ---
 ## Navigation

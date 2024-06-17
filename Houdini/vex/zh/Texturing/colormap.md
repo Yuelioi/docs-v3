@@ -1,5 +1,5 @@
 ---
-display_name: colormap
+title: colormap
 order: 1
 ---
 This function does bilinear interpolation of the pixel values. To get unfiltered pixel values, use [rawcolormap](rawcolormap.html "Looks up an unfiltered color from a texture file.").

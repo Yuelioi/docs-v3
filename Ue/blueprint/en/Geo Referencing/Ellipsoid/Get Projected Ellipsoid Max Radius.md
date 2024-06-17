@@ -1,5 +1,5 @@
 ---
-display_name: Get Projected Ellipsoid Max Radius
+title: Get Projected Ellipsoid Max Radius
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Class Defaults
+title: Get Class Defaults
 order: 2
 ---
 ## Navigation

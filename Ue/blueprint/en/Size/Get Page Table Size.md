@@ -1,5 +1,5 @@
 ---
-display_name: Get Page Table Size
+title: Get Page Table Size
 order: 1
 ---
 ## Navigation

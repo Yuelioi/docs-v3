@@ -1,5 +1,5 @@
 ---
-display_name: Create New Streaming Level
+title: Create New Streaming Level
 order: 3
 ---
 ## Navigation

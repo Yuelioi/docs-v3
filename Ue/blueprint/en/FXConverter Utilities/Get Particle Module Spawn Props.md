@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Spawn Props
+title: Get Particle Module Spawn Props
 order: 96
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Discrete Action
+title: Get Inclusive Discrete Action
 order: 73
 ---
 ## Navigation

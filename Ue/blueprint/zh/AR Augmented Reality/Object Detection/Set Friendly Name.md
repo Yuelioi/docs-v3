@@ -1,5 +1,5 @@
 ---
-display_name: Set Friendly Name
+title: Set Friendly Name
 order: 7
 ---
 ## Navigation

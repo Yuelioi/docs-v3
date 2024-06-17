@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Value
+title: Get Default Value
 order: 61
 ---
 ## Navigation

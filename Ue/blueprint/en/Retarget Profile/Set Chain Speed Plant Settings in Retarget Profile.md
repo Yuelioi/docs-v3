@@ -1,5 +1,5 @@
 ---
-display_name: Set Chain Speed Plant Settings in Retarget Profile
+title: Set Chain Speed Plant Settings in Retarget Profile
 order: 9
 ---
 ## Navigation

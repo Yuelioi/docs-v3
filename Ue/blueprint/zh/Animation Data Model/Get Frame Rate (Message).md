@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Rate (Message)
+title: Get Frame Rate (Message)
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set All Bodies Below Simulate Physics
+title: Set All Bodies Below Simulate Physics
 order: 13
 ---
 ## Navigation

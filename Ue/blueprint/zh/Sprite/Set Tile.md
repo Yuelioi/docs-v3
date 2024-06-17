@@ -1,5 +1,5 @@
 ---
-display_name: Set Tile
+title: Set Tile
 order: 37
 ---
 ## Navigation

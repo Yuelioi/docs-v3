@@ -1,5 +1,5 @@
 ---
-display_name: Get Loop
+title: Get Loop
 order: 3
 ---
 ## Navigation

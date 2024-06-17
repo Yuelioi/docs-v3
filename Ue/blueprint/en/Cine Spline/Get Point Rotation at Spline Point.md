@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Rotation at Spline Point
+title: Get Point Rotation at Spline Point
 order: 5
 ---
 ## Navigation

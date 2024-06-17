@@ -1,5 +1,5 @@
 ---
-display_name: Get Columns to Show by Default
+title: Get Columns to Show by Default
 order: 2
 ---
 ## Navigation

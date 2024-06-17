@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Slider Value
+title: Get Max Slider Value
 order: 6
 ---
 ## Navigation

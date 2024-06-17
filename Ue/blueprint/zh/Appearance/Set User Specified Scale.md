@@ -1,5 +1,5 @@
 ---
-display_name: Set User Specified Scale
+title: Set User Specified Scale
 order: 93
 ---
 ## Navigation

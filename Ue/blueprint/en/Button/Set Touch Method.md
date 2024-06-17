@@ -1,5 +1,5 @@
 ---
-display_name: Set Touch Method
+title: Set Touch Method
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Restore Previous Window Title Bar State
+title: Restore Previous Window Title Bar State
 order: 1
 ---
 ## Navigation

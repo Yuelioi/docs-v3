@@ -1,5 +1,5 @@
 ---
-display_name: ToggleDurationMode
+title: ToggleDurationMode
 order: 108
 ---
 ## Navigation

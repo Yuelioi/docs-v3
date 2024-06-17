@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Bus Mix
+title: Set Control Bus Mix
 order: 27
 ---
 ## Navigation

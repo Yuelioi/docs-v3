@@ -1,5 +1,5 @@
 ---
-display_name: Is Widget Added
+title: Is Widget Added
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Update Controls
+title: Update Controls
 order: 123
 ---
 ## Navigation

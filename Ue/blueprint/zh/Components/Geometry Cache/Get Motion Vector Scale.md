@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Vector Scale
+title: Get Motion Vector Scale
 order: 4
 ---
 ## Navigation

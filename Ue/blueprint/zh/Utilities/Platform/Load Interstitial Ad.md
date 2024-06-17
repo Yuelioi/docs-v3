@@ -1,5 +1,5 @@
 ---
-display_name: Load Interstitial Ad
+title: Load Interstitial Ad
 order: 18
 ---
 ## Navigation

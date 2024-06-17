@@ -1,5 +1,5 @@
 ---
-display_name: LayerCollection
+title: LayerCollection
 order: 4
 ---
 

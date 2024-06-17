@@ -1,5 +1,5 @@
 ---
-display_name: avg
+title: avg
 order: 9
 ---
 `int  avg(int a)`

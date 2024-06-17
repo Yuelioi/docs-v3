@@ -1,5 +1,5 @@
 ---
-display_name: CC涂抹
+title: CC涂抹
 order: 13
 ---
 

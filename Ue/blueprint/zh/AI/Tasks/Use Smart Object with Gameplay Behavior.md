@@ -1,5 +1,5 @@
 ---
-display_name: Use Smart Object with Gameplay Behavior
+title: Use Smart Object with Gameplay Behavior
 order: 10
 ---
 ## Navigation

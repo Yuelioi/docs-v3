@@ -1,5 +1,5 @@
 ---
-display_name: Add Free Reroute Node
+title: Add Free Reroute Node
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Disabled Brush
+title: Get Disabled Brush
 order: 3
 ---
 ## Navigation

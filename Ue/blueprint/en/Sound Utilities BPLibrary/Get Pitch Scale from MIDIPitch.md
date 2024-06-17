@@ -1,5 +1,5 @@
 ---
-display_name: Get Pitch Scale from MIDIPitch
+title: Get Pitch Scale from MIDIPitch
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Frequency
+title: Set Frequency
 order: 24
 ---
 ## Navigation

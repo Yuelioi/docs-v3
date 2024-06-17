@@ -1,5 +1,5 @@
 ---
-display_name: Remove Painted Vertices
+title: Remove Painted Vertices
 order: 3
 ---
 ## Navigation

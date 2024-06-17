@@ -1,5 +1,5 @@
 ---
-display_name: Config Session 2
+title: Config Session 2
 order: 1
 ---
 ## Navigation

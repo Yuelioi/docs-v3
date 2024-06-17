@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Input Device for User
+title: Get Primary Input Device for User
 order: 7
 ---
 ## Navigation

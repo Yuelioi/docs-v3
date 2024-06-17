@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Disconnect Faces
+title: Apply Mesh Disconnect Faces
 order: 2
 ---
 ## Navigation

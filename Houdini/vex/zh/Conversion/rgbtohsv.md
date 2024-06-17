@@ -1,5 +1,5 @@
 ---
-display_name: rgbtohsv
+title: rgbtohsv
 order: 10
 ---
 `vector  rgbtohsv(vector rgb)`

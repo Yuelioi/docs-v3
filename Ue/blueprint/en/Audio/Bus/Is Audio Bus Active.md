@@ -1,5 +1,5 @@
 ---
-display_name: Is Audio Bus Active
+title: Is Audio Bus Active
 order: 1
 ---
 ## Navigation

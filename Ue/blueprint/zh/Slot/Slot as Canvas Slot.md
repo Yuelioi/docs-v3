@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Canvas Slot
+title: Slot as Canvas Slot
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Enum)
+title: Set Default (Enum)
 order: 104
 ---
 ## Navigation

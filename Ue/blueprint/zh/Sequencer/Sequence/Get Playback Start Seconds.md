@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Start Seconds
+title: Get Playback Start Seconds
 order: 46
 ---
 ## Navigation

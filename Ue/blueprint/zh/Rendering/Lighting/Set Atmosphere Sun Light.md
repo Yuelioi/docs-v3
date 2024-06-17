@@ -1,5 +1,5 @@
 ---
-display_name: Set Atmosphere Sun Light
+title: Set Atmosphere Sun Light
 order: 4
 ---
 ## Navigation

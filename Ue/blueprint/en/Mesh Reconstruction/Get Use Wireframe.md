@@ -1,5 +1,5 @@
 ---
-display_name: Get Use Wireframe
+title: Get Use Wireframe
 order: 6
 ---
 ## Navigation

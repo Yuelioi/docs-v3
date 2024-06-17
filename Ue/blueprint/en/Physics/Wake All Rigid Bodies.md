@@ -1,5 +1,5 @@
 ---
-display_name: Wake All Rigid Bodies
+title: Wake All Rigid Bodies
 order: 62
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform User Dir
+title: Get Platform User Dir
 order: 9
 ---
 ## Navigation

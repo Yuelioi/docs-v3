@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Data
+title: Get Asset Data
 order: 4
 ---
 ## Navigation

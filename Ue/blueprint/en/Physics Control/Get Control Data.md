@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Data
+title: Get Control Data
 order: 40
 ---
 ## Navigation

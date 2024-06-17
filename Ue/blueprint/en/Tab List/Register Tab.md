@@ -1,5 +1,5 @@
 ---
-display_name: Register Tab
+title: Register Tab
 order: 12
 ---
 ## Navigation

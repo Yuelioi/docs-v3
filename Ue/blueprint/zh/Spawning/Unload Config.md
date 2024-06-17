@@ -1,5 +1,5 @@
 ---
-display_name: Unload Config
+title: Unload Config
 order: 7
 ---
 ## Navigation

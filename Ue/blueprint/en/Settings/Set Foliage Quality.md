@@ -1,5 +1,5 @@
 ---
-display_name: Set Foliage Quality
+title: Set Foliage Quality
 order: 115
 ---
 ## Navigation

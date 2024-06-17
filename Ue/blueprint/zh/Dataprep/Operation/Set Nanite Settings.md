@@ -1,5 +1,5 @@
 ---
-display_name: Set Nanite Settings
+title: Set Nanite Settings
 order: 16
 ---
 ## Navigation

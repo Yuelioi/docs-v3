@@ -1,5 +1,5 @@
 ---
-display_name: Send Normalized Matrix Cell Value
+title: Send Normalized Matrix Cell Value
 order: 26
 ---
 ## Navigation

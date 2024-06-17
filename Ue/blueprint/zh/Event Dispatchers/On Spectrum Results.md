@@ -1,5 +1,5 @@
 ---
-display_name: On Spectrum Results
+title: On Spectrum Results
 order: 155
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert Hism Component
+title: Convert Hism Component
 order: 4
 ---
 ## Navigation

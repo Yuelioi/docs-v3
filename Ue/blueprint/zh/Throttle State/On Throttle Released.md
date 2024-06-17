@@ -1,5 +1,5 @@
 ---
-display_name: On Throttle Released
+title: On Throttle Released
 order: 3
 ---
 ## Navigation

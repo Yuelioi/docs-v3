@@ -1,5 +1,5 @@
 ---
-display_name: Set Mie Absorption
+title: Set Mie Absorption
 order: 59
 ---
 ## Navigation

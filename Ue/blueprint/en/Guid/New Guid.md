@@ -1,5 +1,5 @@
 ---
-display_name: New Guid
+title: New Guid
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Input Event
+title: On Input Event
 order: 3
 ---
 ## Navigation

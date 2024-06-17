@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Using Custom End Frame
+title: Get Is Using Custom End Frame
 order: 10
 ---
 ## Navigation

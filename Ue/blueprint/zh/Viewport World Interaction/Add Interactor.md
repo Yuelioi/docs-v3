@@ -1,5 +1,5 @@
 ---
-display_name: Add Interactor
+title: Add Interactor
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Name
+title: Set Level Name
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Safe Zone Padding
+title: Get Safe Zone Padding
 order: 1
 ---
 ## Navigation

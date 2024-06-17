@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Editor VRControllers
+title: Get Active Editor VRControllers
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Right Bracket
+title: Right Bracket
 order: 90
 ---
 ## Navigation

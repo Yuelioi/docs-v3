@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Objects in Actor
+title: Find Smart Objects in Actor
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Value by Index
+title: Get Value by Index
 order: 148
 ---
 ## Navigation

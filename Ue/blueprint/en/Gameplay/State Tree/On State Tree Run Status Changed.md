@@ -1,5 +1,5 @@
 ---
-display_name: On State Tree Run Status Changed
+title: On State Tree Run Status Changed
 order: 2
 ---
 ## Navigation

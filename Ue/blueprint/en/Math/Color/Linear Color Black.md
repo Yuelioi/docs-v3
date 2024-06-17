@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Black
+title: Linear Color Black
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Ceil to Integer64
+title: Ceil to Integer64
 order: 3
 ---
 ## Navigation

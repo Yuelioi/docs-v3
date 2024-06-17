@@ -1,5 +1,5 @@
 ---
-display_name: Get Snap State
+title: Get Snap State
 order: 1
 ---
 ## Navigation

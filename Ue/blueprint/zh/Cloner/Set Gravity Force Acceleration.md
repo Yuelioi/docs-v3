@@ -1,5 +1,5 @@
 ---
-display_name: Set Gravity Force Acceleration
+title: Set Gravity Force Acceleration
 order: 25
 ---
 ## Navigation

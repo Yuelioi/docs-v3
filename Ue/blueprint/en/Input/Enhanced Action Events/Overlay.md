@@ -1,5 +1,5 @@
 ---
-display_name: Overlay
+title: Overlay
 order: 46
 ---
 ## Navigation

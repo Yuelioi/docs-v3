@@ -1,5 +1,5 @@
 ---
-display_name: primuvconvert
+title: primuvconvert
 order: 55
 ---
 `vector2  primuvconvert(<geometry>geometry, vector2 uv, int prim_num, int mode)`

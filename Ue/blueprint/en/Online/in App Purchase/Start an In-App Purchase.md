@@ -1,5 +1,5 @@
 ---
-display_name: Start an In-App Purchase
+title: Start an In-App Purchase
 order: 10
 ---
 ## Navigation

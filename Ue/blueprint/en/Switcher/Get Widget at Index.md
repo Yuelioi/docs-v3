@@ -1,5 +1,5 @@
 ---
-display_name: Get Widget at Index
+title: Get Widget at Index
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get MassComponentHitSubsystem
+title: Get MassComponentHitSubsystem
 order: 41
 ---
 ## Navigation

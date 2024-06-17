@@ -1,5 +1,5 @@
 ---
-display_name: Restore Connectors from States
+title: Restore Connectors from States
 order: 118
 ---
 ## Navigation

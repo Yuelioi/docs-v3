@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Component
+title: Get Media Component
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Item Score
+title: Get Item Score
 order: 1
 ---
 ## Navigation

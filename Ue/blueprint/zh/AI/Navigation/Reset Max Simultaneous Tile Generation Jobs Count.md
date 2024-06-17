@@ -1,5 +1,5 @@
 ---
-display_name: Reset Max Simultaneous Tile Generation Jobs Count
+title: Reset Max Simultaneous Tile Generation Jobs Count
 order: 34
 ---
 ## Navigation

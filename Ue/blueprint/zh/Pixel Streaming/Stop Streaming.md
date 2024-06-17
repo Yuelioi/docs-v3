@@ -1,5 +1,5 @@
 ---
-display_name: Stop Streaming
+title: Stop Streaming
 order: 26
 ---
 ## Navigation

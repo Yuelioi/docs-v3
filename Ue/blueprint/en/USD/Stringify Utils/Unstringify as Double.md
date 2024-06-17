@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double
+title: Unstringify as Double
 order: 75
 ---
 ## Navigation

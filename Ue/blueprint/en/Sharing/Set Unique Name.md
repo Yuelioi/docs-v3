@@ -1,5 +1,5 @@
 ---
-display_name: Set Unique Name
+title: Set Unique Name
 order: 2
 ---
 ## Navigation

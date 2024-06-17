@@ -1,5 +1,5 @@
 ---
-display_name: spline
+title: spline
 order: 79
 ---
 `float  spline(string basis, float sample_pos, float value1, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: On Stat Changed
+title: On Stat Changed
 order: 7
 ---
 ## Navigation

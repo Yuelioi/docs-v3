@@ -1,5 +1,5 @@
 ---
-display_name: Equal Exactly (Vector)
+title: Equal Exactly (Vector)
 order: 14
 ---
 ## Navigation

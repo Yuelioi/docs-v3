@@ -1,5 +1,5 @@
 ---
-display_name: Get All Clips Meta Data Tags
+title: Get All Clips Meta Data Tags
 order: 4
 ---
 ## Navigation

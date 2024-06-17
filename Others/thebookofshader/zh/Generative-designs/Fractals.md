@@ -1,5 +1,5 @@
 ---
-display_name: Fractals
+title: Fractals
 order: 2
 ---
 

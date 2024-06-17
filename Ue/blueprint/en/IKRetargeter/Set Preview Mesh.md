@@ -1,5 +1,5 @@
 ---
-display_name: Set Preview Mesh
+title: Set Preview Mesh
 order: 23
 ---
 ## Navigation

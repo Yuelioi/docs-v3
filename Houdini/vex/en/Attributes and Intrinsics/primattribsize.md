@@ -1,5 +1,5 @@
 ---
-display_name: primattribsize
+title: primattribsize
 order: 48
 ---
 `int  primattribsize(<geometry>geometry, string attribute_name)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Nodal Offset Points
+title: Get Nodal Offset Points
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Goals
+title: Get All Goals
 order: 9
 ---
 ## Navigation

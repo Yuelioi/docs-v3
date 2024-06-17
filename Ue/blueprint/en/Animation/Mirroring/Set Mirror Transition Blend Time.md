@@ -1,5 +1,5 @@
 ---
-display_name: Set Mirror Transition Blend Time
+title: Set Mirror Transition Blend Time
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Vertex Vertex Instances
+title: Get Num Vertex Vertex Instances
 order: 38
 ---
 ## Navigation

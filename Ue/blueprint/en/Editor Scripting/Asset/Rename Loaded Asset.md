@@ -1,5 +1,5 @@
 ---
-display_name: Rename Loaded Asset
+title: Rename Loaded Asset
 order: 34
 ---
 ## Navigation

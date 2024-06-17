@@ -1,5 +1,5 @@
 ---
-display_name: Compile VM
+title: Compile VM
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Connect Remote XRDevice
+title: Connect Remote XRDevice
 order: 1
 ---
 ## Navigation

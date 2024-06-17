@@ -1,5 +1,5 @@
 ---
-display_name: Draw Material
+title: Draw Material
 order: 7
 ---
 ## Navigation

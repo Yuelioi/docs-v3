@@ -1,5 +1,5 @@
 ---
-display_name: Compare Tag Container to Other Tags
+title: Compare Tag Container to Other Tags
 order: 4
 ---
 ## Navigation

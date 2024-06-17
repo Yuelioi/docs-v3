@@ -1,5 +1,5 @@
 ---
-display_name: Set Cubemap Blend
+title: Set Cubemap Blend
 order: 1
 ---
 ## Navigation

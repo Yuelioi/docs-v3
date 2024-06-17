@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 3Array
+title: Unstringify as Int 3Array
 order: 95
 ---
 ## Navigation

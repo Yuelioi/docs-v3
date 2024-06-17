@@ -1,5 +1,5 @@
 ---
-display_name: Is Connected
+title: Is Connected
 order: 6
 ---
 ## Navigation

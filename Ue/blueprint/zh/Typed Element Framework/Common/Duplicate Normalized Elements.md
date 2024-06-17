@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Normalized Elements
+title: Duplicate Normalized Elements
 order: 7
 ---
 ## Navigation

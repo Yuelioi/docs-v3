@@ -1,5 +1,5 @@
 ---
-display_name: Set Intensity Multiplier
+title: Set Intensity Multiplier
 order: 5
 ---
 ## Navigation

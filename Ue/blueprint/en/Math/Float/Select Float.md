@@ -1,5 +1,5 @@
 ---
-display_name: Select Float
+title: Select Float
 order: 35
 ---
 ## Navigation

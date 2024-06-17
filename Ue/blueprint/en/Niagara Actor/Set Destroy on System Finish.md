@@ -1,5 +1,5 @@
 ---
-display_name: Set Destroy on System Finish
+title: Set Destroy on System Finish
 order: 2
 ---
 ## Navigation

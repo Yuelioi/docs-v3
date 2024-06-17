@@ -1,5 +1,5 @@
 ---
-display_name: Attach Actor to Scene Root
+title: Attach Actor to Scene Root
 order: 1
 ---
 ## Navigation

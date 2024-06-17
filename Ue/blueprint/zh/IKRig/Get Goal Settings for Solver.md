@@ -1,5 +1,5 @@
 ---
-display_name: Get Goal Settings for Solver
+title: Get Goal Settings for Solver
 order: 16
 ---
 ## Navigation

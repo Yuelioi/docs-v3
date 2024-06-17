@@ -1,5 +1,5 @@
 ---
-display_name: Copy Mesh UV Channel To Mesh
+title: Copy Mesh UV Channel To Mesh
 order: 5
 ---
 ## Navigation

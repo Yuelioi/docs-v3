@@ -1,5 +1,5 @@
 ---
-display_name: Find Constraint Bone Name
+title: Find Constraint Bone Name
 order: 63
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Rename Bone
+title: Rename Bone
 order: 18
 ---
 ## Navigation

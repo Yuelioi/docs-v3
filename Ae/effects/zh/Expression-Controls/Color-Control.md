@@ -1,5 +1,5 @@
 ---
-display_name: 颜色控制
+title: 颜色控制
 order: 4
 ---
 

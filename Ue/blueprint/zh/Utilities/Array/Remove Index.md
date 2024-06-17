@@ -1,5 +1,5 @@
 ---
-display_name: Remove Index
+title: Remove Index
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Value Committed
+title: On Value Committed
 order: 4
 ---
 ## Navigation

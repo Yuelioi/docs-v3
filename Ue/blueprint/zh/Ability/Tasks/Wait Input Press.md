@@ -1,5 +1,5 @@
 ---
-display_name: Wait Input Press
+title: Wait Input Press
 order: 37
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Shot Timecode
+title: Get Current Shot Timecode
 order: 20
 ---
 ## Navigation

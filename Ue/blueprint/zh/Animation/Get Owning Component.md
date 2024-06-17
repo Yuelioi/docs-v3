@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Component
+title: Get Owning Component
 order: 31
 ---
 ## Navigation

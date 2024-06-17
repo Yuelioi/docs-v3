@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Asset Group Culture
+title: Get Current Asset Group Culture
 order: 3
 ---
 ## Navigation

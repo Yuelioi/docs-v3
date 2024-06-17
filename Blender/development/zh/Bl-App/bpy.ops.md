@@ -1,5 +1,5 @@
 ---
-display_name: 操作项(bpy.ops)
+title: 操作项(bpy.ops)
 order: 6
 ---
 

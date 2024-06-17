@@ -1,5 +1,5 @@
 ---
-display_name: hedge_equivcount
+title: hedge_equivcount
 order: 3
 ---
 `int  hedge_equivcount(<geometry>geometry, int hedge)`

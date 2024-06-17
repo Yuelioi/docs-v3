@@ -1,5 +1,5 @@
 ---
-display_name: Set Rig Element Key Array Metadata
+title: Set Rig Element Key Array Metadata
 order: 160
 ---
 ## Navigation

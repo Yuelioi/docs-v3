@@ -1,5 +1,5 @@
 ---
-display_name: Mark Smart Object Slot as Occupied
+title: Mark Smart Object Slot as Occupied
 order: 40
 ---
 ## Navigation

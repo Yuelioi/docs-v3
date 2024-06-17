@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Space
+title: Get Blend Space
 order: 2
 ---
 ## Navigation

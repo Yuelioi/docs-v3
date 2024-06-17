@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Pin Path
+title: Get Sub Pin Path
 order: 29
 ---
 ## Navigation

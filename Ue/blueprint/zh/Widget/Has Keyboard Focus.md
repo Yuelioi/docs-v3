@@ -1,5 +1,5 @@
 ---
-display_name: Has Keyboard Focus
+title: Has Keyboard Focus
 order: 4
 ---
 ## Navigation

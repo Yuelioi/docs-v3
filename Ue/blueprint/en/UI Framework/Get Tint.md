@@ -1,5 +1,5 @@
 ---
-display_name: Get Tint
+title: Get Tint
 order: 14
 ---
 ## Navigation

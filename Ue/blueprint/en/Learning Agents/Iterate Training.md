@@ -1,5 +1,5 @@
 ---
-display_name: Iterate Training
+title: Iterate Training
 order: 145
 ---
 ## Navigation

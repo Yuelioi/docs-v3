@@ -1,5 +1,5 @@
 ---
-display_name: Get Points as Copies
+title: Get Points as Copies
 order: 28
 ---
 ## Navigation

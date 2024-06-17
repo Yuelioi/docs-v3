@@ -1,5 +1,5 @@
 ---
-display_name: Find Float Parameter Name Index
+title: Find Float Parameter Name Index
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Relative Path to Root
+title: Get Relative Path to Root
 order: 49
 ---
 ## Navigation

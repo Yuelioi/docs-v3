@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Count
+title: Get Triangle Count
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalar Parameter Value by Info
+title: Set Scalar Parameter Value by Info
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Unit Structs
+title: Get Registered Unit Structs
 order: 55
 ---
 ## Navigation

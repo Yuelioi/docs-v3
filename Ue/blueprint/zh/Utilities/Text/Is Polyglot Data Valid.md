@@ -1,5 +1,5 @@
 ---
-display_name: Is Polyglot Data Valid
+title: Is Polyglot Data Valid
 order: 21
 ---
 ## Navigation

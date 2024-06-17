@@ -1,5 +1,5 @@
 ---
-display_name: Using assertions in VEX
+title: Using assertions in VEX
 order: 6
 ---
 When writing/debugging VEX code, you can set the `HOUDINI_VEX_ASSERT` environment variable, and then use the `assert(condition)` macro to test invariants in your code.

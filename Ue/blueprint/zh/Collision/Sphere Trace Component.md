@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Trace Component
+title: Sphere Trace Component
 order: 78
 ---
 ## Navigation

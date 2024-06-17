@@ -1,5 +1,5 @@
 ---
-display_name: Restore Owned In-App Products
+title: Restore Owned In-App Products
 order: 9
 ---
 ## Navigation

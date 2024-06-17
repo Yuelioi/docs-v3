@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Double)
+title: Add Key (Double)
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Palette Collection
+title: Add Palette Collection
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Input Action Value Of Type
+title: Make Input Action Value Of Type
 order: 3
 ---
 ## Navigation

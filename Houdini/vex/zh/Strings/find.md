@@ -1,5 +1,5 @@
 ---
-display_name: find
+title: find
 order: 13
 ---
 `int  find(string haystack, string needle)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Second Fog Data
+title: Set Second Fog Data
 order: 1
 ---
 ## Navigation

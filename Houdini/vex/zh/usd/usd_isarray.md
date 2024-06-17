@@ -1,5 +1,5 @@
 ---
-display_name: usd_isarray
+title: usd_isarray
 order: 63
 ---
 | Since | 17.5 |

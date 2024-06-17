@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Selected
+title: Set Is Selected
 order: 8
 ---
 ## Navigation

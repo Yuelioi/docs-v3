@@ -1,5 +1,5 @@
 ---
-display_name: Text to Upper
+title: Text to Upper
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Cell Continuation
+title: Set Cell Continuation
 order: 6
 ---
 ## Navigation

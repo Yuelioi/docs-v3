@@ -1,5 +1,5 @@
 ---
-display_name: Contains Attribute
+title: Contains Attribute
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (TextureRenderTarget)
+title: Set Niagara Variable (TextureRenderTarget)
 order: 42
 ---
 ## Navigation

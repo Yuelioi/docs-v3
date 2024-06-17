@@ -1,5 +1,5 @@
 ---
-display_name: Set from Euler (Quat)
+title: Set from Euler (Quat)
 order: 26
 ---
 ## Navigation

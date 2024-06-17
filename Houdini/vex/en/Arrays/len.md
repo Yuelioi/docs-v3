@@ -1,5 +1,5 @@
 ---
-display_name: len
+title: len
 order: 7
 ---
 `int  len(<vector>v)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Lazy Material
+title: Set Brush from Lazy Material
 order: 4
 ---
 ## Navigation

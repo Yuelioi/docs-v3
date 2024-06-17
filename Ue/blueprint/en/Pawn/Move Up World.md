@@ -1,5 +1,5 @@
 ---
-display_name: Move Up World
+title: Move Up World
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Vector Array Value
+title: Niagara Set Vector Array Value
 order: 75
 ---
 ## Navigation

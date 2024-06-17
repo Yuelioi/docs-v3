@@ -1,5 +1,5 @@
 ---
-display_name: Reverse from End
+title: Reverse from End
 order: 15
 ---
 ## Navigation

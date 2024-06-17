@@ -1,5 +1,5 @@
 ---
-display_name: findattribval
+title: findattribval
 order: 20
 ---
 `int  findattribval(<geometry>geometry, string attribclass, string attribute_name, int|stringvalue, int which=0)`

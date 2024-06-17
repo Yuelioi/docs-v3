@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Mouse Capture Mode
+title: Get Viewport Mouse Capture Mode
 order: 5
 ---
 ## Navigation

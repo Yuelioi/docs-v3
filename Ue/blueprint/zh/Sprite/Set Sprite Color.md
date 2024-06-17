@@ -1,5 +1,5 @@
 ---
-display_name: Set Sprite Color
+title: Set Sprite Color
 order: 32
 ---
 ## Navigation

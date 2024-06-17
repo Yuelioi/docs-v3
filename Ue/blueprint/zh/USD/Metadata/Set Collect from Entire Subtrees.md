@@ -1,5 +1,5 @@
 ---
-display_name: Set Collect from Entire Subtrees
+title: Set Collect from Entire Subtrees
 order: 3
 ---
 ## Navigation

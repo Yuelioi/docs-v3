@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Blend Stack Anim Asset
+title: Get Current Blend Stack Anim Asset
 order: 6
 ---
 ## Navigation

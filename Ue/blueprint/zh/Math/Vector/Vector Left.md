@@ -1,5 +1,5 @@
 ---
-display_name: Vector Left
+title: Vector Left
 order: 79
 ---
 ## Navigation

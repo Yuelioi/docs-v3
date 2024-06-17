@@ -1,5 +1,5 @@
 ---
-display_name: IsValid
+title: IsValid
 order: 10
 ---
 ## Navigation

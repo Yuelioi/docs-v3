@@ -1,5 +1,5 @@
 ---
-display_name: Project World to Screen
+title: Project World to Screen
 order: 16
 ---
 ## Navigation

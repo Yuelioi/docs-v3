@@ -1,5 +1,5 @@
 ---
-display_name: Get Outer APlayer Controller
+title: Get Outer APlayer Controller
 order: 122
 ---
 ## Navigation

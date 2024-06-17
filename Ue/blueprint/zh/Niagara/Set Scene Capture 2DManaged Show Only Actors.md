@@ -1,5 +1,5 @@
 ---
-display_name: Set Scene Capture 2DManaged Show Only Actors
+title: Set Scene Capture 2DManaged Show Only Actors
 order: 63
 ---
 ## Navigation

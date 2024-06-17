@@ -1,5 +1,5 @@
 ---
-display_name: Set Overlay Material Max Draw Distance
+title: Set Overlay Material Max Draw Distance
 order: 48
 ---
 ## Navigation

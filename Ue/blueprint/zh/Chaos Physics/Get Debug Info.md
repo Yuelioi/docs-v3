@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug Info
+title: Get Debug Info
 order: 10
 ---
 ## Navigation

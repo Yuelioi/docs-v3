@@ -1,5 +1,5 @@
 ---
-display_name: Get Dynamic Mesh Component
+title: Get Dynamic Mesh Component
 order: 6
 ---
 ## Navigation

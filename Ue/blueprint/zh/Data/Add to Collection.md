@@ -1,5 +1,5 @@
 ---
-display_name: Add to Collection
+title: Add to Collection
 order: 1
 ---
 ## Navigation

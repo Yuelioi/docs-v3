@@ -1,5 +1,5 @@
 ---
-display_name: Is Stage Enabled
+title: Is Stage Enabled
 order: 179
 ---
 ## Navigation

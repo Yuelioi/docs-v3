@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool
+title: Get Bool
 order: 2
 ---
 ## Navigation

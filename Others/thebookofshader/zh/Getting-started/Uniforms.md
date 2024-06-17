@@ -1,6 +1,6 @@
 ---
 order: 4
-display_name: Uniforms
+title: Uniforms
 ---
 
 ## Uniforms

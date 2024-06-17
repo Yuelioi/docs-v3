@@ -1,5 +1,5 @@
 ---
-display_name: Auto Connect Modules
+title: Auto Connect Modules
 order: 2
 ---
 ## Navigation

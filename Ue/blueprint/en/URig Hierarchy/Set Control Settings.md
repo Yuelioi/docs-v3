@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Settings
+title: Set Control Settings
 order: 134
 ---
 ## Navigation

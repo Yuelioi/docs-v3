@@ -1,5 +1,5 @@
 ---
-display_name: Is Property Valid
+title: Is Property Valid
 order: 19
 ---
 ## Navigation

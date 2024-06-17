@@ -1,5 +1,5 @@
 ---
-display_name: Get Statistics
+title: Get Statistics
 order: 37
 ---
 ## Navigation

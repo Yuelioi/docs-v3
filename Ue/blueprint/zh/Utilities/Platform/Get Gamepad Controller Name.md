@@ -1,5 +1,5 @@
 ---
-display_name: Get Gamepad Controller Name
+title: Get Gamepad Controller Name
 order: 8
 ---
 ## Navigation

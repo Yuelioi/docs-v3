@@ -1,5 +1,5 @@
 ---
-display_name: String To Vector2D
+title: String To Vector2D
 order: 55
 ---
 ## Navigation

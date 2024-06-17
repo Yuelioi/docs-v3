@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Block Visibility
+title: Set Text Block Visibility
 order: 32
 ---
 ## Navigation

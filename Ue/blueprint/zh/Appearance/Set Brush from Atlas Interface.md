@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Atlas Interface
+title: Set Brush from Atlas Interface
 order: 25
 ---
 ## Navigation

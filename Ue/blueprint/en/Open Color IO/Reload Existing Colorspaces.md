@@ -1,5 +1,5 @@
 ---
-display_name: Reload Existing Colorspaces
+title: Reload Existing Colorspaces
 order: 8
 ---
 ## Navigation

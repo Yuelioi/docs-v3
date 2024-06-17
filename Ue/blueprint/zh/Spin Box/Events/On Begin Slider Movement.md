@@ -1,5 +1,5 @@
 ---
-display_name: On Begin Slider Movement
+title: On Begin Slider Movement
 order: 1
 ---
 ## Navigation

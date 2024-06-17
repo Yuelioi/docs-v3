@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequences (by Tag)
+title: Play Sequences (by Tag)
 order: 19
 ---
 ## Navigation

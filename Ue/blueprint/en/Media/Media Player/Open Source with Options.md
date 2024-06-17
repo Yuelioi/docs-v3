@@ -1,5 +1,5 @@
 ---
-display_name: Open Source with Options
+title: Open Source with Options
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Multi Sphere Trace For Objects
+title: Multi Sphere Trace For Objects
 order: 57
 ---
 ## Navigation

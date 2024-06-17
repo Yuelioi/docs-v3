@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Reference
+title: Get Actor Reference
 order: 7
 ---
 ## Navigation

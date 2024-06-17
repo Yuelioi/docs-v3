@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Pawn Class for Controller
+title: Get Default Pawn Class for Controller
 order: 1
 ---
 ## Navigation

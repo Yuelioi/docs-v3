@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Respawn Delay
+title: Get Player Respawn Delay
 order: 1
 ---
 ## Navigation

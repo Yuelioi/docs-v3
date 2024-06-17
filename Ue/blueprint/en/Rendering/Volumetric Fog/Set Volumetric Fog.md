@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog
+title: Set Volumetric Fog
 order: 7
 ---
 ## Navigation

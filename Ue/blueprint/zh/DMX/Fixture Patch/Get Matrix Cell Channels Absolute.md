@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Cell Channels Absolute
+title: Get Matrix Cell Channels Absolute
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Brush from Texture
+title: Make Brush from Texture
 order: 8
 ---
 ## Navigation

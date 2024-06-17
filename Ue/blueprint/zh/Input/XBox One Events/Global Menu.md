@@ -1,5 +1,5 @@
 ---
-display_name: Global Menu
+title: Global Menu
 order: 2
 ---
 ## Navigation

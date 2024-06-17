@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Path
+title: Set Source Path
 order: 68
 ---
 ## Navigation

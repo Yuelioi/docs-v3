@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Age
+title: Set Desired Age
 order: 18
 ---
 ## Navigation

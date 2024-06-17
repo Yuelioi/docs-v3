@@ -1,5 +1,5 @@
 ---
-display_name: Create MIDIDevice Controller
+title: Create MIDIDevice Controller
 order: 1
 ---
 ## Navigation

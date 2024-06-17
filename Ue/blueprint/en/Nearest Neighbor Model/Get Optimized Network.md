@@ -1,5 +1,5 @@
 ---
-display_name: Get Optimized Network
+title: Get Optimized Network
 order: 13
 ---
 ## Navigation

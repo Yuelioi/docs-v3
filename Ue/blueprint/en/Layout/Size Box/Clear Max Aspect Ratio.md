@@ -1,5 +1,5 @@
 ---
-display_name: Clear Max Aspect Ratio
+title: Clear Max Aspect Ratio
 order: 2
 ---
 ## Navigation

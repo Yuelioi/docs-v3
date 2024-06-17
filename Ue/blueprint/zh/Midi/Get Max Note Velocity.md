@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Note Velocity
+title: Get Max Note Velocity
 order: 5
 ---
 ## Navigation

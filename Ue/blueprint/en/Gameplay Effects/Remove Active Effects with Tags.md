@@ -1,5 +1,5 @@
 ---
-display_name: Remove Active Effects with Tags
+title: Remove Active Effects with Tags
 order: 15
 ---
 ## Navigation

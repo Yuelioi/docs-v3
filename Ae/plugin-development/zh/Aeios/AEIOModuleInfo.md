@@ -1,5 +1,5 @@
 ---
-display_name: AEIO_ModuleInfo
+title: AEIO_ModuleInfo
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable World Rendering
+title: Get Enable World Rendering
 order: 11
 ---
 ## Navigation

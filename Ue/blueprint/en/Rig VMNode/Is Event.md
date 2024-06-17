@@ -1,5 +1,5 @@
 ---
-display_name: Is Event
+title: Is Event
 order: 45
 ---
 ## Navigation

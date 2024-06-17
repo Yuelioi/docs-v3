@@ -1,5 +1,5 @@
 ---
-display_name: Make Struct Action
+title: Make Struct Action
 order: 240
 ---
 ## Navigation

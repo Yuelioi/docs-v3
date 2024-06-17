@@ -1,5 +1,5 @@
 ---
-display_name: Override Animation Data
+title: Override Animation Data
 order: 5
 ---
 ## Navigation

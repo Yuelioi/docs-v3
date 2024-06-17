@@ -1,5 +1,5 @@
 ---
-display_name: Approximate Convex Hulls with Simpler Collision Shapes
+title: Approximate Convex Hulls with Simpler Collision Shapes
 order: 1
 ---
 ## Navigation

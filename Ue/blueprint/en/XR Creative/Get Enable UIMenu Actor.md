@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable UIMenu Actor
+title: Get Enable UIMenu Actor
 order: 7
 ---
 ## Navigation

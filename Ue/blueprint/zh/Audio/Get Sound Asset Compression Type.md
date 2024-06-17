@@ -1,5 +1,5 @@
 ---
-display_name: Get Sound Asset Compression Type
+title: Get Sound Asset Compression Type
 order: 16
 ---
 ## Navigation

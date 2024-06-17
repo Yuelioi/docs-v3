@@ -1,5 +1,5 @@
 ---
-display_name: volumecubicsample
+title: volumecubicsample
 order: 2
 ---
 `float  volumecubicsample(<geometry>geometry, int primnum, vector pos)`

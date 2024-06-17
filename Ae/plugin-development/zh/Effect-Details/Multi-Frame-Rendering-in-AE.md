@@ -1,5 +1,5 @@
 ---
-display_name: Multi-Frame-Rendering-in-AE
+title: Multi-Frame-Rendering-in-AE
 order: 15
 ---
 

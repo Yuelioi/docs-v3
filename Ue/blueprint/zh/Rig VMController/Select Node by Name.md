@@ -1,5 +1,5 @@
 ---
-display_name: Select Node by Name
+title: Select Node by Name
 order: 98
 ---
 ## Navigation

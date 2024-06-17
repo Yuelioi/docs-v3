@@ -1,5 +1,5 @@
 ---
-display_name: Get Storage Method
+title: Get Storage Method
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Quarter Note to Tick
+title: Quarter Note to Tick
 order: 14
 ---
 ## Navigation

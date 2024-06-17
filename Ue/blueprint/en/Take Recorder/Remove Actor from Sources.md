@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor from Sources
+title: Remove Actor from Sources
 order: 18
 ---
 ## Navigation

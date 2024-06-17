@@ -1,5 +1,5 @@
 ---
-display_name: Move Graph Direct
+title: Move Graph Direct
 order: 34
 ---
 ## Navigation

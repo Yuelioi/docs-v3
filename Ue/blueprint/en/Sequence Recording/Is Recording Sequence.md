@@ -1,5 +1,5 @@
 ---
-display_name: Is Recording Sequence
+title: Is Recording Sequence
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Closest Intersection
+title: Calculate Closest Intersection
 order: 2
 ---
 ## Navigation

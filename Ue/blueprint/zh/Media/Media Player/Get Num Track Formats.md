@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Track Formats
+title: Get Num Track Formats
 order: 14
 ---
 ## Navigation

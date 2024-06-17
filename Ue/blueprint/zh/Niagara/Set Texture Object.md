@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Object
+title: Set Texture Object
 order: 69
 ---
 ## Navigation

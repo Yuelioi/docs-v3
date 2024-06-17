@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Mode
+title: Get Animation Mode
 order: 1
 ---
 ## Navigation

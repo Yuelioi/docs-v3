@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Source Angle
+title: Set Light Source Angle
 order: 20
 ---
 ## Navigation

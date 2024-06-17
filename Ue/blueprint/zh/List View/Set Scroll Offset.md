@@ -1,5 +1,5 @@
 ---
-display_name: Set Scroll Offset
+title: Set Scroll Offset
 order: 24
 ---
 ## Navigation

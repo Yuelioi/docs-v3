@@ -1,5 +1,5 @@
 ---
-display_name: Is Vertex Valid
+title: Is Vertex Valid
 order: 83
 ---
 ## Navigation

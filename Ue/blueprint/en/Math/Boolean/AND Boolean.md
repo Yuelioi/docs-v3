@@ -1,5 +1,5 @@
 ---
-display_name: AND Boolean
+title: AND Boolean
 order: 1
 ---
 ## Navigation

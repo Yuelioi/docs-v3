@@ -1,5 +1,5 @@
 ---
-display_name: Application Registered for Remote Notifications Delegate
+title: Application Registered for Remote Notifications Delegate
 order: 12
 ---
 ## Navigation

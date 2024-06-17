@@ -1,5 +1,5 @@
 ---
-display_name: Get Dot Product To
+title: Get Dot Product To
 order: 38
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Strength
+title: Set Scale Strength
 order: 54
 ---
 ## Navigation

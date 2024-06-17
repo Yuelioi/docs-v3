@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Polygon Internal Edges
+title: Get Num Polygon Internal Edges
 order: 30
 ---
 ## Navigation

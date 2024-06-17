@@ -1,5 +1,5 @@
 ---
-display_name: Get Attach Parent Socket Name
+title: Get Attach Parent Socket Name
 order: 15
 ---
 ## Navigation

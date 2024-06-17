@@ -1,5 +1,5 @@
 ---
-display_name: solvephysfbik
+title: solvephysfbik
 order: 30
 ---
 | Since | 18.5 |

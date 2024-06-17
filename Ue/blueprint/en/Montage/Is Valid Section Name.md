@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Section Name
+title: Is Valid Section Name
 order: 12
 ---
 ## Navigation

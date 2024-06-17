@@ -1,5 +1,5 @@
 ---
-display_name: 雾3D
+title: 雾3D
 order: 6
 ---
 

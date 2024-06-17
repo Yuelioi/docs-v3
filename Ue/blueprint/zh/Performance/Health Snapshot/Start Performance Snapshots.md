@@ -1,5 +1,5 @@
 ---
-display_name: Start Performance Snapshots
+title: Start Performance Snapshots
 order: 2
 ---
 ## Navigation

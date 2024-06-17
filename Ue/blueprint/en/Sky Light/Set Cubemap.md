@@ -1,5 +1,5 @@
 ---
-display_name: Set Cubemap
+title: Set Cubemap
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Bone Curve
+title: Add Bone Curve
 order: 2
 ---
 ## Navigation

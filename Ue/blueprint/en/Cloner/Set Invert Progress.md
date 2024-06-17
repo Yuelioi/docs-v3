@@ -1,5 +1,5 @@
 ---
-display_name: Set Invert Progress
+title: Set Invert Progress
 order: 27
 ---
 ## Navigation

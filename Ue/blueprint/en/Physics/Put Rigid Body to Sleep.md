@@ -1,5 +1,5 @@
 ---
-display_name: Put Rigid Body to Sleep
+title: Put Rigid Body to Sleep
 order: 5
 ---
 ## Navigation

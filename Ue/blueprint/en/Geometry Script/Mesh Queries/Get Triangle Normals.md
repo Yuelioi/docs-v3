@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Normals
+title: Get Triangle Normals
 order: 35
 ---
 ## Navigation

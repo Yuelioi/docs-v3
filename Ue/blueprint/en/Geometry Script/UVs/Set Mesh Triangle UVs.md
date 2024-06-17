@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Triangle UVs
+title: Set Mesh Triangle UVs
 order: 16
 ---
 ## Navigation

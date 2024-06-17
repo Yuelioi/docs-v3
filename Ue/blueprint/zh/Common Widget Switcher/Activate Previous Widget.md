@@ -1,5 +1,5 @@
 ---
-display_name: Activate Previous Widget
+title: Activate Previous Widget
 order: 2
 ---
 ## Navigation

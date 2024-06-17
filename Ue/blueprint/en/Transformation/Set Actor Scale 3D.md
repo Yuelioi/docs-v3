@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Scale 3D
+title: Set Actor Scale 3D
 order: 65
 ---
 ## Navigation

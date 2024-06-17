@@ -1,5 +1,5 @@
 ---
-display_name: HasAnyUserFocusedDescendants
+title: HasAnyUserFocusedDescendants
 order: 9
 ---
 ## Navigation

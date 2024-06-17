@@ -1,5 +1,5 @@
 ---
-display_name: Get Guid
+title: Get Guid
 order: 26
 ---
 ## Navigation

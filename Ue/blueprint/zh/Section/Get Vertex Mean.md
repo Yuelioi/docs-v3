@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Mean
+title: Get Vertex Mean
 order: 12
 ---
 ## Navigation

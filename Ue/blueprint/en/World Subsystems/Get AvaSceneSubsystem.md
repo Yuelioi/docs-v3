@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaSceneSubsystem
+title: Get AvaSceneSubsystem
 order: 10
 ---
 ## Navigation

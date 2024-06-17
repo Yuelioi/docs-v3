@@ -1,5 +1,5 @@
 ---
-display_name: NextFrame
+title: NextFrame
 order: 37
 ---
 ## Navigation

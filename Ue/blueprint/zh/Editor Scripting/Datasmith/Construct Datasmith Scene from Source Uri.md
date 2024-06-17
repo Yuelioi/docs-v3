@@ -1,5 +1,5 @@
 ---
-display_name: Construct Datasmith Scene from Source Uri
+title: Construct Datasmith Scene from Source Uri
 order: 3
 ---
 ## Navigation

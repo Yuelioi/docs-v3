@@ -1,5 +1,5 @@
 ---
-display_name: Set Anim Drive Damper Stiffness
+title: Set Anim Drive Damper Stiffness
 order: 15
 ---
 ## Navigation

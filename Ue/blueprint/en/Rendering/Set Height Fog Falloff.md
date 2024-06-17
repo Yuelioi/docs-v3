@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Fog Falloff
+title: Set Height Fog Falloff
 order: 40
 ---
 ## Navigation

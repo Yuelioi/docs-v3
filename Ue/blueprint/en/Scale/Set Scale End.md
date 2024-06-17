@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale End
+title: Set Scale End
 order: 3
 ---
 ## Navigation

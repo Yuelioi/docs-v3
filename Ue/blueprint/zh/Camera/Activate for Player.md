@@ -1,5 +1,5 @@
 ---
-display_name: Activate for Player
+title: Activate for Player
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Element Type
+title: Set Element Type
 order: 2
 ---
 ## Navigation

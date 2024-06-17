@@ -1,5 +1,5 @@
 ---
-display_name: shrz
+title: shrz
 order: 70
 ---
 `int  shrz(int a, int bits)`

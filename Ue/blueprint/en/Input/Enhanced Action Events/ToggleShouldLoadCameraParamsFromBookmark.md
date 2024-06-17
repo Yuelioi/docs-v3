@@ -1,5 +1,5 @@
 ---
-display_name: ToggleShouldLoadCameraParamsFromBookmark
+title: ToggleShouldLoadCameraParamsFromBookmark
 order: 119
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Metadata
+title: Metadata
 order: 30
 ---
 ## Navigation

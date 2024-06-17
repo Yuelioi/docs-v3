@@ -1,5 +1,5 @@
 ---
-display_name: Get Client Id
+title: Get Client Id
 order: 5
 ---
 ## Navigation

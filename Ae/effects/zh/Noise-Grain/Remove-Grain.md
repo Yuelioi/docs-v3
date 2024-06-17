@@ -1,5 +1,5 @@
 ---
-display_name: 移除颗粒
+title: 移除颗粒
 order: 11
 ---
 

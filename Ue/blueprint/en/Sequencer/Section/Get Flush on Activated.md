@@ -1,5 +1,5 @@
 ---
-display_name: Get Flush on Activated
+title: Get Flush on Activated
 order: 31
 ---
 ## Navigation

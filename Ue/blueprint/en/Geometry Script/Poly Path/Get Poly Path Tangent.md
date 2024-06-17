@@ -1,5 +1,5 @@
 ---
-display_name: Get Poly Path Tangent
+title: Get Poly Path Tangent
 order: 17
 ---
 ## Navigation

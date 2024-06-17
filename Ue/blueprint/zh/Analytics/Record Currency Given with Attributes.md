@@ -1,5 +1,5 @@
 ---
-display_name: Record Currency Given with Attributes
+title: Record Currency Given with Attributes
 order: 6
 ---
 ## Navigation

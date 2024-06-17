@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Patches
+title: Get Num Patches
 order: 35
 ---
 ## Navigation

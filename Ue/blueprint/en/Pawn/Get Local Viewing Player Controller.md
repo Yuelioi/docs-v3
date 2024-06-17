@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Viewing Player Controller
+title: Get Local Viewing Player Controller
 order: 10
 ---
 ## Navigation

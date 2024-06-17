@@ -1,5 +1,5 @@
 ---
-display_name: Request Natively Formatted Target
+title: Request Natively Formatted Target
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Vector 2D
+title: Make Control Value from Vector 2D
 order: 109
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Color Value
+title: Get Linear Color Value
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Double)
+title: Get Default (Double)
 order: 21
 ---
 ## Navigation

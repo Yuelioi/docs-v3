@@ -1,5 +1,5 @@
 ---
-display_name: GetAncestorClassNames (Message)
+title: GetAncestorClassNames (Message)
 order: 26
 ---
 ## Navigation

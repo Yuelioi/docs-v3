@@ -1,5 +1,5 @@
 ---
-display_name: Has Completion
+title: Has Completion
 order: 134
 ---
 ## Navigation

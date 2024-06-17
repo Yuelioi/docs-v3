@@ -1,5 +1,5 @@
 ---
-display_name: Equals
+title: Equals
 order: 31
 ---
 ## Navigation

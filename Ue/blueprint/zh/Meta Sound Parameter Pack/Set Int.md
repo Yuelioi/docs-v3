@@ -1,5 +1,5 @@
 ---
-display_name: Set Int
+title: Set Int
 order: 21
 ---
 ## Navigation

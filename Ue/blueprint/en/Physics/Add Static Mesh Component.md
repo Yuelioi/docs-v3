@@ -1,5 +1,5 @@
 ---
-display_name: Add Static Mesh Component
+title: Add Static Mesh Component
 order: 13
 ---
 ## Navigation

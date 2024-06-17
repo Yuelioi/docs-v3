@@ -1,5 +1,5 @@
 ---
-display_name: Clear Weight Patch Blend Mode Override
+title: Clear Weight Patch Blend Mode Override
 order: 3
 ---
 ## Navigation

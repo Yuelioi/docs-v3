@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor VRHead Transform
+title: Get Editor VRHead Transform
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: filterstep
+title: filterstep
 order: 6
 ---
 | On this page | * [Image filtering options](#image-filtering-options) * [Examples](#examples) |

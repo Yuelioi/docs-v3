@@ -1,5 +1,5 @@
 ---
-display_name: Set Tile Map Color
+title: Set Tile Map Color
 order: 35
 ---
 ## Navigation

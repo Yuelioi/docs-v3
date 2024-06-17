@@ -1,5 +1,5 @@
 ---
-display_name: Get Lens Model
+title: Get Lens Model
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Bool
+title: Set Value Bool
 order: 143
 ---
 ## Navigation

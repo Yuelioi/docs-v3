@@ -1,5 +1,5 @@
 ---
-display_name: Predict Projectile Path By TraceChannel
+title: Predict Projectile Path By TraceChannel
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Import LOD
+title: Import LOD
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Stat Inc Max
+title: Get Stat Inc Max
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Object Path)
+title: Remove Default (Object Path)
 order: 88
 ---
 ## Navigation

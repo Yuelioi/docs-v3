@@ -1,5 +1,5 @@
 ---
-display_name: Set Time
+title: Set Time
 order: 25
 ---
 ## Navigation

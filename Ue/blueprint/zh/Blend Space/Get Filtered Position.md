@@ -1,5 +1,5 @@
 ---
-display_name: Get Filtered Position
+title: Get Filtered Position
 order: 3
 ---
 ## Navigation

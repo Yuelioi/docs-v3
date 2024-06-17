@@ -1,5 +1,5 @@
 ---
-display_name: On Before Popup
+title: On Before Popup
 order: 1
 ---
 ## Navigation

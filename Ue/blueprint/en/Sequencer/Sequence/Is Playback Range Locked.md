@@ -1,5 +1,5 @@
 ---
-display_name: Is Playback Range Locked
+title: Is Playback Range Locked
 order: 64
 ---
 ## Navigation

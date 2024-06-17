@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Integer)
+title: Assert Equal (Integer)
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Type
+title: Get Blend Type
 order: 17
 ---
 ## Navigation

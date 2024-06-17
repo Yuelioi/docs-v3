@@ -1,5 +1,5 @@
 ---
-display_name: Create New Static Mesh Asset from Mesh
+title: Create New Static Mesh Asset from Mesh
 order: 4
 ---
 ## Navigation

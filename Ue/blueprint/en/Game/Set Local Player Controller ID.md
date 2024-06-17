@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Player Controller ID
+title: Set Local Player Controller ID
 order: 48
 ---
 ## Navigation

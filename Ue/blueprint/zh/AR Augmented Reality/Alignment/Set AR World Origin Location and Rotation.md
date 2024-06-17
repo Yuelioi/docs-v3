@@ -1,5 +1,5 @@
 ---
-display_name: Set AR World Origin Location and Rotation
+title: Set AR World Origin Location and Rotation
 order: 4
 ---
 ## Navigation

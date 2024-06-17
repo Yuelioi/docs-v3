@@ -1,5 +1,5 @@
 ---
-display_name: Get Velocity at Position
+title: Get Velocity at Position
 order: 2
 ---
 ## Navigation

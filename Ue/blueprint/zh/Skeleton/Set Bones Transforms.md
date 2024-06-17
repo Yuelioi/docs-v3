@@ -1,5 +1,5 @@
 ---
-display_name: Set Bones Transforms
+title: Set Bones Transforms
 order: 21
 ---
 ## Navigation

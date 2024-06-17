@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Time
+title: Get Current Time
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Pair Observation
+title: Make Pair Observation
 order: 214
 ---
 ## Navigation

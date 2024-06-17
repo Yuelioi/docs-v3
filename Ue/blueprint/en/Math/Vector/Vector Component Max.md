@@ -1,5 +1,5 @@
 ---
-display_name: Vector Component Max
+title: Vector Component Max
 order: 65
 ---
 ## Navigation

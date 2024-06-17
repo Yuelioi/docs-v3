@@ -1,5 +1,5 @@
 ---
-display_name: Set Interpolation Mode
+title: Set Interpolation Mode
 order: 109
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Color and Opacity
+title: Set Shadow Color and Opacity
 order: 71
 ---
 ## Navigation

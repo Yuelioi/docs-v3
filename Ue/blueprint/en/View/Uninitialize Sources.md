@@ -1,5 +1,5 @@
 ---
-display_name: Uninitialize Sources
+title: Uninitialize Sources
 order: 15
 ---
 ## Navigation

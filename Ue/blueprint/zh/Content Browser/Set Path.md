@@ -1,5 +1,5 @@
 ---
-display_name: Set Path
+title: Set Path
 order: 17
 ---
 ## Navigation

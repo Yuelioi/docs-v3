@@ -1,5 +1,5 @@
 ---
-display_name: 内部 外部键
+title: 内部 外部键
 order: 7
 ---
 

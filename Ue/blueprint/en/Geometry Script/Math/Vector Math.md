@@ -1,5 +1,5 @@
 ---
-display_name: Vector Math
+title: Vector Math
 order: 1
 ---
 ## Navigation

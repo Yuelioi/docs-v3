@@ -1,5 +1,5 @@
 ---
-display_name: On Movie Pipeline Finished Delegate
+title: On Movie Pipeline Finished Delegate
 order: 88
 ---
 ## Navigation

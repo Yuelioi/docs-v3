@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Path
+title: Get Assets by Path
 order: 15
 ---
 ## Navigation

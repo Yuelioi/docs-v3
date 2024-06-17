@@ -1,5 +1,5 @@
 ---
-display_name: Get Engine Folder Visibilty
+title: Get Engine Folder Visibilty
 order: 3
 ---
 ## Navigation

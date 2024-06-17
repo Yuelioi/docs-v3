@@ -1,5 +1,5 @@
 ---
-display_name: Equal (SmartObjectHandle)
+title: Equal (SmartObjectHandle)
 order: 1
 ---
 ## Navigation

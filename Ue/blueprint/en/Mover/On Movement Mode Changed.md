@@ -1,5 +1,5 @@
 ---
-display_name: On Movement Mode Changed
+title: On Movement Mode Changed
 order: 18
 ---
 ## Navigation

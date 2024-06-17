@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Menu Context
+title: Get Graph Menu Context
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera View
+title: Get Camera View
 order: 9
 ---
 ## Navigation

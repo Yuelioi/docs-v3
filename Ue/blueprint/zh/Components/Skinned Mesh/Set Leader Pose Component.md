@@ -1,5 +1,5 @@
 ---
-display_name: Set Leader Pose Component
+title: Set Leader Pose Component
 order: 28
 ---
 ## Navigation

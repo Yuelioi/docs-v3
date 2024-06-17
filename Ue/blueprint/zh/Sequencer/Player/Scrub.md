@@ -1,5 +1,5 @@
 ---
-display_name: Scrub
+title: Scrub
 order: 38
 ---
 ## Navigation

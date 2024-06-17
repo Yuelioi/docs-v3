@@ -1,5 +1,5 @@
 ---
-display_name: Get Action Names
+title: Get Action Names
 order: 22
 ---
 ## Navigation

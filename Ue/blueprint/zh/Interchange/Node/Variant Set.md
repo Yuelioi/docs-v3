@@ -1,5 +1,5 @@
 ---
-display_name: Variant Set
+title: Variant Set
 order: 89
 ---
 ## Navigation

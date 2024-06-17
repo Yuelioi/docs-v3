@@ -1,5 +1,5 @@
 ---
-display_name: Set Vignette
+title: Set Vignette
 order: 156
 ---
 ## Navigation

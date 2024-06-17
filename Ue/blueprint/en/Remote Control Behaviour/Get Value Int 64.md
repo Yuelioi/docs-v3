@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Int 64
+title: Get Value Int 64
 order: 10
 ---
 ## Navigation

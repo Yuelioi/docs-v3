@@ -1,5 +1,5 @@
 ---
-display_name: Create New Key Profile
+title: Create New Key Profile
 order: 3
 ---
 ## Navigation

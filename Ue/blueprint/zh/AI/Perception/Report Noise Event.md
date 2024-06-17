@@ -1,5 +1,5 @@
 ---
-display_name: Report Noise Event
+title: Report Noise Event
 order: 17
 ---
 ## Navigation

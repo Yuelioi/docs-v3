@@ -1,5 +1,5 @@
 ---
-display_name: detailattribsize
+title: detailattribsize
 order: 16
 ---
 `int  detailattribsize(<geometry>geometry, string attribute_name)`

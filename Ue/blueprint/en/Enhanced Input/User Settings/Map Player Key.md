@@ -1,5 +1,5 @@
 ---
-display_name: Map Player Key
+title: Map Player Key
 order: 19
 ---
 ## Navigation

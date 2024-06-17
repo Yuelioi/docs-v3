@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Function Library
+title: Set Default Function Library
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Opacity Value
+title: Get Global Opacity Value
 order: 76
 ---
 ## Navigation

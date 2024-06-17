@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Mappable Keys
+title: Get Player Mappable Keys
 order: 7
 ---
 ## Navigation

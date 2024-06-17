@@ -1,5 +1,5 @@
 ---
-display_name: Reset Speed Scalar
+title: Reset Speed Scalar
 order: 3
 ---
 ## Navigation

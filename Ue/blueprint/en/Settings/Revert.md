@@ -1,5 +1,5 @@
 ---
-display_name: Revert
+title: Revert
 order: 101
 ---
 ## Navigation

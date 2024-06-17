@@ -1,5 +1,5 @@
 ---
-display_name: DoubleTapHold
+title: DoubleTapHold
 order: 17
 ---
 ## Navigation

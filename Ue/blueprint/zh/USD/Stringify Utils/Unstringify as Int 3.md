@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 3
+title: Unstringify as Int 3
 order: 94
 ---
 ## Navigation

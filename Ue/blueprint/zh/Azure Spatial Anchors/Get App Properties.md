@@ -1,5 +1,5 @@
 ---
-display_name: Get App Properties
+title: Get App Properties
 order: 4
 ---
 ## Navigation

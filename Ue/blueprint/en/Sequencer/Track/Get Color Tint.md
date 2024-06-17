@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Tint
+title: Get Color Tint
 order: 5
 ---
 ## Navigation

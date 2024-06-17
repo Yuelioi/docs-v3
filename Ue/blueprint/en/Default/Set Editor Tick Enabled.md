@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Tick Enabled
+title: Set Editor Tick Enabled
 order: 22
 ---
 ## Navigation

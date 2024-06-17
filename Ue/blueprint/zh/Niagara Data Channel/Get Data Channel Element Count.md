@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Channel Element Count
+title: Get Data Channel Element Count
 order: 1
 ---
 ## Navigation

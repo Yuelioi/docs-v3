@@ -1,5 +1,5 @@
 ---
-display_name: Clear Max Value
+title: Clear Max Value
 order: 2
 ---
 ## Navigation

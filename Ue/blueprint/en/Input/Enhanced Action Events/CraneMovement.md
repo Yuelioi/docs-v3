@@ -1,5 +1,5 @@
 ---
-display_name: CraneMovement
+title: CraneMovement
 order: 6
 ---
 ## Navigation

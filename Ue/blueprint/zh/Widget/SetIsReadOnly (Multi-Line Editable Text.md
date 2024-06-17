@@ -1,5 +1,5 @@
 ---
-display_name: SetIsReadOnly (Multi-Line Editable Text
+title: SetIsReadOnly (Multi-Line Editable Text
 order: 46
 ---
 ## Navigation

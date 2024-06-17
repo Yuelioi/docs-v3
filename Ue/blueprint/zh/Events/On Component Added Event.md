@@ -1,5 +1,5 @@
 ---
-display_name: On Component Added Event
+title: On Component Added Event
 order: 3
 ---
 ## Navigation

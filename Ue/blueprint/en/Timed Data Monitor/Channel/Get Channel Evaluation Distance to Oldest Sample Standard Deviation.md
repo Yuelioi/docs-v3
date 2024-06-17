@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Evaluation Distance to Oldest Sample Standard Deviation
+title: Get Channel Evaluation Distance to Oldest Sample Standard Deviation
 order: 10
 ---
 ## Navigation

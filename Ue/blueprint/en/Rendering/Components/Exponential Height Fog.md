@@ -1,5 +1,5 @@
 ---
-display_name: Exponential Height Fog
+title: Exponential Height Fog
 order: 3
 ---
 ## Navigation

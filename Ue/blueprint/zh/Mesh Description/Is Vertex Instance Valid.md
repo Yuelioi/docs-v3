@@ -1,5 +1,5 @@
 ---
-display_name: Is Vertex Instance Valid
+title: Is Vertex Instance Valid
 order: 81
 ---
 ## Navigation

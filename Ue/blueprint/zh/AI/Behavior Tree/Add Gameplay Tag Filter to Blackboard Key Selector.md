@@ -1,5 +1,5 @@
 ---
-display_name: Add Gameplay Tag Filter to Blackboard Key Selector
+title: Add Gameplay Tag Filter to Blackboard Key Selector
 order: 1
 ---
 ## Navigation

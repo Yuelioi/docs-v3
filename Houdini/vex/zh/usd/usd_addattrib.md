@@ -1,5 +1,5 @@
 ---
-display_name: usd_addattrib
+title: usd_addattrib
 order: 1
 ---
 | Since | 18.0 |

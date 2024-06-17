@@ -1,5 +1,5 @@
 ---
-display_name: upush
+title: upush
 order: 17
 ---
 `void  upush(<type>&array[], <type>value)`

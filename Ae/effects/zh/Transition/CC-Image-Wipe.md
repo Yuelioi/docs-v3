@@ -1,5 +1,5 @@
 ---
-display_name: CC图像擦除
+title: CC图像擦除
 order: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Minutes
+title: Get Total Minutes
 order: 17
 ---
 ## Navigation

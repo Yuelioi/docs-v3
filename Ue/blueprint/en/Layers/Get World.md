@@ -1,5 +1,5 @@
 ---
-display_name: Get World
+title: Get World
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Strength
+title: Set Location Strength
 order: 33
 ---
 ## Navigation

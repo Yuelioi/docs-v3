@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable By Name (Float)
+title: Set Console Variable By Name (Float)
 order: 12
 ---
 ## Navigation

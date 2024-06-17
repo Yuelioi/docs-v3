@@ -1,5 +1,5 @@
 ---
-display_name: Start Recording Submix Output
+title: Start Recording Submix Output
 order: 2
 ---
 ## Navigation

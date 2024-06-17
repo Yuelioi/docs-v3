@@ -1,5 +1,5 @@
 ---
-display_name: Set Foreground Color
+title: Set Foreground Color
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Signature
+title: Get Time Signature
 order: 8
 ---
 ## Navigation

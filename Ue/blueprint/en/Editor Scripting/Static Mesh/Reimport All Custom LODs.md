@@ -1,5 +1,5 @@
 ---
-display_name: Reimport All Custom LODs
+title: Reimport All Custom LODs
 order: 6
 ---
 ## Navigation

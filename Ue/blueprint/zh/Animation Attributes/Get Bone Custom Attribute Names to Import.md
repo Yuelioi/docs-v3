@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Custom Attribute Names to Import
+title: Get Bone Custom Attribute Names to Import
 order: 1
 ---
 ## Navigation

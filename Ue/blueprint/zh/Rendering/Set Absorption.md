@@ -1,5 +1,5 @@
 ---
-display_name: Set Absorption
+title: Set Absorption
 order: 12
 ---
 ## Navigation

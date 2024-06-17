@@ -1,5 +1,5 @@
 ---
-display_name: Start Recording Visible Tiles
+title: Start Recording Visible Tiles
 order: 8
 ---
 ## Navigation

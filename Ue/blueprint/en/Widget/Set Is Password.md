@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Password
+title: Set Is Password
 order: 18
 ---
 ## Navigation

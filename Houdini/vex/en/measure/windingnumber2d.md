@@ -1,5 +1,5 @@
 ---
-display_name: windingnumber2d
+title: windingnumber2d
 order: 20
 ---
 `float  windingnumber2d(<geometry>geometry, vector origin)`

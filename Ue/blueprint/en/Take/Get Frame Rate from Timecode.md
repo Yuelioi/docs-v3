@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Rate from Timecode
+title: Get Frame Rate from Timecode
 order: 4
 ---
 ## Navigation

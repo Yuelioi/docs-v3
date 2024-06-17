@@ -1,5 +1,5 @@
 ---
-display_name: Get Poly Path Num Vertices
+title: Get Poly Path Num Vertices
 order: 16
 ---
 ## Navigation

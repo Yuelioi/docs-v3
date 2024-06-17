@@ -1,5 +1,5 @@
 ---
-display_name: CC扩散波纹变形
+title: CC扩散波纹变形
 order: 11
 ---
 

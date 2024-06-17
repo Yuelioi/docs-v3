@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Rig Modules
+title: Get Available Rig Modules
 order: 2
 ---
 ## Navigation

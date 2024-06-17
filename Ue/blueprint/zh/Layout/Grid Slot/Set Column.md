@@ -1,5 +1,5 @@
 ---
-display_name: Set Column
+title: Set Column
 order: 2
 ---
 ## Navigation

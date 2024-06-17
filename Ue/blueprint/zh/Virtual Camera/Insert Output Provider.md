@@ -1,5 +1,5 @@
 ---
-display_name: Insert Output Provider
+title: Insert Output Provider
 order: 12
 ---
 ## Navigation

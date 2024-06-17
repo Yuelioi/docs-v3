@@ -1,5 +1,5 @@
 ---
-display_name: Set Magnitude
+title: Set Magnitude
 order: 21
 ---
 ## Navigation

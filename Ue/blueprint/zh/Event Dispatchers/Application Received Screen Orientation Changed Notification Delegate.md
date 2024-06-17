@@ -1,5 +1,5 @@
 ---
-display_name: Application Received Screen Orientation Changed Notification Delegate
+title: Application Received Screen Orientation Changed Notification Delegate
 order: 10
 ---
 ## Navigation

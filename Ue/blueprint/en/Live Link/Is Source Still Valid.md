@@ -1,5 +1,5 @@
 ---
-display_name: Is Source Still Valid
+title: Is Source Still Valid
 order: 35
 ---
 ## Navigation

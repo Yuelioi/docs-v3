@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Object)
+title: Build String (Object)
 order: 8
 ---
 ## Navigation

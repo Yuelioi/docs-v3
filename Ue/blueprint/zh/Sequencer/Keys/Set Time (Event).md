@@ -1,5 +1,5 @@
 ---
-display_name: Set Time (Event)
+title: Set Time (Event)
 order: 120
 ---
 ## Navigation

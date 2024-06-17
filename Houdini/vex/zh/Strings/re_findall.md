@@ -1,5 +1,5 @@
 ---
-display_name: re_findall
+title: re_findall
 order: 25
 ---
 `string [] re_findall(string regex, string input)`

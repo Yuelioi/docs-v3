@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe to All Quantization Events
+title: Subscribe to All Quantization Events
 order: 9
 ---
 ## Navigation

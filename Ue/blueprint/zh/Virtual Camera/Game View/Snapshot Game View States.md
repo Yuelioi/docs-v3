@@ -1,5 +1,5 @@
 ---
-display_name: Snapshot Game View States
+title: Snapshot Game View States
 order: 6
 ---
 ## Navigation

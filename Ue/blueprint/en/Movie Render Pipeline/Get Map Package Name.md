@@ -1,5 +1,5 @@
 ---
-display_name: Get Map Package Name
+title: Get Map Package Name
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scattering Distribution
+title: Set Scattering Distribution
 order: 78
 ---
 ## Navigation

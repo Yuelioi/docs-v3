@@ -1,5 +1,5 @@
 ---
-display_name: Set String Array Parameter
+title: Set String Array Parameter
 order: 32
 ---
 ## Navigation

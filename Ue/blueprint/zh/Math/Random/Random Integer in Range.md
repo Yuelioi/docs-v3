@@ -1,5 +1,5 @@
 ---
-display_name: Random Integer in Range
+title: Random Integer in Range
 order: 22
 ---
 ## Navigation

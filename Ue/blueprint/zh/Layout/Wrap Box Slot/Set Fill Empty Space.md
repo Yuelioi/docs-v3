@@ -1,5 +1,5 @@
 ---
-display_name: Set Fill Empty Space
+title: Set Fill Empty Space
 order: 1
 ---
 ## Navigation

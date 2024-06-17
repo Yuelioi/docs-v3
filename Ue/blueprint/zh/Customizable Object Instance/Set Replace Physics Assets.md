@@ -1,5 +1,5 @@
 ---
-display_name: Set Replace Physics Assets
+title: Set Replace Physics Assets
 order: 77
 ---
 ## Navigation

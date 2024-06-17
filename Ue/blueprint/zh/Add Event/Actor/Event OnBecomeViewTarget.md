@@ -1,5 +1,5 @@
 ---
-display_name: Event OnBecomeViewTarget
+title: Event OnBecomeViewTarget
 order: 1
 ---
 ## Navigation

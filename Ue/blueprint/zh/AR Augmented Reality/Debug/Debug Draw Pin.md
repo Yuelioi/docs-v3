@@ -1,5 +1,5 @@
 ---
-display_name: Debug Draw Pin
+title: Debug Draw Pin
 order: 1
 ---
 ## Navigation

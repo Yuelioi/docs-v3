@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Selected Actors
+title: Duplicate Selected Actors
 order: 7
 ---
 ## Navigation

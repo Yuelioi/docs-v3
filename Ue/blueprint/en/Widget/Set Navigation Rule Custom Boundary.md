@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Rule Custom Boundary
+title: Set Navigation Rule Custom Boundary
 order: 23
 ---
 ## Navigation

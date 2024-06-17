@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Timestamp
+title: Get Current Timestamp
 order: 6
 ---
 ## Navigation

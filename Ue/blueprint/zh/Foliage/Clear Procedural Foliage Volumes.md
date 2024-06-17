@@ -1,5 +1,5 @@
 ---
-display_name: Clear Procedural Foliage Volumes
+title: Clear Procedural Foliage Volumes
 order: 3
 ---
 ## Navigation

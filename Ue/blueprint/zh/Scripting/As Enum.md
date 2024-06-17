@@ -1,5 +1,5 @@
 ---
-display_name: As Enum
+title: As Enum
 order: 3
 ---
 ## Navigation

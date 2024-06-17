@@ -1,5 +1,5 @@
 ---
-display_name: Get Next Aggregate Name
+title: Get Next Aggregate Name
 order: 18
 ---
 ## Navigation

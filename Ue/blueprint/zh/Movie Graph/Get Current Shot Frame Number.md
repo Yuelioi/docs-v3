@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Shot Frame Number
+title: Get Current Shot Frame Number
 order: 19
 ---
 ## Navigation

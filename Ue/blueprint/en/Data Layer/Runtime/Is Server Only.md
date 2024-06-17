@@ -1,5 +1,5 @@
 ---
-display_name: Is Server Only
+title: Is Server Only
 order: 5
 ---
 ## Navigation

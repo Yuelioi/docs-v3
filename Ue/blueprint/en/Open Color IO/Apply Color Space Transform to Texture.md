@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Space Transform to Texture
+title: Apply Color Space Transform to Texture
 order: 3
 ---
 ## Navigation

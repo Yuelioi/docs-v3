@@ -1,5 +1,5 @@
 ---
-display_name: usd_attribelement
+title: usd_attribelement
 order: 17
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Objects and Values for Key
+title: Get All Objects and Values for Key
 order: 2
 ---
 ## Navigation

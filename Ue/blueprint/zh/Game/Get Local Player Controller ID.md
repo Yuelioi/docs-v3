@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Player Controller ID
+title: Get Local Player Controller ID
 order: 29
 ---
 ## Navigation

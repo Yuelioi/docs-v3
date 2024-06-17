@@ -1,5 +1,5 @@
 ---
-display_name: Set Rate on Channel
+title: Set Rate on Channel
 order: 17
 ---
 ## Navigation

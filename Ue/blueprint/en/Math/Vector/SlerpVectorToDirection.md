@@ -1,5 +1,5 @@
 ---
-display_name: SlerpVectorToDirection
+title: SlerpVectorToDirection
 order: 55
 ---
 ## Navigation

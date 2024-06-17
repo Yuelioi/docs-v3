@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Label
+title: Get Display Label
 order: 26
 ---
 ## Navigation

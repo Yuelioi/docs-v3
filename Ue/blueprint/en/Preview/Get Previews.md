@@ -1,5 +1,5 @@
 ---
-display_name: Get Previews
+title: Get Previews
 order: 5
 ---
 ## Navigation

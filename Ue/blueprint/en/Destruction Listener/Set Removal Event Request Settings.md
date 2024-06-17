@@ -1,5 +1,5 @@
 ---
-display_name: Set Removal Event Request Settings
+title: Set Removal Event Request Settings
 order: 11
 ---
 ## Navigation

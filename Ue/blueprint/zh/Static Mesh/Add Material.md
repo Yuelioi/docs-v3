@@ -1,5 +1,5 @@
 ---
-display_name: Add Material
+title: Add Material
 order: 1
 ---
 ## Navigation

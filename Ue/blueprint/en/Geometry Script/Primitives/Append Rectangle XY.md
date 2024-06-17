@@ -1,5 +1,5 @@
 ---
-display_name: Append Rectangle XY
+title: Append Rectangle XY
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Element
+title: Remove Element
 order: 24
 ---
 ## Navigation

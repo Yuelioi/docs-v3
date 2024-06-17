@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Integer)
+title: Build String (Integer)
 order: 5
 ---
 ## Navigation

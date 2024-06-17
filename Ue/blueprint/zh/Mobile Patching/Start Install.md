@@ -1,5 +1,5 @@
 ---
-display_name: Start Install
+title: Start Install
 order: 6
 ---
 ## Navigation

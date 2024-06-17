@@ -1,5 +1,5 @@
 ---
-display_name: Get AudioWidgetSubsystem
+title: Get AudioWidgetSubsystem
 order: 6
 ---
 ## Navigation

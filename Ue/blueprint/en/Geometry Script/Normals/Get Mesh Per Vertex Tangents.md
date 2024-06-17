@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Per Vertex Tangents
+title: Get Mesh Per Vertex Tangents
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Image Center Algos
+title: Get Camera Image Center Algos
 order: 6
 ---
 ## Navigation

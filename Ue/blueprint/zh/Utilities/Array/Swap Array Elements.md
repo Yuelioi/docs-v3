@@ -1,5 +1,5 @@
 ---
-display_name: Swap Array Elements
+title: Swap Array Elements
 order: 28
 ---
 ## Navigation

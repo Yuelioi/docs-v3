@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Agent Num
+title: Get Max Agent Num
 order: 89
 ---
 ## Navigation

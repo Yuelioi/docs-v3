@@ -1,5 +1,5 @@
 ---
-display_name: Convert Index List to Mesh Selection
+title: Convert Index List to Mesh Selection
 order: 3
 ---
 ## Navigation

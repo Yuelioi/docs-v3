@@ -1,5 +1,5 @@
 ---
-display_name: Set Solver Active
+title: Set Solver Active
 order: 29
 ---
 ## Navigation

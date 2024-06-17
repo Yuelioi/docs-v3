@@ -1,5 +1,5 @@
 ---
-display_name: Get Map Path
+title: Get Map Path
 order: 9
 ---
 ## Navigation

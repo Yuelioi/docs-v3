@@ -1,5 +1,5 @@
 ---
-display_name: Run
+title: Run
 order: 10
 ---
 ## Navigation

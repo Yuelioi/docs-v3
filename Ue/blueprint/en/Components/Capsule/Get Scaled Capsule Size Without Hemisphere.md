@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Capsule Size Without Hemisphere
+title: Get Scaled Capsule Size Without Hemisphere
 order: 4
 ---
 ## Navigation

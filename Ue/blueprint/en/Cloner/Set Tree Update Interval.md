@@ -1,5 +1,5 @@
 ---
-display_name: Set Tree Update Interval
+title: Set Tree Update Interval
 order: 61
 ---
 ## Navigation

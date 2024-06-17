@@ -1,5 +1,5 @@
 ---
-display_name: Get Bitmask Action
+title: Get Bitmask Action
 order: 41
 ---
 ## Navigation

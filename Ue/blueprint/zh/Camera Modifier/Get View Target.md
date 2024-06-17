@@ -1,5 +1,5 @@
 ---
-display_name: Get View Target
+title: Get View Target
 order: 3
 ---
 ## Navigation

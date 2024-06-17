@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Evaluation Distance to Newest Sample Mean
+title: Get Input Evaluation Distance to Newest Sample Mean
 order: 7
 ---
 ## Navigation

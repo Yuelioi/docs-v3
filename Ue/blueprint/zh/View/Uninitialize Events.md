@@ -1,5 +1,5 @@
 ---
-display_name: Uninitialize Events
+title: Uninitialize Events
 order: 14
 ---
 ## Navigation

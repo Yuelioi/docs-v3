@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile
+title: Get Tile
 order: 20
 ---
 ## Navigation

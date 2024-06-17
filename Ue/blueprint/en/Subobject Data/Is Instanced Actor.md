@@ -1,5 +1,5 @@
 ---
-display_name: Is Instanced Actor
+title: Is Instanced Actor
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Inner Extent
+title: Get Inner Extent
 order: 3
 ---
 ## Navigation

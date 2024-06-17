@@ -1,5 +1,5 @@
 ---
-display_name: Extract Event Data
+title: Extract Event Data
 order: 6
 ---
 ## Navigation

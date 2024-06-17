@@ -1,5 +1,5 @@
 ---
-display_name: Connect to Provider
+title: Connect to Provider
 order: 16
 ---
 ## Navigation

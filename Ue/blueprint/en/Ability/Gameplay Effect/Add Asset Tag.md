@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset Tag
+title: Add Asset Tag
 order: 1
 ---
 ## Navigation

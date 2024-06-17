@@ -1,5 +1,5 @@
 ---
-display_name: Set Send DMXEnabled
+title: Set Send DMXEnabled
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Analyzing Output
+title: Stop Analyzing Output
 order: 8
 ---
 ## Navigation

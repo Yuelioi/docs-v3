@@ -1,5 +1,5 @@
 ---
-display_name: Set Stretch
+title: Set Stretch
 order: 85
 ---
 ## Navigation

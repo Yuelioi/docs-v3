@@ -1,5 +1,5 @@
 ---
-display_name: Set Polygon Polygon Group
+title: Set Polygon Polygon Group
 order: 92
 ---
 ## Navigation

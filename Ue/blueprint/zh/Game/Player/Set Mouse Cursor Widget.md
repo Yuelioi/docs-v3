@@ -1,5 +1,5 @@
 ---
-display_name: Set Mouse Cursor Widget
+title: Set Mouse Cursor Widget
 order: 27
 ---
 ## Navigation

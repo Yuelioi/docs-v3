@@ -1,5 +1,5 @@
 ---
-display_name: End Ability State
+title: End Ability State
 order: 13
 ---
 ## Navigation

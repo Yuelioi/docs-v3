@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Desired Height
+title: Set Max Desired Height
 order: 11
 ---
 ## Navigation

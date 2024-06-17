@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Tracking Quality
+title: Get AR Tracking Quality
 order: 4
 ---
 ## Navigation

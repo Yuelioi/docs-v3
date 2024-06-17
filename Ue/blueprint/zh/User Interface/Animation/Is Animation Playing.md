@@ -1,5 +1,5 @@
 ---
-display_name: Is Animation Playing
+title: Is Animation Playing
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Constant Force
+title: Apply Root Motion Constant Force
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Bool
+title: Set Control Bool
 order: 27
 ---
 ## Navigation

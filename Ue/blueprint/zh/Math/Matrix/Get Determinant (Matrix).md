@@ -1,5 +1,5 @@
 ---
-display_name: Get Determinant (Matrix)
+title: Get Determinant (Matrix)
 order: 5
 ---
 ## Navigation

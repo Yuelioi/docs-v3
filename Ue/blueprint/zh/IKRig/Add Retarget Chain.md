@@ -1,5 +1,5 @@
 ---
-display_name: Add Retarget Chain
+title: Add Retarget Chain
 order: 3
 ---
 ## Navigation

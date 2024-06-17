@@ -1,5 +1,5 @@
 ---
-display_name: Draw Polygon
+title: Draw Polygon
 order: 8
 ---
 ## Navigation

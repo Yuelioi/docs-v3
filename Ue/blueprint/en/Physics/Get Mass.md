@@ -1,5 +1,5 @@
 ---
-display_name: Get Mass
+title: Get Mass
 order: 76
 ---
 ## Navigation

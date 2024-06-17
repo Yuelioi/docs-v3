@@ -1,5 +1,5 @@
 ---
-display_name: setprimgroup
+title: setprimgroup
 order: 11
 ---
 `int  setprimgroup(int geohandle, string name, int prim_num, int value, string mode="set")`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Byte
+title: Get Value Byte
 order: 5
 ---
 ## Navigation

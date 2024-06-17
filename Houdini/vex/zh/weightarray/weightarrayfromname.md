@@ -1,5 +1,5 @@
 ---
-display_name: weightarrayfromname
+title: weightarrayfromname
 order: 2
 ---
 The weight of the entry is initialized to 1.0.

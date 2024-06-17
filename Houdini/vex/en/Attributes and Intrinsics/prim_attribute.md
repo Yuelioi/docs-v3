@@ -1,5 +1,5 @@
 ---
-display_name: prim_attribute
+title: prim_attribute
 order: 45
 ---
 This function specifies the position using *intrinsic primitive UVs*. To use UVs stored in UV attribute, use [uvsample](uvsample.html "Interpolates the value of an attribute at certain UV coordinates using a UV attribute.") instead.

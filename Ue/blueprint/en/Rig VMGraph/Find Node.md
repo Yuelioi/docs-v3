@@ -1,5 +1,5 @@
 ---
-display_name: Find Node
+title: Find Node
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Currently Rendering Queue
+title: Get Currently Rendering Queue
 order: 6
 ---
 ## Navigation

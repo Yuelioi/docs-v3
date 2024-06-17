@@ -1,5 +1,5 @@
 ---
-display_name: Broadcast Event
+title: Broadcast Event
 order: 3
 ---
 ## Navigation

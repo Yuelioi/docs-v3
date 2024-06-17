@@ -1,5 +1,5 @@
 ---
-display_name: Clear Actor Cache
+title: Clear Actor Cache
 order: 1
 ---
 ## Navigation

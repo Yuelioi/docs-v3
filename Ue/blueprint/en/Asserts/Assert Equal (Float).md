@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Float)
+title: Assert Equal (Float)
 order: 5
 ---
 ## Navigation

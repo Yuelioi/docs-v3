@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor from Data Layer
+title: Remove Actor from Data Layer
 order: 30
 ---
 ## Navigation

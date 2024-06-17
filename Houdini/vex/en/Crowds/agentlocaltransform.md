@@ -1,5 +1,5 @@
 ---
-display_name: agentlocaltransform
+title: agentlocaltransform
 order: 30
 ---
 `matrix  agentlocaltransform(<geometry>geometry, int prim, int transform)`

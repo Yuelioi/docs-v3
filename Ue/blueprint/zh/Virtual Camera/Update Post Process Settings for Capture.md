@@ -1,5 +1,5 @@
 ---
-display_name: Update Post Process Settings for Capture
+title: Update Post Process Settings for Capture
 order: 7
 ---
 ## Navigation

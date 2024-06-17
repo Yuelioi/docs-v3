@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Bool)
+title: Remove Key (Bool)
 order: 91
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Float
+title: Set Float
 order: 20
 ---
 ## Navigation

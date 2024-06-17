@@ -1,5 +1,5 @@
 ---
-display_name: Remove Animation Notify Events by Name
+title: Remove Animation Notify Events by Name
 order: 9
 ---
 ## Navigation

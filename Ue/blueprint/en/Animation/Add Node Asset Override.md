@@ -1,5 +1,5 @@
 ---
-display_name: Add Node Asset Override
+title: Add Node Asset Override
 order: 3
 ---
 ## Navigation

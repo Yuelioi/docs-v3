@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDIProgram Change
+title: Send MIDIProgram Change
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Simplify to Tolerance
+title: Apply Simplify to Tolerance
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Struct
+title: Is Struct
 order: 49
 ---
 ## Navigation

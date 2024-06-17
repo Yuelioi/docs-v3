@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Input Cmd
+title: Get Last Input Cmd
 order: 11
 ---
 ## Navigation

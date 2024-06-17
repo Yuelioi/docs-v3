@@ -1,5 +1,5 @@
 ---
-display_name: Get Sorting Order
+title: Get Sorting Order
 order: 52
 ---
 ## Navigation

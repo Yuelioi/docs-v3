@@ -1,5 +1,5 @@
 ---
-display_name: Builder
+title: Builder
 order: 1
 ---
 ## Navigation

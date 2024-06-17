@@ -1,5 +1,5 @@
 ---
-display_name: Remove Factory Dependency Uid
+title: Remove Factory Dependency Uid
 order: 59
 ---
 ## Navigation

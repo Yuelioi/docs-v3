@@ -1,5 +1,5 @@
 ---
-display_name: Create New Light Weight Instance
+title: Create New Light Weight Instance
 order: 2
 ---
 ## Navigation

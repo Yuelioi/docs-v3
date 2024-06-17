@@ -1,5 +1,5 @@
 ---
-display_name: Set Integer Array Parameter (Message)
+title: Set Integer Array Parameter (Message)
 order: 21
 ---
 ## Navigation

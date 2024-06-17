@@ -1,5 +1,5 @@
 ---
-display_name: Set Task Notification Text
+title: Set Task Notification Text
 order: 2
 ---
 ## Navigation

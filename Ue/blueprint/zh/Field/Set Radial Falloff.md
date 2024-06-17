@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Falloff
+title: Set Radial Falloff
 order: 24
 ---
 ## Navigation

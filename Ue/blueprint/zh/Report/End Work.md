@@ -1,5 +1,5 @@
 ---
-display_name: End Work
+title: End Work
 order: 2
 ---
 ## Navigation

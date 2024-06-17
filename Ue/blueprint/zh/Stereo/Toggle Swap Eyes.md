@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Swap Eyes
+title: Toggle Swap Eyes
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Hour 12
+title: Get Hour 12
 order: 17
 ---
 ## Navigation

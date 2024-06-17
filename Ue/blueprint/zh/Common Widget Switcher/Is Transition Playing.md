@@ -1,5 +1,5 @@
 ---
-display_name: Is Transition Playing
+title: Is Transition Playing
 order: 5
 ---
 ## Navigation

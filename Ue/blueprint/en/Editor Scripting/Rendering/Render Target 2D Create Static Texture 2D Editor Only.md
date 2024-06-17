@@ -1,5 +1,5 @@
 ---
-display_name: Render Target 2D Create Static Texture 2D Editor Only
+title: Render Target 2D Create Static Texture 2D Editor Only
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create New Groom Binding Asset
+title: Create New Groom Binding Asset
 order: 4
 ---
 ## Navigation

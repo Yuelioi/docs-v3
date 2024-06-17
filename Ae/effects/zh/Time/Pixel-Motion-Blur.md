@@ -1,6 +1,6 @@
 ---
 order: 4
-display_name: 像素运动模糊
+title: 像素运动模糊
 ---
 
 # Pixel Motion Blur - 像素运动模糊

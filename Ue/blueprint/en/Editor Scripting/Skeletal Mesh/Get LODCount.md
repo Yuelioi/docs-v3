@@ -1,5 +1,5 @@
 ---
-display_name: Get LODCount
+title: Get LODCount
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Max Value (DateTime)
+title: Max Value (DateTime)
 order: 29
 ---
 ## Navigation

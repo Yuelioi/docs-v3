@@ -1,5 +1,5 @@
 ---
-display_name: Force Nav Mesh Update
+title: Force Nav Mesh Update
 order: 4
 ---
 ## Navigation

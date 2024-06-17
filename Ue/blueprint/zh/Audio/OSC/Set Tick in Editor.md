@@ -1,5 +1,5 @@
 ---
-display_name: Set Tick in Editor
+title: Set Tick in Editor
 order: 73
 ---
 ## Navigation

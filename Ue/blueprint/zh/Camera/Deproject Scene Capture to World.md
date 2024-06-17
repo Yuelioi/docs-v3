@@ -1,5 +1,5 @@
 ---
-display_name: Deproject Scene Capture to World
+title: Deproject Scene Capture to World
 order: 5
 ---
 ## Navigation

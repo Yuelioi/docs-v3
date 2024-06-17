@@ -1,5 +1,5 @@
 ---
-display_name: Fixed Turn
+title: Fixed Turn
 order: 11
 ---
 ## Navigation

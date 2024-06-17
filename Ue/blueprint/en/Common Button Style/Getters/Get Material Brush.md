@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Brush
+title: Get Material Brush
 order: 5
 ---
 ## Navigation

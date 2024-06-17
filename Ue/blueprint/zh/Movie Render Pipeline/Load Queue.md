@@ -1,5 +1,5 @@
 ---
-display_name: Load Queue
+title: Load Queue
 order: 78
 ---
 ## Navigation

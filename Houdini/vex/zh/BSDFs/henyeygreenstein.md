@@ -1,5 +1,5 @@
 ---
-display_name: henyeygreenstein
+title: henyeygreenstein
 order: 13
 ---
 `bsdf  henyeygreenstein(float anisotropic_bias, ...)`

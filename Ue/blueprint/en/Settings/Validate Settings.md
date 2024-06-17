@@ -1,5 +1,5 @@
 ---
-display_name: Validate Settings
+title: Validate Settings
 order: 5
 ---
 ## Navigation

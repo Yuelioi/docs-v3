@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Value
+title: Set Curve Value
 order: 142
 ---
 ## Navigation

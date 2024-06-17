@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Attribute by Metadata Key
+title: Set Bool Attribute by Metadata Key
 order: 74
 ---
 ## Navigation

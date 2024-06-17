@@ -1,5 +1,5 @@
 ---
-display_name: Get Forward Axis
+title: Get Forward Axis
 order: 8
 ---
 ## Navigation

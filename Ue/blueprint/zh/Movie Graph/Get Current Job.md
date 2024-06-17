@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Job
+title: Get Current Job
 order: 15
 ---
 ## Navigation

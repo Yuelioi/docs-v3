@@ -1,5 +1,5 @@
 ---
-display_name: Find Bool Parameter Name Index
+title: Find Bool Parameter Name Index
 order: 7
 ---
 ## Navigation

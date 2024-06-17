@@ -1,5 +1,5 @@
 ---
-display_name: chprim_end
+title: chprim_end
 order: 3
 ---
 `float  chprim_end(<geometry>geometry, int prim)`

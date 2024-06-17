@@ -1,5 +1,5 @@
 ---
-display_name: To LinearColor (Float)
+title: To LinearColor (Float)
 order: 21
 ---
 ## Navigation

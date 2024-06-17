@@ -1,5 +1,5 @@
 ---
-display_name: Get Install Progress
+title: Get Install Progress
 order: 3
 ---
 ## Navigation

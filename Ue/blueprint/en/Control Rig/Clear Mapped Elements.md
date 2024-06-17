@@ -1,5 +1,5 @@
 ---
-display_name: Clear Mapped Elements
+title: Clear Mapped Elements
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Standalone
+title: Is Standalone
 order: 9
 ---
 ## Navigation

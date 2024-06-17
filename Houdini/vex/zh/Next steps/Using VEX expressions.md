@@ -1,5 +1,5 @@
 ---
-display_name: Using VEX expressions
+title: Using VEX expressions
 order: 5
 ---
 | On this page | * [Overview](#overview) * [Why VEX for ad-hoc modifications?](#why) * [Syntax](#syntax) * [Gotchas](#gotchas) * [Accessing parameter values](#parameters) * [Accessing geometry attributes and info](#attributes)   + [Non-float attributes with known types](#known)  + [Accessing attributes on other inputs](#other_inputs) * [Setting geometry attributes](#setgeoattrs) * [Indexing variables](#indexing) * [Arrays](#arrays) * [Declaring attributes](#declare) * [Accessing globals](#accessing-globals) * [Creating geometry](#creating-geometry) * [Geometry traversal functions](#traverse) * [Accessing group membership](#groups) * [User-defined functions](#user-defined-functions) * [Includes](#includes) * [Tips](#tips) * [Troubleshooting error messages](#troubleshooting-error-messages) |

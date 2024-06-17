@@ -1,5 +1,5 @@
 ---
-display_name: Try Walk to Slide Along Surface
+title: Try Walk to Slide Along Surface
 order: 6
 ---
 ## Navigation

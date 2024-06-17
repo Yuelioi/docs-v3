@@ -1,5 +1,5 @@
 ---
-display_name: Reset Key Profile to Default
+title: Reset Key Profile to Default
 order: 26
 ---
 ## Navigation

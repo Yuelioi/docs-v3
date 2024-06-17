@@ -1,5 +1,5 @@
 ---
-display_name: Get Flight Speed
+title: Get Flight Speed
 order: 15
 ---
 ## Navigation

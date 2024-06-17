@@ -1,5 +1,5 @@
 ---
-display_name: 颜色范围
+title: 颜色范围
 order: 4
 ---
 

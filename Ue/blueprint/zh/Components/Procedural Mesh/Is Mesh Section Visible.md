@@ -1,5 +1,5 @@
 ---
-display_name: Is Mesh Section Visible
+title: Is Mesh Section Visible
 order: 16
 ---
 ## Navigation

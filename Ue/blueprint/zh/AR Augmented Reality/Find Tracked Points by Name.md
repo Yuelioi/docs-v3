@@ -1,5 +1,5 @@
 ---
-display_name: Find Tracked Points by Name
+title: Find Tracked Points by Name
 order: 2
 ---
 ## Navigation

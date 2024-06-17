@@ -1,5 +1,5 @@
 ---
-display_name: Setup from Standard
+title: Setup from Standard
 order: 3
 ---
 ## Navigation

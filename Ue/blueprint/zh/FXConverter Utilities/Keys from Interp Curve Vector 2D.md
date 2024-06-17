@@ -1,5 +1,5 @@
 ---
-display_name: Keys from Interp Curve Vector 2D
+title: Keys from Interp Curve Vector 2D
 order: 116
 ---
 ## Navigation

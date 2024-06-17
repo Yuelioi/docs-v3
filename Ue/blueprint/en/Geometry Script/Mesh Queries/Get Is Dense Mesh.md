@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Dense Mesh
+title: Get Is Dense Mesh
 order: 19
 ---
 ## Navigation

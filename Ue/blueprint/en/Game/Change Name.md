@@ -1,5 +1,5 @@
 ---
-display_name: Change Name
+title: Change Name
 order: 6
 ---
 ## Navigation

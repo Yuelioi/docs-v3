@@ -1,5 +1,5 @@
 ---
-display_name: Get Modulator Value
+title: Get Modulator Value
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply PNTessellation
+title: Apply PNTessellation
 order: 1
 ---
 ## Navigation

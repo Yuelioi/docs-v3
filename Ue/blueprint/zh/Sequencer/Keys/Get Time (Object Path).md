@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Object Path)
+title: Get Time (Object Path)
 order: 63
 ---
 ## Navigation

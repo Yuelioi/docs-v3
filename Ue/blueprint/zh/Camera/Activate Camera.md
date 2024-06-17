@@ -1,5 +1,5 @@
 ---
-display_name: Activate Camera
+title: Activate Camera
 order: 1
 ---
 ## Navigation

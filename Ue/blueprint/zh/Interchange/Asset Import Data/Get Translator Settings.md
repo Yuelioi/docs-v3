@@ -1,5 +1,5 @@
 ---
-display_name: Get Translator Settings
+title: Get Translator Settings
 order: 6
 ---
 ## Navigation

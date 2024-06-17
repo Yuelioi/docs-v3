@@ -1,5 +1,5 @@
 ---
-display_name: Update Actor Visibility
+title: Update Actor Visibility
 order: 44
 ---
 ## Navigation

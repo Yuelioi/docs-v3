@@ -1,5 +1,5 @@
 ---
-display_name: Audio Output Device Info To String
+title: Audio Output Device Info To String
 order: 12
 ---
 ## Navigation

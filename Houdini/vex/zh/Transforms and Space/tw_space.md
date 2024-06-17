@@ -1,5 +1,5 @@
 ---
-display_name: tw_space
+title: tw_space
 order: 34
 ---
 `matrix  tw_space()`

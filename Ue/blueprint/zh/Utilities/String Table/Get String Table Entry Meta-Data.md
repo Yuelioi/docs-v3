@@ -1,5 +1,5 @@
 ---
-display_name: Get String Table Entry Meta-Data
+title: Get String Table Entry Meta-Data
 order: 4
 ---
 ## Navigation

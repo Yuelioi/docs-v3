@@ -1,5 +1,5 @@
 ---
-display_name: Compute Vertex Weighted Point Sampling
+title: Compute Vertex Weighted Point Sampling
 order: 5
 ---
 ## Navigation

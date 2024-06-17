@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Stamp
+title: Get Time Stamp
 order: 24
 ---
 ## Navigation

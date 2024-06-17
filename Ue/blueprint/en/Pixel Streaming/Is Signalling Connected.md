@@ -1,5 +1,5 @@
 ---
-display_name: Is Signalling Connected
+title: Is Signalling Connected
 order: 13
 ---
 ## Navigation

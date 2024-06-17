@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Cue Direction
+title: Get Gameplay Cue Direction
 order: 8
 ---
 ## Navigation

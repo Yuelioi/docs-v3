@@ -1,5 +1,5 @@
 ---
-display_name: Set Is ACine Camera Recording
+title: Set Is ACine Camera Recording
 order: 13
 ---
 ## Navigation

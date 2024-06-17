@@ -1,5 +1,5 @@
 ---
-display_name: Get Marks
+title: Get Marks
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: To Vector (Float)
+title: To Vector (Float)
 order: 30
 ---
 ## Navigation

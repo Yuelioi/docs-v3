@@ -1,5 +1,5 @@
 ---
-display_name: Set Gpu Compute Debug
+title: Set Gpu Compute Debug
 order: 22
 ---
 ## Navigation

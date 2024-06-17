@@ -1,5 +1,5 @@
 ---
-display_name: Jump to Bookmark in Level Editor
+title: Jump to Bookmark in Level Editor
 order: 18
 ---
 ## Navigation

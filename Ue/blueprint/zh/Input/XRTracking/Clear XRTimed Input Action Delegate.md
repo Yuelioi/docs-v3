@@ -1,5 +1,5 @@
 ---
-display_name: Clear XRTimed Input Action Delegate
+title: Clear XRTimed Input Action Delegate
 order: 3
 ---
 ## Navigation

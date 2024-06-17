@@ -1,5 +1,5 @@
 ---
-display_name: Remove Function Graph
+title: Remove Function Graph
 order: 6
 ---
 ## Navigation

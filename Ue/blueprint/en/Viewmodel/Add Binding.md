@@ -1,5 +1,5 @@
 ---
-display_name: Add Binding
+title: Add Binding
 order: 1
 ---
 ## Navigation

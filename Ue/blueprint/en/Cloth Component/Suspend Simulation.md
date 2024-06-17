@@ -1,5 +1,5 @@
 ---
-display_name: Suspend Simulation
+title: Suspend Simulation
 order: 12
 ---
 ## Navigation

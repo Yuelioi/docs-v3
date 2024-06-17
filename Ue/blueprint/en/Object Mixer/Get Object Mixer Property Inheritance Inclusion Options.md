@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Mixer Property Inheritance Inclusion Options
+title: Get Object Mixer Property Inheritance Inclusion Options
 order: 7
 ---
 ## Navigation

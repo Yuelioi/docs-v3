@@ -1,5 +1,5 @@
 ---
-display_name: Construct Object from Class
+title: Construct Object from Class
 order: 7
 ---
 ## Navigation

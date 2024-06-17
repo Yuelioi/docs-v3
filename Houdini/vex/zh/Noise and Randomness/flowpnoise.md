@@ -1,5 +1,5 @@
 ---
-display_name: flowpnoise
+title: flowpnoise
 order: 10
 ---
 `float  flowpnoise(vector xyz, vector p, float flow)`

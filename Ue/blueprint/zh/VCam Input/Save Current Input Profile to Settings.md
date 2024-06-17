@@ -1,5 +1,5 @@
 ---
-display_name: Save Current Input Profile to Settings
+title: Save Current Input Profile to Settings
 order: 7
 ---
 ## Navigation

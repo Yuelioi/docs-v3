@@ -1,5 +1,5 @@
 ---
-display_name: tet_adjacent
+title: tet_adjacent
 order: 1
 ---
 `int  tet_adjacent(<geometry>geometry, int primindex, int faceno)`

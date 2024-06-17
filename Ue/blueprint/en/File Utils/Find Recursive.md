@@ -1,5 +1,5 @@
 ---
-display_name: Find Recursive
+title: Find Recursive
 order: 7
 ---
 ## Navigation

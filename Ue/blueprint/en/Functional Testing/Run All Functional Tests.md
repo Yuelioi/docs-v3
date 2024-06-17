@@ -1,5 +1,5 @@
 ---
-display_name: Run All Functional Tests
+title: Run All Functional Tests
 order: 7
 ---
 ## Navigation

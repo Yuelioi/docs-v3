@@ -1,5 +1,5 @@
 ---
-display_name: Get SVGEngineSubsystem
+title: Get SVGEngineSubsystem
 order: 40
 ---
 ## Navigation

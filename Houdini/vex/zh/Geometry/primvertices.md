@@ -1,5 +1,5 @@
 ---
-display_name: primvertices
+title: primvertices
 order: 30
 ---
 `int [] primvertices(<geometry>geometry, int primnum)`

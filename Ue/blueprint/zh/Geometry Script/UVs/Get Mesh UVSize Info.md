@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh UVSize Info
+title: Get Mesh UVSize Info
 order: 10
 ---
 ## Navigation

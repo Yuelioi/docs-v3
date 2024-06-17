@@ -1,5 +1,5 @@
 ---
-display_name: Remove Animation Sync Markers by Track
+title: Remove Animation Sync Markers by Track
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is List Item Expanded
+title: Is List Item Expanded
 order: 2
 ---
 ## Navigation

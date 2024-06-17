@@ -1,5 +1,5 @@
 ---
-display_name: Reset Py Latent Command
+title: Reset Py Latent Command
 order: 3
 ---
 ## Navigation

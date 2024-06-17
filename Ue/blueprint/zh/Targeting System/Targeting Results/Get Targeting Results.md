@@ -1,5 +1,5 @@
 ---
-display_name: Get Targeting Results
+title: Get Targeting Results
 order: 2
 ---
 ## Navigation

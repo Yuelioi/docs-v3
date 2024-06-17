@@ -1,5 +1,5 @@
 ---
-display_name: Is Axis 3D
+title: Is Axis 3D
 order: 6
 ---
 ## Navigation

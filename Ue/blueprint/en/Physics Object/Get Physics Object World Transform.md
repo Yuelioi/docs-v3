@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Object World Transform
+title: Get Physics Object World Transform
 order: 5
 ---
 ## Navigation

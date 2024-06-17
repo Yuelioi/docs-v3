@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeletal Mesh Component
+title: Get Skeletal Mesh Component
 order: 5
 ---
 ## Navigation

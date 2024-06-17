@@ -1,5 +1,5 @@
 ---
-display_name: Find or Add Module Event Script
+title: Find or Add Module Event Script
 order: 32
 ---
 ## Navigation

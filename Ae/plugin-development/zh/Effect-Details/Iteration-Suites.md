@@ -1,5 +1,5 @@
 ---
-display_name: Iteration-Suites
+title: Iteration-Suites
 order: 12
 ---
 

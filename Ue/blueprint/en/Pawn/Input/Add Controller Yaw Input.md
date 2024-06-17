@@ -1,5 +1,5 @@
 ---
-display_name: Add Controller Yaw Input
+title: Add Controller Yaw Input
 order: 3
 ---
 ## Navigation

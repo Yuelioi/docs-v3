@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Preset
+title: Get Graph Preset
 order: 40
 ---
 ## Navigation

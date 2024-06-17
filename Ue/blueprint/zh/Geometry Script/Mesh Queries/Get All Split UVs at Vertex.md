@@ -1,5 +1,5 @@
 ---
-display_name: Get All Split UVs at Vertex
+title: Get All Split UVs at Vertex
 order: 3
 ---
 ## Navigation

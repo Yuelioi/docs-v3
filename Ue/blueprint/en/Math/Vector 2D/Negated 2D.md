@@ -1,5 +1,5 @@
 ---
-display_name: Negated 2D
+title: Negated 2D
 order: 16
 ---
 ## Navigation

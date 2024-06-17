@@ -1,5 +1,5 @@
 ---
-display_name: Get Job Status Percentage
+title: Get Job Status Percentage
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Mouse Wheel Down
+title: Mouse Wheel Down
 order: 4
 ---
 ## Navigation

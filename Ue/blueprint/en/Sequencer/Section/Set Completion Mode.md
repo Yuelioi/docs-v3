@@ -1,5 +1,5 @@
 ---
-display_name: Set Completion Mode
+title: Set Completion Mode
 order: 72
 ---
 ## Navigation

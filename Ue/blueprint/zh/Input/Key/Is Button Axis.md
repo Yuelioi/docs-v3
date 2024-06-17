@@ -1,5 +1,5 @@
 ---
-display_name: Is Button Axis
+title: Is Button Axis
 order: 7
 ---
 ## Navigation

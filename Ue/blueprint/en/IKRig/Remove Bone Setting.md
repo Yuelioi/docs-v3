@@ -1,5 +1,5 @@
 ---
-display_name: Remove Bone Setting
+title: Remove Bone Setting
 order: 34
 ---
 ## Navigation

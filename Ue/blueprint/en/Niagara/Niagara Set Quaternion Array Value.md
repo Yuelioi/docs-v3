@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Quaternion Array Value
+title: Niagara Set Quaternion Array Value
 order: 66
 ---
 ## Navigation

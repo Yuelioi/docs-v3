@@ -1,5 +1,5 @@
 ---
-display_name: Get Avoidance Velocity for Component
+title: Get Avoidance Velocity for Component
 order: 8
 ---
 ## Navigation

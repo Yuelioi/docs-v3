@@ -1,5 +1,5 @@
 ---
-display_name: Get MIDIPitch from Frequency
+title: Get MIDIPitch from Frequency
 order: 10
 ---
 ## Navigation

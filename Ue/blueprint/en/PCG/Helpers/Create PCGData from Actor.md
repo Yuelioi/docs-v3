@@ -1,5 +1,5 @@
 ---
-display_name: Create PCGData from Actor
+title: Create PCGData from Actor
 order: 2
 ---
 ## Navigation

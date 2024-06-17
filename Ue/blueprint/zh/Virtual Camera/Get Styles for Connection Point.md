@@ -1,5 +1,5 @@
 ---
-display_name: Get Styles for Connection Point
+title: Get Styles for Connection Point
 order: 44
 ---
 ## Navigation

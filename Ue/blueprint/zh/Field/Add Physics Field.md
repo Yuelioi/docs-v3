@@ -1,5 +1,5 @@
 ---
-display_name: Add Physics Field
+title: Add Physics Field
 order: 3
 ---
 ## Navigation

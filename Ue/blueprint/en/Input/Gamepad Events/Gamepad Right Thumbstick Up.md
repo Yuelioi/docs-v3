@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick Up
+title: Gamepad Right Thumbstick Up
 order: 26
 ---
 ## Navigation

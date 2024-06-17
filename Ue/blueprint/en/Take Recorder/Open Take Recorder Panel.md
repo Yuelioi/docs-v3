@@ -1,5 +1,5 @@
 ---
-display_name: Open Take Recorder Panel
+title: Open Take Recorder Panel
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Register Menu Entry
+title: Register Menu Entry
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reticle
+title: Reticle
 order: 67
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: UIPieMenu UIPopover UIPopupMenu
+title: UIPieMenu UIPopover UIPopupMenu
 order: 14
 ---
 

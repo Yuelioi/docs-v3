@@ -1,5 +1,5 @@
 ---
-display_name: Get Runtime Info
+title: Get Runtime Info
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Release Niagara GPURay Traced Collision Group
+title: Release Niagara GPURay Traced Collision Group
 order: 6
 ---
 ## Navigation

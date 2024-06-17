@@ -1,5 +1,5 @@
 ---
-display_name: Get Bounding Box
+title: Get Bounding Box
 order: 6
 ---
 ## Navigation

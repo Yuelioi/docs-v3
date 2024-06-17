@@ -1,5 +1,5 @@
 ---
-display_name: To String (SmartObjectSlotHandle)
+title: To String (SmartObjectSlotHandle)
 order: 79
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create ARPin Around Azure Cloud Spatial Anchor
+title: Create ARPin Around Azure Cloud Spatial Anchor
 order: 2
 ---
 ## Navigation

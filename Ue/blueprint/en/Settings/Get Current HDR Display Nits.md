@@ -1,5 +1,5 @@
 ---
-display_name: Get Current HDR Display Nits
+title: Get Current HDR Display Nits
 order: 33
 ---
 ## Navigation

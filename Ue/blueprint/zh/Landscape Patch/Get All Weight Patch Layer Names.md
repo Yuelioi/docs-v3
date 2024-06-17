@@ -1,5 +1,5 @@
 ---
-display_name: Get All Weight Patch Layer Names
+title: Get All Weight Patch Layer Names
 order: 6
 ---
 ## Navigation

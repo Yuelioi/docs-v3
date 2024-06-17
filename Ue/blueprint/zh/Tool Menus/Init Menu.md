@@ -1,5 +1,5 @@
 ---
-display_name: Init Menu
+title: Init Menu
 order: 22
 ---
 ## Navigation

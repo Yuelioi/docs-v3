@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Init State Delegate
+title: Unregister Init State Delegate
 order: 14
 ---
 ## Navigation

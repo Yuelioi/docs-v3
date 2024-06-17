@@ -1,5 +1,5 @@
 ---
-display_name: Unlock Mouse
+title: Unlock Mouse
 order: 9
 ---
 ## Navigation

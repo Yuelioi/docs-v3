@@ -1,5 +1,5 @@
 ---
-display_name: Set Double Parameter
+title: Set Double Parameter
 order: 25
 ---
 ## Navigation

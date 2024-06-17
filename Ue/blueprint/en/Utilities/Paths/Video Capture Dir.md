@@ -1,5 +1,5 @@
 ---
-display_name: Video Capture Dir
+title: Video Capture Dir
 order: 88
 ---
 ## Navigation

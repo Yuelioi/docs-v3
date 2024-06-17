@@ -1,5 +1,5 @@
 ---
-display_name: Set Hidden
+title: Set Hidden
 order: 119
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Source Pins
+title: Get Linked Source Pins
 order: 15
 ---
 ## Navigation

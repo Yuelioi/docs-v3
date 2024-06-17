@@ -1,5 +1,5 @@
 ---
-display_name: Get CEEffectorSubsystem
+title: Get CEEffectorSubsystem
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is String Table Registered
+title: Is String Table Registered
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Platform Names
+title: Get Supported Platform Names
 order: 7
 ---
 ## Navigation

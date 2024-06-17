@@ -1,5 +1,5 @@
 ---
-display_name: Get ColorCorrectRegionsSubsystem
+title: Get ColorCorrectRegionsSubsystem
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Struct Action from Arrays
+title: Make Struct Action from Arrays
 order: 239
 ---
 ## Navigation

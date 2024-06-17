@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys (Object Path)
+title: Get Keys (Object Path)
 order: 35
 ---
 ## Navigation

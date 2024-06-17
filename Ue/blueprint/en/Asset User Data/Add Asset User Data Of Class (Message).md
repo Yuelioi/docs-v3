@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset User Data Of Class (Message)
+title: Add Asset User Data Of Class (Message)
 order: 1
 ---
 ## Navigation

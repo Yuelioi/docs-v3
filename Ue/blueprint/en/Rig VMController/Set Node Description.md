@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Description
+title: Set Node Description
 order: 113
 ---
 ## Navigation

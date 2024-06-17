@@ -1,5 +1,5 @@
 ---
-display_name: Close Curve Editor
+title: Close Curve Editor
 order: 1
 ---
 ## Navigation

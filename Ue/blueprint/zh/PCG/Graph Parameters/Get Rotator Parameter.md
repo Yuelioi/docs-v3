@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator Parameter
+title: Get Rotator Parameter
 order: 12
 ---
 ## Navigation

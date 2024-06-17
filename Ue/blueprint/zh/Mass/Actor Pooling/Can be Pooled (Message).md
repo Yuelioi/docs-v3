@@ -1,5 +1,5 @@
 ---
-display_name: Can be Pooled (Message)
+title: Can be Pooled (Message)
 order: 1
 ---
 ## Navigation

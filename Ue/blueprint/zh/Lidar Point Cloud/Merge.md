@@ -1,5 +1,5 @@
 ---
-display_name: Merge
+title: Merge
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Resolution
+title: Get Custom Resolution
 order: 3
 ---
 ## Navigation

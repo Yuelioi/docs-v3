@@ -1,5 +1,5 @@
 ---
-display_name: Set Fill Span when Less Than
+title: Set Fill Span when Less Than
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Value
+title: Add Value
 order: 6
 ---
 ## Navigation

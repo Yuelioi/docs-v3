@@ -1,5 +1,5 @@
 ---
-display_name: Finalise Control Points
+title: Finalise Control Points
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Actor Hit
+title: On Actor Hit
 order: 60
 ---
 ## Navigation

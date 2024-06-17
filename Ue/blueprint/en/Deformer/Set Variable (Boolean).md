@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable (Boolean)
+title: Set Variable (Boolean)
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Was Input Key Just Pressed
+title: Was Input Key Just Pressed
 order: 31
 ---
 ## Navigation

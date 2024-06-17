@@ -1,5 +1,5 @@
 ---
-display_name: Reset Localizable Message
+title: Reset Localizable Message
 order: 3
 ---
 ## Navigation

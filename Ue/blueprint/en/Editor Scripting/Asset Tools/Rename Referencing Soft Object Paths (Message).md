@@ -1,5 +1,5 @@
 ---
-display_name: Rename Referencing Soft Object Paths (Message)
+title: Rename Referencing Soft Object Paths (Message)
 order: 40
 ---
 ## Navigation

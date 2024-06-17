@@ -1,5 +1,5 @@
 ---
-display_name: Get Detected Object
+title: Get Detected Object
 order: 3
 ---
 ## Navigation

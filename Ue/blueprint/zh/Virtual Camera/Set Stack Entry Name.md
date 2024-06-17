@@ -1,5 +1,5 @@
 ---
-display_name: Set Stack Entry Name
+title: Set Stack Entry Name
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: StopRecording
+title: StopRecording
 order: 89
 ---
 ## Navigation

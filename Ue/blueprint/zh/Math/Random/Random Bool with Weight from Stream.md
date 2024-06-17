@@ -1,5 +1,5 @@
 ---
-display_name: Random Bool with Weight from Stream
+title: Random Bool with Weight from Stream
 order: 11
 ---
 ## Navigation

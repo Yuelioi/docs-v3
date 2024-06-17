@@ -1,5 +1,5 @@
 ---
-display_name: Inverse Transform Location
+title: Inverse Transform Location
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Box Sphere Bounds
+title: Make Box Sphere Bounds
 order: 2
 ---
 ## Navigation

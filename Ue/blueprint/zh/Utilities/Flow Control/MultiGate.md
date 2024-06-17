@@ -1,5 +1,5 @@
 ---
-display_name: MultiGate
+title: MultiGate
 order: 5
 ---
 ## Navigation

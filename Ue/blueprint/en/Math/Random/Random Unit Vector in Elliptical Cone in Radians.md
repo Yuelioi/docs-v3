@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Elliptical Cone in Radians
+title: Random Unit Vector in Elliptical Cone in Radians
 order: 41
 ---
 ## Navigation

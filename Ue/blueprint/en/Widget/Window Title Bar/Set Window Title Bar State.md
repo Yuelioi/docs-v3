@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Title Bar State
+title: Set Window Title Bar State
 order: 3
 ---
 ## Navigation

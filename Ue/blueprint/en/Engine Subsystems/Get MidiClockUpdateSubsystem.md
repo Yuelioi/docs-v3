@@ -1,5 +1,5 @@
 ---
-display_name: Get MidiClockUpdateSubsystem
+title: Get MidiClockUpdateSubsystem
 order: 33
 ---
 ## Navigation

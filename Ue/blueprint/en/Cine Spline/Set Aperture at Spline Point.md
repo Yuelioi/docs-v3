@@ -1,5 +1,5 @@
 ---
-display_name: Set Aperture at Spline Point
+title: Set Aperture at Spline Point
 order: 10
 ---
 ## Navigation

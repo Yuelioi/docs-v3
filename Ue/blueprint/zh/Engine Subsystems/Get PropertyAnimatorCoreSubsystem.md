@@ -1,5 +1,5 @@
 ---
-display_name: Get PropertyAnimatorCoreSubsystem
+title: Get PropertyAnimatorCoreSubsystem
 order: 37
 ---
 ## Navigation

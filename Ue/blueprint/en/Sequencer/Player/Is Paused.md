@@ -1,5 +1,5 @@
 ---
-display_name: Is Paused
+title: Is Paused
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Osc Message Received
+title: On Osc Message Received
 order: 58
 ---
 ## Navigation

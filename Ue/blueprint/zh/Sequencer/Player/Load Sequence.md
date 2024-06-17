@@ -1,5 +1,5 @@
 ---
-display_name: Load Sequence
+title: Load Sequence
 order: 23
 ---
 ## Navigation

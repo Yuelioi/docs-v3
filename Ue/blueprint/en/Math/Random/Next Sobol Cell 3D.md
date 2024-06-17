@@ -1,5 +1,5 @@
 ---
-display_name: Next Sobol Cell 3D
+title: Next Sobol Cell 3D
 order: 7
 ---
 ## Navigation

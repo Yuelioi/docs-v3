@@ -1,5 +1,5 @@
 ---
-display_name: ramp_pack
+title: ramp_pack
 order: 14
 ---
 | Since | 19.0 |

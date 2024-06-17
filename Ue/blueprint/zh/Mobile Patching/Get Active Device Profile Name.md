@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Device Profile Name
+title: Get Active Device Profile Name
 order: 1
 ---
 ## Navigation

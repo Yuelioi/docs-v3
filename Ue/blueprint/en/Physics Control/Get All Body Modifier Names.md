@@ -1,5 +1,5 @@
 ---
-display_name: Get All Body Modifier Names
+title: Get All Body Modifier Names
 order: 26
 ---
 ## Navigation

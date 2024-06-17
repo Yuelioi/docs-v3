@@ -1,5 +1,5 @@
 ---
-display_name: Start Recording Output
+title: Start Recording Output
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Left Texture
+title: Set Left Texture
 order: 9
 ---
 ## Navigation

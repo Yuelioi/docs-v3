@@ -1,5 +1,5 @@
 ---
-display_name: Get Disabled Text Style
+title: Get Disabled Text Style
 order: 4
 ---
 ## Navigation

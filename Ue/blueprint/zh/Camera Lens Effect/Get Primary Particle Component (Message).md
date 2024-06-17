@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Particle Component (Message)
+title: Get Primary Particle Component (Message)
 order: 3
 ---
 ## Navigation

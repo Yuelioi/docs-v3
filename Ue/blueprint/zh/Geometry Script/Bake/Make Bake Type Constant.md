@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Constant
+title: Make Bake Type Constant
 order: 7
 ---
 ## Navigation

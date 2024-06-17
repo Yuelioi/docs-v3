@@ -1,5 +1,5 @@
 ---
-display_name: Reset All Component Transforms
+title: Reset All Component Transforms
 order: 10
 ---
 ## Navigation

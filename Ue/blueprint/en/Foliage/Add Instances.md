@@ -1,5 +1,5 @@
 ---
-display_name: Add Instances
+title: Add Instances
 order: 1
 ---
 ## Navigation

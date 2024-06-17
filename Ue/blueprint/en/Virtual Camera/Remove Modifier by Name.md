@@ -1,5 +1,5 @@
 ---
-display_name: Remove Modifier by Name
+title: Remove Modifier by Name
 order: 16
 ---
 ## Navigation

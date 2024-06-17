@@ -1,5 +1,5 @@
 ---
-display_name: Set Update Animation in Editor
+title: Set Update Animation in Editor
 order: 28
 ---
 ## Navigation

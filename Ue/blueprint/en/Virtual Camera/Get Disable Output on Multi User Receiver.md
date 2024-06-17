@@ -1,5 +1,5 @@
 ---
-display_name: Get Disable Output on Multi User Receiver
+title: Get Disable Output on Multi User Receiver
 order: 18
 ---
 ## Navigation

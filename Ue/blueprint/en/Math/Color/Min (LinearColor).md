@@ -1,5 +1,5 @@
 ---
-display_name: Min (LinearColor)
+title: Min (LinearColor)
 order: 27
 ---
 ## Navigation

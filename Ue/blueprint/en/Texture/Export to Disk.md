@@ -1,5 +1,5 @@
 ---
-display_name: Export to Disk
+title: Export to Disk
 order: 1
 ---
 ## Navigation

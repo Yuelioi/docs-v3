@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Overlap
+title: Wait for Overlap
 order: 54
 ---
 ## Navigation

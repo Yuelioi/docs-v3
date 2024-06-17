@@ -1,5 +1,5 @@
 ---
-display_name: Copy Material Instance Parameters
+title: Copy Material Instance Parameters
 order: 1
 ---
 ## Navigation

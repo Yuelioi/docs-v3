@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired State
+title: Set Desired State
 order: 76
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Loop Mode
+title: Set Loop Mode
 order: 66
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Init Required
+title: Is Init Required
 order: 13
 ---
 ## Navigation

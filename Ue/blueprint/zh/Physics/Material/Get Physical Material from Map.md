@@ -1,5 +1,5 @@
 ---
-display_name: Get Physical Material from Map
+title: Get Physical Material from Map
 order: 2
 ---
 ## Navigation

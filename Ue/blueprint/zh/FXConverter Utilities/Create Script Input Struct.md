@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Struct
+title: Create Script Input Struct
 order: 21
 ---
 ## Navigation

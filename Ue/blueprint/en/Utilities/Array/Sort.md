@@ -1,5 +1,5 @@
 ---
-display_name: Sort
+title: Sort
 order: 27
 ---
 ## Navigation

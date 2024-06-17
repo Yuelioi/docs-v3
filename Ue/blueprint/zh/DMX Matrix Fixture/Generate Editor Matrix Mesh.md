@@ -1,5 +1,5 @@
 ---
-display_name: Generate Editor Matrix Mesh
+title: Generate Editor Matrix Mesh
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Current Record Within GPUBudget
+title: Is Current Record Within GPUBudget
 order: 14
 ---
 ## Navigation

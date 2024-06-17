@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Output on Multi User Receiver
+title: Set Disable Output on Multi User Receiver
 order: 6
 ---
 ## Navigation

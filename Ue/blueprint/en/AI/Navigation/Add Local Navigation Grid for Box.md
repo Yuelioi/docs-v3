@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Navigation Grid for Box
+title: Add Local Navigation Grid for Box
 order: 1
 ---
 ## Navigation

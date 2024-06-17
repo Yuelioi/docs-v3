@@ -1,5 +1,5 @@
 ---
-display_name: Get Scroll Offset
+title: Get Scroll Offset
 order: 37
 ---
 ## Navigation

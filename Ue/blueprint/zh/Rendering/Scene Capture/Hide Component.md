@@ -1,5 +1,5 @@
 ---
-display_name: Hide Component
+title: Hide Component
 order: 5
 ---
 ## Navigation

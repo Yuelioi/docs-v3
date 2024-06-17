@@ -1,5 +1,5 @@
 ---
-display_name: Get Mutable Slate Post Setting
+title: Get Mutable Slate Post Setting
 order: 1
 ---
 ## Navigation

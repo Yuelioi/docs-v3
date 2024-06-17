@@ -1,5 +1,5 @@
 ---
-display_name: ToggleSensorCorrection
+title: ToggleSensorCorrection
 order: 118
 ---
 ## Navigation

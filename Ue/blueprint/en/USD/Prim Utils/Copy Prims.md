@@ -1,5 +1,5 @@
 ---
-display_name: Copy Prims
+title: Copy Prims
 order: 3
 ---
 ## Navigation

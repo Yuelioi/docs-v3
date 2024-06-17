@@ -1,5 +1,5 @@
 ---
-display_name: Get Export Duration
+title: Get Export Duration
 order: 25
 ---
 ## Navigation

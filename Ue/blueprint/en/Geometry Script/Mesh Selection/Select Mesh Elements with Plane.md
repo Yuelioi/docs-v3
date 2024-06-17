@@ -1,5 +1,5 @@
 ---
-display_name: Select Mesh Elements with Plane
+title: Select Mesh Elements with Plane
 order: 18
 ---
 ## Navigation

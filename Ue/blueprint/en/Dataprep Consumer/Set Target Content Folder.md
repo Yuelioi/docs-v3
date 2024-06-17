@@ -1,5 +1,5 @@
 ---
-display_name: Set Target Content Folder
+title: Set Target Content Folder
 order: 6
 ---
 ## Navigation

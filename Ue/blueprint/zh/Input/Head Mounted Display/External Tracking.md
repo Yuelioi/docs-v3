@@ -1,5 +1,5 @@
 ---
-display_name: External Tracking
+title: External Tracking
 order: 2
 ---
 ## Navigation

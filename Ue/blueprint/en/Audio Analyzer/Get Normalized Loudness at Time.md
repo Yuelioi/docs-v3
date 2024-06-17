@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Loudness at Time
+title: Get Normalized Loudness at Time
 order: 9
 ---
 ## Navigation

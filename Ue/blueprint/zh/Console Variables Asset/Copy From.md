@@ -1,5 +1,5 @@
 ---
-display_name: Copy From
+title: Copy From
 order: 2
 ---
 ## Navigation

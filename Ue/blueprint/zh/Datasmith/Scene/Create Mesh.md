@@ -1,5 +1,5 @@
 ---
-display_name: Create Mesh
+title: Create Mesh
 order: 7
 ---
 ## Navigation

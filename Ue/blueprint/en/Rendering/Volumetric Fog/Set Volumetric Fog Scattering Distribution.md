@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog Scattering Distribution
+title: Set Volumetric Fog Scattering Distribution
 order: 6
 ---
 ## Navigation

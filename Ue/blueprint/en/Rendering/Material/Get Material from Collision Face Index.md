@@ -1,5 +1,5 @@
 ---
-display_name: Get Material from Collision Face Index
+title: Get Material from Collision Face Index
 order: 12
 ---
 ## Navigation

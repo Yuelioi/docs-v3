@@ -1,5 +1,5 @@
 ---
-display_name: Players Only
+title: Players Only
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Per Level Collision Profile Names
+title: Set Per Level Collision Profile Names
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Invoke Control Profile
+title: Invoke Control Profile
 order: 49
 ---
 ## Navigation

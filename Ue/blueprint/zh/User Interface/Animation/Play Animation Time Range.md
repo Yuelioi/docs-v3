@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation Time Range
+title: Play Animation Time Range
 order: 11
 ---
 ## Navigation

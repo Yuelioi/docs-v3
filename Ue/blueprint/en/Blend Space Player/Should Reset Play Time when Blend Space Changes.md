@@ -1,5 +1,5 @@
 ---
-display_name: Should Reset Play Time when Blend Space Changes
+title: Should Reset Play Time when Blend Space Changes
 order: 12
 ---
 ## Navigation

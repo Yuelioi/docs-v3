@@ -1,5 +1,5 @@
 ---
-display_name: Get InstancedActorsRepresentationSubsystem
+title: Get InstancedActorsRepresentationSubsystem
 order: 32
 ---
 ## Navigation

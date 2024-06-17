@@ -1,5 +1,5 @@
 ---
-display_name: Create String Attribute
+title: Create String Attribute
 order: 20
 ---
 ## Navigation

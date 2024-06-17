@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Pins
+title: Get Output Pins
 order: 6
 ---
 ## Navigation

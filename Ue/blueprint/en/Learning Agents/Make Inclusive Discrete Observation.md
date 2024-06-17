@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Discrete Observation
+title: Make Inclusive Discrete Observation
 order: 194
 ---
 ## Navigation

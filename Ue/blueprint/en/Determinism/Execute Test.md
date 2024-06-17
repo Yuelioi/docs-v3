@@ -1,5 +1,5 @@
 ---
-display_name: Execute Test
+title: Execute Test
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Rate
+title: Set Rate
 order: 24
 ---
 ## Navigation

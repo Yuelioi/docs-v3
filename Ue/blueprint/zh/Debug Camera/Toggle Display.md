@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Display
+title: Toggle Display
 order: 3
 ---
 ## Navigation

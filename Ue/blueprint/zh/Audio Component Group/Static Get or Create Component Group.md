@@ -1,5 +1,5 @@
 ---
-display_name: Static Get or Create Component Group
+title: Static Get or Create Component Group
 order: 18
 ---
 ## Navigation

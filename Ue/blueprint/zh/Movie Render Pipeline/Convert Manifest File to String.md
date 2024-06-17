@@ -1,5 +1,5 @@
 ---
-display_name: Convert Manifest File to String
+title: Convert Manifest File to String
 order: 7
 ---
 ## Navigation

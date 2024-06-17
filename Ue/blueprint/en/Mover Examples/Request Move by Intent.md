@@ -1,5 +1,5 @@
 ---
-display_name: Request Move by Intent
+title: Request Move by Intent
 order: 1
 ---
 ## Navigation

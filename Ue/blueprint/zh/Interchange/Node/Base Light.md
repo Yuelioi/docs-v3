@@ -1,5 +1,5 @@
 ---
-display_name: Base Light
+title: Base Light
 order: 16
 ---
 ## Navigation

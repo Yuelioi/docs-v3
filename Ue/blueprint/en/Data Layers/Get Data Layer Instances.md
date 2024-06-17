@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Instances
+title: Get Data Layer Instances
 order: 23
 ---
 ## Navigation

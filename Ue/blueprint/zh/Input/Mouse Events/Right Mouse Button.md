@@ -1,5 +1,5 @@
 ---
-display_name: Right Mouse Button
+title: Right Mouse Button
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Focus Distance
+title: Get Focus Distance
 order: 31
 ---
 ## Navigation

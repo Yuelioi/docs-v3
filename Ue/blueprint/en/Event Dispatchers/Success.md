@@ -1,5 +1,5 @@
 ---
-display_name: Success
+title: Success
 order: 202
 ---
 ## Navigation

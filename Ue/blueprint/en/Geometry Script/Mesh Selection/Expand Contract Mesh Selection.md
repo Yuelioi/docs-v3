@@ -1,5 +1,5 @@
 ---
-display_name: Expand Contract Mesh Selection
+title: Expand Contract Mesh Selection
 order: 10
 ---
 ## Navigation

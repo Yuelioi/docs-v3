@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Confirm Input
+title: Wait for Confirm Input
 order: 51
 ---
 ## Navigation

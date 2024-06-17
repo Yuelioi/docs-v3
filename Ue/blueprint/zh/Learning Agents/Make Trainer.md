@@ -1,5 +1,5 @@
 ---
-display_name: Make Trainer
+title: Make Trainer
 order: 243
 ---
 ## Navigation

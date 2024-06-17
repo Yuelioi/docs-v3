@@ -1,5 +1,5 @@
 ---
-display_name: Create Grid Mesh Welded
+title: Create Grid Mesh Welded
 order: 10
 ---
 ## Navigation

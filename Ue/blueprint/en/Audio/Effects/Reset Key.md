@@ -1,5 +1,5 @@
 ---
-display_name: Reset Key
+title: Reset Key
 order: 18
 ---
 ## Navigation

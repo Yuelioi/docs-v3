@@ -1,5 +1,5 @@
 ---
-display_name: Has Bool
+title: Has Bool
 order: 10
 ---
 ## Navigation

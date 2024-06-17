@@ -1,5 +1,5 @@
 ---
-display_name: Clear Vertex Color Override
+title: Clear Vertex Color Override
 order: 4
 ---
 ## Navigation

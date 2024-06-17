@@ -1,5 +1,5 @@
 ---
-display_name: To String (SoftClassReference)
+title: To String (SoftClassReference)
 order: 20
 ---
 ## Navigation

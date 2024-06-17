@@ -1,5 +1,5 @@
 ---
-display_name: Set Value (Enum)
+title: Set Value (Enum)
 order: 128
 ---
 ## Navigation

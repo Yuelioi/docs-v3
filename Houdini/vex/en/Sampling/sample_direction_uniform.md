@@ -1,5 +1,5 @@
 ---
-display_name: sample_direction_uniform
+title: sample_direction_uniform
 order: 14
 ---
 `vector  sample_direction_uniform(vector2 u)`

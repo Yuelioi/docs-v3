@@ -1,5 +1,5 @@
 ---
-display_name: On Killed
+title: On Killed
 order: 99
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ToggleFlightMode
+title: ToggleFlightMode
 order: 109
 ---
 ## Navigation

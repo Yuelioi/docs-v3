@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Time Dilation
+title: Get Actor Time Dilation
 order: 8
 ---
 ## Navigation

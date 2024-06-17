@@ -1,5 +1,5 @@
 ---
-display_name: ocio_activeviews
+title: ocio_activeviews
 order: 2
 ---
 `string [] ocio_activeviews()`

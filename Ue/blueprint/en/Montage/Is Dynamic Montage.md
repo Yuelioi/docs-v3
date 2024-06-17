@@ -1,5 +1,5 @@
 ---
-display_name: Is Dynamic Montage
+title: Is Dynamic Montage
 order: 10
 ---
 ## Navigation

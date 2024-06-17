@@ -1,5 +1,5 @@
 ---
-display_name: agentchannelnames
+title: agentchannelnames
 order: 3
 ---
 | Since | 18.0 |

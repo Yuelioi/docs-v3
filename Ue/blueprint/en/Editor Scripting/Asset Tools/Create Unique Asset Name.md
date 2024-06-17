@@ -1,5 +1,5 @@
 ---
-display_name: Create Unique Asset Name
+title: Create Unique Asset Name
 order: 9
 ---
 ## Navigation

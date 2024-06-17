@@ -1,5 +1,5 @@
 ---
-display_name: Make All Layers Visible
+title: Make All Layers Visible
 order: 27
 ---
 ## Navigation

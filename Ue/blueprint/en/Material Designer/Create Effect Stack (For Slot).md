@@ -1,5 +1,5 @@
 ---
-display_name: Create Effect Stack (For Slot)
+title: Create Effect Stack (For Slot)
 order: 40
 ---
 ## Navigation

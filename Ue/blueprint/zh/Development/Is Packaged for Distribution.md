@@ -1,5 +1,5 @@
 ---
-display_name: Is Packaged for Distribution
+title: Is Packaged for Distribution
 order: 49
 ---
 ## Navigation

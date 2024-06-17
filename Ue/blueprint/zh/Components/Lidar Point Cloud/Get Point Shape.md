@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Shape
+title: Get Point Shape
 order: 2
 ---
 ## Navigation

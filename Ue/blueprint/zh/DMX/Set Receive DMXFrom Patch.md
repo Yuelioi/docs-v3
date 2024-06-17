@@ -1,5 +1,5 @@
 ---
-display_name: Set Receive DMXFrom Patch
+title: Set Receive DMXFrom Patch
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: SetFocalPoint
+title: SetFocalPoint
 order: 30
 ---
 ## Navigation

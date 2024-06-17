@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket Location
+title: Get Socket Location
 order: 15
 ---
 ## Navigation

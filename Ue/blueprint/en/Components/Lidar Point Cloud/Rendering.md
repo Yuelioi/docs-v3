@@ -1,5 +1,5 @@
 ---
-display_name: Rendering
+title: Rendering
 order: 3
 ---
 ## Navigation

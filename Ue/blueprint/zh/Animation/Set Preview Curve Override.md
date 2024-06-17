@@ -1,5 +1,5 @@
 ---
-display_name: Set Preview Curve Override
+title: Set Preview Curve Override
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Delete Module
+title: Delete Module
 order: 7
 ---
 ## Navigation

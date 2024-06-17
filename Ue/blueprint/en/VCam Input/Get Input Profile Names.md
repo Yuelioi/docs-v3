@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Profile Names
+title: Get Input Profile Names
 order: 4
 ---
 ## Navigation

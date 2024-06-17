@@ -1,5 +1,5 @@
 ---
-display_name: Set Music Seek Request
+title: Set Music Seek Request
 order: 23
 ---
 ## Navigation

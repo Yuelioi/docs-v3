@@ -1,5 +1,5 @@
 ---
-display_name: Apply Displace from Texture Map
+title: Apply Displace from Texture Map
 order: 3
 ---
 ## Navigation

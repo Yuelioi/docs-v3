@@ -1,5 +1,5 @@
 ---
-display_name: Restore Property Set Settings
+title: Restore Property Set Settings
 order: 4
 ---
 ## Navigation

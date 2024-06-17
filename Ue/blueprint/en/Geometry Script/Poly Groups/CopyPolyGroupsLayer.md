@@ -1,5 +1,5 @@
 ---
-display_name: CopyPolyGroupsLayer
+title: CopyPolyGroupsLayer
 order: 6
 ---
 ## Navigation

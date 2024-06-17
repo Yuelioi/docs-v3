@@ -1,5 +1,5 @@
 ---
-display_name: Get Temperature
+title: Get Temperature
 order: 66
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Console Variable
+title: Remove Console Variable
 order: 9
 ---
 ## Navigation

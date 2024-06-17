@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate and Add Render Grid Job
+title: Duplicate and Add Render Grid Job
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Body Modifier
+title: Destroy Body Modifier
 order: 20
 ---
 ## Navigation

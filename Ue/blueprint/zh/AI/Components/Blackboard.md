@@ -1,5 +1,5 @@
 ---
-display_name: Blackboard
+title: Blackboard
 order: 1
 ---
 ## Navigation

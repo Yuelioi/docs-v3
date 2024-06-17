@@ -1,5 +1,5 @@
 ---
-display_name: Draw Material Triangles
+title: Draw Material Triangles
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Transform from Ref Pose
+title: Get Delta Transform from Ref Pose
 order: 9
 ---
 ## Navigation

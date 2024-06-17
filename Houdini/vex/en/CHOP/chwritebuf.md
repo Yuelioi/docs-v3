@@ -1,5 +1,5 @@
 ---
-display_name: chwritebuf
+title: chwritebuf
 order: 29
 ---
 | Context(s) | [chop](../contexts/chop.html) |

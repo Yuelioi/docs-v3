@@ -1,5 +1,5 @@
 ---
-display_name: Copy Normalized Elements to String
+title: Copy Normalized Elements to String
 order: 1
 ---
 ## Navigation

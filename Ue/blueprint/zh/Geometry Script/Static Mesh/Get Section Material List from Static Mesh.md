@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Material List from Static Mesh
+title: Get Section Material List from Static Mesh
 order: 5
 ---
 ## Navigation

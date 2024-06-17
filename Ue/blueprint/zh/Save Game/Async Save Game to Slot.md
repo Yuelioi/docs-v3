@@ -1,5 +1,5 @@
 ---
-display_name: Async Save Game to Slot
+title: Async Save Game to Slot
 order: 2
 ---
 ## Navigation

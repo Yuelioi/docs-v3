@@ -1,5 +1,5 @@
 ---
-display_name: Make Critic
+title: Make Critic
 order: 172
 ---
 ## Navigation

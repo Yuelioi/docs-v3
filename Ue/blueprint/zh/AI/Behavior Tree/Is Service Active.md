@@ -1,5 +1,5 @@
 ---
-display_name: Is Service Active
+title: Is Service Active
 order: 9
 ---
 ## Navigation

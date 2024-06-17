@@ -1,5 +1,5 @@
 ---
-display_name: AVItem
+title: AVItem
 order: 1
 ---
 

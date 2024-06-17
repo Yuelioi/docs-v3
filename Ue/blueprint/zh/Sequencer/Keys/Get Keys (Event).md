@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys (Event)
+title: Get Keys (Event)
 order: 32
 ---
 ## Navigation

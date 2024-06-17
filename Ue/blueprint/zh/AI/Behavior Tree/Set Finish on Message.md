@@ -1,5 +1,5 @@
 ---
-display_name: Set Finish on Message
+title: Set Finish on Message
 order: 15
 ---
 ## Navigation

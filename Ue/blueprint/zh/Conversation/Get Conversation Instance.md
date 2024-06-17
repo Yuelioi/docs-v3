@@ -1,5 +1,5 @@
 ---
-display_name: Get Conversation Instance
+title: Get Conversation Instance
 order: 6
 ---
 ## Navigation

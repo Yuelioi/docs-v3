@@ -1,5 +1,5 @@
 ---
-display_name: usd_typename
+title: usd_typename
 order: 149
 ---
 | Since | 17.5 |

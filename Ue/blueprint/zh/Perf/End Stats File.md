@@ -1,5 +1,5 @@
 ---
-display_name: End Stats File
+title: End Stats File
 order: 6
 ---
 ## Navigation

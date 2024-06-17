@@ -1,5 +1,5 @@
 ---
-display_name: Get Reward
+title: Get Reward
 order: 107
 ---
 ## Navigation

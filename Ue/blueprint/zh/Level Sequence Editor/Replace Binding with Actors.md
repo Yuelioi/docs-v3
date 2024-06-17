@@ -1,5 +1,5 @@
 ---
-display_name: Replace Binding with Actors
+title: Replace Binding with Actors
 order: 55
 ---
 ## Navigation

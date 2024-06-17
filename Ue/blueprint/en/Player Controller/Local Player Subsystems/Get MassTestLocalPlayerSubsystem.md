@@ -1,5 +1,5 @@
 ---
-display_name: Get MassTestLocalPlayerSubsystem
+title: Get MassTestLocalPlayerSubsystem
 order: 5
 ---
 ## Navigation

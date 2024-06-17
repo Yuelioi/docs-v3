@@ -1,5 +1,5 @@
 ---
-display_name: volumegradient
+title: volumegradient
 order: 4
 ---
 `vector  volumegradient(<geometry>geometry, int primnum, vector pos)`

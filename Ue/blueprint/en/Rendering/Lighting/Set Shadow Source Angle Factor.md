@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Source Angle Factor
+title: Set Shadow Source Angle Factor
 order: 29
 ---
 ## Navigation

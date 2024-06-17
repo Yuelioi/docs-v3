@@ -1,5 +1,5 @@
 ---
-display_name: Has Assets
+title: Has Assets
 order: 31
 ---
 ## Navigation

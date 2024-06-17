@@ -1,5 +1,5 @@
 ---
-display_name: Make Rotation Action from Quat
+title: Make Rotation Action from Quat
 order: 229
 ---
 ## Navigation

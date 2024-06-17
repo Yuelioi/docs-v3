@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Task
+title: Is Valid Task
 order: 24
 ---
 ## Navigation

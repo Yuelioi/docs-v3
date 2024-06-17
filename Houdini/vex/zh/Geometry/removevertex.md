@@ -1,5 +1,5 @@
 ---
-display_name: removevertex
+title: removevertex
 order: 34
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Batch Update Instances Auto Play Data
+title: Batch Update Instances Auto Play Data
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Data Value (Message)
+title: Set Custom Data Value (Message)
 order: 2
 ---
 ## Navigation

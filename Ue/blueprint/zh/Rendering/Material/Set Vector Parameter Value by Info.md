@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter Value by Info
+title: Set Vector Parameter Value by Info
 order: 61
 ---
 ## Navigation

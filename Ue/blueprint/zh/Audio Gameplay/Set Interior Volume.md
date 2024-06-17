@@ -1,5 +1,5 @@
 ---
-display_name: Set Interior Volume
+title: Set Interior Volume
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Extension
+title: Get Extension
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Hit Result
+title: Has Hit Result
 order: 14
 ---
 ## Navigation

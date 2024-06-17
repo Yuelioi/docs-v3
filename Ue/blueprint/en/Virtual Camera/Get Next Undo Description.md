@@ -1,5 +1,5 @@
 ---
-display_name: Get Next Undo Description
+title: Get Next Undo Description
 order: 31
 ---
 ## Navigation

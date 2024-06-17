@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction at Spline Point
+title: Get Direction at Spline Point
 order: 27
 ---
 ## Navigation

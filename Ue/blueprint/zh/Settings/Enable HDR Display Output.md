@@ -1,5 +1,5 @@
 ---
-display_name: Enable HDR Display Output
+title: Enable HDR Display Output
 order: 18
 ---
 ## Navigation

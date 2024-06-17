@@ -1,5 +1,5 @@
 ---
-display_name: printf
+title: printf
 order: 12
 ---
 `void  printf(string format, ...)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Components
+title: Get Collision Components
 order: 23
 ---
 ## Navigation

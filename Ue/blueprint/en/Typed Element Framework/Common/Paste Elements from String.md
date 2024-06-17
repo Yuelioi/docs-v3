@@ -1,5 +1,5 @@
 ---
-display_name: Paste Elements from String
+title: Paste Elements from String
 order: 9
 ---
 ## Navigation

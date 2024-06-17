@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Auto Focus
+title: Set Enable Auto Focus
 order: 23
 ---
 ## Navigation

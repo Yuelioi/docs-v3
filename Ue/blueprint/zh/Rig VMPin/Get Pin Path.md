@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin Path
+title: Get Pin Path
 order: 23
 ---
 ## Navigation

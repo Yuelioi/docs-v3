@@ -1,5 +1,5 @@
 ---
-display_name: 简单阻塞工具
+title: 简单阻塞工具
 order: 4
 ---
 

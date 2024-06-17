@@ -1,5 +1,5 @@
 ---
-display_name: Has Samples
+title: Has Samples
 order: 21
 ---
 ## Navigation

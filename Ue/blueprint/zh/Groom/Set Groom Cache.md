@@ -1,5 +1,5 @@
 ---
-display_name: Set Groom Cache
+title: Set Groom Cache
 order: 8
 ---
 ## Navigation

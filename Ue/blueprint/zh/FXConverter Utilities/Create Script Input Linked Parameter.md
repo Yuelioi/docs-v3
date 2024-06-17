@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Linked Parameter
+title: Create Script Input Linked Parameter
 order: 20
 ---
 ## Navigation

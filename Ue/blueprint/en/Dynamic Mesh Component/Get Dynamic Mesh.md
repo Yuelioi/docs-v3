@@ -1,5 +1,5 @@
 ---
-display_name: Get Dynamic Mesh
+title: Get Dynamic Mesh
 order: 5
 ---
 ## Navigation

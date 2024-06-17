@@ -1,5 +1,5 @@
 ---
-display_name: On Reset Delegate
+title: On Reset Delegate
 order: 146
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Attribute
+title: Clear Attribute
 order: 8
 ---
 ## Navigation

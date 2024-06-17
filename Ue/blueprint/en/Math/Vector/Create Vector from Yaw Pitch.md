@@ -1,5 +1,5 @@
 ---
-display_name: Create Vector from Yaw Pitch
+title: Create Vector from Yaw Pitch
 order: 7
 ---
 ## Navigation

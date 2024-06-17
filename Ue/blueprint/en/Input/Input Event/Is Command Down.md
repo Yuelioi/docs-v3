@@ -1,5 +1,5 @@
 ---
-display_name: Is Command Down
+title: Is Command Down
 order: 3
 ---
 ## Navigation

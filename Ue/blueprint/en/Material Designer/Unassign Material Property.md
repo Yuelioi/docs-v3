@@ -1,5 +1,5 @@
 ---
-display_name: Unassign Material Property
+title: Unassign Material Property
 order: 243
 ---
 ## Navigation

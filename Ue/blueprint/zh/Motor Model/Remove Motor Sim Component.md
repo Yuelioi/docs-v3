@@ -1,5 +1,5 @@
 ---
-display_name: Remove Motor Sim Component
+title: Remove Motor Sim Component
 order: 4
 ---
 ## Navigation

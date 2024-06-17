@@ -1,5 +1,5 @@
 ---
-display_name: Start Receiver
+title: Start Receiver
 order: 12
 ---
 ## Navigation

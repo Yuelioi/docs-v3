@@ -1,5 +1,5 @@
 ---
-display_name: Get Flipbook Framerate
+title: Get Flipbook Framerate
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Integer 32Attribute by Metadata Key
+title: Set Integer 32Attribute by Metadata Key
 order: 80
 ---
 ## Navigation

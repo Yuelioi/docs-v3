@@ -1,5 +1,5 @@
 ---
-display_name: Steam Back Left
+title: Steam Back Left
 order: 1
 ---
 ## Navigation

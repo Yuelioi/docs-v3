@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Container Type
+title: Get Value Container Type
 order: 5
 ---
 ## Navigation

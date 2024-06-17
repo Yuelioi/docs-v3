@@ -1,5 +1,5 @@
 ---
-display_name: Skeletal Mesh
+title: Skeletal Mesh
 order: 77
 ---
 ## Navigation

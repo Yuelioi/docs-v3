@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Morphology
+title: Apply Mesh Morphology
 order: 1
 ---
 ## Navigation

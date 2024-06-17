@@ -1,5 +1,5 @@
 ---
-display_name: Clear Max Desired Height
+title: Clear Max Desired Height
 order: 3
 ---
 ## Navigation

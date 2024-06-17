@@ -1,5 +1,5 @@
 ---
-display_name: Expect True
+title: Expect True
 order: 5
 ---
 ## Navigation

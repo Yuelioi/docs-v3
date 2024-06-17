@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Vector 4 Array Value
+title: Niagara Get Vector 4 Array Value
 order: 50
 ---
 ## Navigation

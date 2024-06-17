@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Tested
+title: Get Is Tested
 order: 4
 ---
 ## Navigation

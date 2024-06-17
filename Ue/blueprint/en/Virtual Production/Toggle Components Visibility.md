@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Components Visibility
+title: Toggle Components Visibility
 order: 27
 ---
 ## Navigation

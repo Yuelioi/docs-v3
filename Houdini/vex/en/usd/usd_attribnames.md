@@ -1,5 +1,5 @@
 ---
-display_name: usd_attribnames
+title: usd_attribnames
 order: 19
 ---
 | Since | 17.5 |

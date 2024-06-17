@@ -1,5 +1,5 @@
 ---
-display_name: Refresh All Widgets
+title: Refresh All Widgets
 order: 29
 ---
 ## Navigation

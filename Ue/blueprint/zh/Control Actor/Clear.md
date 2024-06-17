@@ -1,5 +1,5 @@
 ---
-display_name: Clear
+title: Clear
 order: 1
 ---
 ## Navigation

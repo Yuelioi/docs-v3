@@ -1,5 +1,5 @@
 ---
-display_name: G
+title: G
 order: 47
 ---
 ## Navigation

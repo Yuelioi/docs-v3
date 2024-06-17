@@ -1,5 +1,5 @@
 ---
-display_name: Delete Member
+title: Delete Member
 order: 6
 ---
 ## Navigation

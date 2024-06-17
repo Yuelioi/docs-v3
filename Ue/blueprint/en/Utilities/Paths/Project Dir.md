@@ -1,5 +1,5 @@
 ---
-display_name: Project Dir
+title: Project Dir
 order: 69
 ---
 ## Navigation

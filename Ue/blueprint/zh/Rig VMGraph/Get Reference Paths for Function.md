@@ -1,5 +1,5 @@
 ---
-display_name: Get Reference Paths for Function
+title: Get Reference Paths for Function
 order: 22
 ---
 ## Navigation

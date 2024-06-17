@@ -1,5 +1,5 @@
 ---
-display_name: Create Unique Parameter
+title: Create Unique Parameter
 order: 47
 ---
 ## Navigation

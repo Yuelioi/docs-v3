@@ -1,5 +1,5 @@
 ---
-display_name: diffuseBRDF
+title: diffuseBRDF
 order: 5
 ---
 `float  diffuseBRDF(vector L, vector N)`

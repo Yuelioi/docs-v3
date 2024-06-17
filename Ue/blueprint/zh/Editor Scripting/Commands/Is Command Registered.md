@@ -1,5 +1,5 @@
 ---
-display_name: Is Command Registered
+title: Is Command Registered
 order: 3
 ---
 ## Navigation

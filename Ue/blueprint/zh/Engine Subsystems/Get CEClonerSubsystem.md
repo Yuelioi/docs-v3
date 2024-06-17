@@ -1,5 +1,5 @@
 ---
-display_name: Get CEClonerSubsystem
+title: Get CEClonerSubsystem
 order: 10
 ---
 ## Navigation

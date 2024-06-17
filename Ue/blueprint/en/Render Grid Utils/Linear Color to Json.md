@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color to Json
+title: Linear Color to Json
 order: 8
 ---
 ## Navigation

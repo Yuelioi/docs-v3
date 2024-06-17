@@ -1,5 +1,5 @@
 ---
-display_name: Get Timer Elapsed Time by Handle
+title: Get Timer Elapsed Time by Handle
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Input Device
+title: Is Valid Input Device
 order: 14
 ---
 ## Navigation

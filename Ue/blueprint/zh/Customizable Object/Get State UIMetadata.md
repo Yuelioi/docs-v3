@@ -1,5 +1,5 @@
 ---
-display_name: Get State UIMetadata
+title: Get State UIMetadata
 order: 23
 ---
 ## Navigation

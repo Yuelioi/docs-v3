@@ -1,5 +1,5 @@
 ---
-display_name: Connect
+title: Connect
 order: 1
 ---
 ## Navigation

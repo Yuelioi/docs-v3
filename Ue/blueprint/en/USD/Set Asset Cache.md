@@ -1,5 +1,5 @@
 ---
-display_name: Set Asset Cache
+title: Set Asset Cache
 order: 9
 ---
 ## Navigation

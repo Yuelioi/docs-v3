@@ -1,5 +1,5 @@
 ---
-display_name: Is Inside (Box)
+title: Is Inside (Box)
 order: 4
 ---
 ## Navigation

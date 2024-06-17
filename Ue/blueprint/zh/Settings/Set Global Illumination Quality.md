@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Illumination Quality
+title: Set Global Illumination Quality
 order: 118
 ---
 ## Navigation

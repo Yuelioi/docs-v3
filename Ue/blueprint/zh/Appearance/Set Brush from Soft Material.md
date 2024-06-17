@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Soft Material
+title: Set Brush from Soft Material
 order: 27
 ---
 ## Navigation

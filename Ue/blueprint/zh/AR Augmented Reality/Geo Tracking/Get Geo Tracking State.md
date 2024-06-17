@@ -1,5 +1,5 @@
 ---
-display_name: Get Geo Tracking State
+title: Get Geo Tracking State
 order: 11
 ---
 ## Navigation

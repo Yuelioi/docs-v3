@@ -1,5 +1,5 @@
 ---
-display_name: Add Spawnable from Class
+title: Add Spawnable from Class
 order: 7
 ---
 ## Navigation

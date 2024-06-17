@@ -1,5 +1,5 @@
 ---
-display_name: End Recording Visible Tiles
+title: End Recording Visible Tiles
 order: 1
 ---
 ## Navigation

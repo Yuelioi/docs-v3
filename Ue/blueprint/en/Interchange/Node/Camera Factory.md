@@ -1,5 +1,5 @@
 ---
-display_name: Camera Factory
+title: Camera Factory
 order: 17
 ---
 ## Navigation

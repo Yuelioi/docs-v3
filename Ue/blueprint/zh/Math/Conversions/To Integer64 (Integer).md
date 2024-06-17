@@ -1,5 +1,5 @@
 ---
-display_name: To Integer64 (Integer)
+title: To Integer64 (Integer)
 order: 19
 ---
 ## Navigation

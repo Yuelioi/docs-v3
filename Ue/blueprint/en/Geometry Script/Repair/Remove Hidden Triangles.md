@@ -1,5 +1,5 @@
 ---
-display_name: Remove Hidden Triangles
+title: Remove Hidden Triangles
 order: 3
 ---
 ## Navigation

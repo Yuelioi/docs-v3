@@ -1,5 +1,5 @@
 ---
-display_name: Append Sphere Box
+title: Append Sphere Box
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Candidate Images
+title: Clear Candidate Images
 order: 3
 ---
 ## Navigation

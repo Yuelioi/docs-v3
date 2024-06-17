@@ -1,5 +1,5 @@
 ---
-display_name: Is Current Record Within Game Thread Budget
+title: Is Current Record Within Game Thread Budget
 order: 15
 ---
 ## Navigation

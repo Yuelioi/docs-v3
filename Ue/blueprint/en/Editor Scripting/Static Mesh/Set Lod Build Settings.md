@@ -1,5 +1,5 @@
 ---
-display_name: Set Lod Build Settings
+title: Set Lod Build Settings
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Flush on Activated
+title: Set Flush on Activated
 order: 81
 ---
 ## Navigation

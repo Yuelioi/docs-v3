@@ -1,5 +1,5 @@
 ---
-display_name: Game Source Dir
+title: Game Source Dir
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Edit Text Source String
+title: Edit Text Source String
 order: 12
 ---
 ## Navigation

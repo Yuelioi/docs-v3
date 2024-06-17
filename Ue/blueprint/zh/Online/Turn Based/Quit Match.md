@@ -1,5 +1,5 @@
 ---
-display_name: Quit Match
+title: Quit Match
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Output
+title: Add Output
 order: 3
 ---
 ## Navigation

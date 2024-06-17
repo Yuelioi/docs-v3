@@ -1,5 +1,5 @@
 ---
-display_name: Editor Get Game View
+title: Editor Get Game View
 order: 9
 ---
 ## Navigation

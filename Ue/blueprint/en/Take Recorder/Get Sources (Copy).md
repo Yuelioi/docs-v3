@@ -1,5 +1,5 @@
 ---
-display_name: Get Sources (Copy)
+title: Get Sources (Copy)
 order: 10
 ---
 ## Navigation

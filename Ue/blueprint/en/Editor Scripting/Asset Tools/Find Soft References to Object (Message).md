@@ -1,5 +1,5 @@
 ---
-display_name: Find Soft References to Object (Message)
+title: Find Soft References to Object (Message)
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Euler Transform
+title: Make Control Value from Euler Transform
 order: 103
 ---
 ## Navigation

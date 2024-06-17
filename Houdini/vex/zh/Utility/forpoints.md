@@ -1,5 +1,5 @@
 ---
-display_name: forpoints
+title: forpoints
 order: 4
 ---
 In the [image3d context](../contexts/image3d.html "Obsolete. Write a program for use with the i3dgen program to generate 3D

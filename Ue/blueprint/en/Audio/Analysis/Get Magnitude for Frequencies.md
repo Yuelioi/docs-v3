@@ -1,5 +1,5 @@
 ---
-display_name: Get Magnitude for Frequencies
+title: Get Magnitude for Frequencies
 order: 1
 ---
 ## Navigation

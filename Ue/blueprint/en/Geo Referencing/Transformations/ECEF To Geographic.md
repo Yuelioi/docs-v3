@@ -1,5 +1,5 @@
 ---
-display_name: ECEF To Geographic
+title: ECEF To Geographic
 order: 2
 ---
 ## Navigation

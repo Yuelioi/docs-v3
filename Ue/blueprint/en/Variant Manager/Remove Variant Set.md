@@ -1,5 +1,5 @@
 ---
-display_name: Remove Variant Set
+title: Remove Variant Set
 order: 33
 ---
 ## Navigation

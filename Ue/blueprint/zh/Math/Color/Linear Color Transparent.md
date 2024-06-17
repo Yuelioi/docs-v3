@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Transparent
+title: Linear Color Transparent
 order: 21
 ---
 ## Navigation

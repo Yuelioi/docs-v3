@@ -1,5 +1,5 @@
 ---
-display_name: usd_relationshipnames
+title: usd_relationshipnames
 order: 118
 ---
 | Since | 18.0 |

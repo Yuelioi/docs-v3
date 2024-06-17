@@ -1,5 +1,5 @@
 ---
-display_name: 更改为颜色
+title: 更改为颜色
 order: 12
 ---
 

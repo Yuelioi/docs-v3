@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotational Keys
+title: Get Rotational Keys
 order: 34
 ---
 ## Navigation

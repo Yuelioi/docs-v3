@@ -1,5 +1,5 @@
 ---
-display_name: Add Pitch Input
+title: Add Pitch Input
 order: 3
 ---
 ## Navigation

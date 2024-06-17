@@ -1,5 +1,5 @@
 ---
-display_name: Set Font
+title: Set Font
 order: 51
 ---
 ## Navigation

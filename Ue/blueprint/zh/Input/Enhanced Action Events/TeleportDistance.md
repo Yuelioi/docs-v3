@@ -1,5 +1,5 @@
 ---
-display_name: TeleportDistance
+title: TeleportDistance
 order: 92
 ---
 ## Navigation

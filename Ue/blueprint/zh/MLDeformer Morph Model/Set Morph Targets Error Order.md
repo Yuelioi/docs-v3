@@ -1,5 +1,5 @@
 ---
-display_name: Set Morph Targets Error Order
+title: Set Morph Targets Error Order
 order: 4
 ---
 ## Navigation

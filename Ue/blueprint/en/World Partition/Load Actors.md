@@ -1,5 +1,5 @@
 ---
-display_name: Load Actors
+title: Load Actors
 order: 12
 ---
 ## Navigation

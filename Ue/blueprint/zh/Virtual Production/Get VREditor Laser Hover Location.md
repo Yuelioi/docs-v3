@@ -1,5 +1,5 @@
 ---
-display_name: Get VREditor Laser Hover Location
+title: Get VREditor Laser Hover Location
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Does Data Table Row Exist
+title: Does Data Table Row Exist
 order: 1
 ---
 ## Navigation

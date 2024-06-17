@@ -1,5 +1,5 @@
 ---
-display_name: Add Additional Object
+title: Add Additional Object
 order: 2
 ---
 ## Navigation

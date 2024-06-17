@@ -1,5 +1,5 @@
 ---
-display_name: Get Inputs
+title: Get Inputs
 order: 30
 ---
 ## Navigation

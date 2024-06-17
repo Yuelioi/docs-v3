@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Ptr
+title: Get Section Ptr
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get String Attribute Ref
+title: Get String Attribute Ref
 order: 5
 ---
 ## Navigation

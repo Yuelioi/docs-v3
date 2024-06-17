@@ -1,5 +1,5 @@
 ---
-display_name: Queue Pause Animation
+title: Queue Pause Animation
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Bone Tracks
+title: Get Num Bone Tracks
 order: 18
 ---
 ## Navigation

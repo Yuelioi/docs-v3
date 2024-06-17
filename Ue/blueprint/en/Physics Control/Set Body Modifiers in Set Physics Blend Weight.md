@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifiers in Set Physics Blend Weight
+title: Set Body Modifiers in Set Physics Blend Weight
 order: 76
 ---
 ## Navigation

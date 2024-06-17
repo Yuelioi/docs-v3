@@ -1,5 +1,5 @@
 ---
-display_name: Execute Python Script
+title: Execute Python Script
 order: 3
 ---
 ## Navigation

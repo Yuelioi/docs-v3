@@ -1,5 +1,5 @@
 ---
-display_name: Multi Capsule Trace For Objects
+title: Multi Capsule Trace For Objects
 order: 51
 ---
 ## Navigation

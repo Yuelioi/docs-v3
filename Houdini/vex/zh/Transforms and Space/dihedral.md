@@ -1,5 +1,5 @@
 ---
-display_name: dihedral
+title: dihedral
 order: 1
 ---
 `matrix3  dihedral(vector a, vector b)`

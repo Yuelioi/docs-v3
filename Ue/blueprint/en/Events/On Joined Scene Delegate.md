@@ -1,5 +1,5 @@
 ---
-display_name: On Joined Scene Delegate
+title: On Joined Scene Delegate
 order: 17
 ---
 ## Navigation

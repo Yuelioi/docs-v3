@@ -1,5 +1,5 @@
 ---
-display_name: Make Brush from Asset
+title: Make Brush from Asset
 order: 5
 ---
 ## Navigation

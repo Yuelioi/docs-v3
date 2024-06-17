@@ -1,5 +1,5 @@
 ---
-display_name: Get SubobjectDataSubsystem
+title: Get SubobjectDataSubsystem
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: chnumchan
+title: chnumchan
 order: 11
 ---
 | Context(s) | [chop](../contexts/chop.html) |

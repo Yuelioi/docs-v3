@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Using Custom End Frame
+title: Set Is Using Custom End Frame
 order: 34
 ---
 ## Navigation

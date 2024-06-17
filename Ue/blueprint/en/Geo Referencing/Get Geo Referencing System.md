@@ -1,5 +1,5 @@
 ---
-display_name: Get Geo Referencing System
+title: Get Geo Referencing System
 order: 5
 ---
 ## Navigation

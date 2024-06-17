@@ -1,5 +1,5 @@
 ---
-display_name: Request Download
+title: Request Download
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Scale Uniform Max
+title: Set Range Scale Uniform Max
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Asset Generated
+title: On Asset Generated
 order: 4
 ---
 ## Navigation

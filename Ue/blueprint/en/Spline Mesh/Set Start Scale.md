@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Scale
+title: Set Start Scale
 order: 29
 ---
 ## Navigation

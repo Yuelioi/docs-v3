@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Type Data Ribbon Class
+title: Get Particle Module Type Data Ribbon Class
 order: 102
 ---
 ## Navigation

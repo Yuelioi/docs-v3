@@ -1,5 +1,5 @@
 ---
-display_name: Unhide All
+title: Unhide All
 order: 73
 ---
 ## Navigation

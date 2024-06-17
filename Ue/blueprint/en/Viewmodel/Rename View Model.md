@@ -1,5 +1,5 @@
 ---
-display_name: Rename View Model
+title: Rename View Model
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Label Background Color
+title: Set Text Label Background Color
 order: 87
 ---
 ## Navigation

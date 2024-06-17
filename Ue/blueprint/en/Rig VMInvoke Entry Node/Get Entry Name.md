@@ -1,5 +1,5 @@
 ---
-display_name: Get Entry Name
+title: Get Entry Name
 order: 1
 ---
 ## Navigation

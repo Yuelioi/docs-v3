@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Actor
+title: Is Root Actor
 order: 24
 ---
 ## Navigation

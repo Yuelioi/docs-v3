@@ -1,5 +1,5 @@
 ---
-display_name: Set Ground Albedo
+title: Set Ground Albedo
 order: 36
 ---
 ## Navigation

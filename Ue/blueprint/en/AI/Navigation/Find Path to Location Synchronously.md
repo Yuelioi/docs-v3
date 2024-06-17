@@ -1,5 +1,5 @@
 ---
-display_name: Find Path to Location Synchronously
+title: Find Path to Location Synchronously
 order: 8
 ---
 ## Navigation

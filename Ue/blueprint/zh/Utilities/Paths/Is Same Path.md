@@ -1,5 +1,5 @@
 ---
-display_name: Is Same Path
+title: Is Same Path
 order: 58
 ---
 ## Navigation

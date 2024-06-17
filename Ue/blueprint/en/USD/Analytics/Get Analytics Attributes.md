@@ -1,5 +1,5 @@
 ---
-display_name: Get Analytics Attributes
+title: Get Analytics Attributes
 order: 1
 ---
 ## Navigation

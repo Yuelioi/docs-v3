@@ -1,5 +1,5 @@
 ---
-display_name: On End Play
+title: On End Play
 order: 3
 ---
 ## Navigation

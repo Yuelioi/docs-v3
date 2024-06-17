@@ -1,5 +1,5 @@
 ---
-display_name: Get Textures
+title: Get Textures
 order: 39
 ---
 ## Navigation

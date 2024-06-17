@@ -1,5 +1,5 @@
 ---
-display_name: usd_setvisible
+title: usd_setvisible
 order: 143
 ---
 | Since | 17.5 |

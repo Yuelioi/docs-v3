@@ -1,5 +1,5 @@
 ---
-display_name: Create Answer
+title: Create Answer
 order: 2
 ---
 ## Navigation

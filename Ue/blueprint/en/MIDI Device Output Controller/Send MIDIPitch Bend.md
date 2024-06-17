@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDIPitch Bend
+title: Send MIDIPitch Bend
 order: 7
 ---
 ## Navigation

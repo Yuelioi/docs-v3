@@ -1,5 +1,5 @@
 ---
-display_name: On Playback Suspended
+title: On Playback Suspended
 order: 53
 ---
 ## Navigation

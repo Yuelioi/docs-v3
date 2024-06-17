@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent
+title: Get Parent
 order: 26
 ---
 ## Navigation

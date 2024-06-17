@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Frame Seconds
+title: Get Start Frame Seconds
 order: 48
 ---
 ## Navigation

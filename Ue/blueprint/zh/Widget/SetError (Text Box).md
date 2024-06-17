@@ -1,5 +1,5 @@
 ---
-display_name: SetError (Text Box)
+title: SetError (Text Box)
 order: 40
 ---
 ## Navigation

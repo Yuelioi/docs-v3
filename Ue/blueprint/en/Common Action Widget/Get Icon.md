@@ -1,5 +1,5 @@
 ---
-display_name: Get Icon
+title: Get Icon
 order: 2
 ---
 ## Navigation

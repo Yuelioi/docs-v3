@@ -1,5 +1,5 @@
 ---
-display_name: Update Value Of Continuous Input Injection for Action
+title: Update Value Of Continuous Input Injection for Action
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Proportion Along Spline Observation
+title: Specify Proportion Along Spline Observation
 order: 320
 ---
 ## Navigation

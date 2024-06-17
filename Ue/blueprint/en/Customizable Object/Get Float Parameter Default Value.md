@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Parameter Default Value
+title: Get Float Parameter Default Value
 order: 7
 ---
 ## Navigation

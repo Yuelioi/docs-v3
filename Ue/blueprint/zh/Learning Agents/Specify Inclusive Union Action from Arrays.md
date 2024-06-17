@@ -1,5 +1,5 @@
 ---
-display_name: Specify Inclusive Union Action from Arrays
+title: Specify Inclusive Union Action from Arrays
 order: 305
 ---
 ## Navigation

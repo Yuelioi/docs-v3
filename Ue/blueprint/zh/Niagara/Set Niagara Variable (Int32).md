@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Int32)
+title: Set Niagara Variable (Int32)
 order: 33
 ---
 ## Navigation

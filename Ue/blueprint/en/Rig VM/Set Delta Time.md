@@ -1,5 +1,5 @@
 ---
-display_name: Set Delta Time
+title: Set Delta Time
 order: 19
 ---
 ## Navigation

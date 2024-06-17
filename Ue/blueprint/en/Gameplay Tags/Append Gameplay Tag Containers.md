@@ -1,5 +1,5 @@
 ---
-display_name: Append Gameplay Tag Containers
+title: Append Gameplay Tag Containers
 order: 2
 ---
 ## Navigation

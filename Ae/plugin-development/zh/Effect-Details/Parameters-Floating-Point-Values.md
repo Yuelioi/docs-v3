@@ -1,5 +1,5 @@
 ---
-display_name: Parameters-Floating-Point-Values
+title: Parameters-Floating-Point-Values
 order: 17
 ---
 

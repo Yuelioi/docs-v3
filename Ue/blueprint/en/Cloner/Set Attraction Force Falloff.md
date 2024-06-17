@@ -1,5 +1,5 @@
 ---
-display_name: Set Attraction Force Falloff
+title: Set Attraction Force Falloff
 order: 15
 ---
 ## Navigation

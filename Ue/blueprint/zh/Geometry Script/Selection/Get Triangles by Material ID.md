@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangles by Material ID
+title: Get Triangles by Material ID
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: DoubleTap
+title: DoubleTap
 order: 16
 ---
 ## Navigation

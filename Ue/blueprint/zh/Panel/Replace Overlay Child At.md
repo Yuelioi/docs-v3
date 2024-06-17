@@ -1,5 +1,5 @@
 ---
-display_name: Replace Overlay Child At
+title: Replace Overlay Child At
 order: 4
 ---
 ## Navigation

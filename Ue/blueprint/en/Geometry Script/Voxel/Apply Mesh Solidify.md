@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Solidify
+title: Apply Mesh Solidify
 order: 2
 ---
 ## Navigation

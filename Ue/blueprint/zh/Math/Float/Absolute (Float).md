@@ -1,5 +1,5 @@
 ---
-display_name: Absolute (Float)
+title: Absolute (Float)
 order: 2
 ---
 ## Navigation

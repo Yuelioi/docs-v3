@@ -1,5 +1,5 @@
 ---
-display_name: Get Timecode
+title: Get Timecode
 order: 6
 ---
 ## Navigation

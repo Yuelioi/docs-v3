@@ -1,5 +1,5 @@
 ---
-display_name: Register Pass Result
+title: Register Pass Result
 order: 5
 ---
 ## Navigation

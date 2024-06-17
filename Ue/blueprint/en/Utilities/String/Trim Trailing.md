@@ -1,5 +1,5 @@
 ---
-display_name: Trim Trailing
+title: Trim Trailing
 order: 87
 ---
 ## Navigation

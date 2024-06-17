@@ -1,5 +1,5 @@
 ---
-display_name: hedge_isprimary
+title: hedge_isprimary
 order: 5
 ---
 `int  hedge_isprimary(string geometry, int hedge)`

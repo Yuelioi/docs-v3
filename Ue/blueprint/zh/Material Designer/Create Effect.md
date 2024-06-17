@@ -1,5 +1,5 @@
 ---
-display_name: Create Effect
+title: Create Effect
 order: 41
 ---
 ## Navigation

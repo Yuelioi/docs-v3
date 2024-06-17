@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Get Pipeline Display Name
+title: Scripted Get Pipeline Display Name
 order: 8
 ---
 ## Navigation

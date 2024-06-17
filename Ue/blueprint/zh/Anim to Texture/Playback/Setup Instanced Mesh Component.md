@@ -1,5 +1,5 @@
 ---
-display_name: Setup Instanced Mesh Component
+title: Setup Instanced Mesh Component
 order: 6
 ---
 ## Navigation

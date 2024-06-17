@@ -1,5 +1,5 @@
 ---
-display_name: Get Volume (Box)
+title: Get Volume (Box)
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has End Frame
+title: Has End Frame
 order: 55
 ---
 ## Navigation

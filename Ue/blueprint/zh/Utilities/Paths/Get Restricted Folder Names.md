@@ -1,5 +1,5 @@
 ---
-display_name: Get Restricted Folder Names
+title: Get Restricted Folder Names
 order: 50
 ---
 ## Navigation

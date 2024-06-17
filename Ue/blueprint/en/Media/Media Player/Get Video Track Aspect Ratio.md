@@ -1,5 +1,5 @@
 ---
-display_name: Get Video Track Aspect Ratio
+title: Get Video Track Aspect Ratio
 order: 31
 ---
 ## Navigation

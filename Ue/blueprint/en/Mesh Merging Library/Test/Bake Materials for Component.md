@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: 填充与描边
+title: 填充与描边
 ---
 ## Navigation
 

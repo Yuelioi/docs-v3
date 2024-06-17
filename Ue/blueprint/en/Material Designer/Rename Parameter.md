@@ -1,5 +1,5 @@
 ---
-display_name: Rename Parameter
+title: Rename Parameter
 order: 197
 ---
 ## Navigation

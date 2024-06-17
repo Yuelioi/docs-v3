@@ -1,5 +1,5 @@
 ---
-display_name: Update Distortion
+title: Update Distortion
 order: 1
 ---
 ## Navigation

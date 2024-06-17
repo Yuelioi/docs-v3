@@ -1,5 +1,5 @@
 ---
-display_name: Request Android Permissions
+title: Request Android Permissions
 order: 3
 ---
 ## Navigation

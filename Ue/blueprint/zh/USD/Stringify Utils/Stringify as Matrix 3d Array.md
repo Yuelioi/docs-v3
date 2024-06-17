@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Matrix 3d Array
+title: Stringify as Matrix 3d Array
 order: 42
 ---
 ## Navigation

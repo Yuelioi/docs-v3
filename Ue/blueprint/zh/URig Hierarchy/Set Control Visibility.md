@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Visibility
+title: Set Control Visibility
 order: 140
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Next Sample
+title: Next Sample
 order: 6
 ---
 ## Navigation

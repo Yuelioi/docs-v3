@@ -1,5 +1,5 @@
 ---
-display_name: Get World Scale
+title: Get World Scale
 order: 54
 ---
 ## Navigation

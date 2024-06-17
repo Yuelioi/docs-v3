@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Parameter Selected Option
+title: Set Bool Parameter Selected Option
 order: 62
 ---
 ## Navigation

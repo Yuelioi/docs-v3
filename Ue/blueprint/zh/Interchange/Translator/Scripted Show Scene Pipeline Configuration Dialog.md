@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Show Scene Pipeline Configuration Dialog
+title: Scripted Show Scene Pipeline Configuration Dialog
 order: 3
 ---
 ## Navigation

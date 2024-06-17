@@ -1,5 +1,5 @@
 ---
-display_name: Is Asset Valid
+title: Is Asset Valid
 order: 5
 ---
 ## Navigation

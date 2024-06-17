@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Event to Actor
+title: Wait Gameplay Event to Actor
 order: 3
 ---
 ## Navigation

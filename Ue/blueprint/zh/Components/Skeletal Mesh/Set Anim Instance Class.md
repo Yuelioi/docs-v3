@@ -1,5 +1,5 @@
 ---
-display_name: Set Anim Instance Class
+title: Set Anim Instance Class
 order: 24
 ---
 ## Navigation

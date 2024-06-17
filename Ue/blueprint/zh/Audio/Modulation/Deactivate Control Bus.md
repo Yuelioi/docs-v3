@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Control Bus
+title: Deactivate Control Bus
 order: 17
 ---
 ## Navigation

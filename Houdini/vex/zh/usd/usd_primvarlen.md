@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarlen
+title: usd_primvarlen
 order: 111
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Set Shading Model
+title: Set Shading Model
 order: 232
 ---
 ## Navigation

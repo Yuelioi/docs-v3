@@ -1,5 +1,5 @@
 ---
-display_name: Make Input Ray Hit Miss
+title: Make Input Ray Hit Miss
 order: 2
 ---
 ## Navigation

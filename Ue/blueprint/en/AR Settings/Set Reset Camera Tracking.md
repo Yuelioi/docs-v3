@@ -1,5 +1,5 @@
 ---
-display_name: Set Reset Camera Tracking
+title: Set Reset Camera Tracking
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Update Material Instance from Data Asset
+title: Update Material Instance from Data Asset
 order: 10
 ---
 ## Navigation

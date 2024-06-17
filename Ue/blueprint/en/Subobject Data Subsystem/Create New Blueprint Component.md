@@ -1,5 +1,5 @@
 ---
-display_name: Create New Blueprint Component
+title: Create New Blueprint Component
 order: 7
 ---
 ## Navigation

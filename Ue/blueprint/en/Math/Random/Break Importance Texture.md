@@ -1,5 +1,5 @@
 ---
-display_name: Break Importance Texture
+title: Break Importance Texture
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reinitialize System
+title: Reinitialize System
 order: 5
 ---
 ## Navigation

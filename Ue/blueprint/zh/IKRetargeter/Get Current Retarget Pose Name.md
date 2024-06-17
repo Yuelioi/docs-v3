@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Retarget Pose Name
+title: Get Current Retarget Pose Name
 order: 6
 ---
 ## Navigation

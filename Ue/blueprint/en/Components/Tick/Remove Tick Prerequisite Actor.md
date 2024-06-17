@@ -1,5 +1,5 @@
 ---
-display_name: Remove Tick Prerequisite Actor
+title: Remove Tick Prerequisite Actor
 order: 5
 ---
 ## Navigation

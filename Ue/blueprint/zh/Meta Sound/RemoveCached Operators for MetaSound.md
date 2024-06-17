@@ -1,5 +1,5 @@
 ---
-display_name: RemoveCached Operators for MetaSound
+title: RemoveCached Operators for MetaSound
 order: 3
 ---
 ## Navigation

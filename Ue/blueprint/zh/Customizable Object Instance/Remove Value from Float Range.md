@@ -1,5 +1,5 @@
 ---
-display_name: Remove Value from Float Range
+title: Remove Value from Float Range
 order: 58
 ---
 ## Navigation

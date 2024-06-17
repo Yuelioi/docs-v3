@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Valid for Data Layer
+title: Is Actor Valid for Data Layer
 order: 27
 ---
 ## Navigation

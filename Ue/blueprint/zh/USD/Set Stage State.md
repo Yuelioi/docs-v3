@@ -1,5 +1,5 @@
 ---
-display_name: Set Stage State
+title: Set Stage State
 order: 23
 ---
 ## Navigation

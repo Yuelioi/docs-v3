@@ -1,5 +1,5 @@
 ---
-display_name: Is Activated
+title: Is Activated
 order: 6
 ---
 ## Navigation

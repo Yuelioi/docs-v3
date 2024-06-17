@@ -1,5 +1,5 @@
 ---
-display_name: Ceil
+title: Ceil
 order: 4
 ---
 ## Navigation

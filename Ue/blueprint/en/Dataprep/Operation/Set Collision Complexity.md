@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Complexity
+title: Set Collision Complexity
 order: 9
 ---
 ## Navigation

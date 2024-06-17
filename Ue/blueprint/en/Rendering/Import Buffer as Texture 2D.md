@@ -1,5 +1,5 @@
 ---
-display_name: Import Buffer as Texture 2D
+title: Import Buffer as Texture 2D
 order: 30
 ---
 ## Navigation

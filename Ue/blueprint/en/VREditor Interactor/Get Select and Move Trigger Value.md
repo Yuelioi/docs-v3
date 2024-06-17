@@ -1,5 +1,5 @@
 ---
-display_name: Get Select and Move Trigger Value
+title: Get Select and Move Trigger Value
 order: 2
 ---
 ## Navigation

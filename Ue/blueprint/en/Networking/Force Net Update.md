@@ -1,5 +1,5 @@
 ---
-display_name: Force Net Update
+title: Force Net Update
 order: 3
 ---
 ## Navigation

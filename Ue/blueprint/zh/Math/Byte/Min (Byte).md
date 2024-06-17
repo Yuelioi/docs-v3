@@ -1,5 +1,5 @@
 ---
-display_name: Min (Byte)
+title: Min (Byte)
 order: 5
 ---
 ## Navigation

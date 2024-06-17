@@ -1,5 +1,5 @@
 ---
-display_name: Set Temperature
+title: Set Temperature
 order: 137
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 抠像清除器
+title: 抠像清除器
 order: 8
 ---
 

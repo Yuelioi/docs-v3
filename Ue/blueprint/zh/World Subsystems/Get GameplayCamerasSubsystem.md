@@ -1,5 +1,5 @@
 ---
-display_name: Get GameplayCamerasSubsystem
+title: Get GameplayCamerasSubsystem
 order: 29
 ---
 ## Navigation

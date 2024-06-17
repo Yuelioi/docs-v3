@@ -1,5 +1,5 @@
 ---
-display_name: Finish Abort
+title: Finish Abort
 order: 2
 ---
 ## Navigation

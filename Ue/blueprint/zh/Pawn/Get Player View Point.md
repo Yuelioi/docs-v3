@@ -1,5 +1,5 @@
 ---
-display_name: Get Player View Point
+title: Get Player View Point
 order: 15
 ---
 ## Navigation

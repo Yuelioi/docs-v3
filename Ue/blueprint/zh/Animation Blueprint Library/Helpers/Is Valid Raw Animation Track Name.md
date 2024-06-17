@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Raw Animation Track Name
+title: Is Valid Raw Animation Track Name
 order: 8
 ---
 ## Navigation

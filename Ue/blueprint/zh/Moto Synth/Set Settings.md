@@ -1,5 +1,5 @@
 ---
-display_name: Set Settings
+title: Set Settings
 order: 4
 ---
 ## Navigation

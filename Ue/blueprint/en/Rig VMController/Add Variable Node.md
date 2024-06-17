@@ -1,5 +1,5 @@
 ---
-display_name: Add Variable Node
+title: Add Variable Node
 order: 31
 ---
 ## Navigation

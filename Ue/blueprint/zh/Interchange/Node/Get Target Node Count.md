@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Node Count
+title: Get Target Node Count
 order: 39
 ---
 ## Navigation

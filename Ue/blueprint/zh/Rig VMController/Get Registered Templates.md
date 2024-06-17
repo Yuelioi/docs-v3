@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Templates
+title: Get Registered Templates
 order: 54
 ---
 ## Navigation

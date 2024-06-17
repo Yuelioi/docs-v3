@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Array Metadata
+title: Get Vector Array Metadata
 order: 90
 ---
 ## Navigation

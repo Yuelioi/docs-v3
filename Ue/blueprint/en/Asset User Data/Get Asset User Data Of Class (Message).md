@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset User Data Of Class (Message)
+title: Get Asset User Data Of Class (Message)
 order: 3
 ---
 ## Navigation

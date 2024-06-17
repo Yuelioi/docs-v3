@@ -1,5 +1,5 @@
 ---
-display_name: Remove Postprocess
+title: Remove Postprocess
 order: 9
 ---
 ## Navigation

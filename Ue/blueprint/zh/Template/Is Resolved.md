@@ -1,5 +1,5 @@
 ---
-display_name: Is Resolved
+title: Is Resolved
 order: 3
 ---
 ## Navigation

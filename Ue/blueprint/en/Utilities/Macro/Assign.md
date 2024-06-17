@@ -1,5 +1,5 @@
 ---
-display_name: Assign
+title: Assign
 order: 1
 ---
 ## Navigation

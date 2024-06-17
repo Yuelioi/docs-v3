@@ -1,5 +1,5 @@
 ---
-display_name: To String (Matrix)
+title: To String (Matrix)
 order: 70
 ---
 ## Navigation

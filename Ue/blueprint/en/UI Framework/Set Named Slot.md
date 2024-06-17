@@ -1,5 +1,5 @@
 ---
-display_name: Set Named Slot
+title: Set Named Slot
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Shaft Override Direction
+title: Set Light Shaft Override Direction
 order: 19
 ---
 ## Navigation

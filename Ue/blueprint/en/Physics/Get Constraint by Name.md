@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraint by Name
+title: Get Constraint by Name
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Input Mapped
+title: Is Input Mapped
 order: 171
 ---
 ## Navigation

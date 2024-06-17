@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Type from Guid
+title: Get Source Type from Guid
 order: 30
 ---
 ## Navigation

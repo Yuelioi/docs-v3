@@ -1,5 +1,5 @@
 ---
-display_name: Lerp (LinearColor)
+title: Lerp (LinearColor)
 order: 7
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 3
-display_name: Alpha
+title: Alpha
 ---
 
 # Bevel Alpha - 斜面 Alpha

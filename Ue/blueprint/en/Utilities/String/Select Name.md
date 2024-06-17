@@ -1,5 +1,5 @@
 ---
-display_name: Select Name
+title: Select Name
 order: 42
 ---
 ## Navigation

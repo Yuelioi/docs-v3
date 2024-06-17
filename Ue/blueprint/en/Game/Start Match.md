@@ -1,5 +1,5 @@
 ---
-display_name: Start Match
+title: Start Match
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Validate Assets with Settings
+title: Validate Assets with Settings
 order: 7
 ---
 ## Navigation

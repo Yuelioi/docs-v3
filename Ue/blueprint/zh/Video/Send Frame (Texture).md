@@ -1,5 +1,5 @@
 ---
-display_name: Send Frame (Texture)
+title: Send Frame (Texture)
 order: 11
 ---
 ## Navigation

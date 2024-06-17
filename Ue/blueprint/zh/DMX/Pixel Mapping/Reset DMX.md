@@ -1,5 +1,5 @@
 ---
-display_name: Reset DMX
+title: Reset DMX
 order: 5
 ---
 ## Navigation

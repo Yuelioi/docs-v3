@@ -1,5 +1,5 @@
 ---
-display_name: Recorded
+title: Recorded
 order: 16
 ---
 ## Navigation

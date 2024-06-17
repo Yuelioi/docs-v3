@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Compression Settings
+title: Get Bone Compression Settings
 order: 1
 ---
 ## Navigation

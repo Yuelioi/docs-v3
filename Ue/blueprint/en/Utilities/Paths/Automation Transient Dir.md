@@ -1,5 +1,5 @@
 ---
-display_name: Automation Transient Dir
+title: Automation Transient Dir
 order: 3
 ---
 ## Navigation

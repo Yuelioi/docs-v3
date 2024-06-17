@@ -1,5 +1,5 @@
 ---
-display_name: Beat to Ms
+title: Beat to Ms
 order: 1
 ---
 ## Navigation

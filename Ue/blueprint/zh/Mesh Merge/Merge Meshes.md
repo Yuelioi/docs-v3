@@ -1,5 +1,5 @@
 ---
-display_name: Merge Meshes
+title: Merge Meshes
 order: 1
 ---
 ## Navigation

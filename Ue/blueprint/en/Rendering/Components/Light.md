@@ -1,5 +1,5 @@
 ---
-display_name: Light
+title: Light
 order: 4
 ---
 ## Navigation

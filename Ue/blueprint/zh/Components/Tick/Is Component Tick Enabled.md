@@ -1,5 +1,5 @@
 ---
-display_name: Is Component Tick Enabled
+title: Is Component Tick Enabled
 order: 4
 ---
 ## Navigation

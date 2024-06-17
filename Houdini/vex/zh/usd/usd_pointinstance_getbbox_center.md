@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_getbbox_center
+title: usd_pointinstance_getbbox_center
 order: 99
 ---
 | Since | 18.0 |

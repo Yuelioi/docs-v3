@@ -1,5 +1,5 @@
 ---
-display_name: getpointbbox_size
+title: getpointbbox_size
 order: 13
 ---
 `vector  getpointbbox_size(<geometry>geometry)`

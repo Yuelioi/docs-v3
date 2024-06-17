@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Vector 2D
+title: Set Control Vector 2D
 order: 36
 ---
 ## Navigation

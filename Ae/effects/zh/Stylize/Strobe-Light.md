@@ -1,5 +1,5 @@
 ---
-display_name: 闪光灯
+title: 闪光灯
 order: 23
 ---
 

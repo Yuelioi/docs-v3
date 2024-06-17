@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Profile from Name
+title: Set Input Profile from Name
 order: 9
 ---
 ## Navigation

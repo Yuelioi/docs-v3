@@ -1,5 +1,5 @@
 ---
-display_name: God
+title: God
 order: 10
 ---
 ## Navigation

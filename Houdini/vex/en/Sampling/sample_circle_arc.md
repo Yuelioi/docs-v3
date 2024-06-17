@@ -1,5 +1,5 @@
 ---
-display_name: sample_circle_arc
+title: sample_circle_arc
 order: 8
 ---
 `vector2  sample_circle_arc(vector2 center, float maxangle, float u)`

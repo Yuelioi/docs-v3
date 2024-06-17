@@ -1,5 +1,5 @@
 ---
-display_name: Get RigidBodies
+title: Get RigidBodies
 order: 75
 ---
 ## Navigation

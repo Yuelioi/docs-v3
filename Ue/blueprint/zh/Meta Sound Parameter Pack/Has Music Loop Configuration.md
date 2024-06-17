@@ -1,5 +1,5 @@
 ---
-display_name: Has Music Loop Configuration
+title: Has Music Loop Configuration
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Days
+title: Get Total Days
 order: 14
 ---
 ## Navigation

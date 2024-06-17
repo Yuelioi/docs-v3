@@ -1,5 +1,5 @@
 ---
-display_name: Get Tick Behavior
+title: Get Tick Behavior
 order: 25
 ---
 ## Navigation

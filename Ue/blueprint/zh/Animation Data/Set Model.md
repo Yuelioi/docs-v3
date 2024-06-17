@@ -1,5 +1,5 @@
 ---
-display_name: Set Model
+title: Set Model
 order: 22
 ---
 ## Navigation

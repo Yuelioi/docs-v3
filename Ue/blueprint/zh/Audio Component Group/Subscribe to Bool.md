@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe to Bool
+title: Subscribe to Bool
 order: 20
 ---
 ## Navigation

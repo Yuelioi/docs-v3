@@ -1,5 +1,5 @@
 ---
-display_name: Make Void Option
+title: Make Void Option
 order: 20
 ---
 ## Navigation

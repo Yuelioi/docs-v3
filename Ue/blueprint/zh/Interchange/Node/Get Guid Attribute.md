@@ -1,5 +1,5 @@
 ---
-display_name: Get Guid Attribute
+title: Get Guid Attribute
 order: 32
 ---
 ## Navigation

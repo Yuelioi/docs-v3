@@ -1,5 +1,5 @@
 ---
-display_name: To Vector2D
+title: To Vector2D
 order: 38
 ---
 ## Navigation

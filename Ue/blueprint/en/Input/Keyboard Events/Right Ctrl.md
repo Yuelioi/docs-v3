@@ -1,5 +1,5 @@
 ---
-display_name: Right Ctrl
+title: Right Ctrl
 order: 92
 ---
 ## Navigation

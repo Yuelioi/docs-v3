@@ -1,5 +1,5 @@
 ---
-display_name: Set Exterior Volume
+title: Set Exterior Volume
 order: 3
 ---
 ## Navigation

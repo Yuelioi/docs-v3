@@ -1,5 +1,5 @@
 ---
-display_name: Get Children Names
+title: Get Children Names
 order: 8
 ---
 ## Navigation

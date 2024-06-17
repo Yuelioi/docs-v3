@@ -1,5 +1,5 @@
 ---
-display_name: Get Qualified Frame Time
+title: Get Qualified Frame Time
 order: 6
 ---
 ## Navigation

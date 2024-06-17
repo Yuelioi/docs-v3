@@ -1,5 +1,5 @@
 ---
-display_name: Get Encoder Network Asset
+title: Get Encoder Network Asset
 order: 58
 ---
 ## Navigation

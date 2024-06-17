@@ -1,5 +1,5 @@
 ---
-display_name: On Actor Dropped from Transform (Message)
+title: On Actor Dropped from Transform (Message)
 order: 3
 ---
 ## Navigation

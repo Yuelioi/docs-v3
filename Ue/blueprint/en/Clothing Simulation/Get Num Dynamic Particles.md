@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Dynamic Particles
+title: Get Num Dynamic Particles
 order: 6
 ---
 ## Navigation

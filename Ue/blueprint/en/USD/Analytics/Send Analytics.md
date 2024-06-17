@@ -1,5 +1,5 @@
 ---
-display_name: Send Analytics
+title: Send Analytics
 order: 2
 ---
 ## Navigation

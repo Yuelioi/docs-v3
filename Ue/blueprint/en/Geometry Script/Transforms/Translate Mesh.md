@@ -1,5 +1,5 @@
 ---
-display_name: Translate Mesh
+title: Translate Mesh
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Url Changed
+title: On Url Changed
 order: 3
 ---
 ## Navigation

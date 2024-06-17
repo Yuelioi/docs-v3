@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Rotator
+title: Parse Json as Rotator
 order: 21
 ---
 ## Navigation

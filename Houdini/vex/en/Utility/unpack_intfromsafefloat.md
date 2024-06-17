@@ -1,5 +1,5 @@
 ---
-display_name: unpack_intfromsafefloat
+title: unpack_intfromsafefloat
 order: 21
 ---
 `int  unpack_intfromsafefloat(float f)`

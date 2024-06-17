@@ -1,5 +1,5 @@
 ---
-display_name: Set View Rotation
+title: Set View Rotation
 order: 34
 ---
 ## Navigation

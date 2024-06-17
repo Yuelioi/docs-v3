@@ -1,5 +1,5 @@
 ---
-display_name: floor
+title: floor
 order: 29
 ---
 `float|int floor(float n)`

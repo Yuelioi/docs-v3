@@ -1,5 +1,5 @@
 ---
-display_name: GetDerivedClassNames (Message)
+title: GetDerivedClassNames (Message)
 order: 28
 ---
 ## Navigation

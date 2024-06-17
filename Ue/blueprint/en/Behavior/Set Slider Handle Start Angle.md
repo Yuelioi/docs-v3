@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Handle Start Angle
+title: Set Slider Handle Start Angle
 order: 30
 ---
 ## Navigation

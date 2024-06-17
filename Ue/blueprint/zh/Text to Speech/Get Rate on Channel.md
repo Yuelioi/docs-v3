@@ -1,5 +1,5 @@
 ---
-display_name: Get Rate on Channel
+title: Get Rate on Channel
 order: 9
 ---
 ## Navigation

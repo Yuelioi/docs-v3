@@ -1,5 +1,5 @@
 ---
-display_name: Get Factory Dependency
+title: Get Factory Dependency
 order: 30
 ---
 ## Navigation

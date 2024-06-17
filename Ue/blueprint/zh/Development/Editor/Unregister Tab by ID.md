@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Tab by ID
+title: Unregister Tab by ID
 order: 37
 ---
 ## Navigation

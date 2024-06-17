@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Data Registry Id
+title: Is Valid Data Registry Id
 order: 18
 ---
 ## Navigation

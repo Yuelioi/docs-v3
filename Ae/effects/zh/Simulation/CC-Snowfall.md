@@ -1,5 +1,5 @@
 ---
-display_name: CC 降雪
+title: CC 降雪
 order: 13
 ---
 

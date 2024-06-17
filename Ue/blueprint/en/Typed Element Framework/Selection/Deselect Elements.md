@@ -1,5 +1,5 @@
 ---
-display_name: Deselect Elements
+title: Deselect Elements
 order: 9
 ---
 ## Navigation

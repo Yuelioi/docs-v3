@@ -1,5 +1,5 @@
 ---
-display_name: Enable Material IDs
+title: Enable Material IDs
 order: 4
 ---
 ## Navigation

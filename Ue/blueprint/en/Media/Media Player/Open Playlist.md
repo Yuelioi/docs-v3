@@ -1,5 +1,5 @@
 ---
-display_name: Open Playlist
+title: Open Playlist
 order: 58
 ---
 ## Navigation

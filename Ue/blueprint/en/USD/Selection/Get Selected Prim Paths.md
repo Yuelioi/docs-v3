@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Prim Paths
+title: Get Selected Prim Paths
 order: 2
 ---
 ## Navigation

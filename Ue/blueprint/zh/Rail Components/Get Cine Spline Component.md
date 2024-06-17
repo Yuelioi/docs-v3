@@ -1,5 +1,5 @@
 ---
-display_name: Get Cine Spline Component
+title: Get Cine Spline Component
 order: 1
 ---
 ## Navigation

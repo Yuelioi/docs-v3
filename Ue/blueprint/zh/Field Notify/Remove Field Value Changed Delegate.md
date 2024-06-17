@@ -1,5 +1,5 @@
 ---
-display_name: Remove Field Value Changed Delegate
+title: Remove Field Value Changed Delegate
 order: 3
 ---
 ## Navigation

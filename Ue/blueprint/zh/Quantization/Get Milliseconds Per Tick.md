@@ -1,5 +1,5 @@
 ---
-display_name: Get Milliseconds Per Tick
+title: Get Milliseconds Per Tick
 order: 3
 ---
 ## Navigation

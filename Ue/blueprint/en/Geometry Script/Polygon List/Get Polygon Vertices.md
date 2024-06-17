@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Vertices
+title: Get Polygon Vertices
 order: 15
 ---
 ## Navigation

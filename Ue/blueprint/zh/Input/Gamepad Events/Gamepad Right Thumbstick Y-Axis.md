@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick Y-Axis
+title: Gamepad Right Thumbstick Y-Axis
 order: 28
 ---
 ## Navigation

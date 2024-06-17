@@ -1,5 +1,5 @@
 ---
-display_name: Apply Settings
+title: Apply Settings
 order: 1
 ---
 ## Navigation

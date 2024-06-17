@@ -1,5 +1,5 @@
 ---
-display_name: Zero Value (Timespan)
+title: Zero Value (Timespan)
 order: 25
 ---
 ## Navigation

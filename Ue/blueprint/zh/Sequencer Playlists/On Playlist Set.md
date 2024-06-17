@@ -1,5 +1,5 @@
 ---
-display_name: On Playlist Set
+title: On Playlist Set
 order: 4
 ---
 ## Navigation

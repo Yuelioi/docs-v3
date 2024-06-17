@@ -1,5 +1,5 @@
 ---
-display_name: sequences 序列对象
+title: sequences 序列对象
 order: 4
 ---
 

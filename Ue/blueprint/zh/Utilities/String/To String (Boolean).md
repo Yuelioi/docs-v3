@@ -1,5 +1,5 @@
 ---
-display_name: To String (Boolean)
+title: To String (Boolean)
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Player Controller
+title: Is Player Controller
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Lods
+title: Remove Lods
 order: 27
 ---
 ## Navigation

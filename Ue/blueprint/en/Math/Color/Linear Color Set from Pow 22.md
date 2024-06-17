@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set from Pow 22
+title: Linear Color Set from Pow 22
 order: 18
 ---
 ## Navigation

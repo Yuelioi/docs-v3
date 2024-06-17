@@ -1,5 +1,5 @@
 ---
-display_name: Get Init State (Message)
+title: Get Init State (Message)
 order: 3
 ---
 ## Navigation

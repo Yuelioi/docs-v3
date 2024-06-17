@@ -1,5 +1,5 @@
 ---
-display_name: Set Simple Collision Of Dynamic Mesh Component
+title: Set Simple Collision Of Dynamic Mesh Component
 order: 11
 ---
 ## Navigation

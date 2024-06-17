@@ -1,5 +1,5 @@
 ---
-display_name: Unmap All Keys from Action
+title: Unmap All Keys from Action
 order: 2
 ---
 ## Navigation

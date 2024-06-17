@@ -1,5 +1,5 @@
 ---
-display_name: Get Column (Matrix)
+title: Get Column (Matrix)
 order: 4
 ---
 ## Navigation

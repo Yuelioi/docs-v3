@@ -1,5 +1,5 @@
 ---
-display_name: Get Pivot Offset
+title: Get Pivot Offset
 order: 24
 ---
 ## Navigation

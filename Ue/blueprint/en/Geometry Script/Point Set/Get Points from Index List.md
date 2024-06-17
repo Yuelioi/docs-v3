@@ -1,5 +1,5 @@
 ---
-display_name: Get Points from Index List
+title: Get Points from Index List
 order: 3
 ---
 ## Navigation

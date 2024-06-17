@@ -1,5 +1,5 @@
 ---
-display_name: Is Streaming Completed
+title: Is Streaming Completed
 order: 4
 ---
 ## Navigation

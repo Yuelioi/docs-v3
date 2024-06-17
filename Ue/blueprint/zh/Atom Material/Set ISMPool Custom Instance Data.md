@@ -1,5 +1,5 @@
 ---
-display_name: Set ISMPool Custom Instance Data
+title: Set ISMPool Custom Instance Data
 order: 1
 ---
 ## Navigation

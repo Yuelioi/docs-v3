@@ -1,5 +1,5 @@
 ---
-display_name: Scan Paths Synchronous
+title: Scan Paths Synchronous
 order: 47
 ---
 ## Navigation

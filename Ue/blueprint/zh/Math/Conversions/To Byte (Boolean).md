@@ -1,5 +1,5 @@
 ---
-display_name: To Byte (Boolean)
+title: To Byte (Boolean)
 order: 4
 ---
 ## Navigation

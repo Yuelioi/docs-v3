@@ -1,5 +1,5 @@
 ---
-display_name: B
+title: B
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Edge Internal to Polygon
+title: Is Edge Internal to Polygon
 order: 73
 ---
 ## Navigation

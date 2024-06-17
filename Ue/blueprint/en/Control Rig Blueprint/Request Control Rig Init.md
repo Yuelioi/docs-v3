@@ -1,5 +1,5 @@
 ---
-display_name: Request Control Rig Init
+title: Request Control Rig Init
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraint
+title: Get Constraint
 order: 1
 ---
 ## Navigation

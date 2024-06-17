@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Material
+title: Get Water Material
 order: 28
 ---
 ## Navigation

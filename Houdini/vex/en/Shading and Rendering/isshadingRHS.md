@@ -1,5 +1,5 @@
 ---
-display_name: isshadingRHS
+title: isshadingRHS
 order: 45
 ---
 | Context(s) | [fog](../contexts/fog.html)  [light](../contexts/light.html)  [shadow](../contexts/shadow.html)  [surface](../contexts/surface.html)  [displace](../contexts/displace.html) |

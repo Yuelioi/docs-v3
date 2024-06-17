@@ -1,5 +1,5 @@
 ---
-display_name: Get Unit Direction (Vector)
+title: Get Unit Direction (Vector)
 order: 26
 ---
 ## Navigation

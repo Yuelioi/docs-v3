@@ -1,5 +1,5 @@
 ---
-display_name: Set Stack Count to Max
+title: Set Stack Count to Max
 order: 32
 ---
 ## Navigation

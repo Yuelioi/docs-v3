@@ -1,5 +1,5 @@
 ---
-display_name: Tab
+title: Tab
 order: 102
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Float
+title: Get Control Float
 order: 10
 ---
 ## Navigation

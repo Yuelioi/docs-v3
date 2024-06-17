@@ -1,5 +1,5 @@
 ---
-display_name: SetPolyGroupMaterialID
+title: SetPolyGroupMaterialID
 order: 13
 ---
 ## Navigation

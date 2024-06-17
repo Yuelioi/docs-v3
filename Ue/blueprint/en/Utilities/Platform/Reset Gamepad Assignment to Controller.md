@@ -1,5 +1,5 @@
 ---
-display_name: Reset Gamepad Assignment to Controller
+title: Reset Gamepad Assignment to Controller
 order: 20
 ---
 ## Navigation

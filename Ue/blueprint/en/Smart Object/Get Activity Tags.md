@@ -1,5 +1,5 @@
 ---
-display_name: Get Activity Tags
+title: Get Activity Tags
 order: 13
 ---
 ## Navigation

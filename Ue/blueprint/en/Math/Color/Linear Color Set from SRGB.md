@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set from SRGB
+title: Linear Color Set from SRGB
 order: 19
 ---
 ## Navigation

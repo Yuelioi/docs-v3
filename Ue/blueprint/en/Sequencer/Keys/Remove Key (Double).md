@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Double)
+title: Remove Key (Double)
 order: 92
 ---
 ## Navigation

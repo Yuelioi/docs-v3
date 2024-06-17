@@ -1,5 +1,5 @@
 ---
-display_name: Do Despawning
+title: Do Despawning
 order: 2
 ---
 ## Navigation

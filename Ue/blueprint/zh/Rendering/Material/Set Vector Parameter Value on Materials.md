@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter Value on Materials
+title: Set Vector Parameter Value on Materials
 order: 62
 ---
 ## Navigation

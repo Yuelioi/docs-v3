@@ -1,5 +1,5 @@
 ---
-display_name: Cache Achievements
+title: Cache Achievements
 order: 2
 ---
 ## Navigation

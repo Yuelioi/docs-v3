@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Audio Channel Count
+title: Get Max Audio Channel Count
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Audio Quality Level
+title: Set Audio Quality Level
 order: 108
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Build Collision with Callback
+title: Build Collision with Callback
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Element (Message)
+title: Duplicate Element (Message)
 order: 15
 ---
 ## Navigation

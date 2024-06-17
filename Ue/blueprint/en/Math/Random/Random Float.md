@@ -1,5 +1,5 @@
 ---
-display_name: Random Float
+title: Random Float
 order: 17
 ---
 ## Navigation

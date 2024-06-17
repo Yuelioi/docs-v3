@@ -1,5 +1,5 @@
 ---
-display_name: Read ID
+title: Read ID
 order: 10
 ---
 ## Navigation

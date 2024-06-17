@@ -1,5 +1,5 @@
 ---
-display_name: Activate Channel
+title: Activate Channel
 order: 2
 ---
 ## Navigation

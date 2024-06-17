@@ -1,5 +1,5 @@
 ---
-display_name: Set Property Name
+title: Set Property Name
 order: 11
 ---
 ## Navigation

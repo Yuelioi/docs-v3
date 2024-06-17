@@ -1,5 +1,5 @@
 ---
-display_name: encode
+title: encode
 order: 8
 ---
 | Since | 17.5 |

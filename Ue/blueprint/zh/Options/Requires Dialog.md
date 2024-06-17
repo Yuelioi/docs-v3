@@ -1,5 +1,5 @@
 ---
-display_name: Requires Dialog
+title: Requires Dialog
 order: 6
 ---
 ## Navigation

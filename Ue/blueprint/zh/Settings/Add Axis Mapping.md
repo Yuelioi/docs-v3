@@ -1,5 +1,5 @@
 ---
-display_name: Add Axis Mapping
+title: Add Axis Mapping
 order: 2
 ---
 ## Navigation

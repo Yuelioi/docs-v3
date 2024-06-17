@@ -1,5 +1,5 @@
 ---
-display_name: Create Skeletal Mesh Data Interface
+title: Create Skeletal Mesh Data Interface
 order: 24
 ---
 ## Navigation

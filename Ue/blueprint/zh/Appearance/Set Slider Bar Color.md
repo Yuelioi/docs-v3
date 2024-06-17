@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Bar Color
+title: Set Slider Bar Color
 order: 79
 ---
 ## Navigation

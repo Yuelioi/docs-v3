@@ -1,5 +1,5 @@
 ---
-display_name: Find Function
+title: Find Function
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Forget All
+title: Forget All
 order: 1
 ---
 ## Navigation

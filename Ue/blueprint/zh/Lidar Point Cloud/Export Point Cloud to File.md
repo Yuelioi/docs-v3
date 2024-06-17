@@ -1,5 +1,5 @@
 ---
-display_name: Export Point Cloud to File
+title: Export Point Cloud to File
 order: 18
 ---
 ## Navigation

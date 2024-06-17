@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys By Index (Bool)
+title: Get Keys By Index (Bool)
 order: 38
 ---
 ## Navigation

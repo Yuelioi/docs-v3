@@ -1,5 +1,5 @@
 ---
-display_name: Set Gizmo Transform
+title: Set Gizmo Transform
 order: 4
 ---
 ## Navigation

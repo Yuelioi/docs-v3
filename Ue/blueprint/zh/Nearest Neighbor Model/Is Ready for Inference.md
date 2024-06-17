@@ -1,5 +1,5 @@
 ---
-display_name: Is Ready for Inference
+title: Is Ready for Inference
 order: 19
 ---
 ## Navigation

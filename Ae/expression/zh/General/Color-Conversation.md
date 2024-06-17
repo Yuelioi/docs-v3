@@ -1,5 +1,5 @@
 ---
-display_name: Color-Conversation
+title: Color-Conversation
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enabled Channels
+title: Get Enabled Channels
 order: 2
 ---
 ## Navigation

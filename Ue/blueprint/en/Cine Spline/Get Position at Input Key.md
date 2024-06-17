@@ -1,5 +1,5 @@
 ---
-display_name: Get Position at Input Key
+title: Get Position at Input Key
 order: 6
 ---
 ## Navigation

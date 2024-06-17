@@ -1,5 +1,5 @@
 ---
-display_name: Identity (Matrix)
+title: Identity (Matrix)
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Vector Parameter Value
+title: Set Material Instance Vector Parameter Value
 order: 54
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Read From Niagara Data Channel (Batch)
+title: Read From Niagara Data Channel (Batch)
 order: 8
 ---
 ## Navigation

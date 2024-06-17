@@ -1,5 +1,5 @@
 ---
-display_name: Get Style for Modifier by Class
+title: Get Style for Modifier by Class
 order: 42
 ---
 ## Navigation

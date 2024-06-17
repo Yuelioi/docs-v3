@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset
+title: Add Asset
 order: 1
 ---
 ## Navigation

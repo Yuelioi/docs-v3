@@ -1,5 +1,5 @@
 ---
-display_name: 基本文字
+title: 基本文字
 order: 1
 ---
 

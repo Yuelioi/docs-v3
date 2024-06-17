@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound Class Distance Scale
+title: Set Sound Class Distance Scale
 order: 13
 ---
 ## Navigation

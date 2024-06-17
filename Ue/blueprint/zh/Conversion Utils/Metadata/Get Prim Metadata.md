@@ -1,5 +1,5 @@
 ---
-display_name: Get Prim Metadata
+title: Get Prim Metadata
 order: 2
 ---
 ## Navigation

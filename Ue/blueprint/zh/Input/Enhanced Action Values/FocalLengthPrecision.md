@@ -1,5 +1,5 @@
 ---
-display_name: FocalLengthPrecision
+title: FocalLengthPrecision
 order: 23
 ---
 ## Navigation

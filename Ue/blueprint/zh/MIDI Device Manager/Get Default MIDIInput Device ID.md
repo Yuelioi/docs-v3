@@ -1,5 +1,5 @@
 ---
-display_name: Get Default MIDIInput Device ID
+title: Get Default MIDIInput Device ID
 order: 6
 ---
 ## Navigation

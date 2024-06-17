@@ -1,5 +1,5 @@
 ---
-display_name: Replace Unreal Materials with Baked
+title: Replace Unreal Materials with Baked
 order: 7
 ---
 ## Navigation

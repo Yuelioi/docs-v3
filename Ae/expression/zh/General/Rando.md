@@ -1,5 +1,5 @@
 ---
-display_name: Random
+title: Random
 order: 6
 ---
 

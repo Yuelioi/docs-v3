@@ -1,5 +1,5 @@
 ---
-display_name: Convert Scalar List to Array
+title: Convert Scalar List to Array
 order: 14
 ---
 ## Navigation

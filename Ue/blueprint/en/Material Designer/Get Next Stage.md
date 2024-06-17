@@ -1,5 +1,5 @@
 ---
-display_name: Get Next Stage
+title: Get Next Stage
 order: 110
 ---
 ## Navigation

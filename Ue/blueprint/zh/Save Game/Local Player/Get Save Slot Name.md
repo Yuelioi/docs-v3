@@ -1,5 +1,5 @@
 ---
-display_name: Get Save Slot Name
+title: Get Save Slot Name
 order: 8
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 3
-display_name: skeleton
+title: skeleton
 ---
 
 Resource - SkeletonPiPL.r 用于修改 匹配名 目录等信息

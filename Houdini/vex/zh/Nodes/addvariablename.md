@@ -1,5 +1,5 @@
 ---
-display_name: addvariablename
+title: addvariablename
 order: 1
 ---
 `void  addvariablename(string aname, string vname)`

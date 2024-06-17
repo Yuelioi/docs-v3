@@ -1,5 +1,5 @@
 ---
-display_name: Set All Bodies Below Linear Velocity
+title: Set All Bodies Below Linear Velocity
 order: 10
 ---
 ## Navigation

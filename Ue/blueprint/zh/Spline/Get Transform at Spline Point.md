@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform at Spline Point
+title: Get Transform at Spline Point
 order: 70
 ---
 ## Navigation

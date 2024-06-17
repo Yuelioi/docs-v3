@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Ability Activate
+title: Wait for Ability Activate
 order: 44
 ---
 ## Navigation

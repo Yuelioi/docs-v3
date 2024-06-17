@@ -1,5 +1,5 @@
 ---
-display_name: Convert Instanced Foliage Actor
+title: Convert Instanced Foliage Actor
 order: 5
 ---
 ## Navigation

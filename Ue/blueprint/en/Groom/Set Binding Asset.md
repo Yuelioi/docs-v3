@@ -1,5 +1,5 @@
 ---
-display_name: Set Binding Asset
+title: Set Binding Asset
 order: 6
 ---
 ## Navigation

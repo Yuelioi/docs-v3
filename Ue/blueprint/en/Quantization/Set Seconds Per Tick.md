@@ -1,5 +1,5 @@
 ---
-display_name: Set Seconds Per Tick
+title: Set Seconds Per Tick
 order: 9
 ---
 ## Navigation

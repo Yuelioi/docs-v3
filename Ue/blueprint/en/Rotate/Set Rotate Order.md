@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotate Order
+title: Set Rotate Order
 order: 4
 ---
 ## Navigation

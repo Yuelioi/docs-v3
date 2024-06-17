@@ -1,5 +1,5 @@
 ---
-display_name: Get GameplayBehaviorSubsystem
+title: Get GameplayBehaviorSubsystem
 order: 28
 ---
 ## Navigation

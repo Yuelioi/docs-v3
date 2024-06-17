@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Input
+title: Set Float Input
 order: 24
 ---
 ## Navigation

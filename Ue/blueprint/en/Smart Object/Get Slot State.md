@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot State
+title: Get Slot State
 order: 22
 ---
 ## Navigation

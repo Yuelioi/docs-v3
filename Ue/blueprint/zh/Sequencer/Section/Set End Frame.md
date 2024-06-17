@@ -1,5 +1,5 @@
 ---
-display_name: Set End Frame
+title: Set End Frame
 order: 79
 ---
 ## Navigation

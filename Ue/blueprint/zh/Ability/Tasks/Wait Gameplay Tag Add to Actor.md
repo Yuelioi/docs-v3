@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Add to Actor
+title: Wait Gameplay Tag Add to Actor
 order: 29
 ---
 ## Navigation

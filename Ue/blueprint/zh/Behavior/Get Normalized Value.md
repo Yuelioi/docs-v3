@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Value
+title: Get Normalized Value
 order: 12
 ---
 ## Navigation

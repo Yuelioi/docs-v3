@@ -1,5 +1,5 @@
 ---
-display_name: agentcliplength
+title: agentcliplength
 order: 10
 ---
 `float  agentcliplength(<geometry>geometry, int prim, string clipname)`

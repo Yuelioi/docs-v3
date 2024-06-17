@@ -1,5 +1,5 @@
 ---
-display_name: Set Face Component Debug Mode
+title: Set Face Component Debug Mode
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Attach Composure Element
+title: Attach Composure Element
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is in Laptop Mode
+title: Is in Laptop Mode
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Collision Enabled
+title: Is Collision Enabled
 order: 36
 ---
 ## Navigation

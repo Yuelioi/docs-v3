@@ -1,5 +1,5 @@
 ---
-display_name: match
+title: match
 order: 20
 ---
 `int  match(string pattern, string subject)`

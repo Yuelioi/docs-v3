@@ -1,5 +1,5 @@
 ---
-display_name: Can Restart Player
+title: Can Restart Player
 order: 6
 ---
 ## Navigation

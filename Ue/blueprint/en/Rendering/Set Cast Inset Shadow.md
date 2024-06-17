@@ -1,5 +1,5 @@
 ---
-display_name: Set Cast Inset Shadow
+title: Set Cast Inset Shadow
 order: 23
 ---
 ## Navigation

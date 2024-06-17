@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Vector4)
+title: Assert Not Equal (Vector4)
 order: 30
 ---
 ## Navigation

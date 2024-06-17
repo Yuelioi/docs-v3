@@ -1,5 +1,5 @@
 ---
-display_name: Vector Clamp Size Max
+title: Vector Clamp Size Max
 order: 64
 ---
 ## Navigation

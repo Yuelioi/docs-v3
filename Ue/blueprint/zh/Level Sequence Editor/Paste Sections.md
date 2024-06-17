@@ -1,5 +1,5 @@
 ---
-display_name: Paste Sections
+title: Paste Sections
 order: 45
 ---
 ## Navigation

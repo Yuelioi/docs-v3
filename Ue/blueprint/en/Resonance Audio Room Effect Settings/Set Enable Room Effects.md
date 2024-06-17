@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Room Effects
+title: Set Enable Room Effects
 order: 1
 ---
 ## Navigation

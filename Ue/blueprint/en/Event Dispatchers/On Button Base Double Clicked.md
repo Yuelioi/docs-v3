@@ -1,5 +1,5 @@
 ---
-display_name: On Button Base Double Clicked
+title: On Button Base Double Clicked
 order: 59
 ---
 ## Navigation

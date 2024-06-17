@@ -1,5 +1,5 @@
 ---
-display_name: sensor_panorama_getdepth
+title: sensor_panorama_getdepth
 order: 4
 ---
 `float  sensor_panorama_getdepth(int handle, vector dir)`

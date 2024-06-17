@@ -1,5 +1,5 @@
 ---
-display_name: CurrentRigRail
+title: CurrentRigRail
 order: 10
 ---
 ## Navigation

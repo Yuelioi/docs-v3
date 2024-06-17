@@ -1,5 +1,5 @@
 ---
-display_name: volumesampleu
+title: volumesampleu
 order: 18
 ---
 `vector2  volumesampleu(<geometry>geometry, int primnum, vector pos)`

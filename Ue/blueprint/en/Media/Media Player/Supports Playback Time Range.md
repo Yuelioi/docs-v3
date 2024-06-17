@@ -1,5 +1,5 @@
 ---
-display_name: Supports Playback Time Range
+title: Supports Playback Time Range
 order: 83
 ---
 ## Navigation

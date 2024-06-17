@@ -1,5 +1,5 @@
 ---
-display_name: Get ActionableMessageSubsystem
+title: Get ActionableMessageSubsystem
 order: 1
 ---
 ## Navigation

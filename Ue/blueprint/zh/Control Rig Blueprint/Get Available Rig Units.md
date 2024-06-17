@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Rig Units
+title: Get Available Rig Units
 order: 3
 ---
 ## Navigation

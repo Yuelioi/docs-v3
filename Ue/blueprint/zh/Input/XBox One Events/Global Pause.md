@@ -1,5 +1,5 @@
 ---
-display_name: Global Pause
+title: Global Pause
 order: 3
 ---
 ## Navigation

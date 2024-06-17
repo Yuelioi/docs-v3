@@ -1,5 +1,5 @@
 ---
-display_name: Get Row Index
+title: Get Row Index
 order: 44
 ---
 ## Navigation

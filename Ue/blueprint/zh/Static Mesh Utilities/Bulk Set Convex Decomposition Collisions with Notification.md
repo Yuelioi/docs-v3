@@ -1,5 +1,5 @@
 ---
-display_name: Bulk Set Convex Decomposition Collisions with Notification
+title: Bulk Set Convex Decomposition Collisions with Notification
 order: 4
 ---
 ## Navigation

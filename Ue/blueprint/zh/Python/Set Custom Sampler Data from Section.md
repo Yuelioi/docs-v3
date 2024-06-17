@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Sampler Data from Section
+title: Set Custom Sampler Data from Section
 order: 57
 ---
 ## Navigation

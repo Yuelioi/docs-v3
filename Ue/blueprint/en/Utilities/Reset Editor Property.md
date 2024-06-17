@@ -1,5 +1,5 @@
 ---
-display_name: Reset Editor Property
+title: Reset Editor Property
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Float)
+title: Get Default (Float)
 order: 23
 ---
 ## Navigation

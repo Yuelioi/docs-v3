@@ -1,5 +1,5 @@
 ---
-display_name: Get Player State from Unique Net Id
+title: Get Player State from Unique Net Id
 order: 41
 ---
 ## Navigation

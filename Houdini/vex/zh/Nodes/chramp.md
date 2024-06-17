@@ -1,5 +1,5 @@
 ---
-display_name: chramp
+title: chramp
 order: 14
 ---
 `float  chramp(string channel, float ramppos)`

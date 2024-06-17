@@ -1,5 +1,5 @@
 ---
-display_name: Set Inverse Exposure Blend
+title: Set Inverse Exposure Blend
 order: 17
 ---
 ## Navigation

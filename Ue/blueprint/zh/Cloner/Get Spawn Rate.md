@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawn Rate
+title: Get Spawn Rate
 order: 50
 ---
 ## Navigation

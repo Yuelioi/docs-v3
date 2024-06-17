@@ -1,5 +1,5 @@
 ---
-display_name: Set Age
+title: Set Age
 order: 22
 ---
 ## Navigation

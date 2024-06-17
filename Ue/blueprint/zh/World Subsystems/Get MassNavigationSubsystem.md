@@ -1,5 +1,5 @@
 ---
-display_name: Get MassNavigationSubsystem
+title: Get MassNavigationSubsystem
 order: 48
 ---
 ## Navigation

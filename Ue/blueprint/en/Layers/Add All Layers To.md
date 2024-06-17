@@ -1,5 +1,5 @@
 ---
-display_name: Add All Layers To
+title: Add All Layers To
 order: 6
 ---
 ## Navigation

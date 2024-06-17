@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttachRotationY
+title: ToggleAttachRotationY
 order: 102
 ---
 ## Navigation

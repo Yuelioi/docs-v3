@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Data Sources
+title: Get Active Data Sources
 order: 6
 ---
 ## Navigation

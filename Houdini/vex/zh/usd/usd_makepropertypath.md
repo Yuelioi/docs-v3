@@ -1,5 +1,5 @@
 ---
-display_name: usd_makepropertypath
+title: usd_makepropertypath
 order: 88
 ---
 | Since | 18.0 |

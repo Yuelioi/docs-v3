@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Platform User
+title: Get Primary Platform User
 order: 8
 ---
 ## Navigation

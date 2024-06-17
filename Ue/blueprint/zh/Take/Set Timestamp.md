@@ -1,5 +1,5 @@
 ---
-display_name: Set Timestamp
+title: Set Timestamp
 order: 27
 ---
 ## Navigation

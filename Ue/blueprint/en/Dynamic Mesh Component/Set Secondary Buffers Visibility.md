@@ -1,5 +1,5 @@
 ---
-display_name: Set Secondary Buffers Visibility
+title: Set Secondary Buffers Visibility
 order: 17
 ---
 ## Navigation

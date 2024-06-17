@@ -1,5 +1,5 @@
 ---
-display_name: Multi Box Trace For Objects
+title: Multi Box Trace For Objects
 order: 48
 ---
 ## Navigation

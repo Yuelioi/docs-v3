@@ -1,5 +1,5 @@
 ---
-display_name: Get Vortex Force Axis
+title: Get Vortex Force Axis
 order: 53
 ---
 ## Navigation

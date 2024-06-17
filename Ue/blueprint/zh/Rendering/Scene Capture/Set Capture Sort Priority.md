@@ -1,5 +1,5 @@
 ---
-display_name: Set Capture Sort Priority
+title: Set Capture Sort Priority
 order: 8
 ---
 ## Navigation

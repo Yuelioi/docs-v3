@@ -1,5 +1,5 @@
 ---
-display_name: Set Time (Integer)
+title: Set Time (Integer)
 order: 122
 ---
 ## Navigation

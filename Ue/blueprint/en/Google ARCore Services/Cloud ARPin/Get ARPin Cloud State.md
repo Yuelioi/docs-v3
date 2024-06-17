@@ -1,5 +1,5 @@
 ---
-display_name: Get ARPin Cloud State
+title: Get ARPin Cloud State
 order: 5
 ---
 ## Navigation

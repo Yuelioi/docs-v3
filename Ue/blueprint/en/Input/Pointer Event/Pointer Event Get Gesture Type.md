@@ -1,5 +1,5 @@
 ---
-display_name: Pointer Event Get Gesture Type
+title: Pointer Event Get Gesture Type
 order: 12
 ---
 ## Navigation

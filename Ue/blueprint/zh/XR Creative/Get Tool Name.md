@@ -1,5 +1,5 @@
 ---
-display_name: Get Tool Name
+title: Get Tool Name
 order: 16
 ---
 ## Navigation

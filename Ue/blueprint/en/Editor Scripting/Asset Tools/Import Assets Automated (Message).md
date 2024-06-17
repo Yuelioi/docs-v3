@@ -1,5 +1,5 @@
 ---
-display_name: Import Assets Automated (Message)
+title: Import Assets Automated (Message)
 order: 29
 ---
 ## Navigation

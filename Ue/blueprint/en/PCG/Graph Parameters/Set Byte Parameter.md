@@ -1,5 +1,5 @@
 ---
-display_name: Set Byte Parameter
+title: Set Byte Parameter
 order: 23
 ---
 ## Navigation

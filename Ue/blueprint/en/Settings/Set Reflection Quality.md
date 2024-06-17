@@ -1,5 +1,5 @@
 ---
-display_name: Set Reflection Quality
+title: Set Reflection Quality
 order: 127
 ---
 ## Navigation

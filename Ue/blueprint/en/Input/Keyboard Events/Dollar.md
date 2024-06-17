@@ -1,5 +1,5 @@
 ---
-display_name: Dollar
+title: Dollar
 order: 26
 ---
 ## Navigation

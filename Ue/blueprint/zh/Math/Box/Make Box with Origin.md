@@ -1,5 +1,5 @@
 ---
-display_name: Make Box with Origin
+title: Make Box with Origin
 order: 7
 ---
 ## Navigation

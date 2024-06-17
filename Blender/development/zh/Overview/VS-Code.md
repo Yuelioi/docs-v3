@@ -1,5 +1,5 @@
 ---
-display_name: VS Code环境配置
+title: VS Code环境配置
 order: 1
 ---
 

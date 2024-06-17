@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Location Similarity
+title: Make Reward from Location Similarity
 order: 221
 ---
 ## Navigation

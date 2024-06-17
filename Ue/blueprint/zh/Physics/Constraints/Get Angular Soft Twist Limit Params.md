@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Soft Twist Limit Params
+title: Get Angular Soft Twist Limit Params
 order: 9
 ---
 ## Navigation

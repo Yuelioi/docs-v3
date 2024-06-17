@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable Assignment Enable State
+title: Get Variable Assignment Enable State
 order: 18
 ---
 ## Navigation

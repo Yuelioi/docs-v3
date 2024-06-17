@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Text Style
+title: Get Selected Text Style
 order: 15
 ---
 ## Navigation

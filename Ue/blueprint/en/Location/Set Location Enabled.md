@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Enabled
+title: Set Location Enabled
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertical Anchor
+title: Get Vertical Anchor
 order: 6
 ---
 ## Navigation

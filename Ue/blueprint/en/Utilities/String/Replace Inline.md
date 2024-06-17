@@ -1,5 +1,5 @@
 ---
-display_name: Replace Inline
+title: Replace Inline
 order: 36
 ---
 ## Navigation

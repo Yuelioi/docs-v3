@@ -1,5 +1,5 @@
 ---
-display_name: Set DMXOutput Port Destination Addresses
+title: Set DMXOutput Port Destination Addresses
 order: 16
 ---
 ## Navigation

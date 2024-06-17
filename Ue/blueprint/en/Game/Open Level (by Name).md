@@ -1,5 +1,5 @@
 ---
-display_name: Open Level (by Name)
+title: Open Level (by Name)
 order: 4
 ---
 ## Navigation

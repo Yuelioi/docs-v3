@@ -1,5 +1,5 @@
 ---
-display_name: Disable Virtualization
+title: Disable Virtualization
 order: 6
 ---
 ## Navigation

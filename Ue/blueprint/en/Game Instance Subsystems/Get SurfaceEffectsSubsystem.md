@@ -1,5 +1,5 @@
 ---
-display_name: Get SurfaceEffectsSubsystem
+title: Get SurfaceEffectsSubsystem
 order: 7
 ---
 ## Navigation

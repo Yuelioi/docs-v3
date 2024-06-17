@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Thickness
+title: Set Slider Thickness
 order: 82
 ---
 ## Navigation

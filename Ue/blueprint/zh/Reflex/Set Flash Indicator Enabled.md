@@ -1,5 +1,5 @@
 ---
-display_name: Set Flash Indicator Enabled
+title: Set Flash Indicator Enabled
 order: 7
 ---
 ## Navigation

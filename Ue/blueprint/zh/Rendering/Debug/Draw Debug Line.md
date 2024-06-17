@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Line
+title: Draw Debug Line
 order: 13
 ---
 ## Navigation

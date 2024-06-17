@@ -1,5 +1,5 @@
 ---
-display_name: Is Template Element (Message)
+title: Is Template Element (Message)
 order: 29
 ---
 ## Navigation

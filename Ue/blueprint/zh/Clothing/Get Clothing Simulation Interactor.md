@@ -1,5 +1,5 @@
 ---
-display_name: Get Clothing Simulation Interactor
+title: Get Clothing Simulation Interactor
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Object Normal
+title: Make Bake Type Object Normal
 order: 12
 ---
 ## Navigation

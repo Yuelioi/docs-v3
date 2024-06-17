@@ -1,5 +1,5 @@
 ---
-display_name: Set Extension
+title: Set Extension
 order: 81
 ---
 ## Navigation

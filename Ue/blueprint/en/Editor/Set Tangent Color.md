@@ -1,5 +1,5 @@
 ---
-display_name: Set Tangent Color
+title: Set Tangent Color
 order: 6
 ---
 ## Navigation

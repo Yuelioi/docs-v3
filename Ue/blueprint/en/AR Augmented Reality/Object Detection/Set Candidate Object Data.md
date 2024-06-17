@@ -1,5 +1,5 @@
 ---
-display_name: Set Candidate Object Data
+title: Set Candidate Object Data
 order: 6
 ---
 ## Navigation

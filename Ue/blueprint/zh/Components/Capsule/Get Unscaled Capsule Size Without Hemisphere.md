@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Capsule Size Without Hemisphere
+title: Get Unscaled Capsule Size Without Hemisphere
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Shaping-functions
+title: Shaping-functions
 order: 5
 ---
 

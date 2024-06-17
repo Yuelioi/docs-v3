@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter Value
+title: Get Parameter Value
 order: 5
 ---
 ## Navigation

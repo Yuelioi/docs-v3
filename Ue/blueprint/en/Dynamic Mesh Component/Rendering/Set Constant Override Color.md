@@ -1,5 +1,5 @@
 ---
-display_name: Set Constant Override Color
+title: Set Constant Override Color
 order: 8
 ---
 ## Navigation

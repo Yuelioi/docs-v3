@@ -1,5 +1,5 @@
 ---
-display_name: Set Finish on Message with Id
+title: Set Finish on Message with Id
 order: 14
 ---
 ## Navigation

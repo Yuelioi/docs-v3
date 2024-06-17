@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source Function
+title: Change Stage Source Function
 order: 31
 ---
 ## Navigation

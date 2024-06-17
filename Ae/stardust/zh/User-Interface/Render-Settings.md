@@ -1,5 +1,5 @@
 ---
-display_name: Render Settings 渲染设置
+title: Render Settings 渲染设置
 order: 2
 ---
 

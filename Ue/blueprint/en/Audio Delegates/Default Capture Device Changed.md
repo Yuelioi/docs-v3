@@ -1,5 +1,5 @@
 ---
-display_name: Default Capture Device Changed
+title: Default Capture Device Changed
 order: 1
 ---
 ## Navigation

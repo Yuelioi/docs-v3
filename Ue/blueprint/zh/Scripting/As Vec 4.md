@@ -1,5 +1,5 @@
 ---
-display_name: As Vec 4
+title: As Vec 4
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Additional Project Plugin Search Paths
+title: Get Additional Project Plugin Search Paths
 order: 2
 ---
 ## Navigation

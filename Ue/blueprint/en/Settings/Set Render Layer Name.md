@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Layer Name
+title: Set Render Layer Name
 order: 128
 ---
 ## Navigation

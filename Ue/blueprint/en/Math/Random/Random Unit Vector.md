@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector
+title: Random Unit Vector
 order: 42
 ---
 ## Navigation

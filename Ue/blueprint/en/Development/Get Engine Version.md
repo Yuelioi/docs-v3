@@ -1,5 +1,5 @@
 ---
-display_name: Get Engine Version
+title: Get Engine Version
 order: 46
 ---
 ## Navigation

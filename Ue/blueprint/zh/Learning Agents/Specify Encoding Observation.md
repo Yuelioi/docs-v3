@@ -1,5 +1,5 @@
 ---
-display_name: Specify Encoding Observation
+title: Specify Encoding Observation
 order: 291
 ---
 ## Navigation

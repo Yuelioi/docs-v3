@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Multi-User Connection Error
+title: Get Last Multi-User Connection Error
 order: 2
 ---
 ## Navigation

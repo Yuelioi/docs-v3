@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Pin by Label
+title: Get Output Pin by Label
 order: 5
 ---
 ## Navigation

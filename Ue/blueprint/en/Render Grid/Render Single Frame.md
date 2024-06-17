@@ -1,5 +1,5 @@
 ---
-display_name: Render Single Frame
+title: Render Single Frame
 order: 39
 ---
 ## Navigation

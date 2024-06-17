@@ -1,5 +1,5 @@
 ---
-display_name: Set Dof
+title: Set Dof
 order: 109
 ---
 ## Navigation

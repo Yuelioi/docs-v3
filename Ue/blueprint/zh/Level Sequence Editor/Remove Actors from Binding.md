@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actors from Binding
+title: Remove Actors from Binding
 order: 52
 ---
 ## Navigation

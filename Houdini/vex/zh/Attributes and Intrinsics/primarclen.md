@@ -1,5 +1,5 @@
 ---
-display_name: primarclen
+title: primarclen
 order: 46
 ---
 `float  primarclen(<geometry>geometry, vector2 uv1, vector2 uv2, int prim_num)`

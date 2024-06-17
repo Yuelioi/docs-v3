@@ -1,5 +1,5 @@
 ---
-display_name: Find Int Parameter Name Index
+title: Find Int Parameter Name Index
 order: 9
 ---
 ## Navigation

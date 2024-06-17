@@ -1,5 +1,5 @@
 ---
-display_name: Find Location Closest to World Location
+title: Find Location Closest to World Location
 order: 15
 ---
 ## Navigation

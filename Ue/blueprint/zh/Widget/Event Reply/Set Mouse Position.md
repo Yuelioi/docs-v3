@@ -1,5 +1,5 @@
 ---
-display_name: Set Mouse Position
+title: Set Mouse Position
 order: 6
 ---
 ## Navigation

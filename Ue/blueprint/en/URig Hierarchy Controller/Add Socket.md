@@ -1,5 +1,5 @@
 ---
-display_name: Add Socket
+title: Add Socket
 order: 8
 ---
 ## Navigation

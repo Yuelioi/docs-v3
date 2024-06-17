@@ -1,5 +1,5 @@
 ---
-display_name: Run Assets Through Filter
+title: Run Assets Through Filter
 order: 41
 ---
 ## Navigation

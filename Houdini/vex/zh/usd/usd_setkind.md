@@ -1,5 +1,5 @@
 ---
-display_name: usd_setkind
+title: usd_setkind
 order: 129
 ---
 | Since | 17.5 |

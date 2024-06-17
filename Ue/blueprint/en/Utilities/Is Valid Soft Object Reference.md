@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Soft Object Reference
+title: Is Valid Soft Object Reference
 order: 24
 ---
 ## Navigation

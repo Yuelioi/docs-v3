@@ -1,5 +1,5 @@
 ---
-display_name: Get User Index
+title: Get User Index
 order: 4
 ---
 ## Navigation

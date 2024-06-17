@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Source Actors
+title: Niagara Set Source Actors
 order: 68
 ---
 ## Navigation

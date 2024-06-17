@@ -1,5 +1,5 @@
 ---
-display_name: Select All Children
+title: Select All Children
 order: 54
 ---
 ## Navigation

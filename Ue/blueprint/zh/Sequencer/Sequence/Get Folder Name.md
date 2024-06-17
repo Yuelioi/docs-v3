@@ -1,5 +1,5 @@
 ---
-display_name: Get Folder Name
+title: Get Folder Name
 order: 36
 ---
 ## Navigation

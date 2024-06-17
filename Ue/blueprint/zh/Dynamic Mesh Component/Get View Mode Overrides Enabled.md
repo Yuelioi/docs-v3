@@ -1,5 +1,5 @@
 ---
-display_name: Get View Mode Overrides Enabled
+title: Get View Mode Overrides Enabled
 order: 13
 ---
 ## Navigation

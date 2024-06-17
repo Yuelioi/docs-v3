@@ -1,5 +1,5 @@
 ---
-display_name: Get River to Lake Transition Material
+title: Get River to Lake Transition Material
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Value
+title: Get Max Value
 order: 7
 ---
 ## Navigation

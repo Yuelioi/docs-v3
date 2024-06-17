@@ -1,5 +1,5 @@
 ---
-display_name: Is Right Command Down
+title: Is Right Command Down
 order: 11
 ---
 ## Navigation

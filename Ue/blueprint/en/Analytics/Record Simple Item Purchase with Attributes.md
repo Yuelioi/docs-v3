@@ -1,5 +1,5 @@
 ---
-display_name: Record Simple Item Purchase with Attributes
+title: Record Simple Item Purchase with Attributes
 order: 20
 ---
 ## Navigation

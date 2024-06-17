@@ -1,5 +1,5 @@
 ---
-display_name: Invalidate Lumen Surface Cache
+title: Invalidate Lumen Surface Cache
 order: 2
 ---
 ## Navigation

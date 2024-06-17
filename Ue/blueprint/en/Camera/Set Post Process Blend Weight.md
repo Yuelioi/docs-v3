@@ -1,5 +1,5 @@
 ---
-display_name: Set Post Process Blend Weight
+title: Set Post Process Blend Weight
 order: 28
 ---
 ## Navigation

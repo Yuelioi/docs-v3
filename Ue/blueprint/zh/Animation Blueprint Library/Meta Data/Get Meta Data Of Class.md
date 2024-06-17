@@ -1,5 +1,5 @@
 ---
-display_name: Get Meta Data Of Class
+title: Get Meta Data Of Class
 order: 4
 ---
 ## Navigation

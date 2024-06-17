@@ -1,5 +1,5 @@
 ---
-display_name: Make Event Attribute
+title: Make Event Attribute
 order: 5
 ---
 ## Navigation

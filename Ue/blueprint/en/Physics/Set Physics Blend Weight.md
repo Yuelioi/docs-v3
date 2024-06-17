@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Blend Weight
+title: Set Physics Blend Weight
 order: 52
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Reference Object
+title: Set Custom Reference Object
 order: 65
 ---
 ## Navigation

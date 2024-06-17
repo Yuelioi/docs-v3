@@ -1,5 +1,5 @@
 ---
-display_name: Subtract
+title: Subtract
 order: 10
 ---
 ## Navigation

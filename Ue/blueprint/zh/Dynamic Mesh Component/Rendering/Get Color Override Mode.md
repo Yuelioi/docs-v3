@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Override Mode
+title: Get Color Override Mode
 order: 1
 ---
 ## Navigation

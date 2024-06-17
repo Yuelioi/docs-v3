@@ -1,6 +1,6 @@
 ---
 order: 9
-display_name: pop
+title: pop
 ---
 
 # pop

@@ -1,5 +1,5 @@
 ---
-display_name: To Boolean (Integer)
+title: To Boolean (Integer)
 order: 3
 ---
 ## Navigation

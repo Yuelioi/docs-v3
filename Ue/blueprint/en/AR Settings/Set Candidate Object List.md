@@ -1,5 +1,5 @@
 ---
-display_name: Set Candidate Object List
+title: Set Candidate Object List
 order: 21
 ---
 ## Navigation

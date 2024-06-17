@@ -1,5 +1,5 @@
 ---
-display_name: Set Radius
+title: Set Radius
 order: 13
 ---
 ## Navigation

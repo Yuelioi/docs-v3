@@ -1,5 +1,5 @@
 ---
-display_name: Channel Pack
+title: Channel Pack
 order: 1
 ---
 ## Navigation

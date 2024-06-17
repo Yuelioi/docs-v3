@@ -1,5 +1,5 @@
 ---
-display_name: Rename Assets with Dialog (Message)
+title: Rename Assets with Dialog (Message)
 order: 37
 ---
 ## Navigation

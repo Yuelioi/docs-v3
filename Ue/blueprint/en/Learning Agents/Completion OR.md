@@ -1,5 +1,5 @@
 ---
-display_name: Completion OR
+title: Completion OR
 order: 11
 ---
 ## Navigation

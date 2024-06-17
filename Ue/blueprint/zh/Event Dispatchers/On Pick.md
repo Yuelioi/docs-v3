@@ -1,5 +1,5 @@
 ---
-display_name: On Pick
+title: On Pick
 order: 135
 ---
 ## Navigation

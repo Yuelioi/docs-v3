@@ -1,5 +1,5 @@
 ---
-display_name: FileSource
+title: FileSource
 order: 1
 ---
 

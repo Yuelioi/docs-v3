@@ -1,5 +1,5 @@
 ---
-display_name: Create Render Target 2DArray
+title: Create Render Target 2DArray
 order: 13
 ---
 ## Navigation

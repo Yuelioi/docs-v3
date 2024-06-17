@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Color Space Transform Mode
+title: Get Vertex Color Space Transform Mode
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Play Slot Animation as Dynamic Montage with Blend Args
+title: Play Slot Animation as Dynamic Montage with Blend Args
 order: 31
 ---
 ## Navigation

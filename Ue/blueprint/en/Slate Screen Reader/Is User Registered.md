@@ -1,5 +1,5 @@
 ---
-display_name: Is User Registered
+title: Is User Registered
 order: 10
 ---
 ## Navigation

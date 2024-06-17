@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int 3Array
+title: Stringify as Int 3Array
 order: 32
 ---
 ## Navigation

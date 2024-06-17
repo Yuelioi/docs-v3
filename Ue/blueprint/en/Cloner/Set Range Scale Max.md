@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Scale Max
+title: Set Range Scale Max
 order: 48
 ---
 ## Navigation

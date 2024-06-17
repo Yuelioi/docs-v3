@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Preset Output Settings
+title: Get Render Preset Output Settings
 order: 24
 ---
 ## Navigation

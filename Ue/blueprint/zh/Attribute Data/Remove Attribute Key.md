@@ -1,5 +1,5 @@
 ---
-display_name: Remove Attribute Key
+title: Remove Attribute Key
 order: 11
 ---
 ## Navigation

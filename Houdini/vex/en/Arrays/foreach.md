@@ -1,5 +1,5 @@
 ---
-display_name: foreach
+title: foreach
 order: 4
 ---
 | On this page | * [Simple form](#simple-form) * [Enumerated form](#enumerated-form) |

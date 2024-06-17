@@ -1,5 +1,5 @@
 ---
-display_name: Select Track
+title: Select Track
 order: 70
 ---
 ## Navigation

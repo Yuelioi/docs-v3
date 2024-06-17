@@ -1,5 +1,5 @@
 ---
-display_name: Set Lens Preset by Name
+title: Set Lens Preset by Name
 order: 11
 ---
 ## Navigation

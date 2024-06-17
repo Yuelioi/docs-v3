@@ -1,5 +1,5 @@
 ---
-display_name: Specify Enum Action
+title: Specify Enum Action
 order: 293
 ---
 ## Navigation

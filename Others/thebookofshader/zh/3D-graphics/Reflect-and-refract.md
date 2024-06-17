@@ -1,5 +1,5 @@
 ---
-display_name: Reflect-and-refract
+title: Reflect-and-refract
 order: 6
 ---
 

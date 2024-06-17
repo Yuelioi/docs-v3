@@ -1,5 +1,5 @@
 ---
-display_name: Diff Dir
+title: Diff Dir
 order: 15
 ---
 ## Navigation

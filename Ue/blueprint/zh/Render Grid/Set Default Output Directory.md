@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Output Directory
+title: Set Default Output Directory
 order: 43
 ---
 ## Navigation

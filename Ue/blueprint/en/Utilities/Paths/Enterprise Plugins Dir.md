@@ -1,5 +1,5 @@
 ---
-display_name: Enterprise Plugins Dir
+title: Enterprise Plugins Dir
 order: 28
 ---
 ## Navigation

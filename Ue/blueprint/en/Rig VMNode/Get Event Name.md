@@ -1,5 +1,5 @@
 ---
-display_name: Get Event Name
+title: Get Event Name
 order: 10
 ---
 ## Navigation

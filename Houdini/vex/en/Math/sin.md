@@ -1,5 +1,5 @@
 ---
-display_name: sin
+title: sin
 order: 72
 ---
 `float  sin(float n)`

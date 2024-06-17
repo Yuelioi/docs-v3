@@ -1,5 +1,5 @@
 ---
-display_name: Remove Solver
+title: Remove Solver
 order: 37
 ---
 ## Navigation

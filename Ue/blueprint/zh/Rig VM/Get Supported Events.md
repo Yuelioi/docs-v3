@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported Events
+title: Get Supported Events
 order: 8
 ---
 ## Navigation

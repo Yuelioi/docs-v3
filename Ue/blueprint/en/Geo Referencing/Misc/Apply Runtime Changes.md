@@ -1,5 +1,5 @@
 ---
-display_name: Apply Runtime Changes
+title: Apply Runtime Changes
 order: 1
 ---
 ## Navigation

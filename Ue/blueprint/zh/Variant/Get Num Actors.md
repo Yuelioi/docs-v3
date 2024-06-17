@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Actors
+title: Get Num Actors
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Un Map Player Key
+title: Un Map Player Key
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Bindings from Variable Node
+title: Make Bindings from Variable Node
 order: 68
 ---
 ## Navigation

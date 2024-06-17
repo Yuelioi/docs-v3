@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Signal Formats
+title: Get Attribute Signal Formats
 order: 9
 ---
 ## Navigation

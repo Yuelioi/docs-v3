@@ -1,5 +1,5 @@
 ---
-display_name: Has Any Buttons
+title: Has Any Buttons
 order: 8
 ---
 ## Navigation

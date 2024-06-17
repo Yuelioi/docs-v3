@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback End Seconds
+title: Get Playback End Seconds
 order: 43
 ---
 ## Navigation

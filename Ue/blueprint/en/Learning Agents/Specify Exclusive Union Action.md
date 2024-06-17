@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Union Action
+title: Specify Exclusive Union Action
 order: 298
 ---
 ## Navigation

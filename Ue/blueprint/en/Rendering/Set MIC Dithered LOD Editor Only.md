@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Dithered LOD Editor Only
+title: Set MIC Dithered LOD Editor Only
 order: 50
 ---
 ## Navigation

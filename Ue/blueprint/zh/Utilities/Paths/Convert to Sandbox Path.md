@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Sandbox Path
+title: Convert to Sandbox Path
 order: 13
 ---
 ## Navigation

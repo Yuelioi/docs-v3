@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer 64Attribute
+title: Get Integer 64Attribute
 order: 37
 ---
 ## Navigation

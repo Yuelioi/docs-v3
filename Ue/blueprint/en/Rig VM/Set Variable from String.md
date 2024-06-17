@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable from String
+title: Set Variable from String
 order: 21
 ---
 ## Navigation

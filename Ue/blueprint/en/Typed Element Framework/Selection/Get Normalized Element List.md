@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Element List
+title: Get Normalized Element List
 order: 12
 ---
 ## Navigation

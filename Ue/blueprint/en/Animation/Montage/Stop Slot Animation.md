@@ -1,5 +1,5 @@
 ---
-display_name: Stop Slot Animation
+title: Stop Slot Animation
 order: 34
 ---
 ## Navigation

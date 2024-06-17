@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Class Reference
+title: Parse Json as Class Reference
 order: 13
 ---
 ## Navigation

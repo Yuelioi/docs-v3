@@ -1,5 +1,5 @@
 ---
-display_name: Clear Pinned Lane
+title: Clear Pinned Lane
 order: 1
 ---
 ## Navigation

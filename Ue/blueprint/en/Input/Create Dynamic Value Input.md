@@ -1,5 +1,5 @@
 ---
-display_name: Create Dynamic Value Input
+title: Create Dynamic Value Input
 order: 10
 ---
 ## Navigation

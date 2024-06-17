@@ -1,5 +1,5 @@
 ---
-display_name: Should Only Show Sub Pins
+title: Should Only Show Sub Pins
 order: 54
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 64Array
+title: Unstringify as Int 64Array
 order: 99
 ---
 ## Navigation

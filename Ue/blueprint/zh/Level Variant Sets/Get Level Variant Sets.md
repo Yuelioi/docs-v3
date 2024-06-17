@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Variant Sets
+title: Get Level Variant Sets
 order: 1
 ---
 ## Navigation

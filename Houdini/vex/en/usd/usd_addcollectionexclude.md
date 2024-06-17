@@ -1,5 +1,5 @@
 ---
-display_name: usd_addcollectionexclude
+title: usd_addcollectionexclude
 order: 2
 ---
 | Since | 18.0 |

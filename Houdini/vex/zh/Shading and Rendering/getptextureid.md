@@ -1,5 +1,5 @@
 ---
-display_name: getptextureid
+title: getptextureid
 order: 28
 ---
 | Context(s) | [shading](../contexts/shading.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Handle Impact
+title: Handle Impact
 order: 29
 ---
 ## Navigation

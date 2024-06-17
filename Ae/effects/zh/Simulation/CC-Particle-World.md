@@ -1,5 +1,5 @@
 ---
-display_name: CC 粒子世界
+title: CC 粒子世界
 order: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Float Array Literal
+title: Create MetaSound Float Array Literal
 order: 4
 ---
 ## Navigation

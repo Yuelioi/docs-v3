@@ -1,5 +1,5 @@
 ---
-display_name: FocalLength
+title: FocalLength
 order: 21
 ---
 ## Navigation

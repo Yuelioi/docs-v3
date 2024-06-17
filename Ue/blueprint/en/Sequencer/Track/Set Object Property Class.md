@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Property Class
+title: Set Object Property Class
 order: 22
 ---
 ## Navigation

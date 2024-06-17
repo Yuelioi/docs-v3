@@ -1,5 +1,5 @@
 ---
-display_name: Get Song Remaining Ms
+title: Get Song Remaining Ms
 order: 31
 ---
 ## Navigation

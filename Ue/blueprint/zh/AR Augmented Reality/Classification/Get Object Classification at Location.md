@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Classification at Location
+title: Get Object Classification at Location
 order: 1
 ---
 ## Navigation

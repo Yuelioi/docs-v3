@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Local Notification
+title: Cancel Local Notification
 order: 2
 ---
 ## Navigation

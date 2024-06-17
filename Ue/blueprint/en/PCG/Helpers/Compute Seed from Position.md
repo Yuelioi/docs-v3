@@ -1,5 +1,5 @@
 ---
-display_name: Compute Seed from Position
+title: Compute Seed from Position
 order: 1
 ---
 ## Navigation

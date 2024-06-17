@@ -1,5 +1,5 @@
 ---
-display_name: Copy Existing Attribute
+title: Copy Existing Attribute
 order: 9
 ---
 ## Navigation

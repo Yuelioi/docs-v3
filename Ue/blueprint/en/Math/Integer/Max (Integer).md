@@ -1,5 +1,5 @@
 ---
-display_name: Max (Integer)
+title: Max (Integer)
 order: 12
 ---
 ## Navigation

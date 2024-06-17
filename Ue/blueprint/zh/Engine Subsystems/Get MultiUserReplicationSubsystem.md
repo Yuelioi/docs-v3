@@ -1,5 +1,5 @@
 ---
-display_name: Get MultiUserReplicationSubsystem
+title: Get MultiUserReplicationSubsystem
 order: 35
 ---
 ## Navigation

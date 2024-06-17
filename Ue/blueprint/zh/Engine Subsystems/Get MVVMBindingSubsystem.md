@@ -1,5 +1,5 @@
 ---
-display_name: Get MVVMBindingSubsystem
+title: Get MVVMBindingSubsystem
 order: 26
 ---
 ## Navigation

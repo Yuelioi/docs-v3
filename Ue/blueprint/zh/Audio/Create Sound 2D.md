@@ -1,5 +1,5 @@
 ---
-display_name: Create Sound 2D
+title: Create Sound 2D
 order: 3
 ---
 ## Navigation

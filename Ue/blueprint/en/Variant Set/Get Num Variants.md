@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Variants
+title: Get Num Variants
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set End Frame Seconds
+title: Set End Frame Seconds
 order: 78
 ---
 ## Navigation

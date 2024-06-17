@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Style Set
+title: Set Text Style Set
 order: 33
 ---
 ## Navigation

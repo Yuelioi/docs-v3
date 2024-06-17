@@ -1,5 +1,5 @@
 ---
-display_name: Compute Point Sampling
+title: Compute Point Sampling
 order: 2
 ---
 ## Navigation

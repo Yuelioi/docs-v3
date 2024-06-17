@@ -1,5 +1,5 @@
 ---
-display_name: Get Role From Binding
+title: Get Role From Binding
 order: 10
 ---
 ## Navigation

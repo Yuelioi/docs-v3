@@ -1,5 +1,5 @@
 ---
-display_name: Delete Element
+title: Delete Element
 order: 14
 ---
 ## Navigation

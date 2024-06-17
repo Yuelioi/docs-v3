@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarelementsize
+title: usd_primvarelementsize
 order: 108
 ---
 | Since | 18.0 |

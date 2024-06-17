@@ -1,5 +1,5 @@
 ---
-display_name: Create Packages from Generated Data
+title: Create Packages from Generated Data
 order: 1
 ---
 ## Navigation

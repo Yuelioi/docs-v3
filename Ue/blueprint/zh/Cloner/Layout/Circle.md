@@ -1,5 +1,5 @@
 ---
-display_name: Circle
+title: Circle
 order: 1
 ---
 ## Navigation

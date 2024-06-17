@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Root Actor
+title: Get Active Root Actor
 order: 4
 ---
 ## Navigation

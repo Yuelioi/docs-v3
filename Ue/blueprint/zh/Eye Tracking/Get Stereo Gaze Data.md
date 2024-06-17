@@ -1,5 +1,5 @@
 ---
-display_name: Get Stereo Gaze Data
+title: Get Stereo Gaze Data
 order: 2
 ---
 ## Navigation

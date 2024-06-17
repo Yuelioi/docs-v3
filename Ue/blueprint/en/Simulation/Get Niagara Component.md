@@ -1,5 +1,5 @@
 ---
-display_name: Get Niagara Component
+title: Get Niagara Component
 order: 2
 ---
 ## Navigation

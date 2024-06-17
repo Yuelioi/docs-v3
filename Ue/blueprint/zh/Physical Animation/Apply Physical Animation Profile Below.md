@@ -1,5 +1,5 @@
 ---
-display_name: Apply Physical Animation Profile Below
+title: Apply Physical Animation Profile Below
 order: 1
 ---
 ## Navigation

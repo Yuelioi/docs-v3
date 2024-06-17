@@ -1,5 +1,5 @@
 ---
-display_name: Bake Transform with Settings
+title: Bake Transform with Settings
 order: 3
 ---
 ## Navigation

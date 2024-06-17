@@ -1,5 +1,5 @@
 ---
-display_name: Set Settings with Reverb Effect
+title: Set Settings with Reverb Effect
 order: 22
 ---
 ## Navigation

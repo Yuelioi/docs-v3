@@ -1,5 +1,5 @@
 ---
-display_name: Get Pawn
+title: Get Pawn
 order: 1
 ---
 ## Navigation

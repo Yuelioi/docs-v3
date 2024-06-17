@@ -1,5 +1,5 @@
 ---
-display_name: Editor Duplicate
+title: Editor Duplicate
 order: 3
 ---
 ## Navigation

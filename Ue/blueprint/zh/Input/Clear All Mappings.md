@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Mappings
+title: Clear All Mappings
 order: 7
 ---
 ## Navigation

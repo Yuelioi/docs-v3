@@ -1,5 +1,5 @@
 ---
-display_name: Float Array to Audio Parameter
+title: Float Array to Audio Parameter
 order: 5
 ---
 ## Navigation

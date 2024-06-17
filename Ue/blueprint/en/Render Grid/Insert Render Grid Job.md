@@ -1,5 +1,5 @@
 ---
-display_name: Insert Render Grid Job
+title: Insert Render Grid Job
 order: 30
 ---
 ## Navigation

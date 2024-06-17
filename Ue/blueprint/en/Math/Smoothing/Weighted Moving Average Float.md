@@ -1,5 +1,5 @@
 ---
-display_name: Weighted Moving Average Float
+title: Weighted Moving Average Float
 order: 4
 ---
 ## Navigation

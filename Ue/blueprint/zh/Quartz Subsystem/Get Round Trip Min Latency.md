@@ -1,5 +1,5 @@
 ---
-display_name: Get Round Trip Min Latency
+title: Get Round Trip Min Latency
 order: 9
 ---
 ## Navigation

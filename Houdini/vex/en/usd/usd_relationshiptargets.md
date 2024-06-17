@@ -1,5 +1,5 @@
 ---
-display_name: usd_relationshiptargets
+title: usd_relationshiptargets
 order: 119
 ---
 | Since | 18.0 |

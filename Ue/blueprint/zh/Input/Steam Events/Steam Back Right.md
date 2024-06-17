@@ -1,5 +1,5 @@
 ---
-display_name: Steam Back Right
+title: Steam Back Right
 order: 2
 ---
 ## Navigation

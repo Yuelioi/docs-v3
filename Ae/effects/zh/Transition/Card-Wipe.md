@@ -1,5 +1,5 @@
 ---
-display_name: 卡片擦除
+title: 卡片擦除
 order: 12
 ---
 

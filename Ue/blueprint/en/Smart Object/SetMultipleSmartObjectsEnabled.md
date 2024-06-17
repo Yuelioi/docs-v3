@@ -1,5 +1,5 @@
 ---
-display_name: SetMultipleSmartObjectsEnabled
+title: SetMultipleSmartObjectsEnabled
 order: 52
 ---
 ## Navigation

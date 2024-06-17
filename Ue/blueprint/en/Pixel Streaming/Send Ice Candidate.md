@@ -1,5 +1,5 @@
 ---
-display_name: Send Ice Candidate
+title: Send Ice Candidate
 order: 20
 ---
 ## Navigation

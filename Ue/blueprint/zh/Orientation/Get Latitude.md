@@ -1,5 +1,5 @@
 ---
-display_name: Get Latitude
+title: Get Latitude
 order: 2
 ---
 ## Navigation

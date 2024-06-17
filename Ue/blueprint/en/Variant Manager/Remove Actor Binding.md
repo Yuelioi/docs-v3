@@ -1,5 +1,5 @@
 ---
-display_name: Remove Actor Binding
+title: Remove Actor Binding
 order: 29
 ---
 ## Navigation

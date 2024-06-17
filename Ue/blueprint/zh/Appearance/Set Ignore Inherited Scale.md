@@ -1,5 +1,5 @@
 ---
-display_name: Set Ignore Inherited Scale
+title: Set Ignore Inherited Scale
 order: 55
 ---
 ## Navigation

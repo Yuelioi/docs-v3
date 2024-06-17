@@ -1,5 +1,5 @@
 ---
-display_name: Restore Game View States
+title: Restore Game View States
 order: 3
 ---
 ## Navigation

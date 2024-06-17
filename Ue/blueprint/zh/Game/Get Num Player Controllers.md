@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Player Controllers
+title: Get Num Player Controllers
 order: 32
 ---
 ## Navigation

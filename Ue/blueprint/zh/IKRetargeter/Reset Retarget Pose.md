@@ -1,5 +1,5 @@
 ---
-display_name: Reset Retarget Pose
+title: Reset Retarget Pose
 order: 19
 ---
 ## Navigation

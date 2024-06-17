@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Messages From Bundle
+title: Get OSC Messages From Bundle
 order: 47
 ---
 ## Navigation

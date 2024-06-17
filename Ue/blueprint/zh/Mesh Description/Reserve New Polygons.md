@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Polygons
+title: Reserve New Polygons
 order: 86
 ---
 ## Navigation

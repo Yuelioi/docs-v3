@@ -1,5 +1,5 @@
 ---
-display_name: texture
+title: texture
 order: 13
 ---
 `vector|vector4 texture(string map, ...)`

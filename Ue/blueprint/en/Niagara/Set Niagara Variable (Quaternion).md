@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Quaternion)
+title: Set Niagara Variable (Quaternion)
 order: 39
 ---
 ## Navigation

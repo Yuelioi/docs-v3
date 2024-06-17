@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Lazy Texture
+title: Set Brush from Lazy Texture
 order: 5
 ---
 ## Navigation

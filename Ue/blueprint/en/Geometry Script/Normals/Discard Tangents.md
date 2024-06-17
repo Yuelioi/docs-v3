@@ -1,5 +1,5 @@
 ---
-display_name: Discard Tangents
+title: Discard Tangents
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Subgraph Asset
+title: Get Subgraph Asset
 order: 6
 ---
 ## Navigation

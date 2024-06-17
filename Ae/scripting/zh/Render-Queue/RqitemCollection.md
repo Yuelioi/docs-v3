@@ -1,5 +1,5 @@
 ---
-display_name: RqitemCollection
+title: RqitemCollection
 order: 5
 ---
 

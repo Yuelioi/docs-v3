@@ -1,5 +1,5 @@
 ---
-display_name: On Undo
+title: On Undo
 order: 10
 ---
 ## Navigation

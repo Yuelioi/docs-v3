@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Collision Props
+title: Get Particle Module Collision Props
 order: 64
 ---
 ## Navigation

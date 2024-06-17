@@ -1,5 +1,5 @@
 ---
-display_name: Clear Max Slider Value
+title: Clear Max Slider Value
 order: 1
 ---
 ## Navigation

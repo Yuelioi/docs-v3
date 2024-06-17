@@ -1,5 +1,5 @@
 ---
-display_name: Motion Events
+title: Motion Events
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: File Export Flattened Stage
+title: File Export Flattened Stage
 order: 5
 ---
 ## Navigation

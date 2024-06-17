@@ -1,5 +1,5 @@
 ---
-display_name: Get PIEWorlds
+title: Get PIEWorlds
 order: 23
 ---
 ## Navigation

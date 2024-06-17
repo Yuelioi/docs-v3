@@ -1,5 +1,5 @@
 ---
-display_name: Smart Object Claim Handle Invalid
+title: Smart Object Claim Handle Invalid
 order: 53
 ---
 ## Navigation

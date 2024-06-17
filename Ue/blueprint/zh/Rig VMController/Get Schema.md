@@ -1,5 +1,5 @@
 ---
-display_name: Get Schema
+title: Get Schema
 order: 56
 ---
 ## Navigation

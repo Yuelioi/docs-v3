@@ -1,5 +1,5 @@
 ---
-display_name: Abort Conversation
+title: Abort Conversation
 order: 1
 ---
 ## Navigation

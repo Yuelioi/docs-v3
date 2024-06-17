@@ -1,5 +1,5 @@
 ---
-display_name: Take Recorder Cancelled
+title: Take Recorder Cancelled
 order: 27
 ---
 ## Navigation

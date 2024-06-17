@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Count Change
+title: Wait Gameplay Tag Count Change
 order: 31
 ---
 ## Navigation

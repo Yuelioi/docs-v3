@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Recording
+title: Cancel Recording
 order: 3
 ---
 ## Navigation

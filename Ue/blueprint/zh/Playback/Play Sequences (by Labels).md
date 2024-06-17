@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequences (by Labels)
+title: Play Sequences (by Labels)
 order: 15
 ---
 ## Navigation

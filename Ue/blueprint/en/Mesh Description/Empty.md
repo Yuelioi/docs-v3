@@ -1,5 +1,5 @@
 ---
-display_name: Empty
+title: Empty
 order: 21
 ---
 ## Navigation

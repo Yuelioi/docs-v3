@@ -1,5 +1,5 @@
 ---
-display_name: Show All Material Sections
+title: Show All Material Sections
 order: 39
 ---
 ## Navigation

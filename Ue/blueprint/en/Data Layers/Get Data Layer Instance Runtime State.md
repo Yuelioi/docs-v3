@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Instance Runtime State
+title: Get Data Layer Instance Runtime State
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Rebind Properties
+title: Rebind Properties
 order: 5
 ---
 ## Navigation

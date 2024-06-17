@@ -1,5 +1,5 @@
 ---
-display_name: Set Strength Multiplyer
+title: Set Strength Multiplyer
 order: 6
 ---
 ## Navigation

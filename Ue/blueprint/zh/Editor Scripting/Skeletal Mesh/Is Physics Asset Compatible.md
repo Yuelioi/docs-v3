@@ -1,5 +1,5 @@
 ---
-display_name: Is Physics Asset Compatible
+title: Is Physics Asset Compatible
 order: 6
 ---
 ## Navigation

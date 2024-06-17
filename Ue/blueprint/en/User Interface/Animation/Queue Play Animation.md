@@ -1,5 +1,5 @@
 ---
-display_name: Queue Play Animation
+title: Queue Play Animation
 order: 18
 ---
 ## Navigation

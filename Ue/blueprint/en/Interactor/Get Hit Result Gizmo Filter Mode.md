@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result Gizmo Filter Mode
+title: Get Hit Result Gizmo Filter Mode
 order: 3
 ---
 ## Navigation

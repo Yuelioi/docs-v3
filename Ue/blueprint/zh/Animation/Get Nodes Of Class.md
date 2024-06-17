@@ -1,5 +1,5 @@
 ---
-display_name: Get Nodes Of Class
+title: Get Nodes Of Class
 order: 29
 ---
 ## Navigation

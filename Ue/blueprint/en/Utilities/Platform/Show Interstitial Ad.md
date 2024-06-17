@@ -1,5 +1,5 @@
 ---
-display_name: Show Interstitial Ad
+title: Show Interstitial Ad
 order: 26
 ---
 ## Navigation

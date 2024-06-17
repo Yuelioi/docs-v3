@@ -1,5 +1,5 @@
 ---
-display_name: Advance Time
+title: Advance Time
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Right Shift
+title: Right Shift
 order: 94
 ---
 ## Navigation

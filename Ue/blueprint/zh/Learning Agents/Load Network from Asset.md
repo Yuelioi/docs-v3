@@ -1,5 +1,5 @@
 ---
-display_name: Load Network from Asset
+title: Load Network from Asset
 order: 146
 ---
 ## Navigation

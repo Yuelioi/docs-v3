@@ -1,5 +1,5 @@
 ---
-display_name: 上下文访问(bpy.context)
+title: 上下文访问(bpy.context)
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Relative Path
+title: Convert to Relative Path
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Priority
+title: Get Priority
 order: 2
 ---
 ## Navigation

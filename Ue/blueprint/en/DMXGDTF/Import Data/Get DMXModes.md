@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXModes
+title: Get DMXModes
 order: 2
 ---
 ## Navigation

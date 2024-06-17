@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Face
+title: On Update Tracked Face
 order: 16
 ---
 ## Navigation

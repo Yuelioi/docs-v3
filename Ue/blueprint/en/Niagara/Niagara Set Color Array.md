@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Color Array
+title: Niagara Set Color Array
 order: 57
 ---
 ## Navigation

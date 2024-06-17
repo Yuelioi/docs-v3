@@ -1,5 +1,5 @@
 ---
-display_name: Get Abs Max 2D
+title: Get Abs Max 2D
 order: 9
 ---
 ## Navigation

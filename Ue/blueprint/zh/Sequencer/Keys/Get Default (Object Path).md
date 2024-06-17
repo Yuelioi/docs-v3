@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Object Path)
+title: Get Default (Object Path)
 order: 25
 ---
 ## Navigation

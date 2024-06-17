@@ -1,5 +1,5 @@
 ---
-display_name: Resume
+title: Resume
 order: 24
 ---
 ## Navigation

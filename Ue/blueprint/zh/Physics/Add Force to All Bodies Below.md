@@ -1,5 +1,5 @@
 ---
-display_name: Add Force to All Bodies Below
+title: Add Force to All Bodies Below
 order: 6
 ---
 ## Navigation

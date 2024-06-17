@@ -1,5 +1,5 @@
 ---
-display_name: Break Random Stream
+title: Break Random Stream
 order: 2
 ---
 ## Navigation

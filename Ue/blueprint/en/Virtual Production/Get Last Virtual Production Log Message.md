@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Virtual Production Log Message
+title: Get Last Virtual Production Log Message
 order: 17
 ---
 ## Navigation

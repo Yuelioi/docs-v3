@@ -1,5 +1,5 @@
 ---
-display_name: Get End Seconds
+title: Get End Seconds
 order: 33
 ---
 ## Navigation

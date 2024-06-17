@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int 2
+title: Stringify as Int 2
 order: 29
 ---
 ## Navigation

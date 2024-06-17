@@ -1,5 +1,5 @@
 ---
-display_name: Setting
+title: Setting
 order: 6
 ---
 

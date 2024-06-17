@@ -1,5 +1,5 @@
 ---
-display_name: Get Pipelines
+title: Get Pipelines
 order: 3
 ---
 ## Navigation

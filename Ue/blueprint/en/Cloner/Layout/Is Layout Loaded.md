@@ -1,5 +1,5 @@
 ---
-display_name: Is Layout Loaded
+title: Is Layout Loaded
 order: 8
 ---
 ## Navigation

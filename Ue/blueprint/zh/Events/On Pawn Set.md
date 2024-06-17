@@ -1,5 +1,5 @@
 ---
-display_name: On Pawn Set
+title: On Pawn Set
 order: 23
 ---
 ## Navigation

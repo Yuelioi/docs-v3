@@ -1,5 +1,5 @@
 ---
-display_name: Is Look Input Ignored
+title: Is Look Input Ignored
 order: 18
 ---
 ## Navigation

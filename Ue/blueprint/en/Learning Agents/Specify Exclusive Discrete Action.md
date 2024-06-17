@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Discrete Action
+title: Specify Exclusive Discrete Action
 order: 295
 ---
 ## Navigation

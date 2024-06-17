@@ -1,5 +1,5 @@
 ---
-display_name: Set Cast Capsule Indirect Shadow
+title: Set Cast Capsule Indirect Shadow
 order: 3
 ---
 ## Navigation

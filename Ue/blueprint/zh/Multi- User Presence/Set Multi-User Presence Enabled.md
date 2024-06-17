@@ -1,5 +1,5 @@
 ---
-display_name: Set Multi-User Presence Enabled
+title: Set Multi-User Presence Enabled
 order: 3
 ---
 ## Navigation

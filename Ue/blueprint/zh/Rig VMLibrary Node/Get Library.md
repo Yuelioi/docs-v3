@@ -1,5 +1,5 @@
 ---
-display_name: Get Library
+title: Get Library
 order: 2
 ---
 ## Navigation

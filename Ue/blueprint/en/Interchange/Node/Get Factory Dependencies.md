@@ -1,5 +1,5 @@
 ---
-display_name: Get Factory Dependencies
+title: Get Factory Dependencies
 order: 29
 ---
 ## Navigation

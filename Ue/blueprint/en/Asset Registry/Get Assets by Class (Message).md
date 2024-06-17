@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Class (Message)
+title: Get Assets by Class (Message)
 order: 10
 ---
 ## Navigation

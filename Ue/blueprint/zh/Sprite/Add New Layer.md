@@ -1,5 +1,5 @@
 ---
-display_name: Add New Layer
+title: Add New Layer
 order: 1
 ---
 ## Navigation

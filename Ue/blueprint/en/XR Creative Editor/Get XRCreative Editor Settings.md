@@ -1,5 +1,5 @@
 ---
-display_name: Get XRCreative Editor Settings
+title: Get XRCreative Editor Settings
 order: 1
 ---
 ## Navigation

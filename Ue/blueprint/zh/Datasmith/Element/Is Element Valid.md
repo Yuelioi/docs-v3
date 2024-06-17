@@ -1,5 +1,5 @@
 ---
-display_name: Is Element Valid
+title: Is Element Valid
 order: 91
 ---
 ## Navigation

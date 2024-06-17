@@ -1,5 +1,5 @@
 ---
-display_name: Fly to Location Geographic
+title: Fly to Location Geographic
 order: 2
 ---
 ## Navigation

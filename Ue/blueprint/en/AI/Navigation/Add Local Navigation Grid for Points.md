@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Navigation Grid for Points
+title: Add Local Navigation Grid for Points
 order: 4
 ---
 ## Navigation

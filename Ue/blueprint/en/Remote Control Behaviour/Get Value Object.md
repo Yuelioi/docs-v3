@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Object
+title: Get Value Object
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Arrive Tangent at Spline Point
+title: Get Arrive Tangent at Spline Point
 order: 23
 ---
 ## Navigation

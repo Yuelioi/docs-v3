@@ -1,5 +1,5 @@
 ---
-display_name: Jump to Multi-User Presence
+title: Jump to Multi-User Presence
 order: 2
 ---
 ## Navigation

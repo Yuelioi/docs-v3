@@ -1,5 +1,5 @@
 ---
-display_name: Move Right
+title: Move Right
 order: 21
 ---
 ## Navigation

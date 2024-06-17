@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Transition Animation
+title: Set Disable Transition Animation
 order: 7
 ---
 ## Navigation

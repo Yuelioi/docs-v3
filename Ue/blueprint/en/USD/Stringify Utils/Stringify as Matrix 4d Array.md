@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Matrix 4d Array
+title: Stringify as Matrix 4d Array
 order: 44
 ---
 ## Navigation

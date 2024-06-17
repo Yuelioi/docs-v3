@@ -1,5 +1,5 @@
 ---
-display_name: Radial Arrange
+title: Radial Arrange
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Nodal Point Offset
+title: Evaluate Nodal Point Offset
 order: 6
 ---
 ## Navigation

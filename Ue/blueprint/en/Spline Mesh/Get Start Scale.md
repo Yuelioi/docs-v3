@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Scale
+title: Get Start Scale
 order: 13
 ---
 ## Navigation

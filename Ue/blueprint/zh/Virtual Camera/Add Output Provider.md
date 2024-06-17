@@ -1,5 +1,5 @@
 ---
-display_name: Add Output Provider
+title: Add Output Provider
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Quote
+title: Quote
 order: 87
 ---
 ## Navigation

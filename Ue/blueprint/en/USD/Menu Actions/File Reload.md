@@ -1,5 +1,5 @@
 ---
-display_name: File Reload
+title: File Reload
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetBoundObjectForSequencer (Message)
+title: GetBoundObjectForSequencer (Message)
 order: 6
 ---
 ## Navigation

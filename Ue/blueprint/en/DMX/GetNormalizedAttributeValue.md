@@ -1,5 +1,5 @@
 ---
-display_name: GetNormalizedAttributeValue
+title: GetNormalizedAttributeValue
 order: 55
 ---
 ## Navigation

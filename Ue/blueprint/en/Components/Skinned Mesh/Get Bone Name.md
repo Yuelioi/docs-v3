@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Name
+title: Get Bone Name
 order: 7
 ---
 ## Navigation

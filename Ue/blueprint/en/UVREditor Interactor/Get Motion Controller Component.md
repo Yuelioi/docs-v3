@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Controller Component
+title: Get Motion Controller Component
 order: 7
 ---
 ## Navigation

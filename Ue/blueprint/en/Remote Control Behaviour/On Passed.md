@@ -1,5 +1,5 @@
 ---
-display_name: On Passed
+title: On Passed
 order: 21
 ---
 ## Navigation

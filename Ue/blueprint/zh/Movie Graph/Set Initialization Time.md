@@ -1,5 +1,5 @@
 ---
-display_name: Set Initialization Time
+title: Set Initialization Time
 order: 68
 ---
 ## Navigation

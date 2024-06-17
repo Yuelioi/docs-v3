@@ -1,5 +1,5 @@
 ---
-display_name: Insert Modifier
+title: Insert Modifier
 order: 11
 ---
 ## Navigation

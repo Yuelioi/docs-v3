@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector List Item
+title: Set Vector List Item
 order: 47
 ---
 ## Navigation

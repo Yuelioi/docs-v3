@@ -1,5 +1,5 @@
 ---
-display_name: Get Cell on Page
+title: Get Cell on Page
 order: 2
 ---
 ## Navigation

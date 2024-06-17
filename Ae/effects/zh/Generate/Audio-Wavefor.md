@@ -1,5 +1,5 @@
 ---
-display_name: 音频波形
+title: 音频波形
 order: 4
 ---
 

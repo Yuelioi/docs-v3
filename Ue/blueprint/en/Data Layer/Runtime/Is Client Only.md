@@ -1,5 +1,5 @@
 ---
-display_name: Is Client Only
+title: Is Client Only
 order: 3
 ---
 ## Navigation

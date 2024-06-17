@@ -1,5 +1,5 @@
 ---
-display_name: Set Audio Capture Protocol Type
+title: Set Audio Capture Protocol Type
 order: 10
 ---
 ## Navigation

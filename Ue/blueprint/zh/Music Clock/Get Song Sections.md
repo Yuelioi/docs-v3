@@ -1,5 +1,5 @@
 ---
-display_name: Get Song Sections
+title: Get Song Sections
 order: 32
 ---
 ## Navigation

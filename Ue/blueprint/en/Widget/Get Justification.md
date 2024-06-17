@@ -1,5 +1,5 @@
 ---
-display_name: Get Justification
+title: Get Justification
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find or Get Default Setting for Shot
+title: Find or Get Default Setting for Shot
 order: 18
 ---
 ## Navigation

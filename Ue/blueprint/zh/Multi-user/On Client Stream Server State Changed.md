@@ -1,5 +1,5 @@
 ---
-display_name: On Client Stream Server State Changed
+title: On Client Stream Server State Changed
 order: 16
 ---
 ## Navigation

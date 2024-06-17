@@ -1,5 +1,5 @@
 ---
-display_name: Stop Processing
+title: Stop Processing
 order: 37
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Boundary Min
+title: Get Boundary Min
 order: 2
 ---
 ## Navigation

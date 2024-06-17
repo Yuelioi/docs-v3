@@ -1,5 +1,5 @@
 ---
-display_name: Project User Dir
+title: Project User Dir
 order: 76
 ---
 ## Navigation

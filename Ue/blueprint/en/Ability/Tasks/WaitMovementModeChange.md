@@ -1,5 +1,5 @@
 ---
-display_name: WaitMovementModeChange
+title: WaitMovementModeChange
 order: 55
 ---
 ## Navigation

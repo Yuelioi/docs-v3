@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double 4Array
+title: Unstringify as Double 4Array
 order: 73
 ---
 ## Navigation

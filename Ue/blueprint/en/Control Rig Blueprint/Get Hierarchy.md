@@ -1,5 +1,5 @@
 ---
-display_name: Get Hierarchy
+title: Get Hierarchy
 order: 6
 ---
 ## Navigation

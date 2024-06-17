@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Illumination Quality
+title: Get Global Illumination Quality
 order: 45
 ---
 ## Navigation

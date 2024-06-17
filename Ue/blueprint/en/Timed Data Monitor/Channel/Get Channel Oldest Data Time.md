@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Oldest Data Time
+title: Get Channel Oldest Data Time
 order: 18
 ---
 ## Navigation

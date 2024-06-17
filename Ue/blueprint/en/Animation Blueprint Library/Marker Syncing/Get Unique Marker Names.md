@@ -1,5 +1,5 @@
 ---
-display_name: Get Unique Marker Names
+title: Get Unique Marker Names
 order: 4
 ---
 ## Navigation

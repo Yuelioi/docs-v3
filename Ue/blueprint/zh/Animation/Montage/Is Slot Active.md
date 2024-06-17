@@ -1,5 +1,5 @@
 ---
-display_name: Is Slot Active
+title: Is Slot Active
 order: 6
 ---
 ## Navigation

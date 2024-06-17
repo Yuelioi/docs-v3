@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Blend Out Time
+title: Get Default Blend Out Time
 order: 3
 ---
 ## Navigation

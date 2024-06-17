@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Tracked Faces Supported
+title: Get Number Of Tracked Faces Supported
 order: 1
 ---
 ## Navigation

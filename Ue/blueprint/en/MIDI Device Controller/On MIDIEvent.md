@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIEvent
+title: On MIDIEvent
 order: 1
 ---
 ## Navigation

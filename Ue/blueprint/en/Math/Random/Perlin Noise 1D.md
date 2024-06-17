@@ -1,5 +1,5 @@
 ---
-display_name: Perlin Noise 1D
+title: Perlin Noise 1D
 order: 9
 ---
 ## Navigation

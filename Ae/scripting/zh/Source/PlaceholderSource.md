@@ -1,5 +1,5 @@
 ---
-display_name: PlaceholderSource
+title: PlaceholderSource
 order: 3
 ---
 

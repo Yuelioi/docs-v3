@@ -1,5 +1,5 @@
 ---
-display_name: Find Quat Between Vectors
+title: Find Quat Between Vectors
 order: 11
 ---
 ## Navigation

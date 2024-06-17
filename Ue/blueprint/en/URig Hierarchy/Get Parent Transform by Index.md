@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Transform by Index
+title: Get Parent Transform by Index
 order: 62
 ---
 ## Navigation

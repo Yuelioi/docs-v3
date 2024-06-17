@@ -1,5 +1,5 @@
 ---
-display_name: Has Snap State
+title: Has Snap State
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Shake Pattern
+title: Set Root Shake Pattern
 order: 3
 ---
 ## Navigation

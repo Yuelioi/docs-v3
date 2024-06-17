@@ -1,5 +1,5 @@
 ---
-display_name: Should Enable Camera Tracking
+title: Should Enable Camera Tracking
 order: 32
 ---
 ## Navigation

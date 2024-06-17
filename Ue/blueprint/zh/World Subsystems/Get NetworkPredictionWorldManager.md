@@ -1,5 +1,5 @@
 ---
-display_name: Get NetworkPredictionWorldManager
+title: Get NetworkPredictionWorldManager
 order: 62
 ---
 ## Navigation

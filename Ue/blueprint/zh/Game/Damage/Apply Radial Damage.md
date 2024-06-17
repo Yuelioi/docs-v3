@@ -1,5 +1,5 @@
 ---
-display_name: Apply Radial Damage
+title: Apply Radial Damage
 order: 4
 ---
 ## Navigation

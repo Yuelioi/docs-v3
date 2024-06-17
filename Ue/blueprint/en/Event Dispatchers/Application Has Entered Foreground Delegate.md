@@ -1,5 +1,5 @@
 ---
-display_name: Application Has Entered Foreground Delegate
+title: Application Has Entered Foreground Delegate
 order: 6
 ---
 ## Navigation

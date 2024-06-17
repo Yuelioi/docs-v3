@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Visible Points
+title: Get Num Visible Points
 order: 27
 ---
 ## Navigation

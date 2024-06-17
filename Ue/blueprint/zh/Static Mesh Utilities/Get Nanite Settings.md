@@ -1,5 +1,5 @@
 ---
-display_name: Get Nanite Settings
+title: Get Nanite Settings
 order: 16
 ---
 ## Navigation

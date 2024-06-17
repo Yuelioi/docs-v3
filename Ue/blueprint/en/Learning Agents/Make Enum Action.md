@@ -1,5 +1,5 @@
 ---
-display_name: Make Enum Action
+title: Make Enum Action
 order: 184
 ---
 ## Navigation

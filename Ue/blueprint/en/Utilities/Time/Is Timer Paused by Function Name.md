@@ -1,5 +1,5 @@
 ---
-display_name: Is Timer Paused by Function Name
+title: Is Timer Paused by Function Name
 order: 21
 ---
 ## Navigation

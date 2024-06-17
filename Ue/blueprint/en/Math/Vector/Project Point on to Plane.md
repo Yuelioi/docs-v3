@@ -1,5 +1,5 @@
 ---
-display_name: Project Point on to Plane
+title: Project Point on to Plane
 order: 46
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Movement Mode
+title: Remove Movement Mode
 order: 26
 ---
 ## Navigation

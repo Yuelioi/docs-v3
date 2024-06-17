@@ -1,5 +1,5 @@
 ---
-display_name: Create Lidar Point Cloud From Data
+title: Create Lidar Point Cloud From Data
 order: 15
 ---
 ## Navigation

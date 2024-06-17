@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Calculate Ortho Planes
+title: Set Auto Calculate Ortho Planes
 order: 20
 ---
 ## Navigation

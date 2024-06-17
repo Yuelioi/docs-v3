@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Actor Tags
+title: Get Target Actor Tags
 order: 27
 ---
 ## Navigation

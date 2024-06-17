@@ -1,5 +1,5 @@
 ---
-display_name: Has Alpha
+title: Has Alpha
 order: 152
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Allows Cinematic Control
+title: Get Allows Cinematic Control
 order: 18
 ---
 ## Navigation

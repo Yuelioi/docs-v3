@@ -1,5 +1,5 @@
 ---
-display_name: Import Curves from Asset
+title: Import Curves from Asset
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Cursor Location
+title: Get Viewport Cursor Location
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: GetNumExtendedPolyGroupLayers
+title: GetNumExtendedPolyGroupLayers
 order: 45
 ---
 ## Navigation

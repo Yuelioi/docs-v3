@@ -1,5 +1,5 @@
 ---
-display_name: Add Asset Data to Collection
+title: Add Asset Data to Collection
 order: 1
 ---
 ## Navigation

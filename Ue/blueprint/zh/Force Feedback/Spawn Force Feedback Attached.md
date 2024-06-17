@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Force Feedback Attached
+title: Spawn Force Feedback Attached
 order: 6
 ---
 ## Navigation

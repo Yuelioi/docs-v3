@@ -1,5 +1,5 @@
 ---
-display_name: pnoise
+title: pnoise
 order: 27
 ---
 `float|vector pnoise(float x, int px)`

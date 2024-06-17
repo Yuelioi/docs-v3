@@ -1,5 +1,5 @@
 ---
-display_name: Is Rendered
+title: Is Rendered
 order: 14
 ---
 ## Navigation

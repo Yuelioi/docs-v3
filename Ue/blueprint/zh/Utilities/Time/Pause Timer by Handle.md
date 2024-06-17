@@ -1,5 +1,5 @@
 ---
-display_name: Pause Timer by Handle
+title: Pause Timer by Handle
 order: 25
 ---
 ## Navigation

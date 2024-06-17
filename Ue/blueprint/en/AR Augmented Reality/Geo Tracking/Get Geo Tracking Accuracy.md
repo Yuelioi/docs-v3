@@ -1,5 +1,5 @@
 ---
-display_name: Get Geo Tracking Accuracy
+title: Get Geo Tracking Accuracy
 order: 9
 ---
 ## Navigation

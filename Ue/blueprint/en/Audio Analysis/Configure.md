@@ -1,5 +1,5 @@
 ---
-display_name: Configure
+title: Configure
 order: 1
 ---
 ## Navigation

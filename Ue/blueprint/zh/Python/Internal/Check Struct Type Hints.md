@@ -1,5 +1,5 @@
 ---
-display_name: Check Struct Type Hints
+title: Check Struct Type Hints
 order: 21
 ---
 ## Navigation

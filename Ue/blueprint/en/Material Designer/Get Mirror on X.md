@@ -1,5 +1,5 @@
 ---
-display_name: Get Mirror on X
+title: Get Mirror on X
 order: 107
 ---
 ## Navigation

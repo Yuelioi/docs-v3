@@ -1,5 +1,5 @@
 ---
-display_name: Write To Niagara Data Channel
+title: Write To Niagara Data Channel
 order: 29
 ---
 ## Navigation

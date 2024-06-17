@@ -1,5 +1,5 @@
 ---
-display_name: Is Channel Active
+title: Is Channel Active
 order: 11
 ---
 ## Navigation

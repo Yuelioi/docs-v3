@@ -1,5 +1,5 @@
 ---
-display_name: Editor Destroyed
+title: Editor Destroyed
 order: 15
 ---
 ## Navigation

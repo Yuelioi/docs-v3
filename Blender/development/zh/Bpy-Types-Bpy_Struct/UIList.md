@@ -1,5 +1,5 @@
 ---
-display_name: UIList
+title: UIList
 order: 13
 ---
 

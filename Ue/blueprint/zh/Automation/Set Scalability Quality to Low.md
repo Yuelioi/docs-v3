@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalability Quality to Low
+title: Set Scalability Quality to Low
 order: 32
 ---
 ## Navigation

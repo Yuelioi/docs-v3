@@ -1,5 +1,5 @@
 ---
-display_name: swizzle
+title: swizzle
 order: 20
 ---
 `vector2  swizzle(vector2 v, int i0, int i1)`

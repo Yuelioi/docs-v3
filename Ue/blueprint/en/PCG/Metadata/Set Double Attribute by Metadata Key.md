@@ -1,5 +1,5 @@
 ---
-display_name: Set Double Attribute by Metadata Key
+title: Set Double Attribute by Metadata Key
 order: 76
 ---
 ## Navigation

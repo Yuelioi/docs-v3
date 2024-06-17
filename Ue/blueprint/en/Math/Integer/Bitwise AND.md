@@ -1,5 +1,5 @@
 ---
-display_name: Bitwise AND
+title: Bitwise AND
 order: 4
 ---
 ## Navigation

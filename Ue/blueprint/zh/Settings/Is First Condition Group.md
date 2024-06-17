@@ -1,5 +1,5 @@
 ---
-display_name: Is First Condition Group
+title: Is First Condition Group
 order: 80
 ---
 ## Navigation

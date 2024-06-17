@@ -1,5 +1,5 @@
 ---
-display_name: Vector2D Length Squared
+title: Vector2D Length Squared
 order: 29
 ---
 ## Navigation

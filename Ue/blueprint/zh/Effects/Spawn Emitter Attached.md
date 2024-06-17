@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Emitter Attached
+title: Spawn Emitter Attached
 order: 2
 ---
 ## Navigation

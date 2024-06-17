@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Applied to Target Query
+title: Wait Gameplay Effect Applied to Target Query
 order: 25
 ---
 ## Navigation

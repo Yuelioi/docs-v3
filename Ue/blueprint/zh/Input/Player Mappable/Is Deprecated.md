@@ -1,5 +1,5 @@
 ---
-display_name: Is Deprecated
+title: Is Deprecated
 order: 8
 ---
 ## Navigation

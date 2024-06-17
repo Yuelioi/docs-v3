@@ -1,5 +1,5 @@
 ---
-display_name: PF_EventExtra
+title: PF_EventExtra
 order: 3
 ---
 

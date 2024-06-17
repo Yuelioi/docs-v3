@@ -1,5 +1,5 @@
 ---
-display_name: RenderQueue
+title: RenderQueue
 order: 3
 ---
 

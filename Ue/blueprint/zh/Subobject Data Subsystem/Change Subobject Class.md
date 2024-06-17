@@ -1,5 +1,5 @@
 ---
-display_name: Change Subobject Class
+title: Change Subobject Class
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Load Instances
+title: Load Instances
 order: 2
 ---
 ## Navigation

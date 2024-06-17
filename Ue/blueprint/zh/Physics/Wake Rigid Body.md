@@ -1,5 +1,5 @@
 ---
-display_name: Wake Rigid Body
+title: Wake Rigid Body
 order: 63
 ---
 ## Navigation

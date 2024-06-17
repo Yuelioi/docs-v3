@@ -1,5 +1,5 @@
 ---
-display_name: ToString (DMX Attribute)
+title: ToString (DMX Attribute)
 order: 10
 ---
 ## Navigation

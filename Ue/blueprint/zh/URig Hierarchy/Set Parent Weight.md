@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Weight
+title: Set Parent Weight
 order: 156
 ---
 ## Navigation

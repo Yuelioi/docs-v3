@@ -1,5 +1,5 @@
 ---
-display_name: Get Model Interface (Message)
+title: Get Model Interface (Message)
 order: 5
 ---
 ## Navigation

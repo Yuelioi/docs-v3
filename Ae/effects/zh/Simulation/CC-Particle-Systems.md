@@ -1,5 +1,5 @@
 ---
-display_name: CC 粒子系统Ⅱ
+title: CC 粒子系统Ⅱ
 order: 8
 ---
 

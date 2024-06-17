@@ -1,5 +1,5 @@
 ---
-display_name: makevalidvarname
+title: makevalidvarname
 order: 19
 ---
 | Since | 19.5 |

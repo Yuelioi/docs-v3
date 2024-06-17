@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame
+title: Set Frame
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Execute Pipeline
+title: Scripted Execute Pipeline
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Vector4)
+title: Assert Equal (Vector4)
 order: 18
 ---
 ## Navigation

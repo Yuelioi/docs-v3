@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Attribute Ref
+title: Get Float Attribute Ref
 order: 1
 ---
 ## Navigation

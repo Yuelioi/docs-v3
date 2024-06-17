@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Aspect Ratio Auto
+title: Set Is Aspect Ratio Auto
 order: 12
 ---
 ## Navigation

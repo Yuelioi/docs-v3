@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Triangles
+title: Get Num Triangles
 order: 17
 ---
 ## Navigation

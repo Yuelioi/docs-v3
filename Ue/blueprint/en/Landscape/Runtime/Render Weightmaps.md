@@ -1,5 +1,5 @@
 ---
-display_name: Render Weightmaps
+title: Render Weightmaps
 order: 5
 ---
 ## Navigation

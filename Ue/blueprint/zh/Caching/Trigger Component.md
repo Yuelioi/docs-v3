@@ -1,5 +1,5 @@
 ---
-display_name: Trigger Component
+title: Trigger Component
 order: 17
 ---
 ## Navigation

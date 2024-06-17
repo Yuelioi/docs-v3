@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Blend Sample Data Structures
+title: Local Array of Blend Sample Data Structures
 order: 2
 ---
 ## Navigation

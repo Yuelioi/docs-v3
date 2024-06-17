@@ -1,5 +1,5 @@
 ---
-display_name: Create and Add New Render Grid Job
+title: Create and Add New Render Grid Job
 order: 4
 ---
 ## Navigation

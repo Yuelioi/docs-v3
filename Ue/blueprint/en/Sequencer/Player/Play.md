@@ -1,5 +1,5 @@
 ---
-display_name: Play
+title: Play
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Swap Eyes
+title: Get Swap Eyes
 order: 3
 ---
 ## Navigation

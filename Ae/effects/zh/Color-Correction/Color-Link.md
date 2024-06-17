@@ -1,5 +1,5 @@
 ---
-display_name: 颜色链接
+title: 颜色链接
 order: 16
 ---
 

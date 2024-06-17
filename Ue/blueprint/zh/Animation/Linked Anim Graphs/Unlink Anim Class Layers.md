@@ -1,5 +1,5 @@
 ---
-display_name: Unlink Anim Class Layers
+title: Unlink Anim Class Layers
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Disconnected from Signalling Server
+title: On Disconnected from Signalling Server
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Num Columns
+title: Set Num Columns
 order: 9
 ---
 ## Navigation

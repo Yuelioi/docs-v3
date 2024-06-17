@@ -1,5 +1,5 @@
 ---
-display_name: Capture Complete
+title: Capture Complete
 order: 20
 ---
 ## Navigation

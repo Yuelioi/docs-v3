@@ -1,5 +1,5 @@
 ---
-display_name: PreviousLens
+title: PreviousLens
 order: 60
 ---
 ## Navigation

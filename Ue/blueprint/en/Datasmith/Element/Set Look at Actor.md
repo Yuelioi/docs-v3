@@ -1,5 +1,5 @@
 ---
-display_name: Set Look at Actor
+title: Set Look at Actor
 order: 122
 ---
 ## Navigation

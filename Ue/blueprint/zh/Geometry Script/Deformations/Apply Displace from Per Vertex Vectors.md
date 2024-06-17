@@ -1,5 +1,5 @@
 ---
-display_name: Apply Displace from Per Vertex Vectors
+title: Apply Displace from Per Vertex Vectors
 order: 2
 ---
 ## Navigation

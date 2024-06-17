@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Size
+title: Set Auto Size
 order: 11
 ---
 ## Navigation

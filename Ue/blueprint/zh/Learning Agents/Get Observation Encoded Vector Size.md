@@ -1,5 +1,5 @@
 ---
-display_name: Get Observation Encoded Vector Size
+title: Get Observation Encoded Vector Size
 order: 94
 ---
 ## Navigation

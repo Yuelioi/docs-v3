@@ -1,5 +1,5 @@
 ---
-display_name: Create OSCClient
+title: Create OSCClient
 order: 21
 ---
 ## Navigation

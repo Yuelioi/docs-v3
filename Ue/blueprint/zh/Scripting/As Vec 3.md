@@ -1,5 +1,5 @@
 ---
-display_name: As Vec 3
+title: As Vec 3
 order: 9
 ---
 ## Navigation

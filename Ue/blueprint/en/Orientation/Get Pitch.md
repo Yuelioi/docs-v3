@@ -1,5 +1,5 @@
 ---
-display_name: Get Pitch
+title: Get Pitch
 order: 4
 ---
 ## Navigation

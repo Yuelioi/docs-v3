@@ -1,5 +1,5 @@
 ---
-display_name: Make Tile Map Editable
+title: Make Tile Map Editable
 order: 23
 ---
 ## Navigation

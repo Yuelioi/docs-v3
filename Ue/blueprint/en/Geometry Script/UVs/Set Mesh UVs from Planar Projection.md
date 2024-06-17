@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh UVs from Planar Projection
+title: Set Mesh UVs from Planar Projection
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create New Control Rig Asset
+title: Create New Control Rig Asset
 order: 3
 ---
 ## Navigation

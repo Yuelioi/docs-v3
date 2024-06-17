@@ -1,5 +1,5 @@
 ---
-display_name: Get AudioAnalyzerSubsystem
+title: Get AudioAnalyzerSubsystem
 order: 4
 ---
 ## Navigation

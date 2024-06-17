@@ -1,5 +1,5 @@
 ---
-display_name: Vector Clamp Size 2D
+title: Vector Clamp Size 2D
 order: 62
 ---
 ## Navigation

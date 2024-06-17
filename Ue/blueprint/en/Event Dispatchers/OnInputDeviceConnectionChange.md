@@ -1,5 +1,5 @@
 ---
-display_name: OnInputDeviceConnectionChange
+title: OnInputDeviceConnectionChange
 order: 193
 ---
 ## Navigation

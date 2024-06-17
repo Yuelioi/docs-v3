@@ -1,5 +1,5 @@
 ---
-display_name: Spawn and Register Tab
+title: Spawn and Register Tab
 order: 33
 ---
 ## Navigation

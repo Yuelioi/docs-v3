@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXInterpolated Step
+title: Get DMXInterpolated Step
 order: 43
 ---
 ## Navigation

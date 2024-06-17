@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Pos Y
+title: Set Node Pos Y
 order: 74
 ---
 ## Navigation

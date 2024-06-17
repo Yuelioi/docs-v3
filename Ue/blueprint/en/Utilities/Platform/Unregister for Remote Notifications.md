@@ -1,5 +1,5 @@
 ---
-display_name: Unregister for Remote Notifications
+title: Unregister for Remote Notifications
 order: 29
 ---
 ## Navigation

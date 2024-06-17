@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction Between Sockets
+title: Get Direction Between Sockets
 order: 12
 ---
 ## Navigation

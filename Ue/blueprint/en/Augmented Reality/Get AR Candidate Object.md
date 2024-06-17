@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Candidate Object
+title: Get AR Candidate Object
 order: 1
 ---
 ## Navigation

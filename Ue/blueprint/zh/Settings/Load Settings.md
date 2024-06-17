@@ -1,5 +1,5 @@
 ---
-display_name: Load Settings
+title: Load Settings
 order: 87
 ---
 ## Navigation

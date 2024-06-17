@@ -1,5 +1,5 @@
 ---
-display_name: Enable VisLog Recording
+title: Enable VisLog Recording
 order: 1
 ---
 ## Navigation

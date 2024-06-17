@@ -1,5 +1,5 @@
 ---
-display_name: Get Alpha
+title: Get Alpha
 order: 11
 ---
 ## Navigation

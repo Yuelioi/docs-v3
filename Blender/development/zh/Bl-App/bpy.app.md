@@ -1,5 +1,5 @@
 ---
-display_name: 应用程序数据 (bpy.app)
+title: 应用程序数据 (bpy.app)
 order: 5
 ---
 

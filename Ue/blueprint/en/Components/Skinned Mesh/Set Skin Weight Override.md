@@ -1,5 +1,5 @@
 ---
-display_name: Set Skin Weight Override
+title: Set Skin Weight Override
 order: 34
 ---
 ## Navigation

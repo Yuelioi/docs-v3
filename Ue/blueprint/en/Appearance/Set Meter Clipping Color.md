@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Clipping Color
+title: Set Meter Clipping Color
 order: 58
 ---
 ## Navigation

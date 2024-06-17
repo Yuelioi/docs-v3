@@ -1,5 +1,5 @@
 ---
-display_name: Are Automated Tests Running
+title: Are Automated Tests Running
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Constant QAt Time
+title: Get Channel Constant QAt Time
 order: 2
 ---
 ## Navigation

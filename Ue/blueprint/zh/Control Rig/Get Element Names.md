@@ -1,5 +1,5 @@
 ---
-display_name: Get Element Names
+title: Get Element Names
 order: 19
 ---
 ## Navigation

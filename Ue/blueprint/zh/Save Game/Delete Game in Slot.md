@@ -1,5 +1,5 @@
 ---
-display_name: Delete Game in Slot
+title: Delete Game in Slot
 order: 4
 ---
 ## Navigation

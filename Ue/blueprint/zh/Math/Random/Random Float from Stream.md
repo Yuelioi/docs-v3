@@ -1,5 +1,5 @@
 ---
-display_name: Random Float from Stream
+title: Random Float from Stream
 order: 14
 ---
 ## Navigation

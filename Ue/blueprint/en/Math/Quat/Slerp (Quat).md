@@ -1,5 +1,5 @@
 ---
-display_name: Slerp (Quat)
+title: Slerp (Quat)
 order: 29
 ---
 ## Navigation

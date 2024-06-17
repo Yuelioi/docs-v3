@@ -1,5 +1,5 @@
 ---
-display_name: Set Mass Scale
+title: Set Mass Scale
 order: 38
 ---
 ## Navigation

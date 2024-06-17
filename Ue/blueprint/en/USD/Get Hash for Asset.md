@@ -1,5 +1,5 @@
 ---
-display_name: Get Hash for Asset
+title: Get Hash for Asset
 order: 10
 ---
 ## Navigation

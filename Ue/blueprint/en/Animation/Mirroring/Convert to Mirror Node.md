@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Mirror Node
+title: Convert to Mirror Node
 order: 1
 ---
 ## Navigation

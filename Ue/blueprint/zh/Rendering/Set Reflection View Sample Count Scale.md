@@ -1,5 +1,5 @@
 ---
-display_name: Set Reflection View Sample Count Scale
+title: Set Reflection View Sample Count Scale
 order: 74
 ---
 ## Navigation

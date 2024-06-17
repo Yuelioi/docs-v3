@@ -1,5 +1,5 @@
 ---
-display_name: Can Start Recording
+title: Can Start Recording
 order: 1
 ---
 ## Navigation

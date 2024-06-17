@@ -1,5 +1,5 @@
 ---
-display_name: Set Tint
+title: Set Tint
 order: 29
 ---
 ## Navigation

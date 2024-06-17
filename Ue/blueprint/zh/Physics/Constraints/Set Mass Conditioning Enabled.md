@@ -1,5 +1,5 @@
 ---
-display_name: Set Mass Conditioning Enabled
+title: Set Mass Conditioning Enabled
 order: 55
 ---
 ## Navigation

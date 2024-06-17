@@ -1,5 +1,5 @@
 ---
-display_name: Application Has Reactivated Delegate
+title: Application Has Reactivated Delegate
 order: 7
 ---
 ## Navigation

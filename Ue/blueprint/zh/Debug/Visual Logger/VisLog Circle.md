@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Circle
+title: VisLog Circle
 order: 6
 ---
 ## Navigation

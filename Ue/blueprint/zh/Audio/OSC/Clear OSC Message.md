@@ -1,5 +1,5 @@
 ---
-display_name: Clear OSC Message
+title: Clear OSC Message
 order: 15
 ---
 ## Navigation

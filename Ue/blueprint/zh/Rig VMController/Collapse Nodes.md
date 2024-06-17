@@ -1,5 +1,5 @@
 ---
-display_name: Collapse Nodes
+title: Collapse Nodes
 order: 43
 ---
 ## Navigation

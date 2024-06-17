@@ -1,5 +1,5 @@
 ---
-display_name: Set Meta Data Resolution
+title: Set Meta Data Resolution
 order: 20
 ---
 ## Navigation

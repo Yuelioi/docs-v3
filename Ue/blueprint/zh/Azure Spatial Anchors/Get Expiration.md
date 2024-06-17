@@ -1,5 +1,5 @@
 ---
-display_name: Get Expiration
+title: Get Expiration
 order: 6
 ---
 ## Navigation

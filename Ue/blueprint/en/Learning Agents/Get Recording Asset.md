@@ -1,5 +1,5 @@
 ---
-display_name: Get Recording Asset
+title: Get Recording Asset
 order: 106
 ---
 ## Navigation

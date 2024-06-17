@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick Right
+title: Gamepad Right Thumbstick Right
 order: 25
 ---
 ## Navigation

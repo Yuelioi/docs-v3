@@ -1,5 +1,5 @@
 ---
-display_name: Set Model (Message)
+title: Set Model (Message)
 order: 21
 ---
 ## Navigation

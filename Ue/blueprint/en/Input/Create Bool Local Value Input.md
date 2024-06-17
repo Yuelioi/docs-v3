@@ -1,5 +1,5 @@
 ---
-display_name: Create Bool Local Value Input
+title: Create Bool Local Value Input
 order: 8
 ---
 ## Navigation

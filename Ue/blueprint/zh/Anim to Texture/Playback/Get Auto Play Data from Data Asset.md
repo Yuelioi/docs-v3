@@ -1,5 +1,5 @@
 ---
-display_name: Get Auto Play Data from Data Asset
+title: Get Auto Play Data from Data Asset
 order: 3
 ---
 ## Navigation

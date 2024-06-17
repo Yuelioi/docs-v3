@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Mesh UVs
+title: Rotate Mesh UVs
 order: 13
 ---
 ## Navigation

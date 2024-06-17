@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward on Condition
+title: Make Reward on Condition
 order: 225
 ---
 ## Navigation

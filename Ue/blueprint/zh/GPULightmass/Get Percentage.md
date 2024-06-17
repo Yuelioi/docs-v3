@@ -1,5 +1,5 @@
 ---
-display_name: Get Percentage
+title: Get Percentage
 order: 2
 ---
 ## Navigation

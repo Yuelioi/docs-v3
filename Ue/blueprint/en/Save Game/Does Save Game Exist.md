@@ -1,5 +1,5 @@
 ---
-display_name: Does Save Game Exist
+title: Does Save Game Exist
 order: 5
 ---
 ## Navigation

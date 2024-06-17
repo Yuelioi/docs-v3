@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Interface
+title: Set Material Interface
 order: 1
 ---
 ## Navigation

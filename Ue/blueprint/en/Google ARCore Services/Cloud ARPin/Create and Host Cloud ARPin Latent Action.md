@@ -1,5 +1,5 @@
 ---
-display_name: Create and Host Cloud ARPin Latent Action
+title: Create and Host Cloud ARPin Latent Action
 order: 1
 ---
 ## Navigation

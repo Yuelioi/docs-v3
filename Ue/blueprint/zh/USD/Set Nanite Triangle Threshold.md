@@ -1,5 +1,5 @@
 ---
-display_name: Set Nanite Triangle Threshold
+title: Set Nanite Triangle Threshold
 order: 17
 ---
 ## Navigation

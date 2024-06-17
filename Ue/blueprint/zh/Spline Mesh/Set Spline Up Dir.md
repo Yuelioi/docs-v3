@@ -1,5 +1,5 @@
 ---
-display_name: Set Spline Up Dir
+title: Set Spline Up Dir
 order: 24
 ---
 ## Navigation

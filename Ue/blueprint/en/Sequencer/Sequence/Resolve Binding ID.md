@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Binding ID
+title: Resolve Binding ID
 order: 79
 ---
 ## Navigation

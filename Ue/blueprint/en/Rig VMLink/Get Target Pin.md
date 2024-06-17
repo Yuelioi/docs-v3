@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Pin
+title: Get Target Pin
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Control Bus
+title: Create Control Bus
 order: 11
 ---
 ## Navigation

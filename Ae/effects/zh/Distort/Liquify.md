@@ -1,5 +1,5 @@
 ---
-display_name: 液化
+title: 液化
 order: 20
 ---
 

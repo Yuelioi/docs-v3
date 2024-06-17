@@ -1,5 +1,5 @@
 ---
-display_name: Get MassLODSubsystem
+title: Get MassLODSubsystem
 order: 47
 ---
 ## Navigation

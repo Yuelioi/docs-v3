@@ -1,5 +1,5 @@
 ---
-display_name: 更多选项
+title: 更多选项
 order: 1
 ---
 

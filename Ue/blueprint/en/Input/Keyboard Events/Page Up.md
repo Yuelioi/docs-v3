@@ -1,5 +1,5 @@
 ---
-display_name: Page Up
+title: Page Up
 order: 83
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Hierarchy Controller
+title: Get Hierarchy Controller
 order: 5
 ---
 ## Navigation

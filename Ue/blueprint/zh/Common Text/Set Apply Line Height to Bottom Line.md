@@ -1,5 +1,5 @@
 ---
-display_name: Set Apply Line Height to Bottom Line
+title: Set Apply Line Height to Bottom Line
 order: 3
 ---
 ## Navigation

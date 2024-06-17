@@ -1,5 +1,5 @@
 ---
-display_name: Sanitize Rotator
+title: Sanitize Rotator
 order: 22
 ---
 ## Navigation

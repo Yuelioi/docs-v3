@@ -1,5 +1,5 @@
 ---
-display_name: SetScrubSpeed
+title: SetScrubSpeed
 order: 78
 ---
 ## Navigation

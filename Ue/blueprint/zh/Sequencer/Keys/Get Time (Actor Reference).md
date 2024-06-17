@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Actor Reference)
+title: Get Time (Actor Reference)
 order: 56
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Javascript-Math-Js
+title: Javascript-Math-Js
 order: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Movement Immediately
+title: Stop Movement Immediately
 order: 8
 ---
 ## Navigation

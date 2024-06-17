@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Default Texture Parameter Value
+title: Get Material Default Texture Parameter Value
 order: 16
 ---
 ## Navigation

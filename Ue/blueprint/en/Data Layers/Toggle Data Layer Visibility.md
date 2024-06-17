@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Data Layer Visibility
+title: Toggle Data Layer Visibility
 order: 51
 ---
 ## Navigation

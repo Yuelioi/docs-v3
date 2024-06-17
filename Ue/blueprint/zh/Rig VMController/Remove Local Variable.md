@@ -1,5 +1,5 @@
 ---
-display_name: Remove Local Variable
+title: Remove Local Variable
 order: 86
 ---
 ## Navigation

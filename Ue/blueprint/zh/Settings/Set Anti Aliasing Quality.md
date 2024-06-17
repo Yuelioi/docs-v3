@@ -1,5 +1,5 @@
 ---
-display_name: Set Anti Aliasing Quality
+title: Set Anti Aliasing Quality
 order: 107
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Append Mesh Repeated
+title: Append Mesh Repeated
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifiers in Set Use Skeletal Animation
+title: Set Body Modifiers in Set Use Skeletal Animation
 order: 78
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Platform Changed to Tablet Mode Delegate
+title: Platform Changed to Tablet Mode Delegate
 order: 199
 ---
 ## Navigation

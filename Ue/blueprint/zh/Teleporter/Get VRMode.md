@@ -1,5 +1,5 @@
 ---
-display_name: Get VRMode
+title: Get VRMode
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC调色器
+title: CC调色器
 order: 10
 ---
 

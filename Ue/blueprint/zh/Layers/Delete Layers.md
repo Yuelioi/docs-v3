@@ -1,5 +1,5 @@
 ---
-display_name: Delete Layers
+title: Delete Layers
 order: 14
 ---
 ## Navigation

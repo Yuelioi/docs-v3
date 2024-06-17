@@ -1,5 +1,5 @@
 ---
-display_name: Allow Selection Modifiers (Message)
+title: Allow Selection Modifiers (Message)
 order: 1
 ---
 ## Navigation

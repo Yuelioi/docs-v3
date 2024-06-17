@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Type
+title: Set Blend Type
 order: 69
 ---
 ## Navigation

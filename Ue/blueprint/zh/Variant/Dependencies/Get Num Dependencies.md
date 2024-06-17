@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Dependencies
+title: Get Num Dependencies
 order: 3
 ---
 ## Navigation

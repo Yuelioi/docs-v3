@@ -1,5 +1,5 @@
 ---
-display_name: Get Body Modifier Exists
+title: Get Body Modifier Exists
 order: 28
 ---
 ## Navigation

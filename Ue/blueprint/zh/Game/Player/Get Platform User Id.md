@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform User Id
+title: Get Platform User Id
 order: 24
 ---
 ## Navigation

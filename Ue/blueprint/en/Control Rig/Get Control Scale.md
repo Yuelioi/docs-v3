@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Scale
+title: Get Control Scale
 order: 16
 ---
 ## Navigation

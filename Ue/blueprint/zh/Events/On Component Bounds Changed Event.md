@@ -1,5 +1,5 @@
 ---
-display_name: On Component Bounds Changed Event
+title: On Component Bounds Changed Event
 order: 4
 ---
 ## Navigation

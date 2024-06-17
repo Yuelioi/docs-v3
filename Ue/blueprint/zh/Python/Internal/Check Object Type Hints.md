@@ -1,5 +1,5 @@
 ---
-display_name: Check Object Type Hints
+title: Check Object Type Hints
 order: 17
 ---
 ## Navigation

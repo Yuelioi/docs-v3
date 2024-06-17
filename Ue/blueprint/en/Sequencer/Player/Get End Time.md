@@ -1,5 +1,5 @@
 ---
-display_name: Get End Time
+title: Get End Time
 order: 10
 ---
 ## Navigation

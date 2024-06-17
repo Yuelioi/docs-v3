@@ -1,5 +1,5 @@
 ---
-display_name: Get World Scale Factor
+title: Get World Scale Factor
 order: 1
 ---
 ## Navigation

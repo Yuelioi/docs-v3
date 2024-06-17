@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDINote Off
+title: Send MIDINote Off
 order: 5
 ---
 ## Navigation

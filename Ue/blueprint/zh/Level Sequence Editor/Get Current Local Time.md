@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Local Time
+title: Get Current Local Time
 order: 20
 ---
 ## Navigation

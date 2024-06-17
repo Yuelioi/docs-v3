@@ -1,5 +1,5 @@
 ---
-display_name: Get Simple Collision from Component
+title: Get Simple Collision from Component
 order: 6
 ---
 ## Navigation

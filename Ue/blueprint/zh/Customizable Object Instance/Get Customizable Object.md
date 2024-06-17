@@ -1,5 +1,5 @@
 ---
-display_name: Get Customizable Object
+title: Get Customizable Object
 order: 20
 ---
 ## Navigation

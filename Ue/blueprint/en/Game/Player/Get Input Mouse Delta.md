@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Mouse Delta
+title: Get Input Mouse Delta
 order: 19
 ---
 ## Navigation

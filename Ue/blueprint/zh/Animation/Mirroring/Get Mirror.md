@@ -1,5 +1,5 @@
 ---
-display_name: Get Mirror
+title: Get Mirror
 order: 4
 ---
 ## Navigation

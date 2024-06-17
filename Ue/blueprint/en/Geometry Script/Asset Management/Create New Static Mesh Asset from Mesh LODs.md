@@ -1,5 +1,5 @@
 ---
-display_name: Create New Static Mesh Asset from Mesh LODs
+title: Create New Static Mesh Asset from Mesh LODs
 order: 3
 ---
 ## Navigation

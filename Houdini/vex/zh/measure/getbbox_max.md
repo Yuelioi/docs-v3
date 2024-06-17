@@ -1,5 +1,5 @@
 ---
-display_name: getbbox_max
+title: getbbox_max
 order: 5
 ---
 `vector  getbbox_max(<geometry>geometry)`

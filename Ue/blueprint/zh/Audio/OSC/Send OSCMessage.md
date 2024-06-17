@@ -1,5 +1,5 @@
 ---
-display_name: Send OSCMessage
+title: Send OSCMessage
 order: 66
 ---
 ## Navigation

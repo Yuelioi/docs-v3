@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Guid
+title: Is Valid Guid
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Component
+title: Get Render Component
 order: 6
 ---
 ## Navigation

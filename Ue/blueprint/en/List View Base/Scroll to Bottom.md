@@ -1,5 +1,5 @@
 ---
-display_name: Scroll to Bottom
+title: Scroll to Bottom
 order: 5
 ---
 ## Navigation

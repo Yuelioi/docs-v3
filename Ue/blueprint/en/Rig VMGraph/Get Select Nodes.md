@@ -1,5 +1,5 @@
 ---
-display_name: Get Select Nodes
+title: Get Select Nodes
 order: 26
 ---
 ## Navigation

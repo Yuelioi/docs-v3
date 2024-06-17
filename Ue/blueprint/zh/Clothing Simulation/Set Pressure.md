@@ -1,5 +1,5 @@
 ---
-display_name: Set Pressure
+title: Set Pressure
 order: 30
 ---
 ## Navigation

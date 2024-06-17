@@ -1,5 +1,5 @@
 ---
-display_name: Get Niagara Parameter Collection
+title: Get Niagara Parameter Collection
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: RecordingSpeed
+title: RecordingSpeed
 order: 66
 ---
 ## Navigation

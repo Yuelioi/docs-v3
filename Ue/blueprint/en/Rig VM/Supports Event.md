@@ -1,5 +1,5 @@
 ---
-display_name: Supports Event
+title: Supports Event
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Recording Sequence
+title: Stop Recording Sequence
 order: 3
 ---
 ## Navigation

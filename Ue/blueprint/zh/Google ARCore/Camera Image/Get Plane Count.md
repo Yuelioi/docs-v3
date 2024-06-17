@@ -1,5 +1,5 @@
 ---
-display_name: Get Plane Count
+title: Get Plane Count
 order: 2
 ---
 ## Navigation

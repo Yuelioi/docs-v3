@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector from Control Value
+title: Get Vector from Control Value
 order: 92
 ---
 ## Navigation

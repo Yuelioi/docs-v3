@@ -1,5 +1,5 @@
 ---
-display_name: 中间值（旧版）
+title: 中间值（旧版）
 order: 6
 ---
 

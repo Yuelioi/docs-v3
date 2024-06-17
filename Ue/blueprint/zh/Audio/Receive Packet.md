@@ -1,5 +1,5 @@
 ---
-display_name: Receive Packet
+title: Receive Packet
 order: 46
 ---
 ## Navigation

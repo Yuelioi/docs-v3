@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Jump Force
+title: Apply Root Motion Jump Force
 order: 2
 ---
 ## Navigation

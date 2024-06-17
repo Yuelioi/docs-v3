@@ -1,5 +1,5 @@
 ---
-display_name: DeleteCurrentBookmark
+title: DeleteCurrentBookmark
 order: 12
 ---
 ## Navigation

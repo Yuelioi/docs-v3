@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Milliseconds
+title: Get Total Milliseconds
 order: 16
 ---
 ## Navigation

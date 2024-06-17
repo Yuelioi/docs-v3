@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner Player
+title: Get Owner Player
 order: 23
 ---
 ## Navigation

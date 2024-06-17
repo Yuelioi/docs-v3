@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Mode
+title: Get Playback Mode
 order: 3
 ---
 ## Navigation

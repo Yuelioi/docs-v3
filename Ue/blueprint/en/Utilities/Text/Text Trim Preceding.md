@@ -1,5 +1,5 @@
 ---
-display_name: Text Trim Preceding
+title: Text Trim Preceding
 order: 33
 ---
 ## Navigation

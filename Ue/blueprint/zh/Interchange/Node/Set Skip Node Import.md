@@ -1,5 +1,5 @@
 ---
-display_name: Set Skip Node Import
+title: Set Skip Node Import
 order: 72
 ---
 ## Navigation

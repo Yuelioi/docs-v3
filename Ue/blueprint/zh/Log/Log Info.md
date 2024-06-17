@@ -1,5 +1,5 @@
 ---
-display_name: Log Info
+title: Log Info
 order: 2
 ---
 ## Navigation

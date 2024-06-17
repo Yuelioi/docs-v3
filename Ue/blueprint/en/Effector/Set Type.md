@@ -1,5 +1,5 @@
 ---
-display_name: Set Type
+title: Set Type
 order: 30
 ---
 ## Navigation

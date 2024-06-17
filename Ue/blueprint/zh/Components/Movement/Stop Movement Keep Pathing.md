@@ -1,5 +1,5 @@
 ---
-display_name: Stop Movement Keep Pathing
+title: Stop Movement Keep Pathing
 order: 9
 ---
 ## Navigation

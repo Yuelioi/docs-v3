@@ -1,5 +1,5 @@
 ---
-display_name: Get Extents
+title: Get Extents
 order: 1
 ---
 ## Navigation

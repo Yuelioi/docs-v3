@@ -1,5 +1,5 @@
 ---
-display_name: Set Subtitles Enabled
+title: Set Subtitles Enabled
 order: 2
 ---
 ## Navigation

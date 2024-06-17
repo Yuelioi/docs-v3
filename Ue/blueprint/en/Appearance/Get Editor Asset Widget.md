@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor Asset Widget
+title: Get Editor Asset Widget
 order: 6
 ---
 ## Navigation

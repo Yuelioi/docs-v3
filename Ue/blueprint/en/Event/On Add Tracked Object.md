@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Object
+title: On Add Tracked Object
 order: 5
 ---
 ## Navigation

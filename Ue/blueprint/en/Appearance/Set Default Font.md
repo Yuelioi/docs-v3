@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Font
+title: Set Default Font
 order: 38
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Allow Rigid Body Anim Node
+title: Get Allow Rigid Body Anim Node
 order: 5
 ---
 ## Navigation

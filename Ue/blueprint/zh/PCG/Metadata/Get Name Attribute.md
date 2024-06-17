@@ -1,5 +1,5 @@
 ---
-display_name: Get Name Attribute
+title: Get Name Attribute
 order: 38
 ---
 ## Navigation

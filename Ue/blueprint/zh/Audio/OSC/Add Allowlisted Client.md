@@ -1,5 +1,5 @@
 ---
-display_name: Add Allowlisted Client
+title: Add Allowlisted Client
 order: 1
 ---
 ## Navigation

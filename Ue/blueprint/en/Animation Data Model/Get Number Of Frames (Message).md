@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Frames (Message)
+title: Get Number Of Frames (Message)
 order: 21
 ---
 ## Navigation

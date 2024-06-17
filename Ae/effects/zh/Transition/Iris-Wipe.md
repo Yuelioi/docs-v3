@@ -1,5 +1,5 @@
 ---
-display_name: 光圈擦除
+title: 光圈擦除
 order: 14
 ---
 

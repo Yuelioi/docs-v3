@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Asset Path Array
+title: Stringify as Asset Path Array
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Element Handles
+title: Get Selected Element Handles
 order: 15
 ---
 ## Navigation

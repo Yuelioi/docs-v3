@@ -1,5 +1,5 @@
 ---
-display_name: Get Device Snapshots
+title: Get Device Snapshots
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Array Bounds
+title: Get Actor Array Bounds
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Timer by Event
+title: Set Timer by Event
 order: 27
 ---
 ## Navigation

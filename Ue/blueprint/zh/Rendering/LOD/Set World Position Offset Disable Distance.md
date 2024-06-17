@@ -1,5 +1,5 @@
 ---
-display_name: Set World Position Offset Disable Distance
+title: Set World Position Offset Disable Distance
 order: 4
 ---
 ## Navigation

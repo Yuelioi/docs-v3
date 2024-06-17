@@ -1,5 +1,5 @@
 ---
-display_name: Set Relative Rotation
+title: Set Relative Rotation
 order: 70
 ---
 ## Navigation

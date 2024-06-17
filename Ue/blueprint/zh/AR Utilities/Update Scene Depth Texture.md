@@ -1,5 +1,5 @@
 ---
-display_name: Update Scene Depth Texture
+title: Update Scene Depth Texture
 order: 2
 ---
 ## Navigation

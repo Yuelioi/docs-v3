@@ -1,5 +1,5 @@
 ---
-display_name: Degrees To Radians
+title: Degrees To Radians
 order: 11
 ---
 ## Navigation

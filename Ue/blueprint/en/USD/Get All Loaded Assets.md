@@ -1,5 +1,5 @@
 ---
-display_name: Get All Loaded Assets
+title: Get All Loaded Assets
 order: 7
 ---
 ## Navigation

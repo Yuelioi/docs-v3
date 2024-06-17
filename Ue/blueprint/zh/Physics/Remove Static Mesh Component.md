@@ -1,5 +1,5 @@
 ---
-display_name: Remove Static Mesh Component
+title: Remove Static Mesh Component
 order: 7
 ---
 ## Navigation

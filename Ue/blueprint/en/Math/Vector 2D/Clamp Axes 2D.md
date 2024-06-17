@@ -1,5 +1,5 @@
 ---
-display_name: Clamp Axes 2D
+title: Clamp Axes 2D
 order: 2
 ---
 ## Navigation

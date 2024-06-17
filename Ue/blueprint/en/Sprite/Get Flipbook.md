@@ -1,5 +1,5 @@
 ---
-display_name: Get Flipbook
+title: Get Flipbook
 order: 4
 ---
 ## Navigation

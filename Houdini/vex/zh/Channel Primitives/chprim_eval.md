@@ -1,5 +1,5 @@
 ---
-display_name: chprim_eval
+title: chprim_eval
 order: 4
 ---
 `float  chprim_eval(<geometry>geometry, int prim, float time)`

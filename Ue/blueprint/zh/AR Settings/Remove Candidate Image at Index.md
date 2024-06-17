@@ -1,5 +1,5 @@
 ---
-display_name: Remove Candidate Image at Index
+title: Remove Candidate Image at Index
 order: 19
 ---
 ## Navigation

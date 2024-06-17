@@ -1,5 +1,5 @@
 ---
-display_name: agentworldtransform
+title: agentworldtransform
 order: 48
 ---
 `matrix  agentworldtransform(<geometry>geometry, int prim, int transform)`

@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_not
+title: fuzzy_not
 order: 6
 ---
 `int  fuzzy_not(int n)`

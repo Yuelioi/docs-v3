@@ -1,5 +1,5 @@
 ---
-display_name: Set Submix Override Settings
+title: Set Submix Override Settings
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Display Name
+title: Get Input Display Name
 order: 5
 ---
 ## Navigation

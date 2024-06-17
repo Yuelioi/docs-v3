@@ -1,5 +1,5 @@
 ---
-display_name: Try Get Input by Name
+title: Try Get Input by Name
 order: 6
 ---
 ## Navigation

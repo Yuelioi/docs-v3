@@ -1,5 +1,5 @@
 ---
-display_name: distance_pointline
+title: distance_pointline
 order: 19
 ---
 `float  distance_pointline(vector Q, vector O, vector D)`

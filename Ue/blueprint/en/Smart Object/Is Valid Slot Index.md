@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Slot Index
+title: Is Valid Slot Index
 order: 37
 ---
 ## Navigation

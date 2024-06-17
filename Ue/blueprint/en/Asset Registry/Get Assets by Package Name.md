@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Package Name
+title: Get Assets by Package Name
 order: 13
 ---
 ## Navigation

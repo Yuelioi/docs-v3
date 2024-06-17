@@ -1,5 +1,5 @@
 ---
-display_name: Request View
+title: Request View
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Spin
+title: Set Spin
 order: 17
 ---
 ## Navigation

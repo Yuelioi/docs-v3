@@ -1,5 +1,5 @@
 ---
-display_name: NextRigRail
+title: NextRigRail
 order: 43
 ---
 ## Navigation

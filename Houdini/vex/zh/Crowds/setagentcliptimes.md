@@ -1,5 +1,5 @@
 ---
-display_name: setagentcliptimes
+title: setagentcliptimes
 order: 54
 ---
 `void  setagentcliptimes(int geohandle, int prim, float cliptimes[])`

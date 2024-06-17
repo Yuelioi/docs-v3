@@ -1,5 +1,5 @@
 ---
-display_name: Add Generated Vector
+title: Add Generated Vector
 order: 2
 ---
 ## Navigation

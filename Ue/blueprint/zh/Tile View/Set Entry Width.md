@@ -1,5 +1,5 @@
 ---
-display_name: Set Entry Width
+title: Set Entry Width
 order: 4
 ---
 ## Navigation

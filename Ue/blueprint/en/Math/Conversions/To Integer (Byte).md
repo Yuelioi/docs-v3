@@ -1,5 +1,5 @@
 ---
-display_name: To Integer (Byte)
+title: To Integer (Byte)
 order: 15
 ---
 ## Navigation

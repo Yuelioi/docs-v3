@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Per Vertex Normals
+title: Get Mesh Per Vertex Normals
 order: 7
 ---
 ## Navigation

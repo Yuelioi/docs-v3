@@ -1,5 +1,5 @@
 ---
-display_name: vertexattribsize
+title: vertexattribsize
 order: 79
 ---
 `int  vertexattribsize(<geometry>geometry, string attribute_name)`

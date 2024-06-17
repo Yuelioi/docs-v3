@@ -1,5 +1,5 @@
 ---
-display_name: Select Keys
+title: Select Keys
 order: 59
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Mutable Slot
+title: Get Mutable Slot
 order: 19
 ---
 ## Navigation

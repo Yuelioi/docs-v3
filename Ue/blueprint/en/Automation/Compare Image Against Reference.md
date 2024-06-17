@@ -1,5 +1,5 @@
 ---
-display_name: Compare Image Against Reference
+title: Compare Image Against Reference
 order: 12
 ---
 ## Navigation

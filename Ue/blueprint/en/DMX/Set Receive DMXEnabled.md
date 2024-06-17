@@ -1,5 +1,5 @@
 ---
-display_name: Set Receive DMXEnabled
+title: Set Receive DMXEnabled
 order: 19
 ---
 ## Navigation

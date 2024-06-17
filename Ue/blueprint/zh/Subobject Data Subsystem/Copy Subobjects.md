@@ -1,5 +1,5 @@
 ---
-display_name: Copy Subobjects
+title: Copy Subobjects
 order: 6
 ---
 ## Navigation

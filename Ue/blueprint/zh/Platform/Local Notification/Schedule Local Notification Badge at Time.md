@@ -1,5 +1,5 @@
 ---
-display_name: Schedule Local Notification Badge at Time
+title: Schedule Local Notification Badge at Time
 order: 7
 ---
 ## Navigation

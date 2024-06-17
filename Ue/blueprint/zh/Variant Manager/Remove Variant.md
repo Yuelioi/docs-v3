@@ -1,5 +1,5 @@
 ---
-display_name: Remove Variant
+title: Remove Variant
 order: 35
 ---
 ## Navigation

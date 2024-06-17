@@ -1,5 +1,5 @@
 ---
-display_name: OnSmartObjectEvent
+title: OnSmartObjectEvent
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Lightmap Source UV
+title: Get Lightmap Source UV
 order: 40
 ---
 ## Navigation

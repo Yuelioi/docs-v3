@@ -1,5 +1,5 @@
 ---
-display_name: Save Game to Slot
+title: Save Game to Slot
 order: 17
 ---
 ## Navigation

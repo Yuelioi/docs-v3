@@ -1,5 +1,5 @@
 ---
-display_name: Random Bool from Stream
+title: Random Bool from Stream
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has User Focused Descendants
+title: Has User Focused Descendants
 order: 8
 ---
 ## Navigation

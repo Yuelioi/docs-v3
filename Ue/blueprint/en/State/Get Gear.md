@@ -1,5 +1,5 @@
 ---
-display_name: Get Gear
+title: Get Gear
 order: 2
 ---
 ## Navigation

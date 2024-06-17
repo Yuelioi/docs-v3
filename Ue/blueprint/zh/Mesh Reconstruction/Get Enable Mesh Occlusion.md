@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable Mesh Occlusion
+title: Get Enable Mesh Occlusion
 order: 5
 ---
 ## Navigation

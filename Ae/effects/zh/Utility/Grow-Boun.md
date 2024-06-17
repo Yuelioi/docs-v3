@@ -1,5 +1,5 @@
 ---
-display_name: 范围扩散
+title: 范围扩散
 order: 5
 ---
 

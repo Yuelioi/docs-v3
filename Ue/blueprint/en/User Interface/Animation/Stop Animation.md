@@ -1,5 +1,5 @@
 ---
-display_name: Stop Animation
+title: Stop Animation
 order: 26
 ---
 ## Navigation

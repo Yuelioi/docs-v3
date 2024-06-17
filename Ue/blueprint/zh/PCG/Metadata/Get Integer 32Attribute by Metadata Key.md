@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer 32Attribute by Metadata Key
+title: Get Integer 32Attribute by Metadata Key
 order: 34
 ---
 ## Navigation

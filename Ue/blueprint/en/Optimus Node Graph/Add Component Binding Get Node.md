@@ -1,5 +1,5 @@
 ---
-display_name: Add Component Binding Get Node
+title: Add Component Binding Get Node
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Dimension
+title: Get Dimension
 order: 5
 ---
 ## Navigation

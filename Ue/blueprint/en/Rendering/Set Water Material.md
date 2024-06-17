@@ -1,5 +1,5 @@
 ---
-display_name: Set Water Material
+title: Set Water Material
 order: 98
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Pin Component to ARPin
+title: Pin Component to ARPin
 order: 5
 ---
 ## Navigation

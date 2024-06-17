@@ -1,5 +1,5 @@
 ---
-display_name: Get Override Player Input Class
+title: Get Override Player Input Class
 order: 123
 ---
 ## Navigation

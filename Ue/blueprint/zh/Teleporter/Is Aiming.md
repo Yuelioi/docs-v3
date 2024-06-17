@@ -1,5 +1,5 @@
 ---
-display_name: Is Aiming
+title: Is Aiming
 order: 4
 ---
 ## Navigation

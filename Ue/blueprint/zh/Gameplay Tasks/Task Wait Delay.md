@@ -1,5 +1,5 @@
 ---
-display_name: Task Wait Delay
+title: Task Wait Delay
 order: 5
 ---
 ## Navigation

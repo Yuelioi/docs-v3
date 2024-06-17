@@ -1,5 +1,5 @@
 ---
-display_name: iplaneindex
+title: iplaneindex
 order: 19
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

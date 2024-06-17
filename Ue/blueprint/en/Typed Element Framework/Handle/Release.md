@@ -1,5 +1,5 @@
 ---
-display_name: Release
+title: Release
 order: 4
 ---
 ## Navigation

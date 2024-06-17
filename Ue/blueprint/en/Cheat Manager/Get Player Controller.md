@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Controller
+title: Get Player Controller
 order: 8
 ---
 ## Navigation

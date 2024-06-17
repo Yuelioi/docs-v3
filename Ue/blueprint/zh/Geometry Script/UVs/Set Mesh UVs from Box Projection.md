@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh UVs from Box Projection
+title: Set Mesh UVs from Box Projection
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Draw Size
+title: Get Draw Size
 order: 18
 ---
 ## Navigation

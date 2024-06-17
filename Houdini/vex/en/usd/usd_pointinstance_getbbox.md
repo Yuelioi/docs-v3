@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_getbbox
+title: usd_pointinstance_getbbox
 order: 98
 ---
 | Since | 18.0 |

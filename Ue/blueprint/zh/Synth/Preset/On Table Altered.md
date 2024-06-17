@@ -1,5 +1,5 @@
 ---
-display_name: On Table Altered
+title: On Table Altered
 order: 2
 ---
 ## Navigation

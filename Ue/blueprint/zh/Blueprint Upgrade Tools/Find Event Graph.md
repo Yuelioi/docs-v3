@@ -1,5 +1,5 @@
 ---
-display_name: Find Event Graph
+title: Find Event Graph
 order: 3
 ---
 ## Navigation

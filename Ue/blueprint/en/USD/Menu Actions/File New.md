@@ -1,5 +1,5 @@
 ---
-display_name: File New
+title: File New
 order: 6
 ---
 ## Navigation

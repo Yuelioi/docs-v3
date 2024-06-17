@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Has Tangents
+title: Get Mesh Has Tangents
 order: 6
 ---
 ## Navigation

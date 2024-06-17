@@ -1,5 +1,5 @@
 ---
-display_name: Is Motion Tracking Enabled for Component
+title: Is Motion Tracking Enabled for Component
 order: 14
 ---
 ## Navigation

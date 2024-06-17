@@ -1,5 +1,5 @@
 ---
-display_name: TwoFingerPressHold
+title: TwoFingerPressHold
 order: 124
 ---
 ## Navigation

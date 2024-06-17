@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Stack Box
+title: Add Child to Stack Box
 order: 1
 ---
 ## Navigation

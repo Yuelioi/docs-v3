@@ -1,5 +1,5 @@
 ---
-display_name: Local Transform
+title: Local Transform
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Evaluation Distance to Newest Sample Mean
+title: Get Channel Evaluation Distance to Newest Sample Mean
 order: 7
 ---
 ## Navigation

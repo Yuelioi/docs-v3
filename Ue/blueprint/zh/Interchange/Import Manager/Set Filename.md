@@ -1,5 +1,5 @@
 ---
-display_name: Set Filename
+title: Set Filename
 order: 7
 ---
 ## Navigation

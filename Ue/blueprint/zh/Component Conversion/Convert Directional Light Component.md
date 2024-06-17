@@ -1,5 +1,5 @@
 ---
-display_name: Convert Directional Light Component
+title: Convert Directional Light Component
 order: 2
 ---
 ## Navigation

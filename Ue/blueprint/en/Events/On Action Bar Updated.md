@@ -1,5 +1,5 @@
 ---
-display_name: On Action Bar Updated
+title: On Action Bar Updated
 order: 1
 ---
 ## Navigation

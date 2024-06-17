@@ -1,5 +1,5 @@
 ---
-display_name: Editor Save Asset
+title: Editor Save Asset
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Triangle Indices
+title: Get All Triangle Indices
 order: 5
 ---
 ## Navigation

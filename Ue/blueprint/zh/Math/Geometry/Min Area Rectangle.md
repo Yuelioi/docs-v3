@@ -1,5 +1,5 @@
 ---
-display_name: Min Area Rectangle
+title: Min Area Rectangle
 order: 9
 ---
 ## Navigation

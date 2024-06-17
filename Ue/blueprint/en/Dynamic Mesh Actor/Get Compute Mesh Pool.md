@@ -1,5 +1,5 @@
 ---
-display_name: Get Compute Mesh Pool
+title: Get Compute Mesh Pool
 order: 5
 ---
 ## Navigation

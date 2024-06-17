@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Tag
+title: Get Metadata Tag
 order: 2
 ---
 ## Navigation

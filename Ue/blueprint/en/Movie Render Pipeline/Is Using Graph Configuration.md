@@ -1,5 +1,5 @@
 ---
-display_name: Is Using Graph Configuration
+title: Is Using Graph Configuration
 order: 76
 ---
 ## Navigation

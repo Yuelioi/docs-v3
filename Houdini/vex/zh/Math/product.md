@@ -1,5 +1,5 @@
 ---
-display_name: product
+title: product
 order: 59
 ---
 `float  product(float n)`

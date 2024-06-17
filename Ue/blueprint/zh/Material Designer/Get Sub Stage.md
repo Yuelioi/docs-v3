@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Stage
+title: Get Sub Stage
 order: 137
 ---
 ## Navigation

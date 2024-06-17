@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Blocked by Immunity
+title: Wait Gameplay Effect Blocked by Immunity
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: getbbox_center
+title: getbbox_center
 order: 4
 ---
 `vector  getbbox_center(<geometry>geometry)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Project Content Directory
+title: Get Project Content Directory
 order: 44
 ---
 ## Navigation

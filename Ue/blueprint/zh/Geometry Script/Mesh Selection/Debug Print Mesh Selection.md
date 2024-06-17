@@ -1,5 +1,5 @@
 ---
-display_name: Debug Print Mesh Selection
+title: Debug Print Mesh Selection
 order: 9
 ---
 ## Navigation

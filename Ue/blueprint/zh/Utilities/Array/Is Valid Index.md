@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Index
+title: Is Valid Index
 order: 14
 ---
 ## Navigation

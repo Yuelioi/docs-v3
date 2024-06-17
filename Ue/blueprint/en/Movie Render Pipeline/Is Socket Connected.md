@@ -1,5 +1,5 @@
 ---
-display_name: Is Socket Connected
+title: Is Socket Connected
 order: 75
 ---
 ## Navigation

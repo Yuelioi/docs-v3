@@ -1,5 +1,5 @@
 ---
-display_name: Stop Broadcast
+title: Stop Broadcast
 order: 5
 ---
 ## Navigation

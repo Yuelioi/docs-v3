@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Vector Field Rotation Rate Props
+title: Get Particle Module Vector Field Rotation Rate Props
 order: 105
 ---
 ## Navigation

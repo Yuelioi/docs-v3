@@ -1,5 +1,5 @@
 ---
-display_name: Set Orientation Force Enabled
+title: Set Orientation Force Enabled
 order: 37
 ---
 ## Navigation

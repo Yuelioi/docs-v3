@@ -1,5 +1,5 @@
 ---
-display_name: Create Offer
+title: Create Offer
 order: 3
 ---
 ## Navigation

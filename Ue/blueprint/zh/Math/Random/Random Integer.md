@@ -1,5 +1,5 @@
 ---
-display_name: Random Integer
+title: Random Integer
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Retarget Chain Settings
+title: Set Retarget Chain Settings
 order: 24
 ---
 ## Navigation

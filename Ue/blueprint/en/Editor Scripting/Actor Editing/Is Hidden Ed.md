@@ -1,5 +1,5 @@
 ---
-display_name: Is Hidden Ed
+title: Is Hidden Ed
 order: 6
 ---
 ## Navigation

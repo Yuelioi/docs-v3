@@ -1,5 +1,5 @@
 ---
-display_name: Stop Link
+title: Stop Link
 order: 8
 ---
 ## Navigation

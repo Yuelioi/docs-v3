@@ -1,5 +1,5 @@
 ---
-display_name: primattribtypeinfo
+title: primattribtypeinfo
 order: 50
 ---
 `string  primattribtypeinfo(<geometry>geometry, string attribute_name)`

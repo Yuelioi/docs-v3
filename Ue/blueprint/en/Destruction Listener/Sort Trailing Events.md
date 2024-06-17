@@ -1,5 +1,5 @@
 ---
-display_name: Sort Trailing Events
+title: Sort Trailing Events
 order: 17
 ---
 ## Navigation

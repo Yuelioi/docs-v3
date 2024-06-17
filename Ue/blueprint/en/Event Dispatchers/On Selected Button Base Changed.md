@@ -1,5 +1,5 @@
 ---
-display_name: On Selected Button Base Changed
+title: On Selected Button Base Changed
 order: 150
 ---
 ## Navigation

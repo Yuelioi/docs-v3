@@ -1,5 +1,5 @@
 ---
-display_name: Is Secondary Node
+title: Is Secondary Node
 order: 8
 ---
 ## Navigation

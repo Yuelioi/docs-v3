@@ -1,5 +1,5 @@
 ---
-display_name: Get Closest Point On Physics Asset
+title: Get Closest Point On Physics Asset
 order: 8
 ---
 ## Navigation

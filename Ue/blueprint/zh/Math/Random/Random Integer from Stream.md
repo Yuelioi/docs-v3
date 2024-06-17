@@ -1,5 +1,5 @@
 ---
-display_name: Random Integer from Stream
+title: Random Integer from Stream
 order: 20
 ---
 ## Navigation

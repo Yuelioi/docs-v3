@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Id
+title: Get Point Id
 order: 1
 ---
 ## Navigation

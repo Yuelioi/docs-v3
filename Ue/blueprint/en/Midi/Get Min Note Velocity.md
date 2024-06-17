@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Note Velocity
+title: Get Min Note Velocity
 order: 9
 ---
 ## Navigation

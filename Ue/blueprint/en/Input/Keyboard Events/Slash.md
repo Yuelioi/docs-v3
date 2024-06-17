@@ -1,5 +1,5 @@
 ---
-display_name: Slash
+title: Slash
 order: 99
 ---
 ## Navigation

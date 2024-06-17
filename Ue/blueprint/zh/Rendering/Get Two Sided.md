@@ -1,5 +1,5 @@
 ---
-display_name: Get Two Sided
+title: Get Two Sided
 order: 23
 ---
 ## Navigation

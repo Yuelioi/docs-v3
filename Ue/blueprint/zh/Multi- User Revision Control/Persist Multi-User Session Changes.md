@@ -1,5 +1,5 @@
 ---
-display_name: Persist Multi-User Session Changes
+title: Persist Multi-User Session Changes
 order: 1
 ---
 ## Navigation

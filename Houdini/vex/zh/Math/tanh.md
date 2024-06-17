@@ -1,5 +1,5 @@
 ---
-display_name: tanh
+title: tanh
 order: 85
 ---
 `float  tanh(float n)`

@@ -1,5 +1,5 @@
 ---
-display_name: Create Linked Value Input
+title: Create Linked Value Input
 order: 16
 ---
 ## Navigation

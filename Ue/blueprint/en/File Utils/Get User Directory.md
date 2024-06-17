@@ -1,5 +1,5 @@
 ---
-display_name: Get User Directory
+title: Get User Directory
 order: 8
 ---
 ## Navigation

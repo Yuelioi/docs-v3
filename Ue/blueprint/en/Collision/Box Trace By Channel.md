@@ -1,5 +1,5 @@
 ---
-display_name: Box Trace By Channel
+title: Box Trace By Channel
 order: 4
 ---
 ## Navigation

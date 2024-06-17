@@ -1,5 +1,5 @@
 ---
-display_name: Is Map Valid
+title: Is Map Valid
 order: 24
 ---
 ## Navigation

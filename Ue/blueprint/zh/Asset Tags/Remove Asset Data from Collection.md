@@ -1,5 +1,5 @@
 ---
-display_name: Remove Asset Data from Collection
+title: Remove Asset Data from Collection
 order: 16
 ---
 ## Navigation

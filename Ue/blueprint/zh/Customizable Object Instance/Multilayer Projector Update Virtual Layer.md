@@ -1,5 +1,5 @@
 ---
-display_name: Multilayer Projector Update Virtual Layer
+title: Multilayer Projector Update Virtual Layer
 order: 56
 ---
 ## Navigation

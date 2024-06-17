@@ -1,5 +1,5 @@
 ---
-display_name: osd_patchcount
+title: osd_patchcount
 order: 7
 ---
 `int  osd_patchcount(<geometry>geometry)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Attribute Base from Ability System Component
+title: Get Float Attribute Base from Ability System Component
 order: 4
 ---
 ## Navigation

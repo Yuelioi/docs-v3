@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Num Neighbors
+title: Get Asset Num Neighbors
 order: 3
 ---
 ## Navigation

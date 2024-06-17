@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Data Buffer Size
+title: Get Channel Data Buffer Size
 order: 5
 ---
 ## Navigation

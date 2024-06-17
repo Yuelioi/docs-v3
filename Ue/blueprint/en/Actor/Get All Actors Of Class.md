@@ -1,5 +1,5 @@
 ---
-display_name: Get All Actors Of Class
+title: Get All Actors Of Class
 order: 10
 ---
 ## Navigation

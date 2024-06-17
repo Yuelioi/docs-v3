@@ -1,5 +1,5 @@
 ---
-display_name: Get Styles for Modifier
+title: Get Styles for Modifier
 order: 45
 ---
 ## Navigation

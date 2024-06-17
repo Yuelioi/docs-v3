@@ -1,5 +1,5 @@
 ---
-display_name: Is Selected by Index
+title: Is Selected by Index
 order: 99
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Space Bar
+title: Space Bar
 order: 100
 ---
 ## Navigation

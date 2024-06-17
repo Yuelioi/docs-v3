@@ -1,5 +1,5 @@
 ---
-display_name: Select Color
+title: Select Color
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enumerate Video Capture Devices
+title: Enumerate Video Capture Devices
 order: 2
 ---
 ## Navigation

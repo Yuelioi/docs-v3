@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Culture
+title: Set Current Culture
 order: 16
 ---
 ## Navigation

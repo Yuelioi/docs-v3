@@ -1,5 +1,5 @@
 ---
-display_name: Event ActorOnReleased
+title: Event ActorOnReleased
 order: 4
 ---
 ## Navigation

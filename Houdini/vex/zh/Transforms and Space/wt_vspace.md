@@ -1,5 +1,5 @@
 ---
-display_name: wt_vspace
+title: wt_vspace
 order: 42
 ---
 `vector  wt_vspace(vector v)`

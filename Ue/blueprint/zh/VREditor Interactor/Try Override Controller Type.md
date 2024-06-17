@@ -1,5 +1,5 @@
 ---
-display_name: Try Override Controller Type
+title: Try Override Controller Type
 order: 7
 ---
 ## Navigation

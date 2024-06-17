@@ -1,5 +1,5 @@
 ---
-display_name: Set DMXOutput Port Device Address
+title: Set DMXOutput Port Device Address
 order: 17
 ---
 ## Navigation

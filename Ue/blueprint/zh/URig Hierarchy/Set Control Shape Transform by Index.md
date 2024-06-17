@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Shape Transform by Index
+title: Set Control Shape Transform by Index
 order: 135
 ---
 ## Navigation

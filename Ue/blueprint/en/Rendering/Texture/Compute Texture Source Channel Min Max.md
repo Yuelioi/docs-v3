@@ -1,5 +1,5 @@
 ---
-display_name: Compute Texture Source Channel Min Max
+title: Compute Texture Source Channel Min Max
 order: 1
 ---
 ## Navigation

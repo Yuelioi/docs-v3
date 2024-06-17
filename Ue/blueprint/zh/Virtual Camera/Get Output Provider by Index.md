@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Provider by Index
+title: Get Output Provider by Index
 order: 34
 ---
 ## Navigation

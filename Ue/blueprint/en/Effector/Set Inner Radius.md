@@ -1,5 +1,5 @@
 ---
-display_name: Set Inner Radius
+title: Set Inner Radius
 order: 20
 ---
 ## Navigation

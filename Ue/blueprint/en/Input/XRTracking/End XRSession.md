@@ -1,5 +1,5 @@
 ---
-display_name: End XRSession
+title: End XRSession
 order: 4
 ---
 ## Navigation

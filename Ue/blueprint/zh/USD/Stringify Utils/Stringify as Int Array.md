@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Int Array
+title: Stringify as Int Array
 order: 37
 ---
 ## Navigation

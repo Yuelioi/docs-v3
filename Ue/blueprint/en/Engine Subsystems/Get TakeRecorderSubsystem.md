@@ -1,5 +1,5 @@
 ---
-display_name: Get TakeRecorderSubsystem
+title: Get TakeRecorderSubsystem
 order: 45
 ---
 ## Navigation

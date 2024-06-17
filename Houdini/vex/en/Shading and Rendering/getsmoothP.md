@@ -1,5 +1,5 @@
 ---
-display_name: getsmoothP
+title: getsmoothP
 order: 33
 ---
 | On this page | * [Variadic arguments](#variadic-arguments) * [Examples](#examples) |

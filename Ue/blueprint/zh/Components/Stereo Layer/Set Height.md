@@ -1,5 +1,5 @@
 ---
-display_name: Set Height
+title: Set Height
 order: 8
 ---
 ## Navigation

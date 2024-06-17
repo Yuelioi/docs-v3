@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Possessables
+title: Get Child Possessables
 order: 26
 ---
 ## Navigation

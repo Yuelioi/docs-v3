@@ -1,5 +1,5 @@
 ---
-display_name: Set Playback Range Locked
+title: Set Playback Range Locked
 order: 94
 ---
 ## Navigation

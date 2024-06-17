@@ -1,5 +1,5 @@
 ---
-display_name: OnFinalPassRendered
+title: OnFinalPassRendered
 order: 9
 ---
 ## Navigation

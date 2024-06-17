@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Dimensions
+title: Set Min Dimensions
 order: 10
 ---
 ## Navigation

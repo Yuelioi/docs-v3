@@ -1,5 +1,5 @@
 ---
-display_name: Start Consuming Input
+title: Start Consuming Input
 order: 5
 ---
 ## Navigation

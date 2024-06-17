@@ -1,5 +1,5 @@
 ---
-display_name: Get TargetingSubsystem
+title: Get TargetingSubsystem
 order: 8
 ---
 ## Navigation

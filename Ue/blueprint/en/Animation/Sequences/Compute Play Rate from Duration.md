@@ -1,5 +1,5 @@
 ---
-display_name: Compute Play Rate from Duration
+title: Compute Play Rate from Duration
 order: 2
 ---
 ## Navigation

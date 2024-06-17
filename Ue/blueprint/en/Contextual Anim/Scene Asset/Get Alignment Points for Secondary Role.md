@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment Points for Secondary Role
+title: Get Alignment Points for Secondary Role
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Distance2D (Vector)
+title: Distance2D (Vector)
 order: 11
 ---
 ## Navigation

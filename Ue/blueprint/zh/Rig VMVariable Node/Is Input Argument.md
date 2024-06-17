@@ -1,5 +1,5 @@
 ---
-display_name: Is Input Argument
+title: Is Input Argument
 order: 8
 ---
 ## Navigation

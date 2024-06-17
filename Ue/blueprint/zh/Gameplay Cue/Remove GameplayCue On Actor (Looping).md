@@ -1,5 +1,5 @@
 ---
-display_name: Remove GameplayCue On Actor (Looping)
+title: Remove GameplayCue On Actor (Looping)
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Sqrt
+title: Sqrt
 order: 38
 ---
 ## Navigation

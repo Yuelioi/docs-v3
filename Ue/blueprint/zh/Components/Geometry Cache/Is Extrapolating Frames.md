@@ -1,5 +1,5 @@
 ---
-display_name: Is Extrapolating Frames
+title: Is Extrapolating Frames
 order: 11
 ---
 ## Navigation

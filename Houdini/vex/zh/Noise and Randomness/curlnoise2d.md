@@ -1,5 +1,5 @@
 ---
-display_name: curlnoise2d
+title: curlnoise2d
 order: 5
 ---
 `vector  curlnoise2d(float x, float y)`

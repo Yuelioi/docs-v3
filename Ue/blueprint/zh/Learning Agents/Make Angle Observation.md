@@ -1,5 +1,5 @@
 ---
-display_name: Make Angle Observation
+title: Make Angle Observation
 order: 155
 ---
 ## Navigation

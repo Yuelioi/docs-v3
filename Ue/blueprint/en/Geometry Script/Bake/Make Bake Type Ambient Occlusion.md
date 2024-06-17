@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Ambient Occlusion
+title: Make Bake Type Ambient Occlusion
 order: 5
 ---
 ## Navigation

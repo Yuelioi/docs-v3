@@ -1,5 +1,5 @@
 ---
-display_name: Should Enable Auto Focus
+title: Should Enable Auto Focus
 order: 31
 ---
 ## Navigation

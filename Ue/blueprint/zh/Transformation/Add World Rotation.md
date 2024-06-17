@@ -1,5 +1,5 @@
 ---
-display_name: Add World Rotation
+title: Add World Rotation
 order: 14
 ---
 ## Navigation

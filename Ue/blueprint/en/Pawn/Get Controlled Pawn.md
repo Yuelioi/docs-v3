@@ -1,5 +1,5 @@
 ---
-display_name: Get Controlled Pawn
+title: Get Controlled Pawn
 order: 6
 ---
 ## Navigation

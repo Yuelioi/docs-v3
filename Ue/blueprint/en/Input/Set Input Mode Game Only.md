@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Mode Game Only
+title: Set Input Mode Game Only
 order: 24
 ---
 ## Navigation

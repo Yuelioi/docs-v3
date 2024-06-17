@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter UIMetadata
+title: Get Parameter UIMetadata
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set View Target with Blend
+title: Set View Target with Blend
 order: 29
 ---
 ## Navigation

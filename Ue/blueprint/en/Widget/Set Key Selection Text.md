@@ -1,5 +1,5 @@
 ---
-display_name: Set Key Selection Text
+title: Set Key Selection Text
 order: 19
 ---
 ## Navigation

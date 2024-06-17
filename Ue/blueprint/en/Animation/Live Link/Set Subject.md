@@ -1,5 +1,5 @@
 ---
-display_name: Set Subject
+title: Set Subject
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Field Names
+title: Get Field Names
 order: 2
 ---
 ## Navigation

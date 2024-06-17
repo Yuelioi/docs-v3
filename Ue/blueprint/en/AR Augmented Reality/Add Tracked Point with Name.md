@@ -1,5 +1,5 @@
 ---
-display_name: Add Tracked Point with Name
+title: Add Tracked Point with Name
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance Connected Triangles
+title: Get Vertex Instance Connected Triangles
 order: 63
 ---
 ## Navigation

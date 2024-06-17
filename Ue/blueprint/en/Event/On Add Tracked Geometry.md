@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Geometry
+title: On Add Tracked Geometry
 order: 3
 ---
 ## Navigation

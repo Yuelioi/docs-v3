@@ -1,5 +1,5 @@
 ---
-display_name: Get Pipeline Primary Config
+title: Get Pipeline Primary Config
 order: 51
 ---
 ## Navigation

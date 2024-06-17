@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXTarget Value
+title: Get DMXTarget Value
 order: 45
 ---
 ## Navigation

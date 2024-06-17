@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Action to Arrays
+title: Get Struct Action to Arrays
 order: 122
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Modified Event Dynamic
+title: Modified Event Dynamic
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create TRSGizmo
+title: Create TRSGizmo
 order: 1
 ---
 ## Navigation

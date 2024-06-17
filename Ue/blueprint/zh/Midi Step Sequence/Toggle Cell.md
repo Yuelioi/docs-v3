@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Cell
+title: Toggle Cell
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: blackbody
+title: blackbody
 order: 1
 ---
 `vector  blackbody(float temperature, float luminance)`

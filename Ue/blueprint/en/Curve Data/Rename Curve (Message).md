@@ -1,5 +1,5 @@
 ---
-display_name: Rename Curve (Message)
+title: Rename Curve (Message)
 order: 13
 ---
 ## Navigation

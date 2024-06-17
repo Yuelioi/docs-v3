@@ -1,5 +1,5 @@
 ---
-display_name: filter_remap
+title: filter_remap
 order: 1
 ---
 | Since | 18.5 |

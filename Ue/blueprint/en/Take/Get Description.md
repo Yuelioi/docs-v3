@@ -1,5 +1,5 @@
 ---
-display_name: Get Description
+title: Get Description
 order: 2
 ---
 ## Navigation

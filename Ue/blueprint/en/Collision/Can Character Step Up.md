@@ -1,5 +1,5 @@
 ---
-display_name: Can Character Step Up
+title: Can Character Step Up
 order: 8
 ---
 ## Navigation

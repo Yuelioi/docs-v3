@@ -1,5 +1,5 @@
 ---
-display_name: Get User Tag
+title: Get User Tag
 order: 40
 ---
 ## Navigation

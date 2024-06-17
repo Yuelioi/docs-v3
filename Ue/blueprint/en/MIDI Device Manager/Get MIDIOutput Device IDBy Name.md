@@ -1,5 +1,5 @@
 ---
-display_name: Get MIDIOutput Device IDBy Name
+title: Get MIDIOutput Device IDBy Name
 order: 9
 ---
 ## Navigation

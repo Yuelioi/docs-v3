@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Pin
+title: Get Parent Pin
 order: 21
 ---
 ## Navigation

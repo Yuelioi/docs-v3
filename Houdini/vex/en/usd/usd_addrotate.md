@@ -1,5 +1,5 @@
 ---
-display_name: usd_addrotate
+title: usd_addrotate
 order: 9
 ---
 | Since | 18.0 |

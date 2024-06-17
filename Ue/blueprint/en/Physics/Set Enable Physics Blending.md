@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Physics Blending
+title: Set Enable Physics Blending
 order: 35
 ---
 ## Navigation

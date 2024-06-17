@@ -1,5 +1,5 @@
 ---
-display_name: Add Console Variable
+title: Add Console Variable
 order: 5
 ---
 ## Navigation

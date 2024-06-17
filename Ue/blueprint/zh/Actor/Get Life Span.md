@@ -1,5 +1,5 @@
 ---
-display_name: Get Life Span
+title: Get Life Span
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spherical2D To Unit Cartesian
+title: Spherical2D To Unit Cartesian
 order: 22
 ---
 ## Navigation

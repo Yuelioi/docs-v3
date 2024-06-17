@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh To Per Vertex Normals (Computed)
+title: Set Mesh To Per Vertex Normals (Computed)
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PlayMontageAndWait
+title: PlayMontageAndWait
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Vec 2Local Value Input
+title: Create Vec 2Local Value Input
 order: 19
 ---
 ## Navigation

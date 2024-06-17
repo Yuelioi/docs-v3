@@ -1,5 +1,5 @@
 ---
-display_name: Find Sub Pin
+title: Find Sub Pin
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC径向快速模糊
+title: CC径向快速模糊
 order: 6
 ---
 

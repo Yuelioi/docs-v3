@@ -1,5 +1,5 @@
 ---
-display_name: Start Output
+title: Start Output
 order: 6
 ---
 ## Navigation

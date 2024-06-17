@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Section Visible
+title: Set Mesh Section Visible
 order: 17
 ---
 ## Navigation

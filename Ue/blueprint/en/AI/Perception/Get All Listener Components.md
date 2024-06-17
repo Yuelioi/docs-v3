@@ -1,5 +1,5 @@
 ---
-display_name: Get All Listener Components
+title: Get All Listener Components
 order: 5
 ---
 ## Navigation

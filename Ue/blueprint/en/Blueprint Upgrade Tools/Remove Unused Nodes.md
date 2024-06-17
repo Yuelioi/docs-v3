@@ -1,5 +1,5 @@
 ---
-display_name: Remove Unused Nodes
+title: Remove Unused Nodes
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Int Parameter
+title: Set Int Parameter
 order: 23
 ---
 ## Navigation

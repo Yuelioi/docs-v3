@@ -1,5 +1,5 @@
 ---
-display_name: Set Trailing Event Enabled
+title: Set Trailing Event Enabled
 order: 12
 ---
 ## Navigation

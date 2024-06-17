@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixtures in Library
+title: Get All Fixtures in Library
 order: 33
 ---
 ## Navigation

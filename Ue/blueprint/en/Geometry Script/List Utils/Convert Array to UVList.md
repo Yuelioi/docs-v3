@@ -1,5 +1,5 @@
 ---
-display_name: Convert Array to UVList
+title: Convert Array to UVList
 order: 10
 ---
 ## Navigation

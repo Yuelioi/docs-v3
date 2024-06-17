@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Value Range
+title: Get Projector Value Range
 order: 36
 ---
 ## Navigation

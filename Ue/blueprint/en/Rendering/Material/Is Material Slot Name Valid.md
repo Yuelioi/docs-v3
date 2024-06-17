@@ -1,5 +1,5 @@
 ---
-display_name: Is Material Slot Name Valid
+title: Is Material Slot Name Valid
 order: 34
 ---
 ## Navigation

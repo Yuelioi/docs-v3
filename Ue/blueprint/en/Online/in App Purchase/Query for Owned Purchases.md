@@ -1,5 +1,5 @@
 ---
-display_name: Query for Owned Purchases
+title: Query for Owned Purchases
 order: 6
 ---
 ## Navigation

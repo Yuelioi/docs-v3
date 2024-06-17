@@ -1,5 +1,5 @@
 ---
-display_name: Set Live Link Subject
+title: Set Live Link Subject
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: FootageItem
+title: FootageItem
 order: 4
 ---
 

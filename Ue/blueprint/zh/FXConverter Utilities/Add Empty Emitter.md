@@ -1,5 +1,5 @@
 ---
-display_name: Add Empty Emitter
+title: Add Empty Emitter
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Wait Frames Before Rendering
+title: Get Wait Frames Before Rendering
 order: 28
 ---
 ## Navigation

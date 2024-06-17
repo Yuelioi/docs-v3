@@ -1,5 +1,5 @@
 ---
-display_name: Get Jobs Completed Count
+title: Get Jobs Completed Count
 order: 10
 ---
 ## Navigation

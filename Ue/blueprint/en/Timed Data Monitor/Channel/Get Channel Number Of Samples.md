@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Number Of Samples
+title: Get Channel Number Of Samples
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcunshaded
+title: pcunshaded
 order: 32
 ---
 `int  pcunshaded(int handle, string channel_name)`

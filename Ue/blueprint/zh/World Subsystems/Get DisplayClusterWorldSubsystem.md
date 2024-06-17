@@ -1,5 +1,5 @@
 ---
-display_name: Get DisplayClusterWorldSubsystem
+title: Get DisplayClusterWorldSubsystem
 order: 25
 ---
 ## Navigation

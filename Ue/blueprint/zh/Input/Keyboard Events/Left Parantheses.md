@@ -1,5 +1,5 @@
 ---
-display_name: Left Parantheses
+title: Left Parantheses
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Patch Manager
+title: Get Patch Manager
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Inner Radius
+title: Get Inner Radius
 order: 4
 ---
 ## Navigation

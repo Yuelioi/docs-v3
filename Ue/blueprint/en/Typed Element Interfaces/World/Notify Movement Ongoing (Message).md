@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Ongoing (Message)
+title: Notify Movement Ongoing (Message)
 order: 33
 ---
 ## Navigation

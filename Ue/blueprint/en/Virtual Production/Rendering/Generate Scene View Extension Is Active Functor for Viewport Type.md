@@ -1,5 +1,5 @@
 ---
-display_name: Generate Scene View Extension Is Active Functor for Viewport Type
+title: Generate Scene View Extension Is Active Functor for Viewport Type
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Texture
+title: Get Media Texture
 order: 6
 ---
 ## Navigation

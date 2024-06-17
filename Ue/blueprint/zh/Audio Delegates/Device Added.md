@@ -1,5 +1,5 @@
 ---
-display_name: Device Added
+title: Device Added
 order: 3
 ---
 ## Navigation

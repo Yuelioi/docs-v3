@@ -1,5 +1,5 @@
 ---
-display_name: Reopen
+title: Reopen
 order: 67
 ---
 ## Navigation

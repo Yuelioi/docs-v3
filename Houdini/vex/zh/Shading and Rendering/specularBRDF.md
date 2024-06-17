@@ -1,5 +1,5 @@
 ---
-display_name: specularBRDF
+title: specularBRDF
 order: 74
 ---
 `float  specularBRDF(vector L, vector N, vector V, float rough)`

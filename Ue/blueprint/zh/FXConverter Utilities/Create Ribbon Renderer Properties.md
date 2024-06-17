@@ -1,5 +1,5 @@
 ---
-display_name: Create Ribbon Renderer Properties
+title: Create Ribbon Renderer Properties
 order: 12
 ---
 ## Navigation

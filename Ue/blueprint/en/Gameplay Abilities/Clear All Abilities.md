@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Abilities
+title: Clear All Abilities
 order: 3
 ---
 ## Navigation

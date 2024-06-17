@@ -1,5 +1,5 @@
 ---
-display_name: Sync Sections Using Source Timecode
+title: Sync Sections Using Source Timecode
 order: 72
 ---
 ## Navigation

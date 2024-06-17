@@ -1,5 +1,5 @@
 ---
-display_name: Load Blueprint Class
+title: Load Blueprint Class
 order: 28
 ---
 ## Navigation

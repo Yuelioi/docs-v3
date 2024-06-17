@@ -1,5 +1,5 @@
 ---
-display_name: Set Shot Override Preset Origin
+title: Set Shot Override Preset Origin
 order: 24
 ---
 ## Navigation

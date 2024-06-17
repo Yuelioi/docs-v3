@@ -1,5 +1,5 @@
 ---
-display_name: Clear Min Desired Height
+title: Clear Min Desired Height
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Comment Text
+title: Get Comment Text
 order: 4
 ---
 ## Navigation

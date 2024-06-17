@@ -1,5 +1,5 @@
 ---
-display_name: Sandboxes Dir
+title: Sandboxes Dir
 order: 79
 ---
 ## Navigation

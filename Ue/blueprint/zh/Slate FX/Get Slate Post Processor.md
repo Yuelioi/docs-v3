@@ -1,5 +1,5 @@
 ---
-display_name: Get Slate Post Processor
+title: Get Slate Post Processor
 order: 2
 ---
 ## Navigation

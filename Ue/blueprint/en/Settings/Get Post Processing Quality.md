@@ -1,5 +1,5 @@
 ---
-display_name: Get Post Processing Quality
+title: Get Post Processing Quality
 order: 52
 ---
 ## Navigation

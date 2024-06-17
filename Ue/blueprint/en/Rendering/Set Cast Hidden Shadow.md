@@ -1,5 +1,5 @@
 ---
-display_name: Set Cast Hidden Shadow
+title: Set Cast Hidden Shadow
 order: 21
 ---
 ## Navigation

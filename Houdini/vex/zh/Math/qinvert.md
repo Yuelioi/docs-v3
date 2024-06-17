@@ -1,5 +1,5 @@
 ---
-display_name: qinvert
+title: qinvert
 order: 62
 ---
 `vector4  qinvert(vector4 quaternion)`

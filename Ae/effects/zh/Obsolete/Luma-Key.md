@@ -1,5 +1,5 @@
 ---
-display_name: 亮度键
+title: 亮度键
 order: 5
 ---
 

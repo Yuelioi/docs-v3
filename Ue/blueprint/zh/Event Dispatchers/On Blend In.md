@@ -1,5 +1,5 @@
 ---
-display_name: On Blend In
+title: On Blend In
 order: 55
 ---
 ## Navigation

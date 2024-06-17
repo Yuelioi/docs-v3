@@ -1,5 +1,5 @@
 ---
-display_name: Aim
+title: Aim
 order: 3
 ---
 ## Navigation

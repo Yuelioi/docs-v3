@@ -1,5 +1,5 @@
 ---
-display_name: Apply Linear Velocity
+title: Apply Linear Velocity
 order: 7
 ---
 ## Navigation

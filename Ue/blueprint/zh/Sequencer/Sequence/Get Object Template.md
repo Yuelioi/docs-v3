@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Template
+title: Get Object Template
 order: 41
 ---
 ## Navigation

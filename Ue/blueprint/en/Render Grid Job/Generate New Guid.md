@@ -1,5 +1,5 @@
 ---
-display_name: Generate New Guid
+title: Generate New Guid
 order: 1
 ---
 ## Navigation

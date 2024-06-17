@@ -1,5 +1,5 @@
 ---
-display_name: Montage Stop with Blend Out
+title: Montage Stop with Blend Out
 order: 26
 ---
 ## Navigation

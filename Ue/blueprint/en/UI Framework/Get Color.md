@@ -1,5 +1,5 @@
 ---
-display_name: Get Color
+title: Get Color
 order: 3
 ---
 ## Navigation

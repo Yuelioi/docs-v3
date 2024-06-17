@@ -1,5 +1,5 @@
 ---
-display_name: Today
+title: Today
 order: 35
 ---
 ## Navigation

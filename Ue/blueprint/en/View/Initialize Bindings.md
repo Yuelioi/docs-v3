@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Bindings
+title: Initialize Bindings
 order: 6
 ---
 ## Navigation

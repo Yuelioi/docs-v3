@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Factory Class
+title: Get Registered Factory Class
 order: 4
 ---
 ## Navigation

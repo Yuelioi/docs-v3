@@ -1,5 +1,5 @@
 ---
-display_name: Supports Scrubbing
+title: Supports Scrubbing
 order: 85
 ---
 ## Navigation

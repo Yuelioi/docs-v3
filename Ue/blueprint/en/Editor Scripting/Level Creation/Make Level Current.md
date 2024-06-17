@@ -1,5 +1,5 @@
 ---
-display_name: Make Level Current
+title: Make Level Current
 order: 4
 ---
 ## Navigation

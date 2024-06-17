@@ -1,5 +1,5 @@
 ---
-display_name: Set Shading Quality
+title: Set Shading Quality
 order: 131
 ---
 ## Navigation

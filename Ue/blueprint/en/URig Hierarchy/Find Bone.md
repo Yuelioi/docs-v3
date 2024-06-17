@@ -1,5 +1,5 @@
 ---
-display_name: Find Bone
+title: Find Bone
 order: 4
 ---
 ## Navigation

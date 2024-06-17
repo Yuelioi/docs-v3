@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Matrix Cell Values
+title: Get Normalized Matrix Cell Values
 order: 22
 ---
 ## Navigation

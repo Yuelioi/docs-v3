@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Matrix Array Value
+title: Niagara Get Matrix Array Value
 order: 40
 ---
 ## Navigation

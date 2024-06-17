@@ -1,5 +1,5 @@
 ---
-display_name: metaweight
+title: metaweight
 order: 5
 ---
 `float  metaweight(<geometry>geometry, vector p)`

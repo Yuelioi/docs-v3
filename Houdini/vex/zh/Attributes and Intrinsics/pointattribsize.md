@@ -1,5 +1,5 @@
 ---
-display_name: pointattribsize
+title: pointattribsize
 order: 36
 ---
 `int  pointattribsize(<geometry>geometry, string attribute_name)`

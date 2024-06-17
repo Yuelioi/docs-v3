@@ -1,5 +1,5 @@
 ---
-display_name: Set Remote Control Value
+title: Set Remote Control Value
 order: 41
 ---
 ## Navigation

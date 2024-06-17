@@ -1,5 +1,5 @@
 ---
-display_name: Calibrate
+title: Calibrate
 order: 2
 ---
 ## Navigation

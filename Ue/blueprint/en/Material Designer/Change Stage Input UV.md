@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input UV
+title: Change Stage Input UV
 order: 28
 ---
 ## Navigation

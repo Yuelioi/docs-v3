@@ -1,5 +1,5 @@
 ---
-display_name: Select Mesh Elements by Normal Angle
+title: Select Mesh Elements by Normal Angle
 order: 15
 ---
 ## Navigation

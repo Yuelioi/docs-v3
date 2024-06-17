@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Feedback Effect
+title: Set Force Feedback Effect
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Drive Params
+title: Set Angular Drive Params
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get LODGroup
+title: Get LODGroup
 order: 2
 ---
 ## Navigation

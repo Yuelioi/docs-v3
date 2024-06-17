@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Yellow
+title: Linear Color Yellow
 order: 23
 ---
 ## Navigation

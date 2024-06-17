@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Ended (Message)
+title: Notify Movement Ended (Message)
 order: 31
 ---
 ## Navigation

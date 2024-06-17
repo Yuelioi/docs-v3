@@ -1,5 +1,5 @@
 ---
-display_name: Convert Index List to Array
+title: Convert Index List to Array
 order: 13
 ---
 ## Navigation

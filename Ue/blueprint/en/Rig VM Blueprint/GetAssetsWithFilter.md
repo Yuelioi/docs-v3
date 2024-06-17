@@ -1,5 +1,5 @@
 ---
-display_name: GetAssetsWithFilter
+title: GetAssetsWithFilter
 order: 3
 ---
 ## Navigation

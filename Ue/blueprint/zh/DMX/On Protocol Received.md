@@ -1,5 +1,5 @@
 ---
-display_name: On Protocol Received
+title: On Protocol Received
 order: 69
 ---
 ## Navigation

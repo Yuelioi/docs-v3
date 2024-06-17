@@ -1,5 +1,5 @@
 ---
-display_name: Set Live Link Subobject
+title: Set Live Link Subobject
 order: 8
 ---
 ## Navigation

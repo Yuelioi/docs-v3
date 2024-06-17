@@ -1,5 +1,5 @@
 ---
-display_name: Get Slider Value
+title: Get Slider Value
 order: 16
 ---
 ## Navigation

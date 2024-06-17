@@ -1,5 +1,5 @@
 ---
-display_name: Layout Material Expressions
+title: Layout Material Expressions
 order: 44
 ---
 ## Navigation

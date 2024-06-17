@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Color
+title: Set Text Color
 order: 26
 ---
 ## Navigation

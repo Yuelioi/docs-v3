@@ -1,5 +1,5 @@
 ---
-display_name: Dot Product (Vector4)
+title: Dot Product (Vector4)
 order: 3
 ---
 ## Navigation

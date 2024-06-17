@@ -1,5 +1,5 @@
 ---
-display_name: Music Clock Disconnected Event
+title: Music Clock Disconnected Event
 order: 40
 ---
 ## Navigation

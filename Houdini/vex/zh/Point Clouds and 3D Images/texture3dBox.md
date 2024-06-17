@@ -1,5 +1,5 @@
 ---
-display_name: texture3dBox
+title: texture3dBox
 order: 37
 ---
 `void  texture3dBox(string filename, string channel, vector &min, vector &max, ...)`

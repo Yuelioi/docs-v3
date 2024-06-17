@@ -1,5 +1,5 @@
 ---
-display_name: OverlaySelection
+title: OverlaySelection
 order: 49
 ---
 ## Navigation

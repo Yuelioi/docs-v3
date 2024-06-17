@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning List View
+title: Get Owning List View
 order: 1
 ---
 ## Navigation

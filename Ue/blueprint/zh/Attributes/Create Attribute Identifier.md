@@ -1,5 +1,5 @@
 ---
-display_name: Create Attribute Identifier
+title: Create Attribute Identifier
 order: 2
 ---
 ## Navigation

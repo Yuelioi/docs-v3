@@ -1,5 +1,5 @@
 ---
-display_name: Capture Property
+title: Capture Property
 order: 6
 ---
 ## Navigation

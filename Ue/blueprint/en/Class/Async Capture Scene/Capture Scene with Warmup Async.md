@@ -1,5 +1,5 @@
 ---
-display_name: Capture Scene with Warmup Async
+title: Capture Scene with Warmup Async
 order: 2
 ---
 ## Navigation

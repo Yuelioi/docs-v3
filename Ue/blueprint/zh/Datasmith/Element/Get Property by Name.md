@@ -1,5 +1,5 @@
 ---
-display_name: Get Property by Name
+title: Get Property by Name
 order: 55
 ---
 ## Navigation

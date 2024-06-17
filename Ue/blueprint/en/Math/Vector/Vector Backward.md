@@ -1,5 +1,5 @@
 ---
-display_name: Vector Backward
+title: Vector Backward
 order: 59
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Setup Recorder
+title: Setup Recorder
 order: 272
 ---
 ## Navigation

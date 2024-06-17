@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Hole Count
+title: Get Polygon Hole Count
 order: 10
 ---
 ## Navigation

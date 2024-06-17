@@ -1,5 +1,5 @@
 ---
-display_name: 遮罩阻塞工具
+title: 遮罩阻塞工具
 order: 1
 ---
 

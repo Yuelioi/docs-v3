@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Label
+title: Get Actor Label
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Geographic Coordinates
+title: Make Geographic Coordinates
 order: 1
 ---
 ## Navigation

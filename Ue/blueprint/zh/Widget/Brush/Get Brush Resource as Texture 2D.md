@@ -1,5 +1,5 @@
 ---
-display_name: Get Brush Resource as Texture 2D
+title: Get Brush Resource as Texture 2D
 order: 2
 ---
 ## Navigation

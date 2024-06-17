@@ -1,5 +1,5 @@
 ---
-display_name: Update Modulator
+title: Update Modulator
 order: 32
 ---
 ## Navigation

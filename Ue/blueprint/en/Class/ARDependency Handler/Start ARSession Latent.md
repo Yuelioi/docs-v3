@@ -1,5 +1,5 @@
 ---
-display_name: Start ARSession Latent
+title: Start ARSession Latent
 order: 5
 ---
 ## Navigation

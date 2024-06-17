@@ -1,5 +1,5 @@
 ---
-display_name: Get Strict Bounds
+title: Get Strict Bounds
 order: 10
 ---
 ## Navigation

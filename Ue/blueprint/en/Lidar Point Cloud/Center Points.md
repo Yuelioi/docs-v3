@@ -1,5 +1,5 @@
 ---
-display_name: Center Points
+title: Center Points
 order: 13
 ---
 ## Navigation

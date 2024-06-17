@@ -1,5 +1,5 @@
 ---
-display_name: Add Data Interface Node
+title: Add Data Interface Node
 order: 2
 ---
 ## Navigation

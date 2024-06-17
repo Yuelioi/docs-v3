@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Node
+title: Initialize Node
 order: 43
 ---
 ## Navigation

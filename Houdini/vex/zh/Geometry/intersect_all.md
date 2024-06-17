@@ -1,5 +1,5 @@
 ---
-display_name: intersect_all
+title: intersect_all
 order: 9
 ---
 To get only the *first* intersection, use [intersect](intersect.html "This function computes the first intersection of a ray with geometry.").

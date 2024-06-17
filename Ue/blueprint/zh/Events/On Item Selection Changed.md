@@ -1,5 +1,5 @@
 ---
-display_name: On Item Selection Changed
+title: On Item Selection Changed
 order: 16
 ---
 ## Navigation

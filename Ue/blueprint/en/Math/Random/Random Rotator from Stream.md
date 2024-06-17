@@ -1,5 +1,5 @@
 ---
-display_name: Random Rotator from Stream
+title: Random Rotator from Stream
 order: 28
 ---
 ## Navigation

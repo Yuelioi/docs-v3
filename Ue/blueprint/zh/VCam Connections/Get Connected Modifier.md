@@ -1,5 +1,5 @@
 ---
-display_name: Get Connected Modifier
+title: Get Connected Modifier
 order: 4
 ---
 ## Navigation

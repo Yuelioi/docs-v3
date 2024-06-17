@@ -1,5 +1,5 @@
 ---
-display_name: Set Slot
+title: Set Slot
 order: 233
 ---
 ## Navigation

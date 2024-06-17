@@ -1,5 +1,5 @@
 ---
-display_name: Discover Replication Settings (Message)
+title: Discover Replication Settings (Message)
 order: 1
 ---
 ## Navigation

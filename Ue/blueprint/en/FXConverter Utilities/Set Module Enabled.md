@@ -1,5 +1,5 @@
 ---
-display_name: Set Module Enabled
+title: Set Module Enabled
 order: 123
 ---
 ## Navigation

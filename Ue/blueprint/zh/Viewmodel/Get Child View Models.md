@@ -1,5 +1,5 @@
 ---
-display_name: Get Child View Models
+title: Get Child View Models
 order: 12
 ---
 ## Navigation

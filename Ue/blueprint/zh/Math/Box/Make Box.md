@@ -1,5 +1,5 @@
 ---
-display_name: Make Box
+title: Make Box
 order: 8
 ---
 ## Navigation

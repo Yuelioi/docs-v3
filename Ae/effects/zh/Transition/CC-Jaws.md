@@ -1,5 +1,5 @@
 ---
-display_name: CC锯齿状过渡
+title: CC锯齿状过渡
 order: 5
 ---
 

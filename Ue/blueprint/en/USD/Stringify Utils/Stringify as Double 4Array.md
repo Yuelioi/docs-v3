@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Double 4Array
+title: Stringify as Double 4Array
 order: 10
 ---
 ## Navigation

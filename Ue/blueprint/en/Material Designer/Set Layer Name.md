@@ -1,5 +1,5 @@
 ---
-display_name: Set Layer Name
+title: Set Layer Name
 order: 215
 ---
 ## Navigation

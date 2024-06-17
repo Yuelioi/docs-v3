@@ -1,5 +1,5 @@
 ---
-display_name: Create Multi Layer Projector
+title: Create Multi Layer Projector
 order: 6
 ---
 ## Navigation

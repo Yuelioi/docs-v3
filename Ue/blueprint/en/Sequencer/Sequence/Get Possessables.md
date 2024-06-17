@@ -1,5 +1,5 @@
 ---
-display_name: Get Possessables
+title: Get Possessables
 order: 49
 ---
 ## Navigation

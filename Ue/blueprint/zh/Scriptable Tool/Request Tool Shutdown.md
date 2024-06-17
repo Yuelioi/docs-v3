@@ -1,5 +1,5 @@
 ---
-display_name: Request Tool Shutdown
+title: Request Tool Shutdown
 order: 3
 ---
 ## Navigation

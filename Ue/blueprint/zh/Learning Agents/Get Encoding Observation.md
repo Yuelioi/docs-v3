@@ -1,5 +1,5 @@
 ---
-display_name: Get Encoding Observation
+title: Get Encoding Observation
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: intersect_lights
+title: intersect_lights
 order: 40
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

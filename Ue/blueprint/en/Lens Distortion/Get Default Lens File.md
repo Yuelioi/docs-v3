@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Lens File
+title: Get Default Lens File
 order: 9
 ---
 ## Navigation

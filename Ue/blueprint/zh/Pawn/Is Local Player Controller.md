@@ -1,5 +1,5 @@
 ---
-display_name: Is Local Player Controller
+title: Is Local Player Controller
 order: 13
 ---
 ## Navigation

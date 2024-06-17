@@ -1,5 +1,5 @@
 ---
-display_name: Add Objects to Transaction
+title: Add Objects to Transaction
 order: 2
 ---
 ## Navigation

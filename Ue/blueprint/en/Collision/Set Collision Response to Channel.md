@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Response to Channel
+title: Set Collision Response to Channel
 order: 72
 ---
 ## Navigation

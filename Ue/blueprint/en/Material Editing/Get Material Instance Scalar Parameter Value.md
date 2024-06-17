@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Instance Scalar Parameter Value
+title: Get Material Instance Scalar Parameter Value
 order: 22
 ---
 ## Navigation

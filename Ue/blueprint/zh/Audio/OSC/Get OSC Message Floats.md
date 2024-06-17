@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Floats
+title: Get OSC Message Floats
 order: 39
 ---
 ## Navigation

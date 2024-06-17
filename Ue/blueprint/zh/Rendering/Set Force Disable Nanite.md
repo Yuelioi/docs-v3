@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Disable Nanite
+title: Set Force Disable Nanite
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Interp to Stop
+title: On Interp to Stop
 order: 97
 ---
 ## Navigation

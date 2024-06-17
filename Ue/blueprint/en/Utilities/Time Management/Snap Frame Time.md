@@ -1,5 +1,5 @@
 ---
-display_name: Snap Frame Time
+title: Snap Frame Time
 order: 12
 ---
 ## Navigation

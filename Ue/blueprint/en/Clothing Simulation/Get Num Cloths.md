@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Cloths
+title: Get Num Cloths
 order: 5
 ---
 ## Navigation

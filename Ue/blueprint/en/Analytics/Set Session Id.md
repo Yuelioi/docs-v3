@@ -1,5 +1,5 @@
 ---
-display_name: Set Session Id
+title: Set Session Id
 order: 26
 ---
 ## Navigation

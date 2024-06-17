@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Visible in Ray Tracing
+title: Set Section Visible in Ray Tracing
 order: 13
 ---
 ## Navigation

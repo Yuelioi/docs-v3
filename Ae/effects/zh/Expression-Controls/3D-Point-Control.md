@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: 3D 点控制
+title: 3D 点控制
 ---
 
 # 3D Point Control - 3D 点控制

@@ -1,5 +1,5 @@
 ---
-display_name: Send Player Message
+title: Send Player Message
 order: 22
 ---
 ## Navigation

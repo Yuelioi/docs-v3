@@ -1,5 +1,5 @@
 ---
-display_name: Spline
+title: Spline
 order: 13
 ---
 ## Navigation

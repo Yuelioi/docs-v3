@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Render Mode
+title: Get Mesh Render Mode
 order: 26
 ---
 ## Navigation

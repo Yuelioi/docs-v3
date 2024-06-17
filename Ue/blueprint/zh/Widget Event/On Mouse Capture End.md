@@ -1,5 +1,5 @@
 ---
-display_name: On Mouse Capture End
+title: On Mouse Capture End
 order: 7
 ---
 ## Navigation

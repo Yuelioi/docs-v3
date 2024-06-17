@@ -1,5 +1,5 @@
 ---
-display_name: Remove Layer
+title: Remove Layer
 order: 192
 ---
 ## Navigation

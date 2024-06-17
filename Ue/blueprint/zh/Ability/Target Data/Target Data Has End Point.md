@@ -1,5 +1,5 @@
 ---
-display_name: Target Data Has End Point
+title: Target Data Has End Point
 order: 16
 ---
 ## Navigation

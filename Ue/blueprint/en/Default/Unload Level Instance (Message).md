@@ -1,5 +1,5 @@
 ---
-display_name: Unload Level Instance (Message)
+title: Unload Level Instance (Message)
 order: 27
 ---
 ## Navigation

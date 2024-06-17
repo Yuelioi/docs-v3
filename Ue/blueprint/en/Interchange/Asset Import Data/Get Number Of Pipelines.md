@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Pipelines
+title: Get Number Of Pipelines
 order: 2
 ---
 ## Navigation

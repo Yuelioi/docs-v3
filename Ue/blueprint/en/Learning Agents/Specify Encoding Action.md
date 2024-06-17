@@ -1,5 +1,5 @@
 ---
-display_name: Specify Encoding Action
+title: Specify Encoding Action
 order: 290
 ---
 ## Navigation

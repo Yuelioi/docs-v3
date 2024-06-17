@@ -1,5 +1,5 @@
 ---
-display_name: On Take Any Damage
+title: On Take Any Damage
 order: 8
 ---
 ## Navigation

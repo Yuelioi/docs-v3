@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Screen Reader
+title: Deactivate Screen Reader
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Lens File
+title: Set Lens File
 order: 23
 ---
 ## Navigation

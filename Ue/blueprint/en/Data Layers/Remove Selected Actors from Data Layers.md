@@ -1,5 +1,5 @@
 ---
-display_name: Remove Selected Actors from Data Layers
+title: Remove Selected Actors from Data Layers
 order: 36
 ---
 ## Navigation

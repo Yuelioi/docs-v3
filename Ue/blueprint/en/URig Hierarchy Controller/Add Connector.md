@@ -1,5 +1,5 @@
 ---
-display_name: Add Connector
+title: Add Connector
 order: 2
 ---
 ## Navigation

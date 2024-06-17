@@ -1,5 +1,5 @@
 ---
-display_name: Add Spectral Analysis Delegate
+title: Add Spectral Analysis Delegate
 order: 1
 ---
 ## Navigation

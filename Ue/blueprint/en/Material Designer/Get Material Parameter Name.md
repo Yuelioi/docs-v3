@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Parameter Name
+title: Get Material Parameter Name
 order: 95
 ---
 ## Navigation

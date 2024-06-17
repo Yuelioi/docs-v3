@@ -1,5 +1,5 @@
 ---
-display_name: Get ARShared World Game State
+title: Get ARShared World Game State
 order: 1
 ---
 ## Navigation

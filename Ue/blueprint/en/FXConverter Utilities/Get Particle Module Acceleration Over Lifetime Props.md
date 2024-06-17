@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Acceleration Over Lifetime Props
+title: Get Particle Module Acceleration Over Lifetime Props
 order: 58
 ---
 ## Navigation

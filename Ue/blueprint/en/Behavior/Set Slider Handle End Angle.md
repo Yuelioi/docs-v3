@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Handle End Angle
+title: Set Slider Handle End Angle
 order: 29
 ---
 ## Navigation

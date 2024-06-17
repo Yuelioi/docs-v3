@@ -1,5 +1,5 @@
 ---
-display_name: Set Pan
+title: Set Pan
 order: 41
 ---
 ## Navigation

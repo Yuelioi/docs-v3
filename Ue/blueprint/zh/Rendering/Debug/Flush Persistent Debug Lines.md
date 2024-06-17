@@ -1,5 +1,5 @@
 ---
-display_name: Flush Persistent Debug Lines
+title: Flush Persistent Debug Lines
 order: 19
 ---
 ## Navigation

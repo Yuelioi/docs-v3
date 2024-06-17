@@ -1,5 +1,5 @@
 ---
-display_name: Get Surface Type
+title: Get Surface Type
 order: 33
 ---
 ## Navigation

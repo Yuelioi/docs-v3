@@ -1,5 +1,5 @@
 ---
-display_name: Event Tick
+title: Event Tick
 order: 6
 ---
 ## Navigation

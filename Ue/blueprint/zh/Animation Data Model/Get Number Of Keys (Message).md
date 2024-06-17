@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Keys (Message)
+title: Get Number Of Keys (Message)
 order: 23
 ---
 ## Navigation

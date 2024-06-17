@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Display Gamma
+title: Get Player Display Gamma
 order: 10
 ---
 ## Navigation

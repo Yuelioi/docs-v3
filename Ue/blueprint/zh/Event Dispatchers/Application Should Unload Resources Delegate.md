@@ -1,5 +1,5 @@
 ---
-display_name: Application Should Unload Resources Delegate
+title: Application Should Unload Resources Delegate
 order: 14
 ---
 ## Navigation

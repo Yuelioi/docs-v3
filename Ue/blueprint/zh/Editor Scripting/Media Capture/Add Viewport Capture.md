@@ -1,5 +1,5 @@
 ---
-display_name: Add Viewport Capture
+title: Add Viewport Capture
 order: 2
 ---
 ## Navigation

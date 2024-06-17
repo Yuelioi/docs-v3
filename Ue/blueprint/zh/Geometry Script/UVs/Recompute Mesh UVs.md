@@ -1,5 +1,5 @@
 ---
-display_name: Recompute Mesh UVs
+title: Recompute Mesh UVs
 order: 11
 ---
 ## Navigation

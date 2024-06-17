@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Particle Component
+title: Get Primary Particle Component
 order: 4
 ---
 ## Navigation

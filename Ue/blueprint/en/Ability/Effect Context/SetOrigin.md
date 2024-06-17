@@ -1,5 +1,5 @@
 ---
-display_name: SetOrigin
+title: SetOrigin
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Token Array
+title: Stringify as Token Array
 order: 56
 ---
 ## Navigation

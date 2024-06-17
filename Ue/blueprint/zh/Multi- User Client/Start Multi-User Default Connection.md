@@ -1,5 +1,5 @@
 ---
-display_name: Start Multi-User Default Connection
+title: Start Multi-User Default Connection
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Bug It Dir
+title: Bug It Dir
 order: 4
 ---
 ## Navigation

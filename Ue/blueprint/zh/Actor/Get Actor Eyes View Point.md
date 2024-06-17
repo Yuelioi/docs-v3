@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Eyes View Point
+title: Get Actor Eyes View Point
 order: 5
 ---
 ## Navigation

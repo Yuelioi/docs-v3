@@ -1,5 +1,5 @@
 ---
-display_name: Remove Bool Parameter
+title: Remove Bool Parameter
 order: 61
 ---
 ## Navigation

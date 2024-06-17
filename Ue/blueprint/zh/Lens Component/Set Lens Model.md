@@ -1,5 +1,5 @@
 ---
-display_name: Set Lens Model
+title: Set Lens Model
 order: 24
 ---
 ## Navigation

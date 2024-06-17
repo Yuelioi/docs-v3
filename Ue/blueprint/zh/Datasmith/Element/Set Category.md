@@ -1,5 +1,5 @@
 ---
-display_name: Set Category
+title: Set Category
 order: 104
 ---
 ## Navigation

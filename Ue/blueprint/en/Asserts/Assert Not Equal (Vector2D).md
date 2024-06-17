@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Vector2D)
+title: Assert Not Equal (Vector2D)
 order: 29
 ---
 ## Navigation

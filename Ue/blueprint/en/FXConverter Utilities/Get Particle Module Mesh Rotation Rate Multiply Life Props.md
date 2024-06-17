@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Mesh Rotation Rate Multiply Life Props
+title: Get Particle Module Mesh Rotation Rate Multiply Life Props
 order: 79
 ---
 ## Navigation

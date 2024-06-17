@@ -1,5 +1,5 @@
 ---
-display_name: ptlined
+title: ptlined
 order: 60
 ---
 `float  ptlined(vector P0, vector P1, vector Q)`

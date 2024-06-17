@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Parameter Selected Option
+title: Get Texture Parameter Selected Option
 order: 39
 ---
 ## Navigation

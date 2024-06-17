@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Vertices
+title: Reserve New Vertices
 order: 89
 ---
 ## Navigation

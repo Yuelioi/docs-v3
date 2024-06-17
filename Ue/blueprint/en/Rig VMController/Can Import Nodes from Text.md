@@ -1,5 +1,5 @@
 ---
-display_name: Can Import Nodes from Text
+title: Can Import Nodes from Text
 order: 37
 ---
 ## Navigation

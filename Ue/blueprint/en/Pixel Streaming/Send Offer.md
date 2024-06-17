@@ -1,5 +1,5 @@
 ---
-display_name: Send Offer
+title: Send Offer
 order: 21
 ---
 ## Navigation

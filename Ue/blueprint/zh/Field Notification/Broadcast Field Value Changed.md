@@ -1,5 +1,5 @@
 ---
-display_name: Broadcast Field Value Changed
+title: Broadcast Field Value Changed
 order: 1
 ---
 ## Navigation

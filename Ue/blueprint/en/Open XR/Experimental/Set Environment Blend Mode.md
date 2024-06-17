@@ -1,5 +1,5 @@
 ---
-display_name: Set Environment Blend Mode
+title: Set Environment Blend Mode
 order: 1
 ---
 ## Navigation

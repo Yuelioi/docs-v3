@@ -1,5 +1,5 @@
 ---
-display_name: Set Work Range End
+title: Set Work Range End
 order: 106
 ---
 ## Navigation

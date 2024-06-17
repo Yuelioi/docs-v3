@@ -1,5 +1,5 @@
 ---
-display_name: Accessing-the-After-Effects-Function-Suites
+title: Accessing-the-After-Effects-Function-Suites
 order: 2
 ---
 

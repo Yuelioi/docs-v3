@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Plasticity
+title: Set Angular Plasticity
 order: 38
 ---
 ## Navigation

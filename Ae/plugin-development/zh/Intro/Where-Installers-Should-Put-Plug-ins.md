@@ -1,5 +1,5 @@
 ---
-display_name: Where-Installers-Should-Put-Plug-ins
+title: Where-Installers-Should-Put-Plug-ins
 order: 17
 ---
 

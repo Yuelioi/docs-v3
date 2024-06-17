@@ -1,5 +1,5 @@
 ---
-display_name: Combine Mesh Selections
+title: Combine Mesh Selections
 order: 1
 ---
 ## Navigation

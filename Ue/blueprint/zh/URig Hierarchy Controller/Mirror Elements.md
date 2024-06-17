@@ -1,5 +1,5 @@
 ---
-display_name: Mirror Elements
+title: Mirror Elements
 order: 22
 ---
 ## Navigation

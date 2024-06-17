@@ -1,5 +1,5 @@
 ---
-display_name: Get Poly Path Last Index
+title: Get Poly Path Last Index
 order: 15
 ---
 ## Navigation

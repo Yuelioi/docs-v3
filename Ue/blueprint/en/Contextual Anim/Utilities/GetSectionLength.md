@@ -1,5 +1,5 @@
 ---
-display_name: GetSectionLength
+title: GetSectionLength
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: To Vector (LinearColor)
+title: To Vector (LinearColor)
 order: 33
 ---
 ## Navigation

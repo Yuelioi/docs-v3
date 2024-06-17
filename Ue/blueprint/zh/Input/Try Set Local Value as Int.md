@@ -1,5 +1,5 @@
 ---
-display_name: Try Set Local Value as Int
+title: Try Set Local Value as Int
 order: 9
 ---
 ## Navigation

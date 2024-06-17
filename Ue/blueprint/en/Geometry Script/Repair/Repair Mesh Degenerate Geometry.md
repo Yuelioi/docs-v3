@@ -1,5 +1,5 @@
 ---
-display_name: Repair Mesh Degenerate Geometry
+title: Repair Mesh Degenerate Geometry
 order: 6
 ---
 ## Navigation

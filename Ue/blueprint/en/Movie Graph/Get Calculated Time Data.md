@@ -1,5 +1,5 @@
 ---
-display_name: Get Calculated Time Data
+title: Get Calculated Time Data
 order: 8
 ---
 ## Navigation

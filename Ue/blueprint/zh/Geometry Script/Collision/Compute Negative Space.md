@@ -1,5 +1,5 @@
 ---
-display_name: Compute Negative Space
+title: Compute Negative Space
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Contextual Anim Scene Bindings
+title: Create Contextual Anim Scene Bindings
 order: 2
 ---
 ## Navigation

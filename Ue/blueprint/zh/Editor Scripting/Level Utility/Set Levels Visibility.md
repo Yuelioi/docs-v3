@@ -1,5 +1,5 @@
 ---
-display_name: Set Levels Visibility
+title: Set Levels Visibility
 order: 61
 ---
 ## Navigation

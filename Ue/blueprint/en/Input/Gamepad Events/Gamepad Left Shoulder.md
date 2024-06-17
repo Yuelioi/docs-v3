@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Shoulder
+title: Gamepad Left Shoulder
 order: 9
 ---
 ## Navigation

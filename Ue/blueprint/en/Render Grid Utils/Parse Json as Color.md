@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Color
+title: Parse Json as Color
 order: 14
 ---
 ## Navigation

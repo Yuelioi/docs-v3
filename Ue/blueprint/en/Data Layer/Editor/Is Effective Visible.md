@@ -1,5 +1,5 @@
 ---
-display_name: Is Effective Visible
+title: Is Effective Visible
 order: 1
 ---
 ## Navigation

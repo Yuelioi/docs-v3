@@ -1,5 +1,5 @@
 ---
-display_name: Blend Parameters
+title: Blend Parameters
 order: 7
 ---
 ## Navigation

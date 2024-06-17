@@ -1,5 +1,5 @@
 ---
-display_name: SetSubmixWetLevel (linear gain)
+title: SetSubmixWetLevel (linear gain)
 order: 17
 ---
 ## Navigation

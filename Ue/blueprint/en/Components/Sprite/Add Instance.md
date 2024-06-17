@@ -1,5 +1,5 @@
 ---
-display_name: Add Instance
+title: Add Instance
 order: 1
 ---
 ## Navigation

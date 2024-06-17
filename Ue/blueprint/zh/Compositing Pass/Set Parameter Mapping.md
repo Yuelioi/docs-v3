@@ -1,5 +1,5 @@
 ---
-display_name: Set Parameter Mapping
+title: Set Parameter Mapping
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get River to Ocean Transition Material
+title: Get River to Ocean Transition Material
 order: 19
 ---
 ## Navigation

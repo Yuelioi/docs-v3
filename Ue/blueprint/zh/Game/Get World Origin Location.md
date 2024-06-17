@@ -1,5 +1,5 @@
 ---
-display_name: Get World Origin Location
+title: Get World Origin Location
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Text
+title: Make Literal Text
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set View Location
+title: Set View Location
 order: 33
 ---
 ## Navigation

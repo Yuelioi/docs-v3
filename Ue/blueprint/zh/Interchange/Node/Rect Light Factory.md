@@ -1,5 +1,5 @@
 ---
-display_name: Rect Light Factory
+title: Rect Light Factory
 order: 57
 ---
 ## Navigation

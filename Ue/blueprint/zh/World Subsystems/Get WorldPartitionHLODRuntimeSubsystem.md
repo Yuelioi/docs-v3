@@ -1,5 +1,5 @@
 ---
-display_name: Get WorldPartitionHLODRuntimeSubsystem
+title: Get WorldPartitionHLODRuntimeSubsystem
 order: 79
 ---
 ## Navigation

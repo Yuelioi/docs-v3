@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin Default Value
+title: Get Pin Default Value
 order: 53
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Uniform (Vector)
+title: Is Uniform (Vector)
 order: 31
 ---
 ## Navigation

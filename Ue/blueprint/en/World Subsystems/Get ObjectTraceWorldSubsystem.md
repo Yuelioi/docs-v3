@@ -1,5 +1,5 @@
 ---
-display_name: Get ObjectTraceWorldSubsystem
+title: Get ObjectTraceWorldSubsystem
 order: 64
 ---
 ## Navigation

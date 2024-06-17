@@ -1,5 +1,5 @@
 ---
-display_name: Movement Mode Changed Delegate
+title: Movement Mode Changed Delegate
 order: 11
 ---
 ## Navigation

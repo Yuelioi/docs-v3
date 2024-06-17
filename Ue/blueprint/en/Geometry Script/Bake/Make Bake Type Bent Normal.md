@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Bent Normal
+title: Make Bake Type Bent Normal
 order: 6
 ---
 ## Navigation

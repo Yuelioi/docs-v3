@@ -1,5 +1,5 @@
 ---
-display_name: Create Vector 2Attribute
+title: Create Vector 2Attribute
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Confirmed Screen Resolution
+title: Get Last Confirmed Screen Resolution
 order: 48
 ---
 ## Navigation

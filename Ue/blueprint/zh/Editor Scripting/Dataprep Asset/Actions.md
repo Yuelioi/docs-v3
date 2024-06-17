@@ -1,5 +1,5 @@
 ---
-display_name: Actions
+title: Actions
 order: 1
 ---
 ## Navigation

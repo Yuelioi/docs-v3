@@ -1,5 +1,5 @@
 ---
-display_name: Set Record on Client
+title: Set Record on Client
 order: 6
 ---
 ## Navigation

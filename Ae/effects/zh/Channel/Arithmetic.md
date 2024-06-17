@@ -1,5 +1,5 @@
 ---
-display_name: 算术
+title: 算术
 order: 1
 ---
 

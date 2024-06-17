@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback Speed
+title: Get Playback Speed
 order: 1
 ---
 ## Navigation

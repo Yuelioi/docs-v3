@@ -1,5 +1,5 @@
 ---
-display_name: Set Reverb Brightness
+title: Set Reverb Brightness
 order: 3
 ---
 ## Navigation

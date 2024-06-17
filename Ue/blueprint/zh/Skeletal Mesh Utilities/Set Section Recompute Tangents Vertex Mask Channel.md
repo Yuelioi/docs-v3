@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Recompute Tangents Vertex Mask Channel
+title: Set Section Recompute Tangents Vertex Mask Channel
 order: 12
 ---
 ## Navigation

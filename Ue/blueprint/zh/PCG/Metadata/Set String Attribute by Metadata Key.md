@@ -1,5 +1,5 @@
 ---
-display_name: Set String Attribute by Metadata Key
+title: Set String Attribute by Metadata Key
 order: 94
 ---
 ## Navigation

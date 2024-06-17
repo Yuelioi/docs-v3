@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Quatf
+title: Stringify as Quatf
 order: 49
 ---
 ## Navigation

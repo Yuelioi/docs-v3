@@ -1,5 +1,5 @@
 ---
-display_name: Identical
+title: Identical
 order: 10
 ---
 ## Navigation

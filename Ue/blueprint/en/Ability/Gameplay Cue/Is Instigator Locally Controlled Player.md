@@ -1,5 +1,5 @@
 ---
-display_name: Is Instigator Locally Controlled Player
+title: Is Instigator Locally Controlled Player
 order: 15
 ---
 ## Navigation

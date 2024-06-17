@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Widget Name
+title: Get Custom Widget Name
 order: 9
 ---
 ## Navigation

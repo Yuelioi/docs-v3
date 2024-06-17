@@ -1,5 +1,5 @@
 ---
-display_name: Thumb Mouse Button
+title: Thumb Mouse Button
 order: 11
 ---
 ## Navigation

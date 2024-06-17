@@ -1,5 +1,5 @@
 ---
-display_name: Get Red Green UVFactors from Chromatic Aberration
+title: Get Red Green UVFactors from Chromatic Aberration
 order: 12
 ---
 ## Navigation

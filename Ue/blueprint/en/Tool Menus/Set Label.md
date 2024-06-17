@@ -1,5 +1,5 @@
 ---
-display_name: Set Label
+title: Set Label
 order: 36
 ---
 ## Navigation

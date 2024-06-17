@@ -1,5 +1,5 @@
 ---
-display_name: Convert Physics Collision to Hit Result
+title: Convert Physics Collision to Hit Result
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Disabled Render Grid Jobs
+title: Get Disabled Render Grid Jobs
 order: 16
 ---
 ## Navigation

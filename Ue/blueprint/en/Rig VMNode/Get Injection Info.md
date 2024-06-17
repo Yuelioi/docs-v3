@@ -1,5 +1,5 @@
 ---
-display_name: Get Injection Info
+title: Get Injection Info
 order: 14
 ---
 ## Navigation

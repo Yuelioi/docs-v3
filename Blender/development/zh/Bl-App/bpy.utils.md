@@ -1,5 +1,5 @@
 ---
-display_name: 实用程序 (bpy.utils)
+title: 实用程序 (bpy.utils)
 order: 2
 ---
 

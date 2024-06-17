@@ -1,5 +1,5 @@
 ---
-display_name: Get Real Time Seconds
+title: Get Real Time Seconds
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Evaluation Distance to Newest Sample Standard Deviation
+title: Get Input Evaluation Distance to Newest Sample Standard Deviation
 order: 8
 ---
 ## Navigation

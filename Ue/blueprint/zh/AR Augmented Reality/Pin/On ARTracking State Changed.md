@@ -1,5 +1,5 @@
 ---
-display_name: On ARTracking State Changed
+title: On ARTracking State Changed
 order: 7
 ---
 ## Navigation

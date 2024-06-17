@@ -1,5 +1,5 @@
 ---
-display_name: Get All Output Providers
+title: Get All Output Providers
 order: 10
 ---
 ## Navigation

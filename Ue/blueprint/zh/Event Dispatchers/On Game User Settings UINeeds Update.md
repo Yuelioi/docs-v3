@@ -1,5 +1,5 @@
 ---
-display_name: On Game User Settings UINeeds Update
+title: On Game User Settings UINeeds Update
 order: 87
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is AR Session Type Supported
+title: Is AR Session Type Supported
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar Parameter Names
+title: Get Scalar Parameter Names
 order: 23
 ---
 ## Navigation

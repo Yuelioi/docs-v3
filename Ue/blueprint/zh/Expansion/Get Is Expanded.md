@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Expanded
+title: Get Is Expanded
 order: 1
 ---
 ## Navigation

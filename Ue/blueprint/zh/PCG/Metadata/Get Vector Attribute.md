@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Attribute
+title: Get Vector Attribute
 order: 57
 ---
 ## Navigation

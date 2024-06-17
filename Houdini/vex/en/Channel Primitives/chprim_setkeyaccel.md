@@ -1,5 +1,5 @@
 ---
-display_name: chprim_setkeyaccel
+title: chprim_setkeyaccel
 order: 10
 ---
 `int  chprim_setkeyaccel(int geohandle, int prim, float time, float accel)`

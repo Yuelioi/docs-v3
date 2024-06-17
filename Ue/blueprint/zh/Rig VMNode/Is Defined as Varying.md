@@ -1,5 +1,5 @@
 ---
-display_name: Is Defined as Varying
+title: Is Defined as Varying
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Simple Collision Of Static Mesh
+title: Set Simple Collision Of Static Mesh
 order: 12
 ---
 ## Navigation

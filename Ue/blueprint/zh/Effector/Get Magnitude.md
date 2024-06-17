@@ -1,5 +1,5 @@
 ---
-display_name: Get Magnitude
+title: Get Magnitude
 order: 5
 ---
 ## Navigation

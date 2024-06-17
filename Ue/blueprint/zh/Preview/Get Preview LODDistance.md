@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview LODDistance
+title: Get Preview LODDistance
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Small Components
+title: Remove Small Components
 order: 4
 ---
 ## Navigation

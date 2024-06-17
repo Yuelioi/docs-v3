@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Count
+title: Get Frame Count
 order: 18
 ---
 ## Navigation

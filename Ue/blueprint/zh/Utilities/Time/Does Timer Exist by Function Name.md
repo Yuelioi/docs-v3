@@ -1,5 +1,5 @@
 ---
-display_name: Does Timer Exist by Function Name
+title: Does Timer Exist by Function Name
 order: 3
 ---
 ## Navigation

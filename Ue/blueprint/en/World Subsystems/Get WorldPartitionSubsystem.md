@@ -1,5 +1,5 @@
 ---
-display_name: Get WorldPartitionSubsystem
+title: Get WorldPartitionSubsystem
 order: 80
 ---
 ## Navigation

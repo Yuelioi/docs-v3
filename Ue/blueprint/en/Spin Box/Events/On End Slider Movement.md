@@ -1,5 +1,5 @@
 ---
-display_name: On End Slider Movement
+title: On End Slider Movement
 order: 2
 ---
 ## Navigation

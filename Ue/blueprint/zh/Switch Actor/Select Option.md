@@ -1,5 +1,5 @@
 ---
-display_name: Select Option
+title: Select Option
 order: 3
 ---
 ## Navigation

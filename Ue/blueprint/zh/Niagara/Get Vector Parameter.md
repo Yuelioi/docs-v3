@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Parameter
+title: Get Vector Parameter
 order: 26
 ---
 ## Navigation

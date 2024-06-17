@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarindices
+title: usd_primvarindices
 order: 109
 ---
 | Since | 18.0 |

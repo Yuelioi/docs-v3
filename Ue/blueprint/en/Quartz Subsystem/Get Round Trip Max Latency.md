@@ -1,5 +1,5 @@
 ---
-display_name: Get Round Trip Max Latency
+title: Get Round Trip Max Latency
 order: 8
 ---
 ## Navigation

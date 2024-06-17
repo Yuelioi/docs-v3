@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Graph
+title: Get Root Graph
 order: 25
 ---
 ## Navigation

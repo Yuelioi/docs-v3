@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Actor
+title: Get Parent Actor
 order: 24
 ---
 ## Navigation

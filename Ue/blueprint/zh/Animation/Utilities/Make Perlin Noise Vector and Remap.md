@@ -1,5 +1,5 @@
 ---
-display_name: Make Perlin Noise Vector and Remap
+title: Make Perlin Noise Vector and Remap
 order: 16
 ---
 ## Navigation

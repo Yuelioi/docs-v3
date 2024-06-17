@@ -1,5 +1,5 @@
 ---
-display_name: Get Shot Display Name
+title: Get Shot Display Name
 order: 46
 ---
 ## Navigation

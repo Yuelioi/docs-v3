@@ -1,5 +1,5 @@
 ---
-display_name: Is List Item Selected
+title: Is List Item Selected
 order: 3
 ---
 ## Navigation

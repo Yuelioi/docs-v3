@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Rotation Over Lifetime Props
+title: Get Particle Module Rotation Over Lifetime Props
 order: 88
 ---
 ## Navigation

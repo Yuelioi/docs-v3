@@ -1,5 +1,5 @@
 ---
-display_name: Filter Target Data
+title: Filter Target Data
 order: 7
 ---
 ## Navigation

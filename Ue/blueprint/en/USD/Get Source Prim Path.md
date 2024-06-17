@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Prim Path
+title: Get Source Prim Path
 order: 14
 ---
 ## Navigation

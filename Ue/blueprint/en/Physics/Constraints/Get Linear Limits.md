@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Limits
+title: Get Linear Limits
 order: 21
 ---
 ## Navigation

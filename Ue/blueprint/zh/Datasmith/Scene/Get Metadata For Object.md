@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata For Object
+title: Get Metadata For Object
 order: 32
 ---
 ## Navigation

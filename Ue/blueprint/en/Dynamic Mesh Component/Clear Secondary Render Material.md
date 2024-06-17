@@ -1,5 +1,5 @@
 ---
-display_name: Clear Secondary Render Material
+title: Clear Secondary Render Material
 order: 2
 ---
 ## Navigation

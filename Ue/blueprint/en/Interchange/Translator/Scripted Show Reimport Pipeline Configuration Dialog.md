@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Show Reimport Pipeline Configuration Dialog
+title: Scripted Show Reimport Pipeline Configuration Dialog
 order: 2
 ---
 ## Navigation

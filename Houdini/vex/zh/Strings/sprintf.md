@@ -1,5 +1,5 @@
 ---
-display_name: sprintf
+title: sprintf
 order: 36
 ---
 `string  sprintf(string format, ...)`

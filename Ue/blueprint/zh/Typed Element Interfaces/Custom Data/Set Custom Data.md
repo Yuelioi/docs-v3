@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Data
+title: Set Custom Data
 order: 4
 ---
 ## Navigation

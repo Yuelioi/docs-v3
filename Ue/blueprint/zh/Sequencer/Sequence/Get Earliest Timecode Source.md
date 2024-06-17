@@ -1,5 +1,5 @@
 ---
-display_name: Get Earliest Timecode Source
+title: Get Earliest Timecode Source
 order: 31
 ---
 ## Navigation

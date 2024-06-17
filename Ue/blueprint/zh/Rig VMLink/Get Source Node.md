@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Node
+title: Get Source Node
 order: 6
 ---
 ## Navigation

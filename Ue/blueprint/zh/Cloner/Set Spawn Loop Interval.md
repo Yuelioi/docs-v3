@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawn Loop Interval
+title: Set Spawn Loop Interval
 order: 57
 ---
 ## Navigation

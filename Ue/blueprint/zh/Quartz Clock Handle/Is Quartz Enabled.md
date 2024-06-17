@@ -1,5 +1,5 @@
 ---
-display_name: Is Quartz Enabled
+title: Is Quartz Enabled
 order: 12
 ---
 ## Navigation

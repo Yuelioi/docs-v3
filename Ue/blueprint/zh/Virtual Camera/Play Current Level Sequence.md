@@ -1,5 +1,5 @@
 ---
-display_name: Play Current Level Sequence
+title: Play Current Level Sequence
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Slots
+title: Get Slots
 order: 129
 ---
 ## Navigation

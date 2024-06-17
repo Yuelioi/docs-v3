@@ -1,5 +1,5 @@
 ---
-display_name: Make Set Observation
+title: Make Set Observation
 order: 236
 ---
 ## Navigation

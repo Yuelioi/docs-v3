@@ -1,5 +1,5 @@
 ---
-display_name: Get Preferred Fullscreen Mode
+title: Get Preferred Fullscreen Mode
 order: 53
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Copy to Cine Camera Actor
+title: Copy to Cine Camera Actor
 order: 24
 ---
 ## Navigation

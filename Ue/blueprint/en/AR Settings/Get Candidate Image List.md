@@ -1,5 +1,5 @@
 ---
-display_name: Get Candidate Image List
+title: Get Candidate Image List
 order: 4
 ---
 ## Navigation

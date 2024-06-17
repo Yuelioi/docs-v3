@@ -1,5 +1,5 @@
 ---
-display_name: Set End Bone
+title: Set End Bone
 order: 41
 ---
 ## Navigation

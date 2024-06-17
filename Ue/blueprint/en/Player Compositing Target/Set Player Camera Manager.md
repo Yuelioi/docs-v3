@@ -1,5 +1,5 @@
 ---
-display_name: Set Player Camera Manager
+title: Set Player Camera Manager
 order: 2
 ---
 ## Navigation

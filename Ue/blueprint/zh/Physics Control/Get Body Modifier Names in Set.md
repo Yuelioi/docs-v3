@@ -1,5 +1,5 @@
 ---
-display_name: Get Body Modifier Names in Set
+title: Get Body Modifier Names in Set
 order: 29
 ---
 ## Navigation

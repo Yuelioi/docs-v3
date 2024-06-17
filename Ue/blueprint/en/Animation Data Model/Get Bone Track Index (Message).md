@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Track Index (Message)
+title: Get Bone Track Index (Message)
 order: 5
 ---
 ## Navigation

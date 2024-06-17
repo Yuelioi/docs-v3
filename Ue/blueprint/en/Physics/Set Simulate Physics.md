@@ -1,5 +1,5 @@
 ---
-display_name: Set Simulate Physics
+title: Set Simulate Physics
 order: 56
 ---
 ## Navigation

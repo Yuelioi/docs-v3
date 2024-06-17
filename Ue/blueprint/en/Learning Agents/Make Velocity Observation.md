@@ -1,5 +1,5 @@
 ---
-display_name: Make Velocity Observation
+title: Make Velocity Observation
 order: 247
 ---
 ## Navigation

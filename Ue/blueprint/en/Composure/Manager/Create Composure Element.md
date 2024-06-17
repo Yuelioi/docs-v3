@@ -1,5 +1,5 @@
 ---
-display_name: Create Composure Element
+title: Create Composure Element
 order: 2
 ---
 ## Navigation

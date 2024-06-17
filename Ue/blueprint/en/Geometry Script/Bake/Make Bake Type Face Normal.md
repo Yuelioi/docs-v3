@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Face Normal
+title: Make Bake Type Face Normal
 order: 9
 ---
 ## Navigation

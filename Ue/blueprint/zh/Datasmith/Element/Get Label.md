@@ -1,5 +1,5 @@
 ---
-display_name: Get Label
+title: Get Label
 order: 36
 ---
 ## Navigation

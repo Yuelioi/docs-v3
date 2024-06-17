@@ -1,5 +1,5 @@
 ---
-display_name: VR模糊
+title: VR模糊
 order: 1
 ---
 

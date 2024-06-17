@@ -1,5 +1,5 @@
 ---
-display_name: Read Vector 2Attribute
+title: Read Vector 2Attribute
 order: 22
 ---
 ## Navigation

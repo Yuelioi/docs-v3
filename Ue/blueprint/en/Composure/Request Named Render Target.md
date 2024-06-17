@@ -1,5 +1,5 @@
 ---
-display_name: Request Named Render Target
+title: Request Named Render Target
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcnumfound
+title: pcnumfound
 order: 25
 ---
 This node returns the number of points found by a [pcopen](pcopen.html "Returns a handle to a point cloud file.") query.

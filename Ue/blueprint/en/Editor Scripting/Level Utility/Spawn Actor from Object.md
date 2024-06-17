@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Actor from Object
+title: Spawn Actor from Object
 order: 64
 ---
 ## Navigation

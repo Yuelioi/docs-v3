@@ -1,5 +1,5 @@
 ---
-display_name: Get Outer Object
+title: Get Outer Object
 order: 21
 ---
 ## Navigation

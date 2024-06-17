@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Type Data Mesh Props
+title: Get Particle Module Type Data Mesh Props
 order: 101
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Props Source
+title: Set Props Source
 order: 45
 ---
 ## Navigation

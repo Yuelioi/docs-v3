@@ -1,5 +1,5 @@
 ---
-display_name: Break Key
+title: Break Key
 order: 2
 ---
 ## Navigation

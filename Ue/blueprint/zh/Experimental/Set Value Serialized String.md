@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Serialized String
+title: Set Value Serialized String
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Compact Mesh
+title: Compact Mesh
 order: 1
 ---
 ## Navigation

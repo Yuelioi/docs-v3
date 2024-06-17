@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Mode
+title: Get Blend Mode
 order: 6
 ---
 ## Navigation

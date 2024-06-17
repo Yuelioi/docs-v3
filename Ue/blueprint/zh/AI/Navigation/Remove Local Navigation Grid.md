@@ -1,5 +1,5 @@
 ---
-display_name: Remove Local Navigation Grid
+title: Remove Local Navigation Grid
 order: 32
 ---
 ## Navigation

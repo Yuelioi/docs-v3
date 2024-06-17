@@ -1,5 +1,5 @@
 ---
-display_name: Set Output Provider Index
+title: Set Output Provider Index
 order: 11
 ---
 ## Navigation

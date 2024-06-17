@@ -1,5 +1,5 @@
 ---
-display_name: Vector Field
+title: Vector Field
 order: 2
 ---
 ## Navigation

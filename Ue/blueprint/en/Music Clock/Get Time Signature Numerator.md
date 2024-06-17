@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Signature Numerator
+title: Get Time Signature Numerator
 order: 36
 ---
 ## Navigation

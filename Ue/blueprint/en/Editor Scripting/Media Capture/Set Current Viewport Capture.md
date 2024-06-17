@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Viewport Capture
+title: Set Current Viewport Capture
 order: 6
 ---
 ## Navigation

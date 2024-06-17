@@ -1,5 +1,5 @@
 ---
-display_name: On Release
+title: On Release
 order: 140
 ---
 ## Navigation

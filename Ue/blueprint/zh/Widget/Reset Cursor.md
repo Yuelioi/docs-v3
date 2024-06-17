@@ -1,5 +1,5 @@
 ---
-display_name: Reset Cursor
+title: Reset Cursor
 order: 16
 ---
 ## Navigation

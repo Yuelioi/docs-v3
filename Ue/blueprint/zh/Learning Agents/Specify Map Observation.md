@@ -1,5 +1,5 @@
 ---
-display_name: Specify Map Observation
+title: Specify Map Observation
 order: 312
 ---
 ## Navigation

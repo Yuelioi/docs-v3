@@ -1,5 +1,5 @@
 ---
-display_name: Is Left Alt Down
+title: Is Left Alt Down
 order: 5
 ---
 ## Navigation

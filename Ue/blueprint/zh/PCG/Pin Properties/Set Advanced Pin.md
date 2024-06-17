@@ -1,5 +1,5 @@
 ---
-display_name: Set Advanced Pin
+title: Set Advanced Pin
 order: 5
 ---
 ## Navigation

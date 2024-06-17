@@ -1,5 +1,5 @@
 ---
-display_name: Add Resource Get Node
+title: Add Resource Get Node
 order: 7
 ---
 ## Navigation

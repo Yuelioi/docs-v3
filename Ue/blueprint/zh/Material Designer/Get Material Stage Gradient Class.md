@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Stage Gradient Class
+title: Get Material Stage Gradient Class
 order: 102
 ---
 ## Navigation

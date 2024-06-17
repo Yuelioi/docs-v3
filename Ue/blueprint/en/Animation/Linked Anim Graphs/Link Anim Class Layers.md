@@ -1,5 +1,5 @@
 ---
-display_name: Link Anim Class Layers
+title: Link Anim Class Layers
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: X
+title: X
 order: 110
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Exclusive Union Action from Arrays
+title: Specify Exclusive Union Action from Arrays
 order: 297
 ---
 ## Navigation

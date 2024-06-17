@@ -1,5 +1,5 @@
 ---
-display_name: clamp
+title: clamp
 order: 2
 ---
 `int  clamp(int value, int min, int max)`

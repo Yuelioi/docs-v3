@@ -1,5 +1,5 @@
 ---
-display_name: Set Draw at Desired Size
+title: Set Draw at Desired Size
 order: 41
 ---
 ## Navigation

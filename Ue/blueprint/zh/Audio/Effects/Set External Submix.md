@@ -1,5 +1,5 @@
 ---
-display_name: Set External Submix
+title: Set External Submix
 order: 21
 ---
 ## Navigation

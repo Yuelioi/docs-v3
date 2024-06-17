@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Union Observation from Arrays
+title: Make Inclusive Union Observation from Arrays
 order: 197
 ---
 ## Navigation

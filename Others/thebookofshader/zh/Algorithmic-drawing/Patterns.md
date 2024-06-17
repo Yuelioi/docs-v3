@@ -1,5 +1,5 @@
 ---
-display_name: Patterns
+title: Patterns
 order: 3
 ---
 

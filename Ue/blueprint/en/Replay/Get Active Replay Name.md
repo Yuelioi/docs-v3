@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Replay Name
+title: Get Active Replay Name
 order: 1
 ---
 ## Navigation

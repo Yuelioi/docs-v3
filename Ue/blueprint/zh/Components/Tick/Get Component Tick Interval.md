@@ -1,5 +1,5 @@
 ---
-display_name: Get Component Tick Interval
+title: Get Component Tick Interval
 order: 3
 ---
 ## Navigation

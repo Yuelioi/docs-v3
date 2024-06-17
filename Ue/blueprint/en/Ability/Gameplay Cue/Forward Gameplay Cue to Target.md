@@ -1,5 +1,5 @@
 ---
-display_name: Forward Gameplay Cue to Target
+title: Forward Gameplay Cue to Target
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn System Attached with Params
+title: Spawn System Attached with Params
 order: 77
 ---
 ## Navigation

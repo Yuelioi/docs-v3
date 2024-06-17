@@ -1,5 +1,5 @@
 ---
-display_name: Create Vertex
+title: Create Vertex
 order: 14
 ---
 ## Navigation

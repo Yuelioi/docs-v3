@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Connected Vertices
+title: Get Vertex Connected Vertices
 order: 41
 ---
 ## Navigation

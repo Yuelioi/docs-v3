@@ -1,5 +1,5 @@
 ---
-display_name: Triggered
+title: Triggered
 order: 206
 ---
 ## Navigation

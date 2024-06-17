@@ -1,5 +1,5 @@
 ---
-display_name: Light Factory
+title: Light Factory
 order: 47
 ---
 ## Navigation

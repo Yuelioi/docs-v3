@@ -1,5 +1,5 @@
 ---
-display_name: Montage Is Playing
+title: Montage Is Playing
 order: 14
 ---
 ## Navigation

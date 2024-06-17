@@ -1,5 +1,5 @@
 ---
-display_name: primpoint
+title: primpoint
 order: 26
 ---
 `int  primpoint(<geometry>geometry, int primnum, int vertex)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Flat Shading
+title: Set Enable Flat Shading
 order: 9
 ---
 ## Navigation

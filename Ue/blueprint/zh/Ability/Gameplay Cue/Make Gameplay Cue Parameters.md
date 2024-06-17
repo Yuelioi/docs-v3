@@ -1,5 +1,5 @@
 ---
-display_name: Make Gameplay Cue Parameters
+title: Make Gameplay Cue Parameters
 order: 17
 ---
 ## Navigation

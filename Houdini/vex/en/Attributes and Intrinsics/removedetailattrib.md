@@ -1,5 +1,5 @@
 ---
-display_name: removedetailattrib
+title: removedetailattrib
 order: 56
 ---
 If you don’t know the class of attribute until runtime, use [removeattrib](removeattrib.html "Removes an attribute or group from the geometry.").

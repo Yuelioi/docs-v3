@@ -1,5 +1,5 @@
 ---
-display_name: Conway
+title: Conway
 order: 1
 ---
 

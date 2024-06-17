@@ -1,5 +1,5 @@
 ---
-display_name: Get Movement Mode Name
+title: Get Movement Mode Name
 order: 18
 ---
 ## Navigation

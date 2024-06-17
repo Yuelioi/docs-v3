@@ -1,5 +1,5 @@
 ---
-display_name: File Close
+title: File Close
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: KeyMap
+title: KeyMap
 order: 7
 ---
 

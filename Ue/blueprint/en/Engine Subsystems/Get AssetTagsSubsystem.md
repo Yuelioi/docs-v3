@@ -1,5 +1,5 @@
 ---
-display_name: Get AssetTagsSubsystem
+title: Get AssetTagsSubsystem
 order: 3
 ---
 ## Navigation

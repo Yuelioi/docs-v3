@@ -1,5 +1,5 @@
 ---
-display_name: Is Left Command Down
+title: Is Left Command Down
 order: 6
 ---
 ## Navigation

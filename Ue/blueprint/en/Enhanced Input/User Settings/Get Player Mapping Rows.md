@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Mapping Rows
+title: Get Player Mapping Rows
 order: 15
 ---
 ## Navigation

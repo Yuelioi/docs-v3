@@ -1,5 +1,5 @@
 ---
-display_name: End Ability
+title: End Ability
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Progress Color
+title: Set Slider Progress Color
 order: 81
 ---
 ## Navigation

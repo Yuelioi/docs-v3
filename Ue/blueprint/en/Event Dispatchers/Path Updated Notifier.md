@@ -1,5 +1,5 @@
 ---
-display_name: Path Updated Notifier
+title: Path Updated Notifier
 order: 197
 ---
 ## Navigation

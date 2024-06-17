@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Geometry
+title: On Remove Tracked Geometry
 order: 10
 ---
 ## Navigation

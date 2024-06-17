@@ -1,5 +1,5 @@
 ---
-display_name: 可选颜色
+title: 可选颜色
 order: 30
 ---
 

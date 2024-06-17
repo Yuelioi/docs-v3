@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Render Layer
+title: Get Active Render Layer
 order: 23
 ---
 ## Navigation

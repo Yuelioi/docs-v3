@@ -1,5 +1,5 @@
 ---
-display_name: Set Metadata Tag
+title: Set Metadata Tag
 order: 4
 ---
 ## Navigation

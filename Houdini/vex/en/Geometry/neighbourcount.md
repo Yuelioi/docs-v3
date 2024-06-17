@@ -1,5 +1,5 @@
 ---
-display_name: neighbourcount
+title: neighbourcount
 order: 15
 ---
 `int  neighbourcount(<geometry>geometry, int point_num)`

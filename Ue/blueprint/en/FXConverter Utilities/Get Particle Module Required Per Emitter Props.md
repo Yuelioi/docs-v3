@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Required Per Emitter Props
+title: Get Particle Module Required Per Emitter Props
 order: 85
 ---
 ## Navigation

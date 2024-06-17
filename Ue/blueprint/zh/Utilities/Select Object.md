@@ -1,5 +1,5 @@
 ---
-display_name: Select Object
+title: Select Object
 order: 33
 ---
 ## Navigation

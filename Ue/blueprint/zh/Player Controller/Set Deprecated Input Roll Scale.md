@@ -1,5 +1,5 @@
 ---
-display_name: Set Deprecated Input Roll Scale
+title: Set Deprecated Input Roll Scale
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Default Map
+title: Get Attribute Default Map
 order: 7
 ---
 ## Navigation

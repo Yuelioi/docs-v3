@@ -1,5 +1,5 @@
 ---
-display_name: irate
+title: irate
 order: 22
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

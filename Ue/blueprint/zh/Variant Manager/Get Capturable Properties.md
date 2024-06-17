@@ -1,5 +1,5 @@
 ---
-display_name: Get Capturable Properties
+title: Get Capturable Properties
 order: 10
 ---
 ## Navigation

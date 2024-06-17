@@ -1,5 +1,5 @@
 ---
-display_name: Run Behavior Tree
+title: Run Behavior Tree
 order: 27
 ---
 ## Navigation

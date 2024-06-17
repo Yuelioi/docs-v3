@@ -1,5 +1,5 @@
 ---
-display_name: Get Outputs
+title: Get Outputs
 order: 40
 ---
 ## Navigation

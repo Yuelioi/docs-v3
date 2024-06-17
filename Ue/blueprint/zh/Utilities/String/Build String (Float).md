@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Float)
+title: Build String (Float)
 order: 3
 ---
 ## Navigation

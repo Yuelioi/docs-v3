@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Velocity at Spline Input Key
+title: Get Water Velocity at Spline Input Key
 order: 2
 ---
 ## Navigation

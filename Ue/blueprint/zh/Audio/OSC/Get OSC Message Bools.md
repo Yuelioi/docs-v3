@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Bools
+title: Get OSC Message Bools
 order: 37
 ---
 ## Navigation

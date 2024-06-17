@@ -1,5 +1,5 @@
 ---
-display_name: Equal (IntPoint)
+title: Equal (IntPoint)
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get PI
+title: Get PI
 order: 12
 ---
 ## Navigation

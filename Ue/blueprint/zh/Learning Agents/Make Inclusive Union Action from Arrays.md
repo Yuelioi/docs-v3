@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Union Action from Arrays
+title: Make Inclusive Union Action from Arrays
 order: 195
 ---
 ## Navigation

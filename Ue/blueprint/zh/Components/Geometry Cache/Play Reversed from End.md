@@ -1,5 +1,5 @@
 ---
-display_name: Play Reversed from End
+title: Play Reversed from End
 order: 16
 ---
 ## Navigation

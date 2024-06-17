@@ -1,5 +1,5 @@
 ---
-display_name: Array Of Vector To PolyPath
+title: Array Of Vector To PolyPath
 order: 1
 ---
 ## Navigation

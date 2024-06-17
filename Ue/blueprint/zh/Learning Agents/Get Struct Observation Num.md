@@ -1,5 +1,5 @@
 ---
-display_name: Get Struct Observation Num
+title: Get Struct Observation Num
 order: 124
 ---
 ## Navigation

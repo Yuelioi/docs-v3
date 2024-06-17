@@ -1,5 +1,5 @@
 ---
-display_name: Set Move Block Detection
+title: Set Move Block Detection
 order: 40
 ---
 ## Navigation

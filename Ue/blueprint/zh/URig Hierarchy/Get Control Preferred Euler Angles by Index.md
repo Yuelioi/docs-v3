@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Preferred Euler Angles by Index
+title: Get Control Preferred Euler Angles by Index
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Path Following Component
+title: Set Path Following Component
 order: 42
 ---
 ## Navigation

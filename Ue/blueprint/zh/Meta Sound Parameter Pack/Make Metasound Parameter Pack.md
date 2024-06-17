@@ -1,5 +1,5 @@
 ---
-display_name: Make Metasound Parameter Pack
+title: Make Metasound Parameter Pack
 order: 18
 ---
 ## Navigation

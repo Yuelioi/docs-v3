@@ -1,5 +1,5 @@
 ---
-display_name: Set Water Body Static Mesh Enabled
+title: Set Water Body Static Mesh Enabled
 order: 31
 ---
 ## Navigation

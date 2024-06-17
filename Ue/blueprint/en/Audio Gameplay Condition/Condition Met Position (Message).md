@@ -1,5 +1,5 @@
 ---
-display_name: Condition Met Position (Message)
+title: Condition Met Position (Message)
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Channel Assignments
+title: Get Attribute Channel Assignments
 order: 6
 ---
 ## Navigation

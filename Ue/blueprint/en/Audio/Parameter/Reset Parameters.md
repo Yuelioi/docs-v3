@@ -1,5 +1,5 @@
 ---
-display_name: Reset Parameters
+title: Reset Parameters
 order: 12
 ---
 ## Navigation

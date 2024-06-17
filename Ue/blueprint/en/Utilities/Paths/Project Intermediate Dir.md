@@ -1,5 +1,5 @@
 ---
-display_name: Project Intermediate Dir
+title: Project Intermediate Dir
 order: 70
 ---
 ## Navigation

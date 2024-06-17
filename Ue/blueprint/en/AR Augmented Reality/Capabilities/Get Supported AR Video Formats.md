@@ -1,5 +1,5 @@
 ---
-display_name: Get Supported AR Video Formats
+title: Get Supported AR Video Formats
 order: 1
 ---
 ## Navigation

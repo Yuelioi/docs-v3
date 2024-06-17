@@ -1,5 +1,5 @@
 ---
-display_name: File Reset
+title: File Reset
 order: 9
 ---
 ## Navigation

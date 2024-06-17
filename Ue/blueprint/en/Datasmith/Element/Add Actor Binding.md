@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor Binding
+title: Add Actor Binding
 order: 1
 ---
 ## Navigation

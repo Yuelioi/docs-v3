@@ -1,5 +1,5 @@
 ---
-display_name: Set Explicit Frame
+title: Set Explicit Frame
 order: 11
 ---
 ## Navigation

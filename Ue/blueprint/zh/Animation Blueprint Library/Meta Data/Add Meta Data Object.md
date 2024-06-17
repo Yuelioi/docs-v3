@@ -1,5 +1,5 @@
 ---
-display_name: Add Meta Data Object
+title: Add Meta Data Object
 order: 1
 ---
 ## Navigation

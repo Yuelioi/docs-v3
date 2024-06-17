@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Scale Box Slot
+title: Slot as Scale Box Slot
 order: 7
 ---
 ## Navigation

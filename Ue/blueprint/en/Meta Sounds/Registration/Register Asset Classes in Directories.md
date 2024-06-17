@@ -1,5 +1,5 @@
 ---
-display_name: Register Asset Classes in Directories
+title: Register Asset Classes in Directories
 order: 1
 ---
 ## Navigation

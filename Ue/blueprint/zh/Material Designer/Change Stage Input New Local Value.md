@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input New Local Value
+title: Change Stage Input New Local Value
 order: 25
 ---
 ## Navigation

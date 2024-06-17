@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Box Extent
+title: Get Unscaled Box Extent
 order: 2
 ---
 ## Navigation

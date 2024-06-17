@@ -1,5 +1,5 @@
 ---
-display_name: Get Cloud Anchors
+title: Get Cloud Anchors
 order: 7
 ---
 ## Navigation

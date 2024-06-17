@@ -1,5 +1,5 @@
 ---
-display_name: Enable Runtime Render Timing
+title: Enable Runtime Render Timing
 order: 1
 ---
 ## Navigation

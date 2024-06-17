@@ -1,5 +1,5 @@
 ---
-display_name: Set Skin Weight Profile
+title: Set Skin Weight Profile
 order: 35
 ---
 ## Navigation

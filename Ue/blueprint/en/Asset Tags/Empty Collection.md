@@ -1,5 +1,5 @@
 ---
-display_name: Empty Collection
+title: Empty Collection
 order: 10
 ---
 ## Navigation

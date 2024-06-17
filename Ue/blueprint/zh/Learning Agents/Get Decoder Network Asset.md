@@ -1,5 +1,5 @@
 ---
-display_name: Get Decoder Network Asset
+title: Get Decoder Network Asset
 order: 52
 ---
 ## Navigation

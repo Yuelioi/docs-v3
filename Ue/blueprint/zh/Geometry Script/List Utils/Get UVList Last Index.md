@@ -1,5 +1,5 @@
 ---
-display_name: Get UVList Last Index
+title: Get UVList Last Index
 order: 38
 ---
 ## Navigation

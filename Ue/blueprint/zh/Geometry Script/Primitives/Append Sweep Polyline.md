@@ -1,5 +1,5 @@
 ---
-display_name: Append Sweep Polyline
+title: Append Sweep Polyline
 order: 23
 ---
 ## Navigation

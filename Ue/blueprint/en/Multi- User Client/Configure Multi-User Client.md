@@ -1,5 +1,5 @@
 ---
-display_name: Configure Multi-User Client
+title: Configure Multi-User Client
 order: 1
 ---
 ## Navigation

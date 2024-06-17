@@ -1,5 +1,5 @@
 ---
-display_name: 时间扭曲
+title: 时间扭曲
 order: 8
 ---
 

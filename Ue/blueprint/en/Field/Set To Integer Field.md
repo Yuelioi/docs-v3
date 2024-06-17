@@ -1,5 +1,5 @@
 ---
-display_name: Set To Integer Field
+title: Set To Integer Field
 order: 30
 ---
 ## Navigation

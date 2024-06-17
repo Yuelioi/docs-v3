@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture Type by Name
+title: Get Fixture Type by Name
 order: 48
 ---
 ## Navigation

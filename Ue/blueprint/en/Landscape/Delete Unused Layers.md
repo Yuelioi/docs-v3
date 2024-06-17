@@ -1,5 +1,5 @@
 ---
-display_name: Delete Unused Layers
+title: Delete Unused Layers
 order: 1
 ---
 ## Navigation

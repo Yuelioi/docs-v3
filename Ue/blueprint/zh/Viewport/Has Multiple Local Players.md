@@ -1,5 +1,5 @@
 ---
-display_name: Has Multiple Local Players
+title: Has Multiple Local Players
 order: 10
 ---
 ## Navigation

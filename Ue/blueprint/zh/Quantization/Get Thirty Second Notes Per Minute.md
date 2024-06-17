@@ -1,5 +1,5 @@
 ---
-display_name: Get Thirty Second Notes Per Minute
+title: Get Thirty Second Notes Per Minute
 order: 5
 ---
 ## Navigation

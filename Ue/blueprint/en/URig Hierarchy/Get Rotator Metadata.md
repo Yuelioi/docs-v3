@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator Metadata
+title: Get Rotator Metadata
 order: 78
 ---
 ## Navigation

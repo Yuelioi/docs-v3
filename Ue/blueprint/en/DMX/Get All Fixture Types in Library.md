@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixture Types in Library
+title: Get All Fixture Types in Library
 order: 30
 ---
 ## Navigation

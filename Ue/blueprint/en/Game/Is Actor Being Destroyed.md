@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Being Destroyed
+title: Is Actor Being Destroyed
 order: 3
 ---
 ## Navigation

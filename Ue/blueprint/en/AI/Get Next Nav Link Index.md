@@ -1,5 +1,5 @@
 ---
-display_name: Get Next Nav Link Index
+title: Get Next Nav Link Index
 order: 17
 ---
 ## Navigation

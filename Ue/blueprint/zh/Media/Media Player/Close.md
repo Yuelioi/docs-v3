@@ -1,5 +1,5 @@
 ---
-display_name: Close
+title: Close
 order: 4
 ---
 ## Navigation

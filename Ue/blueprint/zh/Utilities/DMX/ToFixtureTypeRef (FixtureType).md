@@ -1,5 +1,5 @@
 ---
-display_name: ToFixtureTypeRef (FixtureType)
+title: ToFixtureTypeRef (FixtureType)
 order: 6
 ---
 ## Navigation

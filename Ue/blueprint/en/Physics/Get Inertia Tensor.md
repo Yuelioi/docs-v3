@@ -1,5 +1,5 @@
 ---
-display_name: Get Inertia Tensor
+title: Get Inertia Tensor
 order: 73
 ---
 ## Navigation

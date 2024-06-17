@@ -1,5 +1,5 @@
 ---
-display_name: Add Mapped Components
+title: Add Mapped Components
 order: 1
 ---
 ## Navigation

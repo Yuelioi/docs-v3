@@ -1,5 +1,5 @@
 ---
-display_name: Texture2D Sample UV Editor Only
+title: Texture2D Sample UV Editor Only
 order: 7
 ---
 ## Navigation

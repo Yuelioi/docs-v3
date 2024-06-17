@@ -1,5 +1,5 @@
 ---
-display_name: Foliage Overlapping Sphere Count
+title: Foliage Overlapping Sphere Count
 order: 6
 ---
 ## Navigation

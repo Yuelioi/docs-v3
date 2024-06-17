@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Intrinsics
+title: Get Camera Intrinsics
 order: 7
 ---
 ## Navigation

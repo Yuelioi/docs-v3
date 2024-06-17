@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Thumbstick Button
+title: Gamepad Right Thumbstick Button
 order: 22
 ---
 ## Navigation

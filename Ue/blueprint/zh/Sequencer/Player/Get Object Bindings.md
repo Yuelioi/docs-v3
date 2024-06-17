@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Bindings
+title: Get Object Bindings
 order: 13
 ---
 ## Navigation

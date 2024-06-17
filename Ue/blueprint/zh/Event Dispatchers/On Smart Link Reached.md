@@ -1,5 +1,5 @@
 ---
-display_name: On Smart Link Reached
+title: On Smart Link Reached
 order: 153
 ---
 ## Navigation

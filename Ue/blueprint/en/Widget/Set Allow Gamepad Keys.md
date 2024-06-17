@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Gamepad Keys
+title: Set Allow Gamepad Keys
 order: 6
 ---
 ## Navigation

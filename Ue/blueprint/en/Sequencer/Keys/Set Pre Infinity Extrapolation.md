@@ -1,5 +1,5 @@
 ---
-display_name: Set Pre Infinity Extrapolation
+title: Set Pre Infinity Extrapolation
 order: 113
 ---
 ## Navigation

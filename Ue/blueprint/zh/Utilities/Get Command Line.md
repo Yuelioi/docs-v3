@@ -1,5 +1,5 @@
 ---
-display_name: Get Command Line
+title: Get Command Line
 order: 13
 ---
 ## Navigation

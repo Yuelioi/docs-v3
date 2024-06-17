@@ -1,5 +1,5 @@
 ---
-display_name: Get All Slots
+title: Get All Slots
 order: 14
 ---
 ## Navigation

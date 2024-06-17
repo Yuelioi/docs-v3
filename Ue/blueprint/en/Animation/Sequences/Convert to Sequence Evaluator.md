@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Sequence Evaluator
+title: Convert to Sequence Evaluator
 order: 3
 ---
 ## Navigation

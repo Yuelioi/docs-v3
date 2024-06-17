@@ -1,5 +1,5 @@
 ---
-display_name: Use Smart Object with Gameplay Interaction
+title: Use Smart Object with Gameplay Interaction
 order: 11
 ---
 ## Navigation

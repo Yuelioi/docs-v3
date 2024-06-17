@@ -1,5 +1,5 @@
 ---
-display_name: Get End Tangent
+title: Get End Tangent
 order: 7
 ---
 ## Navigation

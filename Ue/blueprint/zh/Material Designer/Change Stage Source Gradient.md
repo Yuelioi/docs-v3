@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source Gradient
+title: Change Stage Source Gradient
 order: 32
 ---
 ## Navigation

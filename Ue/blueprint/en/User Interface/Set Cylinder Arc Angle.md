@@ -1,5 +1,5 @@
 ---
-display_name: Set Cylinder Arc Angle
+title: Set Cylinder Arc Angle
 order: 39
 ---
 ## Navigation

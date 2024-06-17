@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: Shape
+title: Shape
 ---
 
 # Shape 形状

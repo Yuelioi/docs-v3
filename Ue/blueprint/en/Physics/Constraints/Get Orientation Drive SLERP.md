@@ -1,5 +1,5 @@
 ---
-display_name: Get Orientation Drive SLERP
+title: Get Orientation Drive SLERP
 order: 29
 ---
 ## Navigation

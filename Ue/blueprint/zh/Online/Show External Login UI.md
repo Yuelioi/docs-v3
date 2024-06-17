@@ -1,5 +1,5 @@
 ---
-display_name: Show External Login UI
+title: Show External Login UI
 order: 9
 ---
 ## Navigation

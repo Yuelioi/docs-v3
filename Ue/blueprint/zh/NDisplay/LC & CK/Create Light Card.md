@@ -1,5 +1,5 @@
 ---
-display_name: Create Light Card
+title: Create Light Card
 order: 1
 ---
 ## Navigation

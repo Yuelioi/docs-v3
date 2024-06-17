@@ -1,5 +1,5 @@
 ---
-display_name: Remove Unreal Surface Output
+title: Remove Unreal Surface Output
 order: 6
 ---
 ## Navigation

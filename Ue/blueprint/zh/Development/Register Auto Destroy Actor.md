@@ -1,5 +1,5 @@
 ---
-display_name: Register Auto Destroy Actor
+title: Register Auto Destroy Actor
 order: 53
 ---
 ## Navigation

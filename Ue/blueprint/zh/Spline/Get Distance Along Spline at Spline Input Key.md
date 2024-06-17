@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance Along Spline at Spline Input Key
+title: Get Distance Along Spline at Spline Input Key
 order: 30
 ---
 ## Navigation

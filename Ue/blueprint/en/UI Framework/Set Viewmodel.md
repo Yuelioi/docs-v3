@@ -1,5 +1,5 @@
 ---
-display_name: Set Viewmodel
+title: Set Viewmodel
 order: 30
 ---
 ## Navigation

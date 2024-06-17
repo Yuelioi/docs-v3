@@ -1,5 +1,5 @@
 ---
-display_name: Set Required Pin
+title: Set Required Pin
 order: 8
 ---
 ## Navigation

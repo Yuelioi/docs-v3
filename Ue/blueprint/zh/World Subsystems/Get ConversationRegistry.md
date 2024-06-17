@@ -1,5 +1,5 @@
 ---
-display_name: Get ConversationRegistry
+title: Get ConversationRegistry
 order: 21
 ---
 ## Navigation

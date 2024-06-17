@@ -1,5 +1,5 @@
 ---
-display_name: Should Apply Nodal Offset on Tick
+title: Should Apply Nodal Offset on Tick
 order: 27
 ---
 ## Navigation

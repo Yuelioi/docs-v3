@@ -1,5 +1,5 @@
 ---
-display_name: Montage Sync Stop Following
+title: Montage Sync Stop Following
 order: 14
 ---
 ## Navigation

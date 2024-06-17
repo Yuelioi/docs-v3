@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated PCGLandscape Layer Weights
+title: Get Interpolated PCGLandscape Layer Weights
 order: 5
 ---
 ## Navigation

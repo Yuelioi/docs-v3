@@ -1,5 +1,5 @@
 ---
-display_name: Remove Widget
+title: Remove Widget
 order: 3
 ---
 ## Navigation

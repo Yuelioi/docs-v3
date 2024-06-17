@@ -1,5 +1,5 @@
 ---
-display_name: Set Visible in Scene Capture Only
+title: Set Visible in Scene Capture Only
 order: 97
 ---
 ## Navigation

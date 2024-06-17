@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Parameter Source
+title: Get Texture Parameter Source
 order: 39
 ---
 ## Navigation

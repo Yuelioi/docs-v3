@@ -1,5 +1,5 @@
 ---
-display_name: Set Streaming Mip Bias
+title: Set Streaming Mip Bias
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Complete
+title: Complete
 order: 22
 ---
 ## Navigation

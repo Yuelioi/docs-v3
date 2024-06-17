@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture UV
+title: Get Texture UV
 order: 138
 ---
 ## Navigation

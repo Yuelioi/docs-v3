@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Expanded Animated
+title: Set Is Expanded Animated
 order: 2
 ---
 ## Navigation

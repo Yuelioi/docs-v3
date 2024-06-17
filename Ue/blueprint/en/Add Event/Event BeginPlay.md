@@ -1,5 +1,5 @@
 ---
-display_name: Event BeginPlay
+title: Event BeginPlay
 order: 3
 ---
 ## Navigation

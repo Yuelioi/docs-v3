@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Composure Element List
+title: Refresh Composure Element List
 order: 6
 ---
 ## Navigation

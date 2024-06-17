@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Evaluation Distance to Newest Sample Standard Deviation
+title: Get Channel Evaluation Distance to Newest Sample Standard Deviation
 order: 8
 ---
 ## Navigation

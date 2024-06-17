@@ -1,5 +1,5 @@
 ---
-display_name: Get Panel Widget
+title: Get Panel Widget
 order: 20
 ---
 ## Navigation

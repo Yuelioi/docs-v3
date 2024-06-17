@@ -1,5 +1,5 @@
 ---
-display_name: Date Time from String
+title: Date Time from String
 order: 3
 ---
 ## Navigation

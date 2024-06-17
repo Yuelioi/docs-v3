@@ -1,5 +1,5 @@
 ---
-display_name: Close All Editors for Asset
+title: Close All Editors for Asset
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable Name
+title: Get Variable Name
 order: 13
 ---
 ## Navigation

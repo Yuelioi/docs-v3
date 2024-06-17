@@ -1,5 +1,5 @@
 ---
-display_name: Get MassTestGameInstanceSubsystem
+title: Get MassTestGameInstanceSubsystem
 order: 4
 ---
 ## Navigation

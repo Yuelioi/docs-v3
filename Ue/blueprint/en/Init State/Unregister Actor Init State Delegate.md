@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Actor Init State Delegate
+title: Unregister Actor Init State Delegate
 order: 11
 ---
 ## Navigation

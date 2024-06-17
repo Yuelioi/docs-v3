@@ -1,5 +1,5 @@
 ---
-display_name: Set Tangent Weight Mode
+title: Set Tangent Weight Mode
 order: 115
 ---
 ## Navigation

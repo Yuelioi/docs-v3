@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvarsize
+title: usd_iprimvarsize
 order: 58
 ---
 | Since | 19.0 |

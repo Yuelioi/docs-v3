@@ -1,5 +1,5 @@
 ---
-display_name: fuzzify
+title: fuzzify
 order: 1
 ---
 `float  fuzzify(string ramp_basis[], float ramp_values[], float ramp_positions[], float crisp_value, float min_value, float max_value)`

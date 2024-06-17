@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequences (by Tag) (Message)
+title: Play Sequences (by Tag) (Message)
 order: 18
 ---
 ## Navigation

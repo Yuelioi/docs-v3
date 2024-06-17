@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Parameter Selected Option
+title: Get Float Parameter Selected Option
 order: 21
 ---
 ## Navigation

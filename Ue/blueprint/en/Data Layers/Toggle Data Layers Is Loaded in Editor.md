@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Data Layers Is Loaded in Editor
+title: Toggle Data Layers Is Loaded in Editor
 order: 52
 ---
 ## Navigation

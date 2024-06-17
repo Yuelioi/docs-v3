@@ -1,5 +1,5 @@
 ---
-display_name: Resize in Frames (Message)
+title: Resize in Frames (Message)
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Prim Asset Info
+title: Set Prim Asset Info
 order: 3
 ---
 ## Navigation

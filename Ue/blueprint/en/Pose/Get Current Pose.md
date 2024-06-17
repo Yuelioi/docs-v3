@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Pose
+title: Get Current Pose
 order: 3
 ---
 ## Navigation

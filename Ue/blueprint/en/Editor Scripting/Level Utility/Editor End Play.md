@@ -1,5 +1,5 @@
 ---
-display_name: Editor End Play
+title: Editor End Play
 order: 8
 ---
 ## Navigation

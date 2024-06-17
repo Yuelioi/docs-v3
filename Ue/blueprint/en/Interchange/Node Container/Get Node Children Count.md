@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Children Count
+title: Get Node Children Count
 order: 4
 ---
 ## Navigation

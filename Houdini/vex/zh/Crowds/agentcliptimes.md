@@ -1,5 +1,5 @@
 ---
-display_name: agentcliptimes
+title: agentcliptimes
 order: 17
 ---
 `float [] agentcliptimes(<geometry>geometry, int prim)`

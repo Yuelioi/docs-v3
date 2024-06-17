@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Text Style Class
+title: Get Current Text Style Class
 order: 3
 ---
 ## Navigation

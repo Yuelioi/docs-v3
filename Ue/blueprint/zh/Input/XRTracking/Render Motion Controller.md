@@ -1,5 +1,5 @@
 ---
-display_name: Render Motion Controller
+title: Render Motion Controller
 order: 17
 ---
 ## Navigation

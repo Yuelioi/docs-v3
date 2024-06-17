@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Direction
+title: Calculate Direction
 order: 1
 ---
 ## Navigation

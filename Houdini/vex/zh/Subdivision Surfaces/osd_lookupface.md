@@ -1,5 +1,5 @@
 ---
-display_name: osd_lookupface
+title: osd_lookupface
 order: 5
 ---
 `int  osd_lookupface(<geometry>geometry, int patch_id, float patch_u, float patch_v, int &face_id, float &face_u, float &face_v)`

@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Warp Target from Component
+title: Add or Update Warp Target from Component
 order: 3
 ---
 ## Navigation

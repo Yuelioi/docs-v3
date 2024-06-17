@@ -1,5 +1,5 @@
 ---
-display_name: Is Input Device Mapped to Unpaired User
+title: Is Input Device Mapped to Unpaired User
 order: 12
 ---
 ## Navigation

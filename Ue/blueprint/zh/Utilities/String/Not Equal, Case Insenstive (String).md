@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal, Case Insenstive (String)
+title: Not Equal, Case Insenstive (String)
 order: 34
 ---
 ## Navigation

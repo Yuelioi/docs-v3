@@ -1,5 +1,5 @@
 ---
-display_name: Is Interface
+title: Is Interface
 order: 42
 ---
 ## Navigation

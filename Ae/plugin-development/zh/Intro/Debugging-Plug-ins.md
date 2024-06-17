@@ -1,5 +1,5 @@
 ---
-display_name: Debugging-Plug-ins
+title: Debugging-Plug-ins
 order: 3
 ---
 

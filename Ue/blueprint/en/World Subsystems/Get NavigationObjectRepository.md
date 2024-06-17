@@ -1,5 +1,5 @@
 ---
-display_name: Get NavigationObjectRepository
+title: Get NavigationObjectRepository
 order: 60
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Capture Mouse
+title: Capture Mouse
 order: 1
 ---
 ## Navigation

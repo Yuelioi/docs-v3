@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush Resource to Texture
+title: Set Brush Resource to Texture
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC线扫描
+title: CC线扫描
 order: 7
 ---
 

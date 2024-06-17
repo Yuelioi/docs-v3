@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush Tint Color
+title: Set Brush Tint Color
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: AEGPs
+title: AEGPs
 order: 3
 ---
 

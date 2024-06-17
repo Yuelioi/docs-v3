@@ -1,5 +1,5 @@
 ---
-display_name: Get Tag Name
+title: Get Tag Name
 order: 14
 ---
 ## Navigation

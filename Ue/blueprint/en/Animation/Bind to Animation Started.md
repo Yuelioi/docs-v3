@@ -1,5 +1,5 @@
 ---
-display_name: Bind to Animation Started
+title: Bind to Animation Started
 order: 7
 ---
 ## Navigation

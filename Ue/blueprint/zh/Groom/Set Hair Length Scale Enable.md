@@ -1,5 +1,5 @@
 ---
-display_name: Set Hair Length Scale Enable
+title: Set Hair Length Scale Enable
 order: 9
 ---
 ## Navigation

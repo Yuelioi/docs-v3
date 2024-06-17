@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Preview Mode
+title: Toggle Preview Mode
 order: 26
 ---
 ## Navigation

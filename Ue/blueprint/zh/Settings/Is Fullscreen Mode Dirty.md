@@ -1,5 +1,5 @@
 ---
-display_name: Is Fullscreen Mode Dirty
+title: Is Fullscreen Mode Dirty
 order: 81
 ---
 ## Navigation

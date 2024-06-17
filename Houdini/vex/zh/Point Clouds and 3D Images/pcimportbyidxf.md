@@ -1,5 +1,5 @@
 ---
-display_name: pcimportbyidxf
+title: pcimportbyidxf
 order: 17
 ---
 `float  pcimportbyidxf(int handle, string channel_name, int idx)`

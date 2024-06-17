@@ -1,5 +1,5 @@
 ---
-display_name: Floor to Integer64
+title: Floor to Integer64
 order: 12
 ---
 ## Navigation

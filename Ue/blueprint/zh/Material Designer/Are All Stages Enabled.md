@@ -1,5 +1,5 @@
 ---
-display_name: Are All Stages Enabled
+title: Are All Stages Enabled
 order: 9
 ---
 ## Navigation

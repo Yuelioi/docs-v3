@@ -1,5 +1,5 @@
 ---
-display_name: Make Gameplay Tag Query
+title: Make Gameplay Tag Query
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Gameplay Tag
+title: Remove Gameplay Tag
 order: 36
 ---
 ## Navigation

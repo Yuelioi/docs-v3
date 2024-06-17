@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Tools
+title: Get Asset Tools
 order: 26
 ---
 ## Navigation

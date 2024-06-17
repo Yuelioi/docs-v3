@@ -1,5 +1,5 @@
 ---
-display_name: Get Disable Camera Cuts
+title: Get Disable Camera Cuts
 order: 8
 ---
 ## Navigation

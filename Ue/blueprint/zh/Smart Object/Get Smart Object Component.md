@@ -1,5 +1,5 @@
 ---
-display_name: Get Smart Object Component
+title: Get Smart Object Component
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Emitter Fixed Bounds
+title: Set Emitter Fixed Bounds
 order: 19
 ---
 ## Navigation

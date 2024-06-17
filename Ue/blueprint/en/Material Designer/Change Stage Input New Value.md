@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input New Value
+title: Change Stage Input New Value
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Chaos Solver Actor
+title: Remove Chaos Solver Actor
 order: 4
 ---
 ## Navigation

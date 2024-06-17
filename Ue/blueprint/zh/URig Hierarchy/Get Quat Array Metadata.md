@@ -1,5 +1,5 @@
 ---
-display_name: Get Quat Array Metadata
+title: Get Quat Array Metadata
 order: 70
 ---
 ## Navigation

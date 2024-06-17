@@ -1,5 +1,5 @@
 ---
-display_name: Get Minutes
+title: Get Minutes
 order: 12
 ---
 ## Navigation

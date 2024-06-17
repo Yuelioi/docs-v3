@@ -1,5 +1,5 @@
 ---
-display_name: Get Effect Material
+title: Get Effect Material
 order: 1
 ---
 ## Navigation

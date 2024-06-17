@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Point
+title: Set Control Point
 order: 93
 ---
 ## Navigation

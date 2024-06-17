@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Object Path)
+title: Remove Key (Object Path)
 order: 97
 ---
 ## Navigation

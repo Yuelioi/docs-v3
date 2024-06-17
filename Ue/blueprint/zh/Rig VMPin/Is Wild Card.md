@@ -1,5 +1,5 @@
 ---
-display_name: Is Wild Card
+title: Is Wild Card
 order: 51
 ---
 ## Navigation

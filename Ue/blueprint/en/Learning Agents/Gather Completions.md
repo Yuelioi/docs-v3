@@ -1,5 +1,5 @@
 ---
-display_name: Gather Completions
+title: Gather Completions
 order: 21
 ---
 ## Navigation

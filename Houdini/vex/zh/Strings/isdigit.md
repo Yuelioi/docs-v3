@@ -1,5 +1,5 @@
 ---
-display_name: isdigit
+title: isdigit
 order: 15
 ---
 `int  isdigit(string str)`

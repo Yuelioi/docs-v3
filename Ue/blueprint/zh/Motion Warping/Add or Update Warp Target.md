@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Warp Target
+title: Add or Update Warp Target
 order: 7
 ---
 ## Navigation

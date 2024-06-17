@@ -1,5 +1,5 @@
 ---
-display_name: Save Settings
+title: Save Settings
 order: 29
 ---
 ## Navigation

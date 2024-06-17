@@ -1,5 +1,5 @@
 ---
-display_name: To String (Integer)
+title: To String (Integer)
 order: 67
 ---
 ## Navigation

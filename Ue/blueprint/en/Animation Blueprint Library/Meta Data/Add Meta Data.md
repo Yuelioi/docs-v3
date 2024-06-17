@@ -1,5 +1,5 @@
 ---
-display_name: Add Meta Data
+title: Add Meta Data
 order: 2
 ---
 ## Navigation

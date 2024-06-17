@@ -1,5 +1,5 @@
 ---
-display_name: filtershadow
+title: filtershadow
 order: 4
 ---
 | On this page | * [Area sampling options](#area-sampling-options) * [Ray options](#ray-options) |

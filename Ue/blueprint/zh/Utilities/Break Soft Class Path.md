@@ -1,5 +1,5 @@
 ---
-display_name: Break Soft Class Path
+title: Break Soft Class Path
 order: 32
 ---
 ## Navigation

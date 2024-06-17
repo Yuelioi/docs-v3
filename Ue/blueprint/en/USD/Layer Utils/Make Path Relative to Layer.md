@@ -1,5 +1,5 @@
 ---
-display_name: Make Path Relative to Layer
+title: Make Path Relative to Layer
 order: 4
 ---
 ## Navigation

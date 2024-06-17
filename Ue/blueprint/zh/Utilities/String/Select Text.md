@@ -1,5 +1,5 @@
 ---
-display_name: Select Text
+title: Select Text
 order: 44
 ---
 ## Navigation

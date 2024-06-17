@@ -1,5 +1,5 @@
 ---
-display_name: setedgegroup
+title: setedgegroup
 order: 35
 ---
 `int  setedgegroup(int geohandle, string name, int pt0, int pt1, int value)`

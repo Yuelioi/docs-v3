@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Niagara GPURay Traced Collision Group
+title: Set Component Niagara GPURay Traced Collision Group
 order: 15
 ---
 ## Navigation

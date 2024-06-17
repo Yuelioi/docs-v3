@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Enable Collision
+title: Set Actor Enable Collision
 order: 67
 ---
 ## Navigation

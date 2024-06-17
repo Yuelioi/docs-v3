@@ -1,5 +1,5 @@
 ---
-display_name: Execute Event
+title: Execute Event
 order: 2
 ---
 ## Navigation

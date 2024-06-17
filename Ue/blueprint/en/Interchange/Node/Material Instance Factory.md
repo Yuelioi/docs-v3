@@ -1,5 +1,5 @@
 ---
-display_name: Material Instance Factory
+title: Material Instance Factory
 order: 50
 ---
 ## Navigation

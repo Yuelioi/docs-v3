@@ -1,5 +1,5 @@
 ---
-display_name: Texture Graph Export (Async)
+title: Texture Graph Export (Async)
 order: 12
 ---
 ## Navigation

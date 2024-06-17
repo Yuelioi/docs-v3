@@ -1,5 +1,5 @@
 ---
-display_name: Set Allows Cinematic Control
+title: Set Allows Cinematic Control
 order: 57
 ---
 ## Navigation

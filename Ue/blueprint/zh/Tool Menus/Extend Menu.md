@@ -1,5 +1,5 @@
 ---
-display_name: Extend Menu
+title: Extend Menu
 order: 11
 ---
 ## Navigation

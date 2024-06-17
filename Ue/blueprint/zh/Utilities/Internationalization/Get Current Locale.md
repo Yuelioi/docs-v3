@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Locale
+title: Get Current Locale
 order: 6
 ---
 ## Navigation

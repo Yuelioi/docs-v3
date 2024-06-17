@@ -1,5 +1,5 @@
 ---
-display_name: Get Clamped Linear Color Value
+title: Get Clamped Linear Color Value
 order: 1
 ---
 ## Navigation

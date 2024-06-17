@@ -1,5 +1,5 @@
 ---
-display_name: Component Has Tag
+title: Component Has Tag
 order: 15
 ---
 ## Navigation

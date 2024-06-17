@@ -1,5 +1,5 @@
 ---
-display_name: 复制器 Replica
+title: 复制器 Replica
 order: 3
 ---
 

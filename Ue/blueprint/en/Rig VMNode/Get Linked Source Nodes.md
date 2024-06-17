@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Source Nodes
+title: Get Linked Source Nodes
 order: 15
 ---
 ## Navigation

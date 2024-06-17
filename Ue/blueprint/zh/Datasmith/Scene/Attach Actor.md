@@ -1,5 +1,5 @@
 ---
-display_name: Attach Actor
+title: Attach Actor
 order: 2
 ---
 ## Navigation

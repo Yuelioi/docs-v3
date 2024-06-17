@@ -1,5 +1,5 @@
 ---
-display_name: Create Fixture Type in Library
+title: Create Fixture Type in Library
 order: 5
 ---
 ## Navigation

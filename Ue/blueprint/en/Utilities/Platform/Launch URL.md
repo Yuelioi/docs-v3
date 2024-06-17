@@ -1,5 +1,5 @@
 ---
-display_name: Launch URL
+title: Launch URL
 order: 17
 ---
 ## Navigation

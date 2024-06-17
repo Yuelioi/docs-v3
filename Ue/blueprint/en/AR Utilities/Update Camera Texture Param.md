@@ -1,5 +1,5 @@
 ---
-display_name: Update Camera Texture Param
+title: Update Camera Texture Param
 order: 1
 ---
 ## Navigation

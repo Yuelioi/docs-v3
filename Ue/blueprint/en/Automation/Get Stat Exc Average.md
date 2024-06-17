@@ -1,5 +1,5 @@
 ---
-display_name: Get Stat Exc Average
+title: Get Stat Exc Average
 order: 19
 ---
 ## Navigation

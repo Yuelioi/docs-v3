@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Exists
+title: Get Control Exists
 order: 42
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Value from Animation
+title: Get Curve Value from Animation
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Instance from Asset
+title: Get Data Layer Instance from Asset
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attraction Force Falloff
+title: Get Attraction Force Falloff
 order: 3
 ---
 ## Navigation

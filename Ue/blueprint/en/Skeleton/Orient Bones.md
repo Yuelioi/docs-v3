@@ -1,5 +1,5 @@
 ---
-display_name: Orient Bones
+title: Orient Bones
 order: 13
 ---
 ## Navigation

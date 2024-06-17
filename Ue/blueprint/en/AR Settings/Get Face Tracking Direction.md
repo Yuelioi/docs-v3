@@ -1,5 +1,5 @@
 ---
-display_name: Get Face Tracking Direction
+title: Get Face Tracking Direction
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Variable Loop
+title: Variable Loop
 order: 4
 ---
 ## Navigation

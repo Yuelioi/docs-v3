@@ -1,5 +1,5 @@
 ---
-display_name: Memory-Allocation
+title: Memory-Allocation
 order: 13
 ---
 

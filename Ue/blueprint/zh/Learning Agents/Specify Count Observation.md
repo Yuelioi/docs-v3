@@ -1,5 +1,5 @@
 ---
-display_name: Specify Count Observation
+title: Specify Count Observation
 order: 284
 ---
 ## Navigation

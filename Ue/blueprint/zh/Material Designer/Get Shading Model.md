@@ -1,5 +1,5 @@
 ---
-display_name: Get Shading Model
+title: Get Shading Model
 order: 125
 ---
 ## Navigation

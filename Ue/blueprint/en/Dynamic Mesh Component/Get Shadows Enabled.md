@@ -1,5 +1,5 @@
 ---
-display_name: Get Shadows Enabled
+title: Get Shadows Enabled
 order: 11
 ---
 ## Navigation

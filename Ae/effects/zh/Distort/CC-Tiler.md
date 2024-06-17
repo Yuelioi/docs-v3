@@ -1,5 +1,5 @@
 ---
-display_name: CC电视墙
+title: CC电视墙
 order: 16
 ---
 

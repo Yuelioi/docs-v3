@@ -1,5 +1,5 @@
 ---
-display_name: addattrib
+title: addattrib
 order: 1
 ---
 If you know the class of attribute you want to add ahead of time, using [adddetailattrib](adddetailattrib.html "Adds a detail attribute to a geometry."), [addprimattrib](addprimattrib.html "Adds a primitive attribute to a geometry."), [addpointattrib](addpointattrib.html "Adds a point attribute to a geometry."), or [addvertexattrib](addvertexattrib.html "Adds a vertex attribute to a geometry.") may be faster.

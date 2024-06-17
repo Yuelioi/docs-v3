@@ -1,5 +1,5 @@
 ---
-display_name: Remove Granted by Effect
+title: Remove Granted by Effect
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: setagentlocaltransforms
+title: setagentlocaltransforms
 order: 61
 ---
 `void  setagentlocaltransforms(int geohandle, int prim, matrix transforms[])`

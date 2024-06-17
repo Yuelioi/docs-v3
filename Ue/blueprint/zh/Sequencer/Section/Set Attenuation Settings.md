@@ -1,5 +1,5 @@
 ---
-display_name: Set Attenuation Settings
+title: Set Attenuation Settings
 order: 68
 ---
 ## Navigation

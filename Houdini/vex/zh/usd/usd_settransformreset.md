@@ -1,5 +1,5 @@
 ---
-display_name: usd_settransformreset
+title: usd_settransformreset
 order: 140
 ---
 | Since | 18.0 |

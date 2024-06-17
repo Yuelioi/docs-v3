@@ -1,5 +1,5 @@
 ---
-display_name: Add Persistent Field
+title: Add Persistent Field
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 彩色浮雕
+title: 彩色浮雕
 order: 14
 ---
 

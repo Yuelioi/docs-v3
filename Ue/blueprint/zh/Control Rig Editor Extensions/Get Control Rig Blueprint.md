@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Rig Blueprint
+title: Get Control Rig Blueprint
 order: 1
 ---
 ## Navigation

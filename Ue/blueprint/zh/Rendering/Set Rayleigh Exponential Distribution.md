@@ -1,5 +1,5 @@
 ---
-display_name: Set Rayleigh Exponential Distribution
+title: Set Rayleigh Exponential Distribution
 order: 70
 ---
 ## Navigation

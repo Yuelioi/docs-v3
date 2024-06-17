@@ -1,5 +1,5 @@
 ---
-display_name: Scroll to Start
+title: Scroll to Start
 order: 4
 ---
 ## Navigation

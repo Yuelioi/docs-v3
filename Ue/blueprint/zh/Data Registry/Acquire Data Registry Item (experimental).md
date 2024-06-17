@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Data Registry Item (experimental)
+title: Acquire Data Registry Item (experimental)
 order: 1
 ---
 ## Navigation

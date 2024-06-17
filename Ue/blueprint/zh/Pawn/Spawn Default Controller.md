@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Default Controller
+title: Spawn Default Controller
 order: 29
 ---
 ## Navigation

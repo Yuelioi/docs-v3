@@ -1,5 +1,5 @@
 ---
-display_name: Safe Divide
+title: Safe Divide
 order: 34
 ---
 ## Navigation

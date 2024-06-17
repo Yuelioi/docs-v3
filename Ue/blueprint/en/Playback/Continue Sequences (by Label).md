@@ -1,5 +1,5 @@
 ---
-display_name: Continue Sequences (by Label)
+title: Continue Sequences (by Label)
 order: 2
 ---
 ## Navigation

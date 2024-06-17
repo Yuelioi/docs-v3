@@ -1,5 +1,5 @@
 ---
-display_name: Get Timestamp
+title: Get Timestamp
 order: 13
 ---
 ## Navigation

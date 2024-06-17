@@ -1,5 +1,5 @@
 ---
-display_name: Set Mask Channel Override
+title: Set Mask Channel Override
 order: 216
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Retain Rendering
+title: Set Retain Rendering
 order: 6
 ---
 ## Navigation

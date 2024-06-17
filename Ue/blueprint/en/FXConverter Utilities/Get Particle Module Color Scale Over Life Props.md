@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Color Scale Over Life Props
+title: Get Particle Module Color Scale Over Life Props
 order: 67
 ---
 ## Navigation

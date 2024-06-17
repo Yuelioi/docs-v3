@@ -1,5 +1,5 @@
 ---
-display_name: ApplyGameplayEffectToTarget
+title: ApplyGameplayEffectToTarget
 order: 4
 ---
 ## Navigation

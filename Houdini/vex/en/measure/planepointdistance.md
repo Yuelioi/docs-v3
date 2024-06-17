@@ -1,5 +1,5 @@
 ---
-display_name: planepointdistance
+title: planepointdistance
 order: 14
 ---
 `float  planepointdistance(vector plane_pos, vector plane_normal, vector point_pos, vector &intersect_pos)`

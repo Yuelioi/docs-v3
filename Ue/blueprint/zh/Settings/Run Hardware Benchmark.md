@@ -1,5 +1,5 @@
 ---
-display_name: Run Hardware Benchmark
+title: Run Hardware Benchmark
 order: 102
 ---
 ## Navigation

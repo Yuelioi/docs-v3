@@ -1,5 +1,5 @@
 ---
-display_name: Recompile VMIf Required
+title: Recompile VMIf Required
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Expression Map
+title: Make Expression Map
 order: 1
 ---
 ## Navigation

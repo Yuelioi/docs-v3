@@ -1,5 +1,5 @@
 ---
-display_name: Vector Heading Angle
+title: Vector Heading Angle
 order: 75
 ---
 ## Navigation

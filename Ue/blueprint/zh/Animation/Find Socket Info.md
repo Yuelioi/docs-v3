@@ -1,5 +1,5 @@
 ---
-display_name: Find Socket Info
+title: Find Socket Info
 order: 8
 ---
 ## Navigation

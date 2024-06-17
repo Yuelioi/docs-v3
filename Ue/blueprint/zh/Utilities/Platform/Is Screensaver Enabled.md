@@ -1,5 +1,5 @@
 ---
-display_name: Is Screensaver Enabled
+title: Is Screensaver Enabled
 order: 16
 ---
 ## Navigation

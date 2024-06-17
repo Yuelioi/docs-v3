@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Note Number
+title: Get Max Note Number
 order: 4
 ---
 ## Navigation

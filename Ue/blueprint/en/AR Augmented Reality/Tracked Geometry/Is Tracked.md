@@ -1,5 +1,5 @@
 ---
-display_name: Is Tracked
+title: Is Tracked
 order: 9
 ---
 ## Navigation

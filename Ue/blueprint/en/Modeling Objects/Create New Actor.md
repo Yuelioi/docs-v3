@@ -1,5 +1,5 @@
 ---
-display_name: Create New Actor
+title: Create New Actor
 order: 3
 ---
 ## Navigation

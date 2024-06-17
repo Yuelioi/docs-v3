@@ -1,5 +1,5 @@
 ---
-display_name: Get Device Pose
+title: Get Device Pose
 order: 7
 ---
 ## Navigation

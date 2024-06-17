@@ -1,5 +1,5 @@
 ---
-display_name: Is Reporting Enabled
+title: Is Reporting Enabled
 order: 63
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Noise
+title: Make Noise
 order: 9
 ---
 ## Navigation

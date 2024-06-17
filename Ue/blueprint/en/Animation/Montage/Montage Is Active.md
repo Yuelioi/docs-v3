@@ -1,5 +1,5 @@
 ---
-display_name: Montage Is Active
+title: Montage Is Active
 order: 13
 ---
 ## Navigation

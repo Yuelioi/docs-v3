@@ -1,5 +1,5 @@
 ---
-display_name: Set Overlay Material
+title: Set Overlay Material
 order: 49
 ---
 ## Navigation

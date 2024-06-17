@@ -1,5 +1,5 @@
 ---
-display_name: Get Curves
+title: Get Curves
 order: 4
 ---
 ## Navigation

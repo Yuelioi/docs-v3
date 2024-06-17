@@ -1,5 +1,5 @@
 ---
-display_name: Is Proxy Valid
+title: Is Proxy Valid
 order: 1
 ---
 ## Navigation

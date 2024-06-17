@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Send File as Byte Array
+title: Streamer Send File as Byte Array
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: resolvemissedray
+title: resolvemissedray
 order: 66
 ---
 | Context(s) | [shading](../contexts/shading.html) |

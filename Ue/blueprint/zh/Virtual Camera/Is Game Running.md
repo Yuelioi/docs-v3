@@ -1,5 +1,5 @@
 ---
-display_name: Is Game Running
+title: Is Game Running
 order: 15
 ---
 ## Navigation

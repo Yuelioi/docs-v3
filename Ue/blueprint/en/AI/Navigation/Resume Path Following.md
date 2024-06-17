@@ -1,5 +1,5 @@
 ---
-display_name: Resume Path Following
+title: Resume Path Following
 order: 35
 ---
 ## Navigation

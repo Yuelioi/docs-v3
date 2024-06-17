@@ -1,5 +1,5 @@
 ---
-display_name: ToCompactText
+title: ToCompactText
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Node Uids
+title: Get Target Node Uids
 order: 40
 ---
 ## Navigation

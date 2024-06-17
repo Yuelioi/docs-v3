@@ -1,5 +1,5 @@
 ---
-display_name: Begin Advanced Copy Packages
+title: Begin Advanced Copy Packages
 order: 2
 ---
 ## Navigation

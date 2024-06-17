@@ -1,5 +1,5 @@
 ---
-display_name: Clear Sound Mix Modifiers
+title: Clear Sound Mix Modifiers
 order: 5
 ---
 ## Navigation

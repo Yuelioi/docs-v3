@@ -1,5 +1,5 @@
 ---
-display_name: Set Cascade Transition Fraction
+title: Set Cascade Transition Fraction
 order: 9
 ---
 ## Navigation

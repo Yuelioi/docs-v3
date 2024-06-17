@@ -1,5 +1,5 @@
 ---
-display_name: Set Session Enqueue
+title: Set Session Enqueue
 order: 4
 ---
 ## Navigation

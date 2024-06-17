@@ -1,5 +1,5 @@
 ---
-display_name: Get Attribute Set
+title: Get Attribute Set
 order: 2
 ---
 ## Navigation

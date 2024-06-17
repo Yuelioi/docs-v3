@@ -1,5 +1,5 @@
 ---
-display_name: Montage Pause
+title: Montage Pause
 order: 17
 ---
 ## Navigation

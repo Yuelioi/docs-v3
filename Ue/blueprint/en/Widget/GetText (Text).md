@@ -1,5 +1,5 @@
 ---
-display_name: GetText (Text)
+title: GetText (Text)
 order: 51
 ---
 ## Navigation

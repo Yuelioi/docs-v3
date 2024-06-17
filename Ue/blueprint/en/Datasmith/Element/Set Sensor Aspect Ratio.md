@@ -1,5 +1,5 @@
 ---
-display_name: Set Sensor Aspect Ratio
+title: Set Sensor Aspect Ratio
 order: 133
 ---
 ## Navigation

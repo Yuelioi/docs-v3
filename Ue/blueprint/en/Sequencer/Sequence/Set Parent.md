@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent
+title: Set Parent
 order: 91
 ---
 ## Navigation

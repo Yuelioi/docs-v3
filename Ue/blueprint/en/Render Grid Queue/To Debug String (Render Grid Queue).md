@@ -1,5 +1,5 @@
 ---
-display_name: To Debug String (Render Grid Queue)
+title: To Debug String (Render Grid Queue)
 order: 25
 ---
 ## Navigation

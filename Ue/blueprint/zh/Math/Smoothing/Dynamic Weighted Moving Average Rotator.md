@@ -1,5 +1,5 @@
 ---
-display_name: Dynamic Weighted Moving Average Rotator
+title: Dynamic Weighted Moving Average Rotator
 order: 2
 ---
 ## Navigation

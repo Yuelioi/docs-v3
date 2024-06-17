@@ -1,5 +1,5 @@
 ---
-display_name: Set Parameters
+title: Set Parameters
 order: 30
 ---
 ## Navigation

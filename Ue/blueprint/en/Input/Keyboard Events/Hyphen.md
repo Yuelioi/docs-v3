@@ -1,5 +1,5 @@
 ---
-display_name: Hyphen
+title: Hyphen
 order: 50
 ---
 ## Navigation

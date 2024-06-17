@@ -1,5 +1,5 @@
 ---
-display_name: Get Attach Parent
+title: Get Attach Parent
 order: 33
 ---
 ## Navigation

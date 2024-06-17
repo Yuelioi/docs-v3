@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Linear Velocity
+title: Get Bone Linear Velocity
 order: 66
 ---
 ## Navigation

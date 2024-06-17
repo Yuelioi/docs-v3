@@ -1,5 +1,5 @@
 ---
-display_name: Sign (Integer64)
+title: Sign (Integer64)
 order: 11
 ---
 ## Navigation

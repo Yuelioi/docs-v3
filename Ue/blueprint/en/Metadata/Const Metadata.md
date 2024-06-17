@@ -1,5 +1,5 @@
 ---
-display_name: Const Metadata
+title: Const Metadata
 order: 1
 ---
 ## Navigation

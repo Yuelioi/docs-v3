@@ -1,5 +1,5 @@
 ---
-display_name: Less Equal ( = )
+title: Less Equal ( = )
 order: 7
 ---
 ## Navigation

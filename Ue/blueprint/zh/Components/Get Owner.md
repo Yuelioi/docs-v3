@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner
+title: Get Owner
 order: 33
 ---
 ## Navigation

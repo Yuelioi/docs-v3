@@ -1,5 +1,5 @@
 ---
-display_name: To String (IntPoint)
+title: To String (IntPoint)
 order: 65
 ---
 ## Navigation

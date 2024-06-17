@@ -1,5 +1,5 @@
 ---
-display_name: Get AssetPack Location
+title: Get AssetPack Location
 order: 2
 ---
 ## Navigation

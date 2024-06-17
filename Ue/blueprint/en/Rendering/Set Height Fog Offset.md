@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Fog Offset
+title: Set Height Fog Offset
 order: 41
 ---
 ## Navigation

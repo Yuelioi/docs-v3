@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Bone Angular Velocity
+title: Get Cached Bone Angular Velocity
 order: 31
 ---
 ## Navigation

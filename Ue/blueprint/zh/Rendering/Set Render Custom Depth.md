@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Custom Depth
+title: Set Render Custom Depth
 order: 75
 ---
 ## Navigation

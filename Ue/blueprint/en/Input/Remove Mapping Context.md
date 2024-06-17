@@ -1,5 +1,5 @@
 ---
-display_name: Remove Mapping Context
+title: Remove Mapping Context
 order: 14
 ---
 ## Navigation

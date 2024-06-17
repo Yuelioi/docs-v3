@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Speed
+title: Get Move Speed
 order: 30
 ---
 ## Navigation

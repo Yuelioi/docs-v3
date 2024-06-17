@@ -1,5 +1,5 @@
 ---
-display_name: Set Multi-User Presence Visibility
+title: Set Multi-User Presence Visibility
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Effective Play Rate
+title: Montage Get Effective Play Rate
 order: 9
 ---
 ## Navigation

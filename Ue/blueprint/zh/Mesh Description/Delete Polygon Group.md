@@ -1,5 +1,5 @@
 ---
-display_name: Delete Polygon Group
+title: Delete Polygon Group
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Integer Parameter (Message)
+title: Set Integer Parameter (Message)
 order: 23
 ---
 ## Navigation

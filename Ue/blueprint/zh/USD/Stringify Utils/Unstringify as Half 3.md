@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Half 3
+title: Unstringify as Half 3
 order: 86
 ---
 ## Navigation

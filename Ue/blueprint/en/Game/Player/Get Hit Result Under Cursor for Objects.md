@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result Under Cursor for Objects
+title: Get Hit Result Under Cursor for Objects
 order: 12
 ---
 ## Navigation

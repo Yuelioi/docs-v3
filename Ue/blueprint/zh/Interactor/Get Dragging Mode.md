@@ -1,5 +1,5 @@
 ---
-display_name: Get Dragging Mode
+title: Get Dragging Mode
 order: 2
 ---
 ## Navigation

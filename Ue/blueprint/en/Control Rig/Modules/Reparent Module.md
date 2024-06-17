@@ -1,5 +1,5 @@
 ---
-display_name: Reparent Module
+title: Reparent Module
 order: 12
 ---
 ## Navigation

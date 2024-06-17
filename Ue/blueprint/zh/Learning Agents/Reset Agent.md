@@ -1,5 +1,5 @@
 ---
-display_name: Reset Agent
+title: Reset Agent
 order: 255
 ---
 ## Navigation

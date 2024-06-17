@@ -1,5 +1,5 @@
 ---
-display_name: Get Lens Preset by Name
+title: Get Lens Preset by Name
 order: 9
 ---
 ## Navigation

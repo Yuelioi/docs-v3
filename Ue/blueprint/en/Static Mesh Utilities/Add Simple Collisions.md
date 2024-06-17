@@ -1,5 +1,5 @@
 ---
-display_name: Add Simple Collisions
+title: Add Simple Collisions
 order: 2
 ---
 ## Navigation

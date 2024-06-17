@@ -1,5 +1,5 @@
 ---
-display_name: hedge_nextequiv
+title: hedge_nextequiv
 order: 8
 ---
 `int  hedge_nextequiv(<geometry>geometry, int hedge)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Variable as String
+title: Get Variable as String
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset and Teleport
+title: Reset and Teleport
 order: 13
 ---
 ## Navigation

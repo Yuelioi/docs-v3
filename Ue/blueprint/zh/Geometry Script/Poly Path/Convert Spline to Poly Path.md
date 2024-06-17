@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Poly Path
+title: Convert Spline to Poly Path
 order: 7
 ---
 ## Navigation

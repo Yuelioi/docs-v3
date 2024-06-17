@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Element (Message)
+title: Get Parent Element (Message)
 order: 3
 ---
 ## Navigation

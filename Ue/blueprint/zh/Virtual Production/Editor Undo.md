@@ -1,5 +1,5 @@
 ---
-display_name: Editor Undo
+title: Editor Undo
 order: 5
 ---
 ## Navigation

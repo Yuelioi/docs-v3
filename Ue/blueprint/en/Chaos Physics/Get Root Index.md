@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Index
+title: Get Root Index
 order: 16
 ---
 ## Navigation

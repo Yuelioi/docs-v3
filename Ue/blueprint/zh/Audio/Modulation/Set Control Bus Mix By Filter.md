@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Bus Mix By Filter
+title: Set Control Bus Mix By Filter
 order: 26
 ---
 ## Navigation

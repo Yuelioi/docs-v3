@@ -1,5 +1,5 @@
 ---
-display_name: Set String Array Parameter (Message)
+title: Set String Array Parameter (Message)
 order: 31
 ---
 ## Navigation

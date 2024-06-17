@@ -1,5 +1,5 @@
 ---
-display_name: Set Collect Metadata
+title: Set Collect Metadata
 order: 2
 ---
 ## Navigation

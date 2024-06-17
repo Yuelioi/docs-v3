@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision
+title: Set Collision
 order: 20
 ---
 ## Navigation

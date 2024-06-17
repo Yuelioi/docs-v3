@@ -1,5 +1,5 @@
 ---
-display_name: Get APIVersion
+title: Get APIVersion
 order: 39
 ---
 ## Navigation

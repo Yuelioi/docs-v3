@@ -1,5 +1,5 @@
 ---
-display_name: 设置通道
+title: 设置通道
 order: 10
 ---
 

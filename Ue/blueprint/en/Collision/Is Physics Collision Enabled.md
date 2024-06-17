@@ -1,5 +1,5 @@
 ---
-display_name: Is Physics Collision Enabled
+title: Is Physics Collision Enabled
 order: 39
 ---
 ## Navigation

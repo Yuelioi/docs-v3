@@ -1,5 +1,5 @@
 ---
-display_name: Create Canvas Render Target 2D
+title: Create Canvas Render Target 2D
 order: 1
 ---
 ## Navigation

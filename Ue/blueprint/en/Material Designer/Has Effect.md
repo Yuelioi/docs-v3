@@ -1,5 +1,5 @@
 ---
-display_name: Has Effect
+title: Has Effect
 order: 156
 ---
 ## Navigation

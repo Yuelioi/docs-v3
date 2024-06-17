@@ -1,6 +1,6 @@
 ---
 order: 5
-display_name: 差值遮罩
+title: 差值遮罩
 ---
 
 # Difference Matte - 差值遮罩

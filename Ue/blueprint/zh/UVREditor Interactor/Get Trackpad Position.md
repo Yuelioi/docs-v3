@@ -1,5 +1,5 @@
 ---
-display_name: Get Trackpad Position
+title: Get Trackpad Position
 order: 9
 ---
 ## Navigation

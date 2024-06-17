@@ -1,5 +1,5 @@
 ---
-display_name: Get Count in Seconds
+title: Get Count in Seconds
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pack_inttosafefloat
+title: pack_inttosafefloat
 order: 10
 ---
 `float  pack_inttosafefloat(int i)`

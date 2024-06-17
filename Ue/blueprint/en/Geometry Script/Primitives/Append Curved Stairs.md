@@ -1,5 +1,5 @@
 ---
-display_name: Append Curved Stairs
+title: Append Curved Stairs
 order: 5
 ---
 ## Navigation

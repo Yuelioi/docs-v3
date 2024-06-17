@@ -1,5 +1,5 @@
 ---
-display_name: sample_sphere_cone
+title: sample_sphere_cone
 order: 28
 ---
 `vector  sample_sphere_cone(vector center, float maxangle, vector u)`

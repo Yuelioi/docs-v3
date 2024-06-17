@@ -1,5 +1,5 @@
 ---
-display_name: Update
+title: Update
 order: 4
 ---
 ## Navigation

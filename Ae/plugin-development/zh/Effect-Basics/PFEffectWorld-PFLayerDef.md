@@ -1,5 +1,5 @@
 ---
-display_name: PF_EffectWorld--PF_LayerDef
+title: PF_EffectWorld--PF_LayerDef
 order: 5
 ---
 

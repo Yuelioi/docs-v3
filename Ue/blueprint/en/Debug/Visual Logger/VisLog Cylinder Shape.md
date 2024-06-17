@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Cylinder Shape
+title: VisLog Cylinder Shape
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Granted Tags
+title: Get Granted Tags
 order: 20
 ---
 ## Navigation

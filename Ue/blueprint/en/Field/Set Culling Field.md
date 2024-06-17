@@ -1,5 +1,5 @@
 ---
-display_name: Set Culling Field
+title: Set Culling Field
 order: 16
 ---
 ## Navigation

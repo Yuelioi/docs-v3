@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawn Rate
+title: Set Spawn Rate
 order: 60
 ---
 ## Navigation

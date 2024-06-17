@@ -1,5 +1,5 @@
 ---
-display_name: Get Model Skeleton
+title: Get Model Skeleton
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale at Spline Point
+title: Set Scale at Spline Point
 order: 86
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get ViewportStatsSubsystem
+title: Get ViewportStatsSubsystem
 order: 75
 ---
 ## Navigation

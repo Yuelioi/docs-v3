@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input Slot
+title: Change Stage Input Slot
 order: 27
 ---
 ## Navigation

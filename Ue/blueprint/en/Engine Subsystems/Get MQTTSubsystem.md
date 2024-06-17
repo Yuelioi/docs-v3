@@ -1,5 +1,5 @@
 ---
-display_name: Get MQTTSubsystem
+title: Get MQTTSubsystem
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add File
+title: Add File
 order: 1
 ---
 ## Navigation

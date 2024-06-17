@@ -1,5 +1,5 @@
 ---
-display_name: Is Event Listening
+title: Is Event Listening
 order: 3
 ---
 ## Navigation

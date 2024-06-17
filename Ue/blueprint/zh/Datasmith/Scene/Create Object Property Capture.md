@@ -1,5 +1,5 @@
 ---
-display_name: Create Object Property Capture
+title: Create Object Property Capture
 order: 8
 ---
 ## Navigation

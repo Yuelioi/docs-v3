@@ -1,5 +1,5 @@
 ---
-display_name: Apply Point Damage
+title: Apply Point Damage
 order: 2
 ---
 ## Navigation

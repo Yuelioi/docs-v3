@@ -1,5 +1,5 @@
 ---
-display_name: Get Sub Sequence Hierarchy
+title: Get Sub Sequence Hierarchy
 order: 36
 ---
 ## Navigation

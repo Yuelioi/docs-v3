@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Sampler Data
+title: Set Custom Sampler Data
 order: 58
 ---
 ## Navigation

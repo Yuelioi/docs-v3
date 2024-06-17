@@ -1,5 +1,5 @@
 ---
-display_name: Select Elements from List
+title: Select Elements from List
 order: 26
 ---
 ## Navigation

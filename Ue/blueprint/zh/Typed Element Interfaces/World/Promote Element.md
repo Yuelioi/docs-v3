@@ -1,5 +1,5 @@
 ---
-display_name: Promote Element
+title: Promote Element
 order: 38
 ---
 ## Navigation

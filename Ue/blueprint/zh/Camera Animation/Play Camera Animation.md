@@ -1,5 +1,5 @@
 ---
-display_name: Play Camera Animation
+title: Play Camera Animation
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Gray
+title: Linear Color Gray
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward on Location Difference Below Threshold
+title: Make Reward on Location Difference Below Threshold
 order: 227
 ---
 ## Navigation

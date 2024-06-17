@@ -1,5 +1,5 @@
 ---
-display_name: Get Focal Length Point
+title: Get Focal Length Point
 order: 10
 ---
 ## Navigation

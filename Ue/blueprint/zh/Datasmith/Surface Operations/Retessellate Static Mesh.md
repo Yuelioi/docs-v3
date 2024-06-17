@@ -1,5 +1,5 @@
 ---
-display_name: Retessellate Static Mesh
+title: Retessellate Static Mesh
 order: 1
 ---
 ## Navigation

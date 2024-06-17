@@ -1,5 +1,5 @@
 ---
-display_name: Make Vector 2D
+title: Make Vector 2D
 order: 15
 ---
 ## Navigation

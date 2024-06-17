@@ -1,5 +1,5 @@
 ---
-display_name: Save Property Set Settings
+title: Save Property Set Settings
 order: 5
 ---
 ## Navigation

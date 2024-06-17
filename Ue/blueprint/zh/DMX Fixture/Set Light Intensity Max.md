@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Intensity Max
+title: Set Light Intensity Max
 order: 7
 ---
 ## Navigation

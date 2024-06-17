@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertical Field Of View
+title: Get Vertical Field Of View
 order: 30
 ---
 ## Navigation

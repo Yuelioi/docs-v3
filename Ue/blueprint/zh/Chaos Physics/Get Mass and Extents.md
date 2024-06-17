@@ -1,5 +1,5 @@
 ---
-display_name: Get Mass and Extents
+title: Get Mass and Extents
 order: 14
 ---
 ## Navigation

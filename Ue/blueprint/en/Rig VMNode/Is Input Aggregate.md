@@ -1,5 +1,5 @@
 ---
-display_name: Is Input Aggregate
+title: Is Input Aggregate
 order: 47
 ---
 ## Navigation

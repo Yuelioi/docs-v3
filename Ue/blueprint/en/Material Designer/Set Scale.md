@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale
+title: Set Scale
 order: 231
 ---
 ## Navigation

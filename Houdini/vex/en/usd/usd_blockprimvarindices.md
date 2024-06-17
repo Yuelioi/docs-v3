@@ -1,5 +1,5 @@
 ---
-display_name: usd_blockprimvarindices
+title: usd_blockprimvarindices
 order: 25
 ---
 | Since | 18.0 |

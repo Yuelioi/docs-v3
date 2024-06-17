@@ -1,5 +1,5 @@
 ---
-display_name: Register Object for Input
+title: Register Object for Input
 order: 24
 ---
 ## Navigation

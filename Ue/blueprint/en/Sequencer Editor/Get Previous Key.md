@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous Key
+title: Get Previous Key
 order: 4
 ---
 ## Navigation

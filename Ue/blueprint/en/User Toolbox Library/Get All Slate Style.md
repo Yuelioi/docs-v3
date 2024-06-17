@@ -1,5 +1,5 @@
 ---
-display_name: Get All Slate Style
+title: Get All Slate Style
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Properties
+title: Set Properties
 order: 28
 ---
 ## Navigation

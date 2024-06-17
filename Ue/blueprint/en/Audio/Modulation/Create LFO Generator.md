@@ -1,5 +1,5 @@
 ---
-display_name: Create LFO Generator
+title: Create LFO Generator
 order: 13
 ---
 ## Navigation

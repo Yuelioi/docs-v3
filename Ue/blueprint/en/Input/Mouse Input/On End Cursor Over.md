@@ -1,5 +1,5 @@
 ---
-display_name: On End Cursor Over
+title: On End Cursor Over
 order: 3
 ---
 ## Navigation

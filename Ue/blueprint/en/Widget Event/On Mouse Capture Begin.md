@@ -1,5 +1,5 @@
 ---
-display_name: On Mouse Capture Begin
+title: On Mouse Capture Begin
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Take Automation Screenshot
+title: Take Automation Screenshot
 order: 36
 ---
 ## Navigation

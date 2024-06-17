@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Pose Context
+title: Convert to Pose Context
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: To Integer64 (Float)
+title: To Integer64 (Float)
 order: 18
 ---
 ## Navigation

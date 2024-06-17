@@ -1,5 +1,5 @@
 ---
-display_name: Is Animation Playing Forward
+title: Is Animation Playing Forward
 order: 3
 ---
 ## Navigation

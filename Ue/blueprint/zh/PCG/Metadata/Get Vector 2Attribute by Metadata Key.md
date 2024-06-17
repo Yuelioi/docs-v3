@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 2Attribute by Metadata Key
+title: Get Vector 2Attribute by Metadata Key
 order: 52
 ---
 ## Navigation

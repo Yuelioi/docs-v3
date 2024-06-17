@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor to Data Layer
+title: Add Actor to Data Layer
 order: 1
 ---
 ## Navigation

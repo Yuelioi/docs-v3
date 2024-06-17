@@ -1,5 +1,5 @@
 ---
-display_name: Get Minimum LODFor Quality Level
+title: Get Minimum LODFor Quality Level
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Move Binding Contents
+title: Move Binding Contents
 order: 70
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Sources
+title: Get Sources
 order: 7
 ---
 ## Navigation

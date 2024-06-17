@@ -1,5 +1,5 @@
 ---
-display_name: Play World Camera Shake
+title: Play World Camera Shake
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get ARDependency Handler
+title: Get ARDependency Handler
 order: 2
 ---
 ## Navigation

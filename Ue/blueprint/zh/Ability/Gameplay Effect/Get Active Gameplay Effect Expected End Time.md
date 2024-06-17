@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Expected End Time
+title: Get Active Gameplay Effect Expected End Time
 order: 8
 ---
 ## Navigation

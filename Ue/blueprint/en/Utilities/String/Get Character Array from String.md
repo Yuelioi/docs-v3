@@ -1,5 +1,5 @@
 ---
-display_name: Get Character Array from String
+title: Get Character Array from String
 order: 19
 ---
 ## Navigation

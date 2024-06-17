@@ -1,5 +1,5 @@
 ---
-display_name: Regenerate Population
+title: Regenerate Population
 order: 2
 ---
 ## Navigation

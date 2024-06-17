@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Path
+title: Get Source Path
 order: 31
 ---
 ## Navigation

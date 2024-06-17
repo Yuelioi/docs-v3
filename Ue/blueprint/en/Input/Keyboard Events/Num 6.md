@@ -1,5 +1,5 @@
 ---
-display_name: Num 6
+title: Num 6
 order: 75
 ---
 ## Navigation

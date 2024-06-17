@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter UIMetadata from Index
+title: Get Parameter UIMetadata from Index
 order: 15
 ---
 ## Navigation

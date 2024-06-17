@@ -1,5 +1,5 @@
 ---
-display_name: Get Loop Mode
+title: Get Loop Mode
 order: 24
 ---
 ## Navigation

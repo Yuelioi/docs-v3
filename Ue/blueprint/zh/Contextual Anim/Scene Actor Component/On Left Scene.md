@@ -1,5 +1,5 @@
 ---
-display_name: On Left Scene
+title: On Left Scene
 order: 7
 ---
 ## Navigation

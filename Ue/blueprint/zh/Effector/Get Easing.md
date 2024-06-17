@@ -1,5 +1,5 @@
 ---
-display_name: Get Easing
+title: Get Easing
 order: 1
 ---
 ## Navigation

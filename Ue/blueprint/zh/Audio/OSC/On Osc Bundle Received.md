@@ -1,5 +1,5 @@
 ---
-display_name: On Osc Bundle Received
+title: On Osc Bundle Received
 order: 57
 ---
 ## Navigation

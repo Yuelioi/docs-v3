@@ -1,5 +1,5 @@
 ---
-display_name: Get Month
+title: Get Month
 order: 21
 ---
 ## Navigation

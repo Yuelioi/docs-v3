@@ -1,5 +1,5 @@
 ---
-display_name: titlecase
+title: titlecase
 order: 40
 ---
 `string  titlecase(string str)`

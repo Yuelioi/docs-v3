@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Players
+title: Get Num Players
 order: 34
 ---
 ## Navigation

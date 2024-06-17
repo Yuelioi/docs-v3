@@ -1,5 +1,5 @@
 ---
-display_name: Get Download State
+title: Get Download State
 order: 6
 ---
 ## Navigation

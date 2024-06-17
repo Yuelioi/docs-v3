@@ -1,5 +1,5 @@
 ---
-display_name: Get Levels
+title: Get Levels
 order: 22
 ---
 ## Navigation

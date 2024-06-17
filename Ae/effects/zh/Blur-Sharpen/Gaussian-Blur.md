@@ -1,5 +1,5 @@
 ---
-display_name: 高斯模糊
+title: 高斯模糊
 order: 12
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Is Layout Active
+title: Is Layout Active
 order: 7
 ---
 ## Navigation

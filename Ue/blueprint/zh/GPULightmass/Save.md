@@ -1,5 +1,5 @@
 ---
-display_name: Save
+title: Save
 order: 6
 ---
 ## Navigation

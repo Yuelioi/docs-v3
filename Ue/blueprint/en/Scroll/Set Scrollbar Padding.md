@@ -1,5 +1,5 @@
 ---
-display_name: Set Scrollbar Padding
+title: Set Scrollbar Padding
 order: 10
 ---
 ## Navigation

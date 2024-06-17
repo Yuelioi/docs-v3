@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Remove
+title: Wait Gameplay Tag Remove
 order: 36
 ---
 ## Navigation

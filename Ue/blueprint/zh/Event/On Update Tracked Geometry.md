@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Geometry
+title: On Update Tracked Geometry
 order: 17
 ---
 ## Navigation

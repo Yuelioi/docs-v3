@@ -1,5 +1,5 @@
 ---
-display_name: On Cancel
+title: On Cancel
 order: 60
 ---
 ## Navigation

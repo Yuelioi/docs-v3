@@ -1,5 +1,5 @@
 ---
-display_name: Event GameplayCue.Test
+title: Event GameplayCue.Test
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Downsample Points
+title: Downsample Points
 order: 1
 ---
 ## Navigation

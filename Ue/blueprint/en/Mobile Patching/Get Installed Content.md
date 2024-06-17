@@ -1,5 +1,5 @@
 ---
-display_name: Get Installed Content
+title: Get Installed Content
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Render Layer
+title: Remove Render Layer
 order: 97
 ---
 ## Navigation

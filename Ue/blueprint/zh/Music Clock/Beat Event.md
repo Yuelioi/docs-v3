@@ -1,5 +1,5 @@
 ---
-display_name: Beat Event
+title: Beat Event
 order: 2
 ---
 ## Navigation

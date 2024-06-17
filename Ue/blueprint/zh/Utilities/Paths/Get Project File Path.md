@@ -1,5 +1,5 @@
 ---
-display_name: Get Project File Path
+title: Get Project File Path
 order: 46
 ---
 ## Navigation

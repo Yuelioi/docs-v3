@@ -1,5 +1,5 @@
 ---
-display_name: Set Move Speed
+title: Set Move Speed
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: To Rotator (Matrix)
+title: To Rotator (Matrix)
 order: 26
 ---
 ## Navigation

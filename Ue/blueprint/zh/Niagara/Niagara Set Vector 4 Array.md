@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Vector 4 Array
+title: Niagara Set Vector 4 Array
 order: 74
 ---
 ## Navigation

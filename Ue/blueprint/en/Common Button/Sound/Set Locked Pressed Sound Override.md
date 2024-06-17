@@ -1,5 +1,5 @@
 ---
-display_name: Set Locked Pressed Sound Override
+title: Set Locked Pressed Sound Override
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Finish Recording Output
+title: Finish Recording Output
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Determine Player Controllers
+title: Determine Player Controllers
 order: 27
 ---
 ## Navigation

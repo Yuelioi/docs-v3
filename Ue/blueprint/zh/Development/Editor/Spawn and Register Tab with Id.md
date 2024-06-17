@@ -1,5 +1,5 @@
 ---
-display_name: Spawn and Register Tab with Id
+title: Spawn and Register Tab with Id
 order: 32
 ---
 ## Navigation

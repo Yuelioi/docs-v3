@@ -1,5 +1,5 @@
 ---
-display_name: AddKeyframe
+title: AddKeyframe
 order: 1
 ---
 ## Navigation

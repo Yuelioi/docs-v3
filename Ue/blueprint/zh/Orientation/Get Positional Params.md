@@ -1,5 +1,5 @@
 ---
-display_name: Get Positional Params
+title: Get Positional Params
 order: 5
 ---
 ## Navigation

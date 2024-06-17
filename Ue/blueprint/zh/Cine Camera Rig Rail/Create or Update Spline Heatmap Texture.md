@@ -1,5 +1,5 @@
 ---
-display_name: Create or Update Spline Heatmap Texture
+title: Create or Update Spline Heatmap Texture
 order: 1
 ---
 ## Navigation

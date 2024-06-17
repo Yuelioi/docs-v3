@@ -1,5 +1,5 @@
 ---
-display_name: Attribute Property + 8X2个属性子类
+title: Attribute Property + 8X2个属性子类
 order: 3
 ---
 

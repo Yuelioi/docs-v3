@@ -1,5 +1,5 @@
 ---
-display_name: Is Playing Reversed
+title: Is Playing Reversed
 order: 13
 ---
 ## Navigation

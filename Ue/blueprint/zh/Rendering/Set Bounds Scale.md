@@ -1,5 +1,5 @@
 ---
-display_name: Set Bounds Scale
+title: Set Bounds Scale
 order: 19
 ---
 ## Navigation

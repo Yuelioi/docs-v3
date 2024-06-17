@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Multipliers
+title: Set Control Multipliers
 order: 89
 ---
 ## Navigation

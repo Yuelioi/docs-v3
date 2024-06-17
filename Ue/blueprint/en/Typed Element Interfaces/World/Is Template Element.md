@@ -1,5 +1,5 @@
 ---
-display_name: Is Template Element
+title: Is Template Element
 order: 30
 ---
 ## Navigation

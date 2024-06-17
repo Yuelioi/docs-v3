@@ -1,5 +1,5 @@
 ---
-display_name: SelectCurrentLocationAxisScaling
+title: SelectCurrentLocationAxisScaling
 order: 69
 ---
 ## Navigation

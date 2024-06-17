@@ -1,5 +1,5 @@
 ---
-display_name: Find Bone Path to Root
+title: Find Bone Path to Root
 order: 3
 ---
 ## Navigation

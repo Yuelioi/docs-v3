@@ -1,5 +1,5 @@
 ---
-display_name: Set Label Text
+title: Set Label Text
 order: 1
 ---
 ## Navigation

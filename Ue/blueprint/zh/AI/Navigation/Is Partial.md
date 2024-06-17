@@ -1,5 +1,5 @@
 ---
-display_name: Is Partial
+title: Is Partial
 order: 22
 ---
 ## Navigation

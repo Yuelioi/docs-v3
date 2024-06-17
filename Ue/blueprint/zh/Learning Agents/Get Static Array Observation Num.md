@@ -1,5 +1,5 @@
 ---
-display_name: Get Static Array Observation Num
+title: Get Static Array Observation Num
 order: 119
 ---
 ## Navigation

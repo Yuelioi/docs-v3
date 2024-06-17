@@ -1,5 +1,5 @@
 ---
-display_name: Attach Subobject
+title: Attach Subobject
 order: 2
 ---
 ## Navigation

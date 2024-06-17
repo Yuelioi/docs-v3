@@ -1,5 +1,5 @@
 ---
-display_name: Has Any Children
+title: Has Any Children
 order: 9
 ---
 ## Navigation

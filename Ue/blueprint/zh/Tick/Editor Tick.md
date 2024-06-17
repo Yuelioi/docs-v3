@@ -1,5 +1,5 @@
 ---
-display_name: Editor Tick
+title: Editor Tick
 order: 2
 ---
 ## Navigation

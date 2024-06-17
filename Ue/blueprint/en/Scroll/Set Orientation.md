@@ -1,5 +1,5 @@
 ---
-display_name: Set Orientation
+title: Set Orientation
 order: 7
 ---
 ## Navigation

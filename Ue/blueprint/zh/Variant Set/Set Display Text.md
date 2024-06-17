@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Text
+title: Set Display Text
 order: 6
 ---
 ## Navigation

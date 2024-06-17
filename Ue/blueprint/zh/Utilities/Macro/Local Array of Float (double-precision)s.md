@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Float (double-precision)s
+title: Local Array of Float (double-precision)s
 order: 4
 ---
 ## Navigation

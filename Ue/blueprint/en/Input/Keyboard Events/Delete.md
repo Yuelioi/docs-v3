@@ -1,5 +1,5 @@
 ---
-display_name: Delete
+title: Delete
 order: 25
 ---
 ## Navigation

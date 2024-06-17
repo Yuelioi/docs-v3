@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Animation State
+title: Convert to Animation State
 order: 2
 ---
 ## Navigation

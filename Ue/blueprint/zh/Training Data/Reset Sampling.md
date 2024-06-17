@@ -1,5 +1,5 @@
 ---
-display_name: Reset Sampling
+title: Reset Sampling
 order: 8
 ---
 ## Navigation

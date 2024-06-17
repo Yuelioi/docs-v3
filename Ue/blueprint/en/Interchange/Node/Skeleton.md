@@ -1,5 +1,5 @@
 ---
-display_name: Skeleton
+title: Skeleton
 order: 78
 ---
 ## Navigation

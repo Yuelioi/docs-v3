@@ -1,5 +1,5 @@
 ---
-display_name: Generate Thumbnail for Snapshot Asset
+title: Generate Thumbnail for Snapshot Asset
 order: 5
 ---
 ## Navigation

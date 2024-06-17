@@ -1,5 +1,5 @@
 ---
-display_name: Remove Nodes
+title: Remove Nodes
 order: 9
 ---
 ## Navigation

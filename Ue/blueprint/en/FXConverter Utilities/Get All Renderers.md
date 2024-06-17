@@ -1,5 +1,5 @@
 ---
-display_name: Get All Renderers
+title: Get All Renderers
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Section Using Cloth
+title: Is Section Using Cloth
 order: 11
 ---
 ## Navigation

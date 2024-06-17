@@ -1,5 +1,5 @@
 ---
-display_name: 色阶
+title: 色阶
 order: 25
 ---
 

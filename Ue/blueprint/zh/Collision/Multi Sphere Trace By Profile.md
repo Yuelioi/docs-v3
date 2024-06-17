@@ -1,5 +1,5 @@
 ---
-display_name: Multi Sphere Trace By Profile
+title: Multi Sphere Trace By Profile
 order: 56
 ---
 ## Navigation

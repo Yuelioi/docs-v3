@@ -1,5 +1,5 @@
 ---
-display_name: In Range (Float)
+title: In Range (Float)
 order: 16
 ---
 ## Navigation

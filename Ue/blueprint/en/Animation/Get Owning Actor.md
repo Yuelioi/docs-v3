@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Actor
+title: Get Owning Actor
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable from Float
+title: Set Console Variable from Float
 order: 9
 ---
 ## Navigation

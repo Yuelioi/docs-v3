@@ -1,5 +1,5 @@
 ---
-display_name: Get Generated Component
+title: Get Generated Component
 order: 9
 ---
 ## Navigation

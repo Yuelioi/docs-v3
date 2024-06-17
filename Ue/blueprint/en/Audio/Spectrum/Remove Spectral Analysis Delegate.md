@@ -1,5 +1,5 @@
 ---
-display_name: Remove Spectral Analysis Delegate
+title: Remove Spectral Analysis Delegate
 order: 2
 ---
 ## Navigation

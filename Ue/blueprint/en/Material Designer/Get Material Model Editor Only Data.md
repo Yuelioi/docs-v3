@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Model Editor Only Data
+title: Get Material Model Editor Only Data
 order: 93
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get VR Focus State
+title: Get VR Focus State
 order: 11
 ---
 ## Navigation

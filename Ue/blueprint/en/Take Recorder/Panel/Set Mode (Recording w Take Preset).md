@@ -1,5 +1,5 @@
 ---
-display_name: Set Mode (Recording w Take Preset)
+title: Set Mode (Recording w Take Preset)
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Label Only on Hover
+title: Set Show Label Only on Hover
 order: 74
 ---
 ## Navigation

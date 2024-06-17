@@ -1,5 +1,5 @@
 ---
-display_name: On Jump State Change
+title: On Jump State Change
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Command from Current Preset
+title: Remove Command from Current Preset
 order: 10
 ---
 ## Navigation

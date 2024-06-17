@@ -1,5 +1,5 @@
 ---
-display_name: Create Integer 32Attribute
+title: Create Integer 32Attribute
 order: 13
 ---
 ## Navigation

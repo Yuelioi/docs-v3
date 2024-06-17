@@ -1,5 +1,5 @@
 ---
-display_name: On Water Body Changed
+title: On Water Body Changed
 order: 25
 ---
 ## Navigation

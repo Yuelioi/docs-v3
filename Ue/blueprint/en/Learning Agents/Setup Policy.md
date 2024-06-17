@@ -1,5 +1,5 @@
 ---
-display_name: Setup Policy
+title: Setup Policy
 order: 271
 ---
 ## Navigation

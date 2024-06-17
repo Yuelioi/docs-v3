@@ -1,5 +1,5 @@
 ---
-display_name: Create Control Bus Mix
+title: Create Control Bus Mix
 order: 10
 ---
 ## Navigation

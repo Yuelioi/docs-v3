@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Color
+title: Get Value Color
 order: 6
 ---
 ## Navigation

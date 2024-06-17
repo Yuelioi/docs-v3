@@ -1,5 +1,5 @@
 ---
-display_name: Specify Inclusive Union Action
+title: Specify Inclusive Union Action
 order: 306
 ---
 ## Navigation

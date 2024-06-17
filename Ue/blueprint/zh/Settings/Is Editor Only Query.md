@@ -1,5 +1,5 @@
 ---
-display_name: Is Editor Only Query
+title: Is Editor Only Query
 order: 77
 ---
 ## Navigation

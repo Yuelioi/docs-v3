@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Rotation
+title: Set Control Rotation
 order: 27
 ---
 ## Navigation

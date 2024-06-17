@@ -1,5 +1,5 @@
 ---
-display_name: Get Cable Particle Locations
+title: Get Cable Particle Locations
 order: 3
 ---
 ## Navigation

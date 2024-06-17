@@ -1,5 +1,5 @@
 ---
-display_name: Set Key Profile
+title: Set Key Profile
 order: 31
 ---
 ## Navigation

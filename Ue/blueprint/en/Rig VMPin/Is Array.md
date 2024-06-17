@@ -1,5 +1,5 @@
 ---
-display_name: Is Array
+title: Is Array
 order: 34
 ---
 ## Navigation

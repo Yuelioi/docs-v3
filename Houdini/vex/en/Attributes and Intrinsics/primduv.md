@@ -1,5 +1,5 @@
 ---
-display_name: primduv
+title: primduv
 order: 51
 ---
 `vector  primduv(<geometry>geometry, int prim_number, vector2 uv, int du, int dv)`

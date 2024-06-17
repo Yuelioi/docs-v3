@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Focusable
+title: Set Window Focusable
 order: 52
 ---
 ## Navigation

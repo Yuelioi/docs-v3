@@ -1,5 +1,5 @@
 ---
-display_name: Copy Camera Settings to Scene Capture
+title: Copy Camera Settings to Scene Capture
 order: 3
 ---
 ## Navigation

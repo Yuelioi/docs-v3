@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Drive Params
+title: Get Angular Drive Params
 order: 4
 ---
 ## Navigation

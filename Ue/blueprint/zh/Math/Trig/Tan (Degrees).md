@@ -1,5 +1,5 @@
 ---
-display_name: Tan (Degrees)
+title: Tan (Degrees)
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Struct
+title: Parse Json as Struct
 order: 23
 ---
 ## Navigation

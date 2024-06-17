@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Sequence
+title: Set Level Sequence
 order: 39
 ---
 ## Navigation

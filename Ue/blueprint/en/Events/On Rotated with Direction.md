@@ -1,5 +1,5 @@
 ---
-display_name: On Rotated with Direction
+title: On Rotated with Direction
 order: 27
 ---
 ## Navigation

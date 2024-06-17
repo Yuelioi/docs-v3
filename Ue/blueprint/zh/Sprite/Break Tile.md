@@ -1,5 +1,5 @@
 ---
-display_name: Break Tile
+title: Break Tile
 order: 2
 ---
 ## Navigation

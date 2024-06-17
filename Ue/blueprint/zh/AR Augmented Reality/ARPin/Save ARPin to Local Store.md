@@ -1,5 +1,5 @@
 ---
-display_name: Save ARPin to Local Store
+title: Save ARPin to Local Store
 order: 11
 ---
 ## Navigation

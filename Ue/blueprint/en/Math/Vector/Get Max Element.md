@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Element
+title: Get Max Element
 order: 20
 ---
 ## Navigation

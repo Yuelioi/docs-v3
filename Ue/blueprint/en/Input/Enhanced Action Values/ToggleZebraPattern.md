@@ -1,5 +1,5 @@
 ---
-display_name: ToggleZebraPattern
+title: ToggleZebraPattern
 order: 122
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Class Path Name (Top Level Asset Path)
+title: Get Class Path Name (Top Level Asset Path)
 order: 11
 ---
 ## Navigation

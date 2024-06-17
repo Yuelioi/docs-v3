@@ -1,5 +1,5 @@
 ---
-display_name: Get Text3DEngineSubsystem
+title: Get Text3DEngineSubsystem
 order: 46
 ---
 ## Navigation

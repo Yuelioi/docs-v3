@@ -1,5 +1,5 @@
 ---
-display_name: Load Game from Slot
+title: Load Game from Slot
 order: 6
 ---
 ## Navigation

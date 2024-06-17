@@ -1,5 +1,5 @@
 ---
-display_name: Is AR Session Tracking Feature Supported
+title: Is AR Session Tracking Feature Supported
 order: 6
 ---
 ## Navigation

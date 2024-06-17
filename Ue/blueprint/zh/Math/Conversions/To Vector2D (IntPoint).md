@@ -1,5 +1,5 @@
 ---
-display_name: To Vector2D (IntPoint)
+title: To Vector2D (IntPoint)
 order: 36
 ---
 ## Navigation

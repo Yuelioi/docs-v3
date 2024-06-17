@@ -1,5 +1,5 @@
 ---
-display_name: Set Show Effect when Disabled
+title: Set Show Effect when Disabled
 order: 73
 ---
 ## Navigation

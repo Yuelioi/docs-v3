@@ -1,5 +1,5 @@
 ---
-display_name: Reset Anim Instance Dynamics
+title: Reset Anim Instance Dynamics
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Alignment
+title: Set Alignment
 order: 9
 ---
 ## Navigation

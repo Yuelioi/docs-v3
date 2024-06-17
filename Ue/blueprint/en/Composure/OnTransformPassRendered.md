@@ -1,5 +1,5 @@
 ---
-display_name: OnTransformPassRendered
+title: OnTransformPassRendered
 order: 10
 ---
 ## Navigation

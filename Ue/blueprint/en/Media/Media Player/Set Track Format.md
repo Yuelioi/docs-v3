@@ -1,5 +1,5 @@
 ---
-display_name: Set Track Format
+title: Set Track Format
 order: 79
 ---
 ## Navigation

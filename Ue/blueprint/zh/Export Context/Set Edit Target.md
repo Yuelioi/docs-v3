@@ -1,5 +1,5 @@
 ---
-display_name: Set Edit Target
+title: Set Edit Target
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set UObject Reader Property Remap
+title: Set UObject Reader Property Remap
 order: 71
 ---
 ## Navigation

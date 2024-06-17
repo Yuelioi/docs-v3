@@ -1,5 +1,5 @@
 ---
-display_name: ocio_parsecolorspace
+title: ocio_parsecolorspace
 order: 4
 ---
 | Since | 18.0 |

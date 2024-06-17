@@ -1,5 +1,5 @@
 ---
-display_name: On Hovered
+title: On Hovered
 order: 10
 ---
 ## Navigation

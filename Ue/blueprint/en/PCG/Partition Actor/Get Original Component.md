@@ -1,5 +1,5 @@
 ---
-display_name: Get Original Component
+title: Get Original Component
 order: 2
 ---
 ## Navigation

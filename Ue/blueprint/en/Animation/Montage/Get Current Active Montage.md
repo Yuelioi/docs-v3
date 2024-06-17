@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Active Montage
+title: Get Current Active Montage
 order: 2
 ---
 ## Navigation

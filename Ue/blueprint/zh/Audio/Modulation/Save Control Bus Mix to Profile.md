@@ -1,5 +1,5 @@
 ---
-display_name: Save Control Bus Mix to Profile
+title: Save Control Bus Mix to Profile
 order: 25
 ---
 ## Navigation

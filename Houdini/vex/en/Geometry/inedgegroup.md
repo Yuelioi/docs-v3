@@ -1,5 +1,5 @@
 ---
-display_name: inedgegroup
+title: inedgegroup
 order: 7
 ---
 `int  inedgegroup(string filename, string groupname, int pointnum0, int pointnum1)`

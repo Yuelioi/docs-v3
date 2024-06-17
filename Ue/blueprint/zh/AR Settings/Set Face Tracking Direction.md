@@ -1,5 +1,5 @@
 ---
-display_name: Set Face Tracking Direction
+title: Set Face Tracking Direction
 order: 24
 ---
 ## Navigation

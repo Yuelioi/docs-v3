@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator (Matrix)
+title: Get Rotator (Matrix)
 order: 16
 ---
 ## Navigation

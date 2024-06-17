@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Distribution Parameter Values
+title: Get Vector Distribution Parameter Values
 order: 111
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Events
+title: Events
 order: 1
 ---
 ## Navigation

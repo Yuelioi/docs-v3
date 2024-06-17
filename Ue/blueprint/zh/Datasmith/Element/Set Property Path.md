@@ -1,5 +1,5 @@
 ---
-display_name: Set Property Path
+title: Set Property Path
 order: 126
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Screen to Viewport
+title: Screen to Viewport
 order: 9
 ---
 ## Navigation

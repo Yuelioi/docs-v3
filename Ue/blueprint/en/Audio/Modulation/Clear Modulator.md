@@ -1,5 +1,5 @@
 ---
-display_name: Clear Modulator
+title: Clear Modulator
 order: 6
 ---
 ## Navigation

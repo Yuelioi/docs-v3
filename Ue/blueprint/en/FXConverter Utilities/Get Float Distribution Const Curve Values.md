@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Distribution Const Curve Values
+title: Get Float Distribution Const Curve Values
 order: 44
 ---
 ## Navigation

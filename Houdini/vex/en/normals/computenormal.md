@@ -1,5 +1,5 @@
 ---
-display_name: computenormal
+title: computenormal
 order: 1
 ---
 `vector  computenormal(vector P, ...)`

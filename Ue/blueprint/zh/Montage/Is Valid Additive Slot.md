@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Additive Slot
+title: Is Valid Additive Slot
 order: 11
 ---
 ## Navigation

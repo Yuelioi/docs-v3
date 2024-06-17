@@ -1,5 +1,5 @@
 ---
-display_name: Set Post Skinning Offsets
+title: Set Post Skinning Offsets
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC放慢
+title: CC放慢
 order: 2
 ---
 

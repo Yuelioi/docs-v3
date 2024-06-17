@@ -1,5 +1,5 @@
 ---
-display_name: Blur Mesh Vertex Colors
+title: Blur Mesh Vertex Colors
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Render Preset
+title: Set Default Render Preset
 order: 44
 ---
 ## Navigation

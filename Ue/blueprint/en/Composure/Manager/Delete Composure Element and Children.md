@@ -1,5 +1,5 @@
 ---
-display_name: Delete Composure Element and Children
+title: Delete Composure Element and Children
 order: 3
 ---
 ## Navigation

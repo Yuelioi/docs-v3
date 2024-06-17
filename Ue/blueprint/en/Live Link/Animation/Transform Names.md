@@ -1,5 +1,5 @@
 ---
-display_name: Transform Names
+title: Transform Names
 order: 10
 ---
 ## Navigation

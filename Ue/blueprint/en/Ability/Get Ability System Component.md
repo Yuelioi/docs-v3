@@ -1,5 +1,5 @@
 ---
-display_name: Get Ability System Component
+title: Get Ability System Component
 order: 36
 ---
 ## Navigation

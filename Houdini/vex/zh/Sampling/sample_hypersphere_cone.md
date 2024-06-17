@@ -1,5 +1,5 @@
 ---
-display_name: sample_hypersphere_cone
+title: sample_hypersphere_cone
 order: 19
 ---
 `vector4  sample_hypersphere_cone(vector4 center, float maxangle, vector4 u)`

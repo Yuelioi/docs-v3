@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Property at Spline Point
+title: Get Vector Property at Spline Point
 order: 77
 ---
 ## Navigation

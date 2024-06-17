@@ -1,5 +1,5 @@
 ---
-display_name: Are Subtitles Enabled
+title: Are Subtitles Enabled
 order: 1
 ---
 ## Navigation

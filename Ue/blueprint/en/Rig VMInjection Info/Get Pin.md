@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin
+title: Get Pin
 order: 2
 ---
 ## Navigation

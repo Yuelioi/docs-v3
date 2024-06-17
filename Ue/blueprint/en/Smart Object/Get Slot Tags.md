@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot Tags
+title: Get Slot Tags
 order: 23
 ---
 ## Navigation

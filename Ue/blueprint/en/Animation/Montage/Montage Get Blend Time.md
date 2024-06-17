@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Blend Time
+title: Montage Get Blend Time
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Controls in Set Enabled
+title: Set Controls in Set Enabled
 order: 121
 ---
 ## Navigation

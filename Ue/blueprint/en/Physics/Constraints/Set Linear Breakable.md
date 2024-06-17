@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Breakable
+title: Set Linear Breakable
 order: 46
 ---
 ## Navigation

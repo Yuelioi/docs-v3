@@ -1,5 +1,5 @@
 ---
-display_name: Is Element Selected
+title: Is Element Selected
 order: 12
 ---
 ## Navigation

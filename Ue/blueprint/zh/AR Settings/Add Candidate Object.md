@@ -1,5 +1,5 @@
 ---
-display_name: Add Candidate Object
+title: Add Candidate Object
 order: 2
 ---
 ## Navigation

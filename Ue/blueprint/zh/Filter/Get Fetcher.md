@@ -1,5 +1,5 @@
 ---
-display_name: Get Fetcher
+title: Get Fetcher
 order: 1
 ---
 ## Navigation

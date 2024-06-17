@@ -1,5 +1,5 @@
 ---
-display_name: Paste Normalized Elements from String
+title: Paste Normalized Elements from String
 order: 11
 ---
 ## Navigation

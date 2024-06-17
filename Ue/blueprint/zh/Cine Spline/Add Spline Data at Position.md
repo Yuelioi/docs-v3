@@ -1,5 +1,5 @@
 ---
-display_name: Add Spline Data at Position
+title: Add Spline Data at Position
 order: 1
 ---
 ## Navigation

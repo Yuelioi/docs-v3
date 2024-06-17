@@ -1,5 +1,5 @@
 ---
-display_name: Get Option Count
+title: Get Option Count
 order: 5
 ---
 ## Navigation

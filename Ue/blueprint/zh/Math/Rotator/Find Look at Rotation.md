@@ -1,5 +1,5 @@
 ---
-display_name: Find Look at Rotation
+title: Find Look at Rotation
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Float)
+title: Set Default (Float)
 order: 105
 ---
 ## Navigation

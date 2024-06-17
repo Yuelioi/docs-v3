@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Material
+title: Set Default Material
 order: 39
 ---
 ## Navigation

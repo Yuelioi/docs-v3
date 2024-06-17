@@ -1,5 +1,5 @@
 ---
-display_name: Set Color
+title: Set Color
 order: 108
 ---
 ## Navigation

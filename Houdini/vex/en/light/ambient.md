@@ -1,5 +1,5 @@
 ---
-display_name: ambient
+title: ambient
 order: 1
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Navigation Raycast
+title: Navigation Raycast
 order: 28
 ---
 ## Navigation

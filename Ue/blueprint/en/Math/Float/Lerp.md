@@ -1,5 +1,5 @@
 ---
-display_name: Lerp
+title: Lerp
 order: 17
 ---
 ## Navigation

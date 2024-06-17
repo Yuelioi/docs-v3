@@ -1,5 +1,5 @@
 ---
-display_name: Snap to Landscape
+title: Snap to Landscape
 order: 1
 ---
 ## Navigation

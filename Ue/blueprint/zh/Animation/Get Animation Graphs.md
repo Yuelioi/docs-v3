@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Graphs
+title: Get Animation Graphs
 order: 14
 ---
 ## Navigation

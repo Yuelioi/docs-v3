@@ -1,5 +1,5 @@
 ---
-display_name: Get Connection Point Target for Node
+title: Get Connection Point Target for Node
 order: 2
 ---
 ## Navigation

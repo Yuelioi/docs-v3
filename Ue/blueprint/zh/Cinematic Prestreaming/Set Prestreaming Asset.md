@@ -1,5 +1,5 @@
 ---
-display_name: Set Prestreaming Asset
+title: Set Prestreaming Asset
 order: 7
 ---
 ## Navigation

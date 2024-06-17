@@ -1,5 +1,5 @@
 ---
-display_name: Get Game State
+title: Get Game State
 order: 23
 ---
 ## Navigation

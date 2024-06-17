@@ -1,5 +1,5 @@
 ---
-display_name: VR旋转球面
+title: VR旋转球面
 order: 10
 ---
 

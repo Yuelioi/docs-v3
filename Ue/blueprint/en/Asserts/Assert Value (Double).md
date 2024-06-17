@@ -1,5 +1,5 @@
 ---
-display_name: Assert Value (Double)
+title: Assert Value (Double)
 order: 33
 ---
 ## Navigation

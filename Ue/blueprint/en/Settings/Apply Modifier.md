@@ -1,5 +1,5 @@
 ---
-display_name: Apply Modifier
+title: Apply Modifier
 order: 11
 ---
 ## Navigation

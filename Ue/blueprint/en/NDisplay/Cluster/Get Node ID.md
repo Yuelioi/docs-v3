@@ -1,5 +1,5 @@
 ---
-display_name: Get Node ID
+title: Get Node ID
 order: 5
 ---
 ## Navigation

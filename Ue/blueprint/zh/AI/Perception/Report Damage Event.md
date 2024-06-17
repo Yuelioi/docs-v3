@@ -1,5 +1,5 @@
 ---
-display_name: Report Damage Event
+title: Report Damage Event
 order: 15
 ---
 ## Navigation

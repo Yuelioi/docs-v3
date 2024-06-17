@@ -1,5 +1,5 @@
 ---
-display_name: Add Impulse to All Bodies Below
+title: Add Impulse to All Bodies Below
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ToName (DMX Protocol Name)
+title: ToName (DMX Protocol Name)
 order: 9
 ---
 ## Navigation

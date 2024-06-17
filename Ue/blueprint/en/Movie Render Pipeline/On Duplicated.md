@@ -1,5 +1,5 @@
 ---
-display_name: On Duplicated
+title: On Duplicated
 order: 79
 ---
 ## Navigation

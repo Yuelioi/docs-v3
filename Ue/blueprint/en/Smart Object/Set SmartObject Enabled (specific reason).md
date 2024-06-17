@@ -1,5 +1,5 @@
 ---
-display_name: Set SmartObject Enabled (specific reason)
+title: Set SmartObject Enabled (specific reason)
 order: 49
 ---
 ## Navigation

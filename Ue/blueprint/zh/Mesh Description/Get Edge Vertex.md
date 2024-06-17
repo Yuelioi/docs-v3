@@ -1,5 +1,5 @@
 ---
-display_name: Get Edge Vertex
+title: Get Edge Vertex
 order: 25
 ---
 ## Navigation

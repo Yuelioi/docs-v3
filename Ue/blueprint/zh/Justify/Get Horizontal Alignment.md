@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Alignment
+title: Get Horizontal Alignment
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Density Function
+title: Set Density Function
 order: 112
 ---
 ## Navigation

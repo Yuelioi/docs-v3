@@ -1,5 +1,5 @@
 ---
-display_name: Write Int
+title: Write Int
 order: 23
 ---
 ## Navigation

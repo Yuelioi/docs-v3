@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Key
+title: Is Valid Key
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Walk
+title: Walk
 order: 14
 ---
 ## Navigation

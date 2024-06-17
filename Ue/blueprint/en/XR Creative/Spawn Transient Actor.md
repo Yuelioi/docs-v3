@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Transient Actor
+title: Spawn Transient Actor
 order: 33
 ---
 ## Navigation

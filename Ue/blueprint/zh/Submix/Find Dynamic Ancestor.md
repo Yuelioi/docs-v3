@@ -1,5 +1,5 @@
 ---
-display_name: Find Dynamic Ancestor
+title: Find Dynamic Ancestor
 order: 3
 ---
 ## Navigation

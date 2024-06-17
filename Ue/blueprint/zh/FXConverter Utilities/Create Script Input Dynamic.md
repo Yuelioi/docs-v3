@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Dynamic
+title: Create Script Input Dynamic
 order: 16
 ---
 ## Navigation

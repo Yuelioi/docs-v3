@@ -1,5 +1,5 @@
 ---
-display_name: Set Tokenized Sequence Path
+title: Set Tokenized Sequence Path
 order: 6
 ---
 ## Navigation

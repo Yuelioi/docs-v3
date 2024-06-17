@@ -1,5 +1,5 @@
 ---
-display_name: agentrigfindchannel
+title: agentrigfindchannel
 order: 37
 ---
 | Since | 18.0 |

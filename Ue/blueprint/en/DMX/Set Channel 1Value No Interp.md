@@ -1,5 +1,5 @@
 ---
-display_name: Set Channel 1Value No Interp
+title: Set Channel 1Value No Interp
 order: 12
 ---
 ## Navigation

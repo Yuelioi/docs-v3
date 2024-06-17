@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Vector 2D
+title: Get Control Vector 2D
 order: 18
 ---
 ## Navigation

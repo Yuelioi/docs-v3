@@ -1,5 +1,5 @@
 ---
-display_name: Remove Async Targeting Request with Handle
+title: Remove Async Targeting Request with Handle
 order: 1
 ---
 ## Navigation

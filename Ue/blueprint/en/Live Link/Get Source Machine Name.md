@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Machine Name
+title: Get Source Machine Name
 order: 28
 ---
 ## Navigation

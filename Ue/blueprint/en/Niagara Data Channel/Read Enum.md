@@ -1,5 +1,5 @@
 ---
-display_name: Read Enum
+title: Read Enum
 order: 6
 ---
 ## Navigation

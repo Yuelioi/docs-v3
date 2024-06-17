@@ -1,5 +1,5 @@
 ---
-display_name: Get Content Slot
+title: Get Content Slot
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Instance Tags
+title: Get Instance Tags
 order: 18
 ---
 ## Navigation

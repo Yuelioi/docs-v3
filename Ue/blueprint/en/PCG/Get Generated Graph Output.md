@@ -1,5 +1,5 @@
 ---
-display_name: Get Generated Graph Output
+title: Get Generated Graph Output
 order: 7
 ---
 ## Navigation

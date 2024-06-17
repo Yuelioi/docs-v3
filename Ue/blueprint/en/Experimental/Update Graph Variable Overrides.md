@@ -1,5 +1,5 @@
 ---
-display_name: Update Graph Variable Overrides
+title: Update Graph Variable Overrides
 order: 35
 ---
 ## Navigation

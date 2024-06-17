@@ -1,5 +1,5 @@
 ---
-display_name: Delete Cloud Anchor
+title: Delete Cloud Anchor
 order: 3
 ---
 ## Navigation

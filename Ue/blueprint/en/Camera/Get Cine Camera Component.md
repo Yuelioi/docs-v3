@@ -1,5 +1,5 @@
 ---
-display_name: Get Cine Camera Component
+title: Get Cine Camera Component
 order: 10
 ---
 ## Navigation

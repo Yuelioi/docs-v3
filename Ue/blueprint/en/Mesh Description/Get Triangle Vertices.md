@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Vertices
+title: Get Triangle Vertices
 order: 56
 ---
 ## Navigation

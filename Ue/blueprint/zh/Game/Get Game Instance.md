@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Instance
+title: Get Game Instance
 order: 20
 ---
 ## Navigation

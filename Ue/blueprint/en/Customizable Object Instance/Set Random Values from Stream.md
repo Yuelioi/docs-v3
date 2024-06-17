@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Values from Stream
+title: Set Random Values from Stream
 order: 75
 ---
 ## Navigation

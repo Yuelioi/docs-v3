@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Current Section
+title: Montage Get Current Section
 order: 8
 ---
 ## Navigation

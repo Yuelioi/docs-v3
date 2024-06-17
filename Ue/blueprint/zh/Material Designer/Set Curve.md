@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve
+title: Set Curve
 order: 209
 ---
 ## Navigation

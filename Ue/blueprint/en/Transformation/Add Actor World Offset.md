@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor World Offset
+title: Add Actor World Offset
 order: 4
 ---
 ## Navigation

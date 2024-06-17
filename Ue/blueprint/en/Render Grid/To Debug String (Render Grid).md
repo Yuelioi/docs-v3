@@ -1,5 +1,5 @@
 ---
-display_name: To Debug String (Render Grid)
+title: To Debug String (Render Grid)
 order: 47
 ---
 ## Navigation

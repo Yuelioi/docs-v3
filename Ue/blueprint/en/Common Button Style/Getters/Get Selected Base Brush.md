@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Base Brush
+title: Get Selected Base Brush
 order: 11
 ---
 ## Navigation

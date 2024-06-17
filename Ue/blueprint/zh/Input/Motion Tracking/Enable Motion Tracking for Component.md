@@ -1,5 +1,5 @@
 ---
-display_name: Enable Motion Tracking for Component
+title: Enable Motion Tracking for Component
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Template Node
+title: Add Template Node
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On DMX Component Tick
+title: On DMX Component Tick
 order: 64
 ---
 ## Navigation

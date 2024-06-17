@@ -1,5 +1,5 @@
 ---
-display_name: agentfindtransformgroup
+title: agentfindtransformgroup
 order: 26
 ---
 `int  agentfindtransformgroup(<geometry>geometry, int prim, string transformgroup)`

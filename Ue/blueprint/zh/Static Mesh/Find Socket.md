@@ -1,5 +1,5 @@
 ---
-display_name: Find Socket
+title: Find Socket
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get String Const
+title: Get String Const
 order: 43
 ---
 ## Navigation

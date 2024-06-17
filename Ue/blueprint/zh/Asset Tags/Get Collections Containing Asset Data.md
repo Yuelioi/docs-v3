@@ -1,5 +1,5 @@
 ---
-display_name: Get Collections Containing Asset Data
+title: Get Collections Containing Asset Data
 order: 12
 ---
 ## Navigation

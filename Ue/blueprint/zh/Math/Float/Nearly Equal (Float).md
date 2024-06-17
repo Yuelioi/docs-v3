@@ -1,5 +1,5 @@
 ---
-display_name: Nearly Equal (Float)
+title: Nearly Equal (Float)
 order: 29
 ---
 ## Navigation

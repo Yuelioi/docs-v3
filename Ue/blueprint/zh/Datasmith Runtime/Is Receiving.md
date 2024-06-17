@@ -1,5 +1,5 @@
 ---
-display_name: Is Receiving
+title: Is Receiving
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Vector Inside (Box)
+title: Is Vector Inside (Box)
 order: 6
 ---
 ## Navigation

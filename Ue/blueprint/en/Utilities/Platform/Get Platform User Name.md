@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform User Name
+title: Get Platform User Name
 order: 10
 ---
 ## Navigation

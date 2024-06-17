@@ -1,5 +1,5 @@
 ---
-display_name: Get Time at Distance Along Spline
+title: Get Time at Distance Along Spline
 order: 67
 ---
 ## Navigation

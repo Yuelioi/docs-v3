@@ -1,5 +1,5 @@
 ---
-display_name: Box Trace For Objects
+title: Box Trace For Objects
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Draw Rect Width Height XY
+title: Draw Rect Width Height XY
 order: 2
 ---
 ## Navigation

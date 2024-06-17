@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Angle Similarity
+title: Make Reward from Angle Similarity
 order: 219
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalability Quality Level Relative to Max
+title: Set Scalability Quality Level Relative to Max
 order: 30
 ---
 ## Navigation

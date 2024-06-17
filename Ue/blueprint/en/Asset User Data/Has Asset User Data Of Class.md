@@ -1,5 +1,5 @@
 ---
-display_name: Has Asset User Data Of Class
+title: Has Asset User Data Of Class
 order: 6
 ---
 ## Navigation

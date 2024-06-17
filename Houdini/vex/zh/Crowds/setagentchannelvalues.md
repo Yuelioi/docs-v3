@@ -1,5 +1,5 @@
 ---
-display_name: setagentchannelvalues
+title: setagentchannelvalues
 order: 51
 ---
 | Since | 18.0 |

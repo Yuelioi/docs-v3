@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Source Expression
+title: Change Stage Source Expression
 order: 30
 ---
 ## Navigation

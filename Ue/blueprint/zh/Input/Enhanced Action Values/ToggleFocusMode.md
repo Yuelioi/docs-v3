@@ -1,5 +1,5 @@
 ---
-display_name: ToggleFocusMode
+title: ToggleFocusMode
 order: 110
 ---
 ## Navigation

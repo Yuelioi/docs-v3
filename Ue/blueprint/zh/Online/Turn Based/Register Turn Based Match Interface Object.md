@@ -1,5 +1,5 @@
 ---
-display_name: Register Turn Based Match Interface Object
+title: Register Turn Based Match Interface Object
 order: 8
 ---
 ## Navigation

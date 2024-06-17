@@ -1,5 +1,5 @@
 ---
-display_name: Set Data
+title: Set Data
 order: 64
 ---
 ## Navigation

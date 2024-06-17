@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Type
+title: Get Property Type
 order: 54
 ---
 ## Navigation

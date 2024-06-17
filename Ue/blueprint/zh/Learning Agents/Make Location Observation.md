@@ -1,5 +1,5 @@
 ---
-display_name: Make Location Observation
+title: Make Location Observation
 order: 202
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Special Right
+title: Gamepad Special Right
 order: 32
 ---
 ## Navigation

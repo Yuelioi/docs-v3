@@ -1,5 +1,5 @@
 ---
-display_name: Crouch
+title: Crouch
 order: 4
 ---
 ## Navigation

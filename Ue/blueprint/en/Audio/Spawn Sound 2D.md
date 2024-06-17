@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Sound 2D
+title: Spawn Sound 2D
 order: 21
 ---
 ## Navigation

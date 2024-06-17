@@ -1,5 +1,5 @@
 ---
-display_name: Get Flat Shading Enabled
+title: Get Flat Shading Enabled
 order: 3
 ---
 ## Navigation

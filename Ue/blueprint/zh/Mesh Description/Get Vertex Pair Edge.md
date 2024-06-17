@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Pair Edge
+title: Get Vertex Pair Edge
 order: 70
 ---
 ## Navigation

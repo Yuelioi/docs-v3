@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Gamepad Name
+title: Get Current Gamepad Name
 order: 1
 ---
 ## Navigation

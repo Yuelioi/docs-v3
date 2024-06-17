@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Matrix Fixture
+title: Initialize Matrix Fixture
 order: 2
 ---
 ## Navigation

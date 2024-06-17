@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Gameplay Tag Container
+title: Make Literal Gameplay Tag Container
 order: 32
 ---
 ## Navigation

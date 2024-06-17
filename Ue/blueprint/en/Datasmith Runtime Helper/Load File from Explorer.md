@@ -1,5 +1,5 @@
 ---
-display_name: Load File from Explorer
+title: Load File from Explorer
 order: 1
 ---
 ## Navigation

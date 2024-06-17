@@ -1,5 +1,5 @@
 ---
-display_name: Open Level Sequence
+title: Open Level Sequence
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PiPL-Resources
+title: PiPL-Resources
 order: 11
 ---
 

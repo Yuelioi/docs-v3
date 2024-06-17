@@ -1,5 +1,5 @@
 ---
-display_name: Get Static when Not Moveable
+title: Get Static when Not Moveable
 order: 90
 ---
 ## Navigation

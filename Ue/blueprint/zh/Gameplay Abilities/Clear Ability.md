@@ -1,5 +1,5 @@
 ---
-display_name: Clear Ability
+title: Clear Ability
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Tangent Mode
+title: Set Tangent Mode
 order: 114
 ---
 ## Navigation

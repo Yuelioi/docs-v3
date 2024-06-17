@@ -1,5 +1,5 @@
 ---
-display_name: OmCollection
+title: OmCollection
 order: 1
 ---
 

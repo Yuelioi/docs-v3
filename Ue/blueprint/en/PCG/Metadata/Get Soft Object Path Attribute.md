@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Object Path Attribute
+title: Get Soft Object Path Attribute
 order: 47
 ---
 ## Navigation

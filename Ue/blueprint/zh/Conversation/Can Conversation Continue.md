@@ -1,5 +1,5 @@
 ---
-display_name: Can Conversation Continue
+title: Can Conversation Continue
 order: 4
 ---
 ## Navigation

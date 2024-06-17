@@ -1,5 +1,5 @@
 ---
-display_name: Is Consumed
+title: Is Consumed
 order: 68
 ---
 ## Navigation

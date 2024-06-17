@@ -1,5 +1,5 @@
 ---
-display_name: Add Candidate Image
+title: Add Candidate Image
 order: 1
 ---
 ## Navigation

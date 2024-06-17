@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh UVs from Cylinder Projection
+title: Set Mesh UVs from Cylinder Projection
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Clock Running
+title: Is Clock Running
 order: 11
 ---
 ## Navigation

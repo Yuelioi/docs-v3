@@ -1,5 +1,5 @@
 ---
-display_name: Reset Rotation Offset
+title: Reset Rotation Offset
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Plane Spacing
+title: Get Plane Spacing
 order: 10
 ---
 ## Navigation

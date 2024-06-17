@@ -1,5 +1,5 @@
 ---
-display_name: Normalize In Place (Vector2D)
+title: Normalize In Place (Vector2D)
 order: 19
 ---
 ## Navigation

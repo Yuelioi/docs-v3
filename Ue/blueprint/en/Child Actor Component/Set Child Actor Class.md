@@ -1,5 +1,5 @@
 ---
-display_name: Set Child Actor Class
+title: Set Child Actor Class
 order: 1
 ---
 ## Navigation

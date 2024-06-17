@@ -1,5 +1,5 @@
 ---
-display_name: Set Extrapolate Frames
+title: Set Extrapolate Frames
 order: 20
 ---
 ## Navigation

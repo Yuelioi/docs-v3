@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Face
+title: On Remove Tracked Face
 order: 9
 ---
 ## Navigation

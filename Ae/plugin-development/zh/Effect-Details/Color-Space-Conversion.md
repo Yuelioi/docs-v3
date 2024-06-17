@@ -1,5 +1,5 @@
 ---
-display_name: Color-Space-Conversion
+title: Color-Space-Conversion
 order: 5
 ---
 

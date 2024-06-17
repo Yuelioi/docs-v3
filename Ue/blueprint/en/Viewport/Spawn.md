@@ -1,5 +1,5 @@
 ---
-display_name: Spawn
+title: Spawn
 order: 21
 ---
 ## Navigation

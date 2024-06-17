@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadows Enabled
+title: Set Shadows Enabled
 order: 19
 ---
 ## Navigation

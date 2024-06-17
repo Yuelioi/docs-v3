@@ -1,5 +1,5 @@
 ---
-display_name: Remove Color Parameter
+title: Remove Color Parameter
 order: 62
 ---
 ## Navigation

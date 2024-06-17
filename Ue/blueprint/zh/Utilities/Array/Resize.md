@@ -1,5 +1,5 @@
 ---
-display_name: Resize
+title: Resize
 order: 22
 ---
 ## Navigation

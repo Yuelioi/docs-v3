@@ -1,5 +1,5 @@
 ---
-display_name: Can Toggle Game View
+title: Can Toggle Game View
 order: 1
 ---
 ## Navigation

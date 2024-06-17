@@ -1,5 +1,5 @@
 ---
-display_name: Get Height
+title: Get Height
 order: 3
 ---
 ## Navigation

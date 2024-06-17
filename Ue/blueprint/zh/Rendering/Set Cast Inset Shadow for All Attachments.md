@@ -1,5 +1,5 @@
 ---
-display_name: Set Cast Inset Shadow for All Attachments
+title: Set Cast Inset Shadow for All Attachments
 order: 22
 ---
 ## Navigation

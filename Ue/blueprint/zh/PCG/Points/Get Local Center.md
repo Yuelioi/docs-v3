@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Center
+title: Get Local Center
 order: 2
 ---
 ## Navigation

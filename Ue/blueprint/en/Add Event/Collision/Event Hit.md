@@ -1,5 +1,5 @@
 ---
-display_name: Event Hit
+title: Event Hit
 order: 3
 ---
 ## Navigation

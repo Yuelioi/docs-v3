@@ -1,5 +1,5 @@
 ---
-display_name: Set Receives Decals
+title: Set Receives Decals
 order: 73
 ---
 ## Navigation

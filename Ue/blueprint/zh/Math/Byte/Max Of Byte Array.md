@@ -1,5 +1,5 @@
 ---
-display_name: Max Of Byte Array
+title: Max Of Byte Array
 order: 4
 ---
 ## Navigation

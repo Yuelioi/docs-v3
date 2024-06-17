@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Triangle UVElement IDs
+title: Get Mesh Triangle UVElement IDs
 order: 8
 ---
 ## Navigation

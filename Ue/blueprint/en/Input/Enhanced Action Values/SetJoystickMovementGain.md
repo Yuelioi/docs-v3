@@ -1,5 +1,5 @@
 ---
-display_name: SetJoystickMovementGain
+title: SetJoystickMovementGain
 order: 74
 ---
 ## Navigation

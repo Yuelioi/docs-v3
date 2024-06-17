@@ -1,5 +1,5 @@
 ---
-display_name: Next-Steps
+title: Next-Steps
 order: 9
 ---
 

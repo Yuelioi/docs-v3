@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifier in Node
+title: Get Modifier in Node
 order: 4
 ---
 ## Navigation

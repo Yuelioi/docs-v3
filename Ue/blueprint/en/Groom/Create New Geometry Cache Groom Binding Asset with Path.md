@@ -1,5 +1,5 @@
 ---
-display_name: Create New Geometry Cache Groom Binding Asset with Path
+title: Create New Geometry Cache Groom Binding Asset with Path
 order: 1
 ---
 ## Navigation

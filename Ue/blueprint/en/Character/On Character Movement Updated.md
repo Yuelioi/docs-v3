@@ -1,5 +1,5 @@
 ---
-display_name: On Character Movement Updated
+title: On Character Movement Updated
 order: 12
 ---
 ## Navigation

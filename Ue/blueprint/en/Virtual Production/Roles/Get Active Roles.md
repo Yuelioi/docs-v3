@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Roles
+title: Get Active Roles
 order: 3
 ---
 ## Navigation

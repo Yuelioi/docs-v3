@@ -1,5 +1,5 @@
 ---
-display_name: Assign Physics Asset
+title: Assign Physics Asset
 order: 1
 ---
 ## Navigation

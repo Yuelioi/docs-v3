@@ -1,5 +1,5 @@
 ---
-display_name: Suggest Projectile Velocity
+title: Suggest Projectile Velocity
 order: 56
 ---
 ## Navigation

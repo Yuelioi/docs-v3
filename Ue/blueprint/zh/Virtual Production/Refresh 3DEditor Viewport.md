@@ -1,5 +1,5 @@
 ---
-display_name: Refresh 3DEditor Viewport
+title: Refresh 3DEditor Viewport
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Receive Notifies from Linked Instances
+title: Get Receive Notifies from Linked Instances
 order: 2
 ---
 ## Navigation

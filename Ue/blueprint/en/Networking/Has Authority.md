@@ -1,5 +1,5 @@
 ---
-display_name: Has Authority
+title: Has Authority
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Expression
+title: Create Material Expression
 order: 5
 ---
 ## Navigation

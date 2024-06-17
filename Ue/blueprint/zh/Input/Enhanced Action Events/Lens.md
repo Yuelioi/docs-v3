@@ -1,5 +1,5 @@
 ---
-display_name: Lens
+title: Lens
 order: 34
 ---
 ## Navigation

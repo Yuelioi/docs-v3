@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Array Average
+title: Get Vector Array Average
 order: 28
 ---
 ## Navigation

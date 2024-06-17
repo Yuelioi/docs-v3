@@ -1,5 +1,5 @@
 ---
-display_name: Get MassStateTreeSubsystem
+title: Get MassStateTreeSubsystem
 order: 54
 ---
 ## Navigation

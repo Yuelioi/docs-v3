@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Body Component
+title: Get Water Body Component
 order: 14
 ---
 ## Navigation

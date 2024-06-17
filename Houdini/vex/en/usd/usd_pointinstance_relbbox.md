@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_relbbox
+title: usd_pointinstance_relbbox
 order: 103
 ---
 | Since | 18.0 |

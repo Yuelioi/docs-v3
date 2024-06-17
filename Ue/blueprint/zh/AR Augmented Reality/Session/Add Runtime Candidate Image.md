@@ -1,5 +1,5 @@
 ---
-display_name: Add Runtime Candidate Image
+title: Add Runtime Candidate Image
 order: 2
 ---
 ## Navigation

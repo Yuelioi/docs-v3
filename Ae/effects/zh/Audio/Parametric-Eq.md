@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: 参数均衡 Eq
+title: 参数均衡 Eq
 ---
 
 # Parametric Eq - 参数均衡

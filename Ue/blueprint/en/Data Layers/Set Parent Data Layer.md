@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Data Layer
+title: Set Parent Data Layer
 order: 49
 ---
 ## Navigation

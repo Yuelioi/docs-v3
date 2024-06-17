@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Vision Deficiency Type
+title: Set Color Vision Deficiency Type
 order: 1
 ---
 ## Navigation

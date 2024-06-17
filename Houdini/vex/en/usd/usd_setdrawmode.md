@@ -1,5 +1,5 @@
 ---
-display_name: usd_setdrawmode
+title: usd_setdrawmode
 order: 128
 ---
 | Since | 17.5 |

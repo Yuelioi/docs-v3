@@ -1,5 +1,5 @@
 ---
-display_name: Clear Selection
+title: Clear Selection
 order: 9
 ---
 ## Navigation

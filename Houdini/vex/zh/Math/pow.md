@@ -1,5 +1,5 @@
 ---
-display_name: pow
+title: pow
 order: 53
 ---
 `float  pow(float n, float exponent)`

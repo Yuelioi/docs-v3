@@ -1,5 +1,5 @@
 ---
-display_name: Play Page
+title: Play Page
 order: 3
 ---
 ## Navigation

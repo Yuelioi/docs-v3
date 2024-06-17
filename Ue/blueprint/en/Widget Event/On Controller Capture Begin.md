@@ -1,5 +1,5 @@
 ---
-display_name: On Controller Capture Begin
+title: On Controller Capture Begin
 order: 2
 ---
 ## Navigation

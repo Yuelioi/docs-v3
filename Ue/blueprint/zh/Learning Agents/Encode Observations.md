@@ -1,5 +1,5 @@
 ---
-display_name: Encode Observations
+title: Encode Observations
 order: 13
 ---
 ## Navigation

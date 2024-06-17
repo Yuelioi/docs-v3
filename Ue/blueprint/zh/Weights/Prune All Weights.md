@@ -1,5 +1,5 @@
 ---
-display_name: Prune All Weights
+title: Prune All Weights
 order: 5
 ---
 ## Navigation

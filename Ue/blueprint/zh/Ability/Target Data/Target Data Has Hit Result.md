@@ -1,5 +1,5 @@
 ---
-display_name: Target Data Has Hit Result
+title: Target Data Has Hit Result
 order: 17
 ---
 ## Navigation

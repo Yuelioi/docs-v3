@@ -1,5 +1,5 @@
 ---
-display_name: Updated Delegate
+title: Updated Delegate
 order: 82
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone for Goal
+title: Get Bone for Goal
 order: 12
 ---
 ## Navigation

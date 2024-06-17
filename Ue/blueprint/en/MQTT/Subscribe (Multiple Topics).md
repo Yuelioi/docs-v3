@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe (Multiple Topics)
+title: Subscribe (Multiple Topics)
 order: 12
 ---
 ## Navigation

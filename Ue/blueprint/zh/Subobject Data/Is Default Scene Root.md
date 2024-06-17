@@ -1,5 +1,5 @@
 ---
-display_name: Is Default Scene Root
+title: Is Default Scene Root
 order: 18
 ---
 ## Navigation

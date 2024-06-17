@@ -1,5 +1,5 @@
 ---
-display_name: Add Image Center Point
+title: Add Image Center Point
 order: 3
 ---
 ## Navigation

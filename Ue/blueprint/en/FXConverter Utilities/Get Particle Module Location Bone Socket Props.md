@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Location Bone Socket Props
+title: Get Particle Module Location Bone Socket Props
 order: 72
 ---
 ## Navigation

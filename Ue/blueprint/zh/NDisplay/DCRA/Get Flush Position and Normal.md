@@ -1,5 +1,5 @@
 ---
-display_name: Get Flush Position and Normal
+title: Get Flush Position and Normal
 order: 2
 ---
 ## Navigation

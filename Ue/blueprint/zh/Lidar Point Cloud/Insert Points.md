@@ -1,5 +1,5 @@
 ---
-display_name: Insert Points
+title: Insert Points
 order: 39
 ---
 ## Navigation

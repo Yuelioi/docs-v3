@@ -1,5 +1,5 @@
 ---
-display_name: Get Float from Control Value
+title: Get Float from Control Value
 order: 32
 ---
 ## Navigation

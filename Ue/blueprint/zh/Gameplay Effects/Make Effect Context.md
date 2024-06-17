@@ -1,5 +1,5 @@
 ---
-display_name: Make Effect Context
+title: Make Effect Context
 order: 10
 ---
 ## Navigation

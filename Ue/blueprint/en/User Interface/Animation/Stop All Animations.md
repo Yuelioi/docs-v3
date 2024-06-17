@@ -1,5 +1,5 @@
 ---
-display_name: Stop All Animations
+title: Stop All Animations
 order: 25
 ---
 ## Navigation

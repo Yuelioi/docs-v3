@@ -1,5 +1,5 @@
 ---
-display_name: Get a reference to self
+title: Get a reference to self
 order: 1
 ---
 ## Navigation

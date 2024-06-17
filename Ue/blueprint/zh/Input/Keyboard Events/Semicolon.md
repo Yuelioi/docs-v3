@@ -1,5 +1,5 @@
 ---
-display_name: Semicolon
+title: Semicolon
 order: 98
 ---
 ## Navigation

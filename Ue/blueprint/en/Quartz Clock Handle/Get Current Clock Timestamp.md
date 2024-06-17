@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Clock Timestamp
+title: Get Current Clock Timestamp
 order: 5
 ---
 ## Navigation

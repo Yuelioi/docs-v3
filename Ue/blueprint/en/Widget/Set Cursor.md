@@ -1,5 +1,5 @@
 ---
-display_name: Set Cursor
+title: Set Cursor
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Scroll Recipient External
+title: Unregister Scroll Recipient External
 order: 3
 ---
 ## Navigation

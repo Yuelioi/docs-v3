@@ -1,5 +1,5 @@
 ---
-display_name: Get Cascade Emitter Name
+title: Get Cascade Emitter Name
 order: 36
 ---
 ## Navigation

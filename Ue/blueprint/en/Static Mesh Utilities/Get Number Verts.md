@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Verts
+title: Get Number Verts
 order: 19
 ---
 ## Navigation

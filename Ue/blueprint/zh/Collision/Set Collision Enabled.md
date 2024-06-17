@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Enabled
+title: Set Collision Enabled
 order: 68
 ---
 ## Navigation

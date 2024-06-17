@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Coordinate System
+title: Get Current Coordinate System
 order: 3
 ---
 ## Navigation

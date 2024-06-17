@@ -1,5 +1,5 @@
 ---
-display_name: Reset Scroll State
+title: Reset Scroll State
 order: 1
 ---
 ## Navigation

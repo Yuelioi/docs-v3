@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Velocity
+title: Get Linear Velocity
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Live Link Subobject
+title: Get Live Link Subobject
 order: 25
 ---
 ## Navigation

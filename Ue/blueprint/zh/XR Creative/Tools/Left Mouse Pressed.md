@@ -1,5 +1,5 @@
 ---
-display_name: Left Mouse Pressed
+title: Left Mouse Pressed
 order: 7
 ---
 ## Navigation

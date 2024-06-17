@@ -1,5 +1,5 @@
 ---
-display_name: Item
+title: Item
 order: 5
 ---
 

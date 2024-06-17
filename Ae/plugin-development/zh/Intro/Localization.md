@@ -1,5 +1,5 @@
 ---
-display_name: Localization
+title: Localization
 order: 8
 ---
 

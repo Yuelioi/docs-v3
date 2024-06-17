@@ -1,5 +1,5 @@
 ---
-display_name: Get Visual Effect Quality
+title: Get Visual Effect Quality
 order: 68
 ---
 ## Navigation

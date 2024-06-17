@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Option
+title: Get Int Option
 order: 1
 ---
 ## Navigation

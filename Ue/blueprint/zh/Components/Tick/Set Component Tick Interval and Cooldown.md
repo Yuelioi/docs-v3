@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Tick Interval and Cooldown
+title: Set Component Tick Interval and Cooldown
 order: 8
 ---
 ## Navigation

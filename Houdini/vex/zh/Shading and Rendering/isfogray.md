@@ -1,5 +1,5 @@
 ---
-display_name: isfogray
+title: isfogray
 order: 42
 ---
 | Context(s) | [light](../contexts/light.html)  [shadow](../contexts/shadow.html) |

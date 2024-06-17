@@ -1,5 +1,5 @@
 ---
-display_name: Is VSync Enabled
+title: Is VSync Enabled
 order: 86
 ---
 ## Navigation

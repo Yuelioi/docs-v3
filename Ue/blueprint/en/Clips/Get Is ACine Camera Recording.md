@@ -1,5 +1,5 @@
 ---
-display_name: Get Is ACine Camera Recording
+title: Get Is ACine Camera Recording
 order: 5
 ---
 ## Navigation

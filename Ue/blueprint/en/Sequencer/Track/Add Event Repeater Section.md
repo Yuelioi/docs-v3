@@ -1,5 +1,5 @@
 ---
-display_name: Add Event Repeater Section
+title: Add Event Repeater Section
 order: 1
 ---
 ## Navigation

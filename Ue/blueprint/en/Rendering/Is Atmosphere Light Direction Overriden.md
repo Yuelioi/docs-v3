@@ -1,5 +1,5 @@
 ---
-display_name: Is Atmosphere Light Direction Overriden
+title: Is Atmosphere Light Direction Overriden
 order: 32
 ---
 ## Navigation

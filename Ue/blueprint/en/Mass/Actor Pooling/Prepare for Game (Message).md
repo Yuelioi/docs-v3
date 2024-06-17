@@ -1,5 +1,5 @@
 ---
-display_name: Prepare for Game (Message)
+title: Prepare for Game (Message)
 order: 3
 ---
 ## Navigation

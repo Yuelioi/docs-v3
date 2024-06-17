@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Evaluation Distance to Oldest Sample Mean
+title: Get Channel Evaluation Distance to Oldest Sample Mean
 order: 9
 ---
 ## Navigation

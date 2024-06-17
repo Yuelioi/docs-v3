@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawnables
+title: Get Spawnables
 order: 53
 ---
 ## Navigation

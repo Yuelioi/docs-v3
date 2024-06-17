@@ -1,5 +1,5 @@
 ---
-display_name: GetRandomReachablePointInRadius
+title: GetRandomReachablePointInRadius
 order: 17
 ---
 ## Navigation

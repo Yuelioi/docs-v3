@@ -1,5 +1,5 @@
 ---
-display_name: Power
+title: Power
 order: 31
 ---
 ## Navigation

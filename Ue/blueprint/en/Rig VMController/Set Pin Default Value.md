@@ -1,5 +1,5 @@
 ---
-display_name: Set Pin Default Value
+title: Set Pin Default Value
 order: 121
 ---
 ## Navigation

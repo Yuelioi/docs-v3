@@ -1,5 +1,5 @@
 ---
-display_name: Is Native Component
+title: Is Native Component
 order: 23
 ---
 ## Navigation

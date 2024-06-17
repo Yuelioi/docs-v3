@@ -1,5 +1,5 @@
 ---
-display_name: Update Actor All Views Visibility
+title: Update Actor All Views Visibility
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Node
+title: Get Output Node
 order: 38
 ---
 ## Navigation

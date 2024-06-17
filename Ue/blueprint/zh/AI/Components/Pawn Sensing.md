@@ -1,5 +1,5 @@
 ---
-display_name: Pawn Sensing
+title: Pawn Sensing
 order: 3
 ---
 ## Navigation

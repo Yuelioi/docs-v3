@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Sequence
+title: Get Level Sequence
 order: 5
 ---
 ## Navigation

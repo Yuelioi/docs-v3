@@ -1,5 +1,5 @@
 ---
-display_name: Take Recorder Finished
+title: Take Recorder Finished
 order: 28
 ---
 ## Navigation

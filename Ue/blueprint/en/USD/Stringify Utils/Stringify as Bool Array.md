@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Bool Array
+title: Stringify as Bool Array
 order: 3
 ---
 ## Navigation

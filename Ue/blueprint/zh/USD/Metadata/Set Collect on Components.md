@@ -1,5 +1,5 @@
 ---
-display_name: Set Collect on Components
+title: Set Collect on Components
 order: 4
 ---
 ## Navigation

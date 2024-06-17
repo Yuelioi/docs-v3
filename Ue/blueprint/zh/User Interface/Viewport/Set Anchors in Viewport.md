@@ -1,5 +1,5 @@
 ---
-display_name: Set Anchors in Viewport
+title: Set Anchors in Viewport
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Body Gravity
+title: Set Enable Body Gravity
 order: 32
 ---
 ## Navigation

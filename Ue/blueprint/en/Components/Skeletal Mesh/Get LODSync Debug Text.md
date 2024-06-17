@@ -1,5 +1,5 @@
 ---
-display_name: Get LODSync Debug Text
+title: Get LODSync Debug Text
 order: 11
 ---
 ## Navigation

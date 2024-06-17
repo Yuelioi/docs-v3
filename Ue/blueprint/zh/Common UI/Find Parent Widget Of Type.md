@@ -1,5 +1,5 @@
 ---
-display_name: Find Parent Widget Of Type
+title: Find Parent Widget Of Type
 order: 1
 ---
 ## Navigation

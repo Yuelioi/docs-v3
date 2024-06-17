@@ -1,5 +1,5 @@
 ---
-display_name: Get Bookmark Index
+title: Get Bookmark Index
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Offset
+title: Add Local Offset
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set screen size
+title: Set screen size
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Clipping Planes
+title: Set Clipping Planes
 order: 19
 ---
 ## Navigation

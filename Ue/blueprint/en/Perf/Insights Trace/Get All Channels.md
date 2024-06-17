@@ -1,5 +1,5 @@
 ---
-display_name: Get All Channels
+title: Get All Channels
 order: 1
 ---
 ## Navigation

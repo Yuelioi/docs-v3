@@ -1,5 +1,5 @@
 ---
-display_name: Notify on Quantization Boundary
+title: Notify on Quantization Boundary
 order: 3
 ---
 ## Navigation

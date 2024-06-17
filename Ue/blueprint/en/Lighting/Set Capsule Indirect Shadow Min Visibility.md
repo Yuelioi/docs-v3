@@ -1,5 +1,5 @@
 ---
-display_name: Set Capsule Indirect Shadow Min Visibility
+title: Set Capsule Indirect Shadow Min Visibility
 order: 1
 ---
 ## Navigation

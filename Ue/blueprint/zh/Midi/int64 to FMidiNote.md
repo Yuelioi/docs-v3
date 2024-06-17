@@ -1,5 +1,5 @@
 ---
-display_name: int64 to FMidiNote
+title: int64 to FMidiNote
 order: 17
 ---
 ## Navigation

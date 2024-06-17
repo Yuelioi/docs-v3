@@ -1,5 +1,5 @@
 ---
-display_name: prim_normal
+title: prim_normal
 order: 2
 ---
 `vector  prim_normal(<geometry>geometry, int prim_number, vector uvw)`

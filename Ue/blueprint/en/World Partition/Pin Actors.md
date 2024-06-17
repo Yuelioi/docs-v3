@@ -1,5 +1,5 @@
 ---
-display_name: Pin Actors
+title: Pin Actors
 order: 14
 ---
 ## Navigation

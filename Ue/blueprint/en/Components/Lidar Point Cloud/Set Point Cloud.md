@@ -1,5 +1,5 @@
 ---
-display_name: Set Point Cloud
+title: Set Point Cloud
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 更改颜色
+title: 更改颜色
 order: 11
 ---
 

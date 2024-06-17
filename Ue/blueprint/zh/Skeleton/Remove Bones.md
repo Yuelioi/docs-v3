@@ -1,5 +1,5 @@
 ---
-display_name: Remove Bones
+title: Remove Bones
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Iris
+title: Iris
 order: 31
 ---
 ## Navigation

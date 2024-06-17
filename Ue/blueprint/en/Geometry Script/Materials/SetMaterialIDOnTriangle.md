@@ -1,5 +1,5 @@
 ---
-display_name: SetMaterialIDOnTriangle
+title: SetMaterialIDOnTriangle
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Always Show Scrollbar
+title: Set Always Show Scrollbar
 order: 3
 ---
 ## Navigation

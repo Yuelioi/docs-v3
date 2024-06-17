@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Dialogue Attached
+title: Spawn Dialogue Attached
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Color Temp
+title: Set Light Color Temp
 order: 5
 ---
 ## Navigation

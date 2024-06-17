@@ -1,5 +1,5 @@
 ---
-display_name: Create New Skeletal Mesh Asset from Mesh LODs
+title: Create New Skeletal Mesh Asset from Mesh LODs
 order: 1
 ---
 ## Navigation

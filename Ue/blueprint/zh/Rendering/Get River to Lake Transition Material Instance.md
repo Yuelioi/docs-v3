@@ -1,5 +1,5 @@
 ---
-display_name: Get River to Lake Transition Material Instance
+title: Get River to Lake Transition Material Instance
 order: 16
 ---
 ## Navigation

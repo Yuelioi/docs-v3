@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile Center Position
+title: Get Tile Center Position
 order: 14
 ---
 ## Navigation

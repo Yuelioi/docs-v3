@@ -1,5 +1,5 @@
 ---
-display_name: Set Level Variant Sets
+title: Set Level Variant Sets
 order: 5
 ---
 ## Navigation

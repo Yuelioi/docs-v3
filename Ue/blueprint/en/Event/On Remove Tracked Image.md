@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Image
+title: On Remove Tracked Image
 order: 11
 ---
 ## Navigation

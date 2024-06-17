@@ -1,5 +1,5 @@
 ---
-display_name: Clear Actor Selection Set
+title: Clear Actor Selection Set
 order: 2
 ---
 ## Navigation

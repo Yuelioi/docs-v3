@@ -1,5 +1,5 @@
 ---
-display_name: Get Owned Gameplay Tags
+title: Get Owned Gameplay Tags
 order: 13
 ---
 ## Navigation

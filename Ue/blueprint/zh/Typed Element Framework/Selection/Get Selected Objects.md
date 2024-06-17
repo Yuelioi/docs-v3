@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Objects
+title: Get Selected Objects
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Resize in Frames
+title: Resize in Frames
 order: 16
 ---
 ## Navigation

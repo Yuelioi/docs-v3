@@ -1,5 +1,5 @@
 ---
-display_name: Add Url
+title: Add Url
 order: 2
 ---
 ## Navigation

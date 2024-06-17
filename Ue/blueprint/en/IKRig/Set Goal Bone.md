@@ -1,5 +1,5 @@
 ---
-display_name: Set Goal Bone
+title: Set Goal Bone
 order: 42
 ---
 ## Navigation

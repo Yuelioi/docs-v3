@@ -1,5 +1,5 @@
 ---
-display_name: Get Nodes Within Extents
+title: Get Nodes Within Extents
 order: 6
 ---
 ## Navigation

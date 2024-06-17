@@ -1,5 +1,5 @@
 ---
-display_name: Reserve
+title: Reserve
 order: 17
 ---
 ## Navigation

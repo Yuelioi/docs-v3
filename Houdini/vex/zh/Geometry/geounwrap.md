@@ -1,5 +1,5 @@
 ---
-display_name: geounwrap
+title: geounwrap
 order: 6
 ---
 `string  geounwrap(<geometry>geometry, string unwrap_attribute)`

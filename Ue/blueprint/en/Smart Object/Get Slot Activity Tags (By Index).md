@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot Activity Tags (By Index)
+title: Get Slot Activity Tags (By Index)
 order: 20
 ---
 ## Navigation

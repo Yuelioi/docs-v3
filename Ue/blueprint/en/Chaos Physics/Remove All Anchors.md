@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Anchors
+title: Remove All Anchors
 order: 19
 ---
 ## Navigation

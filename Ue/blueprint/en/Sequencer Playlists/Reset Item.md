@@ -1,5 +1,5 @@
 ---
-display_name: Reset Item
+title: Reset Item
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Animated Object
+title: Get Animated Object
 order: 2
 ---
 ## Navigation

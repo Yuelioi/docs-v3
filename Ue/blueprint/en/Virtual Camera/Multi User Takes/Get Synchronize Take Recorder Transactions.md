@@ -1,5 +1,5 @@
 ---
-display_name: Get Synchronize Take Recorder Transactions
+title: Get Synchronize Take Recorder Transactions
 order: 4
 ---
 ## Navigation

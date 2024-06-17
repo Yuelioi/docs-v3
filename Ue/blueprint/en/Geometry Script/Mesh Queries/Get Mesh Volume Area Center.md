@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Volume Area Center
+title: Get Mesh Volume Area Center
 order: 24
 ---
 ## Navigation

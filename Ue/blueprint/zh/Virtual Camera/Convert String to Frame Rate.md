@@ -1,5 +1,5 @@
 ---
-display_name: Convert String to Frame Rate
+title: Convert String to Frame Rate
 order: 23
 ---
 ## Navigation

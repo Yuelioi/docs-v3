@@ -1,5 +1,5 @@
 ---
-display_name: Get Name Array Metadata
+title: Get Name Array Metadata
 order: 56
 ---
 ## Navigation

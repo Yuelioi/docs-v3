@@ -1,5 +1,5 @@
 ---
-display_name: Reset Mapping to Default
+title: Reset Mapping to Default
 order: 27
 ---
 ## Navigation

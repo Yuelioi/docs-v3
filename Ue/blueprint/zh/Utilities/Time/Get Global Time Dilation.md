@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Time Dilation
+title: Get Global Time Dilation
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance UV
+title: Get Vertex Instance UV
 order: 66
 ---
 ## Navigation

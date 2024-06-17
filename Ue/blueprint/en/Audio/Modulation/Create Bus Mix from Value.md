@@ -1,5 +1,5 @@
 ---
-display_name: Create Bus Mix from Value
+title: Create Bus Mix from Value
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Session Id
+title: Get Session Id
 order: 3
 ---
 ## Navigation

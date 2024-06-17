@@ -1,5 +1,5 @@
 ---
-display_name: Seed Random Stream
+title: Seed Random Stream
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layers
+title: Get Data Layers
 order: 25
 ---
 ## Navigation

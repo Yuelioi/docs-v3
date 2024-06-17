@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Analog Stick State
+title: Get Input Analog Stick State
 order: 16
 ---
 ## Navigation

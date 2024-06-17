@@ -1,5 +1,5 @@
 ---
-display_name: Set Abandoned Particle Collision Profile Name
+title: Set Abandoned Particle Collision Profile Name
 order: 20
 ---
 ## Navigation

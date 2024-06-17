@@ -1,5 +1,5 @@
 ---
-display_name: Is Zero 2D
+title: Is Zero 2D
 order: 14
 ---
 ## Navigation

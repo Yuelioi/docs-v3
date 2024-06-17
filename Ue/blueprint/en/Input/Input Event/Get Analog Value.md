@@ -1,5 +1,5 @@
 ---
-display_name: Get Analog Value
+title: Get Analog Value
 order: 1
 ---
 ## Navigation

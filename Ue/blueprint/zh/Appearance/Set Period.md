@@ -1,5 +1,5 @@
 ---
-display_name: Set Period
+title: Set Period
 order: 68
 ---
 ## Navigation

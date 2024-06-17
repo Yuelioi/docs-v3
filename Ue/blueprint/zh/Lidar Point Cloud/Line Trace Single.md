@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Single
+title: Line Trace Single
 order: 44
 ---
 ## Navigation

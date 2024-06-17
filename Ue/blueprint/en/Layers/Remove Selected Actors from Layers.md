@@ -1,5 +1,5 @@
 ---
-display_name: Remove Selected Actors from Layers
+title: Remove Selected Actors from Layers
 order: 34
 ---
 ## Navigation

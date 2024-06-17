@@ -1,5 +1,5 @@
 ---
-display_name: Does Object Implement Interface
+title: Does Object Implement Interface
 order: 14
 ---
 ## Navigation

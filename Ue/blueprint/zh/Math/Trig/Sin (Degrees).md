@@ -1,5 +1,5 @@
 ---
-display_name: Sin (Degrees)
+title: Sin (Degrees)
 order: 15
 ---
 ## Navigation

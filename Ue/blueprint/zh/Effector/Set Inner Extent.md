@@ -1,5 +1,5 @@
 ---
-display_name: Set Inner Extent
+title: Set Inner Extent
 order: 19
 ---
 ## Navigation

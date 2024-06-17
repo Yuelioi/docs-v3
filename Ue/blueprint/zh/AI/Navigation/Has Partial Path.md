@@ -1,5 +1,5 @@
 ---
-display_name: Has Partial Path
+title: Has Partial Path
 order: 19
 ---
 ## Navigation

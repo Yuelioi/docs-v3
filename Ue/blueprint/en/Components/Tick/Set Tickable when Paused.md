@@ -1,5 +1,5 @@
 ---
-display_name: Set Tickable when Paused
+title: Set Tickable when Paused
 order: 11
 ---
 ## Navigation

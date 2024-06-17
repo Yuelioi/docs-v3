@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon List Bounds
+title: Get Polygon List Bounds
 order: 12
 ---
 ## Navigation

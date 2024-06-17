@@ -1,5 +1,5 @@
 ---
-display_name: re_split
+title: re_split
 order: 28
 ---
 `string [] re_split(string regex, string input, int maxsplits=0)`

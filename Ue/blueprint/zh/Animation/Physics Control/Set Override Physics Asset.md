@@ -1,5 +1,5 @@
 ---
-display_name: Set Override Physics Asset
+title: Set Override Physics Asset
 order: 11
 ---
 ## Navigation

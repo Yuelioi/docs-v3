@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Depenetration Velocity
+title: Get Max Depenetration Velocity
 order: 77
 ---
 ## Navigation

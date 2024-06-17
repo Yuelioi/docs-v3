@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Keys (Message)
+title: Set Curve Keys (Message)
 order: 27
 ---
 ## Navigation

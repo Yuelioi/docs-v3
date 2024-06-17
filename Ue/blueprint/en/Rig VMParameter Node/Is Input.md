@@ -1,5 +1,5 @@
 ---
-display_name: Is Input
+title: Is Input
 order: 6
 ---
 ## Navigation

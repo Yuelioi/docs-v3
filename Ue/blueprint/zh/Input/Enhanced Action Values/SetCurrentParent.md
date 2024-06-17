@@ -1,5 +1,5 @@
 ---
-display_name: SetCurrentParent
+title: SetCurrentParent
 order: 72
 ---
 ## Navigation

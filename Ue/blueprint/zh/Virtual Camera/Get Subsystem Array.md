@@ -1,5 +1,5 @@
 ---
-display_name: Get Subsystem Array
+title: Get Subsystem Array
 order: 47
 ---
 ## Navigation

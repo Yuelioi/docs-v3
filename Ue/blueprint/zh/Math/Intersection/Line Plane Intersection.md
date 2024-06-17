@@ -1,5 +1,5 @@
 ---
-display_name: Line Plane Intersection
+title: Line Plane Intersection
 order: 2
 ---
 ## Navigation

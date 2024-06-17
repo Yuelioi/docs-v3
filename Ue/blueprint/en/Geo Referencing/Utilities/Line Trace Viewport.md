@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Viewport
+title: Line Trace Viewport
 order: 3
 ---
 ## Navigation

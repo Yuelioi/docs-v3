@@ -1,5 +1,5 @@
 ---
-display_name: Schedule Local Notification Badge from Now
+title: Schedule Local Notification Badge from Now
 order: 8
 ---
 ## Navigation

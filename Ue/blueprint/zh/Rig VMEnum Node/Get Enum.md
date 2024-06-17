@@ -1,5 +1,5 @@
 ---
-display_name: Get Enum
+title: Get Enum
 order: 3
 ---
 ## Navigation

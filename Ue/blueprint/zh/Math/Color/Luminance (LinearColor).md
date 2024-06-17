@@ -1,5 +1,5 @@
 ---
-display_name: Luminance (LinearColor)
+title: Luminance (LinearColor)
 order: 24
 ---
 ## Navigation

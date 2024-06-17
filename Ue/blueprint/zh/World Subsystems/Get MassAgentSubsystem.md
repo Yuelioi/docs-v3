@@ -1,5 +1,5 @@
 ---
-display_name: Get MassAgentSubsystem
+title: Get MassAgentSubsystem
 order: 40
 ---
 ## Navigation

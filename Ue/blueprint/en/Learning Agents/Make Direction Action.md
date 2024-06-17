@@ -1,5 +1,5 @@
 ---
-display_name: Make Direction Action
+title: Make Direction Action
 order: 173
 ---
 ## Navigation

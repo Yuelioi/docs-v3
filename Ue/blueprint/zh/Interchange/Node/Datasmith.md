@@ -1,5 +1,5 @@
 ---
-display_name: Datasmith
+title: Datasmith
 order: 20
 ---
 ## Navigation

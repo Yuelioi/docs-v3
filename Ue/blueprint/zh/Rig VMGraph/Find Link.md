@@ -1,5 +1,5 @@
 ---
-display_name: Find Link
+title: Find Link
 order: 4
 ---
 ## Navigation

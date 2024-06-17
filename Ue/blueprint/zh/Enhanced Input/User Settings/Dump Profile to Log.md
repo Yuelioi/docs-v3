@@ -1,5 +1,5 @@
 ---
-display_name: Dump Profile to Log
+title: Dump Profile to Log
 order: 5
 ---
 ## Navigation

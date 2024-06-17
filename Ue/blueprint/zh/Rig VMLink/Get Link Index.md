@@ -1,5 +1,5 @@
 ---
-display_name: Get Link Index
+title: Get Link Index
 order: 3
 ---
 ## Navigation

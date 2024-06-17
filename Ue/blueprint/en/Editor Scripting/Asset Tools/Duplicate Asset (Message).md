@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Asset (Message)
+title: Duplicate Asset (Message)
 order: 14
 ---
 ## Navigation

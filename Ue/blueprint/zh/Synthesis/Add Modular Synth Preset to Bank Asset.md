@@ -1,5 +1,5 @@
 ---
-display_name: Add Modular Synth Preset to Bank Asset
+title: Add Modular Synth Preset to Bank Asset
 order: 1
 ---
 ## Navigation

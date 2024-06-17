@@ -1,5 +1,5 @@
 ---
-display_name: Add Reference
+title: Add Reference
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Planar
+title: Planar
 order: 6
 ---
 ## Navigation

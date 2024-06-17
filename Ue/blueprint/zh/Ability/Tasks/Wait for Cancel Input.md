@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Cancel Input
+title: Wait for Cancel Input
 order: 50
 ---
 ## Navigation

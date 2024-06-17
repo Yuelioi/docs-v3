@@ -1,5 +1,5 @@
 ---
-display_name: Activate Screen Reader
+title: Activate Screen Reader
 order: 1
 ---
 ## Navigation

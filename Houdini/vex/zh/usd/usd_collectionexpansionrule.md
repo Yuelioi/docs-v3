@@ -1,5 +1,5 @@
 ---
-display_name: usd_collectionexpansionrule
+title: usd_collectionexpansionrule
 order: 34
 ---
 | Since | 18.0 |

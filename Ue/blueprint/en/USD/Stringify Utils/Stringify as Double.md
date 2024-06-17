@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Double
+title: Stringify as Double
 order: 12
 ---
 ## Navigation

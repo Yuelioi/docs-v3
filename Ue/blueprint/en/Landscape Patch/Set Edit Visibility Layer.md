@@ -1,5 +1,5 @@
 ---
-display_name: Set Edit Visibility Layer
+title: Set Edit Visibility Layer
 order: 27
 ---
 ## Navigation

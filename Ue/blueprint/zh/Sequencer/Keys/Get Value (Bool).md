@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Bool)
+title: Get Value (Bool)
 order: 66
 ---
 ## Navigation

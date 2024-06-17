@@ -1,5 +1,5 @@
 ---
-display_name: Clear Instances
+title: Clear Instances
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Color No Interp
+title: Set Color No Interp
 order: 14
 ---
 ## Navigation

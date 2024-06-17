@@ -1,5 +1,5 @@
 ---
-display_name: Set Can be Canceled
+title: Set Can be Canceled
 order: 64
 ---
 ## Navigation

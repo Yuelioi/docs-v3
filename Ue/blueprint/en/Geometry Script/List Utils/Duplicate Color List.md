@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Color List
+title: Duplicate Color List
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Open Sub Menus
+title: Has Open Sub Menus
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Triangle ID
+title: Is Valid Triangle ID
 order: 46
 ---
 ## Navigation

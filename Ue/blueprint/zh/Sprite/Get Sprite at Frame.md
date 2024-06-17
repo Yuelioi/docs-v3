@@ -1,5 +1,5 @@
 ---
-display_name: Get Sprite at Frame
+title: Get Sprite at Frame
 order: 11
 ---
 ## Navigation

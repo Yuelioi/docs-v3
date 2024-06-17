@@ -1,5 +1,5 @@
 ---
-display_name: setattrib
+title: setattrib
 order: 63
 ---
 If you know the attribute class ahead of time, using [setdetailattrib](setdetailattrib.html "Sets a detail attribute in a geometry."), [setprimattrib](setprimattrib.html "Sets a primitive attribute in a geometry."), [setpointattrib](setpointattrib.html "Sets a point attribute in a geometry."), or [setvertexattrib](setvertexattrib.html "Sets a vertex attribute in a geometry.") may be faster.

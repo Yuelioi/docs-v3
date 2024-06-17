@@ -1,5 +1,5 @@
 ---
-display_name: Get Physical Width
+title: Get Physical Width
 order: 7
 ---
 ## Navigation

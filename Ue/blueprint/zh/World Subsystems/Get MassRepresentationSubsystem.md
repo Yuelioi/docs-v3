@@ -1,5 +1,5 @@
 ---
-display_name: Get MassRepresentationSubsystem
+title: Get MassRepresentationSubsystem
 order: 50
 ---
 ## Navigation

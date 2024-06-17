@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar Parameter Default Value
+title: Get Scalar Parameter Default Value
 order: 22
 ---
 ## Navigation

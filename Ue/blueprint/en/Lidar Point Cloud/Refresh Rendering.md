@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Rendering
+title: Refresh Rendering
 order: 54
 ---
 ## Navigation

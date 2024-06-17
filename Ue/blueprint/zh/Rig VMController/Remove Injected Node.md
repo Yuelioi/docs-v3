@@ -1,5 +1,5 @@
 ---
-display_name: Remove Injected Node
+title: Remove Injected Node
 order: 85
 ---
 ## Navigation

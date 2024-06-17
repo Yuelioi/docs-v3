@@ -1,5 +1,5 @@
 ---
-display_name: Set Wave Parameter
+title: Set Wave Parameter
 order: 35
 ---
 ## Navigation

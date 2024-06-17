@@ -1,5 +1,5 @@
 ---
-display_name: Version-History
+title: Version-History
 order: 2
 ---
 

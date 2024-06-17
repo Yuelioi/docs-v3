@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Morphology Open
+title: Polygons Morphology Open
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Settings from Retarget Profile
+title: Get Global Settings from Retarget Profile
 order: 2
 ---
 ## Navigation

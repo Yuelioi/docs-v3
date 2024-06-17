@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixtures Of Category
+title: Get All Fixtures Of Category
 order: 31
 ---
 ## Navigation

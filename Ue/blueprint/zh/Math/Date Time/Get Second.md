@@ -1,5 +1,5 @@
 ---
-display_name: Get Second
+title: Get Second
 order: 22
 ---
 ## Navigation

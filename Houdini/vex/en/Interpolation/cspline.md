@@ -1,5 +1,5 @@
 ---
-display_name: cspline
+title: cspline
 order: 3
 ---
 To specify the curve using unevenly spaced keys, use [ckspline](ckspline.html "Samples a Catmull-Rom (Cardinal) spline defined by position/value keys.").

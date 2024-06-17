@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector in Elliptical Cone in Degrees
+title: Random Unit Vector in Elliptical Cone in Degrees
 order: 39
 ---
 ## Navigation

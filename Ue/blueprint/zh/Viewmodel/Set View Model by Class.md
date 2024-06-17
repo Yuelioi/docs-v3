@@ -1,5 +1,5 @@
 ---
-display_name: Set View Model by Class
+title: Set View Model by Class
 order: 28
 ---
 ## Navigation

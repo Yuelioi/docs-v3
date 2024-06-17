@@ -1,5 +1,5 @@
 ---
-display_name: Vector2D Length
+title: Vector2D Length
 order: 30
 ---
 ## Navigation

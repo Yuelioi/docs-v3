@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Step Scale
+title: Get Delta Step Scale
 order: 10
 ---
 ## Navigation

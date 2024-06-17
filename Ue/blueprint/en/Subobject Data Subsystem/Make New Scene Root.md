@@ -1,5 +1,5 @@
 ---
-display_name: Make New Scene Root
+title: Make New Scene Root
 order: 19
 ---
 ## Navigation

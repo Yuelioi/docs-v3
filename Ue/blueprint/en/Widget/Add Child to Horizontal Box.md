@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Horizontal Box
+title: Add Child to Horizontal Box
 order: 3
 ---
 ## Navigation

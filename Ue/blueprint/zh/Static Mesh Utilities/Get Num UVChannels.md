@@ -1,5 +1,5 @@
 ---
-display_name: Get Num UVChannels
+title: Get Num UVChannels
 order: 17
 ---
 ## Navigation

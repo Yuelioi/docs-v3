@@ -1,5 +1,5 @@
 ---
-display_name: Set Initial Bone Transform
+title: Set Initial Bone Transform
 order: 37
 ---
 ## Navigation

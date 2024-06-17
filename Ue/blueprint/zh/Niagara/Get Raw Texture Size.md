@@ -1,5 +1,5 @@
 ---
-display_name: Get Raw Texture Size
+title: Get Raw Texture Size
 order: 22
 ---
 ## Navigation

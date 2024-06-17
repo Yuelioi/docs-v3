@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Transform
+title: Set Control Transform
 order: 35
 ---
 ## Navigation

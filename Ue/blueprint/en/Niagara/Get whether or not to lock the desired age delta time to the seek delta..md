@@ -1,5 +1,5 @@
 ---
-display_name: Get whether or not to lock the desired age delta time to the seek delta.
+title: Get whether or not to lock the desired age delta time to the seek delta.
 order: 29
 ---
 ## Navigation

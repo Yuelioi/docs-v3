@@ -1,5 +1,5 @@
 ---
-display_name: Get Build Version
+title: Get Build Version
 order: 41
 ---
 ## Navigation

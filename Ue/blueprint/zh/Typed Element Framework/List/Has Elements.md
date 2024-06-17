@@ -1,5 +1,5 @@
 ---
-display_name: Has Elements
+title: Has Elements
 order: 13
 ---
 ## Navigation

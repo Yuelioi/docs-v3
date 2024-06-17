@@ -1,5 +1,5 @@
 ---
-display_name: Stop Camera Animation
+title: Stop Camera Animation
 order: 11
 ---
 ## Navigation

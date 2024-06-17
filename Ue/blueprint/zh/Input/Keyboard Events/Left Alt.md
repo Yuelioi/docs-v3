@@ -1,5 +1,5 @@
 ---
-display_name: Left Alt
+title: Left Alt
 order: 56
 ---
 ## Navigation

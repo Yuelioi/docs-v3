@@ -1,5 +1,5 @@
 ---
-display_name: Queue Play Animation Time Range
+title: Queue Play Animation Time Range
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Landscape Actor
+title: Get Landscape Actor
 order: 1
 ---
 ## Navigation

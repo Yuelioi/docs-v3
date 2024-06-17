@@ -1,5 +1,5 @@
 ---
-display_name: chexprf
+title: chexprf
 order: 8
 ---
 `float  chexprf(string channel, string new_expr_function, float frame)`

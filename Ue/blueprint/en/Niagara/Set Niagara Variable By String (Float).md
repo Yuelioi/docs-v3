@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Float)
+title: Set Niagara Variable By String (Float)
 order: 48
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Montage Sync Follow
+title: Montage Sync Follow
 order: 13
 ---
 ## Navigation

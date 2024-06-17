@@ -1,5 +1,5 @@
 ---
-display_name: List Assets by Tag Value
+title: List Assets by Tag Value
 order: 25
 ---
 ## Navigation

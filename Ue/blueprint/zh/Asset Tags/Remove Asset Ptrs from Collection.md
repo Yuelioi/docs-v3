@@ -1,5 +1,5 @@
 ---
-display_name: Remove Asset Ptrs from Collection
+title: Remove Asset Ptrs from Collection
 order: 20
 ---
 ## Navigation

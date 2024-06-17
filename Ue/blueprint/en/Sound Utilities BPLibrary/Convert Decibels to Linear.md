@@ -1,5 +1,5 @@
 ---
-display_name: Convert Decibels to Linear
+title: Convert Decibels to Linear
 order: 1
 ---
 ## Navigation

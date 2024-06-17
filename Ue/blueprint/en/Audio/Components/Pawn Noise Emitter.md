@@ -1,5 +1,5 @@
 ---
-display_name: Pawn Noise Emitter
+title: Pawn Noise Emitter
 order: 2
 ---
 ## Navigation

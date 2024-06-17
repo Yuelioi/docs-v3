@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotator Attribute by Metadata Key
+title: Set Rotator Attribute by Metadata Key
 order: 88
 ---
 ## Navigation

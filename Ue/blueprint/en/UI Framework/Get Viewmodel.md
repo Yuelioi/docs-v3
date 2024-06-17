@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewmodel
+title: Get Viewmodel
 order: 15
 ---
 ## Navigation

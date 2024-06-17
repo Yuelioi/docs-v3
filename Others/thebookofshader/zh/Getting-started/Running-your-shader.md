@@ -1,5 +1,5 @@
 ---
-display_name: Running-your-shader
+title: Running-your-shader
 order: 3
 ---
 

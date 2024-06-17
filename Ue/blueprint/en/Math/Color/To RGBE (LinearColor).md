@@ -1,5 +1,5 @@
 ---
-display_name: To RGBE (LinearColor)
+title: To RGBE (LinearColor)
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Lods
+title: Set Lods
 order: 12
 ---
 ## Navigation

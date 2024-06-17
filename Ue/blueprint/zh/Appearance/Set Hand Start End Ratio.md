@@ -1,5 +1,5 @@
 ---
-display_name: Set Hand Start End Ratio
+title: Set Hand Start End Ratio
 order: 53
 ---
 ## Navigation

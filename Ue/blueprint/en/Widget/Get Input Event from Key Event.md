@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Event from Key Event
+title: Get Input Event from Key Event
 order: 23
 ---
 ## Navigation
