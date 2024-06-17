@@ -1,5 +1,5 @@
 ---
-display_name: Set Operation Type
+title: Set Operation Type
 order: 124
 ---
 ## Navigation

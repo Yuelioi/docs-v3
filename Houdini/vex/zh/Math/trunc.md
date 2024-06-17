@@ -1,5 +1,5 @@
 ---
-display_name: trunc
+title: trunc
 order: 88
 ---
 `float  trunc(float x)`

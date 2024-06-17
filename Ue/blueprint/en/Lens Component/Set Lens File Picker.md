@@ -1,5 +1,5 @@
 ---
-display_name: Set Lens File Picker
+title: Set Lens File Picker
 order: 22
 ---
 ## Navigation

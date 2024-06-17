@@ -1,5 +1,5 @@
 ---
-display_name: Can Copy Subobjects
+title: Can Copy Subobjects
 order: 3
 ---
 ## Navigation

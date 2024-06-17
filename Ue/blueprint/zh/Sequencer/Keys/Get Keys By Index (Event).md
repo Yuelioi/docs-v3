@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys By Index (Event)
+title: Get Keys By Index (Event)
 order: 41
 ---
 ## Navigation

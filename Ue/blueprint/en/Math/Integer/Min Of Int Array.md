@@ -1,5 +1,5 @@
 ---
-display_name: Min Of Int Array
+title: Min Of Int Array
 order: 16
 ---
 ## Navigation

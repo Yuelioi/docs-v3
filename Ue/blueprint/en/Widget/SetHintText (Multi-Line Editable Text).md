@@ -1,5 +1,5 @@
 ---
-display_name: SetHintText (Multi-Line Editable Text)
+title: SetHintText (Multi-Line Editable Text)
 order: 43
 ---
 ## Navigation

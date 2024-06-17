@@ -1,5 +1,5 @@
 ---
-display_name: Play Looping
+title: Play Looping
 order: 32
 ---
 ## Navigation

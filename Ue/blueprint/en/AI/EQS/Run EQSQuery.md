@@ -1,5 +1,5 @@
 ---
-display_name: Run EQSQuery
+title: Run EQSQuery
 order: 5
 ---
 ## Navigation

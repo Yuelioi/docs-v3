@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Is Selected
+title: Get Clips Meta Data Tag Is Selected
 order: 14
 ---
 ## Navigation

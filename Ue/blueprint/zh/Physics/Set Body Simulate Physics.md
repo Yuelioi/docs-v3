@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Simulate Physics
+title: Set Body Simulate Physics
 order: 27
 ---
 ## Navigation

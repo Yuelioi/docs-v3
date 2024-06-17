@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Component when Spawned by Sequencer
+title: Set Disable Component when Spawned by Sequencer
 order: 5
 ---
 ## Navigation

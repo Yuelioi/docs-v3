@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Pivot Offset Props
+title: Get Particle Module Pivot Offset Props
 order: 84
 ---
 ## Navigation

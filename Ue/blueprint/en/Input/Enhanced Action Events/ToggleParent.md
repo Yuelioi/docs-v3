@@ -1,5 +1,5 @@
 ---
-display_name: ToggleParent
+title: ToggleParent
 order: 114
 ---
 ## Navigation

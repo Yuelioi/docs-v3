@@ -1,5 +1,5 @@
 ---
-display_name: 色光
+title: 色光
 order: 18
 ---
 

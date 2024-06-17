@@ -1,5 +1,5 @@
 ---
-display_name: chprim_setkeyvalue
+title: chprim_setkeyvalue
 order: 12
 ---
 `int  chprim_setkeyvalue(int geohandle, int prim, float time, float value)`

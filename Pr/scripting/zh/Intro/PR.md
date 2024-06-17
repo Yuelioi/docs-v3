@@ -1,5 +1,5 @@
 ---
-display_name: 如何在 PR中执行 脚本
+title: 如何在 PR中执行 脚本
 order: 3
 ---
 

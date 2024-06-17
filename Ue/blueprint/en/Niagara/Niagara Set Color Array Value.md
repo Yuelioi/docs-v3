@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Set Color Array Value
+title: Niagara Set Color Array Value
 order: 56
 ---
 ## Navigation

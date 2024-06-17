@@ -1,5 +1,5 @@
 ---
-display_name: Get View
+title: Get View
 order: 18
 ---
 ## Navigation

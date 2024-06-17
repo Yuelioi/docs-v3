@@ -1,5 +1,5 @@
 ---
-display_name: Reset Float Spring State
+title: Reset Float Spring State
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Vector
+title: Get Up Vector
 order: 49
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Motion Controller Data
+title: Get Motion Controller Data
 order: 10
 ---
 ## Navigation

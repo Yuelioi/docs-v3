@@ -1,5 +1,5 @@
 ---
-display_name: Division (Whole and Remainder) to Integer64
+title: Division (Whole and Remainder) to Integer64
 order: 7
 ---
 ## Navigation

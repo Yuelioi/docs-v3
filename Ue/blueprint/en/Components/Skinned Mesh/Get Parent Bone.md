@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Bone
+title: Get Parent Bone
 order: 14
 ---
 ## Navigation

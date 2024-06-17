@@ -1,5 +1,5 @@
 ---
-display_name: Get Prim Asset Info
+title: Get Prim Asset Info
 order: 1
 ---
 ## Navigation

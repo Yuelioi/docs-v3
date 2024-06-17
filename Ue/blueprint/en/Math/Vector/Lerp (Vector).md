@@ -1,5 +1,5 @@
 ---
-display_name: Lerp (Vector)
+title: Lerp (Vector)
 order: 33
 ---
 ## Navigation

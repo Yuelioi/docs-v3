@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Compression Settings
+title: Set Curve Compression Settings
 order: 5
 ---
 ## Navigation

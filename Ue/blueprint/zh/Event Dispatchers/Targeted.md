@@ -1,5 +1,5 @@
 ---
-display_name: Targeted
+title: Targeted
 order: 204
 ---
 ## Navigation

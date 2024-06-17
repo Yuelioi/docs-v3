@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Orbit Props
+title: Get Particle Module Orbit Props
 order: 81
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Mesh Actor
+title: Remove Mesh Actor
 order: 52
 ---
 ## Navigation

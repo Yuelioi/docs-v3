@@ -1,5 +1,5 @@
 ---
-display_name: Data-Types
+title: Data-Types
 order: 5
 ---
 

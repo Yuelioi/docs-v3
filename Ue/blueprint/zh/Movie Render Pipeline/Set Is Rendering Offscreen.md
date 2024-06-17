@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Rendering Offscreen
+title: Set Is Rendering Offscreen
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Factory Dependencies Count
+title: Get Factory Dependencies Count
 order: 28
 ---
 ## Navigation

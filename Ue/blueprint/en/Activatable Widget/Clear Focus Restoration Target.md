@@ -1,5 +1,5 @@
 ---
-display_name: Clear Focus Restoration Target
+title: Clear Focus Restoration Target
 order: 3
 ---
 ## Navigation

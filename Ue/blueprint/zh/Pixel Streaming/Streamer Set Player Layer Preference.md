@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Set Player Layer Preference
+title: Streamer Set Player Layer Preference
 order: 31
 ---
 ## Navigation

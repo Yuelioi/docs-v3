@@ -1,5 +1,5 @@
 ---
-display_name: Join String Array
+title: Join String Array
 order: 24
 ---
 ## Navigation

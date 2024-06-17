@@ -1,5 +1,5 @@
 ---
-display_name: Create Soft Class Path Attribute
+title: Create Soft Class Path Attribute
 order: 18
 ---
 ## Navigation

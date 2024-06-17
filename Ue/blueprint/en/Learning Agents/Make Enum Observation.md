@@ -1,5 +1,5 @@
 ---
-display_name: Make Enum Observation
+title: Make Enum Observation
 order: 185
 ---
 ## Navigation

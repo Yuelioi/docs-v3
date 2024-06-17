@@ -1,5 +1,5 @@
 ---
-display_name: Get Children Count
+title: Get Children Count
 order: 6
 ---
 ## Navigation

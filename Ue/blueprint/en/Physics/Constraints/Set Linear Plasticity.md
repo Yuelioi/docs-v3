@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Plasticity
+title: Set Linear Plasticity
 order: 49
 ---
 ## Navigation

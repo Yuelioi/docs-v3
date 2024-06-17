@@ -1,5 +1,5 @@
 ---
-display_name: Get Preferred Languages
+title: Get Preferred Languages
 order: 13
 ---
 ## Navigation

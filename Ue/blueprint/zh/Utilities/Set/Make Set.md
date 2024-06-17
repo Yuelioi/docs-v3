@@ -1,5 +1,5 @@
 ---
-display_name: Make Set
+title: Make Set
 order: 10
 ---
 ## Navigation

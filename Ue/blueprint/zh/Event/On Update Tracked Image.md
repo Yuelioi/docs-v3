@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Image
+title: On Update Tracked Image
 order: 18
 ---
 ## Navigation

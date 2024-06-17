@@ -1,5 +1,5 @@
 ---
-display_name: Get MetaSoundAssetSubsystem
+title: Get MetaSoundAssetSubsystem
 order: 31
 ---
 ## Navigation

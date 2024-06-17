@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Array Metadata
+title: Set Float Array Metadata
 order: 143
 ---
 ## Navigation

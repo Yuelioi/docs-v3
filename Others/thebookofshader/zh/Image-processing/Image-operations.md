@@ -1,5 +1,5 @@
 ---
-display_name: Image-operations
+title: Image-operations
 order: 2
 ---
 

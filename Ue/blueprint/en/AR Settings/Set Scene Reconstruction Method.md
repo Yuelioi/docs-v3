@@ -1,5 +1,5 @@
 ---
-display_name: Set Scene Reconstruction Method
+title: Set Scene Reconstruction Method
 order: 28
 ---
 ## Navigation

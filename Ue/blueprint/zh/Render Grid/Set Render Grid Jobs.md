@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Grid Jobs
+title: Set Render Grid Jobs
 order: 46
 ---
 ## Navigation

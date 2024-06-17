@@ -1,5 +1,5 @@
 ---
-display_name: Can Group Actors
+title: Can Group Actors
 order: 2
 ---
 ## Navigation

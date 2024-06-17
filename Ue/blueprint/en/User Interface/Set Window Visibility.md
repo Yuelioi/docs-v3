@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Visibility
+title: Set Window Visibility
 order: 53
 ---
 ## Navigation

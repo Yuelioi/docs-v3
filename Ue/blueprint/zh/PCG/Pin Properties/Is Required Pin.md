@@ -1,5 +1,5 @@
 ---
-display_name: Is Required Pin
+title: Is Required Pin
 order: 4
 ---
 ## Navigation

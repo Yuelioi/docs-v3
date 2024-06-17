@@ -1,5 +1,5 @@
 ---
-display_name: Set Step Table
+title: Set Step Table
 order: 15
 ---
 ## Navigation

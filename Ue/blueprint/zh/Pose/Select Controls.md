@@ -1,5 +1,5 @@
 ---
-display_name: Select Controls
+title: Select Controls
 order: 7
 ---
 ## Navigation

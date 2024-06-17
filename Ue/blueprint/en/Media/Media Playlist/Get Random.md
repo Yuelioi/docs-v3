@@ -1,5 +1,5 @@
 ---
-display_name: Get Random
+title: Get Random
 order: 6
 ---
 ## Navigation

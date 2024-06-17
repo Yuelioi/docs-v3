@@ -1,5 +1,5 @@
 ---
-display_name: Set Weight Patch Source Mode
+title: Set Weight Patch Source Mode
 order: 42
 ---
 ## Navigation

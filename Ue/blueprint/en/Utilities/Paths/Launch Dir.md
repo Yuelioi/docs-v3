@@ -1,5 +1,5 @@
 ---
-display_name: Launch Dir
+title: Launch Dir
 order: 59
 ---
 ## Navigation

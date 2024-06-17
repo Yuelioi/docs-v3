@@ -1,5 +1,5 @@
 ---
-display_name: Find Takes
+title: Find Takes
 order: 5
 ---
 ## Navigation

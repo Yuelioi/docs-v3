@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation
+title: Play Animation
 order: 13
 ---
 ## Navigation

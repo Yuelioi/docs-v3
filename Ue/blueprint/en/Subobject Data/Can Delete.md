@@ -1,5 +1,5 @@
 ---
-display_name: Can Delete
+title: Can Delete
 order: 2
 ---
 ## Navigation

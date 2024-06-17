@@ -1,5 +1,5 @@
 ---
-display_name: Compute Mesh Convex Hull
+title: Compute Mesh Convex Hull
 order: 1
 ---
 ## Navigation

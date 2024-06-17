@@ -1,5 +1,5 @@
 ---
-display_name: Stop Aiming
+title: Stop Aiming
 order: 9
 ---
 ## Navigation

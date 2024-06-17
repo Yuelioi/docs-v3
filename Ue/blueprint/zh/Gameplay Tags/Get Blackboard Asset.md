@@ -1,5 +1,5 @@
 ---
-display_name: Get Blackboard Asset
+title: Get Blackboard Asset
 order: 7
 ---
 ## Navigation

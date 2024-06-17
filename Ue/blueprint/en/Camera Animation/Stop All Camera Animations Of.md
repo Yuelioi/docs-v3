@@ -1,5 +1,5 @@
 ---
-display_name: Stop All Camera Animations Of
+title: Stop All Camera Animations Of
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Ge Resource Object
+title: Ge Resource Object
 order: 2
 ---
 ## Navigation

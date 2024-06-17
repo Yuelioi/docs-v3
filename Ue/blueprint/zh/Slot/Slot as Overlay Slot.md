@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Overlay Slot
+title: Slot as Overlay Slot
 order: 5
 ---
 ## Navigation

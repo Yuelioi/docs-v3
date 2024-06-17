@@ -1,5 +1,5 @@
 ---
-display_name: vertexprimindex
+title: vertexprimindex
 order: 45
 ---
 `int  vertexprimindex(<geometry>geometry, int linearindex)`

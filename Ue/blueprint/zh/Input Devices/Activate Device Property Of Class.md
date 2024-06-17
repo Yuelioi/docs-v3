@@ -1,5 +1,5 @@
 ---
-display_name: Activate Device Property Of Class
+title: Activate Device Property Of Class
 order: 1
 ---
 ## Navigation

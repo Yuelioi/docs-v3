@@ -1,5 +1,5 @@
 ---
-display_name: Vector Add Bounded
+title: Vector Add Bounded
 order: 57
 ---
 ## Navigation

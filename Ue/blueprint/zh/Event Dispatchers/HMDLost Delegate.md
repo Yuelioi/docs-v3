@@ -1,5 +1,5 @@
 ---
-display_name: HMDLost Delegate
+title: HMDLost Delegate
 order: 30
 ---
 ## Navigation

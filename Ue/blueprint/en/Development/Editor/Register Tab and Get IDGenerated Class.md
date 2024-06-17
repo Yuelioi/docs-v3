@@ -1,5 +1,5 @@
 ---
-display_name: Register Tab and Get IDGenerated Class
+title: Register Tab and Get IDGenerated Class
 order: 20
 ---
 ## Navigation

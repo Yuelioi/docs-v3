@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Mesh Material Props
+title: Get Particle Module Mesh Material Props
 order: 77
 ---
 ## Navigation

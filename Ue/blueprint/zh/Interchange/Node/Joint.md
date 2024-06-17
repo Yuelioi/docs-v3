@@ -1,5 +1,5 @@
 ---
-display_name: Joint
+title: Joint
 order: 45
 ---
 ## Navigation

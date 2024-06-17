@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Trackpad Position
+title: Get Last Trackpad Position
 order: 6
 ---
 ## Navigation

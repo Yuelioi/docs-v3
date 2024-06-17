@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Size Scale by Speed Props
+title: Get Particle Module Size Scale by Speed Props
 order: 94
 ---
 ## Navigation

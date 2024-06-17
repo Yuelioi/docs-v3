@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Texture UVLink Enabled
+title: Toggle Texture UVLink Enabled
 order: 242
 ---
 ## Navigation

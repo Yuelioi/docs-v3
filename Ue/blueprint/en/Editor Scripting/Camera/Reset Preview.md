@@ -1,5 +1,5 @@
 ---
-display_name: Reset Preview
+title: Reset Preview
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Controller for Graph
+title: Get Controller for Graph
 order: 51
 ---
 ## Navigation

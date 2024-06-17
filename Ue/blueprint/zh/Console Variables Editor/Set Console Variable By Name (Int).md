@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable By Name (Int)
+title: Set Console Variable By Name (Int)
 order: 13
 ---
 ## Navigation

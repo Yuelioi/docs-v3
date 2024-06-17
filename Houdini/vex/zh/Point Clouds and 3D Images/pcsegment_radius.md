@@ -1,5 +1,5 @@
 ---
-display_name: pcsegment_radius
+title: pcsegment_radius
 order: 30
 ---
 | Since | 18.0 |

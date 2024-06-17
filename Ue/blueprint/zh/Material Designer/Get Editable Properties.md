@@ -1,5 +1,5 @@
 ---
-display_name: Get Editable Properties
+title: Get Editable Properties
 order: 64
 ---
 ## Navigation

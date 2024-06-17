@@ -1,5 +1,5 @@
 ---
-display_name: Get Up Vector at Time
+title: Get Up Vector at Time
 order: 75
 ---
 ## Navigation

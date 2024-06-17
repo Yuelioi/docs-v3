@@ -1,5 +1,5 @@
 ---
-display_name: Get Streaming Source Shapes
+title: Get Streaming Source Shapes
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Spring Direction
+title: Get Spring Direction
 order: 88
 ---
 ## Navigation

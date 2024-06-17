@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Traversal Context
+title: Get Current Traversal Context
 order: 21
 ---
 ## Navigation

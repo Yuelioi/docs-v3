@@ -1,5 +1,5 @@
 ---
-display_name: Min Of Float Array
+title: Min Of Float Array
 order: 27
 ---
 ## Navigation

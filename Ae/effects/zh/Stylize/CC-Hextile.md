@@ -1,5 +1,5 @@
 ---
-display_name: CC蜂巢
+title: CC蜂巢
 order: 5
 ---
 

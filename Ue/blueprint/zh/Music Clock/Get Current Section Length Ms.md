@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Section Length Ms
+title: Get Current Section Length Ms
 order: 13
 ---
 ## Navigation

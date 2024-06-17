@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Data Registry Type
+title: Is Valid Data Registry Type
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Setup Trainer
+title: Setup Trainer
 order: 273
 ---
 ## Navigation

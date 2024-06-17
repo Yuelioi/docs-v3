@@ -1,5 +1,5 @@
 ---
-display_name: Get Schema Name for Component
+title: Get Schema Name for Component
 order: 7
 ---
 ## Navigation

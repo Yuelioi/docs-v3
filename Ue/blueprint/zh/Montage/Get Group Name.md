@@ -1,5 +1,5 @@
 ---
-display_name: Get Group Name
+title: Get Group Name
 order: 6
 ---
 ## Navigation

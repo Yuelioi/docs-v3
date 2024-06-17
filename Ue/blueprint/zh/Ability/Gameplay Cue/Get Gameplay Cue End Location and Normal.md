@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Cue End Location and Normal
+title: Get Gameplay Cue End Location and Normal
 order: 9
 ---
 ## Navigation

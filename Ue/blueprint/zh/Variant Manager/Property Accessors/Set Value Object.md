@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Object
+title: Set Value Object
 order: 20
 ---
 ## Navigation

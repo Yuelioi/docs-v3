@@ -1,5 +1,5 @@
 ---
-display_name: setprimattrib
+title: setprimattrib
 order: 71
 ---
 If you don’t know the attribute class ahead of time, use [setattrib](setattrib.html "Writes an attribute value to geometry.").

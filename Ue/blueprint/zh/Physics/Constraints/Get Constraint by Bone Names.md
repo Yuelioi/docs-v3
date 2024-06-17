@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraint by Bone Names
+title: Get Constraint by Bone Names
 order: 14
 ---
 ## Navigation

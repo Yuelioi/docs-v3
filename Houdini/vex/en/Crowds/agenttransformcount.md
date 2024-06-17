@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformcount
+title: agenttransformcount
 order: 40
 ---
 `int  agenttransformcount(<geometry>geometry, int prim)`

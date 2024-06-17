@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Property
+title: Set Editor Property
 order: 15
 ---
 ## Navigation

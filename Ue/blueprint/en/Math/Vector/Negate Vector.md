@@ -1,5 +1,5 @@
 ---
-display_name: Negate Vector
+title: Negate Vector
 order: 40
 ---
 ## Navigation

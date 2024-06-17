@@ -1,5 +1,5 @@
 ---
-display_name: Get Desktop Resolution
+title: Get Desktop Resolution
 order: 38
 ---
 ## Navigation

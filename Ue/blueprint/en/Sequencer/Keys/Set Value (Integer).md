@@ -1,5 +1,5 @@
 ---
-display_name: Set Value (Integer)
+title: Set Value (Integer)
 order: 131
 ---
 ## Navigation

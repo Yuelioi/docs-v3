@@ -1,5 +1,5 @@
 ---
-display_name: Can Rename
+title: Can Rename
 order: 5
 ---
 ## Navigation

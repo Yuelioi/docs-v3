@@ -1,5 +1,5 @@
 ---
-display_name: Cancel
+title: Cancel
 order: 2
 ---
 ## Navigation

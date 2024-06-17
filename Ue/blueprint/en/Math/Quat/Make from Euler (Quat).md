@@ -1,5 +1,5 @@
 ---
-display_name: Make from Euler (Quat)
+title: Make from Euler (Quat)
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Can Promote Element (Message)
+title: Can Promote Element (Message)
 order: 9
 ---
 ## Navigation

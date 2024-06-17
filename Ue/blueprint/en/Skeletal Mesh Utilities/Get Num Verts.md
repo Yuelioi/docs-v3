@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Verts
+title: Get Num Verts
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Camera Rig from Points
+title: Spawn Camera Rig from Points
 order: 20
 ---
 ## Navigation

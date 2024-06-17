@@ -1,5 +1,5 @@
 ---
-display_name: Cast to Control Rig Blueprint
+title: Cast to Control Rig Blueprint
 order: 1
 ---
 ## Navigation

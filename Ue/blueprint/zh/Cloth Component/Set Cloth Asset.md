@@ -1,5 +1,5 @@
 ---
-display_name: Set Cloth Asset
+title: Set Cloth Asset
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: System
+title: System
 order: 4
 ---
 

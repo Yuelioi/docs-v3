@@ -1,5 +1,5 @@
 ---
-display_name: Is Nearly Zero 2D
+title: Is Nearly Zero 2D
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Compute Next Take Number
+title: Compute Next Take Number
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Explicit Time
+title: Set Explicit Time
 order: 12
 ---
 ## Navigation

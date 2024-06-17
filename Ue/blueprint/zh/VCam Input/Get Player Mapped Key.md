@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Mapped Key
+title: Get Player Mapped Key
 order: 6
 ---
 ## Navigation

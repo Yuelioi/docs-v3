@@ -1,5 +1,5 @@
 ---
-display_name: On Component Replaced
+title: On Component Replaced
 order: 8
 ---
 ## Navigation

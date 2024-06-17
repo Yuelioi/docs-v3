@@ -1,5 +1,5 @@
 ---
-display_name: Get Velocity
+title: Get Velocity
 order: 4
 ---
 ## Navigation

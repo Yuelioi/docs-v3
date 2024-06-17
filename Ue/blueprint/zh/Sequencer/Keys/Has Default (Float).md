@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Float)
+title: Has Default (Float)
 order: 78
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Mouse Capture
+title: Has Mouse Capture
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Rotation Similarity
+title: Make Reward from Rotation Similarity
 order: 223
 ---
 ## Navigation

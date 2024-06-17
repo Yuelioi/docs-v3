@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequence
+title: Play Sequence
 order: 34
 ---
 ## Navigation

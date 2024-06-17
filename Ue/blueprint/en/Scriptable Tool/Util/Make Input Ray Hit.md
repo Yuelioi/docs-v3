@@ -1,5 +1,5 @@
 ---
-display_name: Make Input Ray Hit
+title: Make Input Ray Hit
 order: 3
 ---
 ## Navigation

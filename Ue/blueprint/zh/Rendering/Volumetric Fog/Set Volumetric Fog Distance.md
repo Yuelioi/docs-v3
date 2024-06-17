@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog Distance
+title: Set Volumetric Fog Distance
 order: 3
 ---
 ## Navigation

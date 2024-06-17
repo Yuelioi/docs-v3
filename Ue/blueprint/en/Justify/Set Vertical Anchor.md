@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertical Anchor
+title: Set Vertical Anchor
 order: 12
 ---
 ## Navigation

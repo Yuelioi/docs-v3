@@ -1,5 +1,5 @@
 ---
-display_name: Compute Lightmap Resolution
+title: Compute Lightmap Resolution
 order: 1
 ---
 ## Navigation

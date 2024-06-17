@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Node
+title: Duplicate Node
 order: 18
 ---
 ## Navigation

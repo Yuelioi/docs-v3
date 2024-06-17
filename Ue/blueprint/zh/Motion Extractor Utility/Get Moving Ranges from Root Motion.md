@@ -1,5 +1,5 @@
 ---
-display_name: Get Moving Ranges from Root Motion
+title: Get Moving Ranges from Root Motion
 order: 3
 ---
 ## Navigation

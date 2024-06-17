@@ -1,5 +1,5 @@
 ---
-display_name: Set Breaking Event Enabled
+title: Set Breaking Event Enabled
 order: 6
 ---
 ## Navigation

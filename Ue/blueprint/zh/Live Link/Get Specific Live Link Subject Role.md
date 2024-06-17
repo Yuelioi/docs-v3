@@ -1,5 +1,5 @@
 ---
-display_name: Get Specific Live Link Subject Role
+title: Get Specific Live Link Subject Role
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set LODMaterial Slot
+title: Set LODMaterial Slot
 order: 37
 ---
 ## Navigation

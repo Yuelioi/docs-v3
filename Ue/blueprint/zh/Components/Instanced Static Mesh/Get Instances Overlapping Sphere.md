@@ -1,5 +1,5 @@
 ---
-display_name: Get Instances Overlapping Sphere
+title: Get Instances Overlapping Sphere
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Space
+title: Get Color Space
 order: 24
 ---
 ## Navigation

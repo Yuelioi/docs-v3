@@ -1,5 +1,5 @@
 ---
-display_name: Num Sockets
+title: Num Sockets
 order: 5
 ---
 ## Navigation

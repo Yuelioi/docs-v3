@@ -1,5 +1,5 @@
 ---
-display_name: Get Has Vertex Colors
+title: Get Has Vertex Colors
 order: 11
 ---
 ## Navigation

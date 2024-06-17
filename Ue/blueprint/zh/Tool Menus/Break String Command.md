@@ -1,5 +1,5 @@
 ---
-display_name: Break String Command
+title: Break String Command
 order: 9
 ---
 ## Navigation

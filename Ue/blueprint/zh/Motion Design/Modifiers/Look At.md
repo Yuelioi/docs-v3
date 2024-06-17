@@ -1,5 +1,5 @@
 ---
-display_name: Look At
+title: Look At
 order: 5
 ---
 ## Navigation

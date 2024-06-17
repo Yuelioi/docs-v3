@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Rotation
+title: Get Desired Rotation
 order: 8
 ---
 ## Navigation

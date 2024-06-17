@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Reflection View Sample Count Scale
+title: Set Shadow Reflection View Sample Count Scale
 order: 79
 ---
 ## Navigation

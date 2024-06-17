@@ -1,5 +1,5 @@
 ---
-display_name: Name-Explain
+title: Name-Explain
 order: 2
 ---
 

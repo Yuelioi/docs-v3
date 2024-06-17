@@ -1,5 +1,5 @@
 ---
-display_name: To Byte (Integer64)
+title: To Byte (Integer64)
 order: 6
 ---
 ## Navigation

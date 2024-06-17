@@ -1,5 +1,5 @@
 ---
-display_name: Offset Transforms
+title: Offset Transforms
 order: 7
 ---
 ## Navigation

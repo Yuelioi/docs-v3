@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Pointer Scrolling Enabled
+title: Set Is Pointer Scrolling Enabled
 order: 7
 ---
 ## Navigation

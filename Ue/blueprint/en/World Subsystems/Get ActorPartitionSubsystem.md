@@ -1,5 +1,5 @@
 ---
-display_name: Get ActorPartitionSubsystem
+title: Get ActorPartitionSubsystem
 order: 2
 ---
 ## Navigation

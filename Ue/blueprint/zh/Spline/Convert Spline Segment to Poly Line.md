@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline Segment to Poly Line
+title: Convert Spline Segment to Poly Line
 order: 6
 ---
 ## Navigation

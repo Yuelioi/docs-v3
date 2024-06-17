@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Object Path)
+title: Get Value (Object Path)
 order: 72
 ---
 ## Navigation

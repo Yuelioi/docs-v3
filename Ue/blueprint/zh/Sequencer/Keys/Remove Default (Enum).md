@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Enum)
+title: Remove Default (Enum)
 order: 85
 ---
 ## Navigation

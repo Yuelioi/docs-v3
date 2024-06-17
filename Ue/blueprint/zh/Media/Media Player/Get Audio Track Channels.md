@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Track Channels
+title: Get Audio Track Channels
 order: 5
 ---
 ## Navigation

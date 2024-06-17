@@ -1,5 +1,5 @@
 ---
-display_name: Find Matching Actors to Rebind
+title: Find Matching Actors to Rebind
 order: 2
 ---
 ## Navigation

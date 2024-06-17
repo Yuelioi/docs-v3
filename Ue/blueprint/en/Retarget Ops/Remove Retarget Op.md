@@ -1,5 +1,5 @@
 ---
-display_name: Remove Retarget Op
+title: Remove Retarget Op
 order: 10
 ---
 ## Navigation

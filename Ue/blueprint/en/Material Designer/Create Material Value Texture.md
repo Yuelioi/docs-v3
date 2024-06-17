@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Value Texture
+title: Create Material Value Texture
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mobile Font Size Multiplier
+title: Set Mobile Font Size Multiplier
 order: 2
 ---
 ## Navigation

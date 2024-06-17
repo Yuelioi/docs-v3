@@ -1,5 +1,5 @@
 ---
-display_name: Remove Agent
+title: Remove Agent
 order: 251
 ---
 ## Navigation

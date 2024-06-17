@@ -1,5 +1,5 @@
 ---
-display_name: Is Camera Cut Locked to Viewport
+title: Is Camera Cut Locked to Viewport
 order: 38
 ---
 ## Navigation

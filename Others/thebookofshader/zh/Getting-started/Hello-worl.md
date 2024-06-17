@@ -1,5 +1,5 @@
 ---
-display_name: “Hello-world!”
+title: “Hello-world!”
 order: 6
 ---
 

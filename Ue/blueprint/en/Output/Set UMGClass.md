@@ -1,5 +1,5 @@
 ---
-display_name: Set UMGClass
+title: Set UMGClass
 order: 8
 ---
 ## Navigation

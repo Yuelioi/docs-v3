@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Pin
+title: Get Input Pin
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Seek
+title: Seek
 order: 69
 ---
 ## Navigation

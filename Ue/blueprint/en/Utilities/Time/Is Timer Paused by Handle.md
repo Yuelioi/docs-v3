@@ -1,5 +1,5 @@
 ---
-display_name: Is Timer Paused by Handle
+title: Is Timer Paused by Handle
 order: 22
 ---
 ## Navigation

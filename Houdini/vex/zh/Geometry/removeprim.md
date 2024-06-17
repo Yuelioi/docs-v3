@@ -1,5 +1,5 @@
 ---
-display_name: removeprim
+title: removeprim
 order: 33
 ---
 `int  removeprim(int geohandle, int prim_number, int andpoints)`

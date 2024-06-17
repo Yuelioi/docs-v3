@@ -1,5 +1,5 @@
 ---
-display_name: Client Play Force Feedback
+title: Client Play Force Feedback
 order: 2
 ---
 ## Navigation

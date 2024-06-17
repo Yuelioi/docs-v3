@@ -1,5 +1,5 @@
 ---
-display_name: Is Control Selected
+title: Is Control Selected
 order: 26
 ---
 ## Navigation

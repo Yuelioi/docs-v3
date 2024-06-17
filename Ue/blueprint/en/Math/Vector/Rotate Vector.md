@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Vector
+title: Rotate Vector
 order: 51
 ---
 ## Navigation

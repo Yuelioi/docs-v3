@@ -1,5 +1,5 @@
 ---
-display_name: Set Barn Door Angle
+title: Set Barn Door Angle
 order: 6
 ---
 ## Navigation

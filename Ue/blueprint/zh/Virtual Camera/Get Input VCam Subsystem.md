@@ -1,5 +1,5 @@
 ---
-display_name: Get Input VCam Subsystem
+title: Get Input VCam Subsystem
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All AR Geometries By Class
+title: Get All AR Geometries By Class
 order: 6
 ---
 ## Navigation

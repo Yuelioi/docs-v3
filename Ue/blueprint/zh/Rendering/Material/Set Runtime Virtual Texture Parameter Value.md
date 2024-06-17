@@ -1,5 +1,5 @@
 ---
-display_name: Set Runtime Virtual Texture Parameter Value
+title: Set Runtime Virtual Texture Parameter Value
 order: 51
 ---
 ## Navigation

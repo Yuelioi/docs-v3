@@ -1,5 +1,5 @@
 ---
-display_name: rint
+title: rint
 order: 67
 ---
 `float  rint(float n)`

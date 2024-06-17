@@ -1,5 +1,5 @@
 ---
-display_name: Get Primary Assets with Bundle State
+title: Get Primary Assets with Bundle State
 order: 15
 ---
 ## Navigation

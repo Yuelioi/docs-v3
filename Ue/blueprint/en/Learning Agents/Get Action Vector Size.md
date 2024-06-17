@@ -1,5 +1,5 @@
 ---
-display_name: Get Action Vector Size
+title: Get Action Vector Size
 order: 26
 ---
 ## Navigation

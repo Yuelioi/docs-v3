@@ -1,5 +1,5 @@
 ---
-display_name: Create Mesh Object
+title: Create Mesh Object
 order: 2
 ---
 ## Navigation

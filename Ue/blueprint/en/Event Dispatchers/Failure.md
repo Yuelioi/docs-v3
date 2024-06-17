@@ -1,5 +1,5 @@
 ---
-display_name: Failure
+title: Failure
 order: 27
 ---
 ## Navigation

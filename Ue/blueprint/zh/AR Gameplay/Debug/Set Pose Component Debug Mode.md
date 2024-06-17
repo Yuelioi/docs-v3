@@ -1,5 +1,5 @@
 ---
-display_name: Set Pose Component Debug Mode
+title: Set Pose Component Debug Mode
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Flush Net Dormancy
+title: Flush Net Dormancy
 order: 2
 ---
 ## Navigation

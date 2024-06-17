@@ -1,5 +1,5 @@
 ---
-display_name: Get Range Scale Max
+title: Get Range Scale Max
 order: 38
 ---
 ## Navigation

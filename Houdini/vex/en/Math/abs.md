@@ -1,5 +1,5 @@
 ---
-display_name: abs
+title: abs
 order: 4
 ---
 `int  abs(int n)`

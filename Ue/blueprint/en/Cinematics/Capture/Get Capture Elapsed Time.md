@@ -1,5 +1,5 @@
 ---
-display_name: Get Capture Elapsed Time
+title: Get Capture Elapsed Time
 order: 3
 ---
 ## Navigation

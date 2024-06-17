@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaMaskSubsystem
+title: Get AvaMaskSubsystem
 order: 8
 ---
 ## Navigation

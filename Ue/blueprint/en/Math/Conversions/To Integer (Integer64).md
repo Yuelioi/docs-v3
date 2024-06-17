@@ -1,5 +1,5 @@
 ---
-display_name: To Integer (Integer64)
+title: To Integer (Integer64)
 order: 16
 ---
 ## Navigation

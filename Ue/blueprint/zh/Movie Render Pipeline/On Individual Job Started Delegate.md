@@ -1,5 +1,5 @@
 ---
-display_name: On Individual Job Started Delegate
+title: On Individual Job Started Delegate
 order: 85
 ---
 ## Navigation

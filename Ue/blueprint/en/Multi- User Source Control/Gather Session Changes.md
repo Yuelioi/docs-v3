@@ -1,5 +1,5 @@
 ---
-display_name: Gather Session Changes
+title: Gather Session Changes
 order: 1
 ---
 ## Navigation

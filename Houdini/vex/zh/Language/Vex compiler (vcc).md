@@ -1,5 +1,5 @@
 ---
-display_name: Vex compiler (vcc)
+title: Vex compiler (vcc)
 order: 8
 ---
 | On this page | * [Command-line options](#command-line-options)   + [Compiler options](#compiler-options)  + [Preprocessor options](#preprocessor-options)  + [Diagnostic options](#diagnostic-options)  + [VEX Context options](#vex-context-options)  + [Asset options](#otl)  + [Dialog Script options](#ds) * [Pre-processor](#pre-processor)   + [Predefined macros](#predefined-macros) |

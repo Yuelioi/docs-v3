@@ -1,5 +1,5 @@
 ---
-display_name: Call Function by Name
+title: Call Function by Name
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Input Type
+title: Set Current Input Type
 order: 7
 ---
 ## Navigation

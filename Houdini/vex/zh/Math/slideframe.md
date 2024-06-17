@@ -1,5 +1,5 @@
 ---
-display_name: slideframe
+title: slideframe
 order: 74
 ---
 `vector  slideframe(vector t0, vector t1, vector v0)`

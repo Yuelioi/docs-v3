@@ -1,5 +1,5 @@
 ---
-display_name: Set Emissive Light Source
+title: Set Emissive Light Source
 order: 28
 ---
 ## Navigation

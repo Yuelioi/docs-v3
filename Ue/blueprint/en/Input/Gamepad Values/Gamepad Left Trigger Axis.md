@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Trigger Axis
+title: Gamepad Left Trigger Axis
 order: 3
 ---
 ## Navigation

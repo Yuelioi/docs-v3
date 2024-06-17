@@ -1,5 +1,5 @@
 ---
-display_name: Read Color Attribute
+title: Read Color Attribute
 order: 14
 ---
 ## Navigation

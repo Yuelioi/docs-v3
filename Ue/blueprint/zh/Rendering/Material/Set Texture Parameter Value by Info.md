@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Parameter Value by Info
+title: Set Texture Parameter Value by Info
 order: 59
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Thumbnail
+title: Get Thumbnail
 order: 1
 ---
 ## Navigation

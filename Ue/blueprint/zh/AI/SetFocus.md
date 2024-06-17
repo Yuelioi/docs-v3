@@ -1,5 +1,5 @@
 ---
-display_name: SetFocus
+title: SetFocus
 order: 31
 ---
 ## Navigation

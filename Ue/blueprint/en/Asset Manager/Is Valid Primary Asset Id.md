@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Primary Asset Id
+title: Is Valid Primary Asset Id
 order: 19
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Use Skeletal Animation
+title: Set Control Use Skeletal Animation
 order: 116
 ---
 ## Navigation

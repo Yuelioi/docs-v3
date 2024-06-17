@@ -1,5 +1,5 @@
 ---
-display_name: Get Q From Bandwidth
+title: Get Q From Bandwidth
 order: 12
 ---
 ## Navigation

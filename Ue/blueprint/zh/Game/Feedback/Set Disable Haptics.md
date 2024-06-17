@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Haptics
+title: Set Disable Haptics
 order: 13
 ---
 ## Navigation

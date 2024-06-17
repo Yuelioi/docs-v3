@@ -1,5 +1,5 @@
 ---
-display_name: Get Scene Reconstruction Method
+title: Get Scene Reconstruction Method
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Static Array Action
+title: Make Static Array Action
 order: 237
 ---
 ## Navigation

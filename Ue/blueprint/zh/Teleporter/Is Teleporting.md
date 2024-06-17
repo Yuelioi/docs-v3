@@ -1,5 +1,5 @@
 ---
-display_name: Is Teleporting
+title: Is Teleporting
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Input Type
+title: Get Current Input Type
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn VPEditor Tickable Actor
+title: Spawn VPEditor Tickable Actor
 order: 24
 ---
 ## Navigation

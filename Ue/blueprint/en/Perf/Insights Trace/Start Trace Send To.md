@@ -1,5 +1,5 @@
 ---
-display_name: Start Trace Send To
+title: Start Trace Send To
 order: 7
 ---
 ## Navigation

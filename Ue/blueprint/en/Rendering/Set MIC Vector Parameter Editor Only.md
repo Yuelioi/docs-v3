@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Vector Parameter Editor Only
+title: Set MIC Vector Parameter Editor Only
 order: 56
 ---
 ## Navigation

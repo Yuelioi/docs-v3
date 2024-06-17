@@ -1,5 +1,5 @@
 ---
-display_name: Is Airborne
+title: Is Airborne
 order: 2
 ---
 ## Navigation

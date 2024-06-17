@@ -1,5 +1,5 @@
 ---
-display_name: Get Entry Node
+title: Get Entry Node
 order: 10
 ---
 ## Navigation

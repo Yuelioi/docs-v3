@@ -1,5 +1,5 @@
 ---
-display_name: Init Write
+title: Init Write
 order: 3
 ---
 ## Navigation

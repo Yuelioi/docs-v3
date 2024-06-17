@@ -1,5 +1,5 @@
 ---
-display_name: Down
+title: Down
 order: 27
 ---
 ## Navigation

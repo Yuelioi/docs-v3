@@ -1,5 +1,5 @@
 ---
-display_name: Get Landscape
+title: Get Landscape
 order: 5
 ---
 ## Navigation

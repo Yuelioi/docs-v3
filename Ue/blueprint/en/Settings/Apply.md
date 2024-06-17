@@ -1,5 +1,5 @@
 ---
-display_name: Apply
+title: Apply
 order: 15
 ---
 ## Navigation

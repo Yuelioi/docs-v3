@@ -1,5 +1,5 @@
 ---
-display_name: Compute-Cache-API
+title: Compute-Cache-API
 order: 6
 ---
 

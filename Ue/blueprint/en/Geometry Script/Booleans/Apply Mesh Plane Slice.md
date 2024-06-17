@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Plane Slice
+title: Apply Mesh Plane Slice
 order: 4
 ---
 ## Navigation

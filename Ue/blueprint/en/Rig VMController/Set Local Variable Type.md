@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Variable Type
+title: Set Local Variable Type
 order: 107
 ---
 ## Navigation

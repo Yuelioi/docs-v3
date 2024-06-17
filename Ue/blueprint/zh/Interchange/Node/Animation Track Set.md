@@ -1,5 +1,5 @@
 ---
-display_name: Animation Track Set
+title: Animation Track Set
 order: 14
 ---
 ## Navigation

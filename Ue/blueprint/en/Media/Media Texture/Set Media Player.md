@@ -1,5 +1,5 @@
 ---
-display_name: Set Media Player
+title: Set Media Player
 order: 7
 ---
 ## Navigation

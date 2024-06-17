@@ -1,5 +1,5 @@
 ---
-display_name: Make Proportion Along Spline Observation
+title: Make Proportion Along Spline Observation
 order: 217
 ---
 ## Navigation

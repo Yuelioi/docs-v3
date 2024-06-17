@@ -1,5 +1,5 @@
 ---
-display_name: Add Node Of Type
+title: Add Node Of Type
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Time
+title: Get Delta Time
 order: 11
 ---
 ## Navigation

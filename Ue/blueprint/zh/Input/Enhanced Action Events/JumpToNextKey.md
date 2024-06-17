@@ -1,5 +1,5 @@
 ---
-display_name: JumpToNextKey
+title: JumpToNextKey
 order: 32
 ---
 ## Navigation

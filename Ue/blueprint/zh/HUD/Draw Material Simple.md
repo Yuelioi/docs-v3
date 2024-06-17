@@ -1,5 +1,5 @@
 ---
-display_name: Draw Material Simple
+title: Draw Material Simple
 order: 5
 ---
 ## Navigation

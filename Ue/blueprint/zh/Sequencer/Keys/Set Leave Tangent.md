@@ -1,5 +1,5 @@
 ---
-display_name: Set Leave Tangent
+title: Set Leave Tangent
 order: 111
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Invalidate Layout and Volatility
+title: Invalidate Layout and Volatility
 order: 10
 ---
 ## Navigation

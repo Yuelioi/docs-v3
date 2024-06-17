@@ -1,5 +1,5 @@
 ---
-display_name: Should Hide Property Names
+title: Should Hide Property Names
 order: 140
 ---
 ## Navigation

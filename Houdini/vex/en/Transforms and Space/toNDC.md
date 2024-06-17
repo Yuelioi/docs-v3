@@ -1,5 +1,5 @@
 ---
-display_name: toNDC
+title: toNDC
 order: 31
 ---
 `vector  toNDC(vector point)`

@@ -1,5 +1,5 @@
 ---
-display_name: sampledisk
+title: sampledisk
 order: 31
 ---
 `void  sampledisk(float &x, float &y, float sx, float sy)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Model Interface
+title: Get Model Interface
 order: 6
 ---
 ## Navigation

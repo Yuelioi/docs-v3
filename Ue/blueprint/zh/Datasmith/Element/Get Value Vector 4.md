@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Vector 4
+title: Get Value Vector 4
 order: 82
 ---
 ## Navigation

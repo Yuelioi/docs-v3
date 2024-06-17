@@ -1,5 +1,5 @@
 ---
-display_name: Set LODBias
+title: Set LODBias
 order: 2
 ---
 ## Navigation

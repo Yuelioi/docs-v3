@@ -1,5 +1,5 @@
 ---
-display_name: Create Arc Path 2D
+title: Create Arc Path 2D
 order: 8
 ---
 ## Navigation

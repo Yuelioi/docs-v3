@@ -1,5 +1,5 @@
 ---
-display_name: On Update Tracked Point
+title: On Update Tracked Point
 order: 21
 ---
 ## Navigation

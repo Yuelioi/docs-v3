@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Space
+title: Set Color Space
 order: 107
 ---
 ## Navigation

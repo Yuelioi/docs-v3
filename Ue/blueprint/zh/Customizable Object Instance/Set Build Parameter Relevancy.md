@@ -1,5 +1,5 @@
 ---
-display_name: Set Build Parameter Relevancy
+title: Set Build Parameter Relevancy
 order: 63
 ---
 ## Navigation

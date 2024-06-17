@@ -1,5 +1,5 @@
 ---
-display_name: Is Lazy
+title: Is Lazy
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Region
+title: Region
 order: 10
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: GetInstigatorActor
+title: GetInstigatorActor
 order: 4
 ---
 ## Navigation

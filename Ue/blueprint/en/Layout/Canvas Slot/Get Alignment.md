@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment
+title: Get Alignment
 order: 1
 ---
 ## Navigation

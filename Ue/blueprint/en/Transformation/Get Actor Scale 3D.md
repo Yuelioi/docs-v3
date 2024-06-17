@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Scale 3D
+title: Get Actor Scale 3D
 order: 29
 ---
 ## Navigation

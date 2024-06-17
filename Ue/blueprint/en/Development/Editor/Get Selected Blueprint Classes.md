@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Blueprint Classes
+title: Get Selected Blueprint Classes
 order: 14
 ---
 ## Navigation

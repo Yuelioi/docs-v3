@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Space
+title: Set Blend Space
 order: 8
 ---
 ## Navigation

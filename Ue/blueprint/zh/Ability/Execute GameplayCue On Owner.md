@@ -1,5 +1,5 @@
 ---
-display_name: Execute GameplayCue On Owner
+title: Execute GameplayCue On Owner
 order: 16
 ---
 ## Navigation

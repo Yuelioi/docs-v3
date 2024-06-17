@@ -1,5 +1,5 @@
 ---
-display_name: vertexattrib
+title: vertexattrib
 order: 78
 ---
 `<type> vertexattrib(<geometry>geometry, string attribute_name, int linear_vertex_index, int &success)`

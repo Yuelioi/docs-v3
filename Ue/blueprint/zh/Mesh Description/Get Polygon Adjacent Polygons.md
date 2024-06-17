@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Adjacent Polygons
+title: Get Polygon Adjacent Polygons
 order: 39
 ---
 ## Navigation

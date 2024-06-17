@@ -1,5 +1,5 @@
 ---
-display_name: Announce Accessible String
+title: Announce Accessible String
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Exclude from Light Attachment Group
+title: Set Exclude from Light Attachment Group
 order: 30
 ---
 ## Navigation

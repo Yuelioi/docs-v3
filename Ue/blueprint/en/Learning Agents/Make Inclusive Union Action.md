@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Union Action
+title: Make Inclusive Union Action
 order: 196
 ---
 ## Navigation

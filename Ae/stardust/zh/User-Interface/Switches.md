@@ -1,5 +1,5 @@
 ---
-display_name: 开关(Switches)
+title: 开关(Switches)
 order: 4
 ---
 

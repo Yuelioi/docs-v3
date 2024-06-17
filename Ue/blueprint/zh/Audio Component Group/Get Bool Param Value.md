@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Param Value
+title: Get Bool Param Value
 order: 8
 ---
 ## Navigation

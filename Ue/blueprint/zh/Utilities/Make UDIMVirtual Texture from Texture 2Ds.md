@@ -1,5 +1,5 @@
 ---
-display_name: Make UDIMVirtual Texture from Texture 2Ds
+title: Make UDIMVirtual Texture from Texture 2Ds
 order: 30
 ---
 ## Navigation

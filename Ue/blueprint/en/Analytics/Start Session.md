@@ -1,5 +1,5 @@
 ---
-display_name: Start Session
+title: Start Session
 order: 29
 ---
 ## Navigation

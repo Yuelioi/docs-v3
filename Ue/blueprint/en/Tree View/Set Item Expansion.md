@@ -1,5 +1,5 @@
 ---
-display_name: Set Item Expansion
+title: Set Item Expansion
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Song Length Beats
+title: Get Song Length Beats
 order: 2
 ---
 ## Navigation

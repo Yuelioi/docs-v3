@@ -1,5 +1,5 @@
 ---
-display_name: OnTextCommitted (Multi-Line Text Box)
+title: OnTextCommitted (Multi-Line Text Box)
 order: 16
 ---
 ## Navigation

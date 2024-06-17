@@ -1,5 +1,5 @@
 ---
-display_name: Set Delta Step Scale
+title: Set Delta Step Scale
 order: 22
 ---
 ## Navigation

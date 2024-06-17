@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Category
+title: Get Node Category
 order: 26
 ---
 ## Navigation

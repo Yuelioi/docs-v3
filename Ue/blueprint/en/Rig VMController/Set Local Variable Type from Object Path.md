@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Variable Type from Object Path
+title: Set Local Variable Type from Object Path
 order: 106
 ---
 ## Navigation

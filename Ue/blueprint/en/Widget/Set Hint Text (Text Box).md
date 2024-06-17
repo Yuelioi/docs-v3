@@ -1,5 +1,5 @@
 ---
-display_name: Set Hint Text (Text Box)
+title: Set Hint Text (Text Box)
 order: 14
 ---
 ## Navigation

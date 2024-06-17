@@ -1,5 +1,5 @@
 ---
-display_name: On Executor Errored Delegate
+title: On Executor Errored Delegate
 order: 80
 ---
 ## Navigation

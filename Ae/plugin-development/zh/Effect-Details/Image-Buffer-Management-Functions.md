@@ -1,5 +1,5 @@
 ---
-display_name: Image-Buffer-Management-Functions
+title: Image-Buffer-Management-Functions
 order: 10
 ---
 

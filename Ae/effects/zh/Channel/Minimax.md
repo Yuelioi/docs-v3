@@ -1,6 +1,6 @@
 ---
 order: 8
-display_name: 最小 最大
+title: 最小 最大
 ---
 
 # Minimax - 最小 最大

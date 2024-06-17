@@ -1,5 +1,5 @@
 ---
-display_name: For Each Anim Instance
+title: For Each Anim Instance
 order: 12
 ---
 ## Navigation

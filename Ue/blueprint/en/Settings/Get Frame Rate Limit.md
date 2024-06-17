@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Rate Limit
+title: Get Frame Rate Limit
 order: 41
 ---
 ## Navigation

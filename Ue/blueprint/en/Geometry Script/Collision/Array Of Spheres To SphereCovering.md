@@ -1,5 +1,5 @@
 ---
-display_name: Array Of Spheres To SphereCovering
+title: Array Of Spheres To SphereCovering
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: strip
+title: strip
 order: 38
 ---
 `string  strip(string value)`

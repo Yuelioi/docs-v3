@@ -1,5 +1,5 @@
 ---
-display_name: Clear Show Only Components
+title: Clear Show Only Components
 order: 3
 ---
 ## Navigation

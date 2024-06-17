@@ -1,5 +1,5 @@
 ---
-display_name: Set Cloth Max Distance Scale
+title: Set Cloth Max Distance Scale
 order: 9
 ---
 ## Navigation

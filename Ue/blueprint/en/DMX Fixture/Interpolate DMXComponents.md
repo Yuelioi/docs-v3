@@ -1,5 +1,5 @@
 ---
-display_name: Interpolate DMXComponents
+title: Interpolate DMXComponents
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Gaze Data
+title: Get Gaze Data
 order: 1
 ---
 ## Navigation

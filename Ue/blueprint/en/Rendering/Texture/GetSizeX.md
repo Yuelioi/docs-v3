@@ -1,5 +1,5 @@
 ---
-display_name: GetSizeX
+title: GetSizeX
 order: 4
 ---
 ## Navigation

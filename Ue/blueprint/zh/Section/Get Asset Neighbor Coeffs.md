@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Neighbor Coeffs
+title: Get Asset Neighbor Coeffs
 order: 2
 ---
 ## Navigation

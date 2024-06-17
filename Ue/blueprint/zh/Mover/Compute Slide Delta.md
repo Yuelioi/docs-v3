@@ -1,5 +1,5 @@
 ---
-display_name: Compute Slide Delta
+title: Compute Slide Delta
 order: 12
 ---
 ## Navigation

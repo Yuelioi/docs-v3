@@ -1,5 +1,5 @@
 ---
-display_name: Set Column (Matrix)
+title: Set Column (Matrix)
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Trigger All
+title: Trigger All
 order: 15
 ---
 ## Navigation

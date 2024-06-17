@@ -1,5 +1,5 @@
 ---
-display_name: Format Text
+title: Format Text
 order: 16
 ---
 ## Navigation

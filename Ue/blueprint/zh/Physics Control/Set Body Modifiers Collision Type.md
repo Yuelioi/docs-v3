@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifiers Collision Type
+title: Set Body Modifiers Collision Type
 order: 67
 ---
 ## Navigation

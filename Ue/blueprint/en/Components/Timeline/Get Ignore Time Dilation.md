@@ -1,5 +1,5 @@
 ---
-display_name: Get Ignore Time Dilation
+title: Get Ignore Time Dilation
 order: 5
 ---
 ## Navigation

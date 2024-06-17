@@ -1,5 +1,5 @@
 ---
-display_name: Send Packet
+title: Send Packet
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Parameter Selected Option
+title: Set Color Parameter Selected Option
 order: 64
 ---
 ## Navigation

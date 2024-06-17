@@ -1,5 +1,5 @@
 ---
-display_name: DeleteRigRail
+title: DeleteRigRail
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Int 32To Json
+title: Int 32To Json
 order: 6
 ---
 ## Navigation

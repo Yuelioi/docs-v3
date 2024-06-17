@@ -1,5 +1,5 @@
 ---
-display_name: MoveUpdatedComponent
+title: MoveUpdatedComponent
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: End Recording and Discard
+title: End Recording and Discard
 order: 14
 ---
 ## Navigation

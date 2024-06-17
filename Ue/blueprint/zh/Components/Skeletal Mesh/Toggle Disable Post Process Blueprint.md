@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Disable Post Process Blueprint
+title: Toggle Disable Post Process Blueprint
 order: 31
 ---
 ## Navigation

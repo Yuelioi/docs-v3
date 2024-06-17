@@ -1,5 +1,5 @@
 ---
-display_name: Set Component State
+title: Set Component State
 order: 208
 ---
 ## Navigation

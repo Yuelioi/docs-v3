@@ -1,5 +1,5 @@
 ---
-display_name: CurrentBookmark
+title: CurrentBookmark
 order: 9
 ---
 ## Navigation

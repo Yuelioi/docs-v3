@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated Triangle Vertex Color
+title: Get Interpolated Triangle Vertex Color
 order: 17
 ---
 ## Navigation

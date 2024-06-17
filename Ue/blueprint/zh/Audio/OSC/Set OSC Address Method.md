@@ -1,5 +1,5 @@
 ---
-display_name: Set OSC Address Method
+title: Set OSC Address Method
 order: 70
 ---
 ## Navigation

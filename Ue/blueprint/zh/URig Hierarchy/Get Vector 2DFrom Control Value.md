@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 2DFrom Control Value
+title: Get Vector 2DFrom Control Value
 order: 89
 ---
 ## Navigation

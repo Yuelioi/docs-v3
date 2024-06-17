@@ -1,5 +1,5 @@
 ---
-display_name: Check Integer Type Hints
+title: Check Integer Type Hints
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Factory Node
+title: Get Factory Node
 order: 3
 ---
 ## Navigation

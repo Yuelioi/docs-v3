@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel
+title: Get Channel
 order: 19
 ---
 ## Navigation

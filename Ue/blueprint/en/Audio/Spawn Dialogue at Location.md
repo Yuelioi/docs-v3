@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Dialogue at Location
+title: Spawn Dialogue at Location
 order: 20
 ---
 ## Navigation

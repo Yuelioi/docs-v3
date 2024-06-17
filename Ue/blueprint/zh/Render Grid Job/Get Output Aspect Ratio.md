@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Aspect Ratio
+title: Get Output Aspect Ratio
 order: 16
 ---
 ## Navigation

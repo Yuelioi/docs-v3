@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Observation
+title: Get Float Observation
 order: 71
 ---
 ## Navigation

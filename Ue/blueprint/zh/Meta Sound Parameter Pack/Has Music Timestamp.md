@@ -1,5 +1,5 @@
 ---
-display_name: Has Music Timestamp
+title: Has Music Timestamp
 order: 15
 ---
 ## Navigation

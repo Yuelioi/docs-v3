@@ -1,5 +1,5 @@
 ---
-display_name: On Anim Initialized
+title: On Anim Initialized
 order: 6
 ---
 ## Navigation

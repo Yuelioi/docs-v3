@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Bone Tracks (Message)
+title: Get Num Bone Tracks (Message)
 order: 17
 ---
 ## Navigation

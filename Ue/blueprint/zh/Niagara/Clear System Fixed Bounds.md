@@ -1,5 +1,5 @@
 ---
-display_name: Clear System Fixed Bounds
+title: Clear System Fixed Bounds
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Cloud ARPin
+title: Remove Cloud ARPin
 order: 8
 ---
 ## Navigation

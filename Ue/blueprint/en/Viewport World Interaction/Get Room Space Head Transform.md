@@ -1,5 +1,5 @@
 ---
-display_name: Get Room Space Head Transform
+title: Get Room Space Head Transform
 order: 5
 ---
 ## Navigation

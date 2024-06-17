@@ -1,5 +1,5 @@
 ---
-display_name: Disable Rows Above
+title: Disable Rows Above
 order: 1
 ---
 ## Navigation

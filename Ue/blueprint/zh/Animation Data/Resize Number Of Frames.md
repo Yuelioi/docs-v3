@@ -1,5 +1,5 @@
 ---
-display_name: Resize Number Of Frames
+title: Resize Number Of Frames
 order: 14
 ---
 ## Navigation

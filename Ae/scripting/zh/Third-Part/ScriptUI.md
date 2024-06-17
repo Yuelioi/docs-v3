@@ -1,5 +1,5 @@
 ---
-display_name: ScriptUI
+title: ScriptUI
 order: 1
 ---
 

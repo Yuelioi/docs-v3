@@ -1,5 +1,5 @@
 ---
-display_name: Reimport Scene
+title: Reimport Scene
 order: 46
 ---
 ## Navigation

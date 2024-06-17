@@ -1,5 +1,5 @@
 ---
-display_name: Does Directory Contain Assets
+title: Does Directory Contain Assets
 order: 13
 ---
 ## Navigation

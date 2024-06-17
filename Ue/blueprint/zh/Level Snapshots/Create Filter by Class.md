@@ -1,5 +1,5 @@
 ---
-display_name: Create Filter by Class
+title: Create Filter by Class
 order: 4
 ---
 ## Navigation

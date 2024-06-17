@@ -1,5 +1,5 @@
 ---
-display_name: Vector 2D Zero
+title: Vector 2D Zero
 order: 28
 ---
 ## Navigation

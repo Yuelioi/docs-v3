@@ -1,5 +1,5 @@
 ---
-display_name: Set Paused
+title: Set Paused
 order: 59
 ---
 ## Navigation

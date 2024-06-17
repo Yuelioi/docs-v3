@@ -1,5 +1,5 @@
 ---
-display_name: Get Ambient Color
+title: Get Ambient Color
 order: 2
 ---
 ## Navigation

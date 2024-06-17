@@ -1,5 +1,5 @@
 ---
-display_name: Add Job
+title: Add Job
 order: 1
 ---
 ## Navigation

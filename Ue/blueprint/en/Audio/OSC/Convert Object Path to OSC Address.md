@@ -1,5 +1,5 @@
 ---
-display_name: Convert Object Path to OSC Address
+title: Convert Object Path to OSC Address
 order: 19
 ---
 ## Navigation

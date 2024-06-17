@@ -1,5 +1,5 @@
 ---
-display_name: Vector Length XY
+title: Vector Length XY
 order: 82
 ---
 ## Navigation

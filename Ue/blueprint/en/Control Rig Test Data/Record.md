@@ -1,5 +1,5 @@
 ---
-display_name: Record
+title: Record
 order: 7
 ---
 ## Navigation

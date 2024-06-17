@@ -1,5 +1,5 @@
 ---
-display_name: Set Slate
+title: Set Slate
 order: 23
 ---
 ## Navigation

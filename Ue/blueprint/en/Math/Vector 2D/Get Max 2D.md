@@ -1,5 +1,5 @@
 ---
-display_name: Get Max 2D
+title: Get Max 2D
 order: 10
 ---
 ## Navigation

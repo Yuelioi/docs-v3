@@ -1,5 +1,5 @@
 ---
-display_name: re_match
+title: re_match
 order: 26
 ---
 `int  re_match(string regex, string input)`

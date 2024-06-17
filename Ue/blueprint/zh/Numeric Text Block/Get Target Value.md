@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Value
+title: Get Target Value
 order: 1
 ---
 ## Navigation

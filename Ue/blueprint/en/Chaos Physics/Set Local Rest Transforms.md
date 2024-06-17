@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Rest Transforms
+title: Set Local Rest Transforms
 order: 25
 ---
 ## Navigation

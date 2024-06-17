@@ -1,5 +1,5 @@
 ---
-display_name: Get World Location
+title: Get World Location
 order: 2
 ---
 ## Navigation

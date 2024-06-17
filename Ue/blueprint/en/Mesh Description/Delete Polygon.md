@@ -1,5 +1,5 @@
 ---
-display_name: Delete Polygon
+title: Delete Polygon
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Actor Fracture
+title: On Actor Fracture
 order: 3
 ---
 ## Navigation

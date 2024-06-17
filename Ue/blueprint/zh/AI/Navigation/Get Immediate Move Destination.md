@@ -1,5 +1,5 @@
 ---
-display_name: Get Immediate Move Destination
+title: Get Immediate Move Destination
 order: 10
 ---
 ## Navigation

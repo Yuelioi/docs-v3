@@ -1,5 +1,5 @@
 ---
-display_name: Bind Visibility to Activation
+title: Bind Visibility to Activation
 order: 2
 ---
 ## Navigation

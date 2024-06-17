@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Mesh
+title: Set Dynamic Mesh
 order: 13
 ---
 ## Navigation

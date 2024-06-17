@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Acceleration Drag Props
+title: Get Particle Module Acceleration Drag Props
 order: 56
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Cloth Config Updated
+title: Cloth Config Updated
 order: 1
 ---
 ## Navigation

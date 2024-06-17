@@ -1,5 +1,5 @@
 ---
-display_name: isnan
+title: isnan
 order: 35
 ---
 `int  isnan(float x)`

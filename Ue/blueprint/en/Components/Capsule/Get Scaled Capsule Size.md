@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Capsule Size
+title: Get Scaled Capsule Size
 order: 5
 ---
 ## Navigation

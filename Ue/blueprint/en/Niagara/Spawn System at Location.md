@@ -1,5 +1,5 @@
 ---
-display_name: Spawn System at Location
+title: Spawn System at Location
 order: 80
 ---
 ## Navigation

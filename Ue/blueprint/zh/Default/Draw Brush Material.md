@@ -1,5 +1,5 @@
 ---
-display_name: Draw Brush Material
+title: Draw Brush Material
 order: 2
 ---
 ## Navigation

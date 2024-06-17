@@ -1,5 +1,5 @@
 ---
-display_name: Make Outgoing Gameplay Effect Spec
+title: Make Outgoing Gameplay Effect Spec
 order: 54
 ---
 ## Navigation

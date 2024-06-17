@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Vector 2D Array
+title: Niagara Get Vector 2D Array
 order: 49
 ---
 ## Navigation

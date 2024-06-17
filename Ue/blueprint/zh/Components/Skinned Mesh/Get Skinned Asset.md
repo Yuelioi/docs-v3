@@ -1,5 +1,5 @@
 ---
-display_name: Get Skinned Asset
+title: Get Skinned Asset
 order: 18
 ---
 ## Navigation

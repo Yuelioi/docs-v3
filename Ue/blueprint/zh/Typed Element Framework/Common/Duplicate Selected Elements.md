@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Selected Elements
+title: Duplicate Selected Elements
 order: 8
 ---
 ## Navigation

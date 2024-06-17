@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDIControl Change
+title: Send MIDIControl Change
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: C
+title: C
 order: 19
 ---
 ## Navigation

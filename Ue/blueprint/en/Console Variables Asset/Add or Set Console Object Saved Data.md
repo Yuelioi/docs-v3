@@ -1,5 +1,5 @@
 ---
-display_name: Add or Set Console Object Saved Data
+title: Add or Set Console Object Saved Data
 order: 1
 ---
 ## Navigation

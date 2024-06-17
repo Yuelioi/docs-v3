@@ -1,5 +1,5 @@
 ---
-display_name: Is Time
+title: Is Time
 order: 16
 ---
 ## Navigation

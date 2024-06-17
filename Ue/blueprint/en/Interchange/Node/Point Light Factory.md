@@ -1,5 +1,5 @@
 ---
-display_name: Point Light Factory
+title: Point Light Factory
 order: 55
 ---
 ## Navigation

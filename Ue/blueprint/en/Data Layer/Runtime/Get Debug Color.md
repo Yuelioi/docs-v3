@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug Color
+title: Get Debug Color
 order: 1
 ---
 ## Navigation

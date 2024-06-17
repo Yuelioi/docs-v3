@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Lens Model
+title: Get Registered Lens Model
 order: 14
 ---
 ## Navigation

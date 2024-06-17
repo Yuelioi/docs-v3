@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Wrap Text
+title: Set Auto Wrap Text
 order: 17
 ---
 ## Navigation

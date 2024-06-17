@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Connectors
+title: Get Output Connectors
 order: 114
 ---
 ## Navigation

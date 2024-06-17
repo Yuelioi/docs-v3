@@ -1,5 +1,5 @@
 ---
-display_name: Get Connected Input Action
+title: Get Connected Input Action
 order: 2
 ---
 ## Navigation

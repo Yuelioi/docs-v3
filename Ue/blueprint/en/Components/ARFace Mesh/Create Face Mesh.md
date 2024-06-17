@@ -1,5 +1,5 @@
 ---
-display_name: Create Face Mesh
+title: Create Face Mesh
 order: 2
 ---
 ## Navigation

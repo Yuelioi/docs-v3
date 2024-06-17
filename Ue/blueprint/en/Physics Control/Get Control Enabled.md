@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Enabled
+title: Get Control Enabled
 order: 41
 ---
 ## Navigation

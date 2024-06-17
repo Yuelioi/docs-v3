@@ -1,5 +1,5 @@
 ---
-display_name: Is Map Valid for Remote Render
+title: Is Map Valid for Remote Render
 order: 70
 ---
 ## Navigation

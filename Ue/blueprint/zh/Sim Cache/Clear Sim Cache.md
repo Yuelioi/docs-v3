@@ -1,5 +1,5 @@
 ---
-display_name: Clear Sim Cache
+title: Clear Sim Cache
 order: 1
 ---
 ## Navigation

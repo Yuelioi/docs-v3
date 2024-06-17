@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor to Layer
+title: Add Actor to Layer
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Release Replay
+title: Release Replay
 order: 8
 ---
 ## Navigation

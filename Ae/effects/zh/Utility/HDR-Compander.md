@@ -1,5 +1,5 @@
 ---
-display_name: HDR 压缩扩展器
+title: HDR 压缩扩展器
 order: 6
 ---
 

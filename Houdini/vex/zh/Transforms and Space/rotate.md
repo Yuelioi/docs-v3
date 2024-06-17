@@ -1,5 +1,5 @@
 ---
-display_name: rotate
+title: rotate
 order: 21
 ---
 `void  rotate(matrix2 &m, float amount)`

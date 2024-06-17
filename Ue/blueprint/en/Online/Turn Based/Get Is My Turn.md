@@ -1,5 +1,5 @@
 ---
-display_name: Get Is My Turn
+title: Get Is My Turn
 order: 4
 ---
 ## Navigation

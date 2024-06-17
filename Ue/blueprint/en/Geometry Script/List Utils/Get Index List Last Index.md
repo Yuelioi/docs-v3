@@ -1,5 +1,5 @@
 ---
-display_name: Get Index List Last Index
+title: Get Index List Last Index
 order: 29
 ---
 ## Navigation

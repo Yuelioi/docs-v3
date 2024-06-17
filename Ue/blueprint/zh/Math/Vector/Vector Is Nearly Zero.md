@@ -1,5 +1,5 @@
 ---
-display_name: Vector Is Nearly Zero
+title: Vector Is Nearly Zero
 order: 77
 ---
 ## Navigation

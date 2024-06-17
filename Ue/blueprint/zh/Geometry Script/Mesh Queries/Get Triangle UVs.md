@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle UVs
+title: Get Triangle UVs
 order: 37
 ---
 ## Navigation

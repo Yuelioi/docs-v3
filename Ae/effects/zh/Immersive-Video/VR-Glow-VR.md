@@ -1,5 +1,5 @@
 ---
-display_name: VR发光
+title: VR发光
 order: 8
 ---
 

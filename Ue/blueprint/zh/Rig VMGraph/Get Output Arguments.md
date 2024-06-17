@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Arguments
+title: Get Output Arguments
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Connect Socket
+title: Connect Socket
 order: 6
 ---
 ## Navigation

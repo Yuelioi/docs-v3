@@ -1,5 +1,5 @@
 ---
-display_name: Initialize New Actor Layers
+title: Initialize New Actor Layers
 order: 24
 ---
 ## Navigation

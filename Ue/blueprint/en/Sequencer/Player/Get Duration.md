@@ -1,5 +1,5 @@
 ---
-display_name: Get Duration
+title: Get Duration
 order: 9
 ---
 ## Navigation

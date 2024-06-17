@@ -1,5 +1,5 @@
 ---
-display_name: Create Circle Path 2D
+title: Create Circle Path 2D
 order: 10
 ---
 ## Navigation

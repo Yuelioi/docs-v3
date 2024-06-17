@@ -1,5 +1,5 @@
 ---
-display_name: Write To Niagara Data Channel (Batch)
+title: Write To Niagara Data Channel (Batch)
 order: 28
 ---
 ## Navigation

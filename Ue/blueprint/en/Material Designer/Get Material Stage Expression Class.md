@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Stage Expression Class
+title: Get Material Stage Expression Class
 order: 99
 ---
 ## Navigation

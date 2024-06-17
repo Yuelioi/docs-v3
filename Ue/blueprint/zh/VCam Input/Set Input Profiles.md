@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Profiles
+title: Set Input Profiles
 order: 10
 ---
 ## Navigation

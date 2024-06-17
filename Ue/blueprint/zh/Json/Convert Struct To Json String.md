@@ -1,5 +1,5 @@
 ---
-display_name: Convert Struct To Json String
+title: Convert Struct To Json String
 order: 1
 ---
 ## Navigation

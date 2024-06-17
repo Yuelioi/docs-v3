@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Integer64s
+title: Local Array of Integer64s
 order: 5
 ---
 ## Navigation

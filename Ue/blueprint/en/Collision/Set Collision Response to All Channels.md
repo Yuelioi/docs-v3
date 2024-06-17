@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Response to All Channels
+title: Set Collision Response to All Channels
 order: 71
 ---
 ## Navigation

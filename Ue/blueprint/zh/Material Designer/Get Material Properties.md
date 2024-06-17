@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Properties
+title: Get Material Properties
 order: 97
 ---
 ## Navigation

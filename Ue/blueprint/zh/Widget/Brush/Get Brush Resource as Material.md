@@ -1,5 +1,5 @@
 ---
-display_name: Get Brush Resource as Material
+title: Get Brush Resource as Material
 order: 1
 ---
 ## Navigation

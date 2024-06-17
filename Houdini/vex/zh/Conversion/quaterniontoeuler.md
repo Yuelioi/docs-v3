@@ -1,5 +1,5 @@
 ---
-display_name: quaterniontoeuler
+title: quaterniontoeuler
 order: 8
 ---
 | Since | 17.0 |

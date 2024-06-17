@@ -1,5 +1,5 @@
 ---
-display_name: 杂色 HLS
+title: 杂色 HLS
 order: 9
 ---
 

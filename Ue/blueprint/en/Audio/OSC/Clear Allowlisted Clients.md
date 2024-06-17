@@ -1,5 +1,5 @@
 ---
-display_name: Clear Allowlisted Clients
+title: Clear Allowlisted Clients
 order: 12
 ---
 ## Navigation

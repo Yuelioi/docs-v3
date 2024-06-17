@@ -1,5 +1,5 @@
 ---
-display_name: On Despawning Finished Event
+title: On Despawning Finished Event
 order: 72
 ---
 ## Navigation

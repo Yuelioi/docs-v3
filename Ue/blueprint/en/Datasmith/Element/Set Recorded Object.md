@@ -1,5 +1,5 @@
 ---
-display_name: Set Recorded Object
+title: Set Recorded Object
 order: 129
 ---
 ## Navigation

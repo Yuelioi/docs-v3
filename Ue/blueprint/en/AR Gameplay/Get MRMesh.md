@@ -1,5 +1,5 @@
 ---
-display_name: Get MRMesh
+title: Get MRMesh
 order: 9
 ---
 ## Navigation

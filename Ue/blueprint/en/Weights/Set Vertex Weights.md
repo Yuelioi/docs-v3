@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Weights
+title: Set Vertex Weights
 order: 7
 ---
 ## Navigation

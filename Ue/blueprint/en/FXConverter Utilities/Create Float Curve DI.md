@@ -1,5 +1,5 @@
 ---
-display_name: Create Float Curve DI
+title: Create Float Curve DI
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Sample Texture Render Target 2DAt UVPositions
+title: Sample Texture Render Target 2DAt UVPositions
 order: 3
 ---
 ## Navigation

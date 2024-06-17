@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Frame Rate
+title: Is Valid Frame Rate
 order: 8
 ---
 ## Navigation

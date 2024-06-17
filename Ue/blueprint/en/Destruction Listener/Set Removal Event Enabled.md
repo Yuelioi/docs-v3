@@ -1,5 +1,5 @@
 ---
-display_name: Set Removal Event Enabled
+title: Set Removal Event Enabled
 order: 10
 ---
 ## Navigation

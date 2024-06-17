@@ -1,5 +1,5 @@
 ---
-display_name: Get Boolean Attribute
+title: Get Boolean Attribute
 order: 23
 ---
 ## Navigation

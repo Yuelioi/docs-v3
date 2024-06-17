@@ -1,5 +1,5 @@
 ---
-display_name: Switch on Variant by Index
+title: Switch on Variant by Index
 order: 6
 ---
 ## Navigation

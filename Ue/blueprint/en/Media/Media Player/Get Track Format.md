@@ -1,5 +1,5 @@
 ---
-display_name: Get Track Format
+title: Get Track Format
 order: 27
 ---
 ## Navigation

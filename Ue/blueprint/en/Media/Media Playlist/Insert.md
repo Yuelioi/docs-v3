@@ -1,5 +1,5 @@
 ---
-display_name: Insert
+title: Insert
 order: 8
 ---
 ## Navigation

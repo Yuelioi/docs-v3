@@ -1,5 +1,5 @@
 ---
-display_name: Create Face Mesh from Blend Shapes
+title: Create Face Mesh from Blend Shapes
 order: 1
 ---
 ## Navigation

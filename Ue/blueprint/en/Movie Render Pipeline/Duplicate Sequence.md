@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Sequence
+title: Duplicate Sequence
 order: 11
 ---
 ## Navigation

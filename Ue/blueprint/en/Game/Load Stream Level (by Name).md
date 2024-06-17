@@ -1,5 +1,5 @@
 ---
-display_name: Load Stream Level (by Name)
+title: Load Stream Level (by Name)
 order: 10
 ---
 ## Navigation

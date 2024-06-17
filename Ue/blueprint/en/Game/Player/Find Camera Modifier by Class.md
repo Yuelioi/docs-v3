@@ -1,5 +1,5 @@
 ---
-display_name: Find Camera Modifier by Class
+title: Find Camera Modifier by Class
 order: 10
 ---
 ## Navigation

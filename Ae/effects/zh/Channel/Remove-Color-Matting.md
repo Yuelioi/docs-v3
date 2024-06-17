@@ -1,6 +1,6 @@
 ---
 order: 9
-display_name: 移除颜色遮罩
+title: 移除颜色遮罩
 ---
 
 # Remove Color Matting - 移除颜色遮罩

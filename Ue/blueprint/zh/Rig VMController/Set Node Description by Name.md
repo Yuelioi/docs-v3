@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Description by Name
+title: Set Node Description by Name
 order: 112
 ---
 ## Navigation

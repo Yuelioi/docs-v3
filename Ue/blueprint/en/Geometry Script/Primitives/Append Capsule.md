@@ -1,5 +1,5 @@
 ---
-display_name: Append Capsule
+title: Append Capsule
 order: 3
 ---
 ## Navigation

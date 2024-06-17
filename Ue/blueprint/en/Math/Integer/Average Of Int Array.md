@@ -1,5 +1,5 @@
 ---
-display_name: Average Of Int Array
+title: Average Of Int Array
 order: 3
 ---
 ## Navigation

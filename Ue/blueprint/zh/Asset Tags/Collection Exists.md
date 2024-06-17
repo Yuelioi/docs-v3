@@ -1,5 +1,5 @@
 ---
-display_name: Collection Exists
+title: Collection Exists
 order: 7
 ---
 ## Navigation

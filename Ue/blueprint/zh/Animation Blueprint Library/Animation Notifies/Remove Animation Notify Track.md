@@ -1,5 +1,5 @@
 ---
-display_name: Remove Animation Notify Track
+title: Remove Animation Notify Track
 order: 6
 ---
 ## Navigation

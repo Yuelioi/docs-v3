@@ -1,5 +1,5 @@
 ---
-display_name: usd_addrelationshiptarget
+title: usd_addrelationshiptarget
 order: 8
 ---
 | Since | 18.0 |

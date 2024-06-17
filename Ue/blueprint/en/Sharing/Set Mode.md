@@ -1,5 +1,5 @@
 ---
-display_name: Set Mode
+title: Set Mode
 order: 1
 ---
 ## Navigation

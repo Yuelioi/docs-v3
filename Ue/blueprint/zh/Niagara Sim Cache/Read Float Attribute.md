@@ -1,5 +1,5 @@
 ---
-display_name: Read Float Attribute
+title: Read Float Attribute
 order: 15
 ---
 ## Navigation

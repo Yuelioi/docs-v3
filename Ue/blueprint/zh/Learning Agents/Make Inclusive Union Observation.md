@@ -1,5 +1,5 @@
 ---
-display_name: Make Inclusive Union Observation
+title: Make Inclusive Union Observation
 order: 198
 ---
 ## Navigation

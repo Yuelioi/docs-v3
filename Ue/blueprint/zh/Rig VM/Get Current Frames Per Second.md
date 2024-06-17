@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Frames Per Second
+title: Get Current Frames Per Second
 order: 6
 ---
 ## Navigation

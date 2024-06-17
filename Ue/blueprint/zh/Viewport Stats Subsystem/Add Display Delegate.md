@@ -1,5 +1,5 @@
 ---
-display_name: Add Display Delegate
+title: Add Display Delegate
 order: 1
 ---
 ## Navigation

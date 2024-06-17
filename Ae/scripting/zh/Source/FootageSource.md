@@ -1,5 +1,5 @@
 ---
-display_name: FootageSource
+title: FootageSource
 order: 2
 ---
 

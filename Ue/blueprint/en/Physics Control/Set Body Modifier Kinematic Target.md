@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifier Kinematic Target
+title: Set Body Modifier Kinematic Target
 order: 59
 ---
 ## Navigation

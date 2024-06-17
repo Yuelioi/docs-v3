@@ -1,5 +1,5 @@
 ---
-display_name: Get Lens Displacement Texture
+title: Get Lens Displacement Texture
 order: 1
 ---
 ## Navigation

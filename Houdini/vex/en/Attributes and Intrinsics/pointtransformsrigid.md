@@ -1,5 +1,5 @@
 ---
-display_name: pointtransformsrigid
+title: pointtransformsrigid
 order: 43
 ---
 | Since | 18.5 |

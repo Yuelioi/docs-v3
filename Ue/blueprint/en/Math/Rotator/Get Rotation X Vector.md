@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation X Vector
+title: Get Rotation X Vector
 order: 9
 ---
 ## Navigation

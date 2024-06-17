@@ -1,5 +1,5 @@
 ---
-display_name: Continue Sequences (by Tag)
+title: Continue Sequences (by Tag)
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Binding By Role
+title: Get Binding By Role
 order: 8
 ---
 ## Navigation

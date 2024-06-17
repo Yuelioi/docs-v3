@@ -1,5 +1,5 @@
 ---
-display_name: Divide Spline Into Polyline Recursive
+title: Divide Spline Into Polyline Recursive
 order: 12
 ---
 ## Navigation

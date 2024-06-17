@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Plane)
+title: Assert Equal (Plane)
 order: 9
 ---
 ## Navigation

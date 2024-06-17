@@ -1,5 +1,5 @@
 ---
-display_name: smoothrotation
+title: smoothrotation
 order: 25
 ---
 `vector  smoothrotation(int order, vector r, vector r_reference)`

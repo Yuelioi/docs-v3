@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Scalar List
+title: Duplicate Scalar List
 order: 20
 ---
 ## Navigation

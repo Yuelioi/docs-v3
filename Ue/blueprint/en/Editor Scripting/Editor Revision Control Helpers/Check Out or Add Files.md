@@ -1,5 +1,5 @@
 ---
-display_name: Check Out or Add Files
+title: Check Out or Add Files
 order: 5
 ---
 ## Navigation

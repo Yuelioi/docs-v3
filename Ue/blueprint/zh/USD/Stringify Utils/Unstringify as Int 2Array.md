@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 2Array
+title: Unstringify as Int 2Array
 order: 93
 ---
 ## Navigation

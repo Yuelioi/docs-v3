@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Size
+title: Get Viewport Size
 order: 17
 ---
 ## Navigation

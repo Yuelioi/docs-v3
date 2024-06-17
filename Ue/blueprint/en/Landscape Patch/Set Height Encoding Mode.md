@@ -1,5 +1,5 @@
 ---
-display_name: Set Height Encoding Mode
+title: Set Height Encoding Mode
 order: 29
 ---
 ## Navigation

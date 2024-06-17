@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Live Link Data from Owning Component
+title: Get Current Live Link Data from Owning Component
 order: 16
 ---
 ## Navigation

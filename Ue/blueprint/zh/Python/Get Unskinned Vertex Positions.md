@@ -1,5 +1,5 @@
 ---
-display_name: Get Unskinned Vertex Positions
+title: Get Unskinned Vertex Positions
 order: 15
 ---
 ## Navigation

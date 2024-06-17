@@ -1,5 +1,5 @@
 ---
-display_name: Set Haptics by Value
+title: Set Haptics by Value
 order: 14
 ---
 ## Navigation

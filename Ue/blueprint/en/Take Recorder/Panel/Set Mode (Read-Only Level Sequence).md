@@ -1,5 +1,5 @@
 ---
-display_name: Set Mode (Read-Only Level Sequence)
+title: Set Mode (Read-Only Level Sequence)
 order: 12
 ---
 ## Navigation

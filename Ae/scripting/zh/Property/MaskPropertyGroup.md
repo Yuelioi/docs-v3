@@ -1,5 +1,5 @@
 ---
-display_name: MaskPropertyGroup
+title: MaskPropertyGroup
 order: 1
 ---
 

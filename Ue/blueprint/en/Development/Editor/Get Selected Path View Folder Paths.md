@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Path View Folder Paths
+title: Get Selected Path View Folder Paths
 order: 16
 ---
 ## Navigation

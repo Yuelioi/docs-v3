@@ -1,5 +1,5 @@
 ---
-display_name: Create Flattened Graph
+title: Create Flattened Graph
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Change Playback Direction
+title: Change Playback Direction
 order: 2
 ---
 ## Navigation

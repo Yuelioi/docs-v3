@@ -1,5 +1,5 @@
 ---
-display_name: 体积光 Volumetric
+title: 体积光 Volumetric
 order: 2
 ---
 

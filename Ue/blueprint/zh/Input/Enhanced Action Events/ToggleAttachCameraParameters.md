@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttachCameraParameters
+title: ToggleAttachCameraParameters
 order: 97
 ---
 ## Navigation

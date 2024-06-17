@@ -1,5 +1,5 @@
 ---
-display_name: Set Rectangle
+title: Set Rectangle
 order: 1
 ---
 ## Navigation

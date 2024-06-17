@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Offset Usage
+title: Set Vertex Offset Usage
 order: 38
 ---
 ## Navigation

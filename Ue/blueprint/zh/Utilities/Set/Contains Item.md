@@ -1,5 +1,5 @@
 ---
-display_name: Contains Item
+title: Contains Item
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Stop
+title: On Stop
 order: 29
 ---
 ## Navigation

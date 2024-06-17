@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Up Vector
+title: Get Actor Up Vector
 order: 31
 ---
 ## Navigation

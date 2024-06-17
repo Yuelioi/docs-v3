@@ -1,5 +1,5 @@
 ---
-display_name: Atan (Radians)
+title: Atan (Radians)
 order: 6
 ---
 ## Navigation

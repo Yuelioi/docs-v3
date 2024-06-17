@@ -1,5 +1,5 @@
 ---
-display_name: Get Multi-User Client Info by Name
+title: Get Multi-User Client Info by Name
 order: 4
 ---
 ## Navigation

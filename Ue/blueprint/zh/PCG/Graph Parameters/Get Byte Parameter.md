@@ -1,5 +1,5 @@
 ---
-display_name: Get Byte Parameter
+title: Get Byte Parameter
 order: 2
 ---
 ## Navigation

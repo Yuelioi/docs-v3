@@ -1,5 +1,5 @@
 ---
-display_name: Get Behavior Definition by Request Result
+title: Get Behavior Definition by Request Result
 order: 15
 ---
 ## Navigation

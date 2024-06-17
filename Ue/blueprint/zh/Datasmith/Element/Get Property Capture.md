@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Capture
+title: Get Property Capture
 order: 51
 ---
 ## Navigation

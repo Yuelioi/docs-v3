@@ -1,5 +1,5 @@
 ---
-display_name: Get Delta Bar
+title: Get Delta Bar
 order: 19
 ---
 ## Navigation

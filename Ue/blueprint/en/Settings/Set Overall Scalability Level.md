@@ -1,5 +1,5 @@
 ---
-display_name: Set Overall Scalability Level
+title: Set Overall Scalability Level
 order: 125
 ---
 ## Navigation

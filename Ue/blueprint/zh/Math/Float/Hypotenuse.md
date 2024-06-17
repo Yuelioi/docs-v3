@@ -1,5 +1,5 @@
 ---
-display_name: Hypotenuse
+title: Hypotenuse
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Exposed Properties
+title: Get Exposed Properties
 order: 25
 ---
 ## Navigation

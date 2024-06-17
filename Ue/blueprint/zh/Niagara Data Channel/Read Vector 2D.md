@@ -1,5 +1,5 @@
 ---
-display_name: Read Vector 2D
+title: Read Vector 2D
 order: 16
 ---
 ## Navigation

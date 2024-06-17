@@ -1,5 +1,5 @@
 ---
-display_name: HSV to RGB linear color
+title: HSV to RGB linear color
 order: 5
 ---
 ## Navigation

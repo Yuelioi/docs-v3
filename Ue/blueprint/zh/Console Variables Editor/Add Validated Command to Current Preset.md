@@ -1,5 +1,5 @@
 ---
-display_name: Add Validated Command to Current Preset
+title: Add Validated Command to Current Preset
 order: 1
 ---
 ## Navigation

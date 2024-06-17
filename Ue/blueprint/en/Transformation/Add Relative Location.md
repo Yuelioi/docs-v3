@@ -1,5 +1,5 @@
 ---
-display_name: Add Relative Location
+title: Add Relative Location
 order: 11
 ---
 ## Navigation

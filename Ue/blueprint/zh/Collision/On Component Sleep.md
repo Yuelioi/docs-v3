@@ -1,5 +1,5 @@
 ---
-display_name: On Component Sleep
+title: On Component Sleep
 order: 65
 ---
 ## Navigation

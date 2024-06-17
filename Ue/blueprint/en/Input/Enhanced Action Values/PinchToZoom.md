@@ -1,5 +1,5 @@
 ---
-display_name: PinchToZoom
+title: PinchToZoom
 order: 52
 ---
 ## Navigation

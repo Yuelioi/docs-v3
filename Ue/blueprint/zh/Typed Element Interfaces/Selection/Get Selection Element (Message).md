@@ -1,5 +1,5 @@
 ---
-display_name: Get Selection Element (Message)
+title: Get Selection Element (Message)
 order: 9
 ---
 ## Navigation

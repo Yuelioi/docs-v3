@@ -1,5 +1,5 @@
 ---
-display_name: Is Local Value
+title: Is Local Value
 order: 18
 ---
 ## Navigation

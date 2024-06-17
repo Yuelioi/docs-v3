@@ -1,5 +1,5 @@
 ---
-display_name: Generate
+title: Generate
 order: 6
 ---
 ## Navigation

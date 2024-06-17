@@ -1,5 +1,5 @@
 ---
-display_name: Copy Collision Meshes from Object
+title: Copy Collision Meshes from Object
 order: 1
 ---
 ## Navigation

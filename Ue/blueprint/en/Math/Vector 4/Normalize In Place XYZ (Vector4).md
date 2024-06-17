@@ -1,5 +1,5 @@
 ---
-display_name: Normalize In Place XYZ (Vector4)
+title: Normalize In Place XYZ (Vector4)
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Logged In
+title: Is Logged In
 order: 6
 ---
 ## Navigation

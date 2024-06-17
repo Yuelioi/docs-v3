@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Animation Camera Modifier
+title: Get Camera Animation Camera Modifier
 order: 6
 ---
 ## Navigation

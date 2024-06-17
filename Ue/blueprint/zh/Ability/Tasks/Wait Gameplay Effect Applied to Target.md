@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Applied to Target
+title: Wait Gameplay Effect Applied to Target
 order: 26
 ---
 ## Navigation

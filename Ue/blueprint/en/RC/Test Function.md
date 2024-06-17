@@ -1,5 +1,5 @@
 ---
-display_name: Test Function
+title: Test Function
 order: 1
 ---
 ## Navigation

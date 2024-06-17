@@ -1,5 +1,5 @@
 ---
-display_name: nedgesgroup
+title: nedgesgroup
 order: 13
 ---
 `int  nedgesgroup(<geometry>geometry, string groupname)`

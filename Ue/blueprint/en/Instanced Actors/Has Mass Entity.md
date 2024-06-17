@@ -1,5 +1,5 @@
 ---
-display_name: Has Mass Entity
+title: Has Mass Entity
 order: 2
 ---
 ## Navigation

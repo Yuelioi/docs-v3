@@ -1,5 +1,5 @@
 ---
-display_name: Is Updating
+title: Is Updating
 order: 1
 ---
 ## Navigation

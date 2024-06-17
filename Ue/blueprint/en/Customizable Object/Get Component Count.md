@@ -1,5 +1,5 @@
 ---
-display_name: Get Component Count
+title: Get Component Count
 order: 6
 ---
 ## Navigation

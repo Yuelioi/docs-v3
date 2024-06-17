@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (Bool)
+title: Get Default (Bool)
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Array Pin
+title: Add Array Pin
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove All View Model Instance
+title: Remove All View Model Instance
 order: 21
 ---
 ## Navigation

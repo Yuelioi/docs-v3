@@ -1,5 +1,5 @@
 ---
-display_name: usd_collectioncomputedpaths
+title: usd_collectioncomputedpaths
 order: 31
 ---
 | Since | 18.0 |

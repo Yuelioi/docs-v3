@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXData from Output Port
+title: Get DMXData from Output Port
 order: 42
 ---
 ## Navigation

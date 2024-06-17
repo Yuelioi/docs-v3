@@ -1,5 +1,5 @@
 ---
-display_name: Radial Force
+title: Radial Force
 order: 3
 ---
 ## Navigation

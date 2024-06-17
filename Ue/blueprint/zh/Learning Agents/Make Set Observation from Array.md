@@ -1,5 +1,5 @@
 ---
-display_name: Make Set Observation from Array
+title: Make Set Observation from Array
 order: 235
 ---
 ## Navigation

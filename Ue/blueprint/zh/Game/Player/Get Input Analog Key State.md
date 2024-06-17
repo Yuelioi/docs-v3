@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Analog Key State
+title: Get Input Analog Key State
 order: 15
 ---
 ## Navigation

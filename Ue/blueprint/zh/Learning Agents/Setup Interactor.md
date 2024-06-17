@@ -1,5 +1,5 @@
 ---
-display_name: Setup Interactor
+title: Setup Interactor
 order: 270
 ---
 ## Navigation

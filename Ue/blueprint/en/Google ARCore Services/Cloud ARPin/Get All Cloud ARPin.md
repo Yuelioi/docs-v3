@@ -1,5 +1,5 @@
 ---
-display_name: Get All Cloud ARPin
+title: Get All Cloud ARPin
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VEX
+title: VEX
 order: 1
 ---
 | On this page | * [Define the node’s behavior with a VOP network](#define-the-node-s-behavior-with-a-vop-network) * [Define the node’s behavior with textual VEX code](#define-the-node-s-behavior-with-textual-vex-code) * [How to wire/write the VOPs/VEX](#how-to-wire-write-the-vops-vex) |

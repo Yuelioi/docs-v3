@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Player States
+title: Get Num Player States
 order: 33
 ---
 ## Navigation

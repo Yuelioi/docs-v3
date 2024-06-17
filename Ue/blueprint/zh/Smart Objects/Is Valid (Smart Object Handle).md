@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid (Smart Object Handle)
+title: Is Valid (Smart Object Handle)
 order: 3
 ---
 ## Navigation

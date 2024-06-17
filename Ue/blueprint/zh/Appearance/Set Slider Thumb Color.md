@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Thumb Color
+title: Set Slider Thumb Color
 order: 83
 ---
 ## Navigation

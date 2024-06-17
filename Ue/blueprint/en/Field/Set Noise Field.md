@@ -1,5 +1,5 @@
 ---
-display_name: Set Noise Field
+title: Set Noise Field
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Tracking State
+title: Get Tracking State
 order: 7
 ---
 ## Navigation

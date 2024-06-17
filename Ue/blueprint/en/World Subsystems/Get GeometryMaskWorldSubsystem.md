@@ -1,5 +1,5 @@
 ---
-display_name: Get GeometryMaskWorldSubsystem
+title: Get GeometryMaskWorldSubsystem
 order: 31
 ---
 ## Navigation

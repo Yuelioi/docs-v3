@@ -1,5 +1,5 @@
 ---
-display_name: Convert Array to Vector List
+title: Convert Array to Vector List
 order: 11
 ---
 ## Navigation

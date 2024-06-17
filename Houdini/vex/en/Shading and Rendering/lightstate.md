@@ -1,5 +1,5 @@
 ---
-display_name: lightstate
+title: lightstate
 order: 50
 ---
 | On this page | * [Useful properties](#useful-properties) * [Packed Primitives](#packed-primitives) * [Examples](#examples) |

@@ -1,5 +1,5 @@
 ---
-display_name: Quaternion Spring Interp
+title: Quaternion Spring Interp
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Forward Axis
+title: Set Forward Axis
 order: 23
 ---
 ## Navigation

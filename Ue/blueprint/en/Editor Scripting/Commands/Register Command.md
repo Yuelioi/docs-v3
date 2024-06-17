@@ -1,5 +1,5 @@
 ---
-display_name: Register Command
+title: Register Command
 order: 5
 ---
 ## Navigation

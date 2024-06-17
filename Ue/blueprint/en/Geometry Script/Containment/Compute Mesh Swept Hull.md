@@ -1,5 +1,5 @@
 ---
-display_name: Compute Mesh Swept Hull
+title: Compute Mesh Swept Hull
 order: 2
 ---
 ## Navigation

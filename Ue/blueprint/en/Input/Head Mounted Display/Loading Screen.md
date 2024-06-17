@@ -1,5 +1,5 @@
 ---
-display_name: Loading Screen
+title: Loading Screen
 order: 17
 ---
 ## Navigation

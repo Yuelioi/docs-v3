@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor List from Component List
+title: Get Actor List from Component List
 order: 6
 ---
 ## Navigation

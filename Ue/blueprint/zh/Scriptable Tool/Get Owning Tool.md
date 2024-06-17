@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Tool
+title: Get Owning Tool
 order: 4
 ---
 ## Navigation

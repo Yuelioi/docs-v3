@@ -1,5 +1,5 @@
 ---
-display_name: Set Focus
+title: Set Focus
 order: 19
 ---
 ## Navigation

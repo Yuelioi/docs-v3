@@ -1,5 +1,5 @@
 ---
-display_name: Apply Scale (Matrix)
+title: Apply Scale (Matrix)
 order: 1
 ---
 ## Navigation

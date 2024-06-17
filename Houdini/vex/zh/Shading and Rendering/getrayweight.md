@@ -1,5 +1,5 @@
 ---
-display_name: getrayweight
+title: getrayweight
 order: 30
 ---
 | Context(s) | [shading](../contexts/shading.html) |

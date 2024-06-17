@@ -1,5 +1,5 @@
 ---
-display_name: Is ADynamic Base
+title: Is ADynamic Base
 order: 2
 ---
 ## Navigation

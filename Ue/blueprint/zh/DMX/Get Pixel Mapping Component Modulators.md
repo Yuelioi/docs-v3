@@ -1,5 +1,5 @@
 ---
-display_name: Get Pixel Mapping Component Modulators
+title: Get Pixel Mapping Component Modulators
 order: 52
 ---
 ## Navigation

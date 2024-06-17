@@ -1,5 +1,5 @@
 ---
-display_name: Set Background Color
+title: Set Background Color
 order: 1
 ---
 ## Navigation

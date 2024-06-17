@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Shadow Offset
+title: Set Default Shadow Offset
 order: 41
 ---
 ## Navigation

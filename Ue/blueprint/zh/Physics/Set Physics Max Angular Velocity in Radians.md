@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Max Angular Velocity in Radians
+title: Set Physics Max Angular Velocity in Radians
 order: 55
 ---
 ## Navigation

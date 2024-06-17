@@ -1,5 +1,5 @@
 ---
-display_name: Stack Trace
+title: Stack Trace
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Find Function for Node
+title: Find Function for Node
 order: 2
 ---
 ## Navigation

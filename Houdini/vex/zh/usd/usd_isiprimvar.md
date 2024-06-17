@@ -1,5 +1,5 @@
 ---
-display_name: usd_isiprimvar
+title: usd_isiprimvar
 order: 73
 ---
 | Since | 19.0 |

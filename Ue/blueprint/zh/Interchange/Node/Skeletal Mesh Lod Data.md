@@ -1,5 +1,5 @@
 ---
-display_name: Skeletal Mesh Lod Data
+title: Skeletal Mesh Lod Data
 order: 76
 ---
 ## Navigation

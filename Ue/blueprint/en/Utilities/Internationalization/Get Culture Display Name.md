@@ -1,5 +1,5 @@
 ---
-display_name: Get Culture Display Name
+title: Get Culture Display Name
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: PreviousOverlay
+title: PreviousOverlay
 order: 61
 ---
 ## Navigation

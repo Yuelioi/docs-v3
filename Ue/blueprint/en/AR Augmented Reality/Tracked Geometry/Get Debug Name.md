@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug Name
+title: Get Debug Name
 order: 1
 ---
 ## Navigation

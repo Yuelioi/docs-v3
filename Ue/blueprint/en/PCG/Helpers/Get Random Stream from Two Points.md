@@ -1,5 +1,5 @@
 ---
-display_name: Get Random Stream from Two Points
+title: Get Random Stream from Two Points
 order: 7
 ---
 ## Navigation

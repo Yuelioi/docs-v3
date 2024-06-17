@@ -1,5 +1,5 @@
 ---
-display_name: Set View Model
+title: Set View Model
 order: 12
 ---
 ## Navigation

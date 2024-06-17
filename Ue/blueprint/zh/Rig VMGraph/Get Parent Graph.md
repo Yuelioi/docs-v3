@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Graph
+title: Get Parent Graph
 order: 21
 ---
 ## Navigation

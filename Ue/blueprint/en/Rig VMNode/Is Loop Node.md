@@ -1,5 +1,5 @@
 ---
-display_name: Is Loop Node
+title: Is Loop Node
 order: 49
 ---
 ## Navigation

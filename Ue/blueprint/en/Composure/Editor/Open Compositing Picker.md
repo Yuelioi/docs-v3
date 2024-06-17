@@ -1,5 +1,5 @@
 ---
-display_name: Open Compositing Picker
+title: Open Compositing Picker
 order: 1
 ---
 ## Navigation

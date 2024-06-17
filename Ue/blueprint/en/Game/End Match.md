@@ -1,5 +1,5 @@
 ---
-display_name: End Match
+title: End Match
 order: 12
 ---
 ## Navigation

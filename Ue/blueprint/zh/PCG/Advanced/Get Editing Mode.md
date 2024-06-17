@@ -1,5 +1,5 @@
 ---
-display_name: Get Editing Mode
+title: Get Editing Mode
 order: 2
 ---
 ## Navigation

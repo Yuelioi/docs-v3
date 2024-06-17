@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Weight Patches
+title: Remove All Weight Patches
 order: 21
 ---
 ## Navigation

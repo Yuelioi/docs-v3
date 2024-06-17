@@ -1,5 +1,5 @@
 ---
-display_name: Request Controller Prediction Event
+title: Request Controller Prediction Event
 order: 20
 ---
 ## Navigation

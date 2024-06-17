@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale Strength
+title: Get Scale Strength
 order: 44
 ---
 ## Navigation

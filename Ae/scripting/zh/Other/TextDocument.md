@@ -1,5 +1,5 @@
 ---
-display_name: TextDocument
+title: TextDocument
 order: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Tick at This Time
+title: Tick at This Time
 order: 29
 ---
 ## Navigation

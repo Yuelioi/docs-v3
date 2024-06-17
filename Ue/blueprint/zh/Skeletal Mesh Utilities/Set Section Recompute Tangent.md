@@ -1,5 +1,5 @@
 ---
-display_name: Set Section Recompute Tangent
+title: Set Section Recompute Tangent
 order: 11
 ---
 ## Navigation

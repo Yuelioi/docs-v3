@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Union
+title: Polygons Union
 order: 24
 ---
 ## Navigation

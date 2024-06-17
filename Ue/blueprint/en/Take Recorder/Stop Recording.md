@@ -1,5 +1,5 @@
 ---
-display_name: Stop Recording
+title: Stop Recording
 order: 26
 ---
 ## Navigation

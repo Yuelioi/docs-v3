@@ -1,5 +1,5 @@
 ---
-display_name: sample_orientation_uniform
+title: sample_orientation_uniform
 order: 26
 ---
 `vector4  sample_orientation_uniform(vector u)`

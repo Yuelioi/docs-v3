@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Transform Curves
+title: Get Number Of Transform Curves
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Attributes for Bone (Message)
+title: Remove All Attributes for Bone (Message)
 order: 6
 ---
 ## Navigation

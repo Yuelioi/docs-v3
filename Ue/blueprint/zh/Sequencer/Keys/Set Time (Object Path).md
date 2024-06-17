@@ -1,5 +1,5 @@
 ---
-display_name: Set Time (Object Path)
+title: Set Time (Object Path)
 order: 123
 ---
 ## Navigation

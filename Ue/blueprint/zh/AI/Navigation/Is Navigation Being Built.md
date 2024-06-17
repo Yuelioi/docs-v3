@@ -1,5 +1,5 @@
 ---
-display_name: Is Navigation Being Built
+title: Is Navigation Being Built
 order: 21
 ---
 ## Navigation

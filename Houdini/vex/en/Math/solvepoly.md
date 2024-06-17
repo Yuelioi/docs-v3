@@ -1,5 +1,5 @@
 ---
-display_name: solvepoly
+title: solvepoly
 order: 76
 ---
 `int  solvepoly(float coef[], float &roots[], int maxiter=0)`

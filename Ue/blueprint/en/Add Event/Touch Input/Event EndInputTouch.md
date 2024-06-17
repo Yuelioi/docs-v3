@@ -1,5 +1,5 @@
 ---
-display_name: Event EndInputTouch
+title: Event EndInputTouch
 order: 2
 ---
 ## Navigation

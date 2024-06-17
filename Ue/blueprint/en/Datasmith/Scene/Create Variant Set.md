@@ -1,5 +1,5 @@
 ---
-display_name: Create Variant Set
+title: Create Variant Set
 order: 11
 ---
 ## Navigation

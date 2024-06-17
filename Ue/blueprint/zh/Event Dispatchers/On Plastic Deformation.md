@@ -1,5 +1,5 @@
 ---
-display_name: On Plastic Deformation
+title: On Plastic Deformation
 order: 136
 ---
 ## Navigation

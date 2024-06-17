@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Events
+title: Gamepad Events
 order: 3
 ---
 ## Navigation

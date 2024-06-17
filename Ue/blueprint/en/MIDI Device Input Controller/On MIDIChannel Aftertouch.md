@@ -1,5 +1,5 @@
 ---
-display_name: On MIDIChannel Aftertouch
+title: On MIDIChannel Aftertouch
 order: 2
 ---
 ## Navigation

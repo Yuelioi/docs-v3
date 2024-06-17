@@ -1,5 +1,5 @@
 ---
-display_name: To Quat (Matrix)
+title: To Quat (Matrix)
 order: 35
 ---
 ## Navigation

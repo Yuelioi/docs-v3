@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Attribute by Metadata Key
+title: Set Vector Attribute by Metadata Key
 order: 102
 ---
 ## Navigation

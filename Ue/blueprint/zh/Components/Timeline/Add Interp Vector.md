@@ -1,5 +1,5 @@
 ---
-display_name: Add Interp Vector
+title: Add Interp Vector
 order: 4
 ---
 ## Navigation

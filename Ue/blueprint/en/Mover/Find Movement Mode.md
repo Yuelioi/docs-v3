@@ -1,5 +1,5 @@
 ---
-display_name: Find Movement Mode
+title: Find Movement Mode
 order: 5
 ---
 ## Navigation

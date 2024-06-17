@@ -1,5 +1,5 @@
 ---
-display_name: Get Lifetime Max
+title: Get Lifetime Max
 order: 19
 ---
 ## Navigation

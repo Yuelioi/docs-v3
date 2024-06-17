@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Value by Index
+title: Get Control Value by Index
 order: 20
 ---
 ## Navigation

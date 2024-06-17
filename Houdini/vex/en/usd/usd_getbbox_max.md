@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbbox_max
+title: usd_getbbox_max
 order: 44
 ---
 | Since | 18.0 |

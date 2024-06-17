@@ -1,5 +1,5 @@
 ---
-display_name: Set Stage Root Layer
+title: Set Stage Root Layer
 order: 5
 ---
 ## Navigation

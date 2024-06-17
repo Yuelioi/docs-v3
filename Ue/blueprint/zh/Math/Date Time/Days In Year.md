@@ -1,5 +1,5 @@
 ---
-display_name: Days In Year
+title: Days In Year
 order: 11
 ---
 ## Navigation

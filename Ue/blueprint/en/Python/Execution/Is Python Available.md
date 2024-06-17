@@ -1,5 +1,5 @@
 ---
-display_name: Is Python Available
+title: Is Python Available
 order: 4
 ---
 ## Navigation

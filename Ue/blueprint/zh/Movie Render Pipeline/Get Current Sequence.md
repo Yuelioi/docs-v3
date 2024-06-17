@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Sequence
+title: Get Current Sequence
 order: 33
 ---
 ## Navigation

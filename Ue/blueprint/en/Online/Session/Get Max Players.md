@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Players
+title: Get Max Players
 order: 5
 ---
 ## Navigation

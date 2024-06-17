@@ -1,5 +1,5 @@
 ---
-display_name: Axis Y (Quat)
+title: Axis Y (Quat)
 order: 4
 ---
 ## Navigation

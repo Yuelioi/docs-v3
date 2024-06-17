@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Triangle IDs
+title: Get Num Triangle IDs
 order: 29
 ---
 ## Navigation

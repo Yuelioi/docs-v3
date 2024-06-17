@@ -1,5 +1,5 @@
 ---
-display_name: CC照明擦除
+title: CC照明擦除
 order: 6
 ---
 

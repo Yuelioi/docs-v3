@@ -1,5 +1,5 @@
 ---
-display_name: Set Media Profile
+title: Set Media Profile
 order: 4
 ---
 ## Navigation

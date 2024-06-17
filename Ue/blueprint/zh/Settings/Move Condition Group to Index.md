@@ -1,5 +1,5 @@
 ---
-display_name: Move Condition Group to Index
+title: Move Condition Group to Index
 order: 88
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: NextShutterSpeed
+title: NextShutterSpeed
 order: 44
 ---
 ## Navigation

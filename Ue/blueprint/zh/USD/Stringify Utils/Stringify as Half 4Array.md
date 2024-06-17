@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Half 4Array
+title: Stringify as Half 4Array
 order: 26
 ---
 ## Navigation

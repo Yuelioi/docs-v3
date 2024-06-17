@@ -1,5 +1,5 @@
 ---
-display_name: Get Style for Connection Point by Class
+title: Get Style for Connection Point by Class
 order: 41
 ---
 ## Navigation

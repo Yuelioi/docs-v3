@@ -1,5 +1,5 @@
 ---
-display_name: Sort by Meta Data
+title: Sort by Meta Data
 order: 22
 ---
 ## Navigation

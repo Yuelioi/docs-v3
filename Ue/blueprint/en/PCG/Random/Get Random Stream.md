@@ -1,5 +1,5 @@
 ---
-display_name: Get Random Stream
+title: Get Random Stream
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Directory
+title: Duplicate Directory
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get UVSet Bounding Box
+title: Get UVSet Bounding Box
 order: 39
 ---
 ## Navigation

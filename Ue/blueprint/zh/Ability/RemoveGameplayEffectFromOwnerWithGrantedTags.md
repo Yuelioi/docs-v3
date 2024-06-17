@@ -1,5 +1,5 @@
 ---
-display_name: RemoveGameplayEffectFromOwnerWithGrantedTags
+title: RemoveGameplayEffectFromOwnerWithGrantedTags
 order: 60
 ---
 ## Navigation

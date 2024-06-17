@@ -1,5 +1,5 @@
 ---
-display_name: Set Force All Skeletal Meshes to Follow Leader
+title: Set Force All Skeletal Meshes to Follow Leader
 order: 7
 ---
 ## Navigation

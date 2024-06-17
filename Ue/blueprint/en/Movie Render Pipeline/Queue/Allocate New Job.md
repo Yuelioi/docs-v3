@@ -1,5 +1,5 @@
 ---
-display_name: Allocate New Job
+title: Allocate New Job
 order: 1
 ---
 ## Navigation

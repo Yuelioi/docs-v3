@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Joint Angles
+title: Get Current Joint Angles
 order: 72
 ---
 ## Navigation

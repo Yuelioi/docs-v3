@@ -1,5 +1,5 @@
 ---
-display_name: Equal, Case Insensitive (String)
+title: Equal, Case Insensitive (String)
 order: 17
 ---
 ## Navigation

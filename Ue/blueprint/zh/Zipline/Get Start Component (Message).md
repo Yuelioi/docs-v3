@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Component (Message)
+title: Get Start Component (Message)
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Save Pin to Cloud
+title: Save Pin to Cloud
 order: 11
 ---
 ## Navigation

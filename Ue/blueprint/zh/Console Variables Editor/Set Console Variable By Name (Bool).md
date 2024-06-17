@@ -1,5 +1,5 @@
 ---
-display_name: Set Console Variable By Name (Bool)
+title: Set Console Variable By Name (Bool)
 order: 11
 ---
 ## Navigation

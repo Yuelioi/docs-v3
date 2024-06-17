@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Instances
+title: Get Child Instances
 order: 11
 ---
 ## Navigation

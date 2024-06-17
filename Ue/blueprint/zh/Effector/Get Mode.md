@@ -1,5 +1,5 @@
 ---
-display_name: Get Mode
+title: Get Mode
 order: 6
 ---
 ## Navigation

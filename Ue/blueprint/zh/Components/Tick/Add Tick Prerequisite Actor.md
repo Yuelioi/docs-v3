@@ -1,5 +1,5 @@
 ---
-display_name: Add Tick Prerequisite Actor
+title: Add Tick Prerequisite Actor
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Failed
+title: On Failed
 order: 81
 ---
 ## Navigation

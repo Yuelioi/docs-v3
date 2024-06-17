@@ -1,5 +1,5 @@
 ---
-display_name: Timespan from String
+title: Timespan from String
 order: 24
 ---
 ## Navigation

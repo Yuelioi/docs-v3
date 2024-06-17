@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Stage Function
+title: Get Material Stage Function
 order: 101
 ---
 ## Navigation

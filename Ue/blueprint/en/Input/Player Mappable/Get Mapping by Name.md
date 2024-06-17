@@ -1,5 +1,5 @@
 ---
-display_name: Get Mapping by Name
+title: Get Mapping by Name
 order: 5
 ---
 ## Navigation

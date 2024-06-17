@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Radial Force
+title: Apply Root Motion Radial Force
 order: 7
 ---
 ## Navigation

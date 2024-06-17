@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad D-pad Up
+title: Gamepad D-pad Up
 order: 4
 ---
 ## Navigation

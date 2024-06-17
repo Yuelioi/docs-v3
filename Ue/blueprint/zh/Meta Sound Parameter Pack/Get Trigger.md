@@ -1,5 +1,5 @@
 ---
-display_name: Get Trigger
+title: Get Trigger
 order: 9
 ---
 ## Navigation

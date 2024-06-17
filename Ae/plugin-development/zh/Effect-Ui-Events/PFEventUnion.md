@@ -1,5 +1,5 @@
 ---
-display_name: PF_EventUnion
+title: PF_EventUnion
 order: 4
 ---
 

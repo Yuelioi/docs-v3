@@ -1,5 +1,5 @@
 ---
-display_name: VEX cookbook
+title: VEX cookbook
 order: 7
 ---
 | On this page | * [VEX examples](#vex_cbook_eg) * [Constant Color COP](#vex_cbook_ccolor) * [User noise functions](#vex_cbook_unoise) |

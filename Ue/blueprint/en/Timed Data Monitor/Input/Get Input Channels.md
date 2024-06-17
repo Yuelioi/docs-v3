@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Channels
+title: Get Input Channels
 order: 2
 ---
 ## Navigation

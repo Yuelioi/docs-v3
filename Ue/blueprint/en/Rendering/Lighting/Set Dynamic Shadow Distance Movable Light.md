@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Shadow Distance Movable Light
+title: Set Dynamic Shadow Distance Movable Light
 order: 12
 ---
 ## Navigation

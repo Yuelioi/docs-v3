@@ -1,5 +1,5 @@
 ---
-display_name: Get View Range End
+title: Get View Range End
 order: 58
 ---
 ## Navigation

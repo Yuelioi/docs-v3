@@ -1,5 +1,5 @@
 ---
-display_name: Request Checkpoint
+title: Request Checkpoint
 order: 5
 ---
 ## Navigation

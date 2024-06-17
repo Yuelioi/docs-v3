@@ -1,5 +1,5 @@
 ---
-display_name: Create Control
+title: Create Control
 order: 8
 ---
 ## Navigation

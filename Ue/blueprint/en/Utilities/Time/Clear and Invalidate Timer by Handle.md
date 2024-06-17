@@ -1,5 +1,5 @@
 ---
-display_name: Clear and Invalidate Timer by Handle
+title: Clear and Invalidate Timer by Handle
 order: 2
 ---
 ## Navigation

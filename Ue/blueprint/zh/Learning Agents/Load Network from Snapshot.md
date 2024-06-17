@@ -1,5 +1,5 @@
 ---
-display_name: Load Network from Snapshot
+title: Load Network from Snapshot
 order: 147
 ---
 ## Navigation

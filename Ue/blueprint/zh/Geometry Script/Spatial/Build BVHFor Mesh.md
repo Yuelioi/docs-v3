@@ -1,5 +1,5 @@
 ---
-display_name: Build BVHFor Mesh
+title: Build BVHFor Mesh
 order: 1
 ---
 ## Navigation

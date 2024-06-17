@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Properties
+title: Get Child Properties
 order: 2
 ---
 ## Navigation

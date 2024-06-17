@@ -1,5 +1,5 @@
 ---
-display_name: Get Workflows
+title: Get Workflows
 order: 1
 ---
 ## Navigation

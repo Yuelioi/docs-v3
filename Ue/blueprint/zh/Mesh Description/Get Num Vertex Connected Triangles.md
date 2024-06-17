@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Vertex Connected Triangles
+title: Get Num Vertex Connected Triangles
 order: 35
 ---
 ## Navigation

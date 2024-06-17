@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Mirror
+title: Apply Mesh Mirror
 order: 2
 ---
 ## Navigation

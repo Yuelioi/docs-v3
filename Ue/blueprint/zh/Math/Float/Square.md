@@ -1,5 +1,5 @@
 ---
-display_name: Square
+title: Square
 order: 39
 ---
 ## Navigation

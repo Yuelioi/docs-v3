@@ -1,5 +1,5 @@
 ---
-display_name: Record Progress
+title: Record Progress
 order: 17
 ---
 ## Navigation

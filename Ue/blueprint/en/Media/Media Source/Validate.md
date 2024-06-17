@@ -1,5 +1,5 @@
 ---
-display_name: Validate
+title: Validate
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform Attribute by Metadata Key
+title: Get Transform Attribute by Metadata Key
 order: 50
 ---
 ## Navigation

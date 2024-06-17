@@ -1,5 +1,5 @@
 ---
-display_name: Get End Frame Seconds
+title: Get End Frame Seconds
 order: 27
 ---
 ## Navigation

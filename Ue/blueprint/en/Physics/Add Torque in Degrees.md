@@ -1,5 +1,5 @@
 ---
-display_name: Add Torque in Degrees
+title: Add Torque in Degrees
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unbind All from Animation Started
+title: Unbind All from Animation Started
 order: 7
 ---
 ## Navigation

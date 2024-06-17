@@ -1,5 +1,5 @@
 ---
-display_name: Set Default (Bool)
+title: Set Default (Bool)
 order: 102
 ---
 ## Navigation

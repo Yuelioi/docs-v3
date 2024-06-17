@@ -1,5 +1,5 @@
 ---
-display_name: Set SmartObject Enabled (default reason Gameplay)
+title: Set SmartObject Enabled (default reason Gameplay)
 order: 48
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Numeric
+title: Is Numeric
 order: 23
 ---
 ## Navigation

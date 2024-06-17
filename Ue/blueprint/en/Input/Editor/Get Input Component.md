@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Component
+title: Get Input Component
 order: 1
 ---
 ## Navigation

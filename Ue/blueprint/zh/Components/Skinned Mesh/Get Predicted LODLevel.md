@@ -1,5 +1,5 @@
 ---
-display_name: Get Predicted LODLevel
+title: Get Predicted LODLevel
 order: 15
 ---
 ## Navigation

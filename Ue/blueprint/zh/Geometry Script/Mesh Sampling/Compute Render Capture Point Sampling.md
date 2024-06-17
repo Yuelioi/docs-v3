@@ -1,5 +1,5 @@
 ---
-display_name: Compute Render Capture Point Sampling
+title: Compute Render Capture Point Sampling
 order: 4
 ---
 ## Navigation

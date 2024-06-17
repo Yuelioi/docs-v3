@@ -1,5 +1,5 @@
 ---
-display_name: Is Channel Enabled
+title: Is Channel Enabled
 order: 3
 ---
 ## Navigation

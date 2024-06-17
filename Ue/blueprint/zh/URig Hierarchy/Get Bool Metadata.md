@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Metadata
+title: Get Bool Metadata
 order: 10
 ---
 ## Navigation

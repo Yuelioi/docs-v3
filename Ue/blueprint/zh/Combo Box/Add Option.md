@@ -1,5 +1,5 @@
 ---
-display_name: Add Option
+title: Add Option
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Client Spawn Generic Camera Lens Effect
+title: Client Spawn Generic Camera Lens Effect
 order: 3
 ---
 ## Navigation

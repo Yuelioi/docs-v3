@@ -1,5 +1,5 @@
 ---
-display_name: VEX compiler pragmas
+title: VEX compiler pragmas
 order: 6
 ---
 | On this page | * [#pragma c++rawstring](#pragma-c-rawstring) * [#pragma bindhandle](#pragma-bindhandle) * [#pragma bindhandlereserved](#pragma-bindhandlereserved) * [#pragma bindselector](#pragma-bindselector) * [#pragma bindselectorreserved](#pragma-bindselectorreserved) * [#pragma callback](#callback) * [#pragma disablewhen and #pragma hidewhen](#pragma-disablewhen-and-pragma-hidewhen) * [#pragma export](#pragma-export) * [#pragma group](#pragma-group) * [#pragma help and #pragma info](#pragma-help-and-pragma-info) * [#pragma hint](#pragma-hint) * [#pragma inputlabel](#pragma-inputlabel) * [#pragma label](#pragma-label) * [#pragma name “text”](#pragma-name-text) * [#pragma opicon](#opicon) * [#pragma opmininputs and #pragma opmaxinputs](#opinputs) * [#pragma opname and #pragma oplabel](#opname) * [#pragma opscript](#opscript) * [#pragma parmhelp parameter_name “text”](#pragma-parmhelp-parameter_name-text) * [#pragma parmtag](#pragma-parmtag) * [#pragma ramp](#ramp) * [#pragma range](#pragma-range) * [#pragma rendermask](#pragma-rendermask) * [#pragma optable](#pragma-optable) * [#pragma rename](#pragma-rename) * [How to create menus for parameters](#how-to-create-menus-for-parameters) * [Operator list filters](#operator-list-filters) |

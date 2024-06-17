@@ -1,5 +1,5 @@
 ---
-display_name: Render Heightmap
+title: Render Heightmap
 order: 3
 ---
 ## Navigation

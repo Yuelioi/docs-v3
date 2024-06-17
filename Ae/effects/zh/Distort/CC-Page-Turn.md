@@ -1,5 +1,5 @@
 ---
-display_name: CC翻页
+title: CC翻页
 order: 9
 ---
 

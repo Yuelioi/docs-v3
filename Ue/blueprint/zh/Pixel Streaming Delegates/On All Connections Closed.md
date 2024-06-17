@@ -1,5 +1,5 @@
 ---
-display_name: On All Connections Closed
+title: On All Connections Closed
 order: 1
 ---
 ## Navigation

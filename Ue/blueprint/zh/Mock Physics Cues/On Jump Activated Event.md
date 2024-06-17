@@ -1,5 +1,5 @@
 ---
-display_name: On Jump Activated Event
+title: On Jump Activated Event
 order: 3
 ---
 ## Navigation

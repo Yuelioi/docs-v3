@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Center
+title: Set Local Center
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Prepare for Game
+title: Prepare for Game
 order: 4
 ---
 ## Navigation

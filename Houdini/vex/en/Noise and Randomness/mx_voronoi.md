@@ -1,5 +1,5 @@
 ---
-display_name: mx_voronoi
+title: mx_voronoi
 order: 21
 ---
 `void  mx_voronoi(vector2 position, float jitter, int metric, float &d1, float &d2, float &d3, vector2 &p1, vector2 &p2, vector2 &p3)`

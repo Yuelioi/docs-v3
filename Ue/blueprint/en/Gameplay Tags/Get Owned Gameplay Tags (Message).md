@@ -1,5 +1,5 @@
 ---
-display_name: Get Owned Gameplay Tags (Message)
+title: Get Owned Gameplay Tags (Message)
 order: 12
 ---
 ## Navigation

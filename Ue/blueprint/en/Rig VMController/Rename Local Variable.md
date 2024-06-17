@@ -1,5 +1,5 @@
 ---
-display_name: Rename Local Variable
+title: Rename Local Variable
 order: 93
 ---
 ## Navigation

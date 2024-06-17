@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Selector Type
+title: Set Mesh Selector Type
 order: 123
 ---
 ## Navigation

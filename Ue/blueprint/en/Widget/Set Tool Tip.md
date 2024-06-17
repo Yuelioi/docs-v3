@@ -1,5 +1,5 @@
 ---
-display_name: Set Tool Tip
+title: Set Tool Tip
 order: 36
 ---
 ## Navigation

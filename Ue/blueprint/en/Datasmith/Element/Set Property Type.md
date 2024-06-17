@@ -1,5 +1,5 @@
 ---
-display_name: Set Property Type
+title: Set Property Type
 order: 127
 ---
 ## Navigation

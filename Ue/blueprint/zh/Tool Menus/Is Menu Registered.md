@@ -1,5 +1,5 @@
 ---
-display_name: Is Menu Registered
+title: Is Menu Registered
 order: 23
 ---
 ## Navigation

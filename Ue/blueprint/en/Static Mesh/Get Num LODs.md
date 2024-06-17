@@ -1,5 +1,5 @@
 ---
-display_name: Get Num LODs
+title: Get Num LODs
 order: 15
 ---
 ## Navigation

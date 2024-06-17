@@ -1,5 +1,5 @@
 ---
-display_name: Rebuild Vertices
+title: Rebuild Vertices
 order: 5
 ---
 ## Navigation

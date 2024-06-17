@@ -1,5 +1,5 @@
 ---
-display_name: Remove Child Track
+title: Remove Child Track
 order: 73
 ---
 ## Navigation

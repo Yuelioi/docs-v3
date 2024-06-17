@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Capsule Shape
+title: VisLog Capsule Shape
 order: 5
 ---
 ## Navigation

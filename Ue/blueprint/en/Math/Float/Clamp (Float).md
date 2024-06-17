@@ -1,5 +1,5 @@
 ---
-display_name: Clamp (Float)
+title: Clamp (Float)
 order: 5
 ---
 ## Navigation

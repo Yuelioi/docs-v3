@@ -1,5 +1,5 @@
 ---
-display_name: To String (SmartObjectRequestResult)
+title: To String (SmartObjectRequestResult)
 order: 78
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Roles
+title: Set Active Roles
 order: 8
 ---
 ## Navigation

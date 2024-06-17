@@ -1,5 +1,5 @@
 ---
-display_name: Text 3D
+title: Text 3D
 order: 9
 ---
 ## Navigation

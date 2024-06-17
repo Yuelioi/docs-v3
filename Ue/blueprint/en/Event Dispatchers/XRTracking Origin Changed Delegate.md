@@ -1,5 +1,5 @@
 ---
-display_name: XRTracking Origin Changed Delegate
+title: XRTracking Origin Changed Delegate
 order: 211
 ---
 ## Navigation

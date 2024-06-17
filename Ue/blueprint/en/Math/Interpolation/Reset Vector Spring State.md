@@ -1,5 +1,5 @@
 ---
-display_name: Reset Vector Spring State
+title: Reset Vector Spring State
 order: 11
 ---
 ## Navigation

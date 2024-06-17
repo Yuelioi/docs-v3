@@ -1,5 +1,5 @@
 ---
-display_name: SetMaterialIDsOnAllTriangles
+title: SetMaterialIDsOnAllTriangles
 order: 12
 ---
 ## Navigation

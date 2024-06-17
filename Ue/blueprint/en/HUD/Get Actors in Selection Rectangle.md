@@ -1,5 +1,5 @@
 ---
-display_name: Get Actors in Selection Rectangle
+title: Get Actors in Selection Rectangle
 order: 12
 ---
 ## Navigation

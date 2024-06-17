@@ -1,5 +1,5 @@
 ---
-display_name: ToString (DMX Protocol Name)
+title: ToString (DMX Protocol Name)
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (String)
+title: Remove Default (String)
 order: 89
 ---
 ## Navigation

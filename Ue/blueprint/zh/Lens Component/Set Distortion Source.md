@@ -1,5 +1,5 @@
 ---
-display_name: Set Distortion Source
+title: Set Distortion Source
 order: 18
 ---
 ## Navigation

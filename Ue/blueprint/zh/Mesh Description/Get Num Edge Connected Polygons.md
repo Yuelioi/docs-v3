@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Edge Connected Polygons
+title: Get Num Edge Connected Polygons
 order: 27
 ---
 ## Navigation

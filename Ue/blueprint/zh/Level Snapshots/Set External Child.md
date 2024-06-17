@@ -1,5 +1,5 @@
 ---
-display_name: Set External Child
+title: Set External Child
 order: 27
 ---
 ## Navigation

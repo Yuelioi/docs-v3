@@ -1,5 +1,5 @@
 ---
-display_name: Set Points
+title: Set Points
 order: 18
 ---
 ## Navigation

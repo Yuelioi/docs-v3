@@ -1,5 +1,5 @@
 ---
-display_name: Get Sockets by Tag
+title: Get Sockets by Tag
 order: 18
 ---
 ## Navigation

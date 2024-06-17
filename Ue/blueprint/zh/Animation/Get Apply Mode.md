@@ -1,5 +1,5 @@
 ---
-display_name: Get Apply Mode
+title: Get Apply Mode
 order: 15
 ---
 ## Navigation

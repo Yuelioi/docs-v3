@@ -1,5 +1,5 @@
 ---
-display_name: Apply Perlin Noise to Mesh
+title: Apply Perlin Noise to Mesh
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Collisions
+title: Remove Collisions
 order: 26
 ---
 ## Navigation

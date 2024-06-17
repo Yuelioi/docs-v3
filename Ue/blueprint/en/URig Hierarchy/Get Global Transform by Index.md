@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Transform by Index
+title: Get Global Transform by Index
 order: 37
 ---
 ## Navigation

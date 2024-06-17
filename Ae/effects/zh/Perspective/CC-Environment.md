@@ -1,5 +1,5 @@
 ---
-display_name: CC 环境
+title: CC 环境
 order: 6
 ---
 

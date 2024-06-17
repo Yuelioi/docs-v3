@@ -1,5 +1,5 @@
 ---
-display_name: Search All Assets
+title: Search All Assets
 order: 49
 ---
 ## Navigation

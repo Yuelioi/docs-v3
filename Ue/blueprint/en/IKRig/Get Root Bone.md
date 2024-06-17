@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Bone
+title: Get Root Bone
 order: 26
 ---
 ## Navigation

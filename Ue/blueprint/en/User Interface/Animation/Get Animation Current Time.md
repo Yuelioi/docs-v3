@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Current Time
+title: Get Animation Current Time
 order: 2
 ---
 ## Navigation

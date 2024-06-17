@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Hovered Text Style
+title: Get Selected Hovered Text Style
 order: 13
 ---
 ## Navigation

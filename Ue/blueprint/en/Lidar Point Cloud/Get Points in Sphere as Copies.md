@@ -1,5 +1,5 @@
 ---
-display_name: Get Points in Sphere as Copies
+title: Get Points in Sphere as Copies
 order: 30
 ---
 ## Navigation

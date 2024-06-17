@@ -1,5 +1,5 @@
 ---
-display_name: Get Geometry Mode
+title: Get Geometry Mode
 order: 20
 ---
 ## Navigation

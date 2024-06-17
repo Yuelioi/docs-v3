@@ -1,5 +1,5 @@
 ---
-display_name: Break Script Slate Icon
+title: Break Script Slate Icon
 order: 8
 ---
 ## Navigation

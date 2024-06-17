@@ -1,5 +1,5 @@
 ---
-display_name: Is Jumping
+title: Is Jumping
 order: 4
 ---
 ## Navigation

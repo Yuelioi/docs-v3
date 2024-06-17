@@ -1,5 +1,5 @@
 ---
-display_name: Boolean Array to Audio Parameter
+title: Boolean Array to Audio Parameter
 order: 1
 ---
 ## Navigation

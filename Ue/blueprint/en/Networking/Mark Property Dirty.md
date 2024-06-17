@@ -1,5 +1,5 @@
 ---
-display_name: Mark Property Dirty
+title: Mark Property Dirty
 order: 10
 ---
 ## Navigation

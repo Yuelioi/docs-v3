@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Class
+title: Is Valid Class
 order: 21
 ---
 ## Navigation

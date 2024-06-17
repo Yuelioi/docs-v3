@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as UInt 64
+title: Unstringify as UInt 64
 order: 123
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Geometry functions
+title: Geometry functions
 order: 2
 ---
 | On this page | * [Overview](#overview) * [Geometry traversal](#geometry-traversal) |

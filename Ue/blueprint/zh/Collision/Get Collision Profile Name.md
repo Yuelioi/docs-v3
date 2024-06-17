@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Profile Name
+title: Get Collision Profile Name
 order: 26
 ---
 ## Navigation

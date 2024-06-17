@@ -1,5 +1,5 @@
 ---
-display_name: Get Brush Resource
+title: Get Brush Resource
 order: 3
 ---
 ## Navigation

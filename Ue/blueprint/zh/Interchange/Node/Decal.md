@@ -1,5 +1,5 @@
 ---
-display_name: Decal
+title: Decal
 order: 21
 ---
 ## Navigation

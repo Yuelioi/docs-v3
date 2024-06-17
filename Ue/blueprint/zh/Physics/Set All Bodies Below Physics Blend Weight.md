@@ -1,5 +1,5 @@
 ---
-display_name: Set All Bodies Below Physics Blend Weight
+title: Set All Bodies Below Physics Blend Weight
 order: 11
 ---
 ## Navigation

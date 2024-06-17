@@ -1,5 +1,5 @@
 ---
-display_name: Remove Persistent Fields
+title: Remove Persistent Fields
 order: 14
 ---
 ## Navigation

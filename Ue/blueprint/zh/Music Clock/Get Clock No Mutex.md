@@ -1,5 +1,5 @@
 ---
-display_name: Get Clock No Mutex
+title: Get Clock No Mutex
 order: 10
 ---
 ## Navigation

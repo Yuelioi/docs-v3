@@ -1,5 +1,5 @@
 ---
-display_name: Focus Parent Sequence
+title: Focus Parent Sequence
 order: 16
 ---
 ## Navigation

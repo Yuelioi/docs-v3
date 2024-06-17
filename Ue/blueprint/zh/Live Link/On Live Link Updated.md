@@ -1,5 +1,5 @@
 ---
-display_name: On Live Link Updated
+title: On Live Link Updated
 order: 38
 ---
 ## Navigation

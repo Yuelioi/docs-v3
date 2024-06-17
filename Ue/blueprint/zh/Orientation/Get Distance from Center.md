@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance from Center
+title: Get Distance from Center
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Uniform Scalar
+title: Set Uniform Scalar
 order: 32
 ---
 ## Navigation

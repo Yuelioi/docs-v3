@@ -1,5 +1,5 @@
 ---
-display_name: Add Injected Node from Struct Path
+title: Add Injected Node from Struct Path
 order: 15
 ---
 ## Navigation

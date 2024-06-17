@@ -1,5 +1,5 @@
 ---
-display_name: Get Blackboard Asset (Message)
+title: Get Blackboard Asset (Message)
 order: 6
 ---
 ## Navigation

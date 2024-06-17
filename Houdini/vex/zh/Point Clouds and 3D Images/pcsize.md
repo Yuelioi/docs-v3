@@ -1,5 +1,5 @@
 ---
-display_name: pcsize
+title: pcsize
 order: 31
 ---
 `int  pcsize(int handle)`

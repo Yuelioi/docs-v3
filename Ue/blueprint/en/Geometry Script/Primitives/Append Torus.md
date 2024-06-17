@@ -1,5 +1,5 @@
 ---
-display_name: Append Torus
+title: Append Torus
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Direction Along Spline Observation
+title: Make Direction Along Spline Observation
 order: 174
 ---
 ## Navigation

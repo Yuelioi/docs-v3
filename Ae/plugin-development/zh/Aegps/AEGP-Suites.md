@@ -1,5 +1,5 @@
 ---
-display_name: AEGP-Suites
+title: AEGP-Suites
 order: 2
 ---
 

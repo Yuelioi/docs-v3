@@ -1,5 +1,5 @@
 ---
-display_name: Add Experience
+title: Add Experience
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sqrt
+title: sqrt
 order: 81
 ---
 `float  sqrt(float value)`

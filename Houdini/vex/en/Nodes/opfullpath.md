@@ -1,5 +1,5 @@
 ---
-display_name: opfullpath
+title: opfullpath
 order: 25
 ---
 `string  opfullpath(string relative_path)`

@@ -1,5 +1,5 @@
 ---
-display_name: List Assets
+title: List Assets
 order: 26
 ---
 ## Navigation

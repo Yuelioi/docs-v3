@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Warp Target from Location and Rotation
+title: Add or Update Warp Target from Location and Rotation
 order: 4
 ---
 ## Navigation

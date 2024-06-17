@@ -1,5 +1,5 @@
 ---
-display_name: Get Frustum Far Plane (Matrix)
+title: Get Frustum Far Plane (Matrix)
 order: 7
 ---
 ## Navigation

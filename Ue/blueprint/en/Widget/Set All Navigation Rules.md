@@ -1,5 +1,5 @@
 ---
-display_name: Set All Navigation Rules
+title: Set All Navigation Rules
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Compute Angular Velocity
+title: Compute Angular Velocity
 order: 5
 ---
 ## Navigation

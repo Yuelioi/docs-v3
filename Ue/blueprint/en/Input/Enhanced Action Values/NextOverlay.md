@@ -1,5 +1,5 @@
 ---
-display_name: NextOverlay
+title: NextOverlay
 order: 41
 ---
 ## Navigation

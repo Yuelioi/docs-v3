@@ -1,5 +1,5 @@
 ---
-display_name: Add Brush to Tree
+title: Add Brush to Tree
 order: 2
 ---
 ## Navigation

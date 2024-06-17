@@ -1,5 +1,5 @@
 ---
-display_name: chprim_setkeyslope
+title: chprim_setkeyslope
 order: 11
 ---
 `int  chprim_setkeyslope(int geohandle, int prim, float time, float slope)`

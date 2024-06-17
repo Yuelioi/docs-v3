@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid AILocation
+title: Is Valid AILocation
 order: 20
 ---
 ## Navigation

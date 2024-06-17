@@ -1,5 +1,5 @@
 ---
-display_name: Get Beat Progress Percent
+title: Get Beat Progress Percent
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Class Parameter
+title: Get Class Parameter
 order: 3
 ---
 ## Navigation

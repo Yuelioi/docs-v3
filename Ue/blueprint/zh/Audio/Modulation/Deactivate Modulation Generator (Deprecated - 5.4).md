@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Modulation Generator (Deprecated - 5.4)
+title: Deactivate Modulation Generator (Deprecated - 5.4)
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Outliner
+title: Get Outliner
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Torque in Radians
+title: Add Torque in Radians
 order: 15
 ---
 ## Navigation

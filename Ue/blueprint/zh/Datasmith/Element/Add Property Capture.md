@@ -1,5 +1,5 @@
 ---
-display_name: Add Property Capture
+title: Add Property Capture
 order: 4
 ---
 ## Navigation

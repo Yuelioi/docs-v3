@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: Genaral
+title: Genaral
 ---
 
 # 常规

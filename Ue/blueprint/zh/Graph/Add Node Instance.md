@@ -1,5 +1,5 @@
 ---
-display_name: Add Node Instance
+title: Add Node Instance
 order: 3
 ---
 ## Navigation

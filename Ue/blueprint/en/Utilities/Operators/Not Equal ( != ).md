@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal ( != )
+title: Not Equal ( != )
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Emit Script Error
+title: Emit Script Error
 order: 27
 ---
 ## Navigation

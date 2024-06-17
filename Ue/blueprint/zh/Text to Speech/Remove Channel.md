@@ -1,5 +1,5 @@
 ---
-display_name: Remove Channel
+title: Remove Channel
 order: 16
 ---
 ## Navigation

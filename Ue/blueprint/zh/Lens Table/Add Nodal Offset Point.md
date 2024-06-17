@@ -1,5 +1,5 @@
 ---
-display_name: Add Nodal Offset Point
+title: Add Nodal Offset Point
 order: 4
 ---
 ## Navigation

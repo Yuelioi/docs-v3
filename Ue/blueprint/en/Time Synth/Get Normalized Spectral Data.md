@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Spectral Data
+title: Get Normalized Spectral Data
 order: 2
 ---
 ## Navigation

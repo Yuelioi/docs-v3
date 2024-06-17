@@ -1,5 +1,5 @@
 ---
-display_name: Remove Inbound Edges
+title: Remove Inbound Edges
 order: 61
 ---
 ## Navigation

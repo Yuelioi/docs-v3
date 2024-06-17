@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Orientation
+title: Get Target Orientation
 order: 24
 ---
 ## Navigation

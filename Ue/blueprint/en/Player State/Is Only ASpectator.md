@@ -1,5 +1,5 @@
 ---
-display_name: Is Only ASpectator
+title: Is Only ASpectator
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC暗角
+title: CC暗角
 order: 12
 ---
 

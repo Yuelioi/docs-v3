@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Conversation Node Handle
+title: Get Current Conversation Node Handle
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Time in Seconds
+title: Get Game Time in Seconds
 order: 7
 ---
 ## Navigation

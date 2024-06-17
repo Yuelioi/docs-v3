@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotation
+title: Set Rotation
 order: 27
 ---
 ## Navigation

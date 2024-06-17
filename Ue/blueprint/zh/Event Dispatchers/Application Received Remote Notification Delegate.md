@@ -1,5 +1,5 @@
 ---
-display_name: Application Received Remote Notification Delegate
+title: Application Received Remote Notification Delegate
 order: 9
 ---
 ## Navigation

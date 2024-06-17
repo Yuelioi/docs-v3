@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Component
+title: Set Parent Component
 order: 226
 ---
 ## Navigation

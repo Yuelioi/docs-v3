@@ -1,5 +1,5 @@
 ---
-display_name: Create Entry
+title: Create Entry
 order: 2
 ---
 ## Navigation

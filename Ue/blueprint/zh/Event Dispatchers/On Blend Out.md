@@ -1,5 +1,5 @@
 ---
-display_name: On Blend Out
+title: On Blend Out
 order: 56
 ---
 ## Navigation

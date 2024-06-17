@@ -1,5 +1,5 @@
 ---
-display_name: Stop Sender
+title: Stop Sender
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Update Kinematic from Simulation
+title: Set Update Kinematic from Simulation
 order: 58
 ---
 ## Navigation

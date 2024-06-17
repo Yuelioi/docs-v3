@@ -1,5 +1,5 @@
 ---
-display_name: Is Screen Reader Active
+title: Is Screen Reader Active
 order: 7
 ---
 ## Navigation

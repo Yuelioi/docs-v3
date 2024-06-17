@@ -1,5 +1,5 @@
 ---
-display_name: Last Error Msg
+title: Last Error Msg
 order: 12
 ---
 ## Navigation

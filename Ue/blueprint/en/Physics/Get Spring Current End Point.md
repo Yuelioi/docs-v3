@@ -1,5 +1,5 @@
 ---
-display_name: Get Spring Current End Point
+title: Get Spring Current End Point
 order: 87
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Clamp Size Max 2D
+title: Vector Clamp Size Max 2D
 order: 63
 ---
 ## Navigation

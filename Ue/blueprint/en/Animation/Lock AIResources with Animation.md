@@ -1,5 +1,5 @@
 ---
-display_name: Lock AIResources with Animation
+title: Lock AIResources with Animation
 order: 4
 ---
 ## Navigation

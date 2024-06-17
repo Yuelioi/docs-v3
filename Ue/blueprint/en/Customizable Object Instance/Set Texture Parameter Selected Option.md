@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Parameter Selected Option
+title: Set Texture Parameter Selected Option
 order: 78
 ---
 ## Navigation

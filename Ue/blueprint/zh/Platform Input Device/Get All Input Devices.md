@@ -1,5 +1,5 @@
 ---
-display_name: Get All Input Devices
+title: Get All Input Devices
 order: 4
 ---
 ## Navigation

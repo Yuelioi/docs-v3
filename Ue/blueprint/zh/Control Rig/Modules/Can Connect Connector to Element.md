@@ -1,5 +1,5 @@
 ---
-display_name: Can Connect Connector to Element
+title: Can Connect Connector to Element
 order: 5
 ---
 ## Navigation

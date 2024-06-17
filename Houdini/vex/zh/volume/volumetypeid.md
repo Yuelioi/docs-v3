@@ -1,5 +1,5 @@
 ---
-display_name: volumetypeid
+title: volumetypeid
 order: 22
 ---
 `int  volumetypeid(<geometry>geometry, int primnum)`

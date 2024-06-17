@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous Name
+title: Get Previous Name
 order: 68
 ---
 ## Navigation

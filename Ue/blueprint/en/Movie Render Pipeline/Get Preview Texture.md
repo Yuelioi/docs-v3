@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview Texture
+title: Get Preview Texture
 order: 54
 ---
 ## Navigation

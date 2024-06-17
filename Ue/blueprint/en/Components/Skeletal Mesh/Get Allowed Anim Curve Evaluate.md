@@ -1,5 +1,5 @@
 ---
-display_name: Get Allowed Anim Curve Evaluate
+title: Get Allowed Anim Curve Evaluate
 order: 6
 ---
 ## Navigation

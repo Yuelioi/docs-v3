@@ -1,5 +1,5 @@
 ---
-display_name: Set User Tag
+title: Set User Tag
 order: 36
 ---
 ## Navigation

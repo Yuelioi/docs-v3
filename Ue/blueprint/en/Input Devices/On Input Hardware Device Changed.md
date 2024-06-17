@@ -1,5 +1,5 @@
 ---
-display_name: On Input Hardware Device Changed
+title: On Input Hardware Device Changed
 order: 9
 ---
 ## Navigation

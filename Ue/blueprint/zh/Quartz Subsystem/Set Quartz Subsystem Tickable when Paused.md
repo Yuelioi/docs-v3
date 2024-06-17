@@ -1,5 +1,5 @@
 ---
-display_name: Set Quartz Subsystem Tickable when Paused
+title: Set Quartz Subsystem Tickable when Paused
 order: 11
 ---
 ## Navigation

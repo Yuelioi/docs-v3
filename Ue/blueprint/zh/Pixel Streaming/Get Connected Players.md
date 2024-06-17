@@ -1,5 +1,5 @@
 ---
-display_name: Get Connected Players
+title: Get Connected Players
 order: 8
 ---
 ## Navigation

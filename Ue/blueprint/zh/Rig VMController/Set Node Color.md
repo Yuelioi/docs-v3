@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Color
+title: Set Node Color
 order: 111
 ---
 ## Navigation

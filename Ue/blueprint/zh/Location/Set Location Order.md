@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Order
+title: Set Location Order
 order: 3
 ---
 ## Navigation

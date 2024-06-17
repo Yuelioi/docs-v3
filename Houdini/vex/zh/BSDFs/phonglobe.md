@@ -1,5 +1,5 @@
 ---
-display_name: phonglobe
+title: phonglobe
 order: 18
 ---
 `bsdf  phonglobe(vector dir, float exponent, ...)`

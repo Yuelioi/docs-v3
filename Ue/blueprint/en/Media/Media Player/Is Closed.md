@@ -1,5 +1,5 @@
 ---
-display_name: Is Closed
+title: Is Closed
 order: 39
 ---
 ## Navigation

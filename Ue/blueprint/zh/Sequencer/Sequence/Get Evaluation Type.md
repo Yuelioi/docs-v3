@@ -1,5 +1,5 @@
 ---
-display_name: Get Evaluation Type
+title: Get Evaluation Type
 order: 34
 ---
 ## Navigation

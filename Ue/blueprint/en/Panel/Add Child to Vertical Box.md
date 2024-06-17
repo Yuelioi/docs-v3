@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Vertical Box
+title: Add Child to Vertical Box
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Extension
+title: Add Extension
 order: 1
 ---
 ## Navigation

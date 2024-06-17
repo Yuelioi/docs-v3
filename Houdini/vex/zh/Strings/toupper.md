@@ -1,5 +1,5 @@
 ---
-display_name: toupper
+title: toupper
 order: 42
 ---
 `string  toupper(string str)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Editor Custom Virtual Path
+title: Get Plugin Editor Custom Virtual Path
 order: 8
 ---
 ## Navigation

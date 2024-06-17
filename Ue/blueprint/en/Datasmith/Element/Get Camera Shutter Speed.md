@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Shutter Speed
+title: Get Camera Shutter Speed
 order: 18
 ---
 ## Navigation

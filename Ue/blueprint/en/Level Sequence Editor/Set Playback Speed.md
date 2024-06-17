@@ -1,5 +1,5 @@
 ---
-display_name: Set Playback Speed
+title: Set Playback Speed
 order: 67
 ---
 ## Navigation

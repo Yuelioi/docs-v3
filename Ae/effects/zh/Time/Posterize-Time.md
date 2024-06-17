@@ -1,5 +1,5 @@
 ---
-display_name: 色调分离时间
+title: 色调分离时间
 order: 5
 ---
 

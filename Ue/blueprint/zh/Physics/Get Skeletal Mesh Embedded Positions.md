@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeletal Mesh Embedded Positions
+title: Get Skeletal Mesh Embedded Positions
 order: 86
 ---
 ## Navigation

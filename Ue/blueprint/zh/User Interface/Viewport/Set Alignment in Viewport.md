@@ -1,5 +1,5 @@
 ---
-display_name: Set Alignment in Viewport
+title: Set Alignment in Viewport
 order: 5
 ---
 ## Navigation

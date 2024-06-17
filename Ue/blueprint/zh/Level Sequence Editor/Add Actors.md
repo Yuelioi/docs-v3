@@ -1,5 +1,5 @@
 ---
-display_name: Add Actors
+title: Add Actors
 order: 2
 ---
 ## Navigation

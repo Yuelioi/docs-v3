@@ -1,5 +1,5 @@
 ---
-display_name: Target Data Has Actor
+title: Target Data Has Actor
 order: 15
 ---
 ## Navigation

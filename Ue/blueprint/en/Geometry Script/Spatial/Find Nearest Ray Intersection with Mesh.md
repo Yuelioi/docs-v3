@@ -1,5 +1,5 @@
 ---
-display_name: Find Nearest Ray Intersection with Mesh
+title: Find Nearest Ray Intersection with Mesh
 order: 3
 ---
 ## Navigation

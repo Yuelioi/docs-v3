@@ -1,5 +1,5 @@
 ---
-display_name: Get Targeting Handle
+title: Get Targeting Handle
 order: 3
 ---
 ## Navigation

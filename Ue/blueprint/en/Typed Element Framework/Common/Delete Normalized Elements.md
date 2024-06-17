@@ -1,5 +1,5 @@
 ---
-display_name: Delete Normalized Elements
+title: Delete Normalized Elements
 order: 5
 ---
 ## Navigation

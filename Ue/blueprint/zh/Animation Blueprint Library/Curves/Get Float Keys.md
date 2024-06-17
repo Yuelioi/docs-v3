@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Keys
+title: Get Float Keys
 order: 9
 ---
 ## Navigation

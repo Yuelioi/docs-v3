@@ -1,5 +1,5 @@
 ---
-display_name: Is Listening to Player
+title: Is Listening to Player
 order: 1
 ---
 ## Navigation

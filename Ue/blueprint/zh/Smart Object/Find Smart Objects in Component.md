@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Objects in Component
+title: Find Smart Objects in Component
 order: 9
 ---
 ## Navigation

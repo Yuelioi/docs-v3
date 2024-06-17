@@ -1,5 +1,5 @@
 ---
-display_name: Get Effect Description
+title: Get Effect Description
 order: 66
 ---
 ## Navigation

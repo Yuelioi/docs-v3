@@ -1,5 +1,5 @@
 ---
-display_name: Get Atlas
+title: Get Atlas
 order: 54
 ---
 ## Navigation

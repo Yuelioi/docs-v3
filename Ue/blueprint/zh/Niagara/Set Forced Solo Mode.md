@@ -1,5 +1,5 @@
 ---
-display_name: Set Forced Solo Mode
+title: Set Forced Solo Mode
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Dynamic Resolution Dirty
+title: Is Dynamic Resolution Dirty
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Take Automation Screenshot Of UI
+title: Take Automation Screenshot Of UI
 order: 34
 ---
 ## Navigation

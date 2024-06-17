@@ -1,5 +1,5 @@
 ---
-display_name: slice
+title: slice
 order: 15
 ---
 `string  slice(string s, int start, int end)`

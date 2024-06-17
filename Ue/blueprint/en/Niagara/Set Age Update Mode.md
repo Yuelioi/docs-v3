@@ -1,5 +1,5 @@
 ---
-display_name: Set Age Update Mode
+title: Set Age Update Mode
 order: 10
 ---
 ## Navigation

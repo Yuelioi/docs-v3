@@ -1,5 +1,5 @@
 ---
-display_name: Is Sync Group Between Markers
+title: Is Sync Group Between Markers
 order: 4
 ---
 ## Navigation

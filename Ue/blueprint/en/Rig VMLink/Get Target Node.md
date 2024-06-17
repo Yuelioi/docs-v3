@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Node
+title: Get Target Node
 order: 8
 ---
 ## Navigation

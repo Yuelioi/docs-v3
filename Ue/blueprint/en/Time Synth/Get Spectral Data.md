@@ -1,5 +1,5 @@
 ---
-display_name: Get Spectral Data
+title: Get Spectral Data
 order: 3
 ---
 ## Navigation

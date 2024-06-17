@@ -1,5 +1,5 @@
 ---
-display_name: On Break Event
+title: On Break Event
 order: 1
 ---
 ## Navigation

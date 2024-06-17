@@ -1,5 +1,5 @@
 ---
-display_name: Is Level Visible
+title: Is Level Visible
 order: 7
 ---
 ## Navigation

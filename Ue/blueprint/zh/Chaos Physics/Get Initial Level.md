@@ -1,5 +1,5 @@
 ---
-display_name: Get Initial Level
+title: Get Initial Level
 order: 11
 ---
 ## Navigation

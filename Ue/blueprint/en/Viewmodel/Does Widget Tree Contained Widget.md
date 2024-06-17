@@ -1,5 +1,5 @@
 ---
-display_name: Does Widget Tree Contained Widget
+title: Does Widget Tree Contained Widget
 order: 6
 ---
 ## Navigation

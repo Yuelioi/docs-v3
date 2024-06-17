@@ -1,5 +1,5 @@
 ---
-display_name: Get Int 32Metadata
+title: Get Int 32Metadata
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: agentrigparent
+title: agentrigparent
 order: 38
 ---
 `int  agentrigparent(<geometry>geometry, int prim, int transform)`

@@ -1,5 +1,5 @@
 ---
-display_name: Find Input Pass
+title: Find Input Pass
 order: 2
 ---
 ## Navigation

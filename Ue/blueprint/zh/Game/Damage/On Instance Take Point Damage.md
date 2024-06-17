@@ -1,5 +1,5 @@
 ---
-display_name: On Instance Take Point Damage
+title: On Instance Take Point Damage
 order: 6
 ---
 ## Navigation

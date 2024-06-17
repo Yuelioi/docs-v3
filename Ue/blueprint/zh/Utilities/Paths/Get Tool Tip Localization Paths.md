@@ -1,5 +1,5 @@
 ---
-display_name: Get Tool Tip Localization Paths
+title: Get Tool Tip Localization Paths
 order: 52
 ---
 ## Navigation

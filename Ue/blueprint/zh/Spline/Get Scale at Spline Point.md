@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale at Spline Point
+title: Get Scale at Spline Point
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Drop
+title: On Drop
 order: 77
 ---
 ## Navigation

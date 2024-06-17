@@ -1,5 +1,5 @@
 ---
-display_name: Get Delayed Timecode
+title: Get Delayed Timecode
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove TextureShare Object
+title: Remove TextureShare Object
 order: 3
 ---
 ## Navigation

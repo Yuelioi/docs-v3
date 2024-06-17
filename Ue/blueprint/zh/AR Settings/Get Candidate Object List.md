@@ -1,5 +1,5 @@
 ---
-display_name: Get Candidate Object List
+title: Get Candidate Object List
 order: 5
 ---
 ## Navigation

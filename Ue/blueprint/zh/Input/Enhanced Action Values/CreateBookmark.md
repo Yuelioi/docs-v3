@@ -1,5 +1,5 @@
 ---
-display_name: CreateBookmark
+title: CreateBookmark
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Closed Mesh
+title: Get Is Closed Mesh
 order: 18
 ---
 ## Navigation

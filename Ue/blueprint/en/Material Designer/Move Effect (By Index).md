@@ -1,5 +1,5 @@
 ---
-display_name: Move Effect (By Index)
+title: Move Effect (By Index)
 order: 181
 ---
 ## Navigation

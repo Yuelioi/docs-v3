@@ -1,5 +1,5 @@
 ---
-display_name: ItemCollection
+title: ItemCollection
 order: 6
 ---
 

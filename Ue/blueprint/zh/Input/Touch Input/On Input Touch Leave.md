@@ -1,5 +1,5 @@
 ---
-display_name: On Input Touch Leave
+title: On Input Touch Leave
 order: 4
 ---
 ## Navigation

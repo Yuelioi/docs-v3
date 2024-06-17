@@ -1,5 +1,5 @@
 ---
-display_name: Set Atmosphere Height
+title: Set Atmosphere Height
 order: 18
 ---
 ## Navigation

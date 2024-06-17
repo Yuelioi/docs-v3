@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Parents
+title: Set Control Parents
 order: 92
 ---
 ## Navigation

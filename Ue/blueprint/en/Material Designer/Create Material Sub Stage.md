@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Sub Stage
+title: Create Material Sub Stage
 order: 44
 ---
 ## Navigation

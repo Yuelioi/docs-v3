@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Value
+title: Get Input Value
 order: 81
 ---
 ## Navigation

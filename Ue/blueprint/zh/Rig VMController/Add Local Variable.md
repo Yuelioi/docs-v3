@@ -1,5 +1,5 @@
 ---
-display_name: Add Local Variable
+title: Add Local Variable
 order: 20
 ---
 ## Navigation

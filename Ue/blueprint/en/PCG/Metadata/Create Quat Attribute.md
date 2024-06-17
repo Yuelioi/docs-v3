@@ -1,5 +1,5 @@
 ---
-display_name: Create Quat Attribute
+title: Create Quat Attribute
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Drag Dropping
+title: Is Drag Dropping
 order: 4
 ---
 ## Navigation

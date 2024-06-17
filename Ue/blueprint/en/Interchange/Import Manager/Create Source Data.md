@@ -1,5 +1,5 @@
 ---
-display_name: Create Source Data
+title: Create Source Data
 order: 1
 ---
 ## Navigation

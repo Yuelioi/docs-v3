@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Type String
+title: Get Property Type String
 order: 12
 ---
 ## Navigation

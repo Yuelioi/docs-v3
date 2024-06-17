@@ -1,5 +1,5 @@
 ---
-display_name: Close Tab by ID
+title: Close Tab by ID
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Connector Settings
+title: Set Connector Settings
 order: 124
 ---
 ## Navigation

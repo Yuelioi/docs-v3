@@ -1,5 +1,5 @@
 ---
-display_name: Get Pin Path Representation
+title: Get Pin Path Representation
 order: 5
 ---
 ## Navigation

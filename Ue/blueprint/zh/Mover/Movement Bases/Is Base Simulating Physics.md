@@ -1,5 +1,5 @@
 ---
-display_name: Is Base Simulating Physics
+title: Is Base Simulating Physics
 order: 3
 ---
 ## Navigation

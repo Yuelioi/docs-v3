@@ -1,5 +1,5 @@
 ---
-display_name: Set Preview LODDistance
+title: Set Preview LODDistance
 order: 7
 ---
 ## Navigation

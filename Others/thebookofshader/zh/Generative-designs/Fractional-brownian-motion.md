@@ -1,5 +1,5 @@
 ---
-display_name: Fractional-brownian-motion
+title: Fractional-brownian-motion
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Memory State
+title: Set Memory State
 order: 266
 ---
 ## Navigation

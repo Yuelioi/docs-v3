@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Multiplier
+title: Get Control Multiplier
 order: 43
 ---
 ## Navigation

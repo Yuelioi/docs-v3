@@ -1,5 +1,5 @@
 ---
-display_name: Load
+title: Load
 order: 13
 ---
 ## Navigation

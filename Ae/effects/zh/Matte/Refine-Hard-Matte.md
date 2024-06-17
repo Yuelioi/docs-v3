@@ -1,5 +1,5 @@
 ---
-display_name: 调整实边遮罩
+title: 调整实边遮罩
 order: 2
 ---
 

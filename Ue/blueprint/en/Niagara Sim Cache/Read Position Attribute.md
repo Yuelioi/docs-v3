@@ -1,5 +1,5 @@
 ---
-display_name: Read Position Attribute
+title: Read Position Attribute
 order: 19
 ---
 ## Navigation

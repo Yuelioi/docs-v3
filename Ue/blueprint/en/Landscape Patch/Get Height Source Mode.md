@@ -1,5 +1,5 @@
 ---
-display_name: Get Height Source Mode
+title: Get Height Source Mode
 order: 9
 ---
 ## Navigation

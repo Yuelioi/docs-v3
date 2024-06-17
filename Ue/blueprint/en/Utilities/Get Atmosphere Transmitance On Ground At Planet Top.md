@@ -1,5 +1,5 @@
 ---
-display_name: Get Atmosphere Transmitance On Ground At Planet Top
+title: Get Atmosphere Transmitance On Ground At Planet Top
 order: 9
 ---
 ## Navigation

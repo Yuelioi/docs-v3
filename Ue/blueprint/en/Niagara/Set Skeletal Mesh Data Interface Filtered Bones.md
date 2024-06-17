@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh Data Interface Filtered Bones
+title: Set Skeletal Mesh Data Interface Filtered Bones
 order: 64
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Pre Forwards Solve
+title: On Pre Forwards Solve
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create MIC Editor Only
+title: Create MIC Editor Only
 order: 11
 ---
 ## Navigation

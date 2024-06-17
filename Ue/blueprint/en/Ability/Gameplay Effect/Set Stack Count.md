@@ -1,5 +1,5 @@
 ---
-display_name: Set Stack Count
+title: Set Stack Count
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Distribution Uniform Values
+title: Get Vector Distribution Uniform Values
 order: 113
 ---
 ## Navigation

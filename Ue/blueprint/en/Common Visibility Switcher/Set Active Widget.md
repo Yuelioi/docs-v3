@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Widget
+title: Set Active Widget
 order: 9
 ---
 ## Navigation

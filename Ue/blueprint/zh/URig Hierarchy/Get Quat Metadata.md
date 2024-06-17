@@ -1,5 +1,5 @@
 ---
-display_name: Get Quat Metadata
+title: Get Quat Metadata
 order: 71
 ---
 ## Navigation

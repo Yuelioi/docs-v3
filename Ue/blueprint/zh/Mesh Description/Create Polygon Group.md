@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon Group
+title: Create Polygon Group
 order: 6
 ---
 ## Navigation

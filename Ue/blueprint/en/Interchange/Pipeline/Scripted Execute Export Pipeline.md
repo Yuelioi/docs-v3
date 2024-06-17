@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Execute Export Pipeline
+title: Scripted Execute Export Pipeline
 order: 4
 ---
 ## Navigation

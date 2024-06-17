@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color to Points in Box
+title: Apply Color to Points in Box
 order: 5
 ---
 ## Navigation

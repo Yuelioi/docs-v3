@@ -1,5 +1,5 @@
 ---
-display_name: Get Origin
+title: Get Origin
 order: 13
 ---
 ## Navigation

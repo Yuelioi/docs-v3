@@ -1,5 +1,5 @@
 ---
-display_name: Truncate to Integer64
+title: Truncate to Integer64
 order: 41
 ---
 ## Navigation

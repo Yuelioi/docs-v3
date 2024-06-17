@@ -1,5 +1,5 @@
 ---
-display_name: Play Reverse
+title: Play Reverse
 order: 33
 ---
 ## Navigation

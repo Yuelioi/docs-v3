@@ -1,5 +1,5 @@
 ---
-display_name: Apply Uniform Tessellation
+title: Apply Uniform Tessellation
 order: 3
 ---
 ## Navigation

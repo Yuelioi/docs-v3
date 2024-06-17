@@ -1,5 +1,5 @@
 ---
-display_name: Set Capsule Size
+title: Set Capsule Size
 order: 14
 ---
 ## Navigation

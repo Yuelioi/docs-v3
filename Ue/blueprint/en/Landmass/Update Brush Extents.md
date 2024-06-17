@@ -1,5 +1,5 @@
 ---
-display_name: Update Brush Extents
+title: Update Brush Extents
 order: 13
 ---
 ## Navigation

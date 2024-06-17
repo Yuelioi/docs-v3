@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Layout
+title: Get Active Layout
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Kernel Function
+title: Is Kernel Function
 order: 32
 ---
 ## Navigation

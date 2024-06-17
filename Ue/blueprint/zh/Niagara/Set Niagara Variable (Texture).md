@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Texture)
+title: Set Niagara Variable (Texture)
 order: 41
 ---
 ## Navigation

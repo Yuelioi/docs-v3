@@ -1,5 +1,5 @@
 ---
-display_name: On VREditing Mode Enter
+title: On VREditing Mode Enter
 order: 1
 ---
 ## Navigation

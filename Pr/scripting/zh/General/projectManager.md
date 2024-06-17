@@ -1,5 +1,5 @@
 ---
-display_name: 项目管理器对象 projectManager
+title: 项目管理器对象 projectManager
 order: 9
 ---
 

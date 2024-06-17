@@ -1,5 +1,5 @@
 ---
-display_name: Reset Actor
+title: Reset Actor
 order: 10
 ---
 ## Navigation

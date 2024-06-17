@@ -1,5 +1,5 @@
 ---
-display_name: Get Friendly Name
+title: Get Friendly Name
 order: 4
 ---
 ## Navigation

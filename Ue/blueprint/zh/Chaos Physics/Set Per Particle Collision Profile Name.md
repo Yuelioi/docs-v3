@@ -1,5 +1,5 @@
 ---
-display_name: Set Per Particle Collision Profile Name
+title: Set Per Particle Collision Profile Name
 order: 27
 ---
 ## Navigation

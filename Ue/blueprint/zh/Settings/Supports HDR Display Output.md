@@ -1,5 +1,5 @@
 ---
-display_name: Supports HDR Display Output
+title: Supports HDR Display Output
 order: 141
 ---
 ## Navigation

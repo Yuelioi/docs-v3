@@ -1,5 +1,5 @@
 ---
-display_name: Compute Split Normals
+title: Compute Split Normals
 order: 2
 ---
 ## Navigation

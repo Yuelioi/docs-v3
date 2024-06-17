@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Mode
+title: Set Display Mode
 order: 46
 ---
 ## Navigation

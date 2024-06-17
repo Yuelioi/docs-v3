@@ -1,5 +1,5 @@
 ---
-display_name: Get All Assets by Meta Data Tags
+title: Get All Assets by Meta Data Tags
 order: 3
 ---
 ## Navigation

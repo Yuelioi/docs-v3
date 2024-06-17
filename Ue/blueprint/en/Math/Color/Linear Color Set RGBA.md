@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Set RGBA
+title: Linear Color Set RGBA
 order: 14
 ---
 ## Navigation

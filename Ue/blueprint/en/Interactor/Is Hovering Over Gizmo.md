@@ -1,5 +1,5 @@
 ---
-display_name: Is Hovering Over Gizmo
+title: Is Hovering Over Gizmo
 order: 13
 ---
 ## Navigation

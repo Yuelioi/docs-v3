@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance To
+title: Get Distance To
 order: 37
 ---
 ## Navigation

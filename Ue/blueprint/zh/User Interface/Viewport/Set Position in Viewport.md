@@ -1,5 +1,5 @@
 ---
-display_name: Set Position in Viewport
+title: Set Position in Viewport
 order: 8
 ---
 ## Navigation

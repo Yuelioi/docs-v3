@@ -1,5 +1,5 @@
 ---
-display_name: Get Sprite
+title: Get Sprite
 order: 13
 ---
 ## Navigation

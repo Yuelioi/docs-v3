@@ -1,5 +1,5 @@
 ---
-display_name: Event BeginInputTouch
+title: Event BeginInputTouch
 order: 1
 ---
 ## Navigation

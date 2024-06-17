@@ -1,5 +1,5 @@
 ---
-display_name: Copy UV Channel
+title: Copy UV Channel
 order: 6
 ---
 ## Navigation

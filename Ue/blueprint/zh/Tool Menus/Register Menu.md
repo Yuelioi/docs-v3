@@ -1,5 +1,5 @@
 ---
-display_name: Register Menu
+title: Register Menu
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Launch Notification
+title: Get Launch Notification
 order: 6
 ---
 ## Navigation

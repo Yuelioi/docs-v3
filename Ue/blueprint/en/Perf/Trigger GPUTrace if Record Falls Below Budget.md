@@ -1,5 +1,5 @@
 ---
-display_name: Trigger GPUTrace if Record Falls Below Budget
+title: Trigger GPUTrace if Record Falls Below Budget
 order: 24
 ---
 ## Navigation

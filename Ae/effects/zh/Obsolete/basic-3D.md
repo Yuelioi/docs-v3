@@ -1,5 +1,5 @@
 ---
-display_name: 基本 3D
+title: 基本 3D
 order: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Warn User Of Unsaved Map
+title: Warn User Of Unsaved Map
 order: 31
 ---
 ## Navigation

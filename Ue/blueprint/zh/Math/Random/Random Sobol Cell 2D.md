@@ -1,5 +1,5 @@
 ---
-display_name: Random Sobol Cell 2D
+title: Random Sobol Cell 2D
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Play Montage Notify Begin Delegate
+title: On Play Montage Notify Begin Delegate
 order: 24
 ---
 ## Navigation

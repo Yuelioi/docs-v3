@@ -1,5 +1,5 @@
 ---
-display_name: Set Uniform Vector
+title: Set Uniform Vector
 order: 33
 ---
 ## Navigation

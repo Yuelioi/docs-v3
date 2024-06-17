@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Water Body Components
+title: Get Current Water Body Components
 order: 1
 ---
 ## Navigation

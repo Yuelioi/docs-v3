@@ -1,5 +1,5 @@
 ---
-display_name: Make Either B Observation
+title: Make Either B Observation
 order: 180
 ---
 ## Navigation

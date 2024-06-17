@@ -1,5 +1,5 @@
 ---
-display_name: Scroll Item Into View
+title: Scroll Item Into View
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Load Json from File
+title: Load Json from File
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot Location
+title: Get Slot Location
 order: 21
 ---
 ## Navigation

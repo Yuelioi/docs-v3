@@ -1,5 +1,5 @@
 ---
-display_name: Get Unique Net Id
+title: Get Unique Net Id
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Bool)
+title: Has Default (Bool)
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Snap Sections to Timeline Using Source Timecode
+title: Snap Sections to Timeline Using Source Timecode
 order: 71
 ---
 ## Navigation

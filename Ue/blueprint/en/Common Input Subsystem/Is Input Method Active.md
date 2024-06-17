@@ -1,5 +1,5 @@
 ---
-display_name: Is Input Method Active
+title: Is Input Method Active
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Order
+title: Set Scale Order
 order: 4
 ---
 ## Navigation

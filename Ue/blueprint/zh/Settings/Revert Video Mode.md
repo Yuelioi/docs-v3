@@ -1,5 +1,5 @@
 ---
-display_name: Revert Video Mode
+title: Revert Video Mode
 order: 100
 ---
 ## Navigation

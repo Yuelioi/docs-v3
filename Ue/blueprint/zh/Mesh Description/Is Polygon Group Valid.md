@@ -1,5 +1,5 @@
 ---
-display_name: Is Polygon Group Valid
+title: Is Polygon Group Valid
 order: 77
 ---
 ## Navigation

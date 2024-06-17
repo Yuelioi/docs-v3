@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Selection Info
+title: Get Mesh Selection Info
 order: 12
 ---
 ## Navigation

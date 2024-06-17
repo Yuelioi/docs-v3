@@ -1,5 +1,5 @@
 ---
-display_name: PlaybackSpeed
+title: PlaybackSpeed
 order: 54
 ---
 ## Navigation

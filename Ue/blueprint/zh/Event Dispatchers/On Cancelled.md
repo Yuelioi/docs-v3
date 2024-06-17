@@ -1,5 +1,5 @@
 ---
-display_name: On Cancelled
+title: On Cancelled
 order: 61
 ---
 ## Navigation

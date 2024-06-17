@@ -1,5 +1,5 @@
 ---
-display_name: Auto Generate XAtlas Mesh UVs
+title: Auto Generate XAtlas Mesh UVs
 order: 2
 ---
 ## Navigation

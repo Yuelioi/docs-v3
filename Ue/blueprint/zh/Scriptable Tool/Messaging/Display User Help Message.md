@@ -1,5 +1,5 @@
 ---
-display_name: Display User Help Message
+title: Display User Help Message
 order: 3
 ---
 ## Navigation

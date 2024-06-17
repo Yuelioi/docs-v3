@@ -1,5 +1,5 @@
 ---
-display_name: Clear Skin Weight Profile
+title: Clear Skin Weight Profile
 order: 3
 ---
 ## Navigation

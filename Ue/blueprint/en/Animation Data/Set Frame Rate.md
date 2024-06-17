@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame Rate
+title: Set Frame Rate
 order: 20
 ---
 ## Navigation

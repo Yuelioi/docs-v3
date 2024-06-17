@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Selection Bounding Box
+title: Get Mesh Selection Bounding Box
 order: 2
 ---
 ## Navigation

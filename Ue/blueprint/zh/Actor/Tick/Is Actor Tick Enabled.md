@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Tick Enabled
+title: Is Actor Tick Enabled
 order: 5
 ---
 ## Navigation

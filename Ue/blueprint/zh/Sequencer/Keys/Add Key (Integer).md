@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Integer)
+title: Add Key (Integer)
 order: 7
 ---
 ## Navigation

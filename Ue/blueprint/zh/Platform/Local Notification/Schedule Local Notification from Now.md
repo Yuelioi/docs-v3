@@ -1,5 +1,5 @@
 ---
-display_name: Schedule Local Notification from Now
+title: Schedule Local Notification from Now
 order: 10
 ---
 ## Navigation

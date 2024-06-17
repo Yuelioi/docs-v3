@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Global Control Bus Mix Values
+title: Clear All Global Control Bus Mix Values
 order: 4
 ---
 ## Navigation

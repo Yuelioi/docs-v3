@@ -1,5 +1,5 @@
 ---
-display_name: Create Asset with Dialog
+title: Create Asset with Dialog
 order: 6
 ---
 ## Navigation

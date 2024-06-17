@@ -1,5 +1,5 @@
 ---
-display_name: Specify Either Observation
+title: Specify Either Observation
 order: 289
 ---
 ## Navigation

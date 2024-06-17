@@ -1,5 +1,5 @@
 ---
-display_name: Specify Static Array Action
+title: Specify Static Array Action
 order: 326
 ---
 ## Navigation

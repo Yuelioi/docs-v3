@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarsize
+title: usd_primvarsize
 order: 113
 ---
 | Since | 18.0 |

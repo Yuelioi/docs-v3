@@ -1,5 +1,5 @@
 ---
-display_name: Get Physical Material Mask
+title: Get Physical Material Mask
 order: 1
 ---
 ## Navigation

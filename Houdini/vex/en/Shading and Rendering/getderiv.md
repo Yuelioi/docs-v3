@@ -1,5 +1,5 @@
 ---
-display_name: getderiv
+title: getderiv
 order: 12
 ---
 | On this page | * [Derivatives options](#derivatives-options) * [Examples](#examples) |

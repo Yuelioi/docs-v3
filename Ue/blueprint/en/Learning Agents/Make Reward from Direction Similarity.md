@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Direction Similarity
+title: Make Reward from Direction Similarity
 order: 220
 ---
 ## Navigation

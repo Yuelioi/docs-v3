@@ -1,5 +1,5 @@
 ---
-display_name: Is Right Shift Down
+title: Is Right Shift Down
 order: 13
 ---
 ## Navigation

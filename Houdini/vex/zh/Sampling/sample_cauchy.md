@@ -1,5 +1,5 @@
 ---
-display_name: sample_cauchy
+title: sample_cauchy
 order: 6
 ---
 `float  sample_cauchy(float u)`

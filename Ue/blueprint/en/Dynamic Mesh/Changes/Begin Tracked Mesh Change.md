@@ -1,5 +1,5 @@
 ---
-display_name: Begin Tracked Mesh Change
+title: Begin Tracked Mesh Change
 order: 1
 ---
 ## Navigation

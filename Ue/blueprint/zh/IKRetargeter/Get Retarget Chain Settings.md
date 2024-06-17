@@ -1,5 +1,5 @@
 ---
-display_name: Get Retarget Chain Settings
+title: Get Retarget Chain Settings
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is AR Supported
+title: Is AR Supported
 order: 7
 ---
 ## Navigation

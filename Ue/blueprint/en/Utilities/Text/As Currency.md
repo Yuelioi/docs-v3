@@ -1,5 +1,5 @@
 ---
-display_name: As Currency
+title: As Currency
 order: 1
 ---
 ## Navigation

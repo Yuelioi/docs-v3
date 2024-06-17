@@ -1,5 +1,5 @@
 ---
-display_name: Sync Browser to Objects
+title: Sync Browser to Objects
 order: 3
 ---
 ## Navigation

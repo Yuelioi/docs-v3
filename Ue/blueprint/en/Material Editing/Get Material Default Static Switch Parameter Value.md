@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Default Static Switch Parameter Value
+title: Get Material Default Static Switch Parameter Value
 order: 15
 ---
 ## Navigation

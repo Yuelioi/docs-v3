@@ -1,5 +1,5 @@
 ---
-display_name: Get Brush by Id
+title: Get Brush by Id
 order: 2
 ---
 ## Navigation

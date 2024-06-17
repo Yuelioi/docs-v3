@@ -1,5 +1,5 @@
 ---
-display_name: Text Trim Trailing
+title: Text Trim Trailing
 order: 34
 ---
 ## Navigation

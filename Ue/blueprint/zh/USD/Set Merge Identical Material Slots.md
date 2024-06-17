@@ -1,5 +1,5 @@
 ---
-display_name: Set Merge Identical Material Slots
+title: Set Merge Identical Material Slots
 order: 16
 ---
 ## Navigation

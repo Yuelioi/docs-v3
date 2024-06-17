@@ -1,5 +1,5 @@
 ---
-display_name: Middle Mouse Button
+title: Middle Mouse Button
 order: 2
 ---
 ## Navigation

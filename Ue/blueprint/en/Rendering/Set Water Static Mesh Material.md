@@ -1,5 +1,5 @@
 ---
-display_name: Set Water Static Mesh Material
+title: Set Water Static Mesh Material
 order: 99
 ---
 ## Navigation

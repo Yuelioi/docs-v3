@@ -1,5 +1,5 @@
 ---
-display_name: Set RGBCurve
+title: Set RGBCurve
 order: 128
 ---
 ## Navigation

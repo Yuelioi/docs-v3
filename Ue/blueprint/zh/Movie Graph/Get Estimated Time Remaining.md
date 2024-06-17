@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimated Time Remaining
+title: Get Estimated Time Remaining
 order: 24
 ---
 ## Navigation

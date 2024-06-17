@@ -1,5 +1,5 @@
 ---
-display_name: CC阈值RGB
+title: CC阈值RGB
 order: 11
 ---
 

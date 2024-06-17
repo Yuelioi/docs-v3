@@ -1,5 +1,5 @@
 ---
-display_name: Get Referenced Assets
+title: Get Referenced Assets
 order: 11
 ---
 ## Navigation

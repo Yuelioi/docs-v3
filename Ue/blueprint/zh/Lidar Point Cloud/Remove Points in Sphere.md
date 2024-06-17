@@ -1,5 +1,5 @@
 ---
-display_name: Remove Points in Sphere
+title: Remove Points in Sphere
 order: 62
 ---
 ## Navigation

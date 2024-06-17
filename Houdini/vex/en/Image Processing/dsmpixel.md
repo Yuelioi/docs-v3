@@ -1,5 +1,5 @@
 ---
-display_name: dsmpixel
+title: dsmpixel
 order: 9
 ---
 `int  dsmpixel(string map, string channel, int x, int y, <type>&values[])`

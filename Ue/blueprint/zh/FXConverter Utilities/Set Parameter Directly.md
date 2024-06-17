@@ -1,5 +1,5 @@
 ---
-display_name: Set Parameter Directly
+title: Set Parameter Directly
 order: 124
 ---
 ## Navigation

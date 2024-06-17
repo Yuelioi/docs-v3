@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Get Connected Players
+title: Streamer Get Connected Players
 order: 28
 ---
 ## Navigation

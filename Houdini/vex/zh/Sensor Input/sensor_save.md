@@ -1,5 +1,5 @@
 ---
-display_name: sensor_save
+title: sensor_save
 order: 5
 ---
 `int  sensor_save(int handle, string colorfile, string depthfile)`

@@ -1,5 +1,5 @@
 ---
-display_name: Streaming Source Should Activate
+title: Streaming Source Should Activate
 order: 15
 ---
 ## Navigation

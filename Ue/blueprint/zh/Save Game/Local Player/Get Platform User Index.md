@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform User Index
+title: Get Platform User Index
 order: 7
 ---
 ## Navigation

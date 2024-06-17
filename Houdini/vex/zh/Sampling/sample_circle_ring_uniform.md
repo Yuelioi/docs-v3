@@ -1,5 +1,5 @@
 ---
-display_name: sample_circle_ring_uniform
+title: sample_circle_ring_uniform
 order: 10
 ---
 | Since | 17.0 |

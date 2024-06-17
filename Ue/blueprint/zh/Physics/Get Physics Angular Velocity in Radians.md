@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Angular Velocity in Radians
+title: Get Physics Angular Velocity in Radians
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Prepare for Pooling (Message)
+title: Prepare for Pooling (Message)
 order: 5
 ---
 ## Navigation

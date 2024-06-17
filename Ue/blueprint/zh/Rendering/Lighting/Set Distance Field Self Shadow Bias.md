@@ -1,5 +1,5 @@
 ---
-display_name: Set Distance Field Self Shadow Bias
+title: Set Distance Field Self Shadow Bias
 order: 10
 ---
 ## Navigation

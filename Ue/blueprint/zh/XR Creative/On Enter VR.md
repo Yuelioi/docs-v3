@@ -1,5 +1,5 @@
 ---
-display_name: On Enter VR
+title: On Enter VR
 order: 21
 ---
 ## Navigation

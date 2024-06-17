@@ -1,5 +1,5 @@
 ---
-display_name: On Session Connected
+title: On Session Connected
 order: 19
 ---
 ## Navigation

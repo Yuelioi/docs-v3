@@ -1,5 +1,5 @@
 ---
-display_name: Set Icon
+title: Set Icon
 order: 35
 ---
 ## Navigation

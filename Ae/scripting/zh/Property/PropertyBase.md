@@ -1,5 +1,5 @@
 ---
-display_name: PropertyBase
+title: PropertyBase
 order: 3
 ---
 

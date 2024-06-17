@@ -1,5 +1,5 @@
 ---
-display_name: Get Referenced Mesh Names
+title: Get Referenced Mesh Names
 order: 6
 ---
 ## Navigation

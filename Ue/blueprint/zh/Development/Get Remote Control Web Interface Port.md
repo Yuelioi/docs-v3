@@ -1,5 +1,5 @@
 ---
-display_name: Get Remote Control Web Interface Port
+title: Get Remote Control Web Interface Port
 order: 47
 ---
 ## Navigation

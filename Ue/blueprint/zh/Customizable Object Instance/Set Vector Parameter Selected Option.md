@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter Selected Option
+title: Set Vector Parameter Selected Option
 order: 79
 ---
 ## Navigation

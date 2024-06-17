@@ -1,5 +1,5 @@
 ---
-display_name: Log Message
+title: Log Message
 order: 6
 ---
 ## Navigation

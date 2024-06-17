@@ -1,5 +1,5 @@
 ---
-display_name: Window
+title: Window
 order: 15
 ---
 

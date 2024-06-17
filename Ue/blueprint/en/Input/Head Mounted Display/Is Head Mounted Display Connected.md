@@ -1,5 +1,5 @@
 ---
-display_name: Is Head Mounted Display Connected
+title: Is Head Mounted Display Connected
 order: 15
 ---
 ## Navigation

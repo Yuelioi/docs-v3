@@ -1,5 +1,5 @@
 ---
-display_name: Get Light Actors
+title: Get Light Actors
 order: 28
 ---
 ## Navigation

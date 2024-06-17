@@ -1,5 +1,5 @@
 ---
-display_name: Add Input
+title: Add Input
 order: 1
 ---
 ## Navigation

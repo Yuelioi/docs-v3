@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Object Parameter
+title: Get Soft Object Parameter
 order: 14
 ---
 ## Navigation

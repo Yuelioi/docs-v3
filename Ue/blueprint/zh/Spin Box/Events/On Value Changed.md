@@ -1,5 +1,5 @@
 ---
-display_name: On Value Changed
+title: On Value Changed
 order: 3
 ---
 ## Navigation

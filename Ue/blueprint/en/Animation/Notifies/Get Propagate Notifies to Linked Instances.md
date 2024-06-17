@@ -1,5 +1,5 @@
 ---
-display_name: Get Propagate Notifies to Linked Instances
+title: Get Propagate Notifies to Linked Instances
 order: 1
 ---
 ## Navigation

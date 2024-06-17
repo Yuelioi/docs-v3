@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Info
+title: Get Actor Info
 order: 37
 ---
 ## Navigation

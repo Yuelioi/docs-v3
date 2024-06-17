@@ -1,5 +1,5 @@
 ---
-display_name: Undo Modifier
+title: Undo Modifier
 order: 3
 ---
 ## Navigation

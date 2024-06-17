@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequences (by Labels) (Message)
+title: Play Sequences (by Labels) (Message)
 order: 14
 ---
 ## Navigation

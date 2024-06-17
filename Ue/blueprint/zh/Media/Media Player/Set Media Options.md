@@ -1,5 +1,5 @@
 ---
-display_name: Set Media Options
+title: Set Media Options
 order: 74
 ---
 ## Navigation

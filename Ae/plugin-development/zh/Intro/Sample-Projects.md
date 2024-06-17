@@ -1,5 +1,5 @@
 ---
-display_name: Sample-Projects
+title: Sample-Projects
 order: 13
 ---
 

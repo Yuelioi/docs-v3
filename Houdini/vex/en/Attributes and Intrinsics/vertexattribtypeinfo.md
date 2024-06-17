@@ -1,5 +1,5 @@
 ---
-display_name: vertexattribtypeinfo
+title: vertexattribtypeinfo
 order: 81
 ---
 `string  vertexattribtypeinfo(<geometry>geometry, string attribute_name)`

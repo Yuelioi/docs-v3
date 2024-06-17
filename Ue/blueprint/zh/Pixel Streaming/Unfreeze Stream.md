@@ -1,5 +1,5 @@
 ---
-display_name: Unfreeze Stream
+title: Unfreeze Stream
 order: 35
 ---
 ## Navigation

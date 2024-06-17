@@ -1,5 +1,5 @@
 ---
-display_name: Get GameFrameworkComponentManager
+title: Get GameFrameworkComponentManager
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Selected Elements
+title: Get Num Selected Elements
 order: 14
 ---
 ## Navigation

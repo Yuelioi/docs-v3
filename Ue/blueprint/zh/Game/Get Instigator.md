@@ -1,5 +1,5 @@
 ---
-display_name: Get Instigator
+title: Get Instigator
 order: 25
 ---
 ## Navigation

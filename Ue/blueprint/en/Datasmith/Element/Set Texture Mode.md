@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Mode
+title: Set Texture Mode
 order: 138
 ---
 ## Navigation

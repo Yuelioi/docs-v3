@@ -1,5 +1,5 @@
 ---
-display_name: Quit Editor
+title: Quit Editor
 order: 52
 ---
 ## Navigation

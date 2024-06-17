@@ -1,5 +1,5 @@
 ---
-display_name: Apply Uniform Force
+title: Apply Uniform Force
 order: 7
 ---
 ## Navigation

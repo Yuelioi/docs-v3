@@ -1,5 +1,5 @@
 ---
-display_name: Create Level Variant Sets
+title: Create Level Variant Sets
 order: 5
 ---
 ## Navigation

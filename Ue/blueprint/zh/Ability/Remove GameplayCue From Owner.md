@@ -1,5 +1,5 @@
 ---
-display_name: Remove GameplayCue From Owner
+title: Remove GameplayCue From Owner
 order: 57
 ---
 ## Navigation

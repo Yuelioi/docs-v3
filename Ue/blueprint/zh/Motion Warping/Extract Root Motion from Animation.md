@@ -1,5 +1,5 @@
 ---
-display_name: Extract Root Motion from Animation
+title: Extract Root Motion from Animation
 order: 9
 ---
 ## Navigation

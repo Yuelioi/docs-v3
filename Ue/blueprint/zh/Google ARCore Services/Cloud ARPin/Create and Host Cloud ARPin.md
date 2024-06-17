@@ -1,5 +1,5 @@
 ---
-display_name: Create and Host Cloud ARPin
+title: Create and Host Cloud ARPin
 order: 2
 ---
 ## Navigation

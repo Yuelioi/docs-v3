@@ -1,5 +1,5 @@
 ---
-display_name: Get TimedDataMonitorSubsystem
+title: Get TimedDataMonitorSubsystem
 order: 48
 ---
 ## Navigation

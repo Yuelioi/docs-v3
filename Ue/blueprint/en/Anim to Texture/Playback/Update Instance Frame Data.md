@@ -1,5 +1,5 @@
 ---
-display_name: Update Instance Frame Data
+title: Update Instance Frame Data
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Can Reparent
+title: Can Reparent
 order: 6
 ---
 ## Navigation

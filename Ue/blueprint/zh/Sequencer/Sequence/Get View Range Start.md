@@ -1,5 +1,5 @@
 ---
-display_name: Get View Range Start
+title: Get View Range Start
 order: 59
 ---
 ## Navigation

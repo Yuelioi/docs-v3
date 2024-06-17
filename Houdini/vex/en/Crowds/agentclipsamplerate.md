@@ -1,5 +1,5 @@
 ---
-display_name: agentclipsamplerate
+title: agentclipsamplerate
 order: 14
 ---
 `float  agentclipsamplerate(<geometry>geometry, int prim, string clipname)`

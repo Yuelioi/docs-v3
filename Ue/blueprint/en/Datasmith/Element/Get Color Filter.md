@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Filter
+title: Get Color Filter
 order: 23
 ---
 ## Navigation

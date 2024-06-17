@@ -1,5 +1,5 @@
 ---
-display_name: Is Eye Tracker Connected
+title: Is Eye Tracker Connected
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Controller Hand Side
+title: Get Controller Hand Side
 order: 1
 ---
 ## Navigation

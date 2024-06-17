@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Bounds
+title: Get Actor Bounds
 order: 20
 ---
 ## Navigation

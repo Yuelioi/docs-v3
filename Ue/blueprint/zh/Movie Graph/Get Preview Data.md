@@ -1,5 +1,5 @@
 ---
-display_name: Get Preview Data
+title: Get Preview Data
 order: 44
 ---
 ## Navigation

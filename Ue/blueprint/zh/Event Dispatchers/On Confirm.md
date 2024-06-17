@@ -1,5 +1,5 @@
 ---
-display_name: On Confirm
+title: On Confirm
 order: 67
 ---
 ## Navigation

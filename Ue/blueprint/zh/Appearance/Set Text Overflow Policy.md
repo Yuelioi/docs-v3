@@ -1,5 +1,5 @@
 ---
-display_name: Set Text Overflow Policy
+title: Set Text Overflow Policy
 order: 88
 ---
 ## Navigation

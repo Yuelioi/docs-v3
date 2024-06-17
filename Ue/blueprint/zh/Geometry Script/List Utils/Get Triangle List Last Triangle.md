@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle List Last Triangle
+title: Get Triangle List Last Triangle
 order: 35
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Scale by Moment Of Inertia
+title: Scale by Moment Of Inertia
 order: 9
 ---
 ## Navigation

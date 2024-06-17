@@ -1,5 +1,5 @@
 ---
-display_name: Set Sense Enabled
+title: Set Sense Enabled
 order: 23
 ---
 ## Navigation

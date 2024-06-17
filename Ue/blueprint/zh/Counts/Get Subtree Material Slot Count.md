@@ -1,5 +1,5 @@
 ---
-display_name: Get Subtree Material Slot Count
+title: Get Subtree Material Slot Count
 order: 1
 ---
 ## Navigation

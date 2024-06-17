@@ -1,5 +1,5 @@
 ---
-display_name: Get Arrive Tangent
+title: Get Arrive Tangent
 order: 18
 ---
 ## Navigation

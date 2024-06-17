@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Texture
+title: Set Brush from Texture
 order: 30
 ---
 ## Navigation

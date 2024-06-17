@@ -1,5 +1,5 @@
 ---
-display_name: Branch
+title: Branch
 order: 1
 ---
 ## Navigation

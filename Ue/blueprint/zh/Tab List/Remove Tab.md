@@ -1,5 +1,5 @@
 ---
-display_name: Remove Tab
+title: Remove Tab
 order: 14
 ---
 ## Navigation

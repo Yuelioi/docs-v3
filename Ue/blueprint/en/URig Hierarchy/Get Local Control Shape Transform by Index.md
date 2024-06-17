@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Control Shape Transform by Index
+title: Get Local Control Shape Transform by Index
 order: 47
 ---
 ## Navigation

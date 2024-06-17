@@ -1,5 +1,5 @@
 ---
-display_name: Random Rotator
+title: Random Rotator
 order: 29
 ---
 ## Navigation

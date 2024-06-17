@@ -1,5 +1,5 @@
 ---
-display_name: Normalize Axis
+title: Normalize Axis
 order: 23
 ---
 ## Navigation

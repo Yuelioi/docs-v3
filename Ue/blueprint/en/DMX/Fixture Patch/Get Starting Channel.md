@@ -1,5 +1,5 @@
 ---
-display_name: Get Starting Channel
+title: Get Starting Channel
 order: 23
 ---
 ## Navigation

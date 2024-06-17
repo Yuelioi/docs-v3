@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls from Limb Bones and Constraint Profile
+title: Create Controls from Limb Bones and Constraint Profile
 order: 11
 ---
 ## Navigation

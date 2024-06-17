@@ -1,5 +1,5 @@
 ---
-display_name: Get Type
+title: Get Type
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Does Property States Exist
+title: Does Property States Exist
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: shadowmap
+title: shadowmap
 order: 10
 ---
 `float|vector shadowmap(string filename, vector Pndc, float spread, float bias, float quality, ...)`

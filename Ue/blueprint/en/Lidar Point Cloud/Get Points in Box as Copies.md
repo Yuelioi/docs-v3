@@ -1,5 +1,5 @@
 ---
-display_name: Get Points in Box as Copies
+title: Get Points in Box as Copies
 order: 29
 ---
 ## Navigation

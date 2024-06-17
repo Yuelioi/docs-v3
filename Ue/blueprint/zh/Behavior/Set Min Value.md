@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Value
+title: Set Min Value
 order: 26
 ---
 ## Navigation

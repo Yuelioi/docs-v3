@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Int Array Literal
+title: Create MetaSound Int Array Literal
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Spectators
+title: Get Num Spectators
 order: 35
 ---
 ## Navigation

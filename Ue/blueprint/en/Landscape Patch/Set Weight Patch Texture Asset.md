@@ -1,5 +1,5 @@
 ---
-display_name: Set Weight Patch Texture Asset
+title: Set Weight Patch Texture Asset
 order: 43
 ---
 ## Navigation

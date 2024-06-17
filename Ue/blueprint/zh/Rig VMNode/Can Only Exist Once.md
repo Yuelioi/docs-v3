@@ -1,5 +1,5 @@
 ---
-display_name: Can Only Exist Once
+title: Can Only Exist Once
 order: 1
 ---
 ## Navigation

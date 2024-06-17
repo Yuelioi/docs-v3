@@ -1,5 +1,5 @@
 ---
-display_name: Select Actors in Data Layers
+title: Select Actors in Data Layers
 order: 40
 ---
 ## Navigation

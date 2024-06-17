@@ -1,5 +1,5 @@
 ---
-display_name: Specify Pair Action
+title: Specify Pair Action
 order: 317
 ---
 ## Navigation

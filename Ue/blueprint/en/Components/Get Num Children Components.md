@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Children Components
+title: Get Num Children Components
 order: 32
 ---
 ## Navigation

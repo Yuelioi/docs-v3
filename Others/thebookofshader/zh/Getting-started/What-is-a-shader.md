@@ -1,5 +1,5 @@
 ---
-display_name: What-is-a-shader
+title: What-is-a-shader
 order: 5
 ---
 

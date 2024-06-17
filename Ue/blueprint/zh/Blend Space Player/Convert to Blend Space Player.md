@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Blend Space Player
+title: Convert to Blend Space Player
 order: 1
 ---
 ## Navigation

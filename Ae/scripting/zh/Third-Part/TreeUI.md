@@ -1,5 +1,5 @@
 ---
-display_name: TreeUI
+title: TreeUI
 order: 2
 ---
 

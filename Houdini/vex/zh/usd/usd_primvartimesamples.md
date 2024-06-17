@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvartimesamples
+title: usd_primvartimesamples
 order: 114
 ---
 | Since | 18.0 |

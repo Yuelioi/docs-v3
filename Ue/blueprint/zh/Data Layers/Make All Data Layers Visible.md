@@ -1,5 +1,5 @@
 ---
-display_name: Make All Data Layers Visible
+title: Make All Data Layers Visible
 order: 28
 ---
 ## Navigation

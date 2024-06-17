@@ -1,5 +1,5 @@
 ---
-display_name: Set Project File Path
+title: Set Project File Path
 order: 82
 ---
 ## Navigation

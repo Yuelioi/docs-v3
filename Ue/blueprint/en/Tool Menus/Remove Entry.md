@@ -1,5 +1,5 @@
 ---
-display_name: Remove Entry
+title: Remove Entry
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Connected Modifier By Name
+title: Get Connected Modifier By Name
 order: 3
 ---
 ## Navigation

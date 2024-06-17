@@ -1,5 +1,5 @@
 ---
-display_name: Get Connected Nodes
+title: Get Connected Nodes
 order: 10
 ---
 ## Navigation

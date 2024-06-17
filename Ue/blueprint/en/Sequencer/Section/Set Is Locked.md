@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Locked
+title: Set Is Locked
 order: 84
 ---
 ## Navigation

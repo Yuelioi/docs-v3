@@ -1,5 +1,5 @@
 ---
-display_name: Get Beats Per Minute
+title: Get Beats Per Minute
 order: 2
 ---
 ## Navigation

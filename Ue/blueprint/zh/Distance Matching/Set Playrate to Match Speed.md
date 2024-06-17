@@ -1,5 +1,5 @@
 ---
-display_name: Set Playrate to Match Speed
+title: Set Playrate to Match Speed
 order: 3
 ---
 ## Navigation

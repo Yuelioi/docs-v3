@@ -1,5 +1,5 @@
 ---
-display_name: Get Accessible Summary Text
+title: Get Accessible Summary Text
 order: 12
 ---
 ## Navigation

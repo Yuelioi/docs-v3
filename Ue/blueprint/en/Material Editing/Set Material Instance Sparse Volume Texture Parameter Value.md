@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Sparse Volume Texture Parameter Value
+title: Set Material Instance Sparse Volume Texture Parameter Value
 order: 51
 ---
 ## Navigation

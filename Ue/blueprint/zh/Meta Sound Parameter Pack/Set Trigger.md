@@ -1,5 +1,5 @@
 ---
-display_name: Set Trigger
+title: Set Trigger
 order: 26
 ---
 ## Navigation

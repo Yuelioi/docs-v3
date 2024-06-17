@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color to Points by Ray
+title: Apply Color to Points by Ray
 order: 4
 ---
 ## Navigation

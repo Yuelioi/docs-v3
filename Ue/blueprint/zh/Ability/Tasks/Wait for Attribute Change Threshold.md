@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Attribute Change Threshold
+title: Wait for Attribute Change Threshold
 order: 46
 ---
 ## Navigation

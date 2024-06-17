@@ -1,5 +1,5 @@
 ---
-display_name: Can Step Up on Hit Surface
+title: Can Step Up on Hit Surface
 order: 4
 ---
 ## Navigation

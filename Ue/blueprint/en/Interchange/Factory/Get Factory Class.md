@@ -1,5 +1,5 @@
 ---
-display_name: Get Factory Class
+title: Get Factory Class
 order: 1
 ---
 ## Navigation

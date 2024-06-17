@@ -1,5 +1,5 @@
 ---
-display_name: Get Shape Scale
+title: Get Shape Scale
 order: 2
 ---
 ## Navigation

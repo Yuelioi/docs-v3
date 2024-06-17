@@ -1,5 +1,5 @@
 ---
-display_name: Get PCGSubsystem
+title: Get PCGSubsystem
 order: 65
 ---
 ## Navigation

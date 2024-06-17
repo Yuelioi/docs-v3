@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Distribution Uniform Values
+title: Get Float Distribution Uniform Values
 order: 48
 ---
 ## Navigation

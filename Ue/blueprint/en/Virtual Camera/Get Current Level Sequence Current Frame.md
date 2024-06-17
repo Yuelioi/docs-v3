@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Level Sequence Current Frame
+title: Get Current Level Sequence Current Frame
 order: 14
 ---
 ## Navigation

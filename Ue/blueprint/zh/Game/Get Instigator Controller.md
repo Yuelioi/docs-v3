@@ -1,5 +1,5 @@
 ---
-display_name: Get Instigator Controller
+title: Get Instigator Controller
 order: 24
 ---
 ## Navigation

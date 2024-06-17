@@ -1,5 +1,5 @@
 ---
-display_name: Get Poly Path Vertex
+title: Get Poly Path Vertex
 order: 18
 ---
 ## Navigation

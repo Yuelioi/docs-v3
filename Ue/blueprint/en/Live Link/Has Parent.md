@@ -1,5 +1,5 @@
 ---
-display_name: Has Parent
+title: Has Parent
 order: 33
 ---
 ## Navigation

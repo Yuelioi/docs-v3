@@ -1,5 +1,5 @@
 ---
-display_name: Scale Mesh
+title: Scale Mesh
 order: 4
 ---
 ## Navigation

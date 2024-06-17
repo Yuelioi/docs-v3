@@ -1,5 +1,5 @@
 ---
-display_name: Add Function Graph
+title: Add Function Graph
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Layer
+title: Create Layer
 order: 12
 ---
 ## Navigation

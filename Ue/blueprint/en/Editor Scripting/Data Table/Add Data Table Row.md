@@ -1,5 +1,5 @@
 ---
-display_name: Add Data Table Row
+title: Add Data Table Row
 order: 1
 ---
 ## Navigation

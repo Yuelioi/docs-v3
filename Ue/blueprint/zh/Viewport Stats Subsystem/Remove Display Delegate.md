@@ -1,5 +1,5 @@
 ---
-display_name: Remove Display Delegate
+title: Remove Display Delegate
 order: 3
 ---
 ## Navigation

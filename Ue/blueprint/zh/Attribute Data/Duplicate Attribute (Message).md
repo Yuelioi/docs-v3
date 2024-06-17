@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Attribute (Message)
+title: Duplicate Attribute (Message)
 order: 3
 ---
 ## Navigation

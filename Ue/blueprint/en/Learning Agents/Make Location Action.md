@@ -1,5 +1,5 @@
 ---
-display_name: Make Location Action
+title: Make Location Action
 order: 200
 ---
 ## Navigation

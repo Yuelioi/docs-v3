@@ -1,5 +1,5 @@
 ---
-display_name: Set Gravity
+title: Set Gravity
 order: 22
 ---
 ## Navigation

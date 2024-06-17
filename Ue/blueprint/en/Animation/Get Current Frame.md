@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Frame
+title: Get Current Frame
 order: 16
 ---
 ## Navigation

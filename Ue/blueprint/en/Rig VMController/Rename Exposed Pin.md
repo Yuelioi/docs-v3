@@ -1,5 +1,5 @@
 ---
-display_name: Rename Exposed Pin
+title: Rename Exposed Pin
 order: 91
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Draw Displacement Map to Render Target
+title: Draw Displacement Map to Render Target
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 复选框控制
+title: 复选框控制
 order: 3
 ---
 

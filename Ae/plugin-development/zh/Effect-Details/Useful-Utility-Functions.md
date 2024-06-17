@@ -1,5 +1,5 @@
 ---
-display_name: Useful-Utility-Functions
+title: Useful-Utility-Functions
 order: 20
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Folder Color
+title: Set Folder Color
 order: 86
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Mapped Skeletal Mesh Bone Array
+title: Add Mapped Skeletal Mesh Bone Array
 order: 3
 ---
 ## Navigation

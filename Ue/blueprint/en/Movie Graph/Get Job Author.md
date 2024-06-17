@@ -1,5 +1,5 @@
 ---
-display_name: Get Job Author
+title: Get Job Author
 order: 31
 ---
 ## Navigation

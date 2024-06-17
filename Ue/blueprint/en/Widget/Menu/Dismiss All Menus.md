@@ -1,5 +1,5 @@
 ---
-display_name: Dismiss All Menus
+title: Dismiss All Menus
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VPBookmark Spline Mesh Indicator Set Start and End
+title: VPBookmark Spline Mesh Indicator Set Start and End
 order: 2
 ---
 ## Navigation

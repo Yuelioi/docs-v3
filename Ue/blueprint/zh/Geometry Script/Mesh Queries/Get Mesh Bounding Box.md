@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Bounding Box
+title: Get Mesh Bounding Box
 order: 21
 ---
 ## Navigation

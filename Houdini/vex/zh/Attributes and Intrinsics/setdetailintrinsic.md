@@ -1,5 +1,5 @@
 ---
-display_name: setdetailintrinsic
+title: setdetailintrinsic
 order: 66
 ---
 | Since | 18.0 |

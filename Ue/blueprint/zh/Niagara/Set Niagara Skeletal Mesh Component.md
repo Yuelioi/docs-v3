@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Skeletal Mesh Component
+title: Set Niagara Skeletal Mesh Component
 order: 25
 ---
 ## Navigation

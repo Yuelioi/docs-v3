@@ -1,5 +1,5 @@
 ---
-display_name: Rename Node
+title: Rename Node
 order: 94
 ---
 ## Navigation

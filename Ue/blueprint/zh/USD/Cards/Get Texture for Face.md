@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture for Face
+title: Get Texture for Face
 order: 1
 ---
 ## Navigation

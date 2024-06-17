@@ -1,5 +1,5 @@
 ---
-display_name: Move Layer Before
+title: Move Layer Before
 order: 184
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Velocity
+title: Get Angular Velocity
 order: 1
 ---
 ## Navigation

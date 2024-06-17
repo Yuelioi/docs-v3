@@ -1,5 +1,5 @@
 ---
-display_name: Clear Min Value
+title: Clear Min Value
 order: 4
 ---
 ## Navigation

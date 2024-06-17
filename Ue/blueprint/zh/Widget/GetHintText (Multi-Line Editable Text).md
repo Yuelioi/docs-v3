@@ -1,5 +1,5 @@
 ---
-display_name: GetHintText (Multi-Line Editable Text)
+title: GetHintText (Multi-Line Editable Text)
 order: 45
 ---
 ## Navigation

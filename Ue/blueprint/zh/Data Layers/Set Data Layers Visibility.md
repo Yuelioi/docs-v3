@@ -1,5 +1,5 @@
 ---
-display_name: Set Data Layers Visibility
+title: Set Data Layers Visibility
 order: 48
 ---
 ## Navigation

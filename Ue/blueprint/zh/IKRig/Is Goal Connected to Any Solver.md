@@ -1,5 +1,5 @@
 ---
-display_name: Is Goal Connected to Any Solver
+title: Is Goal Connected to Any Solver
 order: 30
 ---
 ## Navigation

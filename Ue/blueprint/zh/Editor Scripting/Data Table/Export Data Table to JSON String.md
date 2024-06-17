@@ -1,5 +1,5 @@
 ---
-display_name: Export Data Table to JSON String
+title: Export Data Table to JSON String
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Visualize Targeting Using Actor
+title: Visualize Targeting Using Actor
 order: 17
 ---
 ## Navigation

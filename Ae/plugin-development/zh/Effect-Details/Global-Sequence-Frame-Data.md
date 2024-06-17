@@ -1,5 +1,5 @@
 ---
-display_name: Global-Sequence-Frame-Data
+title: Global-Sequence-Frame-Data
 order: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Target Node Uid
+title: Remove Target Node Uid
 order: 60
 ---
 ## Navigation

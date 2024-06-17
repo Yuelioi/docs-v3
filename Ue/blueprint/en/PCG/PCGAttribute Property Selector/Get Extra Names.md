@@ -1,5 +1,5 @@
 ---
-display_name: Get Extra Names
+title: Get Extra Names
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Rotation Texture
+title: Get Bone Rotation Texture
 order: 4
 ---
 ## Navigation

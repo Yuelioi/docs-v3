@@ -1,5 +1,5 @@
 ---
-display_name: Global View
+title: Global View
 order: 5
 ---
 ## Navigation

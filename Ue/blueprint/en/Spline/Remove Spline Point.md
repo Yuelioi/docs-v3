@@ -1,5 +1,5 @@
 ---
-display_name: Remove Spline Point
+title: Remove Spline Point
 order: 79
 ---
 ## Navigation

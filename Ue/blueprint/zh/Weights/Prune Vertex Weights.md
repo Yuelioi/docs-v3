@@ -1,5 +1,5 @@
 ---
-display_name: Prune Vertex Weights
+title: Prune Vertex Weights
 order: 6
 ---
 ## Navigation

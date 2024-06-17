@@ -1,5 +1,5 @@
 ---
-display_name: Add World Offset
+title: Add World Offset
 order: 13
 ---
 ## Navigation

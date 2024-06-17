@@ -1,5 +1,5 @@
 ---
-display_name: normalname
+title: normalname
 order: 31
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

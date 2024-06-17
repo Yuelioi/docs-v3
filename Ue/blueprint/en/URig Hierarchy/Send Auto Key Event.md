@@ -1,5 +1,5 @@
 ---
-display_name: Send Auto Key Event
+title: Send Auto Key Event
 order: 120
 ---
 ## Navigation

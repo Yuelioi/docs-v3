@@ -1,5 +1,5 @@
 ---
-display_name: Is Float
+title: Is Float
 order: 10
 ---
 ## Navigation

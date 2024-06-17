@@ -1,5 +1,5 @@
 ---
-display_name: Get Existing Datasmith Scene
+title: Get Existing Datasmith Scene
 order: 4
 ---
 ## Navigation

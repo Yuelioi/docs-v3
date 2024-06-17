@@ -1,5 +1,5 @@
 ---
-display_name: Update Material Instance
+title: Update Material Instance
 order: 57
 ---
 ## Navigation

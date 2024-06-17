@@ -1,5 +1,5 @@
 ---
-display_name: Pause AR Session
+title: Pause AR Session
 order: 8
 ---
 ## Navigation

@@ -1,6 +1,6 @@
 ---
 order: 10
-display_name: 径向阴影
+title: 径向阴影
 ---
 
 # Radial Shadow - 径向阴影

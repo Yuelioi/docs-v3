@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Boolean
+title: Apply Mesh Boolean
 order: 1
 ---
 ## Navigation

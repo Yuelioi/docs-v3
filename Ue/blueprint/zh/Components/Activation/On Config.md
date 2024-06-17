@@ -1,5 +1,5 @@
 ---
-display_name: On Config
+title: On Config
 order: 9
 ---
 ## Navigation

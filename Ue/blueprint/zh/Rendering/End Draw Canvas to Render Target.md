@@ -1,5 +1,5 @@
 ---
-display_name: End Draw Canvas to Render Target
+title: End Draw Canvas to Render Target
 order: 4
 ---
 ## Navigation

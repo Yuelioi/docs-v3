@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Actor
+title: Spawn Actor
 order: 6
 ---
 ## Navigation

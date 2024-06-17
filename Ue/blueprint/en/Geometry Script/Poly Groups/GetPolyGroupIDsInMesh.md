@@ -1,5 +1,5 @@
 ---
-display_name: GetPolyGroupIDsInMesh
+title: GetPolyGroupIDsInMesh
 order: 10
 ---
 ## Navigation

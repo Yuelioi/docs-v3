@@ -1,5 +1,5 @@
 ---
-display_name: Get Physical Material
+title: Get Physical Material
 order: 3
 ---
 ## Navigation

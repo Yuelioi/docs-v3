@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Limits
+title: Set Linear Limits
 order: 48
 ---
 ## Navigation

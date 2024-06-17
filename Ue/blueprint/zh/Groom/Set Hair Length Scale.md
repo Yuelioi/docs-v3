@@ -1,5 +1,5 @@
 ---
-display_name: Set Hair Length Scale
+title: Set Hair Length Scale
 order: 10
 ---
 ## Navigation

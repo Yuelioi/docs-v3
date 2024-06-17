@@ -1,5 +1,5 @@
 ---
-display_name: Set Face Tracking Update
+title: Set Face Tracking Update
 order: 25
 ---
 ## Navigation

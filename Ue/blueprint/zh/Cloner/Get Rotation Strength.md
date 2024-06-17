@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Strength
+title: Get Rotation Strength
 order: 43
 ---
 ## Navigation

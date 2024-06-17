@@ -1,5 +1,5 @@
 ---
-display_name: Get Query Results as Actors
+title: Get Query Results as Actors
 order: 2
 ---
 ## Navigation

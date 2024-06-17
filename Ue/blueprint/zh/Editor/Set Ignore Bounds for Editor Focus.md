@@ -1,5 +1,5 @@
 ---
-display_name: Set Ignore Bounds for Editor Focus
+title: Set Ignore Bounds for Editor Focus
 order: 4
 ---
 ## Navigation

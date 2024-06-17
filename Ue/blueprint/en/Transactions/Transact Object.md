@@ -1,5 +1,5 @@
 ---
-display_name: Transact Object
+title: Transact Object
 order: 6
 ---
 ## Navigation

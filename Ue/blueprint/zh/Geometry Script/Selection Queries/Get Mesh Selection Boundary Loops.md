@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Selection Boundary Loops
+title: Get Mesh Selection Boundary Loops
 order: 1
 ---
 ## Navigation

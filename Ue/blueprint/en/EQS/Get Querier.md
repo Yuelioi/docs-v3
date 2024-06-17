@@ -1,5 +1,5 @@
 ---
-display_name: Get Querier
+title: Get Querier
 order: 3
 ---
 ## Navigation

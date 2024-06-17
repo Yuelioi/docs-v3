@@ -1,5 +1,5 @@
 ---
-display_name: Stop AR Session
+title: Stop AR Session
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Event Destroyed
+title: Event Destroyed
 order: 4
 ---
 ## Navigation

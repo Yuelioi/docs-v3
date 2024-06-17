@@ -1,5 +1,5 @@
 ---
-display_name: Get Density at Position
+title: Get Density at Position
 order: 1
 ---
 ## Navigation

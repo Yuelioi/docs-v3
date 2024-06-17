@@ -1,5 +1,5 @@
 ---
-display_name: Set Fixture Type
+title: Set Fixture Type
 order: 27
 ---
 ## Navigation

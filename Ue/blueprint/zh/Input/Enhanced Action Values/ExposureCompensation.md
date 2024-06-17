@@ -1,5 +1,5 @@
 ---
-display_name: ExposureCompensation
+title: ExposureCompensation
 order: 18
 ---
 ## Navigation

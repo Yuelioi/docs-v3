@@ -1,5 +1,5 @@
 ---
-display_name: File Open
+title: File Open
 order: 7
 ---
 ## Navigation

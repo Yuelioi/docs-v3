@@ -1,5 +1,5 @@
 ---
-display_name: Get Formatted Text
+title: Get Formatted Text
 order: 1
 ---
 ## Navigation

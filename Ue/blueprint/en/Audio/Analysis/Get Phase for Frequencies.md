@@ -1,5 +1,5 @@
 ---
-display_name: Get Phase for Frequencies
+title: Get Phase for Frequencies
 order: 2
 ---
 ## Navigation

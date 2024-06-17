@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Reverb Effect
+title: Deactivate Reverb Effect
 order: 4
 ---
 ## Navigation

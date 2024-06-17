@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Anim Curves
+title: Set Disable Anim Curves
 order: 25
 ---
 ## Navigation

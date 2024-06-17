@@ -1,5 +1,5 @@
 ---
-display_name: Select All
+title: Select All
 order: 55
 ---
 ## Navigation

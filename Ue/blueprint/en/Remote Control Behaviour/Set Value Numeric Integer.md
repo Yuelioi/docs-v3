@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Numeric Integer
+title: Set Value Numeric Integer
 order: 32
 ---
 ## Navigation

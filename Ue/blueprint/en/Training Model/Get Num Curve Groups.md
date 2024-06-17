@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Curve Groups
+title: Get Num Curve Groups
 order: 5
 ---
 ## Navigation

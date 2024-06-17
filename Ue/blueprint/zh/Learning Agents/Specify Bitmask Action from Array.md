@@ -1,5 +1,5 @@
 ---
-display_name: Specify Bitmask Action from Array
+title: Specify Bitmask Action from Array
 order: 277
 ---
 ## Navigation

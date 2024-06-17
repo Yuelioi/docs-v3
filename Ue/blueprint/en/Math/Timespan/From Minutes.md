@@ -1,5 +1,5 @@
 ---
-display_name: From Minutes
+title: From Minutes
 order: 6
 ---
 ## Navigation

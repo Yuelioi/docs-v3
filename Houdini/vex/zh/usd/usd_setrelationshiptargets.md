@@ -1,5 +1,5 @@
 ---
-display_name: usd_setrelationshiptargets
+title: usd_setrelationshiptargets
 order: 138
 ---
 | Since | 18.0 |

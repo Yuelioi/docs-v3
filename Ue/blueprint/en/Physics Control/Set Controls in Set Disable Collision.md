@@ -1,5 +1,5 @@
 ---
-display_name: Set Controls in Set Disable Collision
+title: Set Controls in Set Disable Collision
 order: 120
 ---
 ## Navigation

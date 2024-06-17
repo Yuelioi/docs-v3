@@ -1,5 +1,5 @@
 ---
-display_name: Show Ad Banner
+title: Show Ad Banner
 order: 25
 ---
 ## Navigation

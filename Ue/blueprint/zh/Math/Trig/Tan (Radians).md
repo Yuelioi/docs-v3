@@ -1,5 +1,5 @@
 ---
-display_name: Tan (Radians)
+title: Tan (Radians)
 order: 18
 ---
 ## Navigation

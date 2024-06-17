@@ -1,5 +1,5 @@
 ---
-display_name: Get Internal Path
+title: Get Internal Path
 order: 9
 ---
 ## Navigation

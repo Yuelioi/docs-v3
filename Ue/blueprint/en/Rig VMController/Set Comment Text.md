@@ -1,5 +1,5 @@
 ---
-display_name: Set Comment Text
+title: Set Comment Text
 order: 102
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actors from Target Data
+title: Get Actors from Target Data
 order: 8
 ---
 ## Navigation

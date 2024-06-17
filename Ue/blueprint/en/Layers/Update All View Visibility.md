@@ -1,5 +1,5 @@
 ---
-display_name: Update All View Visibility
+title: Update All View Visibility
 order: 46
 ---
 ## Navigation

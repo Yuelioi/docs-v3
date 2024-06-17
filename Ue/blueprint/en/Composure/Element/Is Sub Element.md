@@ -1,5 +1,5 @@
 ---
-display_name: Is Sub Element
+title: Is Sub Element
 order: 5
 ---
 ## Navigation

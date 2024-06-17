@@ -1,5 +1,5 @@
 ---
-display_name: Set Timespan Value
+title: Set Timespan Value
 order: 4
 ---
 ## Navigation

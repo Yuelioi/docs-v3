@@ -1,5 +1,5 @@
 ---
-display_name: Enable Section Cast Shadow
+title: Enable Section Cast Shadow
 order: 6
 ---
 ## Navigation

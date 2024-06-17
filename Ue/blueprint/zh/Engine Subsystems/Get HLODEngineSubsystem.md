@@ -1,5 +1,5 @@
 ---
-display_name: Get HLODEngineSubsystem
+title: Get HLODEngineSubsystem
 order: 22
 ---
 ## Navigation

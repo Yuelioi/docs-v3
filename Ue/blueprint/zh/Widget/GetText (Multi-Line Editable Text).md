@@ -1,5 +1,5 @@
 ---
-display_name: GetText (Multi-Line Editable Text)
+title: GetText (Multi-Line Editable Text)
 order: 48
 ---
 ## Navigation

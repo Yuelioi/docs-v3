@@ -1,5 +1,5 @@
 ---
-display_name: Add Widget for Player
+title: Add Widget for Player
 order: 1
 ---
 ## Navigation

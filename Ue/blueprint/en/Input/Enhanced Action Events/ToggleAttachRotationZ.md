@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAttachRotationZ
+title: ToggleAttachRotationZ
 order: 103
 ---
 ## Navigation

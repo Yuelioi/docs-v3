@@ -1,5 +1,5 @@
 ---
-display_name: agentcollisionlayer
+title: agentcollisionlayer
 order: 20
 ---
 Warning

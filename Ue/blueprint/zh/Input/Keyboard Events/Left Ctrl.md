@@ -1,5 +1,5 @@
 ---
-display_name: Left Ctrl
+title: Left Ctrl
 order: 59
 ---
 ## Navigation

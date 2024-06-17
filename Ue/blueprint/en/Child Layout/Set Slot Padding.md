@@ -1,5 +1,5 @@
 ---
-display_name: Set Slot Padding
+title: Set Slot Padding
 order: 3
 ---
 ## Navigation

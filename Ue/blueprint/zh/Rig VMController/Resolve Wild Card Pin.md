@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Wild Card Pin
+title: Resolve Wild Card Pin
 order: 97
 ---
 ## Navigation

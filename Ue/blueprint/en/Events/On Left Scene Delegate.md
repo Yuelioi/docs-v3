@@ -1,5 +1,5 @@
 ---
-display_name: On Left Scene Delegate
+title: On Left Scene Delegate
 order: 18
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Component Renderer Properties
+title: Create Component Renderer Properties
 order: 8
 ---
 ## Navigation

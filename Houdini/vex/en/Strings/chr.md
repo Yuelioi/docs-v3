@@ -1,5 +1,5 @@
 ---
-display_name: chr
+title: chr
 order: 2
 ---
 `string  chr(int value)`

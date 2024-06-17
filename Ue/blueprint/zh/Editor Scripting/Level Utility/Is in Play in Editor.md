@@ -1,5 +1,5 @@
 ---
-display_name: Is in Play in Editor
+title: Is in Play in Editor
 order: 29
 ---
 ## Navigation

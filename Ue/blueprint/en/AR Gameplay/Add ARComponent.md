@@ -1,5 +1,5 @@
 ---
-display_name: Add ARComponent
+title: Add ARComponent
 order: 1
 ---
 ## Navigation

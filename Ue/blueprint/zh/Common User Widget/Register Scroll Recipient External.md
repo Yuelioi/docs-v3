@@ -1,5 +1,5 @@
 ---
-display_name: Register Scroll Recipient External
+title: Register Scroll Recipient External
 order: 1
 ---
 ## Navigation

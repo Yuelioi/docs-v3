@@ -1,6 +1,6 @@
 ---
 order: 4
-display_name: 音频通道映射对象 AudioChannelMapping
+title: 音频通道映射对象 AudioChannelMapping
 ---
 
 ---

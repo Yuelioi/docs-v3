@@ -1,5 +1,5 @@
 ---
-display_name: Can Duplicate
+title: Can Duplicate
 order: 3
 ---
 ## Navigation

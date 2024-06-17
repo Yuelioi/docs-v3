@@ -1,5 +1,5 @@
 ---
-display_name: Set Scrollbar Thickness
+title: Set Scrollbar Thickness
 order: 11
 ---
 ## Navigation

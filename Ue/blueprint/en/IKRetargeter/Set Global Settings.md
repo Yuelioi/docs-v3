@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Settings
+title: Set Global Settings
 order: 21
 ---
 ## Navigation

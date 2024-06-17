@@ -1,5 +1,5 @@
 ---
-display_name: Add Boolean Attribute
+title: Add Boolean Attribute
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Enum Input
+title: Set Enum Input
 order: 23
 ---
 ## Navigation

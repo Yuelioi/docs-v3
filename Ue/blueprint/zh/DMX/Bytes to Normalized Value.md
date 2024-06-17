@@ -1,5 +1,5 @@
 ---
-display_name: Bytes to Normalized Value
+title: Bytes to Normalized Value
 order: 3
 ---
 ## Navigation

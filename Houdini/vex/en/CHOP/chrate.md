@@ -1,5 +1,5 @@
 ---
-display_name: chrate
+title: chrate
 order: 16
 ---
 | Context(s) | [chop](../contexts/chop.html) |

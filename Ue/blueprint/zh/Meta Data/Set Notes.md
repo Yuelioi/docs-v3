@@ -1,5 +1,5 @@
 ---
-display_name: Set Notes
+title: Set Notes
 order: 6
 ---
 ## Navigation

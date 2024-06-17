@@ -1,5 +1,5 @@
 ---
-display_name: Convert String to OSCAddress
+title: Convert String to OSCAddress
 order: 20
 ---
 ## Navigation

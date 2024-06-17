@@ -1,5 +1,5 @@
 ---
-display_name: Delta (Rotator)
+title: Delta (Rotator)
 order: 5
 ---
 ## Navigation

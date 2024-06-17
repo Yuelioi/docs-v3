@@ -1,5 +1,5 @@
 ---
-display_name: Delete Marked Frames
+title: Delete Marked Frames
 order: 12
 ---
 ## Navigation

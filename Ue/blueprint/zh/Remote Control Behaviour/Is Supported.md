@@ -1,5 +1,5 @@
 ---
-display_name: Is Supported
+title: Is Supported
 order: 20
 ---
 ## Navigation

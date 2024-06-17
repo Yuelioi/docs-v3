@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Damping
+title: Get Angular Damping
 order: 64
 ---
 ## Navigation

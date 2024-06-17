@@ -1,5 +1,5 @@
 ---
-display_name: ToggleFocusPeaking
+title: ToggleFocusPeaking
 order: 111
 ---
 ## Navigation

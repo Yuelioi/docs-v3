@@ -1,5 +1,5 @@
 ---
-display_name: primpoints
+title: primpoints
 order: 27
 ---
 `int [] primpoints(<geometry>geometry, int primnum)`

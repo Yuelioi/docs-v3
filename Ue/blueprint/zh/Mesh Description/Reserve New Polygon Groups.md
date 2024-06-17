@@ -1,5 +1,5 @@
 ---
-display_name: Reserve New Polygon Groups
+title: Reserve New Polygon Groups
 order: 85
 ---
 ## Navigation

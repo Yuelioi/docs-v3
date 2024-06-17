@@ -1,5 +1,5 @@
 ---
-display_name: Update Spot Light Intensity
+title: Update Spot Light Intensity
 order: 10
 ---
 ## Navigation

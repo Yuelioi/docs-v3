@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Data Providers
+title: Destroy Data Providers
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Metadata
+title: Get Vector Metadata
 order: 91
 ---
 ## Navigation

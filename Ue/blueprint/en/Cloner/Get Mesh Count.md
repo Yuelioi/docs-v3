@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Count
+title: Get Mesh Count
 order: 24
 ---
 ## Navigation

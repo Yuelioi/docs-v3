@@ -1,5 +1,5 @@
 ---
-display_name: Is Interstitial Ad Requested
+title: Is Interstitial Ad Requested
 order: 15
 ---
 ## Navigation

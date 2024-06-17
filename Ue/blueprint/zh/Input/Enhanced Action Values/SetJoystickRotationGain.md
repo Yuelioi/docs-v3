@@ -1,5 +1,5 @@
 ---
-display_name: SetJoystickRotationGain
+title: SetJoystickRotationGain
 order: 75
 ---
 ## Navigation

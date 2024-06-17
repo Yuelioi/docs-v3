@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Path Index
+title: Get Current Path Index
 order: 10
 ---
 ## Navigation

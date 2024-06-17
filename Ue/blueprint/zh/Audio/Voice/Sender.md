@@ -1,5 +1,5 @@
 ---
-display_name: Sender
+title: Sender
 order: 3
 ---
 ## Navigation

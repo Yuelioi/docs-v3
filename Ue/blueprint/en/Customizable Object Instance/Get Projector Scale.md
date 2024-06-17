@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Scale
+title: Get Projector Scale
 order: 34
 ---
 ## Navigation

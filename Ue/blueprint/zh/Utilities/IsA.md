@@ -1,5 +1,5 @@
 ---
-display_name: IsA
+title: IsA
 order: 26
 ---
 ## Navigation

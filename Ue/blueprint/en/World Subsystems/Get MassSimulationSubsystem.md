@@ -1,5 +1,5 @@
 ---
-display_name: Get MassSimulationSubsystem
+title: Get MassSimulationSubsystem
 order: 52
 ---
 ## Navigation

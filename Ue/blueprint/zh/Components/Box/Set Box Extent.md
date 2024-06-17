@@ -1,5 +1,5 @@
 ---
-display_name: Set Box Extent
+title: Set Box Extent
 order: 3
 ---
 ## Navigation

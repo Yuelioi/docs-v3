@@ -1,5 +1,5 @@
 ---
-display_name: Get Instance Count
+title: Get Instance Count
 order: 3
 ---
 ## Navigation

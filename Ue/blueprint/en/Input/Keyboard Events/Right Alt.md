@@ -1,5 +1,5 @@
 ---
-display_name: Right Alt
+title: Right Alt
 order: 89
 ---
 ## Navigation

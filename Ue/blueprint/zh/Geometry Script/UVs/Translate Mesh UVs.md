@@ -1,5 +1,5 @@
 ---
-display_name: Translate Mesh UVs
+title: Translate Mesh UVs
 order: 22
 ---
 ## Navigation

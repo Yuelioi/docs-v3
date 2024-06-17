@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Section Index
+title: Get Current Section Index
 order: 12
 ---
 ## Navigation

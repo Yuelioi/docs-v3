@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Size Box Slot
+title: Slot as Size Box Slot
 order: 9
 ---
 ## Navigation

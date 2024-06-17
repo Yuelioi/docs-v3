@@ -1,5 +1,5 @@
 ---
-display_name: Get Resolution Scale Normalized
+title: Get Resolution Scale Normalized
 order: 59
 ---
 ## Navigation

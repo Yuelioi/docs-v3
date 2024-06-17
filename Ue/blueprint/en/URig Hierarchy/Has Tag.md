@@ -1,5 +1,5 @@
 ---
-display_name: Has Tag
+title: Has Tag
 order: 93
 ---
 ## Navigation

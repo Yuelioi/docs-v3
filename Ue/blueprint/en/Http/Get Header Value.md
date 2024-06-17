@@ -1,5 +1,5 @@
 ---
-display_name: Get Header Value
+title: Get Header Value
 order: 3
 ---
 ## Navigation

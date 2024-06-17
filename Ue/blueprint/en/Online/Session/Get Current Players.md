@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Players
+title: Get Current Players
 order: 4
 ---
 ## Navigation

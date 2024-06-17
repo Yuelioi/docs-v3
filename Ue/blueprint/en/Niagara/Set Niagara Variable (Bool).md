@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Bool)
+title: Set Niagara Variable (Bool)
 order: 31
 ---
 ## Navigation

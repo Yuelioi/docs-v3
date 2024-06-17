@@ -1,5 +1,5 @@
 ---
-display_name: metamarch
+title: metamarch
 order: 2
 ---
 `int  metamarch(int &index, string filename, vector &p0, vector &p1, float displace_bound)`

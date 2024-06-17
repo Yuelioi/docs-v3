@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Total Duration
+title: Get Active Gameplay Effect Total Duration
 order: 13
 ---
 ## Navigation

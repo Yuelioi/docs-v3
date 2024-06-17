@@ -1,5 +1,5 @@
 ---
-display_name: Touchpad Button X Axis
+title: Touchpad Button X Axis
 order: 1
 ---
 ## Navigation

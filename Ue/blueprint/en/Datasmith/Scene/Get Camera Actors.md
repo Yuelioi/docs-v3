@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Actors
+title: Get Camera Actors
 order: 23
 ---
 ## Navigation

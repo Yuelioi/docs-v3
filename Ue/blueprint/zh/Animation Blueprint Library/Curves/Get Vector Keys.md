@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Keys
+title: Get Vector Keys
 order: 12
 ---
 ## Navigation

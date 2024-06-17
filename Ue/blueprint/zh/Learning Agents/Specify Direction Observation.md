@@ -1,5 +1,5 @@
 ---
-display_name: Specify Direction Observation
+title: Specify Direction Observation
 order: 287
 ---
 ## Navigation

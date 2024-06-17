@@ -1,5 +1,5 @@
 ---
-display_name: Set Volume Multiplier
+title: Set Volume Multiplier
 order: 17
 ---
 ## Navigation

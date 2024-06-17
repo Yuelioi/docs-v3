@@ -1,5 +1,5 @@
 ---
-display_name: AEGP-Details
+title: AEGP-Details
 order: 1
 ---
 

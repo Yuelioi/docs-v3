@@ -1,5 +1,5 @@
 ---
-display_name: Take Recorder Stopped
+title: Take Recorder Stopped
 order: 32
 ---
 ## Navigation

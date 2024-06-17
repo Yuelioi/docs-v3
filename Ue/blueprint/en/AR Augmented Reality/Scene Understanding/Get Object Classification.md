@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Classification
+title: Get Object Classification
 order: 1
 ---
 ## Navigation

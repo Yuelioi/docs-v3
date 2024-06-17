@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXSubsystem
+title: Get DMXSubsystem
 order: 15
 ---
 ## Navigation

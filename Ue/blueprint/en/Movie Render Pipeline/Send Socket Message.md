@@ -1,5 +1,5 @@
 ---
-display_name: Send Socket Message
+title: Send Socket Message
 order: 13
 ---
 ## Navigation

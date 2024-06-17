@@ -1,5 +1,5 @@
 ---
-display_name: ApplyGameplayEffectSpecToOwner
+title: ApplyGameplayEffectSpecToOwner
 order: 4
 ---
 ## Navigation

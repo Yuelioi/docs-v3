@@ -1,5 +1,5 @@
 ---
-display_name: metanext
+title: metanext
 order: 3
 ---
 `int  metanext(int handle)`

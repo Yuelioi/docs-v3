@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameter Type
+title: Get Parameter Type
 order: 14
 ---
 ## Navigation

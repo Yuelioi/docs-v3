@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Length
+title: Set Source Length
 order: 32
 ---
 ## Navigation

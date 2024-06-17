@@ -1,5 +1,5 @@
 ---
-display_name: Set Instanced Struct Value
+title: Set Instanced Struct Value
 order: 6
 ---
 ## Navigation

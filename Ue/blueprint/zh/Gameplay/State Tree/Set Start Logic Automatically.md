@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Logic Automatically
+title: Set Start Logic Automatically
 order: 4
 ---
 ## Navigation

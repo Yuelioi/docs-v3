@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Rigid Body with Control
+title: Convert to Rigid Body with Control
 order: 8
 ---
 ## Navigation

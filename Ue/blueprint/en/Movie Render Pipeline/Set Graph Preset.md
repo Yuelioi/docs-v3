@@ -1,5 +1,5 @@
 ---
-display_name: Set Graph Preset
+title: Set Graph Preset
 order: 17
 ---
 ## Navigation

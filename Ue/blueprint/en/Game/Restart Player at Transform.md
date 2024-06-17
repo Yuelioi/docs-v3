@@ -1,5 +1,5 @@
 ---
-display_name: Restart Player at Transform
+title: Restart Player at Transform
 order: 44
 ---
 ## Navigation

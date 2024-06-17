@@ -1,5 +1,5 @@
 ---
-display_name: agentclipchannel
+title: agentclipchannel
 order: 7
 ---
 `int  agentclipchannel(<geometry>geometry, int prim, string clipname, string channel)`

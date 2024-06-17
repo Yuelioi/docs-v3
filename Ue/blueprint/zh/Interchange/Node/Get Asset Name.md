@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Name
+title: Get Asset Name
 order: 22
 ---
 ## Navigation

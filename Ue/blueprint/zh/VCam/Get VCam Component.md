@@ -1,5 +1,5 @@
 ---
-display_name: Get VCam Component
+title: Get VCam Component
 order: 1
 ---
 ## Navigation

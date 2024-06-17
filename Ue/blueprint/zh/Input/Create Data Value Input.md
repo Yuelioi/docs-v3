@@ -1,5 +1,5 @@
 ---
-display_name: Create Data Value Input
+title: Create Data Value Input
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: makebasis
+title: makebasis
 order: 41
 ---
 `void  makebasis(vector &xaxis, vector &yaxis, vector zaxis)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Propagate Notifies to Linked Instances
+title: Set Propagate Notifies to Linked Instances
 order: 3
 ---
 ## Navigation

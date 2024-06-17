@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound Mix Class Override
+title: Set Sound Mix Class Override
 order: 14
 ---
 ## Navigation

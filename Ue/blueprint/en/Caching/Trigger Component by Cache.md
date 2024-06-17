@@ -1,5 +1,5 @@
 ---
-display_name: Trigger Component by Cache
+title: Trigger Component by Cache
 order: 16
 ---
 ## Navigation

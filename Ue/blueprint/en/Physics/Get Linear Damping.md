@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Damping
+title: Get Linear Damping
 order: 74
 ---
 ## Navigation

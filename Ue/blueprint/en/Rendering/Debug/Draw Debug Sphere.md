@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Sphere
+title: Draw Debug Sphere
 order: 16
 ---
 ## Navigation

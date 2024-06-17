@@ -1,5 +1,5 @@
 ---
-display_name: Get Euler Transform from Control Value
+title: Get Euler Transform from Control Value
 order: 28
 ---
 ## Navigation

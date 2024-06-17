@@ -1,5 +1,5 @@
 ---
-display_name: Remove Tag from Instance
+title: Remove Tag from Instance
 order: 44
 ---
 ## Navigation

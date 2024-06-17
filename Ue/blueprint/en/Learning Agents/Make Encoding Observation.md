@@ -1,5 +1,5 @@
 ---
-display_name: Make Encoding Observation
+title: Make Encoding Observation
 order: 183
 ---
 ## Navigation

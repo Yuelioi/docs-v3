@@ -1,5 +1,5 @@
 ---
-display_name: Activate Widget
+title: Activate Widget
 order: 1
 ---
 ## Navigation

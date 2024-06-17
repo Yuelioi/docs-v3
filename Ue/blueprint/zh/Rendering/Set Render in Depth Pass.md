@@ -1,5 +1,5 @@
 ---
-display_name: Set Render in Depth Pass
+title: Set Render in Depth Pass
 order: 76
 ---
 ## Navigation

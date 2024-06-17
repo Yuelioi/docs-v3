@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Output Providers
+title: Get Number Of Output Providers
 order: 33
 ---
 ## Navigation

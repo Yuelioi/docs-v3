@@ -1,5 +1,5 @@
 ---
-display_name: UI 组件
+title: UI 组件
 order: 6
 ---
 

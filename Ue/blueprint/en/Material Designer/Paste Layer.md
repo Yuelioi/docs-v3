@@ -1,5 +1,5 @@
 ---
-display_name: Paste Layer
+title: Paste Layer
 order: 187
 ---
 ## Navigation

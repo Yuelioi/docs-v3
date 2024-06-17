@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Vertex Instances
+title: Get Polygon Vertex Instances
 order: 47
 ---
 ## Navigation

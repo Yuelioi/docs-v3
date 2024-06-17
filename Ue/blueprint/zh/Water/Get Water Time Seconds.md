@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Time Seconds
+title: Get Water Time Seconds
 order: 18
 ---
 ## Navigation

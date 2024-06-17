@@ -1,5 +1,5 @@
 ---
-display_name: Watch Enum Property
+title: Watch Enum Property
 order: 8
 ---
 ## Navigation

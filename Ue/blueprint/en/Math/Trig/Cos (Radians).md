@@ -1,5 +1,5 @@
 ---
-display_name: Cos (Radians)
+title: Cos (Radians)
 order: 10
 ---
 ## Navigation

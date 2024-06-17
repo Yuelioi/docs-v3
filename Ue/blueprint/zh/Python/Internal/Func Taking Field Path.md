@@ -1,5 +1,5 @@
 ---
-display_name: Func Taking Field Path
+title: Func Taking Field Path
 order: 35
 ---
 ## Navigation

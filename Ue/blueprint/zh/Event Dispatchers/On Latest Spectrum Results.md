@@ -1,5 +1,5 @@
 ---
-display_name: On Latest Spectrum Results
+title: On Latest Spectrum Results
 order: 106
 ---
 ## Navigation

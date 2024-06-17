@@ -1,5 +1,5 @@
 ---
-display_name: Get World Asset (Message)
+title: Get World Asset (Message)
 order: 12
 ---
 ## Navigation

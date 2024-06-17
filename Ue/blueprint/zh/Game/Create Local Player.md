@@ -1,5 +1,5 @@
 ---
-display_name: Create Local Player
+title: Create Local Player
 order: 10
 ---
 ## Navigation

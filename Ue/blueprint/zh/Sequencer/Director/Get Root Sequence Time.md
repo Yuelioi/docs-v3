@@ -1,5 +1,5 @@
 ---
-display_name: Get Root Sequence Time
+title: Get Root Sequence Time
 order: 6
 ---
 ## Navigation

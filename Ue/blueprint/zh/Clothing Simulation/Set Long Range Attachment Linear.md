@@ -1,5 +1,5 @@
 ---
-display_name: Set Long Range Attachment Linear
+title: Set Long Range Attachment Linear
 order: 23
 ---
 ## Navigation

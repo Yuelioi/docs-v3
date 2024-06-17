@@ -1,5 +1,5 @@
 ---
-display_name: UILayout
+title: UILayout
 order: 12
 ---
 

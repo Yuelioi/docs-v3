@@ -1,5 +1,5 @@
 ---
-display_name: 形状
+title: 形状
 order: 1
 ---
 

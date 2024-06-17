@@ -1,5 +1,5 @@
 ---
-display_name: Get Mouse Position Scaled by DPI
+title: Get Mouse Position Scaled by DPI
 order: 1
 ---
 ## Navigation

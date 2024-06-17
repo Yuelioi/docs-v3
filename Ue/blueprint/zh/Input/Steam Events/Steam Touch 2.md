@@ -1,5 +1,5 @@
 ---
-display_name: Steam Touch 2
+title: Steam Touch 2
 order: 5
 ---
 ## Navigation

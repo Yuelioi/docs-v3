@@ -1,5 +1,5 @@
 ---
-display_name: Add Hit Box
+title: Add Hit Box
 order: 1
 ---
 ## Navigation

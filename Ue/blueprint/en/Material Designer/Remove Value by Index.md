@@ -1,5 +1,5 @@
 ---
-display_name: Remove Value by Index
+title: Remove Value by Index
 order: 195
 ---
 ## Navigation

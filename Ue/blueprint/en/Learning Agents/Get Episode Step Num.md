@@ -1,5 +1,5 @@
 ---
-display_name: Get Episode Step Num
+title: Get Episode Step Num
 order: 63
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enter VRMode
+title: Enter VRMode
 order: 6
 ---
 ## Navigation

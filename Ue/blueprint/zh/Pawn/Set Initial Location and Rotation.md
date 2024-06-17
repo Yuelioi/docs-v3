@@ -1,5 +1,5 @@
 ---
-display_name: Set Initial Location and Rotation
+title: Set Initial Location and Rotation
 order: 28
 ---
 ## Navigation

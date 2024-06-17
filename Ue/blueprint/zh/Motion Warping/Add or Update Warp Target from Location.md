@@ -1,5 +1,5 @@
 ---
-display_name: Add or Update Warp Target from Location
+title: Add or Update Warp Target from Location
 order: 5
 ---
 ## Navigation

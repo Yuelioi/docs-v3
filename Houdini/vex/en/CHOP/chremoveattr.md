@@ -1,5 +1,5 @@
 ---
-display_name: chremoveattr
+title: chremoveattr
 order: 19
 ---
 | Context(s) | [chop](../contexts/chop.html) |

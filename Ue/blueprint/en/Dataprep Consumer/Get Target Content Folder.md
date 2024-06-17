@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Content Folder
+title: Get Target Content Folder
 order: 2
 ---
 ## Navigation

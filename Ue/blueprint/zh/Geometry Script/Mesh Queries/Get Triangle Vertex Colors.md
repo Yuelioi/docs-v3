@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Vertex Colors
+title: Get Triangle Vertex Colors
 order: 38
 ---
 ## Navigation

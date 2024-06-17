@@ -1,5 +1,5 @@
 ---
-display_name: getlightid
+title: getlightid
 order: 17
 ---
 | Context(s) | [displace](../contexts/displace.html)  [fog](../contexts/fog.html)  [surface](../contexts/surface.html) |

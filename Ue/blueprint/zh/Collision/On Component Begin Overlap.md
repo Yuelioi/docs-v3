@@ -1,5 +1,5 @@
 ---
-display_name: On Component Begin Overlap
+title: On Component Begin Overlap
 order: 62
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: chattr
+title: chattr
 order: 2
 ---
 | Context(s) | [chop](../contexts/chop.html) |

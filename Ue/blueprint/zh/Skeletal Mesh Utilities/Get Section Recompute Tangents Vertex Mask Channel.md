@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Recompute Tangents Vertex Mask Channel
+title: Get Section Recompute Tangents Vertex Mask Channel
 order: 6
 ---
 ## Navigation

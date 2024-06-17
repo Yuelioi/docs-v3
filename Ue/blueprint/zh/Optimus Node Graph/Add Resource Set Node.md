@@ -1,5 +1,5 @@
 ---
-display_name: Add Resource Set Node
+title: Add Resource Set Node
 order: 9
 ---
 ## Navigation

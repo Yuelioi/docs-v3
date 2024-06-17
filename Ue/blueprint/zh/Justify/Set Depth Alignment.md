@@ -1,5 +1,5 @@
 ---
-display_name: Set Depth Alignment
+title: Set Depth Alignment
 order: 7
 ---
 ## Navigation

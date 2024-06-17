@@ -1,5 +1,5 @@
 ---
-display_name: Get Subsumed By
+title: Get Subsumed By
 order: 5
 ---
 ## Navigation

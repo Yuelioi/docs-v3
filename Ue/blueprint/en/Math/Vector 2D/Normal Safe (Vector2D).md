@@ -1,5 +1,5 @@
 ---
-display_name: Normal Safe (Vector2D)
+title: Normal Safe (Vector2D)
 order: 17
 ---
 ## Navigation

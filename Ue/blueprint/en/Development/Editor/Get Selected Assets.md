@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Assets
+title: Get Selected Assets
 order: 13
 ---
 ## Navigation

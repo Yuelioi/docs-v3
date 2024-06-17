@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Selection Vertex Color
+title: Set Mesh Selection Vertex Color
 order: 7
 ---
 ## Navigation

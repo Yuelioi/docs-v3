@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Runtime Virtual Texture Parameter Value
+title: Set Material Instance Runtime Virtual Texture Parameter Value
 order: 49
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Attribute (Message)
+title: Remove Attribute (Message)
 order: 9
 ---
 ## Navigation

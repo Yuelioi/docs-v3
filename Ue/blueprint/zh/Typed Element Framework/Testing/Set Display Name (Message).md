@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Name (Message)
+title: Set Display Name (Message)
 order: 7
 ---
 ## Navigation

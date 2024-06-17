@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Data from Data Asset
+title: Get Frame Data from Data Asset
 order: 4
 ---
 ## Navigation

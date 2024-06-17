@@ -1,5 +1,5 @@
 ---
-display_name: hasvertexattrib
+title: hasvertexattrib
 order: 28
 ---
 `int  hasvertexattrib(<geometry>geometry, string attribute_name)`

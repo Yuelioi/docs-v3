@@ -1,5 +1,5 @@
 ---
-display_name: Get Path Name for Loaded Asset
+title: Get Path Name for Loaded Asset
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Sync Markers
+title: Get Animation Sync Markers
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Matrix 3d Array
+title: Unstringify as Matrix 3d Array
 order: 105
 ---
 ## Navigation

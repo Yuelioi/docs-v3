@@ -1,5 +1,5 @@
 ---
-display_name: Set Meter Channel Info
+title: Set Meter Channel Info
 order: 24
 ---
 ## Navigation

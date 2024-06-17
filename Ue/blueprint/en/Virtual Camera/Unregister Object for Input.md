@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Object for Input
+title: Unregister Object for Input
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawn Loop Iterations
+title: Get Spawn Loop Iterations
 order: 48
 ---
 ## Navigation

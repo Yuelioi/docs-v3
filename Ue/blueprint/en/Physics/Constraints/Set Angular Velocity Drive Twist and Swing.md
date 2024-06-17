@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Velocity Drive Twist and Swing
+title: Set Angular Velocity Drive Twist and Swing
 order: 42
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Queue Play Animation Forward
+title: Queue Play Animation Forward
 order: 15
 ---
 ## Navigation

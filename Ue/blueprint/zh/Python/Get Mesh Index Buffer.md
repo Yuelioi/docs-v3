@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Index Buffer
+title: Get Mesh Index Buffer
 order: 6
 ---
 ## Navigation

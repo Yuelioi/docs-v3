@@ -1,5 +1,5 @@
 ---
-display_name: Convert Draw Mode Component
+title: Convert Draw Mode Component
 order: 3
 ---
 ## Navigation

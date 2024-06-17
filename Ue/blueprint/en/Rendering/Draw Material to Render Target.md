@@ -1,5 +1,5 @@
 ---
-display_name: Draw Material to Render Target
+title: Draw Material to Render Target
 order: 2
 ---
 ## Navigation

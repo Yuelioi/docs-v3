@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Cascade Bias Distribution
+title: Set Shadow Cascade Bias Distribution
 order: 27
 ---
 ## Navigation

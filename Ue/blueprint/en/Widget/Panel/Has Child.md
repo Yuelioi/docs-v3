@@ -1,5 +1,5 @@
 ---
-display_name: Has Child
+title: Has Child
 order: 10
 ---
 ## Navigation

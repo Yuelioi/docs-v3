@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon List Area
+title: Get Polygon List Area
 order: 11
 ---
 ## Navigation

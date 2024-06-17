@@ -1,5 +1,5 @@
 ---
-display_name: On Input Method Changed
+title: On Input Method Changed
 order: 6
 ---
 ## Navigation

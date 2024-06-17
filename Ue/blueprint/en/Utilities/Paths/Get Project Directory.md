@@ -1,5 +1,5 @@
 ---
-display_name: Get Project Directory
+title: Get Project Directory
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Func Taking Py Test Struct
+title: Func Taking Py Test Struct
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Struct to Json
+title: Struct to Json
 order: 29
 ---
 ## Navigation

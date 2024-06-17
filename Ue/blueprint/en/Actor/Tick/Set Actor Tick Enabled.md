@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Tick Enabled
+title: Set Actor Tick Enabled
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Speak Focused Widget
+title: Request Speak Focused Widget
 order: 13
 ---
 ## Navigation

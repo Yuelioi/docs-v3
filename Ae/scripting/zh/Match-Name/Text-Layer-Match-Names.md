@@ -1,5 +1,5 @@
 ---
-display_name: Text-Layer-Match-Names
+title: Text-Layer-Match-Names
 order: 6
 ---
 

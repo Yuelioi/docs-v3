@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Quath Array
+title: Stringify as Quath Array
 order: 50
 ---
 ## Navigation

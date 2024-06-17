@@ -1,5 +1,5 @@
 ---
-display_name: On Scroll Bar Visibility Changed
+title: On Scroll Bar Visibility Changed
 order: 5
 ---
 ## Navigation

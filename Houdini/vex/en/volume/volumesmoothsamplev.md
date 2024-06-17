@@ -1,5 +1,5 @@
 ---
-display_name: volumesmoothsamplev
+title: volumesmoothsamplev
 order: 21
 ---
 `vector  volumesmoothsamplev(<geometry>geometry, int primnum, vector pos)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Absolute Time
+title: Get Absolute Time
 order: 7
 ---
 ## Navigation

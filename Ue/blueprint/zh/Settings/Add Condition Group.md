@@ -1,5 +1,5 @@
 ---
-display_name: Add Condition Group
+title: Add Condition Group
 order: 4
 ---
 ## Navigation

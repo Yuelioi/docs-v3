@@ -1,5 +1,5 @@
 ---
-display_name: OverlayMaterial
+title: OverlayMaterial
 order: 47
 ---
 ## Navigation

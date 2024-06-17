@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Mesh Triangles
+title: Set Custom Mesh Triangles
 order: 3
 ---
 ## Navigation

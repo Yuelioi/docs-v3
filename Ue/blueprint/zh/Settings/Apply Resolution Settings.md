@@ -1,5 +1,5 @@
 ---
-display_name: Apply Resolution Settings
+title: Apply Resolution Settings
 order: 13
 ---
 ## Navigation

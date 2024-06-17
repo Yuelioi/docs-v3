@@ -1,5 +1,5 @@
 ---
-display_name: Get Gain from Midi Velocity
+title: Get Gain from Midi Velocity
 order: 7
 ---
 ## Navigation

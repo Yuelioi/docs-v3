@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor to Exclude from Hit Tests
+title: Add Actor to Exclude from Hit Tests
 order: 1
 ---
 ## Navigation

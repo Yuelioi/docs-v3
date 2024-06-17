@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Component
+title: Get Child Component
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set View Range Start
+title: Set View Range Start
 order: 105
 ---
 ## Navigation

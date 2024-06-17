@@ -1,5 +1,5 @@
 ---
-display_name: Release Mouse Capture
+title: Release Mouse Capture
 order: 5
 ---
 ## Navigation

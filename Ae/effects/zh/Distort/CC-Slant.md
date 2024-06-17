@@ -1,5 +1,5 @@
 ---
-display_name: CC倾斜
+title: CC倾斜
 order: 12
 ---
 

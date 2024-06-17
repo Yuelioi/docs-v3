@@ -1,5 +1,5 @@
 ---
-display_name: Bind Event to on OSCAddress Pattern Matches Path
+title: Bind Event to on OSCAddress Pattern Matches Path
 order: 11
 ---
 ## Navigation

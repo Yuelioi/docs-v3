@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Size
+title: Get Local Size
 order: 4
 ---
 ## Navigation

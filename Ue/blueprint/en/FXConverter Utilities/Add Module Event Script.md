@@ -1,5 +1,5 @@
 ---
-display_name: Add Module Event Script
+title: Add Module Event Script
 order: 3
 ---
 ## Navigation

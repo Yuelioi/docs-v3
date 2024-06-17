@@ -1,5 +1,5 @@
 ---
-display_name: Set Smart Link Enabled
+title: Set Smart Link Enabled
 order: 43
 ---
 ## Navigation

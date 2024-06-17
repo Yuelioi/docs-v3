@@ -1,5 +1,5 @@
 ---
-display_name: Get Raw Trace End
+title: Get Raw Trace End
 order: 13
 ---
 ## Navigation

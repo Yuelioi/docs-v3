@@ -1,5 +1,5 @@
 ---
-display_name: Get WaterSubsystem
+title: Get WaterSubsystem
 order: 76
 ---
 ## Navigation

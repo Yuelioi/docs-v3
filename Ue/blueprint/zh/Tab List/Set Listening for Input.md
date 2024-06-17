@@ -1,5 +1,5 @@
 ---
-display_name: Set Listening for Input
+title: Set Listening for Input
 order: 17
 ---
 ## Navigation

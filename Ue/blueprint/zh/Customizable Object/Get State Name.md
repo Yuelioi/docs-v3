@@ -1,5 +1,5 @@
 ---
-display_name: Get State Name
+title: Get State Name
 order: 19
 ---
 ## Navigation

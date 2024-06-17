@@ -1,5 +1,5 @@
 ---
-display_name: DeleteTrianglesInPolyGroup
+title: DeleteTrianglesInPolyGroup
 order: 7
 ---
 ## Navigation

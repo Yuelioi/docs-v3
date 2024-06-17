@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation From Binding
+title: Get Animation From Binding
 order: 6
 ---
 ## Navigation

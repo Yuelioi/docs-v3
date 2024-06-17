@@ -1,5 +1,5 @@
 ---
-display_name: Scroll Widget Into View
+title: Scroll Widget Into View
 order: 2
 ---
 ## Navigation

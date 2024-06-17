@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Retarget Profile
+title: Set Custom Retarget Profile
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is OSC Address Valid Pattern
+title: Is OSC Address Valid Pattern
 order: 53
 ---
 ## Navigation

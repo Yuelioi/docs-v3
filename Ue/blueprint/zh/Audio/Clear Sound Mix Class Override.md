@@ -1,5 +1,5 @@
 ---
-display_name: Clear Sound Mix Class Override
+title: Clear Sound Mix Class Override
 order: 4
 ---
 ## Navigation

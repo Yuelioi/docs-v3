@@ -1,5 +1,5 @@
 ---
-display_name: Deselect Elements from List
+title: Deselect Elements from List
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Should Include Unsupported Properties
+title: Should Include Unsupported Properties
 order: 10
 ---
 ## Navigation

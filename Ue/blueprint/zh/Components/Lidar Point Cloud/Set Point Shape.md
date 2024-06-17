@@ -1,5 +1,5 @@
 ---
-display_name: Set Point Shape
+title: Set Point Shape
 order: 5
 ---
 ## Navigation

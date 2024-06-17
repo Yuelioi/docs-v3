@@ -1,5 +1,5 @@
 ---
-display_name: ToSeparateTexts
+title: ToSeparateTexts
 order: 7
 ---
 ## Navigation

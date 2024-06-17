@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Vector
+title: Set Value Vector
 order: 26
 ---
 ## Navigation

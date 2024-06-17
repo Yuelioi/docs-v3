@@ -1,5 +1,5 @@
 ---
-display_name: Transform to Bone Space
+title: Transform to Bone Space
 order: 42
 ---
 ## Navigation

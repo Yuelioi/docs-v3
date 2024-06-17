@@ -1,5 +1,5 @@
 ---
-display_name: Set Attenuation Radius
+title: Set Attenuation Radius
 order: 5
 ---
 ## Navigation

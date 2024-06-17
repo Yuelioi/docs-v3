@@ -1,5 +1,5 @@
 ---
-display_name: GetEffectCauser
+title: GetEffectCauser
 order: 2
 ---
 ## Navigation

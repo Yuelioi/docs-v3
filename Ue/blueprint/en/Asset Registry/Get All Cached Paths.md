@@ -1,5 +1,5 @@
 ---
-display_name: Get All Cached Paths
+title: Get All Cached Paths
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pointhedge
+title: pointhedge
 order: 19
 ---
 `int  pointhedge(<geometry>geometry, int point)`

@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawn Loop Mode
+title: Set Spawn Loop Mode
 order: 59
 ---
 ## Navigation

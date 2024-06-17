@@ -1,5 +1,5 @@
 ---
-display_name: Random Point In Bounding Box From Stream (Box)
+title: Random Point In Bounding Box From Stream (Box)
 order: 25
 ---
 ## Navigation

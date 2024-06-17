@@ -1,5 +1,5 @@
 ---
-display_name: Add Guid Attribute
+title: Add Guid Attribute
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: depthname
+title: depthname
 order: 8
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

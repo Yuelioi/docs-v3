@@ -1,5 +1,5 @@
 ---
-display_name: assert_enabled
+title: assert_enabled
 order: 1
 ---
 `int  assert_enabled()`

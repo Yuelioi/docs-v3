@@ -1,5 +1,5 @@
 ---
-display_name: On Client Authority Server State Changed
+title: On Client Authority Server State Changed
 order: 15
 ---
 ## Navigation

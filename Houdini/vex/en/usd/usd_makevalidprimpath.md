@@ -1,5 +1,5 @@
 ---
-display_name: usd_makevalidprimpath
+title: usd_makevalidprimpath
 order: 91
 ---
 | Since | 19.0 |

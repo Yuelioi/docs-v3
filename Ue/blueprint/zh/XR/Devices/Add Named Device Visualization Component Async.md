@@ -1,5 +1,5 @@
 ---
-display_name: Add Named Device Visualization Component Async
+title: Add Named Device Visualization Component Async
 order: 3
 ---
 ## Navigation

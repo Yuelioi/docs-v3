@@ -1,5 +1,5 @@
 ---
-display_name: Set Double Vector Parameter Value
+title: Set Double Vector Parameter Value
 order: 43
 ---
 ## Navigation

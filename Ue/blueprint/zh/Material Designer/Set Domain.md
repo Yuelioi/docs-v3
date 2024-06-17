@@ -1,5 +1,5 @@
 ---
-display_name: Set Domain
+title: Set Domain
 order: 211
 ---
 ## Navigation

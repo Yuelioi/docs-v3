@@ -1,5 +1,5 @@
 ---
-display_name: Get Cursor Delta
+title: Get Cursor Delta
 order: 1
 ---
 ## Navigation

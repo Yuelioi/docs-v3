@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Thumbstick Down
+title: Gamepad Left Thumbstick Down
 order: 12
 ---
 ## Navigation

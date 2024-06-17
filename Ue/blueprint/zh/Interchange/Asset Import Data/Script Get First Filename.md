@@ -1,5 +1,5 @@
 ---
-display_name: Script Get First Filename
+title: Script Get First Filename
 order: 9
 ---
 ## Navigation

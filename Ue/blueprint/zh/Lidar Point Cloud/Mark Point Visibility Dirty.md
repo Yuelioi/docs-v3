@@ -1,5 +1,5 @@
 ---
-display_name: Mark Point Visibility Dirty
+title: Mark Point Visibility Dirty
 order: 48
 ---
 ## Navigation

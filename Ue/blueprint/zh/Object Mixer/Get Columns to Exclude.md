@@ -1,5 +1,5 @@
 ---
-display_name: Get Columns to Exclude
+title: Get Columns to Exclude
 order: 1
 ---
 ## Navigation

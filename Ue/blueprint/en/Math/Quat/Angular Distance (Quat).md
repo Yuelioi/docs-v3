@@ -1,5 +1,5 @@
 ---
-display_name: Angular Distance (Quat)
+title: Angular Distance (Quat)
 order: 2
 ---
 ## Navigation

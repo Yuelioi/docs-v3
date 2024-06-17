@@ -1,5 +1,5 @@
 ---
-display_name: Make Bake Type Multi Texture
+title: Make Bake Type Multi Texture
 order: 11
 ---
 ## Navigation

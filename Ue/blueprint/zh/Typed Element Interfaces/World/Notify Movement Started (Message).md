@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Started (Message)
+title: Notify Movement Started (Message)
 order: 35
 ---
 ## Navigation

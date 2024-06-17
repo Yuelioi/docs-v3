@@ -1,5 +1,5 @@
 ---
-display_name: hedge_isequiv
+title: hedge_isequiv
 order: 4
 ---
 `int  hedge_isequiv(<geometry>geometry, int hedge1, int hedge2)`

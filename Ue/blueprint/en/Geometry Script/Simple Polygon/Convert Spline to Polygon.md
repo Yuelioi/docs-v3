@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Polygon
+title: Convert Spline to Polygon
 order: 4
 ---
 ## Navigation

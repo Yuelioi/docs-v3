@@ -1,5 +1,5 @@
 ---
-display_name: Add Collision Convex Mesh
+title: Add Collision Convex Mesh
 order: 1
 ---
 ## Navigation

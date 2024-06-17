@@ -1,5 +1,5 @@
 ---
-display_name: Add Actor Input Component
+title: Add Actor Input Component
 order: 1
 ---
 ## Navigation

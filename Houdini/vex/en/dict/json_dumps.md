@@ -1,5 +1,5 @@
 ---
-display_name: json_dumps
+title: json_dumps
 order: 1
 ---
 | Since | 18.5 |

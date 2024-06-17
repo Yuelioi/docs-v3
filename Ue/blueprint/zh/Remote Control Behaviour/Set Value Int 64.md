@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Int 64
+title: Set Value Int 64
 order: 29
 ---
 ## Navigation

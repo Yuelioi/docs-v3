@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: AE效果介绍
+title: AE效果介绍
 ---
 
 # AE效果介绍

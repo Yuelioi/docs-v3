@@ -1,5 +1,5 @@
 ---
-display_name: R
+title: R
 order: 88
 ---
 ## Navigation

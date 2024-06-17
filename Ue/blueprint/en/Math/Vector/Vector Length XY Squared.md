@@ -1,5 +1,5 @@
 ---
-display_name: Vector Length XY Squared
+title: Vector Length XY Squared
 order: 81
 ---
 ## Navigation

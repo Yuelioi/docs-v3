@@ -1,5 +1,5 @@
 ---
-display_name: On Target Location Reached
+title: On Target Location Reached
 order: 164
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Unscaled Coverage
+title: Set Unscaled Coverage
 order: 38
 ---
 ## Navigation

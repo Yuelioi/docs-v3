@@ -1,5 +1,5 @@
 ---
-display_name: Bigger-Differences
+title: Bigger-Differences
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Get Spectator Pawn
+title: Get Spectator Pawn
 order: 16
 ---
 ## Navigation

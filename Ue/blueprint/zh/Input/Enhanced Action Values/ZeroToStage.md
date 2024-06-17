@@ -1,5 +1,5 @@
 ---
-display_name: ZeroToStage
+title: ZeroToStage
 order: 129
 ---
 ## Navigation

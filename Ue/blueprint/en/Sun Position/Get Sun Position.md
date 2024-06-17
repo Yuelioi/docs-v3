@@ -1,5 +1,5 @@
 ---
-display_name: Get Sun Position
+title: Get Sun Position
 order: 1
 ---
 ## Navigation

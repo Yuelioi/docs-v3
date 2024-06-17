@@ -1,5 +1,5 @@
 ---
-display_name: Remove Extensions
+title: Remove Extensions
 order: 5
 ---
 ## Navigation

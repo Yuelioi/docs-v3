@@ -1,5 +1,5 @@
 ---
-display_name: Get UICommandsScriptingSubsystem
+title: Get UICommandsScriptingSubsystem
 order: 49
 ---
 ## Navigation

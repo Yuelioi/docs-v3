@@ -1,5 +1,5 @@
 ---
-display_name: Get Widget Space
+title: Get Widget Space
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Socket by Index
+title: Get Socket by Index
 order: 37
 ---
 ## Navigation

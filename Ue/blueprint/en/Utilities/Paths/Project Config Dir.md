@@ -1,5 +1,5 @@
 ---
-display_name: Project Config Dir
+title: Project Config Dir
 order: 67
 ---
 ## Navigation

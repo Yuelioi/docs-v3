@@ -1,5 +1,5 @@
 ---
-display_name: Event Reply
+title: Event Reply
 order: 2
 ---
 ## Navigation

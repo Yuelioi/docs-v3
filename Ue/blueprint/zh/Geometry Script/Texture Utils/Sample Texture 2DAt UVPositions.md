@@ -1,5 +1,5 @@
 ---
-display_name: Sample Texture 2DAt UVPositions
+title: Sample Texture 2DAt UVPositions
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Color
+title: Set Shadow Color
 order: 24
 ---
 ## Navigation

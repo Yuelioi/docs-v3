@@ -1,5 +1,5 @@
 ---
-display_name: Find Named Pass Result (Message)
+title: Find Named Pass Result (Message)
 order: 3
 ---
 ## Navigation

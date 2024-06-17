@@ -1,5 +1,5 @@
 ---
-display_name: Merge Single
+title: Merge Single
 order: 49
 ---
 ## Navigation

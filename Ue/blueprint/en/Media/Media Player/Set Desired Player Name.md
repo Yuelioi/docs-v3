@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Player Name
+title: Set Desired Player Name
 order: 72
 ---
 ## Navigation

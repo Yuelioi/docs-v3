@@ -1,5 +1,5 @@
 ---
-display_name: Is Motion Tracking Enabled for Source
+title: Is Motion Tracking Enabled for Source
 order: 15
 ---
 ## Navigation

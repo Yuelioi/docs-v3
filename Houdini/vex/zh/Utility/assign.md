@@ -1,5 +1,5 @@
 ---
-display_name: assign
+title: assign
 order: 2
 ---
 `void  assign(float &c1, float &c2, vector2 source)`

@@ -1,5 +1,5 @@
 ---
-display_name: End Recording Baseline
+title: End Recording Baseline
 order: 4
 ---
 ## Navigation

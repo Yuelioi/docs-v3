@@ -1,5 +1,5 @@
 ---
-display_name: Get Source Links
+title: Get Source Links
 order: 28
 ---
 ## Navigation

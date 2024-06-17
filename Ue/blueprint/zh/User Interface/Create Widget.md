@@ -1,5 +1,5 @@
 ---
-display_name: Create Widget
+title: Create Widget
 order: 28
 ---
 ## Navigation

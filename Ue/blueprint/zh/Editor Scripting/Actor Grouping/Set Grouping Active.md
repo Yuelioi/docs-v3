@@ -1,5 +1,5 @@
 ---
-display_name: Set Grouping Active
+title: Set Grouping Active
 order: 10
 ---
 ## Navigation

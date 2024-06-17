@@ -1,5 +1,5 @@
 ---
-display_name: luminance
+title: luminance
 order: 3
 ---
 `float  luminance(vector rgb)`

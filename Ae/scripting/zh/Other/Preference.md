@@ -1,5 +1,5 @@
 ---
-display_name: Preference
+title: Preference
 order: 5
 ---
 

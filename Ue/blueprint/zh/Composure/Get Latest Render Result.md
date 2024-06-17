@@ -1,5 +1,5 @@
 ---
-display_name: Get Latest Render Result
+title: Get Latest Render Result
 order: 9
 ---
 ## Navigation

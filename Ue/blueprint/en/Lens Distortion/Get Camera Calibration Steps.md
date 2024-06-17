@@ -1,5 +1,5 @@
 ---
-display_name: Get Camera Calibration Steps
+title: Get Camera Calibration Steps
 order: 4
 ---
 ## Navigation

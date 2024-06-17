@@ -1,5 +1,5 @@
 ---
-display_name: Get Spawned Effect
+title: Get Spawned Effect
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Vector2D)
+title: Build String (Vector2D)
 order: 11
 ---
 ## Navigation

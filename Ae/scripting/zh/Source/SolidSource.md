@@ -1,5 +1,5 @@
 ---
-display_name: SolidSource
+title: SolidSource
 order: 4
 ---
 

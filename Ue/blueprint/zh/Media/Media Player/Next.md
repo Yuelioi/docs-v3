@@ -1,5 +1,5 @@
 ---
-display_name: Next
+title: Next
 order: 46
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Vector Up
+title: Vector Up
 order: 92
 ---
 ## Navigation

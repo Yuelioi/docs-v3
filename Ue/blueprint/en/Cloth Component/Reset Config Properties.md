@@ -1,5 +1,5 @@
 ---
-display_name: Reset Config Properties
+title: Reset Config Properties
 order: 7
 ---
 ## Navigation

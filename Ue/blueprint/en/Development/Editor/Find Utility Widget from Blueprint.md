@@ -1,5 +1,5 @@
 ---
-display_name: Find Utility Widget from Blueprint
+title: Find Utility Widget from Blueprint
 order: 6
 ---
 ## Navigation

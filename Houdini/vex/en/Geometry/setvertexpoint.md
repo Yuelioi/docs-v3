@@ -1,5 +1,5 @@
 ---
-display_name: setvertexpoint
+title: setvertexpoint
 order: 37
 ---
 `int  setvertexpoint(int geohandle, int prim, int vtxofprim, int pt)`

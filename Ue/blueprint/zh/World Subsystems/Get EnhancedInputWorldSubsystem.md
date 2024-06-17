@@ -1,5 +1,5 @@
 ---
-display_name: Get EnhancedInputWorldSubsystem
+title: Get EnhancedInputWorldSubsystem
 order: 26
 ---
 ## Navigation

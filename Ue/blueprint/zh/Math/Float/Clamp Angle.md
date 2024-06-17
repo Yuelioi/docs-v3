@@ -1,5 +1,5 @@
 ---
-display_name: Clamp Angle
+title: Clamp Angle
 order: 6
 ---
 ## Navigation

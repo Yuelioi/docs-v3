@@ -1,5 +1,5 @@
 ---
-display_name: Local Wildcard
+title: Local Wildcard
 order: 23
 ---
 ## Navigation

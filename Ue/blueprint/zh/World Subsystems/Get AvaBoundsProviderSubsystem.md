@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaBoundsProviderSubsystem
+title: Get AvaBoundsProviderSubsystem
 order: 5
 ---
 ## Navigation

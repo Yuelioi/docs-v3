@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Attribute Value
+title: Get Gameplay Attribute Value
 order: 3
 ---
 ## Navigation

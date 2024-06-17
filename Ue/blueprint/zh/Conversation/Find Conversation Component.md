@@ -1,5 +1,5 @@
 ---
-display_name: Find Conversation Component
+title: Find Conversation Component
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset Input Connection Map
+title: Reset Input Connection Map
 order: 202
 ---
 ## Navigation

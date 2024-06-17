@@ -1,5 +1,5 @@
 ---
-display_name: Set Constraint Mode
+title: Set Constraint Mode
 order: 29
 ---
 ## Navigation

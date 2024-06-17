@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Box Extent
+title: Get Scaled Box Extent
 order: 1
 ---
 ## Navigation

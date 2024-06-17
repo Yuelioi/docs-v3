@@ -1,5 +1,5 @@
 ---
-display_name: Set Override Render Material
+title: Set Override Render Material
 order: 16
 ---
 ## Navigation

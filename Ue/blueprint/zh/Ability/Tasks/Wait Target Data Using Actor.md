@@ -1,5 +1,5 @@
 ---
-display_name: Wait Target Data Using Actor
+title: Wait Target Data Using Actor
 order: 40
 ---
 ## Navigation

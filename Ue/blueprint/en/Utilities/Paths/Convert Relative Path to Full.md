@@ -1,5 +1,5 @@
 ---
-display_name: Convert Relative Path to Full
+title: Convert Relative Path to Full
 order: 9
 ---
 ## Navigation

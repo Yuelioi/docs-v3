@@ -1,5 +1,5 @@
 ---
-display_name: Send Key Char
+title: Send Key Char
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Async Load Class Asset
+title: Async Load Class Asset
 order: 30
 ---
 ## Navigation

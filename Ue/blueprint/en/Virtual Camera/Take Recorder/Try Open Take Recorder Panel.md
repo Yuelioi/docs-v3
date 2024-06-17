@@ -1,5 +1,5 @@
 ---
-display_name: Try Open Take Recorder Panel
+title: Try Open Take Recorder Panel
 order: 4
 ---
 ## Navigation

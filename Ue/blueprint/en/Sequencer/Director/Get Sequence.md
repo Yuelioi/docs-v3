@@ -1,5 +1,5 @@
 ---
-display_name: Get Sequence
+title: Get Sequence
 order: 7
 ---
 ## Navigation

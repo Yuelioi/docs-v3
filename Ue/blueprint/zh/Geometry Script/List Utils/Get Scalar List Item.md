@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar List Item
+title: Get Scalar List Item
 order: 31
 ---
 ## Navigation

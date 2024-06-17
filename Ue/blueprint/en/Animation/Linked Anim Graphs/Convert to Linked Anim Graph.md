@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Linked Anim Graph
+title: Convert to Linked Anim Graph
 order: 1
 ---
 ## Navigation

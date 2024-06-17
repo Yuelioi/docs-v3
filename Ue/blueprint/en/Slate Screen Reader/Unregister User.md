@@ -1,5 +1,5 @@
 ---
-display_name: Unregister User
+title: Unregister User
 order: 19
 ---
 ## Navigation

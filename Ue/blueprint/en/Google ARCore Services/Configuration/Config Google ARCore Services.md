@@ -1,5 +1,5 @@
 ---
-display_name: Config Google ARCore Services
+title: Config Google ARCore Services
 order: 1
 ---
 ## Navigation

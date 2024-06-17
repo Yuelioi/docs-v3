@@ -1,5 +1,5 @@
 ---
-display_name: Set World to Meters Scale
+title: Set World to Meters Scale
 order: 12
 ---
 ## Navigation

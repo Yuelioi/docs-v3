@@ -1,5 +1,5 @@
 ---
-display_name: Add Child
+title: Add Child
 order: 1
 ---
 ## Navigation

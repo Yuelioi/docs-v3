@@ -1,5 +1,5 @@
 ---
-display_name: Landscape Export Heightmap to RenderTarget
+title: Landscape Export Heightmap to RenderTarget
 order: 6
 ---
 ## Navigation

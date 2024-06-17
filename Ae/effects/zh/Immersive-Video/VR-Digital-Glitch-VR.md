@@ -1,5 +1,5 @@
 ---
-display_name: VR数字故障
+title: VR数字故障
 order: 6
 ---
 

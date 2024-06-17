@@ -1,5 +1,5 @@
 ---
-display_name: Attach Component To Component
+title: Attach Component To Component
 order: 19
 ---
 ## Navigation

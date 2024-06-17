@@ -1,5 +1,5 @@
 ---
-display_name: Remove Input
+title: Remove Input
 order: 191
 ---
 ## Navigation

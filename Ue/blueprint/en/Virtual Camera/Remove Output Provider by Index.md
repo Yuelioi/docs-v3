@@ -1,5 +1,5 @@
 ---
-display_name: Remove Output Provider by Index
+title: Remove Output Provider by Index
 order: 18
 ---
 ## Navigation

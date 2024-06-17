@@ -1,5 +1,5 @@
 ---
-display_name: Is Non-Finite (Quat)
+title: Is Non-Finite (Quat)
 order: 15
 ---
 ## Navigation

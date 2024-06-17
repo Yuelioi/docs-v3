@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Registered Tab by ID
+title: Spawn Registered Tab by ID
 order: 27
 ---
 ## Navigation

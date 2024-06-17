@@ -1,5 +1,5 @@
 ---
-display_name: Load Control Bus Mix From Profile
+title: Load Control Bus Mix From Profile
 order: 24
 ---
 ## Navigation

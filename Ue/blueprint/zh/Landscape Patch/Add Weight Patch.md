@@ -1,5 +1,5 @@
 ---
-display_name: Add Weight Patch
+title: Add Weight Patch
 order: 2
 ---
 ## Navigation

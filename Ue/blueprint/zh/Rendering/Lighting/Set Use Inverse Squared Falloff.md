@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Inverse Squared Falloff
+title: Set Use Inverse Squared Falloff
 order: 36
 ---
 ## Navigation

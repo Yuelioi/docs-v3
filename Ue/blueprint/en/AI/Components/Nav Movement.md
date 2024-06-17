@@ -1,5 +1,5 @@
 ---
-display_name: Nav Movement
+title: Nav Movement
 order: 2
 ---
 ## Navigation

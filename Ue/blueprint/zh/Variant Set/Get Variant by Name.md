@@ -1,5 +1,5 @@
 ---
-display_name: Get Variant by Name
+title: Get Variant by Name
 order: 4
 ---
 ## Navigation

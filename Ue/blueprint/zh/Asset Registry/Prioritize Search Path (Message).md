@@ -1,5 +1,5 @@
 ---
-display_name: Prioritize Search Path (Message)
+title: Prioritize Search Path (Message)
 order: 38
 ---
 ## Navigation

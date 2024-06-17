@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Position Array Value
+title: Niagara Get Position Array Value
 order: 42
 ---
 ## Navigation

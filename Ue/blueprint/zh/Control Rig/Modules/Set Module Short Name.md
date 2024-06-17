@@ -1,5 +1,5 @@
 ---
-display_name: Set Module Short Name
+title: Set Module Short Name
 order: 14
 ---
 ## Navigation

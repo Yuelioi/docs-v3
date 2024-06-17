@@ -1,5 +1,5 @@
 ---
-display_name: Finish Test
+title: Finish Test
 order: 2
 ---
 ## Navigation

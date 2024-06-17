@@ -1,5 +1,5 @@
 ---
-display_name: Is Node Uid Valid
+title: Is Node Uid Valid
 order: 10
 ---
 ## Navigation

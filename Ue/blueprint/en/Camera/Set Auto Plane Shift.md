@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Plane Shift
+title: Set Auto Plane Shift
 order: 21
 ---
 ## Navigation

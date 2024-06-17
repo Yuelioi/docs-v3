@@ -1,5 +1,5 @@
 ---
-display_name: Add New Camera Modifier
+title: Add New Camera Modifier
 order: 2
 ---
 ## Navigation

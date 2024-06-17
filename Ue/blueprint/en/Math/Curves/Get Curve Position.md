@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Position
+title: Get Curve Position
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Node Children Uids
+title: Get Node Children Uids
 order: 5
 ---
 ## Navigation

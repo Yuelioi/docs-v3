@@ -1,5 +1,5 @@
 ---
-display_name: To Soft Class Reference
+title: To Soft Class Reference
 order: 17
 ---
 ## Navigation

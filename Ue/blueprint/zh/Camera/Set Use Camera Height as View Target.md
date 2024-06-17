@@ -1,5 +1,5 @@
 ---
-display_name: Set Use Camera Height as View Target
+title: Set Use Camera Height as View Target
 order: 31
 ---
 ## Navigation

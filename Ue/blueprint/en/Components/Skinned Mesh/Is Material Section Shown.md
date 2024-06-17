@@ -1,5 +1,5 @@
 ---
-display_name: Is Material Section Shown
+title: Is Material Section Shown
 order: 24
 ---
 ## Navigation

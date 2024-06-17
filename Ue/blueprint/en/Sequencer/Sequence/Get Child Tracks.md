@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Tracks
+title: Get Child Tracks
 order: 27
 ---
 ## Navigation

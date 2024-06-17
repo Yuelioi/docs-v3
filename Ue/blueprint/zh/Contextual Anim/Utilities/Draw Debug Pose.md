@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Pose
+title: Draw Debug Pose
 order: 1
 ---
 ## Navigation

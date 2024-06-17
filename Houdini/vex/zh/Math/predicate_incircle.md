@@ -1,5 +1,5 @@
 ---
-display_name: predicate_incircle
+title: predicate_incircle
 order: 54
 ---
 `float  predicate_incircle(vector2 a, vector2 b, vector2 c, vector2 d)`

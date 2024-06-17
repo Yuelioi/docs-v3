@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Widgets
+title: Remove All Widgets
 order: 13
 ---
 ## Navigation

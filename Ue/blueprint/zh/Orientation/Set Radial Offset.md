@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Offset
+title: Set Radial Offset
 order: 15
 ---
 ## Navigation

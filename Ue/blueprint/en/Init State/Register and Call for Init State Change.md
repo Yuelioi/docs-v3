@@ -1,5 +1,5 @@
 ---
-display_name: Register and Call for Init State Change
+title: Register and Call for Init State Change
 order: 10
 ---
 ## Navigation

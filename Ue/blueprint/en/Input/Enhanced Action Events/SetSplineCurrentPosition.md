@@ -1,5 +1,5 @@
 ---
-display_name: SetSplineCurrentPosition
+title: SetSplineCurrentPosition
 order: 80
 ---
 ## Navigation

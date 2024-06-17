@@ -1,5 +1,5 @@
 ---
-display_name: Validate Changelists
+title: Validate Changelists
 order: 9
 ---
 ## Navigation

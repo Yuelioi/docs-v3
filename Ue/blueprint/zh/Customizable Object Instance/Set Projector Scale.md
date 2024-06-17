@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Scale
+title: Set Projector Scale
 order: 72
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Gravity
+title: Set Enable Gravity
 order: 34
 ---
 ## Navigation

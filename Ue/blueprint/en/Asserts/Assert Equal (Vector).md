@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Vector)
+title: Assert Equal (Vector)
 order: 16
 ---
 ## Navigation

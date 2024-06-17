@@ -1,5 +1,5 @@
 ---
-display_name: hscript_turb
+title: hscript_turb
 order: 17
 ---
 `float  hscript_turb(vector pos, int depth)`

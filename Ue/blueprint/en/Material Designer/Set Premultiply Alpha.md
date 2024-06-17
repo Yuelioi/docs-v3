@@ -1,5 +1,5 @@
 ---
-display_name: Set Premultiply Alpha
+title: Set Premultiply Alpha
 order: 229
 ---
 ## Navigation

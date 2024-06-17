@@ -1,5 +1,5 @@
 ---
-display_name: Set Volumetric Fog Extinction Scale
+title: Set Volumetric Fog Extinction Scale
 order: 5
 ---
 ## Navigation

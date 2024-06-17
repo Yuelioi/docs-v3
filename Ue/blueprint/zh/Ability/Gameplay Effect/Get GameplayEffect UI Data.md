@@ -1,5 +1,5 @@
 ---
-display_name: Get GameplayEffect UI Data
+title: Get GameplayEffect UI Data
 order: 19
 ---
 ## Navigation

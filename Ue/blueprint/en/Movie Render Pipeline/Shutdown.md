@@ -1,5 +1,5 @@
 ---
-display_name: Shutdown
+title: Shutdown
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Arc Length
+title: Get Polygon Arc Length
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Props Source Origin
+title: Get Props Source Origin
 order: 21
 ---
 ## Navigation

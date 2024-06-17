@@ -1,5 +1,5 @@
 ---
-display_name: Get Peak
+title: Get Peak
 order: 3
 ---
 ## Navigation

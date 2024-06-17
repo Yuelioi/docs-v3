@@ -1,5 +1,5 @@
 ---
-display_name: Set Named Param
+title: Set Named Param
 order: 6
 ---
 ## Navigation

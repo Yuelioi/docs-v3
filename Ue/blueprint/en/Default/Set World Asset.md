@@ -1,5 +1,5 @@
 ---
-display_name: Set World Asset
+title: Set World Asset
 order: 25
 ---
 ## Navigation

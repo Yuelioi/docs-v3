@@ -1,5 +1,5 @@
 ---
-display_name: Set Motion Vector Scale
+title: Set Motion Vector Scale
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Chooser
+title: Evaluate Chooser
 order: 5
 ---
 ## Navigation

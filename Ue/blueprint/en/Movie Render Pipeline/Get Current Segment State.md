@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Segment State
+title: Get Current Segment State
 order: 31
 ---
 ## Navigation

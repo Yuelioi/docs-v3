@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Level
+title: Get Current Level
 order: 19
 ---
 ## Navigation

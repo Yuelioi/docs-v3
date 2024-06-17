@@ -1,5 +1,5 @@
 ---
-display_name: Steam Events
+title: Steam Events
 order: 8
 ---
 ## Navigation

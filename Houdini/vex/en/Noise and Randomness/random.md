@@ -1,5 +1,5 @@
 ---
-display_name: random
+title: random
 order: 30
 ---
 `float  random(float|intposition)`

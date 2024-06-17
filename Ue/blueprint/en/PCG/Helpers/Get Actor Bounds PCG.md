@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Bounds PCG
+title: Get Actor Bounds PCG
 order: 3
 ---
 ## Navigation

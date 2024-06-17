@@ -1,5 +1,5 @@
 ---
-display_name: Build Collision
+title: Build Collision
 order: 11
 ---
 ## Navigation

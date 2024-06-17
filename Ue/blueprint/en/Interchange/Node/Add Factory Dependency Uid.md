@@ -1,5 +1,5 @@
 ---
-display_name: Add Factory Dependency Uid
+title: Add Factory Dependency Uid
 order: 4
 ---
 ## Navigation

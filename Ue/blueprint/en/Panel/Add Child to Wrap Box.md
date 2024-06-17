@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Wrap Box
+title: Add Child to Wrap Box
 order: 3
 ---
 ## Navigation

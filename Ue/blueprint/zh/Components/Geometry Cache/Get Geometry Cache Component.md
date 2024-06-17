@@ -1,5 +1,5 @@
 ---
-display_name: Get Geometry Cache Component
+title: Get Geometry Cache Component
 order: 3
 ---
 ## Navigation

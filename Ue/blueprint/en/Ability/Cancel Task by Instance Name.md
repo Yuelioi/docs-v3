@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Task by Instance Name
+title: Cancel Task by Instance Name
 order: 9
 ---
 ## Navigation

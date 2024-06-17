@@ -1,5 +1,5 @@
 ---
-display_name: Get Millisecond
+title: Get Millisecond
 order: 19
 ---
 ## Navigation

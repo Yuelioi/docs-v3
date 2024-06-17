@@ -1,5 +1,5 @@
 ---
-display_name: cinput
+title: cinput
 order: 6
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

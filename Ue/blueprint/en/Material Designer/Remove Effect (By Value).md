@@ -1,5 +1,5 @@
 ---
-display_name: Remove Effect (By Value)
+title: Remove Effect (By Value)
 order: 190
 ---
 ## Navigation

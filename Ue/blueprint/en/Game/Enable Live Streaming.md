@@ -1,5 +1,5 @@
 ---
-display_name: Enable Live Streaming
+title: Enable Live Streaming
 order: 11
 ---
 ## Navigation

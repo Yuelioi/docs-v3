@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Color for Channel
+title: Set Custom Color for Channel
 order: 11
 ---
 ## Navigation

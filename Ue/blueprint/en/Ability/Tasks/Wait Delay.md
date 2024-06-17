@@ -1,5 +1,5 @@
 ---
-display_name: Wait Delay
+title: Wait Delay
 order: 20
 ---
 ## Navigation

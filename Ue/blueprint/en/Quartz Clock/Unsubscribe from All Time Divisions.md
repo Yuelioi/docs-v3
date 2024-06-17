@@ -1,5 +1,5 @@
 ---
-display_name: Unsubscribe from All Time Divisions
+title: Unsubscribe from All Time Divisions
 order: 11
 ---
 ## Navigation

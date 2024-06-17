@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture 2DArray Object
+title: Set Texture 2DArray Object
 order: 68
 ---
 ## Navigation

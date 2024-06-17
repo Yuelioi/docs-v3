@@ -1,5 +1,5 @@
 ---
-display_name: Set Snap State
+title: Set Snap State
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pcimportbyidx3
+title: pcimportbyidx3
 order: 15
 ---
 `matrix3  pcimportbyidx3(int handle, string channel_name, int idx)`

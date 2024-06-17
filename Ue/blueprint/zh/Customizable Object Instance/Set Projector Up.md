@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Up
+title: Set Projector Up
 order: 73
 ---
 ## Navigation

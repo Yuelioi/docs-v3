@@ -1,5 +1,5 @@
 ---
-display_name: Suggest Projectile Velocity Custom Arc
+title: Suggest Projectile Velocity Custom Arc
 order: 54
 ---
 ## Navigation

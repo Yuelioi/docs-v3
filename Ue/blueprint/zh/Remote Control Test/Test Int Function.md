@@ -1,5 +1,5 @@
 ---
-display_name: Test Int Function
+title: Test Int Function
 order: 1
 ---
 ## Navigation

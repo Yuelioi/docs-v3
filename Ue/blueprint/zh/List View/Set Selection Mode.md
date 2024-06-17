@@ -1,5 +1,5 @@
 ---
-display_name: Set Selection Mode
+title: Set Selection Mode
 order: 27
 ---
 ## Navigation

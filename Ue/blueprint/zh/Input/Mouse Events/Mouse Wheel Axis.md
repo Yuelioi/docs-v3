@@ -1,5 +1,5 @@
 ---
-display_name: Mouse Wheel Axis
+title: Mouse Wheel Axis
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Scaled Capsule Radius
+title: Get Scaled Capsule Radius
 order: 3
 ---
 ## Navigation

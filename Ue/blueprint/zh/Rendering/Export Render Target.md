@@ -1,5 +1,5 @@
 ---
-display_name: Export Render Target
+title: Export Render Target
 order: 5
 ---
 ## Navigation

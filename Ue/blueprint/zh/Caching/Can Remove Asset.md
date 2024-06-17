@@ -1,5 +1,5 @@
 ---
-display_name: Can Remove Asset
+title: Can Remove Asset
 order: 3
 ---
 ## Navigation

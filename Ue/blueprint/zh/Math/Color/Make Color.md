@@ -1,5 +1,5 @@
 ---
-display_name: Make Color
+title: Make Color
 order: 25
 ---
 ## Navigation

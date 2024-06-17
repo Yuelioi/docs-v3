@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Parents in Set
+title: Set Control Parents in Set
 order: 91
 ---
 ## Navigation

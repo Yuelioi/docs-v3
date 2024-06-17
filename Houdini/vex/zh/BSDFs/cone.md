@@ -1,5 +1,5 @@
 ---
-display_name: cone
+title: cone
 order: 6
 ---
 `bsdf  cone(vector normal, vector dir, float angle, ...)`

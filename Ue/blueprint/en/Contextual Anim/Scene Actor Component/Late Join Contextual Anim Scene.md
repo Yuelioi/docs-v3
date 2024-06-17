@@ -1,5 +1,5 @@
 ---
-display_name: Late Join Contextual Anim Scene
+title: Late Join Contextual Anim Scene
 order: 5
 ---
 ## Navigation

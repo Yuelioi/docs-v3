@@ -1,5 +1,5 @@
 ---
-display_name: Get Pinned Component
+title: Get Pinned Component
 order: 4
 ---
 ## Navigation

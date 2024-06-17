@@ -1,5 +1,5 @@
 ---
-display_name: Is Mutable
+title: Is Mutable
 order: 50
 ---
 ## Navigation

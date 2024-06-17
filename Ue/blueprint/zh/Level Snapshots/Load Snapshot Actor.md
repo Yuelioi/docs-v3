@@ -1,5 +1,5 @@
 ---
-display_name: Load Snapshot Actor
+title: Load Snapshot Actor
 order: 20
 ---
 ## Navigation

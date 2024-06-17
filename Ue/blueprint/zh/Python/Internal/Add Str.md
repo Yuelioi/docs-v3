@@ -1,5 +1,5 @@
 ---
-display_name: Add Str
+title: Add Str
 order: 3
 ---
 ## Navigation

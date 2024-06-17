@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Breakable
+title: Set Angular Breakable
 order: 33
 ---
 ## Navigation

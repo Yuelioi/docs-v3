@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Connectors
+title: Get Input Connectors
 order: 80
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Range Seconds
+title: Make Range Seconds
 order: 68
 ---
 ## Navigation

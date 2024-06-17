@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_nxor
+title: fuzzy_nxor
 order: 7
 ---
 `int  fuzzy_nxor(int a, int b, ...)`

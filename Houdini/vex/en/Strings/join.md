@@ -1,5 +1,5 @@
 ---
-display_name: join
+title: join
 order: 17
 ---
 `string  join(string s[], string spacer)`

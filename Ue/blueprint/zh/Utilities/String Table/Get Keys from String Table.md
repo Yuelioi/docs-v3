@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys from String Table
+title: Get Keys from String Table
 order: 1
 ---
 ## Navigation

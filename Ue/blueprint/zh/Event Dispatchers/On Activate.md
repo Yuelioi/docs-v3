@@ -1,5 +1,5 @@
 ---
-display_name: On Activate
+title: On Activate
 order: 42
 ---
 ## Navigation

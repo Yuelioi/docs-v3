@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Visible Slot
+title: Deactivate Visible Slot
 order: 2
 ---
 ## Navigation

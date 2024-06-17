@@ -1,5 +1,5 @@
 ---
-display_name: Register and Call for Init State Change (Message)
+title: Register and Call for Init State Change (Message)
 order: 9
 ---
 ## Navigation

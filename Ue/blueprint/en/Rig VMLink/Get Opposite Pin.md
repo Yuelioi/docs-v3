@@ -1,5 +1,5 @@
 ---
-display_name: Get Opposite Pin
+title: Get Opposite Pin
 order: 4
 ---
 ## Navigation

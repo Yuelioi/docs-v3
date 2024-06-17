@@ -1,5 +1,5 @@
 ---
-display_name: Get All Player Mappable Action Key Mappings
+title: Get All Player Mappable Action Key Mappings
 order: 2
 ---
 ## Navigation

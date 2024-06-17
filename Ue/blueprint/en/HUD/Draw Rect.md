@@ -1,5 +1,5 @@
 ---
-display_name: Draw Rect
+title: Draw Rect
 order: 8
 ---
 ## Navigation

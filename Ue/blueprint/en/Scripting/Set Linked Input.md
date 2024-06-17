@@ -1,5 +1,5 @@
 ---
-display_name: Set Linked Input
+title: Set Linked Input
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get GeometryCollectionISMPoolSubSystem
+title: Get GeometryCollectionISMPoolSubSystem
 order: 30
 ---
 ## Navigation

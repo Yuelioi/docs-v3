@@ -1,5 +1,5 @@
 ---
-display_name: Reset Orientation and Position
+title: Reset Orientation and Position
 order: 18
 ---
 ## Navigation

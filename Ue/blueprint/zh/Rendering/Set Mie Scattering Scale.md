@@ -1,5 +1,5 @@
 ---
-display_name: Set Mie Scattering Scale
+title: Set Mie Scattering Scale
 order: 62
 ---
 ## Navigation

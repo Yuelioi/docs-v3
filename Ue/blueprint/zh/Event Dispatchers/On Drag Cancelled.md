@@ -1,5 +1,5 @@
 ---
-display_name: On Drag Cancelled
+title: On Drag Cancelled
 order: 75
 ---
 ## Navigation

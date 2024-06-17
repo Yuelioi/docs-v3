@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable Frame Stripping Settings
+title: Set Variable Frame Stripping Settings
 order: 6
 ---
 ## Navigation

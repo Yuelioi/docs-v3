@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Space with Inertial Blending
+title: Set Blend Space with Inertial Blending
 order: 7
 ---
 ## Navigation

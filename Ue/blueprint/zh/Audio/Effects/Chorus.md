@@ -1,5 +1,5 @@
 ---
-display_name: Chorus
+title: Chorus
 order: 5
 ---
 ## Navigation

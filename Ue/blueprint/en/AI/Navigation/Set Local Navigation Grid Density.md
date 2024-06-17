@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Navigation Grid Density
+title: Set Local Navigation Grid Density
 order: 38
 ---
 ## Navigation

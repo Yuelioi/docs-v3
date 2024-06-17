@@ -1,5 +1,5 @@
 ---
-display_name: Get UVList Item
+title: Get UVList Item
 order: 37
 ---
 ## Navigation

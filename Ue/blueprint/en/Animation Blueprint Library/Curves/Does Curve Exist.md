@@ -1,5 +1,5 @@
 ---
-display_name: Does Curve Exist
+title: Does Curve Exist
 order: 8
 ---
 ## Navigation

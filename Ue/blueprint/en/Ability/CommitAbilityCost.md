@@ -1,5 +1,5 @@
 ---
-display_name: CommitAbilityCost
+title: CommitAbilityCost
 order: 15
 ---
 ## Navigation

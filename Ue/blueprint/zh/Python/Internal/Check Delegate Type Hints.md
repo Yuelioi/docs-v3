@@ -1,5 +1,5 @@
 ---
-display_name: Check Delegate Type Hints
+title: Check Delegate Type Hints
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: setprimintrinsic
+title: setprimintrinsic
 order: 72
 ---
 `int  setprimintrinsic(int geohandle, string name, int prim_num, <type>value, string mode="set")`

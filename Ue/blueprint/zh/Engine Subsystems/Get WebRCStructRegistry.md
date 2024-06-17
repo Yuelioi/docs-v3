@@ -1,5 +1,5 @@
 ---
-display_name: Get WebRCStructRegistry
+title: Get WebRCStructRegistry
 order: 54
 ---
 ## Navigation

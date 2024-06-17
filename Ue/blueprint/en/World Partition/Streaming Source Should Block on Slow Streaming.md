@@ -1,5 +1,5 @@
 ---
-display_name: Streaming Source Should Block on Slow Streaming
+title: Streaming Source Should Block on Slow Streaming
 order: 16
 ---
 ## Navigation

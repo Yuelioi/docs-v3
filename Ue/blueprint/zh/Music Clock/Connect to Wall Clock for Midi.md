@@ -1,5 +1,5 @@
 ---
-display_name: Connect to Wall Clock for Midi
+title: Connect to Wall Clock for Midi
 order: 4
 ---
 ## Navigation

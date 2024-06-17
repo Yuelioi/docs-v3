@@ -1,5 +1,5 @@
 ---
-display_name: Get Second Aggregate Pin
+title: Get Second Aggregate Pin
 order: 29
 ---
 ## Navigation

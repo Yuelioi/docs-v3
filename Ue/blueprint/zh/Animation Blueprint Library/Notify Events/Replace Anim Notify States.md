@@ -1,5 +1,5 @@
 ---
-display_name: Replace Anim Notify States
+title: Replace Anim Notify States
 order: 12
 ---
 ## Navigation

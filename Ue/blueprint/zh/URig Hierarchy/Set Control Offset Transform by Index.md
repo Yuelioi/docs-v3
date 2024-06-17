@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Offset Transform by Index
+title: Set Control Offset Transform by Index
 order: 125
 ---
 ## Navigation

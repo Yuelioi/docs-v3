@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Parameter
+title: Get Object Parameter
 order: 10
 ---
 ## Navigation

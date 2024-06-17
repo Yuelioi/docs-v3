@@ -1,5 +1,5 @@
 ---
-display_name: Box Overlap Actors
+title: Box Overlap Actors
 order: 1
 ---
 ## Navigation

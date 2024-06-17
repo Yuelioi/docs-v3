@@ -1,5 +1,5 @@
 ---
-display_name: Try Get Local Value as Float
+title: Try Get Local Value as Float
 order: 7
 ---
 ## Navigation

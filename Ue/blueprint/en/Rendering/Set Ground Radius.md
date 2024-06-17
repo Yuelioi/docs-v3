@@ -1,5 +1,5 @@
 ---
-display_name: Set Ground Radius
+title: Set Ground Radius
 order: 37
 ---
 ## Navigation

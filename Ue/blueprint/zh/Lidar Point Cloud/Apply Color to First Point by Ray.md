@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color to First Point by Ray
+title: Apply Color to First Point by Ray
 order: 3
 ---
 ## Navigation

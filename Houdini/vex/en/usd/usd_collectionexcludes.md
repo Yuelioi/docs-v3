@@ -1,5 +1,5 @@
 ---
-display_name: usd_collectionexcludes
+title: usd_collectionexcludes
 order: 33
 ---
 | Since | 18.0 |

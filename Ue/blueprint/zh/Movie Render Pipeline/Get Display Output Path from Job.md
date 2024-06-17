@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Output Path from Job
+title: Get Display Output Path from Job
 order: 36
 ---
 ## Navigation

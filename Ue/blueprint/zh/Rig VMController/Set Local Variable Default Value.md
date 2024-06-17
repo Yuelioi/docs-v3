@@ -1,5 +1,5 @@
 ---
-display_name: Set Local Variable Default Value
+title: Set Local Variable Default Value
 order: 105
 ---
 ## Navigation

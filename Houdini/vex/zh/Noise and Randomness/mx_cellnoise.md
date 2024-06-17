@@ -1,5 +1,5 @@
 ---
-display_name: mx_cellnoise
+title: mx_cellnoise
 order: 19
 ---
 `float  mx_cellnoise(float pos)`

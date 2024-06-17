@@ -1,5 +1,5 @@
 ---
-display_name: Add Test Telemetry Data
+title: Add Test Telemetry Data
 order: 7
 ---
 ## Navigation

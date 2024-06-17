@@ -1,5 +1,5 @@
 ---
-display_name: Set Tangent at Spline Point
+title: Set Tangent at Spline Point
 order: 89
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Asset Name
+title: Set Asset Name
 order: 64
 ---
 ## Navigation

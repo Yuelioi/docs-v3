@@ -1,5 +1,5 @@
 ---
-display_name: Get Either Observation
+title: Get Either Observation
 order: 57
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 用户UI
+title: 用户UI
 order: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: On Actor Dropped from Carry (Message)
+title: On Actor Dropped from Carry (Message)
 order: 1
 ---
 ## Navigation

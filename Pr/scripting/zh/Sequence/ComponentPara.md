@@ -1,5 +1,5 @@
 ---
-display_name: ComponentParam 组件参数对象
+title: ComponentParam 组件参数对象
 order: 1
 ---
 

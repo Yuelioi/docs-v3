@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound Literal From AudioParameter
+title: Create MetaSound Literal From AudioParameter
 order: 8
 ---
 ## Navigation

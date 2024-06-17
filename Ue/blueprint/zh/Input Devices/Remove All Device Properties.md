@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Device Properties
+title: Remove All Device Properties
 order: 10
 ---
 ## Navigation

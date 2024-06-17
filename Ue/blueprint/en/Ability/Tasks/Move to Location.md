@@ -1,5 +1,5 @@
 ---
-display_name: Move to Location
+title: Move to Location
 order: 9
 ---
 ## Navigation

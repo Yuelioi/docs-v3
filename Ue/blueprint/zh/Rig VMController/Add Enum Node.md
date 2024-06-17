@@ -1,5 +1,5 @@
 ---
-display_name: Add Enum Node
+title: Add Enum Node
 order: 8
 ---
 ## Navigation

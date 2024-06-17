@@ -1,5 +1,5 @@
 ---
-display_name: Empty Selection
+title: Empty Selection
 order: 3
 ---
 ## Navigation

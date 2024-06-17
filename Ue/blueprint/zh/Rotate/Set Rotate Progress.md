@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotate Progress
+title: Set Rotate Progress
 order: 5
 ---
 ## Navigation

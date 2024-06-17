@@ -1,5 +1,5 @@
 ---
-display_name: Create Triangle with ID
+title: Create Triangle with ID
 order: 9
 ---
 ## Navigation

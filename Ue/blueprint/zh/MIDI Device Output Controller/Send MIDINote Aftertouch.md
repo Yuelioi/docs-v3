@@ -1,5 +1,5 @@
 ---
-display_name: Send MIDINote Aftertouch
+title: Send MIDINote Aftertouch
 order: 4
 ---
 ## Navigation

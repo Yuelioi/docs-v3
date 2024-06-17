@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent at Time
+title: Get Tangent at Time
 order: 66
 ---
 ## Navigation

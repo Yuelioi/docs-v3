@@ -1,5 +1,5 @@
 ---
-display_name: Async Wait for Game World
+title: Async Wait for Game World
 order: 1
 ---
 ## Navigation

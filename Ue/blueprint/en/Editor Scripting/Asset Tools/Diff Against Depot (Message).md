@@ -1,5 +1,5 @@
 ---
-display_name: Diff Against Depot (Message)
+title: Diff Against Depot (Message)
 order: 10
 ---
 ## Navigation

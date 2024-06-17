@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Possessable
+title: Convert to Possessable
 order: 6
 ---
 ## Navigation

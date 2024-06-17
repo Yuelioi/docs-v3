@@ -1,5 +1,5 @@
 ---
-display_name: SplitSplineSegment
+title: SplitSplineSegment
 order: 85
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Float Array
+title: Niagara Get Float Array
 order: 37
 ---
 ## Navigation

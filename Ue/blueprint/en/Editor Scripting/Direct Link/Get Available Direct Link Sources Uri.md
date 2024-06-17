@@ -1,5 +1,5 @@
 ---
-display_name: Get Available Direct Link Sources Uri
+title: Get Available Direct Link Sources Uri
 order: 1
 ---
 ## Navigation

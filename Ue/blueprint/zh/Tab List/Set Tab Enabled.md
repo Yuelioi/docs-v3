@@ -1,5 +1,5 @@
 ---
-display_name: Set Tab Enabled
+title: Set Tab Enabled
 order: 18
 ---
 ## Navigation

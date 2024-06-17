@@ -1,5 +1,5 @@
 ---
-display_name: Ability Target Data from Actor Array
+title: Ability Target Data from Actor Array
 order: 1
 ---
 ## Navigation

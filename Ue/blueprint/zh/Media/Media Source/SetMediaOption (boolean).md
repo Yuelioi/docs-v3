@@ -1,5 +1,5 @@
 ---
-display_name: SetMediaOption (boolean)
+title: SetMediaOption (boolean)
 order: 2
 ---
 ## Navigation

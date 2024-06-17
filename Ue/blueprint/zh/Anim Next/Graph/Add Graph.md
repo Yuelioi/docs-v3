@@ -1,5 +1,5 @@
 ---
-display_name: Add Graph
+title: Add Graph
 order: 1
 ---
 ## Navigation

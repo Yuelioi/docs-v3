@@ -1,5 +1,5 @@
 ---
-display_name: Add Color Parameter Key
+title: Add Color Parameter Key
 order: 2
 ---
 ## Navigation

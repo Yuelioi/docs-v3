@@ -1,5 +1,5 @@
 ---
-display_name: sample_circle_edge_uniform
+title: sample_circle_edge_uniform
 order: 9
 ---
 `vector2  sample_circle_edge_uniform(float u)`

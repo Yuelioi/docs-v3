@@ -1,5 +1,5 @@
 ---
-display_name: Sort Breaking Events
+title: Sort Breaking Events
 order: 14
 ---
 ## Navigation

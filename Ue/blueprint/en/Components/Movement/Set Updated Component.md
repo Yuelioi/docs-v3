@@ -1,5 +1,5 @@
 ---
-display_name: Set Updated Component
+title: Set Updated Component
 order: 7
 ---
 ## Navigation

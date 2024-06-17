@@ -1,5 +1,5 @@
 ---
-display_name: Set Window Title Bar Close Button Active
+title: Set Window Title Bar Close Button Active
 order: 2
 ---
 ## Navigation

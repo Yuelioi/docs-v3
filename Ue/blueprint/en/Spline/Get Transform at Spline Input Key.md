@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform at Spline Input Key
+title: Get Transform at Spline Input Key
 order: 69
 ---
 ## Navigation

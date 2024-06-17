@@ -1,5 +1,5 @@
 ---
-display_name: Call Func Blueprint Native Ref
+title: Call Func Blueprint Native Ref
 order: 6
 ---
 ## Navigation

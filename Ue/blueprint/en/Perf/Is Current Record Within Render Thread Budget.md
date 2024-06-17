@@ -1,5 +1,5 @@
 ---
-display_name: Is Current Record Within Render Thread Budget
+title: Is Current Record Within Render Thread Budget
 order: 16
 ---
 ## Navigation

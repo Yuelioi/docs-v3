@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Key Frames
+title: Get Num Key Frames
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attach Parent Actor
+title: Get Attach Parent Actor
 order: 14
 ---
 ## Navigation

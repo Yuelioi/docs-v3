@@ -1,5 +1,5 @@
 ---
-display_name: Recompile VM
+title: Recompile VM
 order: 11
 ---
 ## Navigation

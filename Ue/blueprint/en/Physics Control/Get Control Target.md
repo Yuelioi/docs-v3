@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Target
+title: Get Control Target
 order: 45
 ---
 ## Navigation

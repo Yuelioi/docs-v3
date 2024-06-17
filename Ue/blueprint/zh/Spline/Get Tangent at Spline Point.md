@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent at Spline Point
+title: Get Tangent at Spline Point
 order: 65
 ---
 ## Navigation

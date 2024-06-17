@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Static Mesh DI Instance Index
+title: Set Niagara Static Mesh DI Instance Index
 order: 27
 ---
 ## Navigation

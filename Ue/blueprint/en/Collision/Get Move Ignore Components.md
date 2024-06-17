@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Ignore Components
+title: Get Move Ignore Components
 order: 30
 ---
 ## Navigation

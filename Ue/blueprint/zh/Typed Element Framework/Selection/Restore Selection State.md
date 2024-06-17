@@ -1,5 +1,5 @@
 ---
-display_name: Restore Selection State
+title: Restore Selection State
 order: 24
 ---
 ## Navigation

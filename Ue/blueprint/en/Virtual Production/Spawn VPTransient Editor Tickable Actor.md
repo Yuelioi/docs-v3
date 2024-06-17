@@ -1,5 +1,5 @@
 ---
-display_name: Spawn VPTransient Editor Tickable Actor
+title: Spawn VPTransient Editor Tickable Actor
 order: 26
 ---
 ## Navigation

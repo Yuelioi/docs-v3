@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Component
+title: Initialize Component
 order: 56
 ---
 ## Navigation

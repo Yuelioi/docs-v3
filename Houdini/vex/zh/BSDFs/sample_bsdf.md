@@ -1,5 +1,5 @@
 ---
-display_name: sample_bsdf
+title: sample_bsdf
 order: 19
 ---
 `void  sample_bsdf(bsdf F, vector viewer_u, vector &dir, vector &eval, int &type, float sx, float sy, ...)`

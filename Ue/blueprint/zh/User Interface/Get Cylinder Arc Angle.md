@@ -1,5 +1,5 @@
 ---
-display_name: Get Cylinder Arc Angle
+title: Get Cylinder Arc Angle
 order: 17
 ---
 ## Navigation

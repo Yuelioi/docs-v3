@@ -1,5 +1,5 @@
 ---
-display_name: Get Child Object Bindings
+title: Get Child Object Bindings
 order: 25
 ---
 ## Navigation

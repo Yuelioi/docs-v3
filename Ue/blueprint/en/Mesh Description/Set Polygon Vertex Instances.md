@@ -1,5 +1,5 @@
 ---
-display_name: Set Polygon Vertex Instances
+title: Set Polygon Vertex Instances
 order: 93
 ---
 ## Navigation

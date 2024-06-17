@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform Array Metadata
+title: Get Transform Array Metadata
 order: 85
 ---
 ## Navigation

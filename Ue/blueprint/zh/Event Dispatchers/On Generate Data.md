@@ -1,5 +1,5 @@
 ---
-display_name: On Generate Data
+title: On Generate Data
 order: 88
 ---
 ## Navigation

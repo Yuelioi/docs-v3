@@ -1,5 +1,5 @@
 ---
-display_name: Get Owning Player Controller
+title: Get Owning Player Controller
 order: 15
 ---
 ## Navigation

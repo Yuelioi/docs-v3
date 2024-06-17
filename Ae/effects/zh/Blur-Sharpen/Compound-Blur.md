@@ -1,5 +1,5 @@
 ---
-display_name: 复合模糊
+title: 复合模糊
 order: 9
 ---
 

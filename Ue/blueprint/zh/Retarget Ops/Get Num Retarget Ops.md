@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Retarget Ops
+title: Get Num Retarget Ops
 order: 5
 ---
 ## Navigation

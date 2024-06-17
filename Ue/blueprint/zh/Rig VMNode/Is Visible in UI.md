@@ -1,5 +1,5 @@
 ---
-display_name: Is Visible in UI
+title: Is Visible in UI
 order: 53
 ---
 ## Navigation

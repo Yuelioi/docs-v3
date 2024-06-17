@@ -1,5 +1,5 @@
 ---
-display_name: On Add Tracked Point
+title: On Add Tracked Point
 order: 7
 ---
 ## Navigation

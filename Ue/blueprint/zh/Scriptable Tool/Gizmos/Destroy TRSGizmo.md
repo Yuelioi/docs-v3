@@ -1,5 +1,5 @@
 ---
-display_name: Destroy TRSGizmo
+title: Destroy TRSGizmo
 order: 2
 ---
 ## Navigation

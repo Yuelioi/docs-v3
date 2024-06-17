@@ -1,5 +1,5 @@
 ---
-display_name: N
+title: N
 order: 64
 ---
 ## Navigation

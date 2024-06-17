@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Property
+title: Set Material Property
 order: 218
 ---
 ## Navigation

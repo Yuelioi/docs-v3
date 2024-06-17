@@ -1,5 +1,5 @@
 ---
-display_name: Save Dirty Packages with Dialog
+title: Save Dirty Packages with Dialog
 order: 11
 ---
 ## Navigation

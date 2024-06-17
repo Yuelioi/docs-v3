@@ -1,5 +1,5 @@
 ---
-display_name: Set Spectral Analysis Settings
+title: Set Spectral Analysis Settings
 order: 7
 ---
 ## Navigation

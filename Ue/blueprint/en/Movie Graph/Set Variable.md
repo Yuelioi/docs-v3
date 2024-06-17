@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable
+title: Set Variable
 order: 75
 ---
 ## Navigation

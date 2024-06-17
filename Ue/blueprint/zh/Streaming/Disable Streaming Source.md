@@ -1,5 +1,5 @@
 ---
-display_name: Disable Streaming Source
+title: Disable Streaming Source
 order: 1
 ---
 ## Navigation

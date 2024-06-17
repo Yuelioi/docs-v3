@@ -1,5 +1,5 @@
 ---
-display_name: Get Stage
+title: Get Stage
 order: 134
 ---
 ## Navigation

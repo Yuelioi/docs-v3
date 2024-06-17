@@ -1,5 +1,5 @@
 ---
-display_name: 模型 Mdel
+title: 模型 Mdel
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Is Plugin Mounted
+title: Is Plugin Mounted
 order: 13
 ---
 ## Navigation

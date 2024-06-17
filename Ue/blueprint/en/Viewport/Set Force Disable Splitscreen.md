@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Disable Splitscreen
+title: Set Force Disable Splitscreen
 order: 15
 ---
 ## Navigation

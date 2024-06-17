@@ -1,5 +1,5 @@
 ---
-display_name: getcomp
+title: getcomp
 order: 5
 ---
 `float  getcomp(<vector>v, int index)`

@@ -1,5 +1,5 @@
 ---
-display_name: Is Send DMXEnabled
+title: Is Send DMXEnabled
 order: 62
 ---
 ## Navigation

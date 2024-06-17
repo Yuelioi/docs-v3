@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Input Device
+title: Get Default Input Device
 order: 5
 ---
 ## Navigation

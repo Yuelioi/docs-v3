@@ -1,6 +1,6 @@
 ---
 order: 5
-display_name: VR降噪
+title: VR降噪
 ---
 
 # VR DeNoise - VR降噪

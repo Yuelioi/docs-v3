@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Vector4)
+title: Set Niagara Variable (Vector4)
 order: 45
 ---
 ## Navigation

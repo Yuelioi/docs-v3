@@ -1,5 +1,5 @@
 ---
-display_name: Get All Properties
+title: Get All Properties
 order: 1
 ---
 ## Navigation

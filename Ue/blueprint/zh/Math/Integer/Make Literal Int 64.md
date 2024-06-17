@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Int 64
+title: Make Literal Int 64
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Using Transform Gizmo
+title: Is Using Transform Gizmo
 order: 34
 ---
 ## Navigation

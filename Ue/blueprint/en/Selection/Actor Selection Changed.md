@@ -1,5 +1,5 @@
 ---
-display_name: Actor Selection Changed
+title: Actor Selection Changed
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Shot Display Name
+title: Set Shot Display Name
 order: 97
 ---
 ## Navigation

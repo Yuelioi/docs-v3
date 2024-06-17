@@ -1,5 +1,5 @@
 ---
-display_name: Play Slot Animation as Dynamic Montage with Blend Settings
+title: Play Slot Animation as Dynamic Montage with Blend Settings
 order: 32
 ---
 ## Navigation

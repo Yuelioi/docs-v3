@@ -1,5 +1,5 @@
 ---
-display_name: Mic
+title: Mic
 order: 1
 ---
 ## Navigation

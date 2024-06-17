@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Matrix)
+title: Assert Not Equal (Matrix)
 order: 22
 ---
 ## Navigation

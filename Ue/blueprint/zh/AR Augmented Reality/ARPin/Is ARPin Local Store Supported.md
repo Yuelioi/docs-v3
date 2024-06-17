@@ -1,5 +1,5 @@
 ---
-display_name: Is ARPin Local Store Supported
+title: Is ARPin Local Store Supported
 order: 3
 ---
 ## Navigation

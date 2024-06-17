@@ -1,5 +1,5 @@
 ---
-display_name: Get Sequence Path
+title: Get Sequence Path
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_isarraymetadata
+title: usd_isarraymetadata
 order: 65
 ---
 | Since | 18.0 |

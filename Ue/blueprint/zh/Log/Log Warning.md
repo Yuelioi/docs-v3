@@ -1,5 +1,5 @@
 ---
-display_name: Log Warning
+title: Log Warning
 order: 3
 ---
 ## Navigation

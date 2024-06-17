@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport Config Keys
+title: Get Viewport Config Keys
 order: 27
 ---
 ## Navigation

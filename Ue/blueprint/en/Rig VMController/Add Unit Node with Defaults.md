@@ -1,5 +1,5 @@
 ---
-display_name: Add Unit Node with Defaults
+title: Add Unit Node with Defaults
 order: 28
 ---
 ## Navigation

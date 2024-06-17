@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture Patches
+title: Get Fixture Patches
 order: 30
 ---
 ## Navigation

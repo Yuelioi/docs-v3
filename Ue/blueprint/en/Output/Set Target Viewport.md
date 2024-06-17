@@ -1,5 +1,5 @@
 ---
-display_name: Set Target Viewport
+title: Set Target Viewport
 order: 7
 ---
 ## Navigation

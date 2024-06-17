@@ -1,5 +1,5 @@
 ---
-display_name: Ghost
+title: Ghost
 order: 9
 ---
 ## Navigation

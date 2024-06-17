@@ -1,5 +1,5 @@
 ---
-display_name: 固态层合成
+title: 固态层合成
 order: 13
 ---
 

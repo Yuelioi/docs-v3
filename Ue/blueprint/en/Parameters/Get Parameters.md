@@ -1,5 +1,5 @@
 ---
-display_name: Get Parameters
+title: Get Parameters
 order: 1
 ---
 ## Navigation

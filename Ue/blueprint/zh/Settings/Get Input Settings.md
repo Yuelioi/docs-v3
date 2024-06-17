@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Settings
+title: Get Input Settings
 order: 46
 ---
 ## Navigation

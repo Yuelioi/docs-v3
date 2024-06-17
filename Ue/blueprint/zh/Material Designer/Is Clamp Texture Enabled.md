@@ -1,5 +1,5 @@
 ---
-display_name: Is Clamp Texture Enabled
+title: Is Clamp Texture Enabled
 order: 162
 ---
 ## Navigation

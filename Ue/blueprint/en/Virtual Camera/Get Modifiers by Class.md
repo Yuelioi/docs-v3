@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifiers by Class
+title: Get Modifiers by Class
 order: 29
 ---
 ## Navigation

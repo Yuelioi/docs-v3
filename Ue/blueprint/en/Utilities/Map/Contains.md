@@ -1,5 +1,5 @@
 ---
-display_name: Contains
+title: Contains
 order: 3
 ---
 ## Navigation

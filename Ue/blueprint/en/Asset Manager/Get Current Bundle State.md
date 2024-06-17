@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Bundle State
+title: Get Current Bundle State
 order: 8
 ---
 ## Navigation

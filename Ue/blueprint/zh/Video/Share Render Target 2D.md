@@ -1,5 +1,5 @@
 ---
-display_name: Share Render Target 2D
+title: Share Render Target 2D
 order: 14
 ---
 ## Navigation

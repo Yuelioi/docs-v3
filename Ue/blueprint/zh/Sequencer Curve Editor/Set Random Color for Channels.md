@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Color for Channels
+title: Set Random Color for Channels
 order: 13
 ---
 ## Navigation

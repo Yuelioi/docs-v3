@@ -1,5 +1,5 @@
 ---
-display_name: Reset Simulation
+title: Reset Simulation
 order: 4
 ---
 ## Navigation

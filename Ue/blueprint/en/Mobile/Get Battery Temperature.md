@@ -1,5 +1,5 @@
 ---
-display_name: Get Battery Temperature
+title: Get Battery Temperature
 order: 3
 ---
 ## Navigation

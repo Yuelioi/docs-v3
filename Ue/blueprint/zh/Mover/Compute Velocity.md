@@ -1,5 +1,5 @@
 ---
-display_name: Compute Velocity
+title: Compute Velocity
 order: 15
 ---
 ## Navigation

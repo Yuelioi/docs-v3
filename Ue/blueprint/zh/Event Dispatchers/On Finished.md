@@ -1,5 +1,5 @@
 ---
-display_name: On Finished
+title: On Finished
 order: 85
 ---
 ## Navigation

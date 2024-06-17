@@ -1,5 +1,5 @@
 ---
-display_name: Set Focal Length
+title: Set Focal Length
 order: 10
 ---
 ## Navigation

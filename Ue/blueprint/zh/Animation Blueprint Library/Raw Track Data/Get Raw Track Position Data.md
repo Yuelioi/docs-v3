@@ -1,5 +1,5 @@
 ---
-display_name: Get Raw Track Position Data
+title: Get Raw Track Position Data
 order: 2
 ---
 ## Navigation

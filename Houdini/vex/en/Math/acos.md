@@ -1,5 +1,5 @@
 ---
-display_name: acos
+title: acos
 order: 5
 ---
 `float  acos(float v)`

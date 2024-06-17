@@ -1,5 +1,5 @@
 ---
-display_name: Integer to Audio Parameter
+title: Integer to Audio Parameter
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Head Transform
+title: Get Head Transform
 order: 10
 ---
 ## Navigation

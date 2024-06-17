@@ -1,5 +1,5 @@
 ---
-display_name: Translate Scene
+title: Translate Scene
 order: 5
 ---
 ## Navigation

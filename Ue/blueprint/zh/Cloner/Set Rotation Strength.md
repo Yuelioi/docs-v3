@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotation Strength
+title: Set Rotation Strength
 order: 53
 ---
 ## Navigation

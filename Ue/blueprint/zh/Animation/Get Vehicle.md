@@ -1,5 +1,5 @@
 ---
-display_name: Get Vehicle
+title: Get Vehicle
 order: 41
 ---
 ## Navigation

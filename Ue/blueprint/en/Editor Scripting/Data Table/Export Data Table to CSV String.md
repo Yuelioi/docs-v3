@@ -1,5 +1,5 @@
 ---
-display_name: Export Data Table to CSV String
+title: Export Data Table to CSV String
 order: 3
 ---
 ## Navigation

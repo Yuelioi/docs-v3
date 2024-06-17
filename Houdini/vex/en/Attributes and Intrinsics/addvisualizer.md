@@ -1,5 +1,5 @@
 ---
-display_name: addvisualizer
+title: addvisualizer
 order: 6
 ---
 This function creates the `visualizer` detail string array attribute if it doesn’t exist, then appends the given visualizer string to it. If the visualizer string already exists in the array, the function does not add it again.

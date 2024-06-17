@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic State
+title: Set Dynamic State
 order: 17
 ---
 ## Navigation

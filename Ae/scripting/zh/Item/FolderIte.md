@@ -1,5 +1,5 @@
 ---
-display_name: FolderItem
+title: FolderItem
 order: 3
 ---
 

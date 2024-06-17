@@ -1,5 +1,5 @@
 ---
-display_name: Open Bracket (Message)
+title: Open Bracket (Message)
 order: 7
 ---
 ## Navigation

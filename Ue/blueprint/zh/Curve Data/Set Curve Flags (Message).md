@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Flags (Message)
+title: Set Curve Flags (Message)
 order: 23
 ---
 ## Navigation

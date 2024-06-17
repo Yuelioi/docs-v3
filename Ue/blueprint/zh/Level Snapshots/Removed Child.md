@@ -1,5 +1,5 @@
 ---
-display_name: Removed Child
+title: Removed Child
 order: 26
 ---
 ## Navigation

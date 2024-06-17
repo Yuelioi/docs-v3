@@ -1,5 +1,5 @@
 ---
-display_name: Set Comment Text by Name
+title: Set Comment Text by Name
 order: 101
 ---
 ## Navigation

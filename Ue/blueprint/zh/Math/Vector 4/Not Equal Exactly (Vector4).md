@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal Exactly (Vector4)
+title: Not Equal Exactly (Vector4)
 order: 17
 ---
 ## Navigation

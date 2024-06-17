@@ -1,5 +1,5 @@
 ---
-display_name: Set Actor Niagara GPURay Traced Collision Group
+title: Set Actor Niagara GPURay Traced Collision Group
 order: 9
 ---
 ## Navigation

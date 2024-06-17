@@ -1,5 +1,5 @@
 ---
-display_name: Prime Sound
+title: Prime Sound
 order: 44
 ---
 ## Navigation

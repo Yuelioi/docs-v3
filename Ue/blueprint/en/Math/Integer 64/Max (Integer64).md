@@ -1,5 +1,5 @@
 ---
-display_name: Max (Integer64)
+title: Max (Integer64)
 order: 9
 ---
 ## Navigation

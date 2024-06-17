@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Newest Data Time
+title: Get Input Newest Data Time
 order: 16
 ---
 ## Navigation

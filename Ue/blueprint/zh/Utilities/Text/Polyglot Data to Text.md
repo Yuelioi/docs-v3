@@ -1,5 +1,5 @@
 ---
-display_name: Polyglot Data to Text
+title: Polyglot Data to Text
 order: 28
 ---
 ## Navigation

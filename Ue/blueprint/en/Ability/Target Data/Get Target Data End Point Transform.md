@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Data End Point Transform
+title: Get Target Data End Point Transform
 order: 12
 ---
 ## Navigation

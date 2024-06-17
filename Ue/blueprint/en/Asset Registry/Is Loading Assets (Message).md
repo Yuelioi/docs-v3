@@ -1,5 +1,5 @@
 ---
-display_name: Is Loading Assets (Message)
+title: Is Loading Assets (Message)
 order: 32
 ---
 ## Navigation

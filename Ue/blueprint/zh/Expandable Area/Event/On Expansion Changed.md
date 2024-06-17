@@ -1,5 +1,5 @@
 ---
-display_name: On Expansion Changed
+title: On Expansion Changed
 order: 1
 ---
 ## Navigation

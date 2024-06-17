@@ -1,5 +1,5 @@
 ---
-display_name: 颜色平衡
+title: 颜色平衡
 order: 14
 ---
 

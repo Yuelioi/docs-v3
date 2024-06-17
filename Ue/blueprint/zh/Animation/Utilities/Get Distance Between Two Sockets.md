@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance Between Two Sockets
+title: Get Distance Between Two Sockets
 order: 13
 ---
 ## Navigation

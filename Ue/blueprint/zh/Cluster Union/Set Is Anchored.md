@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Anchored
+title: Set Is Anchored
 order: 7
 ---
 ## Navigation

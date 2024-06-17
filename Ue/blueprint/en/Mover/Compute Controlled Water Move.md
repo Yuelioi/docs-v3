@@ -1,5 +1,5 @@
 ---
-display_name: Compute Controlled Water Move
+title: Compute Controlled Water Move
 order: 9
 ---
 ## Navigation

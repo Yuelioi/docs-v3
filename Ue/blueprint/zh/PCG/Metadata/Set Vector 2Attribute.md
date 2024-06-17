@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector 2Attribute
+title: Set Vector 2Attribute
 order: 99
 ---
 ## Navigation

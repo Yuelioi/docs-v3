@@ -1,5 +1,5 @@
 ---
-display_name: Create MetaSound String Array Literal
+title: Create MetaSound String Array Literal
 order: 11
 ---
 ## Navigation

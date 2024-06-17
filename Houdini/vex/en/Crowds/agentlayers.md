@@ -1,5 +1,5 @@
 ---
-display_name: agentlayers
+title: agentlayers
 order: 28
 ---
 `string [] agentlayers(<geometry>geometry, int prim)`

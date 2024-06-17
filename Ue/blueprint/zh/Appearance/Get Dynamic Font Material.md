@@ -1,5 +1,5 @@
 ---
-display_name: Get Dynamic Font Material
+title: Get Dynamic Font Material
 order: 3
 ---
 ## Navigation

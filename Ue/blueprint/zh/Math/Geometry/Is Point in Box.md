@@ -1,5 +1,5 @@
 ---
-display_name: Is Point in Box
+title: Is Point in Box
 order: 8
 ---
 ## Navigation

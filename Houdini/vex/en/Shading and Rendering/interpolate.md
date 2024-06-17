@@ -1,5 +1,5 @@
 ---
-display_name: interpolate
+title: interpolate
 order: 39
 ---
 `float  interpolate(float val, float sx, float sy)`

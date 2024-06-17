@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Texture
+title: Get AR Texture
 order: 1
 ---
 ## Navigation

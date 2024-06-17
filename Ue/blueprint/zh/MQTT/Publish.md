@@ -1,5 +1,5 @@
 ---
-display_name: Publish
+title: Publish
 order: 10
 ---
 ## Navigation

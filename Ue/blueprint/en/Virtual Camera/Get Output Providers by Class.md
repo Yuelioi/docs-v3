@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Providers by Class
+title: Get Output Providers by Class
 order: 35
 ---
 ## Navigation

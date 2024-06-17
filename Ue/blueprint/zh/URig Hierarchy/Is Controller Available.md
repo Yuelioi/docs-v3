@@ -1,5 +1,5 @@
 ---
-display_name: Is Controller Available
+title: Is Controller Available
 order: 94
 ---
 ## Navigation

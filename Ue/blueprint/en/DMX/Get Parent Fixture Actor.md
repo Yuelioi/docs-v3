@@ -1,5 +1,5 @@
 ---
-display_name: Get Parent Fixture Actor
+title: Get Parent Fixture Actor
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Reroute Node on Link
+title: Add Reroute Node on Link
 order: 22
 ---
 ## Navigation

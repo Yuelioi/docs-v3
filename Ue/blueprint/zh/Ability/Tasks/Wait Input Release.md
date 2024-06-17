@@ -1,5 +1,5 @@
 ---
-display_name: Wait Input Release
+title: Wait Input Release
 order: 38
 ---
 ## Navigation

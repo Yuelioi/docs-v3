@@ -1,5 +1,5 @@
 ---
-display_name: Delete Directory
+title: Delete Directory
 order: 2
 ---
 ## Navigation

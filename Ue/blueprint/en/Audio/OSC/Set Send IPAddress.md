@@ -1,5 +1,5 @@
 ---
-display_name: Set Send IPAddress
+title: Set Send IPAddress
 order: 72
 ---
 ## Navigation

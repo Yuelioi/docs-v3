@@ -1,5 +1,5 @@
 ---
-display_name: Add Widgets
+title: Add Widgets
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Material Override
+title: Remove Material Override
 order: 95
 ---
 ## Navigation

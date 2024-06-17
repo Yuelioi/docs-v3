@@ -1,5 +1,5 @@
 ---
-display_name: Execute Console Command
+title: Execute Console Command
 order: 38
 ---
 ## Navigation

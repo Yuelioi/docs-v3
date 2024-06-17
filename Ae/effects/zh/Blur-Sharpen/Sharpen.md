@@ -1,5 +1,5 @@
 ---
-display_name: 锐化
+title: 锐化
 order: 14
 ---
 

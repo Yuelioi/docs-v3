@@ -1,5 +1,5 @@
 ---
-display_name: Set Mie Absorption Scale
+title: Set Mie Absorption Scale
 order: 58
 ---
 ## Navigation

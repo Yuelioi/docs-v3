@@ -1,5 +1,5 @@
 ---
-display_name: Make Map Observation
+title: Make Map Observation
 order: 204
 ---
 ## Navigation

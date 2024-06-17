@@ -1,5 +1,5 @@
 ---
-display_name: Request Slot Group Inertialization
+title: Request Slot Group Inertialization
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Parameters
+title: Parameters
 order: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Add Variable
+title: Add Variable
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Focusable
+title: Get Is Focusable
 order: 7
 ---
 ## Navigation

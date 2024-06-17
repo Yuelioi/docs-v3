@@ -1,5 +1,5 @@
 ---
-display_name: Load Asset
+title: Load Asset
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Point Num
+title: Get Total Point Num
 order: 18
 ---
 ## Navigation

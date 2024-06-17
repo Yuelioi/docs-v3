@@ -1,5 +1,5 @@
 ---
-display_name: PF_OutData
+title: PF_OutData
 order: 7
 ---
 

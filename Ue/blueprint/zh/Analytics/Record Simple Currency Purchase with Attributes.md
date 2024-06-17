@@ -1,5 +1,5 @@
 ---
-display_name: Record Simple Currency Purchase with Attributes
+title: Record Simple Currency Purchase with Attributes
 order: 18
 ---
 ## Navigation

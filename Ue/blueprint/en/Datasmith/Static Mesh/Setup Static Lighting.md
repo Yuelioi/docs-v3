@@ -1,5 +1,5 @@
 ---
-display_name: Setup Static Lighting
+title: Setup Static Lighting
 order: 2
 ---
 ## Navigation

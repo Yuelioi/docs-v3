@@ -1,5 +1,5 @@
 ---
-display_name: Camera
+title: Camera
 order: 18
 ---
 ## Navigation

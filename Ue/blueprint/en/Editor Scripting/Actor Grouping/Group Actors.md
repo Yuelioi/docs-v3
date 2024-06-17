@@ -1,5 +1,5 @@
 ---
-display_name: Group Actors
+title: Group Actors
 order: 5
 ---
 ## Navigation

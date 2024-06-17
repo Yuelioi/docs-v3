@@ -1,5 +1,5 @@
 ---
-display_name: Auto Follow
+title: Auto Follow
 order: 2
 ---
 ## Navigation

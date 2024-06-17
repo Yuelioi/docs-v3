@@ -1,5 +1,5 @@
 ---
-display_name: Create Node by Class
+title: Create Node by Class
 order: 5
 ---
 ## Navigation

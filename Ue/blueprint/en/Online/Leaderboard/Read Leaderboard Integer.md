@@ -1,5 +1,5 @@
 ---
-display_name: Read Leaderboard Integer
+title: Read Leaderboard Integer
 order: 2
 ---
 ## Navigation

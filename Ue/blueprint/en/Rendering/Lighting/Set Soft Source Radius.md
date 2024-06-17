@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Source Radius
+title: Set Soft Source Radius
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Controller Pitch Input
+title: Add Controller Pitch Input
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enable Section Collision
+title: Enable Section Collision
 order: 7
 ---
 ## Navigation

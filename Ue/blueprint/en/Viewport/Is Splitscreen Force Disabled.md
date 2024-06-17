@@ -1,5 +1,5 @@
 ---
-display_name: Is Splitscreen Force Disabled
+title: Is Splitscreen Force Disabled
 order: 11
 ---
 ## Navigation

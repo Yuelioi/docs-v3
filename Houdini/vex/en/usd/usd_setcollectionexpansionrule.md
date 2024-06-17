@@ -1,5 +1,5 @@
 ---
-display_name: usd_setcollectionexpansionrule
+title: usd_setcollectionexpansionrule
 order: 126
 ---
 | Since | 18.0 |

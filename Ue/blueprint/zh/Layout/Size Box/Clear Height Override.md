@@ -1,5 +1,5 @@
 ---
-display_name: Clear Height Override
+title: Clear Height Override
 order: 1
 ---
 ## Navigation

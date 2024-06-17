@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaMaskEditorWorldSubsystem
+title: Get AvaMaskEditorWorldSubsystem
 order: 7
 ---
 ## Navigation

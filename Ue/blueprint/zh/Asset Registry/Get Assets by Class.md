@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Class
+title: Get Assets by Class
 order: 11
 ---
 ## Navigation

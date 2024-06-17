@@ -1,5 +1,5 @@
 ---
-display_name: Add Float Curve Keys
+title: Add Float Curve Keys
 order: 3
 ---
 ## Navigation

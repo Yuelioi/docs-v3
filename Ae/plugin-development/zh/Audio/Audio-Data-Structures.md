@@ -1,5 +1,5 @@
 ---
-display_name: Audio-Data-Structures
+title: Audio-Data-Structures
 order: 3
 ---
 

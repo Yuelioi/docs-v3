@@ -1,5 +1,5 @@
 ---
-display_name: Cloud Dir
+title: Cloud Dir
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Alignment Transform
+title: Calculate Alignment Transform
 order: 1
 ---
 ## Navigation

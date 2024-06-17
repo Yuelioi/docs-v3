@@ -1,5 +1,5 @@
 ---
-display_name: Pause Timer by Function Name
+title: Pause Timer by Function Name
 order: 24
 ---
 ## Navigation

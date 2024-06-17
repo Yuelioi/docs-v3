@@ -1,5 +1,5 @@
 ---
-display_name: Make an In-App Purchase v2
+title: Make an In-App Purchase v2
 order: 3
 ---
 ## Navigation

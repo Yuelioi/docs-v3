@@ -1,5 +1,5 @@
 ---
-display_name: On New Actors Placed
+title: On New Actors Placed
 order: 47
 ---
 ## Navigation

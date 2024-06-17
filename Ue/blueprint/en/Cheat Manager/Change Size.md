@@ -1,5 +1,5 @@
 ---
-display_name: Change Size
+title: Change Size
 order: 1
 ---
 ## Navigation

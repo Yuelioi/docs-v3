@@ -1,5 +1,5 @@
 ---
-display_name: Is Rotation Grid Snapping Enabled
+title: Is Rotation Grid Snapping Enabled
 order: 31
 ---
 ## Navigation

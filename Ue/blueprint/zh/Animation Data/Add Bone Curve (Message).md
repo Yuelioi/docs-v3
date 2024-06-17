@@ -1,5 +1,5 @@
 ---
-display_name: Add Bone Curve (Message)
+title: Add Bone Curve (Message)
 order: 1
 ---
 ## Navigation

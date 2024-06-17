@@ -1,5 +1,5 @@
 ---
-display_name: Input Cancel
+title: Input Cancel
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Copy Normalized Elements
+title: Copy Normalized Elements
 order: 2
 ---
 ## Navigation

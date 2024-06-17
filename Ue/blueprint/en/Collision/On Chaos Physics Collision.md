@@ -1,5 +1,5 @@
 ---
-display_name: On Chaos Physics Collision
+title: On Chaos Physics Collision
 order: 61
 ---
 ## Navigation

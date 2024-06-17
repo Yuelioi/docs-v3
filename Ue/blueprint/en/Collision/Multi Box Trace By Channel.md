@@ -1,5 +1,5 @@
 ---
-display_name: Multi Box Trace By Channel
+title: Multi Box Trace By Channel
 order: 46
 ---
 ## Navigation

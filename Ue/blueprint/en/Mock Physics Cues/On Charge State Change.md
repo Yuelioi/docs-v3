@@ -1,5 +1,5 @@
 ---
-display_name: On Charge State Change
+title: On Charge State Change
 order: 2
 ---
 ## Navigation

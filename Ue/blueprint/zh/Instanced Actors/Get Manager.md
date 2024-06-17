@@ -1,5 +1,5 @@
 ---
-display_name: Get Manager
+title: Get Manager
 order: 1
 ---
 ## Navigation

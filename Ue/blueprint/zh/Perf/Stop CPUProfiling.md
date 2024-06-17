@@ -1,5 +1,5 @@
 ---
-display_name: Stop CPUProfiling
+title: Stop CPUProfiling
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Buffer
+title: Resolve Buffer
 order: 9
 ---
 ## Navigation

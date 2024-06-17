@@ -1,5 +1,5 @@
 ---
-display_name: Apply Damage
+title: Apply Damage
 order: 1
 ---
 ## Navigation

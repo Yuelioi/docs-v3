@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Cylinder
+title: Draw Debug Cylinder
 order: 9
 ---
 ## Navigation

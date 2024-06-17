@@ -1,5 +1,5 @@
 ---
-display_name: Default Render Device Changed
+title: Default Render Device Changed
 order: 2
 ---
 ## Navigation

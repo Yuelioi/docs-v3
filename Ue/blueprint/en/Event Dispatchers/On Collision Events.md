@@ -1,5 +1,5 @@
 ---
-display_name: On Collision Events
+title: On Collision Events
 order: 63
 ---
 ## Navigation

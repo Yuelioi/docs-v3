@@ -1,5 +1,5 @@
 ---
-display_name: Set Screen Resolution
+title: Set Screen Resolution
 order: 130
 ---
 ## Navigation

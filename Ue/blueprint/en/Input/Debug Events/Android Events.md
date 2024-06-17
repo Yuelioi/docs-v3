@@ -1,5 +1,5 @@
 ---
-display_name: Android Events
+title: Android Events
 order: 1
 ---
 ## Navigation

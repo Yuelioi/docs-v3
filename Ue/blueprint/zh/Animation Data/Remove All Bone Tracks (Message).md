@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Bone Tracks (Message)
+title: Remove All Bone Tracks (Message)
 order: 9
 ---
 ## Navigation

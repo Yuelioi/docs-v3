@@ -1,5 +1,5 @@
 ---
-display_name: Get CPUCore Utilization
+title: Get CPUCore Utilization
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enabled (Message)
+title: Get Enabled (Message)
 order: 1
 ---
 ## Navigation

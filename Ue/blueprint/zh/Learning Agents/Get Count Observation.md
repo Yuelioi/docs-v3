@@ -1,5 +1,5 @@
 ---
-display_name: Get Count Observation
+title: Get Count Observation
 order: 50
 ---
 ## Navigation

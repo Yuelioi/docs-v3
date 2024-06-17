@@ -1,5 +1,5 @@
 ---
-display_name: Add Log Message
+title: Add Log Message
 order: 1
 ---
 ## Navigation

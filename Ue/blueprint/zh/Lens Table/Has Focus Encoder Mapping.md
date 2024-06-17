@@ -1,5 +1,5 @@
 ---
-display_name: Has Focus Encoder Mapping
+title: Has Focus Encoder Mapping
 order: 19
 ---
 ## Navigation

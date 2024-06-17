@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Opacity
+title: Get Render Opacity
 order: 35
 ---
 ## Navigation

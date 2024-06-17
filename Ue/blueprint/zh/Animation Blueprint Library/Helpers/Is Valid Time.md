@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Time
+title: Is Valid Time
 order: 9
 ---
 ## Navigation

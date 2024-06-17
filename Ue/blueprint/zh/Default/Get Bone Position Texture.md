@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Position Texture
+title: Get Bone Position Texture
 order: 3
 ---
 ## Navigation

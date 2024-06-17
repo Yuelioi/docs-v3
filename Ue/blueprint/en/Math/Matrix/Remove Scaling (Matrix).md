@@ -1,5 +1,5 @@
 ---
-display_name: Remove Scaling (Matrix)
+title: Remove Scaling (Matrix)
 order: 29
 ---
 ## Navigation

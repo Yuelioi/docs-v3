@@ -1,5 +1,5 @@
 ---
-display_name: Rename Layer
+title: Rename Layer
 order: 35
 ---
 ## Navigation

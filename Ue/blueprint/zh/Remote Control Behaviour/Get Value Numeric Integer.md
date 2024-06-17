@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Numeric Integer
+title: Get Value Numeric Integer
 order: 13
 ---
 ## Navigation

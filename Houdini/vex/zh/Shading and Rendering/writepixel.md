@@ -1,5 +1,5 @@
 ---
-display_name: writepixel
+title: writepixel
 order: 82
 ---
 | Context(s) | [shading](../contexts/shading.html) |

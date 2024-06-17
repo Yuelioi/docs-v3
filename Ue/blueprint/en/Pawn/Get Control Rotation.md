@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Rotation
+title: Get Control Rotation
 order: 5
 ---
 ## Navigation

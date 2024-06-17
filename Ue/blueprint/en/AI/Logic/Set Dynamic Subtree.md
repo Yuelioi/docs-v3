@@ -1,5 +1,5 @@
 ---
-display_name: Set Dynamic Subtree
+title: Set Dynamic Subtree
 order: 6
 ---
 ## Navigation

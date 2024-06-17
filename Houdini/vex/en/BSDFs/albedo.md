@@ -1,5 +1,5 @@
 ---
-display_name: albedo
+title: albedo
 order: 1
 ---
 `vector  albedo(bsdf b, ...)`

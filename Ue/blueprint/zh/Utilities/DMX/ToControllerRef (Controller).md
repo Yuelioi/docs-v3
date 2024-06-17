@@ -1,5 +1,5 @@
 ---
-display_name: ToControllerRef (Controller)
+title: ToControllerRef (Controller)
 order: 2
 ---
 ## Navigation

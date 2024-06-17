@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Terminal Node by Name
+title: Evaluate Terminal Node by Name
 order: 1
 ---
 ## Navigation

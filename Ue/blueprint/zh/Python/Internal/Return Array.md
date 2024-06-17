@@ -1,5 +1,5 @@
 ---
-display_name: Return Array
+title: Return Array
 order: 49
 ---
 ## Navigation

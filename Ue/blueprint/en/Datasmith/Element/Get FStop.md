@@ -1,5 +1,5 @@
 ---
-display_name: Get FStop
+title: Get FStop
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Actor Valid for Data Layer Instances
+title: Is Actor Valid for Data Layer Instances
 order: 26
 ---
 ## Navigation

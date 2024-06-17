@@ -1,5 +1,5 @@
 ---
-display_name: Get StormSyncImportSubsystem
+title: Get StormSyncImportSubsystem
 order: 43
 ---
 ## Navigation

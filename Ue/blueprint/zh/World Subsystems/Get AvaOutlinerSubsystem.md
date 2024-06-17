@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaOutlinerSubsystem
+title: Get AvaOutlinerSubsystem
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Expected Log Error
+title: Add Expected Log Error
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Chain Settings in Retarget Profile
+title: Set Chain Settings in Retarget Profile
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Property Names
+title: Set Selected Property Names
 order: 8
 ---
 ## Navigation

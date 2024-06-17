@@ -1,5 +1,5 @@
 ---
-display_name: hedge_prim
+title: hedge_prim
 order: 14
 ---
 `int  hedge_prim(<geometry>geometry, int hedge)`

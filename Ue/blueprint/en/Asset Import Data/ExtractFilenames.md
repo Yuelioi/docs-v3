@@ -1,5 +1,5 @@
 ---
-display_name: ExtractFilenames
+title: ExtractFilenames
 order: 1
 ---
 ## Navigation

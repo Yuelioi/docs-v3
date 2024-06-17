@@ -1,5 +1,5 @@
 ---
-display_name: Get Gizmo Transform
+title: Get Gizmo Transform
 order: 3
 ---
 ## Navigation

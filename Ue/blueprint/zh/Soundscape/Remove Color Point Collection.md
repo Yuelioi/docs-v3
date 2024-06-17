@@ -1,5 +1,5 @@
 ---
-display_name: Remove Color Point Collection
+title: Remove Color Point Collection
 order: 7
 ---
 ## Navigation

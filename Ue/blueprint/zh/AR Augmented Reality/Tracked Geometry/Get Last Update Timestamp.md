@@ -1,5 +1,5 @@
 ---
-display_name: Get Last Update Timestamp
+title: Get Last Update Timestamp
 order: 3
 ---
 ## Navigation

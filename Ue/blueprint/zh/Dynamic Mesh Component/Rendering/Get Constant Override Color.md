@@ -1,5 +1,5 @@
 ---
-display_name: Get Constant Override Color
+title: Get Constant Override Color
 order: 2
 ---
 ## Navigation

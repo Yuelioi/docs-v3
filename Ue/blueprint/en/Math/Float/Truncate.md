@@ -1,5 +1,5 @@
 ---
-display_name: Truncate
+title: Truncate
 order: 42
 ---
 ## Navigation

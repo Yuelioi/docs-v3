@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Tick in Editor
+title: Set Component Tick in Editor
 order: 26
 ---
 ## Navigation

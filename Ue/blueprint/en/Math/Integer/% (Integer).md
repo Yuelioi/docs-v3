@@ -1,5 +1,5 @@
 ---
-display_name: % (Integer)
+title: % (Integer)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Local Boolean
+title: Local Boolean
 order: 14
 ---
 ## Navigation

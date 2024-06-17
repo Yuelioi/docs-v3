@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Modifiers
+title: Get Active Modifiers
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Desired Width
+title: Set Max Desired Width
 order: 12
 ---
 ## Navigation

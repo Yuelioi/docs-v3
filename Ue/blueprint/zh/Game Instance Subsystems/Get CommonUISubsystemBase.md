@@ -1,5 +1,5 @@
 ---
-display_name: Get CommonUISubsystemBase
+title: Get CommonUISubsystemBase
 order: 1
 ---
 ## Navigation

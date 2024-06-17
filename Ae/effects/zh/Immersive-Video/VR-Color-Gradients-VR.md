@@ -1,5 +1,5 @@
 ---
-display_name: VR颜色渐变
+title: VR颜色渐变
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Add Body Modifiers to Set
+title: Add Body Modifiers to Set
 order: 2
 ---
 ## Navigation

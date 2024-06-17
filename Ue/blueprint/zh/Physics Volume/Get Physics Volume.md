@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics Volume
+title: Get Physics Volume
 order: 1
 ---
 ## Navigation

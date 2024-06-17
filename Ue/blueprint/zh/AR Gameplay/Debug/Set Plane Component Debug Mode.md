@@ -1,5 +1,5 @@
 ---
-display_name: Set Plane Component Debug Mode
+title: Set Plane Component Debug Mode
 order: 6
 ---
 ## Navigation

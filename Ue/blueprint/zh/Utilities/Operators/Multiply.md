@@ -1,5 +1,5 @@
 ---
-display_name: Multiply
+title: Multiply
 order: 8
 ---
 ## Navigation

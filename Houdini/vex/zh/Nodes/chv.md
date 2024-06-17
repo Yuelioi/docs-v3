@@ -1,5 +1,5 @@
 ---
-display_name: chv
+title: chv
 order: 20
 ---
 `vector  chv(string channel)`

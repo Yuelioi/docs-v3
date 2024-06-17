@@ -1,5 +1,5 @@
 ---
-display_name: Disable
+title: Disable
 order: 7
 ---
 ## Navigation

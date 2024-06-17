@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Animation Notify Tracks
+title: Remove All Animation Notify Tracks
 order: 5
 ---
 ## Navigation

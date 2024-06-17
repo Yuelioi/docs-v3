@@ -1,5 +1,5 @@
 ---
-display_name: Apply Simplify to Planar
+title: Apply Simplify to Planar
 order: 1
 ---
 ## Navigation

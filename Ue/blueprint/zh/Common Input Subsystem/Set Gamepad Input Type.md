@@ -1,5 +1,5 @@
 ---
-display_name: Set Gamepad Input Type
+title: Set Gamepad Input Type
 order: 8
 ---
 ## Navigation

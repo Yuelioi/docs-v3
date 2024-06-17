@@ -1,5 +1,5 @@
 ---
-display_name: Simple Move to Actor
+title: Simple Move to Actor
 order: 44
 ---
 ## Navigation

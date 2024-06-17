@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion on Condition
+title: Make Completion on Condition
 order: 161
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Enumerate Motion Sources
+title: Enumerate Motion Sources
 order: 8
 ---
 ## Navigation

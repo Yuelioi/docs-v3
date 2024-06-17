@@ -1,5 +1,5 @@
 ---
-display_name: Remove Transform Curve Key
+title: Remove Transform Curve Key
 order: 12
 ---
 ## Navigation

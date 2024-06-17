@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Bool
+title: Make Control Value from Bool
 order: 102
 ---
 ## Navigation

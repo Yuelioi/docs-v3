@@ -1,5 +1,5 @@
 ---
-display_name: SetLocationStabilization
+title: SetLocationStabilization
 order: 76
 ---
 ## Navigation

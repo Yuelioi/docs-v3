@@ -1,5 +1,5 @@
 ---
-display_name: Subtract
+title: Subtract
 order: 19
 ---
 ## Navigation

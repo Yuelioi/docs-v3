@@ -1,5 +1,5 @@
 ---
-display_name: Predict Projectile Path By ObjectType
+title: Predict Projectile Path By ObjectType
 order: 35
 ---
 ## Navigation

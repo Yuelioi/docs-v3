@@ -1,5 +1,5 @@
 ---
-display_name: Export Texture 2D
+title: Export Texture 2D
 order: 6
 ---
 ## Navigation

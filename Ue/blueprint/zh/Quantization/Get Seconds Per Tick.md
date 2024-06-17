@@ -1,5 +1,5 @@
 ---
-display_name: Get Seconds Per Tick
+title: Get Seconds Per Tick
 order: 4
 ---
 ## Navigation

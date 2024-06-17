@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh Asset
+title: Set Skeletal Mesh Asset
 order: 27
 ---
 ## Navigation

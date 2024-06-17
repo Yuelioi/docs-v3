@@ -1,5 +1,5 @@
 ---
-display_name: Load Selected Objects
+title: Load Selected Objects
 order: 25
 ---
 ## Navigation

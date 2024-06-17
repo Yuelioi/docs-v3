@@ -1,5 +1,5 @@
 ---
-display_name: On Ice Disconnection
+title: On Ice Disconnection
 order: 15
 ---
 ## Navigation

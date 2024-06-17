@@ -1,5 +1,5 @@
 ---
-display_name: Spawn and Register Tab with Id Generated Class
+title: Spawn and Register Tab with Id Generated Class
 order: 31
 ---
 ## Navigation

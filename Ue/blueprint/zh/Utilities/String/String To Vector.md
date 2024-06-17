@@ -1,5 +1,5 @@
 ---
-display_name: String To Vector
+title: String To Vector
 order: 54
 ---
 ## Navigation

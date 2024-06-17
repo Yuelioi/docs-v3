@@ -1,5 +1,5 @@
 ---
-display_name: Capture Scene Async
+title: Capture Scene Async
 order: 1
 ---
 ## Navigation

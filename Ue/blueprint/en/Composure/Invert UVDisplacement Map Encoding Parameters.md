@@ -1,5 +1,5 @@
 ---
-display_name: Invert UVDisplacement Map Encoding Parameters
+title: Invert UVDisplacement Map Encoding Parameters
 order: 3
 ---
 ## Navigation

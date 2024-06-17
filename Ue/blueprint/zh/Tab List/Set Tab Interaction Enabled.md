@@ -1,5 +1,5 @@
 ---
-display_name: Set Tab Interaction Enabled
+title: Set Tab Interaction Enabled
 order: 19
 ---
 ## Navigation

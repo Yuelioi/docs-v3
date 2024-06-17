@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Poly Line with Distances
+title: Convert Spline to Poly Line with Distances
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Hint Text
+title: Set Hint Text
 order: 15
 ---
 ## Navigation

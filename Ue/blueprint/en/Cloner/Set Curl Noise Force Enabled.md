@@ -1,5 +1,5 @@
 ---
-display_name: Set Curl Noise Force Enabled
+title: Set Curl Noise Force Enabled
 order: 17
 ---
 ## Navigation

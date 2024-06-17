@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Seed Offset
+title: Set Random Seed Offset
 order: 61
 ---
 ## Navigation

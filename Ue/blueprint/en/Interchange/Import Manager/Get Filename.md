@@ -1,5 +1,5 @@
 ---
-display_name: Get Filename
+title: Get Filename
 order: 2
 ---
 ## Navigation

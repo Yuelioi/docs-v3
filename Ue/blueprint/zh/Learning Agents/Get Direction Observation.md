@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction Observation
+title: Get Direction Observation
 order: 55
 ---
 ## Navigation

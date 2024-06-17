@@ -1,5 +1,5 @@
 ---
-display_name: Setup Default Materials
+title: Setup Default Materials
 order: 7
 ---
 ## Navigation

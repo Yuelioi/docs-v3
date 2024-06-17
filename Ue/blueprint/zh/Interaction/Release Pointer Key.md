@@ -1,5 +1,5 @@
 ---
-display_name: Release Pointer Key
+title: Release Pointer Key
 order: 15
 ---
 ## Navigation

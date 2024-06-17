@@ -1,5 +1,5 @@
 ---
-display_name: Take Recorder Pre Initialize
+title: Take Recorder Pre Initialize
 order: 30
 ---
 ## Navigation

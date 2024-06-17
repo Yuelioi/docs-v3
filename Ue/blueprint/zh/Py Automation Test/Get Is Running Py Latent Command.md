@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Running Py Latent Command
+title: Get Is Running Py Latent Command
 order: 1
 ---
 ## Navigation

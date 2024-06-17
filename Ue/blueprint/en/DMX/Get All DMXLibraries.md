@@ -1,5 +1,5 @@
 ---
-display_name: Get All DMXLibraries
+title: Get All DMXLibraries
 order: 29
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Component Bones from Cluster
+title: Remove Component Bones from Cluster
 order: 4
 ---
 ## Navigation

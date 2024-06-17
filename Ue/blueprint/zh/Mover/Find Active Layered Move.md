@@ -1,5 +1,5 @@
 ---
-display_name: Find Active Layered Move
+title: Find Active Layered Move
 order: 4
 ---
 ## Navigation

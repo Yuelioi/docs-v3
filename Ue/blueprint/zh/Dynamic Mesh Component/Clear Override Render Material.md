@@ -1,5 +1,5 @@
 ---
-display_name: Clear Override Render Material
+title: Clear Override Render Material
 order: 1
 ---
 ## Navigation

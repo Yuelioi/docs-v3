@@ -1,5 +1,5 @@
 ---
-display_name: Get Niagara System Asset
+title: Get Niagara System Asset
 order: 18
 ---
 ## Navigation

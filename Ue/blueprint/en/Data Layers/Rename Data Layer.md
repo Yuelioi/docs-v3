@@ -1,5 +1,5 @@
 ---
-display_name: Rename Data Layer
+title: Rename Data Layer
 order: 38
 ---
 ## Navigation

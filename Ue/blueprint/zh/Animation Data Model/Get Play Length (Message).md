@@ -1,5 +1,5 @@
 ---
-display_name: Get Play Length (Message)
+title: Get Play Length (Message)
 order: 27
 ---
 ## Navigation

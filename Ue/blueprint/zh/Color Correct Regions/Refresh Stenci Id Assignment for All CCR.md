@@ -1,5 +1,5 @@
 ---
-display_name: Refresh Stenci Id Assignment for All CCR
+title: Refresh Stenci Id Assignment for All CCR
 order: 1
 ---
 ## Navigation

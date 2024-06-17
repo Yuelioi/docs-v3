@@ -1,5 +1,5 @@
 ---
-display_name: Add Spawnable from Instance
+title: Add Spawnable from Instance
 order: 8
 ---
 ## Navigation

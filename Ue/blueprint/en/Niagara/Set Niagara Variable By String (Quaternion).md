@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable By String (Quaternion)
+title: Set Niagara Variable By String (Quaternion)
 order: 54
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Modifier by Index
+title: Remove Modifier by Index
 order: 15
 ---
 ## Navigation

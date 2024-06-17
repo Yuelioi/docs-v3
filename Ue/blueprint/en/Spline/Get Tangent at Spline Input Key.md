@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent at Spline Input Key
+title: Get Tangent at Spline Input Key
 order: 64
 ---
 ## Navigation

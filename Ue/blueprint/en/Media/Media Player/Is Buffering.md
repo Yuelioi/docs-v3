@@ -1,5 +1,5 @@
 ---
-display_name: Is Buffering
+title: Is Buffering
 order: 38
 ---
 ## Navigation

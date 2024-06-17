@@ -1,5 +1,5 @@
 ---
-display_name: Stop Envelope Following
+title: Stop Envelope Following
 order: 3
 ---
 ## Navigation

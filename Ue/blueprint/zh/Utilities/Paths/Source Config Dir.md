@@ -1,5 +1,5 @@
 ---
-display_name: Source Config Dir
+title: Source Config Dir
 order: 85
 ---
 ## Navigation

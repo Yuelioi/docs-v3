@@ -1,5 +1,5 @@
 ---
-display_name: Get Modifier Keys State
+title: Get Modifier Keys State
 order: 1
 ---
 ## Navigation

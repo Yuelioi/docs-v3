@@ -1,5 +1,5 @@
 ---
-display_name: Set Attraction Force Strength
+title: Set Attraction Force Strength
 order: 16
 ---
 ## Navigation

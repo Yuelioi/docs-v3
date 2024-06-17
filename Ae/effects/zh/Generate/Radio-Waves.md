@@ -1,5 +1,5 @@
 ---
-display_name: 无线电波
+title: 无线电波
 order: 22
 ---
 

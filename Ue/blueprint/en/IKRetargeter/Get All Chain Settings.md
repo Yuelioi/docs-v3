@@ -1,5 +1,5 @@
 ---
-display_name: Get All Chain Settings
+title: Get All Chain Settings
 order: 4
 ---
 ## Navigation

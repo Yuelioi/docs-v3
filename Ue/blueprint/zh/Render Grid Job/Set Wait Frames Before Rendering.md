@@ -1,5 +1,5 @@
 ---
-display_name: Set Wait Frames Before Rendering
+title: Set Wait Frames Before Rendering
 order: 43
 ---
 ## Navigation

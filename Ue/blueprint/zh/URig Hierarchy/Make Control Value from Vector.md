@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Vector
+title: Make Control Value from Vector
 order: 110
 ---
 ## Navigation

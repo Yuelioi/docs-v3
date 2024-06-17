@@ -1,5 +1,5 @@
 ---
-display_name: % (Float)
+title: % (Float)
 order: 1
 ---
 ## Navigation

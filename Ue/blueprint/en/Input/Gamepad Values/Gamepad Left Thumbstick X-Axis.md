@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Thumbstick X-Axis
+title: Gamepad Left Thumbstick X-Axis
 order: 1
 ---
 ## Navigation

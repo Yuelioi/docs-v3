@@ -1,5 +1,5 @@
 ---
-display_name: Confirm Video Mode
+title: Confirm Video Mode
 order: 17
 ---
 ## Navigation

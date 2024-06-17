@@ -1,5 +1,5 @@
 ---
-display_name: Get Action Encoded Vector Size
+title: Get Action Encoded Vector Size
 order: 25
 ---
 ## Navigation

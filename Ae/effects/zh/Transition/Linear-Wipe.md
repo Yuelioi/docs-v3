@@ -1,5 +1,5 @@
 ---
-display_name: 线性擦除
+title: 线性擦除
 order: 15
 ---
 

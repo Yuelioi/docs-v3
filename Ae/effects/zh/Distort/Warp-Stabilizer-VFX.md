@@ -1,5 +1,5 @@
 ---
-display_name: 变形稳定器 VFX
+title: 变形稳定器 VFX
 order: 36
 ---
 

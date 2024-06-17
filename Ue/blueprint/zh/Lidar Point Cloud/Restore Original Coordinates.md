@@ -1,5 +1,5 @@
 ---
-display_name: Restore Original Coordinates
+title: Restore Original Coordinates
 order: 63
 ---
 ## Navigation

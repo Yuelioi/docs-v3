@@ -1,5 +1,5 @@
 ---
-display_name: Set Outer Extent
+title: Set Outer Extent
 order: 24
 ---
 ## Navigation

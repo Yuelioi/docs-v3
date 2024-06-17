@@ -1,5 +1,5 @@
 ---
-display_name: Make String Command
+title: Make String Command
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: End Task by Instance Name
+title: End Task by Instance Name
 order: 15
 ---
 ## Navigation

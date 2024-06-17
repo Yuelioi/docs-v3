@@ -1,5 +1,5 @@
 ---
-display_name: Simple Polygon To Array Of Vector
+title: Simple Polygon To Array Of Vector
 order: 12
 ---
 ## Navigation

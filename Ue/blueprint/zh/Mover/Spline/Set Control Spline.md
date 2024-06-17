@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Spline
+title: Set Control Spline
 order: 1
 ---
 ## Navigation

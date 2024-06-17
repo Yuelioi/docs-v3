@@ -1,5 +1,5 @@
 ---
-display_name: osd_patches
+title: osd_patches
 order: 8
 ---
 `int [] osd_patches(<geometry>geometry, int face_id)`

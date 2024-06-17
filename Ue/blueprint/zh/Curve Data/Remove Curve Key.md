@@ -1,5 +1,5 @@
 ---
-display_name: Remove Curve Key
+title: Remove Curve Key
 order: 9
 ---
 ## Navigation

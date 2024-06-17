@@ -1,5 +1,5 @@
 ---
-display_name: getgroupid
+title: getgroupid
 order: 15
 ---
 | Context(s) | [shading](../contexts/shading.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Get Settings Parameter Value
+title: Get Settings Parameter Value
 order: 3
 ---
 ## Navigation

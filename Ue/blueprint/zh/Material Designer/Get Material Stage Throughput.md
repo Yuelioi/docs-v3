@@ -1,5 +1,5 @@
 ---
-display_name: Get Material Stage Throughput
+title: Get Material Stage Throughput
 order: 105
 ---
 ## Navigation

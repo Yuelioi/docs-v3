@@ -1,5 +1,5 @@
 ---
-display_name: Detach From Component
+title: Detach From Component
 order: 21
 ---
 ## Navigation

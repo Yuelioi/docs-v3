@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar List Last Index
+title: Get Scalar List Last Index
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Queue Layered Move
+title: Queue Layered Move
 order: 24
 ---
 ## Navigation

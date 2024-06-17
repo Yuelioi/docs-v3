@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Map
+title: Set Curve Map
 order: 21
 ---
 ## Navigation

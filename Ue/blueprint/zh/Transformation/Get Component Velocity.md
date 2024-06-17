@@ -1,5 +1,5 @@
 ---
-display_name: Get Component Velocity
+title: Get Component Velocity
 order: 36
 ---
 ## Navigation

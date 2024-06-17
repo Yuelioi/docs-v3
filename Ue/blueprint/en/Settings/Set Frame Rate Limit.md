@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame Rate Limit
+title: Set Frame Rate Limit
 order: 116
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Envelope Follower Delegate
+title: Add Envelope Follower Delegate
 order: 1
 ---
 ## Navigation

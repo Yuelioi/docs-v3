@@ -1,5 +1,5 @@
 ---
-display_name: Get Estimated Point Spacing
+title: Get Estimated Point Spacing
 order: 23
 ---
 ## Navigation

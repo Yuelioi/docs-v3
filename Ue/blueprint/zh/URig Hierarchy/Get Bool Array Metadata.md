@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Array Metadata
+title: Get Bool Array Metadata
 order: 9
 ---
 ## Navigation

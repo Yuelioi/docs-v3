@@ -1,5 +1,5 @@
 ---
-display_name: Remove Construction Fields
+title: Remove Construction Fields
 order: 13
 ---
 ## Navigation

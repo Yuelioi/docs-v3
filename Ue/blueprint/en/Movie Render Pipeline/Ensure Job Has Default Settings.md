@@ -1,5 +1,5 @@
 ---
-display_name: Ensure Job Has Default Settings
+title: Ensure Job Has Default Settings
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear Index List
+title: Clear Index List
 order: 2
 ---
 ## Navigation

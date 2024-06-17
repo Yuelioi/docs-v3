@@ -1,5 +1,5 @@
 ---
-display_name: Set Default Custom Primitive Data Vector 3
+title: Set Default Custom Primitive Data Vector 3
 order: 41
 ---
 ## Navigation

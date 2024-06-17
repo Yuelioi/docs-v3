@@ -1,5 +1,5 @@
 ---
-display_name: Get Section from Static Mesh
+title: Get Section from Static Mesh
 order: 15
 ---
 ## Navigation

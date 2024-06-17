@@ -1,5 +1,5 @@
 ---
-display_name: Unclaim Task Resource
+title: Unclaim Task Resource
 order: 9
 ---
 ## Navigation

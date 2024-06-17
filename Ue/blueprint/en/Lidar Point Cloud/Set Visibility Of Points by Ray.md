@@ -1,5 +1,5 @@
 ---
-display_name: Set Visibility Of Points by Ray
+title: Set Visibility Of Points by Ray
 order: 70
 ---
 ## Navigation

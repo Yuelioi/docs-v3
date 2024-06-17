@@ -1,5 +1,5 @@
 ---
-display_name: Set Count Down Completion Text
+title: Set Count Down Completion Text
 order: 2
 ---
 ## Navigation

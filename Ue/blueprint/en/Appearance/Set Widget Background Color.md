@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Background Color
+title: Set Widget Background Color
 order: 96
 ---
 ## Navigation

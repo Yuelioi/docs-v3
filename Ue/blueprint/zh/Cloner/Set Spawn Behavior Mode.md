@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawn Behavior Mode
+title: Set Spawn Behavior Mode
 order: 56
 ---
 ## Navigation

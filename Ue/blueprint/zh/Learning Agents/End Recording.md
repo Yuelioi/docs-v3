@@ -1,5 +1,5 @@
 ---
-display_name: End Recording
+title: End Recording
 order: 15
 ---
 ## Navigation

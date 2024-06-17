@@ -1,5 +1,5 @@
 ---
-display_name: Write Quat
+title: Write Quat
 order: 26
 ---
 ## Navigation

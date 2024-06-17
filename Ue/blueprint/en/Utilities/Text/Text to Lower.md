@@ -1,5 +1,5 @@
 ---
-display_name: Text to Lower
+title: Text to Lower
 order: 35
 ---
 ## Navigation

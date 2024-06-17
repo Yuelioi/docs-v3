@@ -1,5 +1,5 @@
 ---
-display_name: Call Func Blueprint Implementable Packed Getter
+title: Call Func Blueprint Implementable Packed Getter
 order: 4
 ---
 ## Navigation

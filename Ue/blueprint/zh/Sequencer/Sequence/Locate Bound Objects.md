@@ -1,5 +1,5 @@
 ---
-display_name: Locate Bound Objects
+title: Locate Bound Objects
 order: 67
 ---
 ## Navigation

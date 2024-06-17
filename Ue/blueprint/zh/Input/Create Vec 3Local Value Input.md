@@ -1,5 +1,5 @@
 ---
-display_name: Create Vec 3Local Value Input
+title: Create Vec 3Local Value Input
 order: 20
 ---
 ## Navigation

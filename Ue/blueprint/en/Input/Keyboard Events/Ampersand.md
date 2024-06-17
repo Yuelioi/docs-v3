@@ -1,5 +1,5 @@
 ---
-display_name: Ampersand
+title: Ampersand
 order: 12
 ---
 ## Navigation

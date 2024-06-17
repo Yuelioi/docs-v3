@@ -1,5 +1,5 @@
 ---
-display_name: decode
+title: decode
 order: 4
 ---
 | Since | 17.5 |

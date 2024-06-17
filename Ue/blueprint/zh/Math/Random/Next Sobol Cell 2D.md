@@ -1,5 +1,5 @@
 ---
-display_name: Next Sobol Cell 2D
+title: Next Sobol Cell 2D
 order: 6
 ---
 ## Navigation

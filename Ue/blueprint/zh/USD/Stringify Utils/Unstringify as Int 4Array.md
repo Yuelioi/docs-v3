@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Int 4Array
+title: Unstringify as Int 4Array
 order: 97
 ---
 ## Navigation

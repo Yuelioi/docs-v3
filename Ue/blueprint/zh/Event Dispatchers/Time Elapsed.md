@@ -1,5 +1,5 @@
 ---
-display_name: Time Elapsed
+title: Time Elapsed
 order: 205
 ---
 ## Navigation

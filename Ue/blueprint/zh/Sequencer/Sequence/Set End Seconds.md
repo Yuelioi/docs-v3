@@ -1,5 +1,5 @@
 ---
-display_name: Set End Seconds
+title: Set End Seconds
 order: 84
 ---
 ## Navigation

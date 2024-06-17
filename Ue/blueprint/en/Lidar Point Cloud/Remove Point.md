@@ -1,5 +1,5 @@
 ---
-display_name: Remove Point
+title: Remove Point
 order: 59
 ---
 ## Navigation

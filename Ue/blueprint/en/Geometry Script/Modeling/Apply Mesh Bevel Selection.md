@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Bevel Selection
+title: Apply Mesh Bevel Selection
 order: 1
 ---
 ## Navigation

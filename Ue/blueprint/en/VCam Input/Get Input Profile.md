@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Profile
+title: Get Input Profile
 order: 5
 ---
 ## Navigation

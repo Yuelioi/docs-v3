@@ -1,5 +1,5 @@
 ---
-display_name: Play State Event
+title: Play State Event
 order: 42
 ---
 ## Navigation

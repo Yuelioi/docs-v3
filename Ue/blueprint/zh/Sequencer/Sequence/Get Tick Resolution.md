@@ -1,5 +1,5 @@
 ---
-display_name: Get Tick Resolution
+title: Get Tick Resolution
 order: 56
 ---
 ## Navigation

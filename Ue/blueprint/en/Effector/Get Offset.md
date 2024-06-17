@@ -1,5 +1,5 @@
 ---
-display_name: Get Offset
+title: Get Offset
 order: 7
 ---
 ## Navigation

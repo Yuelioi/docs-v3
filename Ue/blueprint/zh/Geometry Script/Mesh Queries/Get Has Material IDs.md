@@ -1,5 +1,5 @@
 ---
-display_name: Get Has Material IDs
+title: Get Has Material IDs
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Polygon Vertex
+title: Add Polygon Vertex
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Check Field Path Type Hints
+title: Check Field Path Type Hints
 order: 12
 ---
 ## Navigation

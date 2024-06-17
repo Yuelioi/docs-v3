@@ -1,5 +1,5 @@
 ---
-display_name: Install ARService
+title: Install ARService
 order: 3
 ---
 ## Navigation

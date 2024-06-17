@@ -1,5 +1,5 @@
 ---
-display_name: Is Slope Sliding
+title: Is Slope Sliding
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Broadcast Kill
+title: Broadcast Kill
 order: 4
 ---
 ## Navigation

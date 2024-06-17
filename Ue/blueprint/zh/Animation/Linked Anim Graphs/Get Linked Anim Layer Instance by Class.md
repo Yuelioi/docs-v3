@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Anim Layer Instance by Class
+title: Get Linked Anim Layer Instance by Class
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_iprimvar
+title: usd_iprimvar
 order: 51
 ---
 | Since | 19.0 |

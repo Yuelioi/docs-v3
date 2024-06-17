@@ -1,5 +1,5 @@
 ---
-display_name: Set Animation Mode
+title: Set Animation Mode
 order: 8
 ---
 ## Navigation

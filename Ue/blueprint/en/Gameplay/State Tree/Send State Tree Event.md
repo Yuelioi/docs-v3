@@ -1,5 +1,5 @@
 ---
-display_name: Send State Tree Event
+title: Send State Tree Event
 order: 3
 ---
 ## Navigation

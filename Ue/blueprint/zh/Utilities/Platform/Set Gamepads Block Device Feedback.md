@@ -1,5 +1,5 @@
 ---
-display_name: Set Gamepads Block Device Feedback
+title: Set Gamepads Block Device Feedback
 order: 22
 ---
 ## Navigation

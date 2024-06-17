@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate User
+title: Deactivate User
 order: 4
 ---
 ## Navigation

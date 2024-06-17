@@ -1,5 +1,5 @@
 ---
-display_name: Get Vignette
+title: Get Vignette
 order: 89
 ---
 ## Navigation

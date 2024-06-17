@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Provider
+title: Unregister Provider
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Bool Input
+title: Set Bool Input
 order: 21
 ---
 ## Navigation

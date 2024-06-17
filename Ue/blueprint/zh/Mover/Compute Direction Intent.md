@@ -1,5 +1,5 @@
 ---
-display_name: Compute Direction Intent
+title: Compute Direction Intent
 order: 11
 ---
 ## Navigation

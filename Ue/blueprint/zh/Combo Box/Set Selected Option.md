@@ -1,5 +1,5 @@
 ---
-display_name: Set Selected Option
+title: Set Selected Option
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Attribute Set by Metadata Key
+title: Has Attribute Set by Metadata Key
 order: 58
 ---
 ## Navigation

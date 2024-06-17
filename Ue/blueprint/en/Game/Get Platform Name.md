@@ -1,5 +1,5 @@
 ---
-display_name: Get Platform Name
+title: Get Platform Name
 order: 36
 ---
 ## Navigation

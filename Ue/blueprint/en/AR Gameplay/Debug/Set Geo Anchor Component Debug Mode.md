@@ -1,5 +1,5 @@
 ---
-display_name: Set Geo Anchor Component Debug Mode
+title: Set Geo Anchor Component Debug Mode
 order: 3
 ---
 ## Navigation

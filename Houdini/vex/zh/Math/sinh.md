@@ -1,5 +1,5 @@
 ---
-display_name: sinh
+title: sinh
 order: 73
 ---
 `float  sinh(float n)`

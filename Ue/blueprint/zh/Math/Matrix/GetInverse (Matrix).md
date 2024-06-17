@@ -1,5 +1,5 @@
 ---
-display_name: GetInverse (Matrix)
+title: GetInverse (Matrix)
 order: 24
 ---
 ## Navigation

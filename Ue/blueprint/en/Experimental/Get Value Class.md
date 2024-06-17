@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Class
+title: Get Value Class
 order: 4
 ---
 ## Navigation

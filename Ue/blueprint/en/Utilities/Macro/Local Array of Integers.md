@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Integers
+title: Local Array of Integers
 order: 6
 ---
 ## Navigation

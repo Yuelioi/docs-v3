@@ -1,5 +1,5 @@
 ---
-display_name: Load URL
+title: Load URL
 order: 8
 ---
 ## Navigation

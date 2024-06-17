@@ -1,5 +1,5 @@
 ---
-display_name: Filter by Name
+title: Filter by Name
 order: 2
 ---
 ## Navigation

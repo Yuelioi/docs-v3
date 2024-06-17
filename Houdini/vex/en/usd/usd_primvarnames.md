@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarnames
+title: usd_primvarnames
 order: 112
 ---
 | Since | 18.0 |

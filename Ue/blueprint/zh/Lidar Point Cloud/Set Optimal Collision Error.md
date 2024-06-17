@@ -1,5 +1,5 @@
 ---
-display_name: Set Optimal Collision Error
+title: Set Optimal Collision Error
 order: 66
 ---
 ## Navigation

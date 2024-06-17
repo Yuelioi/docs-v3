@@ -1,5 +1,5 @@
 ---
-display_name: As DateTime
+title: As DateTime
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Select Previous Button
+title: Select Previous Button
 order: 11
 ---
 ## Navigation

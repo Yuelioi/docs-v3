@@ -1,5 +1,5 @@
 ---
-display_name: CC 聚光灯
+title: CC 聚光灯
 order: 8
 ---
 

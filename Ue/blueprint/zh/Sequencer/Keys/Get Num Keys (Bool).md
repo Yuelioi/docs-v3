@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Keys (Bool)
+title: Get Num Keys (Bool)
 order: 48
 ---
 ## Navigation

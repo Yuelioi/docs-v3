@@ -1,5 +1,5 @@
 ---
-display_name: Get Static Mesh
+title: Get Static Mesh
 order: 11
 ---
 ## Navigation

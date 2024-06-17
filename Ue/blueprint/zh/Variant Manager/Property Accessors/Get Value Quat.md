@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Quat
+title: Get Value Quat
 order: 8
 ---
 ## Navigation

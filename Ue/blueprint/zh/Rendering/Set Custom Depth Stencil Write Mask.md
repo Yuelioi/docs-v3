@@ -1,5 +1,5 @@
 ---
-display_name: Set Custom Depth Stencil Write Mask
+title: Set Custom Depth Stencil Write Mask
 order: 27
 ---
 ## Navigation

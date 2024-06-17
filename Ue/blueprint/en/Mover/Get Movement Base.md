@@ -1,5 +1,5 @@
 ---
-display_name: Get Movement Base
+title: Get Movement Base
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Squared Horizontal Distance To
+title: Get Squared Horizontal Distance To
 order: 48
 ---
 ## Navigation

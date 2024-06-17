@@ -1,5 +1,5 @@
 ---
-display_name: Remove Bone Track (Message)
+title: Remove Bone Track (Message)
 order: 11
 ---
 ## Navigation

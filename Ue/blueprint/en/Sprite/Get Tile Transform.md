@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile Transform
+title: Get Tile Transform
 order: 18
 ---
 ## Navigation

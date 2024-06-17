@@ -1,5 +1,5 @@
 ---
-display_name: Update Bookmark Color
+title: Update Bookmark Color
 order: 29
 ---
 ## Navigation

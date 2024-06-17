@@ -1,5 +1,5 @@
 ---
-display_name: ClipPlaneAxis
+title: ClipPlaneAxis
 order: 5
 ---
 ## Navigation

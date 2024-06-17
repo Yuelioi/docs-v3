@@ -1,5 +1,5 @@
 ---
-display_name: Get Enhanced Input Action Button Icon
+title: Get Enhanced Input Action Button Icon
 order: 1
 ---
 ## Navigation

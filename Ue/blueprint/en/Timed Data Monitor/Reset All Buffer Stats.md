@@ -1,5 +1,5 @@
 ---
-display_name: Reset All Buffer Stats
+title: Reset All Buffer Stats
 order: 25
 ---
 ## Navigation

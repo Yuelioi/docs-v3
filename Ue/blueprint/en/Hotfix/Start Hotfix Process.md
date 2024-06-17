@@ -1,5 +1,5 @@
 ---
-display_name: Start Hotfix Process
+title: Start Hotfix Process
 order: 1
 ---
 ## Navigation

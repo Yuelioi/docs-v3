@@ -1,5 +1,5 @@
 ---
-display_name: Add or Remove Smart Object
+title: Add or Remove Smart Object
 order: 6
 ---
 ## Navigation

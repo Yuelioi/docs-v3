@@ -1,5 +1,5 @@
 ---
-display_name: Remove Custom Actor
+title: Remove Custom Actor
 order: 48
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Multi Sphere Trace By Channel
+title: Multi Sphere Trace By Channel
 order: 55
 ---
 ## Navigation

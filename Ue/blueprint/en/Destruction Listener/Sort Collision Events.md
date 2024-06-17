@@ -1,5 +1,5 @@
 ---
-display_name: Sort Collision Events
+title: Sort Collision Events
 order: 15
 ---
 ## Navigation

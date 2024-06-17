@@ -1,5 +1,5 @@
 ---
-display_name: Add Angular Impulse in Degrees
+title: Add Angular Impulse in Degrees
 order: 2
 ---
 ## Navigation

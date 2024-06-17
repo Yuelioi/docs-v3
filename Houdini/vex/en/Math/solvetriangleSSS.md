@@ -1,5 +1,5 @@
 ---
-display_name: solvetriangleSSS
+title: solvetriangleSSS
 order: 78
 ---
 | Since | 18.0 |

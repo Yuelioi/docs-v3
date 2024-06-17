@@ -1,5 +1,5 @@
 ---
-display_name: Set Sub Graph Asset
+title: Set Sub Graph Asset
 order: 10
 ---
 ## Navigation

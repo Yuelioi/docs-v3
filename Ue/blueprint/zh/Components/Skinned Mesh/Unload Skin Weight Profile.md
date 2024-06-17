@@ -1,5 +1,5 @@
 ---
-display_name: Unload Skin Weight Profile
+title: Unload Skin Weight Profile
 order: 44
 ---
 ## Navigation

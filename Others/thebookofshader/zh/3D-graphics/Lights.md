@@ -1,5 +1,5 @@
 ---
-display_name: Lights
+title: Lights
 order: 3
 ---
 

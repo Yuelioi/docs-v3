@@ -1,5 +1,5 @@
 ---
-display_name: Physics Volume Changed
+title: Physics Volume Changed
 order: 2
 ---
 ## Navigation

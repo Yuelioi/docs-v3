@@ -1,5 +1,5 @@
 ---
-display_name: Load Asset Blocking
+title: Load Asset Blocking
 order: 27
 ---
 ## Navigation

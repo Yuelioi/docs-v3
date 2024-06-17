@@ -1,5 +1,5 @@
 ---
-display_name: Get Map Observation to Arrays
+title: Get Map Observation to Arrays
 order: 87
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Solver
+title: Add Solver
 order: 4
 ---
 ## Navigation

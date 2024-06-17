@@ -1,5 +1,5 @@
 ---
-display_name: Has Active Wi Fi Connection
+title: Has Active Wi Fi Connection
 order: 8
 ---
 ## Navigation

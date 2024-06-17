@@ -1,5 +1,5 @@
 ---
-display_name: Set Justification
+title: Set Justification
 order: 20
 ---
 ## Navigation

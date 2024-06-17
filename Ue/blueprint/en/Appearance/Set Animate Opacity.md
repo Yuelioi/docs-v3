@@ -1,5 +1,5 @@
 ---
-display_name: Set Animate Opacity
+title: Set Animate Opacity
 order: 12
 ---
 ## Navigation

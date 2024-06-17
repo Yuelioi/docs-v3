@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Polygon
+title: Get Triangle Polygon
 order: 53
 ---
 ## Navigation

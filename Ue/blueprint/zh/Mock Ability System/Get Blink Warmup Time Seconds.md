@@ -1,5 +1,5 @@
 ---
-display_name: Get Blink Warmup Time Seconds
+title: Get Blink Warmup Time Seconds
 order: 1
 ---
 ## Navigation

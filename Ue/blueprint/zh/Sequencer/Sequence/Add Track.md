@@ -1,5 +1,5 @@
 ---
-display_name: Add Track
+title: Add Track
 order: 9
 ---
 ## Navigation

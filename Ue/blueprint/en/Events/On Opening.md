@@ -1,5 +1,5 @@
 ---
-display_name: On Opening
+title: On Opening
 order: 22
 ---
 ## Navigation

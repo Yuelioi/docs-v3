@@ -1,5 +1,5 @@
 ---
-display_name: Get Scene Asset
+title: Get Scene Asset
 order: 9
 ---
 ## Navigation

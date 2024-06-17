@@ -1,5 +1,5 @@
 ---
-display_name: Is LODScreen Size Auto Computed
+title: Is LODScreen Size Auto Computed
 order: 20
 ---
 ## Navigation

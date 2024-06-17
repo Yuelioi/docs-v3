@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad D-pad Left
+title: Gamepad D-pad Left
 order: 2
 ---
 ## Navigation

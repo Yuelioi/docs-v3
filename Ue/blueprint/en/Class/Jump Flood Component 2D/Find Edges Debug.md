@@ -1,5 +1,5 @@
 ---
-display_name: Find Edges Debug
+title: Find Edges Debug
 order: 3
 ---
 ## Navigation

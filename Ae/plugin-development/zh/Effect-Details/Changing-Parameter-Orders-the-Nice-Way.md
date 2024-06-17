@@ -1,5 +1,5 @@
 ---
-display_name: Changing-Parameter-Orders,-the-Nice-Way
+title: Changing-Parameter-Orders,-the-Nice-Way
 order: 4
 ---
 

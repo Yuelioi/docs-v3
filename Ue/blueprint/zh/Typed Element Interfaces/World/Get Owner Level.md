@@ -1,5 +1,5 @@
 ---
-display_name: Get Owner Level
+title: Get Owner Level
 order: 20
 ---
 ## Navigation

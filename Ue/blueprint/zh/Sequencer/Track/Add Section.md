@@ -1,5 +1,5 @@
 ---
-display_name: Add Section
+title: Add Section
 order: 3
 ---
 ## Navigation

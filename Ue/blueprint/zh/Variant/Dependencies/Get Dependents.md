@@ -1,5 +1,5 @@
 ---
-display_name: Get Dependents
+title: Get Dependents
 order: 2
 ---
 ## Navigation

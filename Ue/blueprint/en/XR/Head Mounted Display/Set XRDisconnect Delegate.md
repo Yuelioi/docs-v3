@@ -1,5 +1,5 @@
 ---
-display_name: Set XRDisconnect Delegate
+title: Set XRDisconnect Delegate
 order: 3
 ---
 ## Navigation

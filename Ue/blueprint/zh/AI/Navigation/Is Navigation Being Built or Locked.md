@@ -1,5 +1,5 @@
 ---
-display_name: Is Navigation Being Built or Locked
+title: Is Navigation Being Built or Locked
 order: 20
 ---
 ## Navigation

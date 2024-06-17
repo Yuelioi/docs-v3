@@ -1,5 +1,5 @@
 ---
-display_name: Remove Key (Integer)
+title: Remove Key (Integer)
 order: 96
 ---
 ## Navigation

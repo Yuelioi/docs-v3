@@ -1,5 +1,5 @@
 ---
-display_name: Start Session with Attributes
+title: Start Session with Attributes
 order: 28
 ---
 ## Navigation

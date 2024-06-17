@@ -1,5 +1,5 @@
 ---
-display_name: Select Channels
+title: Select Channels
 order: 57
 ---
 ## Navigation

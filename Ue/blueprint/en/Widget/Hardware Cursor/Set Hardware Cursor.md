@@ -1,5 +1,5 @@
 ---
-display_name: Set Hardware Cursor
+title: Set Hardware Cursor
 order: 1
 ---
 ## Navigation

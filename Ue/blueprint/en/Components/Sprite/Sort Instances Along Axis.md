@@ -1,5 +1,5 @@
 ---
-display_name: Sort Instances Along Axis
+title: Sort Instances Along Axis
 order: 6
 ---
 ## Navigation

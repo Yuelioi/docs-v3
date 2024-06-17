@@ -1,5 +1,5 @@
 ---
-display_name: Add Property Set Of Type
+title: Add Property Set Of Type
 order: 1
 ---
 ## Navigation

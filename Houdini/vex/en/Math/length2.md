@@ -1,5 +1,5 @@
 ---
-display_name: length2
+title: length2
 order: 38
 ---
 `float  length2(vector2 v)`

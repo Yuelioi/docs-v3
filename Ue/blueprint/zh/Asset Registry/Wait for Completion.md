@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Completion
+title: Wait for Completion
 order: 54
 ---
 ## Navigation

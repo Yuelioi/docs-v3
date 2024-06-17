@@ -1,5 +1,5 @@
 ---
-display_name: On Tab Button Creation
+title: On Tab Button Creation
 order: 8
 ---
 ## Navigation

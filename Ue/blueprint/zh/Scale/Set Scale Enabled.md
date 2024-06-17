@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Enabled
+title: Set Scale Enabled
 order: 2
 ---
 ## Navigation

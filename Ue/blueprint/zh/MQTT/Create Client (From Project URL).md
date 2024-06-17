@@ -1,5 +1,5 @@
 ---
-display_name: Create Client (From Project URL)
+title: Create Client (From Project URL)
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertical Alignment
+title: Set Vertical Alignment
 order: 6
 ---
 ## Navigation

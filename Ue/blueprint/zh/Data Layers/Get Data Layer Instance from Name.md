@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Instance from Name
+title: Get Data Layer Instance from Name
 order: 21
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Media Opened
+title: On Media Opened
 order: 15
 ---
 ## Navigation

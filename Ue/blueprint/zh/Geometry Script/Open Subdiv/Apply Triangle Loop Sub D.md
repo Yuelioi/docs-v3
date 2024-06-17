@@ -1,5 +1,5 @@
 ---
-display_name: Apply Triangle Loop Sub D
+title: Apply Triangle Loop Sub D
 order: 1
 ---
 ## Navigation

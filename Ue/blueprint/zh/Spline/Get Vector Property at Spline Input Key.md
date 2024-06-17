@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Property at Spline Input Key
+title: Get Vector Property at Spline Input Key
 order: 76
 ---
 ## Navigation

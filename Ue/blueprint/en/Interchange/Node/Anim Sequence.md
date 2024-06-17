@@ -1,5 +1,5 @@
 ---
-display_name: Anim Sequence
+title: Anim Sequence
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Initially Visible
+title: Is Initially Visible
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Select Element
+title: Select Element
 order: 14
 ---
 ## Navigation

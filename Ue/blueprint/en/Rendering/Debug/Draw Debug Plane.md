@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Plane
+title: Draw Debug Plane
 order: 14
 ---
 ## Navigation

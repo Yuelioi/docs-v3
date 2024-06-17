@@ -1,5 +1,5 @@
 ---
-display_name: On Removal Events
+title: On Removal Events
 order: 141
 ---
 ## Navigation

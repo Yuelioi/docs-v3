@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Tracking System Name
+title: Get Active Tracking System Name
 order: 9
 ---
 ## Navigation

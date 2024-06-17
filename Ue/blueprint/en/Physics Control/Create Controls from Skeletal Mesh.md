@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls from Skeletal Mesh
+title: Create Controls from Skeletal Mesh
 order: 16
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Entries
+title: Get Num Entries
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Unbind Pin from Variable
+title: Unbind Pin from Variable
 order: 127
 ---
 ## Navigation

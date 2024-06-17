@@ -1,5 +1,5 @@
 ---
-display_name: On Text Generated
+title: On Text Generated
 order: 31
 ---
 ## Navigation

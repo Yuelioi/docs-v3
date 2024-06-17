@@ -1,5 +1,5 @@
 ---
-display_name: expandedgegroup
+title: expandedgegroup
 order: 1
 ---
 `int [] expandedgegroup(<geometry>geometry, string groupname)`

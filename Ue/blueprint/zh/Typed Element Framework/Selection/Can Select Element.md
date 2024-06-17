@@ -1,5 +1,5 @@
 ---
-display_name: Can Select Element
+title: Can Select Element
 order: 3
 ---
 ## Navigation

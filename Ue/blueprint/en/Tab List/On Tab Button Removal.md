@@ -1,5 +1,5 @@
 ---
-display_name: On Tab Button Removal
+title: On Tab Button Removal
 order: 9
 ---
 ## Navigation

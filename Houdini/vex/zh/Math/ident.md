@@ -1,5 +1,5 @@
 ---
-display_name: ident
+title: ident
 order: 31
 ---
 `<matrix> ident()`

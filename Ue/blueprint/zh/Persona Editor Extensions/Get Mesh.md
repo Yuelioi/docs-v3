@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh
+title: Get Mesh
 order: 3
 ---
 ## Navigation

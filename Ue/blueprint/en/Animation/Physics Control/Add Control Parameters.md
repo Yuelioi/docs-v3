@@ -1,5 +1,5 @@
 ---
-display_name: Add Control Parameters
+title: Add Control Parameters
 order: 1
 ---
 ## Navigation

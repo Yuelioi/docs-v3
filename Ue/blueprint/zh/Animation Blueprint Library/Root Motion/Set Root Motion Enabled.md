@@ -1,5 +1,5 @@
 ---
-display_name: Set Root Motion Enabled
+title: Set Root Motion Enabled
 order: 5
 ---
 ## Navigation

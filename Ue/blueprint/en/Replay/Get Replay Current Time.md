@@ -1,5 +1,5 @@
 ---
-display_name: Get Replay Current Time
+title: Get Replay Current Time
 order: 2
 ---
 ## Navigation

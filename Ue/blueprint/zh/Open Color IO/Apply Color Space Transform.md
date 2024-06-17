@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Space Transform
+title: Apply Color Space Transform
 order: 4
 ---
 ## Navigation

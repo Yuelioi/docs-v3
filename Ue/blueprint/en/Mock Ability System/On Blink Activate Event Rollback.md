@@ -1,5 +1,5 @@
 ---
-display_name: On Blink Activate Event Rollback
+title: On Blink Activate Event Rollback
 order: 6
 ---
 ## Navigation

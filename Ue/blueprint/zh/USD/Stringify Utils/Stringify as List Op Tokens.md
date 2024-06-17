@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as List Op Tokens
+title: Stringify as List Op Tokens
 order: 39
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Exclusive Discrete Observation
+title: Make Exclusive Discrete Observation
 order: 187
 ---
 ## Navigation

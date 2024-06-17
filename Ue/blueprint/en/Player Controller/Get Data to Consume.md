@@ -1,5 +1,5 @@
 ---
-display_name: Get Data to Consume
+title: Get Data to Consume
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Release Key
+title: Release Key
 order: 14
 ---
 ## Navigation

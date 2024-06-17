@@ -1,5 +1,5 @@
 ---
-display_name: Load All Nodes
+title: Load All Nodes
 order: 47
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Group Polygons
+title: Get Polygon Group Polygons
 order: 42
 ---
 ## Navigation

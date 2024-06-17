@@ -1,5 +1,5 @@
 ---
-display_name: Editor Map Change
+title: Editor Map Change
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Status Progress
+title: Set Status Progress
 order: 26
 ---
 ## Navigation

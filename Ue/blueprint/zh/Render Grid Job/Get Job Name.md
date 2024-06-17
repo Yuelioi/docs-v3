@@ -1,5 +1,5 @@
 ---
-display_name: Get Job Name
+title: Get Job Name
 order: 14
 ---
 ## Navigation

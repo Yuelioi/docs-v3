@@ -1,5 +1,5 @@
 ---
-display_name: ptransform
+title: ptransform
 order: 20
 ---
 `vector  ptransform(vector vec, matrix transform)`

@@ -1,6 +1,6 @@
 ---
 order: 2
-display_name: CompItem
+title: CompItem
 ---
 # CompItem 合成
 

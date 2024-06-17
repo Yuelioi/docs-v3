@@ -1,5 +1,5 @@
 ---
-display_name: Clear Submix Effects
+title: Clear Submix Effects
 order: 8
 ---
 ## Navigation

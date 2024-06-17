@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Float 2
+title: Unstringify as Float 2
 order: 76
 ---
 ## Navigation

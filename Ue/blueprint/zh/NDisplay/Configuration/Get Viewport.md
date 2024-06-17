@@ -1,5 +1,5 @@
 ---
-display_name: Get Viewport
+title: Get Viewport
 order: 8
 ---
 ## Navigation

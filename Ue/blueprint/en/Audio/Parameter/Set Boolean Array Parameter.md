@@ -1,5 +1,5 @@
 ---
-display_name: Set Boolean Array Parameter
+title: Set Boolean Array Parameter
 order: 14
 ---
 ## Navigation

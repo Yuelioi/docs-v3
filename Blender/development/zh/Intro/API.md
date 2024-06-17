@@ -1,5 +1,5 @@
 ---
-display_name: 参考 API 用法
+title: 参考 API 用法
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Date Time from Iso String
+title: Date Time from Iso String
 order: 2
 ---
 ## Navigation

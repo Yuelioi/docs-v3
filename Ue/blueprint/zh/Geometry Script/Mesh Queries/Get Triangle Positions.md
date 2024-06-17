@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Positions
+title: Get Triangle Positions
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Accessible Text
+title: Get Accessible Text
 order: 13
 ---
 ## Navigation

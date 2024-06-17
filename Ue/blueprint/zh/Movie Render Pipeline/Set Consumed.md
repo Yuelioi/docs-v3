@@ -1,5 +1,5 @@
 ---
-display_name: Set Consumed
+title: Set Consumed
 order: 16
 ---
 ## Navigation

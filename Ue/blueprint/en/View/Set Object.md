@@ -1,5 +1,5 @@
 ---
-display_name: Set Object
+title: Set Object
 order: 10
 ---
 ## Navigation

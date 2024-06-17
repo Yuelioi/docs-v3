@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal Exactly (String)
+title: Not Equal Exactly (String)
 order: 33
 ---
 ## Navigation

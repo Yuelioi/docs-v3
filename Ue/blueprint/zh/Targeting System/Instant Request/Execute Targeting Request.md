@@ -1,5 +1,5 @@
 ---
-display_name: Execute Targeting Request
+title: Execute Targeting Request
 order: 1
 ---
 ## Navigation

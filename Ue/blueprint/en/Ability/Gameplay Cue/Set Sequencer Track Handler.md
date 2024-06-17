@@ -1,5 +1,5 @@
 ---
-display_name: Set Sequencer Track Handler
+title: Set Sequencer Track Handler
 order: 18
 ---
 ## Navigation

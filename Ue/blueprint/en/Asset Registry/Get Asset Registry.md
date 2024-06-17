@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset Registry
+title: Get Asset Registry
 order: 8
 ---
 ## Navigation

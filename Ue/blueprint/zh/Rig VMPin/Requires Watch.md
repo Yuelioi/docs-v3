@@ -1,5 +1,5 @@
 ---
-display_name: Requires Watch
+title: Requires Watch
 order: 52
 ---
 ## Navigation

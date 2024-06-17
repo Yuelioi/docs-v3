@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon Group with ID
+title: Create Polygon Group with ID
 order: 5
 ---
 ## Navigation

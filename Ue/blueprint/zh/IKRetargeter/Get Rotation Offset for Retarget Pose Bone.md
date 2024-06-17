@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation Offset for Retarget Pose Bone
+title: Get Rotation Offset for Retarget Pose Bone
 order: 15
 ---
 ## Navigation

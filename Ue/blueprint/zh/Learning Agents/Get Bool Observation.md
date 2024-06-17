@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Observation
+title: Get Bool Observation
 order: 44
 ---
 ## Navigation

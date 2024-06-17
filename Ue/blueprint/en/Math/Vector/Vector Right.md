@@ -1,5 +1,5 @@
 ---
-display_name: Vector Right
+title: Vector Right
 order: 87
 ---
 ## Navigation

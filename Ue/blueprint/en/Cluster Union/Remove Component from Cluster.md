@@ -1,5 +1,5 @@
 ---
-display_name: Remove Component from Cluster
+title: Remove Component from Cluster
 order: 5
 ---
 ## Navigation

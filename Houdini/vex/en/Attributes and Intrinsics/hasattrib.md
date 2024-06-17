@@ -1,5 +1,5 @@
 ---
-display_name: hasattrib
+title: hasattrib
 order: 24
 ---
 If you know the attribute class ahead of time, using [hasdetailattrib](hasdetailattrib.html "Returns if a geometry detail attribute exists."), [hasprimattrib](hasprimattrib.html "Returns if a geometry prim attribute exists."), [haspointattrib](haspointattrib.html "Returns if a geometry point attribute exists."), or [hasvertexattrib](hasvertexattrib.html "Returns if a geometry vertex attribute exists.") may be faster.

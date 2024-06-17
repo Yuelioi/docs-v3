@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Pawn
+title: Get Player Pawn
 order: 40
 ---
 ## Navigation

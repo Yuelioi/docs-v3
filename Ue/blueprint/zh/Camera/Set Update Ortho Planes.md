@@ -1,5 +1,5 @@
 ---
-display_name: Set Update Ortho Planes
+title: Set Update Ortho Planes
 order: 30
 ---
 ## Navigation

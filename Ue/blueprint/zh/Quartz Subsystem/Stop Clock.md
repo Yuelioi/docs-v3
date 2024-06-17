@@ -1,5 +1,5 @@
 ---
-display_name: Stop Clock
+title: Stop Clock
 order: 12
 ---
 ## Navigation

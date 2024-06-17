@@ -1,5 +1,5 @@
 ---
-display_name: Async Change Bundle State for Primary Asset List
+title: Async Change Bundle State for Primary Asset List
 order: 2
 ---
 ## Navigation

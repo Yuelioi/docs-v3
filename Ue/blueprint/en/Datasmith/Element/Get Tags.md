@@ -1,5 +1,5 @@
 ---
-display_name: Get Tags
+title: Get Tags
 order: 65
 ---
 ## Navigation

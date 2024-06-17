@@ -1,5 +1,5 @@
 ---
-display_name: Normal to Vector
+title: Normal to Vector
 order: 52
 ---
 ## Navigation

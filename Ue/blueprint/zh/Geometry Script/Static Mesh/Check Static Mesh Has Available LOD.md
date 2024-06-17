@@ -1,5 +1,5 @@
 ---
-display_name: Check Static Mesh Has Available LOD
+title: Check Static Mesh Has Available LOD
 order: 1
 ---
 ## Navigation

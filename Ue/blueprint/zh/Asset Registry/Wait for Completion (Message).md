@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Completion (Message)
+title: Wait for Completion (Message)
 order: 53
 ---
 ## Navigation

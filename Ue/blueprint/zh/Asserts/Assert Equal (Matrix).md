@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Matrix)
+title: Assert Equal (Matrix)
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Video Format
+title: Set Desired Video Format
 order: 22
 ---
 ## Navigation

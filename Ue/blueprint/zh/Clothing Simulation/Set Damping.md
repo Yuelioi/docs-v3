@@ -1,5 +1,5 @@
 ---
-display_name: Set Damping
+title: Set Damping
 order: 21
 ---
 ## Navigation

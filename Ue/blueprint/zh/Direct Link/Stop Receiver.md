@@ -1,5 +1,5 @@
 ---
-display_name: Stop Receiver
+title: Stop Receiver
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Attribute Base
+title: Get Float Attribute Base
 order: 5
 ---
 ## Navigation

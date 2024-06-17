@@ -1,5 +1,5 @@
 ---
-display_name: Texture Graph Render (Async)
+title: Texture Graph Render (Async)
 order: 13
 ---
 ## Navigation

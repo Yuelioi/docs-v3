@@ -1,6 +1,6 @@
 ---
 order: 8
-display_name: CC径向缩放擦除
+title: CC径向缩放擦除
 ---
 
 # CC Radial Scalewipe - CC径向缩放擦除

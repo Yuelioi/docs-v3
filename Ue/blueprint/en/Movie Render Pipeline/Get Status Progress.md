@@ -1,5 +1,5 @@
 ---
-display_name: Get Status Progress
+title: Get Status Progress
 order: 61
 ---
 ## Navigation

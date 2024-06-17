@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Count
+title: Get Lod Count
 order: 14
 ---
 ## Navigation

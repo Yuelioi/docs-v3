@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaSequencerSubsystem
+title: Get AvaSequencerSubsystem
 order: 13
 ---
 ## Navigation

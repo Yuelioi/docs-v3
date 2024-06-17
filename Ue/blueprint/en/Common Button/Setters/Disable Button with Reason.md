@@ -1,5 +1,5 @@
 ---
-display_name: Disable Button with Reason
+title: Disable Button with Reason
 order: 1
 ---
 ## Navigation

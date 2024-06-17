@@ -1,5 +1,5 @@
 ---
-display_name: Specify Set Observation
+title: Specify Set Observation
 order: 325
 ---
 ## Navigation

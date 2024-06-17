@@ -1,5 +1,5 @@
 ---
-display_name: Set Checked State
+title: Set Checked State
 order: 8
 ---
 ## Navigation

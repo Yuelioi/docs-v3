@@ -1,5 +1,5 @@
 ---
-display_name: Get Transpose Adjoint (Matrix)
+title: Get Transpose Adjoint (Matrix)
 order: 20
 ---
 ## Navigation

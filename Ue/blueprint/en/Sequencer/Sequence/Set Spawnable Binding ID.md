@@ -1,5 +1,5 @@
 ---
-display_name: Set Spawnable Binding ID
+title: Set Spawnable Binding ID
 order: 99
 ---
 ## Navigation

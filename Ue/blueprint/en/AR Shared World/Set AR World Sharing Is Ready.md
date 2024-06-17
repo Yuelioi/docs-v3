@@ -1,5 +1,5 @@
 ---
-display_name: Set AR World Sharing Is Ready
+title: Set AR World Sharing Is Ready
 order: 4
 ---
 ## Navigation

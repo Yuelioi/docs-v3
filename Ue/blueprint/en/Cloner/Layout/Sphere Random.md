@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Random
+title: Sphere Random
 order: 11
 ---
 ## Navigation

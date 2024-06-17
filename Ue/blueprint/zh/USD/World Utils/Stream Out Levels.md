@@ -1,5 +1,5 @@
 ---
-display_name: Stream Out Levels
+title: Stream Out Levels
 order: 9
 ---
 ## Navigation

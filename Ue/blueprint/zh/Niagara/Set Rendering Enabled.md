@@ -1,5 +1,5 @@
 ---
-display_name: Set Rendering Enabled
+title: Set Rendering Enabled
 order: 62
 ---
 ## Navigation

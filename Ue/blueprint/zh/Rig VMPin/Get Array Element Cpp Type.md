@@ -1,5 +1,5 @@
 ---
-display_name: Get Array Element Cpp Type
+title: Get Array Element Cpp Type
 order: 5
 ---
 ## Navigation

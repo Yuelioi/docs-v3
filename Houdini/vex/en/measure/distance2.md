@@ -1,5 +1,5 @@
 ---
-display_name: distance2
+title: distance2
 order: 2
 ---
 `float  distance2(vector2 a, vector2 b)`

@@ -1,5 +1,5 @@
 ---
-display_name: Add Default Channel
+title: Add Default Channel
 order: 4
 ---
 ## Navigation

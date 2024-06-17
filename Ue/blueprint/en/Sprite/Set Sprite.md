@@ -1,5 +1,5 @@
 ---
-display_name: Set Sprite
+title: Set Sprite
 order: 33
 ---
 ## Navigation

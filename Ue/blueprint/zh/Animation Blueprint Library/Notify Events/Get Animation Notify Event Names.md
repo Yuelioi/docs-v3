@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Notify Event Names
+title: Get Animation Notify Event Names
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Tool Tip
+title: Get Tool Tip
 order: 19
 ---
 ## Navigation

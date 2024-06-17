@@ -1,5 +1,5 @@
 ---
-display_name: Specify Direction Action
+title: Specify Direction Action
 order: 285
 ---
 ## Navigation

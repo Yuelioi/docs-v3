@@ -1,5 +1,5 @@
 ---
-display_name: Replace Saved Commands
+title: Replace Saved Commands
 order: 10
 ---
 ## Navigation

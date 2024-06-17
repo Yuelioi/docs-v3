@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Scale by Name
+title: Set Bone Scale by Name
 order: 9
 ---
 ## Navigation

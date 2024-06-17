@@ -1,5 +1,5 @@
 ---
-display_name: Set Inner Slot Padding
+title: Set Inner Slot Padding
 order: 2
 ---
 ## Navigation

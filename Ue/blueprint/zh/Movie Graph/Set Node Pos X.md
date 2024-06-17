@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Pos X
+title: Set Node Pos X
 order: 73
 ---
 ## Navigation

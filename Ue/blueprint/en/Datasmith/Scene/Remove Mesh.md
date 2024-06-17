@@ -1,5 +1,5 @@
 ---
-display_name: Remove Mesh
+title: Remove Mesh
 order: 53
 ---
 ## Navigation

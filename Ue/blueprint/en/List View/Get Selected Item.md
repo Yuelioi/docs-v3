@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Item
+title: Get Selected Item
 order: 11
 ---
 ## Navigation

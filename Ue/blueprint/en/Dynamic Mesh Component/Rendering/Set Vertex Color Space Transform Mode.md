@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Color Space Transform Mode
+title: Set Vertex Color Space Transform Mode
 order: 10
 ---
 ## Navigation

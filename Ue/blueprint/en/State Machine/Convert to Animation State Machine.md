@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Animation State Machine
+title: Convert to Animation State Machine
 order: 1
 ---
 ## Navigation

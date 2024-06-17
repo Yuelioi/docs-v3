@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot for Material Property
+title: Get Slot for Material Property
 order: 126
 ---
 ## Navigation

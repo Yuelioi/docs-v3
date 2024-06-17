@@ -1,5 +1,5 @@
 ---
-display_name: On Interpolation Started Event
+title: On Interpolation Started Event
 order: 4
 ---
 ## Navigation

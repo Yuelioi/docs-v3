@@ -1,5 +1,5 @@
 ---
-display_name: Go to End and Stop
+title: Go to End and Stop
 order: 18
 ---
 ## Navigation

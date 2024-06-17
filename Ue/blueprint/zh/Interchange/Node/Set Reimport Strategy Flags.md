@@ -1,5 +1,5 @@
 ---
-display_name: Set Reimport Strategy Flags
+title: Set Reimport Strategy Flags
 order: 71
 ---
 ## Navigation

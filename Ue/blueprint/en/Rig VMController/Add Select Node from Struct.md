@@ -1,5 +1,5 @@
 ---
-display_name: Add Select Node from Struct
+title: Add Select Node from Struct
 order: 24
 ---
 ## Navigation

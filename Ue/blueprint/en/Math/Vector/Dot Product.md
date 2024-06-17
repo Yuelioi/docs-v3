@@ -1,5 +1,5 @@
 ---
-display_name: Dot Product
+title: Dot Product
 order: 13
 ---
 ## Navigation

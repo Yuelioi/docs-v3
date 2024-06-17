@@ -1,5 +1,5 @@
 ---
-display_name: On Commit
+title: On Commit
 order: 64
 ---
 ## Navigation

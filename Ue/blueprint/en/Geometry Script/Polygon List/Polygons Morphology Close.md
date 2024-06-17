@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Morphology Close
+title: Polygons Morphology Close
 order: 20
 ---
 ## Navigation

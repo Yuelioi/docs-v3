@@ -1,5 +1,5 @@
 ---
-display_name: Is Right Control Down
+title: Is Right Control Down
 order: 12
 ---
 ## Navigation

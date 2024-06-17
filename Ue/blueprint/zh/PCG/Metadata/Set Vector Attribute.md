@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Attribute
+title: Set Vector Attribute
 order: 103
 ---
 ## Navigation

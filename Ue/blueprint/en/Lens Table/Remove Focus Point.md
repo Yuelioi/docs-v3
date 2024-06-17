@@ -1,5 +1,5 @@
 ---
-display_name: Remove Focus Point
+title: Remove Focus Point
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Release Compute Mesh
+title: Release Compute Mesh
 order: 3
 ---
 ## Navigation

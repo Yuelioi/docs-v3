@@ -1,5 +1,5 @@
 ---
-display_name: chindex
+title: chindex
 order: 7
 ---
 | Context(s) | [chop](../contexts/chop.html) |

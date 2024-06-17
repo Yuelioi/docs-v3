@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Class (Message)
+title: Get Object Class (Message)
 order: 2
 ---
 ## Navigation

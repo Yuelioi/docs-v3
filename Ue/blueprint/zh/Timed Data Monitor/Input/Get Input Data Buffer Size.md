@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Data Buffer Size
+title: Get Input Data Buffer Size
 order: 4
 ---
 ## Navigation

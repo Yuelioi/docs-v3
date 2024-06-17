@@ -1,5 +1,5 @@
 ---
-display_name: Set Can Carry
+title: Set Can Carry
 order: 14
 ---
 ## Navigation

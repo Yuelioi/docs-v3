@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Class Parameter
+title: Set Soft Class Parameter
 order: 34
 ---
 ## Navigation

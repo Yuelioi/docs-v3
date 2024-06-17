@@ -1,5 +1,5 @@
 ---
-display_name: Set Scalar Parameter Value on Materials
+title: Set Scalar Parameter Value on Materials
 order: 53
 ---
 ## Navigation

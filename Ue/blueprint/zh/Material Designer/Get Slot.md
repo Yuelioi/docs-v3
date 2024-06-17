@@ -1,5 +1,5 @@
 ---
-display_name: Get Slot
+title: Get Slot
 order: 127
 ---
 ## Navigation

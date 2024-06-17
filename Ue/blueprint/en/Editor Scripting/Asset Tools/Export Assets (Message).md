@@ -1,5 +1,5 @@
 ---
-display_name: Export Assets (Message)
+title: Export Assets (Message)
 order: 20
 ---
 ## Navigation

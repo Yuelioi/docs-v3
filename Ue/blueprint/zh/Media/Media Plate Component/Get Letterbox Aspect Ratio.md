@@ -1,5 +1,5 @@
 ---
-display_name: Get Letterbox Aspect Ratio
+title: Get Letterbox Aspect Ratio
 order: 3
 ---
 ## Navigation

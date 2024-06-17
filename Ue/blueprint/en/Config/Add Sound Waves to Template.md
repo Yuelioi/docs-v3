@@ -1,5 +1,5 @@
 ---
-display_name: Add Sound Waves to Template
+title: Add Sound Waves to Template
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Spline Segments
+title: Get Number Of Spline Segments
 order: 43
 ---
 ## Navigation

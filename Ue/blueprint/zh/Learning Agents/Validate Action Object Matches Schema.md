@@ -1,5 +1,5 @@
 ---
-display_name: Validate Action Object Matches Schema
+title: Validate Action Object Matches Schema
 order: 336
 ---
 ## Navigation

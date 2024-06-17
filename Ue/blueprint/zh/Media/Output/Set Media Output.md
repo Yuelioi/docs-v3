@@ -1,5 +1,5 @@
 ---
-display_name: Set Media Output
+title: Set Media Output
 order: 8
 ---
 ## Navigation

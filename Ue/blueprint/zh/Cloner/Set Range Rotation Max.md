@@ -1,5 +1,5 @@
 ---
-display_name: Set Range Rotation Max
+title: Set Range Rotation Max
 order: 46
 ---
 ## Navigation

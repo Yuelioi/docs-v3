@@ -1,5 +1,5 @@
 ---
-display_name: Is Loading Assets
+title: Is Loading Assets
 order: 33
 ---
 ## Navigation

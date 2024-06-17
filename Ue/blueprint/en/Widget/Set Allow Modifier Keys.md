@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Modifier Keys
+title: Set Allow Modifier Keys
 order: 7
 ---
 ## Navigation

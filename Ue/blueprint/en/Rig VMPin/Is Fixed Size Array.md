@@ -1,5 +1,5 @@
 ---
-display_name: Is Fixed Size Array
+title: Is Fixed Size Array
 order: 41
 ---
 ## Navigation

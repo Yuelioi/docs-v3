@@ -1,5 +1,5 @@
 ---
-display_name: Press Key
+title: Press Key
 order: 11
 ---
 ## Navigation

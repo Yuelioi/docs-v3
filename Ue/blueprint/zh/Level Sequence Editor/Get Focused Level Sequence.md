@@ -1,5 +1,5 @@
 ---
-display_name: Get Focused Level Sequence
+title: Get Focused Level Sequence
 order: 23
 ---
 ## Navigation

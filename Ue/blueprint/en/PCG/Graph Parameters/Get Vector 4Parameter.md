@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 4Parameter
+title: Get Vector 4Parameter
 order: 19
 ---
 ## Navigation

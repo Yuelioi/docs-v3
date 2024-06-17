@@ -1,6 +1,6 @@
 ---
 order: 1
-display_name: 添加颗粒
+title: 添加颗粒
 ---
 
 # Add Grain - 添加颗粒

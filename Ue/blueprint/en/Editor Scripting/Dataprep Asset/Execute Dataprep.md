@@ -1,5 +1,5 @@
 ---
-display_name: Execute Dataprep
+title: Execute Dataprep
 order: 3
 ---
 ## Navigation

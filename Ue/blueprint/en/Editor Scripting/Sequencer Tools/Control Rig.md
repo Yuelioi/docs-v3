@@ -1,5 +1,5 @@
 ---
-display_name: Control Rig
+title: Control Rig
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Button Count
+title: Get Button Count
 order: 4
 ---
 ## Navigation

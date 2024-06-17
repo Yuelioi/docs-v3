@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Mesh Rotation Rate Props
+title: Get Particle Module Mesh Rotation Rate Props
 order: 80
 ---
 ## Navigation

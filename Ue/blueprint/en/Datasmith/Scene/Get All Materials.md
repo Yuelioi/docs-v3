@@ -1,5 +1,5 @@
 ---
-display_name: Get All Materials
+title: Get All Materials
 order: 18
 ---
 ## Navigation

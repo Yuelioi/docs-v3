@@ -1,5 +1,5 @@
 ---
-display_name: Make Completion on Location Difference Above Threshold
+title: Make Completion on Location Difference Above Threshold
 order: 163
 ---
 ## Navigation

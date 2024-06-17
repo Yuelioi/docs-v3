@@ -1,5 +1,5 @@
 ---
-display_name: Create Data Providers
+title: Create Data Providers
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Auto Repair Normals
+title: Auto Repair Normals
 order: 1
 ---
 ## Navigation

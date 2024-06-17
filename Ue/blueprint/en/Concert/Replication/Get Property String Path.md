@@ -1,5 +1,5 @@
 ---
-display_name: Get Property String Path
+title: Get Property String Path
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: HMDTracking Initialized Delegate
+title: HMDTracking Initialized Delegate
 order: 35
 ---
 ## Navigation

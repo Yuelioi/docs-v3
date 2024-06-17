@@ -1,5 +1,5 @@
 ---
-display_name: Add Variable Get Node
+title: Add Variable Get Node
 order: 11
 ---
 ## Navigation

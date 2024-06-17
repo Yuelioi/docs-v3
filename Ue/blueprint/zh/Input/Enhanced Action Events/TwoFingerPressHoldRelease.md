@@ -1,5 +1,5 @@
 ---
-display_name: TwoFingerPressHoldRelease
+title: TwoFingerPressHoldRelease
 order: 125
 ---
 ## Navigation

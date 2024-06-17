@@ -1,5 +1,5 @@
 ---
-display_name: Clear Move Ignore Components
+title: Clear Move Ignore Components
 order: 15
 ---
 ## Navigation

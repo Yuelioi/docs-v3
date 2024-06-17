@@ -1,5 +1,5 @@
 ---
-display_name: Set Looping
+title: Set Looping
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Mesh Section
+title: Create Mesh Section
 order: 11
 ---
 ## Navigation

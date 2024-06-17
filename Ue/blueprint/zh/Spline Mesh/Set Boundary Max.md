@@ -1,5 +1,5 @@
 ---
-display_name: Set Boundary Max
+title: Set Boundary Max
 order: 15
 ---
 ## Navigation

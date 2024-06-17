@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Transform
+title: Set Global Transform
 order: 2
 ---
 ## Navigation

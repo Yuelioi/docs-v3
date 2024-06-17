@@ -1,5 +1,5 @@
 ---
-display_name: Write Spawn Info
+title: Write Spawn Info
 order: 27
 ---
 ## Navigation

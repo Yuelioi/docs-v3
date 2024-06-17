@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Uniform
+title: Sphere Uniform
 order: 12
 ---
 ## Navigation

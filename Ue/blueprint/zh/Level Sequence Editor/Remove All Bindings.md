@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Bindings
+title: Remove All Bindings
 order: 53
 ---
 ## Navigation

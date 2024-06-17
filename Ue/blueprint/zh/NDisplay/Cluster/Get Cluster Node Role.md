@@ -1,5 +1,5 @@
 ---
-display_name: Get Cluster Node Role
+title: Get Cluster Node Role
 order: 3
 ---
 ## Navigation

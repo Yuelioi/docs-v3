@@ -1,5 +1,5 @@
 ---
-display_name: Normal from Vector
+title: Normal from Vector
 order: 51
 ---
 ## Navigation

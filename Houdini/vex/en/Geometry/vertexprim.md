@@ -1,5 +1,5 @@
 ---
-display_name: vertexprim
+title: vertexprim
 order: 44
 ---
 `int  vertexprim(<geometry>geometry, int linearvertex)`

@@ -1,5 +1,5 @@
 ---
-display_name: Mouse Events
+title: Mouse Events
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Random Point In Bounding Box (Box)
+title: Random Point In Bounding Box (Box)
 order: 24
 ---
 ## Navigation

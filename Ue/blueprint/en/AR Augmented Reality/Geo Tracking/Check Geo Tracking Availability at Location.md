@@ -1,5 +1,5 @@
 ---
-display_name: Check Geo Tracking Availability at Location
+title: Check Geo Tracking Availability at Location
 order: 3
 ---
 ## Navigation

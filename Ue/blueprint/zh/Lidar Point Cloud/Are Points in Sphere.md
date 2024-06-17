@@ -1,5 +1,5 @@
 ---
-display_name: Are Points in Sphere
+title: Are Points in Sphere
 order: 9
 ---
 ## Navigation

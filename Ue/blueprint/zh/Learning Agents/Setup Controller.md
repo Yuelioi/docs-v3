@@ -1,5 +1,5 @@
 ---
-display_name: Setup Controller
+title: Setup Controller
 order: 268
 ---
 ## Navigation

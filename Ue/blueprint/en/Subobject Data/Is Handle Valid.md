@@ -1,5 +1,5 @@
 ---
-display_name: Is Handle Valid
+title: Is Handle Valid
 order: 19
 ---
 ## Navigation

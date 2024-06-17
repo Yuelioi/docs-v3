@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result
+title: Get Hit Result
 order: 11
 ---
 ## Navigation

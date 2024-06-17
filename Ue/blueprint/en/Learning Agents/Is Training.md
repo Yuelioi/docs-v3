@@ -1,5 +1,5 @@
 ---
-display_name: Is Training
+title: Is Training
 order: 144
 ---
 ## Navigation

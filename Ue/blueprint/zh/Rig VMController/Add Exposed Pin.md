@@ -1,5 +1,5 @@
 ---
-display_name: Add Exposed Pin
+title: Add Exposed Pin
 order: 9
 ---
 ## Navigation

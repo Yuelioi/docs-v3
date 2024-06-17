@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Two Sided Editor Only
+title: Set MIC Two Sided Editor Only
 order: 55
 ---
 ## Navigation

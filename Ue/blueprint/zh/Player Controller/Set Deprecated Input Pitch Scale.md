@@ -1,5 +1,5 @@
 ---
-display_name: Set Deprecated Input Pitch Scale
+title: Set Deprecated Input Pitch Scale
 order: 6
 ---
 ## Navigation

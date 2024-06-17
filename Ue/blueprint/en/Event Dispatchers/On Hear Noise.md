@@ -1,5 +1,5 @@
 ---
-display_name: On Hear Noise
+title: On Hear Noise
 order: 93
 ---
 ## Navigation

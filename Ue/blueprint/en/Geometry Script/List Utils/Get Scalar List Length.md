@@ -1,5 +1,5 @@
 ---
-display_name: Get Scalar List Length
+title: Get Scalar List Length
 order: 33
 ---
 ## Navigation

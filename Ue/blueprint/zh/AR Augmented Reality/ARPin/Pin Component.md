@@ -1,5 +1,5 @@
 ---
-display_name: Pin Component
+title: Pin Component
 order: 7
 ---
 ## Navigation

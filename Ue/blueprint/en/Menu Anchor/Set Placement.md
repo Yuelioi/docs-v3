@@ -1,5 +1,5 @@
 ---
-display_name: Set Placement
+title: Set Placement
 order: 7
 ---
 ## Navigation

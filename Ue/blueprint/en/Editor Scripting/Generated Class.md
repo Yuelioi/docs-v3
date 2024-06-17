@@ -1,5 +1,5 @@
 ---
-display_name: Generated Class
+title: Generated Class
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon List from Simple Polygons
+title: Create Polygon List from Simple Polygons
 order: 3
 ---
 ## Navigation

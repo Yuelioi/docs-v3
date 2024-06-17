@@ -1,5 +1,5 @@
 ---
-display_name: Multi Trace Hit Proxy on Viewport
+title: Multi Trace Hit Proxy on Viewport
 order: 3
 ---
 ## Navigation

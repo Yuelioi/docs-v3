@@ -1,5 +1,5 @@
 ---
-display_name: Restart Logic
+title: Restart Logic
 order: 5
 ---
 ## Navigation

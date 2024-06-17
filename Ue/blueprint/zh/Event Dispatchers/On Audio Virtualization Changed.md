@@ -1,5 +1,5 @@
 ---
-display_name: On Audio Virtualization Changed
+title: On Audio Virtualization Changed
 order: 53
 ---
 ## Navigation

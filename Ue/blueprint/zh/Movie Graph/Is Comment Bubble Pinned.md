@@ -1,5 +1,5 @@
 ---
-display_name: Is Comment Bubble Pinned
+title: Is Comment Bubble Pinned
 order: 54
 ---
 ## Navigation

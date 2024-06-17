@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance from Camera
+title: Get Distance from Camera
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Layer with Mask
+title: Add Layer with Mask
 order: 3
 ---
 ## Navigation

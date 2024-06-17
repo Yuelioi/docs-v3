@@ -1,5 +1,5 @@
 ---
-display_name: End Ability Locally
+title: End Ability Locally
 order: 12
 ---
 ## Navigation

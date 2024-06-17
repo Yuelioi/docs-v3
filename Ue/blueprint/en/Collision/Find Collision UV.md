@@ -1,5 +1,5 @@
 ---
-display_name: Find Collision UV
+title: Find Collision UV
 order: 18
 ---
 ## Navigation

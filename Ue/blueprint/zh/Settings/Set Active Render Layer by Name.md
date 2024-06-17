@@ -1,5 +1,5 @@
 ---
-display_name: Set Active Render Layer by Name
+title: Set Active Render Layer by Name
 order: 105
 ---
 ## Navigation

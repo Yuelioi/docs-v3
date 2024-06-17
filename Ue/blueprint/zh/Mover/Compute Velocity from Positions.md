@@ -1,5 +1,5 @@
 ---
-display_name: Compute Velocity from Positions
+title: Compute Velocity from Positions
 order: 14
 ---
 ## Navigation

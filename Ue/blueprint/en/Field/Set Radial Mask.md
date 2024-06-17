@@ -1,5 +1,5 @@
 ---
-display_name: Set Radial Mask
+title: Set Radial Mask
 order: 25
 ---
 ## Navigation

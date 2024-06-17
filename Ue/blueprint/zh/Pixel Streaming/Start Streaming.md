@@ -1,5 +1,5 @@
 ---
-display_name: Start Streaming
+title: Start Streaming
 order: 25
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Registry Item From Lookup (experimental)
+title: Get Data Registry Item From Lookup (experimental)
 order: 7
 ---
 ## Navigation

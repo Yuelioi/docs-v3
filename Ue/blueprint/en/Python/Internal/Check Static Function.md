@@ -1,5 +1,5 @@
 ---
-display_name: Check Static Function
+title: Check Static Function
 order: 19
 ---
 ## Navigation

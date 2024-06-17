@@ -1,5 +1,5 @@
 ---
-display_name: planesphereintersect
+title: planesphereintersect
 order: 52
 ---
 `int  planesphereintersect(vector plane_pos, vector plane_normal, vector sphere_pos, float sphere_radius, vector &intersect_pos, float &intersect_radius, float &intersect_distance)`

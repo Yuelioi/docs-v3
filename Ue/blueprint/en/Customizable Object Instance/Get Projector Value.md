@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Value
+title: Get Projector Value
 order: 37
 ---
 ## Navigation

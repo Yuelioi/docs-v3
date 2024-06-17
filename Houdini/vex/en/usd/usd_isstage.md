@@ -1,5 +1,5 @@
 ---
-display_name: usd_isstage
+title: usd_isstage
 order: 80
 ---
 | Since | 17.5 |

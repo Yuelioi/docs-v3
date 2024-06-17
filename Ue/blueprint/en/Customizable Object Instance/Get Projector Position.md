@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Position
+title: Get Projector Position
 order: 33
 ---
 ## Navigation

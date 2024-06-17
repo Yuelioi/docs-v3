@@ -1,5 +1,5 @@
 ---
-display_name: Reset Dynamics
+title: Reset Dynamics
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Light Source Soft Angle
+title: Set Light Source Soft Angle
 order: 21
 ---
 ## Navigation

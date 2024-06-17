@@ -1,5 +1,5 @@
 ---
-display_name: Cancel Undo Bracket
+title: Cancel Undo Bracket
 order: 38
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Move to Failed
+title: On Move to Failed
 order: 120
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Flush Events
+title: Flush Events
 order: 2
 ---
 ## Navigation

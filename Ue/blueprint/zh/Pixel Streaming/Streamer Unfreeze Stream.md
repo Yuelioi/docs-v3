@@ -1,5 +1,5 @@
 ---
-display_name: Streamer Unfreeze Stream
+title: Streamer Unfreeze Stream
 order: 32
 ---
 ## Navigation

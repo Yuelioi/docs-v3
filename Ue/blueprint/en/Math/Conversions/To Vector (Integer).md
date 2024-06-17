@@ -1,5 +1,5 @@
 ---
-display_name: To Vector (Integer)
+title: To Vector (Integer)
 order: 32
 ---
 ## Navigation

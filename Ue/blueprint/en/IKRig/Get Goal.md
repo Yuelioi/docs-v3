@@ -1,5 +1,5 @@
 ---
-display_name: Get Goal
+title: Get Goal
 order: 17
 ---
 ## Navigation

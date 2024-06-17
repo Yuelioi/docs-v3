@@ -1,5 +1,5 @@
 ---
-display_name: On Graph Started Generating
+title: On Graph Started Generating
 order: 92
 ---
 ## Navigation

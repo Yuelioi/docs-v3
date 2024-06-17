@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Table Column as String
+title: Get Data Table Column as String
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Transform No Scale
+title: Make Control Value from Transform No Scale
 order: 107
 ---
 ## Navigation

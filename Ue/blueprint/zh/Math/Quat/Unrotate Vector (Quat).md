@@ -1,5 +1,5 @@
 ---
-display_name: Unrotate Vector (Quat)
+title: Unrotate Vector (Quat)
 order: 30
 ---
 ## Navigation

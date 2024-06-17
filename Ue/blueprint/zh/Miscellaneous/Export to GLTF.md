@@ -1,5 +1,5 @@
 ---
-display_name: Export to GLTF
+title: Export to GLTF
 order: 1
 ---
 ## Navigation

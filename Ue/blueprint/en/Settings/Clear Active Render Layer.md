@@ -1,5 +1,5 @@
 ---
-display_name: Clear Active Render Layer
+title: Clear Active Render Layer
 order: 16
 ---
 ## Navigation

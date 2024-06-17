@@ -1,5 +1,5 @@
 ---
-display_name: Create Variant
+title: Create Variant
 order: 12
 ---
 ## Navigation

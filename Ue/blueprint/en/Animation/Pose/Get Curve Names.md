@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Names
+title: Get Curve Names
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Log
+title: Log
 order: 18
 ---
 ## Navigation

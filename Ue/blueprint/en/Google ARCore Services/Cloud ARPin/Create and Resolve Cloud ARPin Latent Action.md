@@ -1,5 +1,5 @@
 ---
-display_name: Create and Resolve Cloud ARPin Latent Action
+title: Create and Resolve Cloud ARPin Latent Action
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Right Trigger
+title: Gamepad Right Trigger
 order: 30
 ---
 ## Navigation

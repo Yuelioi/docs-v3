@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Index
+title: Get Selected Index
 order: 7
 ---
 ## Navigation

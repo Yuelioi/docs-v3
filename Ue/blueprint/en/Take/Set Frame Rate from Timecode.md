@@ -1,5 +1,5 @@
 ---
-display_name: Set Frame Rate from Timecode
+title: Set Frame Rate from Timecode
 order: 19
 ---
 ## Navigation

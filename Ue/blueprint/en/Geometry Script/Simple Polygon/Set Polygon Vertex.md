@@ -1,5 +1,5 @@
 ---
-display_name: Set Polygon Vertex
+title: Set Polygon Vertex
 order: 11
 ---
 ## Navigation

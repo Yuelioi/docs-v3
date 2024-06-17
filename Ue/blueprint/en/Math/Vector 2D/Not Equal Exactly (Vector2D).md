@@ -1,5 +1,5 @@
 ---
-display_name: Not Equal Exactly (Vector2D)
+title: Not Equal Exactly (Vector2D)
 order: 20
 ---
 ## Navigation

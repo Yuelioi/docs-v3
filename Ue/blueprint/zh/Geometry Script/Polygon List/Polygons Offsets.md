@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Offsets
+title: Polygons Offsets
 order: 23
 ---
 ## Navigation

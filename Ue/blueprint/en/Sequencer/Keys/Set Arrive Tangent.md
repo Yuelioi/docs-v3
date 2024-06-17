@@ -1,5 +1,5 @@
 ---
-display_name: Set Arrive Tangent
+title: Set Arrive Tangent
 order: 100
 ---
 ## Navigation

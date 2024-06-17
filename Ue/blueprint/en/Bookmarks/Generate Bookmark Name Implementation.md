@@ -1,5 +1,5 @@
 ---
-display_name: Generate Bookmark Name Implementation
+title: Generate Bookmark Name Implementation
 order: 5
 ---
 ## Navigation

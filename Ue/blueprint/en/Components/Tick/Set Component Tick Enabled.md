@@ -1,5 +1,5 @@
 ---
-display_name: Set Component Tick Enabled
+title: Set Component Tick Enabled
 order: 7
 ---
 ## Navigation

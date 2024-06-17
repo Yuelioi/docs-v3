@@ -1,5 +1,5 @@
 ---
-display_name: Get Base Material
+title: Get Base Material
 order: 5
 ---
 ## Navigation

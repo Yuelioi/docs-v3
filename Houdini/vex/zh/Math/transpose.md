@@ -1,5 +1,5 @@
 ---
-display_name: transpose
+title: transpose
 order: 87
 ---
 `void  transpose(<matrix>&m)`

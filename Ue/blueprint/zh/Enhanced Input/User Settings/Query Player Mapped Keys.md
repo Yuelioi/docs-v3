@@ -1,5 +1,5 @@
 ---
-display_name: Query Player Mapped Keys
+title: Query Player Mapped Keys
 order: 22
 ---
 ## Navigation

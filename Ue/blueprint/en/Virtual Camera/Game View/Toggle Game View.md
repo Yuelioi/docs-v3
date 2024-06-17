@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Game View
+title: Toggle Game View
 order: 7
 ---
 ## Navigation

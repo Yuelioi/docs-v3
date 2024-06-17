@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Parameter Value
+title: Set Vector Parameter Value
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Force Mip Levels to be Resident
+title: Set Force Mip Levels to be Resident
 order: 44
 ---
 ## Navigation

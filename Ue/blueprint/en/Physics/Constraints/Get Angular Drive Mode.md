@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Drive Mode
+title: Get Angular Drive Mode
 order: 3
 ---
 ## Navigation

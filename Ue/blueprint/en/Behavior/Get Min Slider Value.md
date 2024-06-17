@@ -1,5 +1,5 @@
 ---
-display_name: Get Min Slider Value
+title: Get Min Slider Value
 order: 9
 ---
 ## Navigation

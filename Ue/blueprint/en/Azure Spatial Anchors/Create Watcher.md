@@ -1,5 +1,5 @@
 ---
-display_name: Create Watcher
+title: Create Watcher
 order: 3
 ---
 ## Navigation

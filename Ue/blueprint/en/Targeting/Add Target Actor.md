@@ -1,5 +1,5 @@
 ---
-display_name: Add Target Actor
+title: Add Target Actor
 order: 2
 ---
 ## Navigation

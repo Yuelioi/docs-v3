@@ -1,5 +1,5 @@
 ---
-display_name: As Float
+title: As Float
 order: 4
 ---
 ## Navigation

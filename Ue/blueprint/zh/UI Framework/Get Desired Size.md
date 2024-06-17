@@ -1,5 +1,5 @@
 ---
-display_name: Get Desired Size
+title: Get Desired Size
 order: 5
 ---
 ## Navigation

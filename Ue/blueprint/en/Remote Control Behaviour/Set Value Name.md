@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Name
+title: Set Value Name
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Overlap Priority
+title: Set Overlap Priority
 order: 87
 ---
 ## Navigation

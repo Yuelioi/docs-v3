@@ -1,5 +1,5 @@
 ---
-display_name: Add Decorator
+title: Add Decorator
 order: 7
 ---
 ## Navigation

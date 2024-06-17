@@ -1,5 +1,5 @@
 ---
-display_name: Get Base Translation Offset
+title: Get Base Translation Offset
 order: 6
 ---
 ## Navigation

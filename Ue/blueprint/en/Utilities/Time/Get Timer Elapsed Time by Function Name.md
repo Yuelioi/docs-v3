@@ -1,5 +1,5 @@
 ---
-display_name: Get Timer Elapsed Time by Function Name
+title: Get Timer Elapsed Time by Function Name
 order: 12
 ---
 ## Navigation

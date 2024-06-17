@@ -1,5 +1,5 @@
 ---
-display_name: Get Props Source
+title: Get Props Source
 order: 23
 ---
 ## Navigation

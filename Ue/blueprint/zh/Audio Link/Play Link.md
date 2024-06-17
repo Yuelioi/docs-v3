@@ -1,5 +1,5 @@
 ---
-display_name: Play Link
+title: Play Link
 order: 4
 ---
 ## Navigation

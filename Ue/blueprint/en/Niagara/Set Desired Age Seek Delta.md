@@ -1,5 +1,5 @@
 ---
-display_name: Set Desired Age Seek Delta
+title: Set Desired Age Seek Delta
 order: 17
 ---
 ## Navigation

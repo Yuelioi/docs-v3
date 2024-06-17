@@ -1,5 +1,5 @@
 ---
-display_name: Collapse Nodes to Function
+title: Collapse Nodes to Function
 order: 12
 ---
 ## Navigation

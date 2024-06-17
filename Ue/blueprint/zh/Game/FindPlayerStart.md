@@ -1,5 +1,5 @@
 ---
-display_name: FindPlayerStart
+title: FindPlayerStart
 order: 16
 ---
 ## Navigation

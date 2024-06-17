@@ -1,5 +1,5 @@
 ---
-display_name: Get Option Contribution
+title: Get Option Contribution
 order: 11
 ---
 ## Navigation

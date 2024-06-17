@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Center Colors
+title: Get Texture Center Colors
 order: 54
 ---
 ## Navigation

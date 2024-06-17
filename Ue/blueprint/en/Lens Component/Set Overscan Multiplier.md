@@ -1,5 +1,5 @@
 ---
-display_name: Set Overscan Multiplier
+title: Set Overscan Multiplier
 order: 25
 ---
 ## Navigation

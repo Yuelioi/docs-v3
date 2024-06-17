@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Time Seconds
+title: Get Audio Time Seconds
 order: 6
 ---
 ## Navigation

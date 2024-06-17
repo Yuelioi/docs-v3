@@ -1,5 +1,5 @@
 ---
-display_name: Release Render Target
+title: Release Render Target
 order: 1
 ---
 ## Navigation

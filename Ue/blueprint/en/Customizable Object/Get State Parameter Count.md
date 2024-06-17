@@ -1,5 +1,5 @@
 ---
-display_name: Get State Parameter Count
+title: Get State Parameter Count
 order: 20
 ---
 ## Navigation

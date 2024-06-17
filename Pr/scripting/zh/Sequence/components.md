@@ -1,6 +1,6 @@
 ---
 order: 3
-display_name: components 组件对象
+title: components 组件对象
 ---
 
 ---

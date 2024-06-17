@@ -1,5 +1,5 @@
 ---
-display_name: Get Previous Parent
+title: Get Previous Parent
 order: 69
 ---
 ## Navigation

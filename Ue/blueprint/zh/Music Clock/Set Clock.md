@@ -1,5 +1,5 @@
 ---
-display_name: Set Clock
+title: Set Clock
 order: 45
 ---
 ## Navigation

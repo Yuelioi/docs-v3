@@ -1,5 +1,5 @@
 ---
-display_name: Get Controller Side
+title: Get Controller Side
 order: 2
 ---
 ## Navigation

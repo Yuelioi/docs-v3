@@ -1,5 +1,5 @@
 ---
-display_name: Set Lifetime Scale Enabled
+title: Set Lifetime Scale Enabled
 order: 32
 ---
 ## Navigation

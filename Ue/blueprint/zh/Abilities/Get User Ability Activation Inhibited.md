@@ -1,5 +1,5 @@
 ---
-display_name: Get User Ability Activation Inhibited
+title: Get User Ability Activation Inhibited
 order: 1
 ---
 ## Navigation

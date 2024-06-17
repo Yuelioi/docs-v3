@@ -1,5 +1,5 @@
 ---
-display_name: Get Altitude Meters
+title: Get Altitude Meters
 order: 5
 ---
 ## Navigation

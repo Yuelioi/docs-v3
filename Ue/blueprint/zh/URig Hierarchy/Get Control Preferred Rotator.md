@@ -1,5 +1,5 @@
 ---
-display_name: Get Control Preferred Rotator
+title: Get Control Preferred Rotator
 order: 19
 ---
 ## Navigation

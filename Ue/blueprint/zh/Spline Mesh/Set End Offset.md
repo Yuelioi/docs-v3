@@ -1,5 +1,5 @@
 ---
-display_name: Set End Offset
+title: Set End Offset
 order: 17
 ---
 ## Navigation

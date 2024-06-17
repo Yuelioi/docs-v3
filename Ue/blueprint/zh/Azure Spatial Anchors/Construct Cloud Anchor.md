@@ -1,5 +1,5 @@
 ---
-display_name: Construct Cloud Anchor
+title: Construct Cloud Anchor
 order: 1
 ---
 ## Navigation

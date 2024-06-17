@@ -1,5 +1,5 @@
 ---
-display_name: Compute Render Capture Cameras for Box
+title: Compute Render Capture Cameras for Box
 order: 3
 ---
 ## Navigation

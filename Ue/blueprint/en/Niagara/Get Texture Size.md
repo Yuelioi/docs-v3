@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Size
+title: Get Texture Size
 order: 24
 ---
 ## Navigation

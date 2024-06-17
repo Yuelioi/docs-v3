@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Pressed Brush
+title: Get Selected Pressed Brush
 order: 14
 ---
 ## Navigation

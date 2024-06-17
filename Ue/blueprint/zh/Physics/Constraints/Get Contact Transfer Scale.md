@@ -1,5 +1,5 @@
 ---
-display_name: Get Contact Transfer Scale
+title: Get Contact Transfer Scale
 order: 17
 ---
 ## Navigation

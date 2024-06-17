@@ -1,5 +1,5 @@
 ---
-display_name: Remove Motor Audio Component
+title: Remove Motor Audio Component
 order: 3
 ---
 ## Navigation

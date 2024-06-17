@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Action
+title: Get Float Action
 order: 70
 ---
 ## Navigation

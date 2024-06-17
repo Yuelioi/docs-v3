@@ -1,5 +1,5 @@
 ---
-display_name: Diff Assets
+title: Diff Assets
 order: 13
 ---
 ## Navigation

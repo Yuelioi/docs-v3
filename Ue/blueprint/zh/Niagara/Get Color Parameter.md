@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Parameter
+title: Get Color Parameter
 order: 8
 ---
 ## Navigation

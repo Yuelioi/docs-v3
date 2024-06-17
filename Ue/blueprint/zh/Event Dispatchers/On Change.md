@@ -1,5 +1,5 @@
 ---
-display_name: On Change
+title: On Change
 order: 62
 ---
 ## Navigation

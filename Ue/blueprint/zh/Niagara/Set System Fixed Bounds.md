@@ -1,5 +1,5 @@
 ---
-display_name: Set System Fixed Bounds
+title: Set System Fixed Bounds
 order: 67
 ---
 ## Navigation

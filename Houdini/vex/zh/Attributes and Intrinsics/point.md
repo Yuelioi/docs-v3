@@ -1,5 +1,5 @@
 ---
-display_name: point
+title: point
 order: 34
 ---
 `<type> point(<geometry>geometry, string attribute_name, int pointnumber)`

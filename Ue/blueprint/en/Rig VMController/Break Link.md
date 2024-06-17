@@ -1,5 +1,5 @@
 ---
-display_name: Break Link
+title: Break Link
 order: 36
 ---
 ## Navigation

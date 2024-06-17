@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Control Shape Transform by Index
+title: Get Global Control Shape Transform by Index
 order: 35
 ---
 ## Navigation

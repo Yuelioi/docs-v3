@@ -1,5 +1,5 @@
 ---
-display_name: shr
+title: shr
 order: 69
 ---
 `int  shr(int a, int bits)`

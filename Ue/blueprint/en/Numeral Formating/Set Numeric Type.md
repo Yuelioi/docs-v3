@@ -1,5 +1,5 @@
 ---
-display_name: Set Numeric Type
+title: Set Numeric Type
 order: 1
 ---
 ## Navigation

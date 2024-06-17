@@ -1,5 +1,5 @@
 ---
-display_name: Cast To Class
+title: Cast To Class
 order: 35
 ---
 ## Navigation

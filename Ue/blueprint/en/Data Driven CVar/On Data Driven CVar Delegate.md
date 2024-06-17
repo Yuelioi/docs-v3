@@ -1,5 +1,5 @@
 ---
-display_name: On Data Driven CVar Delegate
+title: On Data Driven CVar Delegate
 order: 1
 ---
 ## Navigation

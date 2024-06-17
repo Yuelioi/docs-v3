@@ -1,5 +1,5 @@
 ---
-display_name: Equal, Case Insensitive (Text)
+title: Equal, Case Insensitive (Text)
 order: 14
 ---
 ## Navigation

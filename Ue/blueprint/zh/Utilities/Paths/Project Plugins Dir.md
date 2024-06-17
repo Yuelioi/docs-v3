@@ -1,5 +1,5 @@
 ---
-display_name: Project Plugins Dir
+title: Project Plugins Dir
 order: 74
 ---
 ## Navigation

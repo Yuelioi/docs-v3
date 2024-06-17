@@ -1,5 +1,5 @@
 ---
-display_name: Remove Query
+title: Remove Query
 order: 96
 ---
 ## Navigation

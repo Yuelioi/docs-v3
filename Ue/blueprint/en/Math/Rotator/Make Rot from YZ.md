@@ -1,5 +1,5 @@
 ---
-display_name: Make Rot from YZ
+title: Make Rot from YZ
 order: 17
 ---
 ## Navigation

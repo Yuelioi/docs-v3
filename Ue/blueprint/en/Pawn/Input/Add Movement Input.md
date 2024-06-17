@@ -1,5 +1,5 @@
 ---
-display_name: Add Movement Input
+title: Add Movement Input
 order: 4
 ---
 ## Navigation

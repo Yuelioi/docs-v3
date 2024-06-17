@@ -1,5 +1,5 @@
 ---
-display_name: photonmap
+title: photonmap
 order: 35
 ---
 | On this page | * [Variadic arguments](#variadic-arguments) * [Examples](#examples) |

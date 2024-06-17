@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Modifiers
+title: Remove All Modifiers
 order: 13
 ---
 ## Navigation

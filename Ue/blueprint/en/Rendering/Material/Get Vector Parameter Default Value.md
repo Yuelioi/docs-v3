@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Parameter Default Value
+title: Get Vector Parameter Default Value
 order: 28
 ---
 ## Navigation

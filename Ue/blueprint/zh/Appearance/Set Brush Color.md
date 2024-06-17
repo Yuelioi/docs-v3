@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush Color
+title: Set Brush Color
 order: 21
 ---
 ## Navigation

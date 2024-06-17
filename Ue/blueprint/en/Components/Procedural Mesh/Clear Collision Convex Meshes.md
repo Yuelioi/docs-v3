@@ -1,5 +1,5 @@
 ---
-display_name: Clear Collision Convex Meshes
+title: Clear Collision Convex Meshes
 order: 4
 ---
 ## Navigation

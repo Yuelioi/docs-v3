@@ -1,5 +1,5 @@
 ---
-display_name: Create Animation Sharing Manager
+title: Create Animation Sharing Manager
 order: 2
 ---
 ## Navigation

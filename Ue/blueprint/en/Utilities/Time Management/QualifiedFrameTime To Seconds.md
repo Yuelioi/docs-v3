@@ -1,5 +1,5 @@
 ---
-display_name: QualifiedFrameTime To Seconds
+title: QualifiedFrameTime To Seconds
 order: 11
 ---
 ## Navigation

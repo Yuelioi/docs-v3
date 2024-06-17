@@ -1,5 +1,5 @@
 ---
-display_name: Clear Min Slider Value
+title: Clear Min Slider Value
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: hex_adjacent
+title: hex_adjacent
 order: 1
 ---
 `int  hex_adjacent(<geometry>geometry, int primindex, int faceno)`

@@ -1,5 +1,5 @@
 ---
-display_name: Local Array of Rotators
+title: Local Array of Rotators
 order: 7
 ---
 ## Navigation

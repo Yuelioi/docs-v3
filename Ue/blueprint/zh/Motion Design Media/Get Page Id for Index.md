@@ -1,5 +1,5 @@
 ---
-display_name: Get Page Id for Index
+title: Get Page Id for Index
 order: 2
 ---
 ## Navigation

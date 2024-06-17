@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Layer Identifiers
+title: Get Selected Layer Identifiers
 order: 1
 ---
 ## Navigation

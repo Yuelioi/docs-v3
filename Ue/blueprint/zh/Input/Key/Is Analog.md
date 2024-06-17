@@ -1,5 +1,5 @@
 ---
-display_name: Is Analog
+title: Is Analog
 order: 3
 ---
 ## Navigation

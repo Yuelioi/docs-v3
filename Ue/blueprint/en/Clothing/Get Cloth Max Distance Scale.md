@@ -1,5 +1,5 @@
 ---
-display_name: Get Cloth Max Distance Scale
+title: Get Cloth Max Distance Scale
 order: 4
 ---
 ## Navigation

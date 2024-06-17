@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate Previews
+title: Deactivate Previews
 order: 2
 ---
 ## Navigation

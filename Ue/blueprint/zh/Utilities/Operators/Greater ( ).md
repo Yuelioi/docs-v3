@@ -1,5 +1,5 @@
 ---
-display_name: Greater ( )
+title: Greater ( )
 order: 4
 ---
 ## Navigation

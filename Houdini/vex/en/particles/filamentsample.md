@@ -1,5 +1,5 @@
 ---
-display_name: filamentsample
+title: filamentsample
 order: 1
 ---
 `vector  filamentsample(<geometry>geometry, vector position)`

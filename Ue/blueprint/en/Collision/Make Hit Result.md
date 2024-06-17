@@ -1,5 +1,5 @@
 ---
-display_name: Make Hit Result
+title: Make Hit Result
 order: 45
 ---
 ## Navigation

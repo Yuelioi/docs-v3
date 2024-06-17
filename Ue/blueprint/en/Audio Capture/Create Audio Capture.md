@@ -1,5 +1,5 @@
 ---
-display_name: Create Audio Capture
+title: Create Audio Capture
 order: 1
 ---
 ## Navigation

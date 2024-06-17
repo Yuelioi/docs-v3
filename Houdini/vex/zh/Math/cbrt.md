@@ -1,5 +1,5 @@
 ---
-display_name: cbrt
+title: cbrt
 order: 10
 ---
 `float  cbrt(float n)`

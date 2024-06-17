@@ -1,5 +1,5 @@
 ---
-display_name: Is Usd Available
+title: Is Usd Available
 order: 17
 ---
 ## Navigation

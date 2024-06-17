@@ -1,5 +1,5 @@
 ---
-display_name: Append Delaunay Triangulation 2D
+title: Append Delaunay Triangulation 2D
 order: 7
 ---
 ## Navigation

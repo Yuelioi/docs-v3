@@ -1,5 +1,5 @@
 ---
-display_name: Is Touching Trackpad
+title: Is Touching Trackpad
 order: 10
 ---
 ## Navigation

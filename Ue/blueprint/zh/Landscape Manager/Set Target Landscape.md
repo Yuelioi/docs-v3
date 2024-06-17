@@ -1,5 +1,5 @@
 ---
-display_name: Set Target Landscape
+title: Set Target Landscape
 order: 1
 ---
 ## Navigation

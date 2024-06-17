@@ -1,5 +1,5 @@
 ---
-display_name: chprim_keyvalues
+title: chprim_keyvalues
 order: 8
 ---
 `float [] chprim_keyvalues(<geometry>geometry, int prim)`

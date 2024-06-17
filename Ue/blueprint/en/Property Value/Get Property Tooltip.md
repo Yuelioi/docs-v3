@@ -1,5 +1,5 @@
 ---
-display_name: Get Property Tooltip
+title: Get Property Tooltip
 order: 2
 ---
 ## Navigation

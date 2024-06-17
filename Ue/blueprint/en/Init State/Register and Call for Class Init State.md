@@ -1,5 +1,5 @@
 ---
-display_name: Register and Call for Class Init State
+title: Register and Call for Class Init State
 order: 8
 ---
 ## Navigation

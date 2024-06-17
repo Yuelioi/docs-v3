@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifiers Update Kinematic from Simulation
+title: Set Body Modifiers Update Kinematic from Simulation
 order: 71
 ---
 ## Navigation

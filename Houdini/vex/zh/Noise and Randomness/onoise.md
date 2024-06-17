@@ -1,5 +1,5 @@
 ---
-display_name: onoise
+title: onoise
 order: 26
 ---
 `float  onoise(vector pos)`

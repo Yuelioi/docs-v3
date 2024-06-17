@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Soft Limit Params
+title: Get Linear Soft Limit Params
 order: 25
 ---
 ## Navigation

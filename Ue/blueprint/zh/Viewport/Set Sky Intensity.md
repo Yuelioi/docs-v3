@@ -1,5 +1,5 @@
 ---
-display_name: Set Sky Intensity
+title: Set Sky Intensity
 order: 18
 ---
 ## Navigation

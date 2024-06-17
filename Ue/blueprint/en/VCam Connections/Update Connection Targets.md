@@ -1,5 +1,5 @@
 ---
-display_name: Update Connection Targets
+title: Update Connection Targets
 order: 11
 ---
 ## Navigation

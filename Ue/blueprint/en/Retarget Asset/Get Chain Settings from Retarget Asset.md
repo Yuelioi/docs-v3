@@ -1,5 +1,5 @@
 ---
-display_name: Get Chain Settings from Retarget Asset
+title: Get Chain Settings from Retarget Asset
 order: 1
 ---
 ## Navigation

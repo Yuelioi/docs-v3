@@ -1,5 +1,5 @@
 ---
-display_name: Vector 4 Set
+title: Vector 4 Set
 order: 24
 ---
 ## Navigation

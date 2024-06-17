@@ -1,5 +1,5 @@
 ---
-display_name: Set Shadow Quality
+title: Set Shadow Quality
 order: 132
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Gravity Z
+title: Get Gravity Z
 order: 1
 ---
 ## Navigation

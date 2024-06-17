@@ -1,5 +1,5 @@
 ---
-display_name: Is Digital
+title: Is Digital
 order: 8
 ---
 ## Navigation

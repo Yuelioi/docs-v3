@@ -1,5 +1,5 @@
 ---
-display_name: Is Reversed
+title: Is Reversed
 order: 22
 ---
 ## Navigation

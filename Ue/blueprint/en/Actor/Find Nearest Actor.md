@@ -1,5 +1,5 @@
 ---
-display_name: Find Nearest Actor
+title: Find Nearest Actor
 order: 4
 ---
 ## Navigation

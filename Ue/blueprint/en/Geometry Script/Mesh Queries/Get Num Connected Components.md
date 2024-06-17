@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Connected Components
+title: Get Num Connected Components
 order: 26
 ---
 ## Navigation

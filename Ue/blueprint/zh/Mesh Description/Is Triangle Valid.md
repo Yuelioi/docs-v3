@@ -1,5 +1,5 @@
 ---
-display_name: Is Triangle Valid
+title: Is Triangle Valid
 order: 80
 ---
 ## Navigation

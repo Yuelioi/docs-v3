@@ -1,5 +1,5 @@
 ---
-display_name: Get Cell
+title: Get Cell
 order: 3
 ---
 ## Navigation

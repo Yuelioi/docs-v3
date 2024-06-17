@@ -1,6 +1,6 @@
 ---
 order: 5
-display_name: CC斑点化
+title: CC斑点化
 ---
 
 # CC Blobbylize - CC斑点化

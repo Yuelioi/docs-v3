@@ -1,5 +1,5 @@
 ---
-display_name: Get Apply Line Height to Bottom Line
+title: Get Apply Line Height to Bottom Line
 order: 1
 ---
 ## Navigation

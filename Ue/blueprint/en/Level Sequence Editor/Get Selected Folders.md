@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Folders
+title: Get Selected Folders
 order: 30
 ---
 ## Navigation

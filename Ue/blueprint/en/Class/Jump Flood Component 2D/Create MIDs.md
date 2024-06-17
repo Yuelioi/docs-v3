@@ -1,5 +1,5 @@
 ---
-display_name: Create MIDs
+title: Create MIDs
 order: 2
 ---
 ## Navigation

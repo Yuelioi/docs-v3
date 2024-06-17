@@ -1,5 +1,5 @@
 ---
-display_name: Get SmartObjectSubsystem
+title: Get SmartObjectSubsystem
 order: 71
 ---
 ## Navigation

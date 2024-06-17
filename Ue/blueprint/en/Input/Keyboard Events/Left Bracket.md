@@ -1,5 +1,5 @@
 ---
-display_name: Left Bracket
+title: Left Bracket
 order: 57
 ---
 ## Navigation

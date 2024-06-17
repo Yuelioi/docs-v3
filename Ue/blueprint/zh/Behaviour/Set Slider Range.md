@@ -1,5 +1,5 @@
 ---
-display_name: Set Slider Range
+title: Set Slider Range
 order: 2
 ---
 ## Navigation

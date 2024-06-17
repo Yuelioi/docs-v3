@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Size
+title: Get Data Size
 order: 22
 ---
 ## Navigation

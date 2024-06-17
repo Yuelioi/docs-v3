@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture Attributes
+title: Get Fixture Attributes
 order: 46
 ---
 ## Navigation

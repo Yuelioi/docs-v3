@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys Bound to Action
+title: Get Keys Bound to Action
 order: 3
 ---
 ## Navigation

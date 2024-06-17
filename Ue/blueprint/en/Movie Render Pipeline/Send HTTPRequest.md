@@ -1,5 +1,5 @@
 ---
-display_name: Send HTTPRequest
+title: Send HTTPRequest
 order: 12
 ---
 ## Navigation

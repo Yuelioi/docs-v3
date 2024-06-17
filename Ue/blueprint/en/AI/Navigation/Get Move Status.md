@@ -1,5 +1,5 @@
 ---
-display_name: Get Move Status
+title: Get Move Status
 order: 11
 ---
 ## Navigation

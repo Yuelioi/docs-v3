@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Player Experienced Song Pos
+title: Get Current Player Experienced Song Pos
 order: 11
 ---
 ## Navigation

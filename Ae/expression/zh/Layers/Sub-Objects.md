@@ -1,5 +1,5 @@
 ---
-display_name: Sub-Objects
+title: Sub-Objects
 order: 5
 ---
 

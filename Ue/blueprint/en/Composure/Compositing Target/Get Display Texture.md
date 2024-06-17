@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Texture
+title: Get Display Texture
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Working-With-Paths
+title: Working-With-Paths
 order: 21
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Transform Curve Keys (Message)
+title: Set Transform Curve Keys (Message)
 order: 31
 ---
 ## Navigation

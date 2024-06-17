@@ -1,5 +1,5 @@
 ---
-display_name: Set Virtual Joystick Visibility
+title: Set Virtual Joystick Visibility
 order: 30
 ---
 ## Navigation

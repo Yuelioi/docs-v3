@@ -1,5 +1,5 @@
 ---
-display_name: Get Nulls
+title: Get Nulls
 order: 60
 ---
 ## Navigation

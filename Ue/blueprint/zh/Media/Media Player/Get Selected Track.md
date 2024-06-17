@@ -1,5 +1,5 @@
 ---
-display_name: Get Selected Track
+title: Get Selected Track
 order: 21
 ---
 ## Navigation

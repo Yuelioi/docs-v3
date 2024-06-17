@@ -1,5 +1,5 @@
 ---
-display_name: planename
+title: planename
 order: 33
 ---
 | Context(s) | [cop2](../contexts/cop2.html) |

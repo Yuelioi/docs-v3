@@ -1,5 +1,5 @@
 ---
-display_name: Set Burn In
+title: Set Burn In
 order: 2
 ---
 ## Navigation

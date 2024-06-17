@@ -1,5 +1,5 @@
 ---
-display_name: frac
+title: frac
 order: 30
 ---
 `float  frac(float n)`

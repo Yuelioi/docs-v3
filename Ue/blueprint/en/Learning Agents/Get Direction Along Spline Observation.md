@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction Along Spline Observation
+title: Get Direction Along Spline Observation
 order: 54
 ---
 ## Navigation

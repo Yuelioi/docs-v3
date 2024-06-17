@@ -1,5 +1,5 @@
 ---
-display_name: Reset Transport Quantized
+title: Reset Transport Quantized
 order: 4
 ---
 ## Navigation

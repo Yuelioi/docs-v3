@@ -1,5 +1,5 @@
 ---
-display_name: Read Float
+title: Read Float
 order: 7
 ---
 ## Navigation

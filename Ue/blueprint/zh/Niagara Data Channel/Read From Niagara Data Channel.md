@@ -1,5 +1,5 @@
 ---
-display_name: Read From Niagara Data Channel
+title: Read From Niagara Data Channel
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Node Context Menu Context
+title: Get Graph Node Context Menu Context
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Variant
+title: Get Variant
 order: 87
 ---
 ## Navigation

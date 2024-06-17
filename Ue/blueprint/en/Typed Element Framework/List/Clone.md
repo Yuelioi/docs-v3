@@ -1,5 +1,5 @@
 ---
-display_name: Clone
+title: Clone
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Automation Dir
+title: Automation Dir
 order: 1
 ---
 ## Navigation

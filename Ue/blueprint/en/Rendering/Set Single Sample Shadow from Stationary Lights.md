@@ -1,5 +1,5 @@
 ---
-display_name: Set Single Sample Shadow from Stationary Lights
+title: Set Single Sample Shadow from Stationary Lights
 order: 82
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Face Toward Source
+title: Face Toward Source
 order: 1
 ---
 ## Navigation

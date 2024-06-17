@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Drive Mode
+title: Set Angular Drive Mode
 order: 34
 ---
 ## Navigation

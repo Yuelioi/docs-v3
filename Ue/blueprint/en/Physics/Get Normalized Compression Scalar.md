@@ -1,5 +1,5 @@
 ---
-display_name: Get Normalized Compression Scalar
+title: Get Normalized Compression Scalar
 order: 78
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: polyneighbours
+title: polyneighbours
 order: 24
 ---
 | Since | 17.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Get World Rotation
+title: Get World Rotation
 order: 70
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Wave Height
+title: Get Max Wave Height
 order: 1
 ---
 ## Navigation

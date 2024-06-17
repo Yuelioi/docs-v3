@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Gameplay Tag
+title: Make Literal Gameplay Tag
 order: 33
 ---
 ## Navigation

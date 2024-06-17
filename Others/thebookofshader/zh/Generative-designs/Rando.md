@@ -1,6 +1,6 @@
 ---
 order: 5
-display_name: Random
+title: Random
 ---
 
 ## 随机

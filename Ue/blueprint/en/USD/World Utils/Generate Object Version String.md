@@ -1,5 +1,5 @@
 ---
-display_name: Generate Object Version String
+title: Generate Object Version String
 order: 2
 ---
 ## Navigation

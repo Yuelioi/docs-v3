@@ -1,5 +1,5 @@
 ---
-display_name: Get Initial Bone Transform
+title: Get Initial Bone Transform
 order: 22
 ---
 ## Navigation

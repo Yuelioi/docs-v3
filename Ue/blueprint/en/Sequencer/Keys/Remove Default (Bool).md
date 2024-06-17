@@ -1,5 +1,5 @@
 ---
-display_name: Remove Default (Bool)
+title: Remove Default (Bool)
 order: 83
 ---
 ## Navigation

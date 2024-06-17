@@ -1,5 +1,5 @@
 ---
-display_name: Is Action for Blueprints
+title: Is Action for Blueprints
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: chresizebuf
+title: chresizebuf
 order: 21
 ---
 | Context(s) | [chop](../contexts/chop.html) |

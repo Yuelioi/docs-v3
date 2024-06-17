@@ -1,5 +1,5 @@
 ---
-display_name: Vector Get Sign Vector
+title: Vector Get Sign Vector
 order: 74
 ---
 ## Navigation

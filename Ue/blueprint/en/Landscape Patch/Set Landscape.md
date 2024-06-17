@@ -1,5 +1,5 @@
 ---
-display_name: Set Landscape
+title: Set Landscape
 order: 35
 ---
 ## Navigation

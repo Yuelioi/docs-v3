@@ -1,5 +1,5 @@
 ---
-display_name: Transform Rotator to World
+title: Transform Rotator to World
 order: 12
 ---
 ## Navigation

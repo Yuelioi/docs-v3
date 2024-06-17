@@ -1,5 +1,5 @@
 ---
-display_name: Rotation From X Vector
+title: Rotation From X Vector
 order: 2
 ---
 ## Navigation

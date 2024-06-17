@@ -1,5 +1,5 @@
 ---
-display_name: AddCompatibleSkeleton
+title: AddCompatibleSkeleton
 order: 4
 ---
 ## Navigation

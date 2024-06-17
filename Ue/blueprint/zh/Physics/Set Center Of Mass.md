@@ -1,5 +1,5 @@
 ---
-display_name: Set Center Of Mass
+title: Set Center Of Mass
 order: 28
 ---
 ## Navigation

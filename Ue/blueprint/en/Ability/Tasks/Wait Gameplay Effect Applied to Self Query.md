@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Applied to Self Query
+title: Wait Gameplay Effect Applied to Self Query
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Session Status
+title: Get AR Session Status
 order: 4
 ---
 ## Navigation

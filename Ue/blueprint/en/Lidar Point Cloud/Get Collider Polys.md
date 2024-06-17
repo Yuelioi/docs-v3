@@ -1,5 +1,5 @@
 ---
-display_name: Get Collider Polys
+title: Get Collider Polys
 order: 21
 ---
 ## Navigation

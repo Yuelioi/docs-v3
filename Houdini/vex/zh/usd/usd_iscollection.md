@@ -1,5 +1,5 @@
 ---
-display_name: usd_iscollection
+title: usd_iscollection
 order: 68
 ---
 | Since | 18.0 |

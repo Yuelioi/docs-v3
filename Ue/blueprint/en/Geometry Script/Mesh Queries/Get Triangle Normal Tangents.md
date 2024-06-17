@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Normal Tangents
+title: Get Triangle Normal Tangents
 order: 34
 ---
 ## Navigation

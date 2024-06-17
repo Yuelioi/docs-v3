@@ -1,5 +1,5 @@
 ---
-display_name: Begin Stats File
+title: Begin Stats File
 order: 3
 ---
 ## Navigation

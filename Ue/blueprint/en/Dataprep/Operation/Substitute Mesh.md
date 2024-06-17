@@ -1,5 +1,5 @@
 ---
-display_name: Substitute Mesh
+title: Substitute Mesh
 order: 22
 ---
 ## Navigation

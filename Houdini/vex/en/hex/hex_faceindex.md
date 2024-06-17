@@ -1,5 +1,5 @@
 ---
-display_name: hex_faceindex
+title: hex_faceindex
 order: 2
 ---
 `int  hex_faceindex(int faceno, int vtxno)`

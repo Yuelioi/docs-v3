@@ -1,5 +1,5 @@
 ---
-display_name: Get Anim Blueprint
+title: Get Anim Blueprint
 order: 1
 ---
 ## Navigation

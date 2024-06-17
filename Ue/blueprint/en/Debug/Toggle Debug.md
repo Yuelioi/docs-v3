@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Debug
+title: Toggle Debug
 order: 10
 ---
 ## Navigation

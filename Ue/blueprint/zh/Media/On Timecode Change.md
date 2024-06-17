@@ -1,5 +1,5 @@
 ---
-display_name: On Timecode Change
+title: On Timecode Change
 order: 2
 ---
 ## Navigation

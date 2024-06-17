@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Open Border Edges
+title: Get Num Open Border Edges
 order: 27
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Debug Participant Color
+title: Get Debug Participant Color
 order: 10
 ---
 ## Navigation

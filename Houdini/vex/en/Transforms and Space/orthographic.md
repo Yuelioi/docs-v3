@@ -1,5 +1,5 @@
 ---
-display_name: orthographic
+title: orthographic
 order: 10
 ---
 | Since | 17.5 |

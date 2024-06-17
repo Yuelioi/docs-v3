@@ -1,5 +1,5 @@
 ---
-display_name: Add Tag to Slot
+title: Add Tag to Slot
 order: 4
 ---
 ## Navigation

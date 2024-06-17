@@ -1,5 +1,5 @@
 ---
-display_name: Merge Skeletons
+title: Merge Skeletons
 order: 1
 ---
 ## Navigation

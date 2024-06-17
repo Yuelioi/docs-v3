@@ -1,5 +1,5 @@
 ---
-display_name: Does Gameplay Cue Meet Tag Requirements
+title: Does Gameplay Cue Meet Tag Requirements
 order: 2
 ---
 ## Navigation

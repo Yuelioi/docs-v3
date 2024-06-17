@@ -1,5 +1,5 @@
 ---
-display_name: ch
+title: ch
 order: 2
 ---
 `float  ch(string channel)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Soft Object Path
+title: Get Soft Object Path
 order: 25
 ---
 ## Navigation

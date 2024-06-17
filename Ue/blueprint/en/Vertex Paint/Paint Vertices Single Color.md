@@ -1,5 +1,5 @@
 ---
-display_name: Paint Vertices Single Color
+title: Paint Vertices Single Color
 order: 2
 ---
 ## Navigation

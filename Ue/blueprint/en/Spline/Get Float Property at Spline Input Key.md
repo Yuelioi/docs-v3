@@ -1,5 +1,5 @@
 ---
-display_name: Get Float Property at Spline Input Key
+title: Get Float Property at Spline Input Key
 order: 32
 ---
 ## Navigation

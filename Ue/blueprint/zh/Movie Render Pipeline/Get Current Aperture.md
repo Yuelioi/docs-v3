@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Aperture
+title: Get Current Aperture
 order: 25
 ---
 ## Navigation

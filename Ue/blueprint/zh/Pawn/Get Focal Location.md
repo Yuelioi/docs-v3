@@ -1,5 +1,5 @@
 ---
-display_name: Get Focal Location
+title: Get Focal Location
 order: 9
 ---
 ## Navigation

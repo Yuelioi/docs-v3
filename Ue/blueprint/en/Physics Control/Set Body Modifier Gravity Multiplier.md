@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifier Gravity Multiplier
+title: Set Body Modifier Gravity Multiplier
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Physics Angular Velocity in Radians
+title: Set Physics Angular Velocity in Radians
 order: 51
 ---
 ## Navigation

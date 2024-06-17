@@ -1,5 +1,5 @@
 ---
-display_name: Set Camera Shutter Speed
+title: Set Camera Shutter Speed
 order: 103
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Montage Slot Names
+title: Get Montage Slot Names
 order: 1
 ---
 ## Navigation

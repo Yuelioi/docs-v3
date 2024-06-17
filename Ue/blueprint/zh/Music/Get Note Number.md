@@ -1,5 +1,5 @@
 ---
-display_name: Get Note Number
+title: Get Note Number
 order: 2
 ---
 ## Navigation

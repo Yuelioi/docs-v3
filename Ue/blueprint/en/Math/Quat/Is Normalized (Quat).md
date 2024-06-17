@@ -1,5 +1,5 @@
 ---
-display_name: Is Normalized (Quat)
+title: Is Normalized (Quat)
 order: 16
 ---
 ## Navigation

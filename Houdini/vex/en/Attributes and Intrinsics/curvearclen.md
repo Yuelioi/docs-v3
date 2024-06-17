@@ -1,5 +1,5 @@
 ---
-display_name: curvearclen
+title: curvearclen
 order: 13
 ---
 | Since | 18.5 |

@@ -1,5 +1,5 @@
 ---
-display_name: Inject Input for Action
+title: Inject Input for Action
 order: 29
 ---
 ## Navigation

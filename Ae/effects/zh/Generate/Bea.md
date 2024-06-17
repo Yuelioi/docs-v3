@@ -1,5 +1,5 @@
 ---
-display_name: 光束
+title: 光束
 order: 5
 ---
 

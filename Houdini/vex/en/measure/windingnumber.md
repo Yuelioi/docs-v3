@@ -1,5 +1,5 @@
 ---
-display_name: windingnumber
+title: windingnumber
 order: 19
 ---
 `float  windingnumber(<geometry>geometry, vector origin)`

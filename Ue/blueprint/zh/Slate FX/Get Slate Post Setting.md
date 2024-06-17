@@ -1,5 +1,5 @@
 ---
-display_name: Get Slate Post Setting
+title: Get Slate Post Setting
 order: 3
 ---
 ## Navigation

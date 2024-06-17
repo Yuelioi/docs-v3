@@ -1,5 +1,5 @@
 ---
-display_name: Is Query Collision Enabled
+title: Is Query Collision Enabled
 order: 40
 ---
 ## Navigation

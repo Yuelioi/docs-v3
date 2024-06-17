@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Bool
+title: Create Script Input Bool
 order: 14
 ---
 ## Navigation

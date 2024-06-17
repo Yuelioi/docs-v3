@@ -1,5 +1,5 @@
 ---
-display_name: Is Linked To
+title: Is Linked To
 order: 44
 ---
 ## Navigation

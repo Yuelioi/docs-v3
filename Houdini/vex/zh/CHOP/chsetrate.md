@@ -1,5 +1,5 @@
 ---
-display_name: chsetrate
+title: chsetrate
 order: 24
 ---
 | Context(s) | [chop](../contexts/chop.html) |

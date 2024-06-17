@@ -1,5 +1,5 @@
 ---
-display_name: Set Gravity Force Enabled
+title: Set Gravity Force Enabled
 order: 26
 ---
 ## Navigation

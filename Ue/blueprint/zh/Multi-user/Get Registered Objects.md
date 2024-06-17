@@ -1,5 +1,5 @@
 ---
-display_name: Get Registered Objects
+title: Get Registered Objects
 order: 10
 ---
 ## Navigation

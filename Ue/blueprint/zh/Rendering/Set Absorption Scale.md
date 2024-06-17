@@ -1,5 +1,5 @@
 ---
-display_name: Set Absorption Scale
+title: Set Absorption Scale
 order: 11
 ---
 ## Navigation

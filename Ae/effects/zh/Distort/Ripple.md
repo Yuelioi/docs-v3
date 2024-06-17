@@ -1,5 +1,5 @@
 ---
-display_name: 波纹
+title: 波纹
 order: 28
 ---
 

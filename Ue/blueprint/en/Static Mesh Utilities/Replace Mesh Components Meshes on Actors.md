@@ -1,5 +1,5 @@
 ---
-display_name: Replace Mesh Components Meshes on Actors
+title: Replace Mesh Components Meshes on Actors
 order: 31
 ---
 ## Navigation

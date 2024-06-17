@@ -1,5 +1,5 @@
 ---
-display_name: Add Value to Int Range
+title: Add Value to Int Range
 order: 2
 ---
 ## Navigation

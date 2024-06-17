@@ -1,5 +1,5 @@
 ---
-display_name: Is Dynamic Resolution Enabled
+title: Is Dynamic Resolution Enabled
 order: 76
 ---
 ## Navigation

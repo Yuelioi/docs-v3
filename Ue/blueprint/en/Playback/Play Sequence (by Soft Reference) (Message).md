@@ -1,5 +1,5 @@
 ---
-display_name: Play Sequence (by Soft Reference) (Message)
+title: Play Sequence (by Soft Reference) (Message)
 order: 10
 ---
 ## Navigation

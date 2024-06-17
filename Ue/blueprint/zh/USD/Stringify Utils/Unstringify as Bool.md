@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Bool
+title: Unstringify as Bool
 order: 67
 ---
 ## Navigation

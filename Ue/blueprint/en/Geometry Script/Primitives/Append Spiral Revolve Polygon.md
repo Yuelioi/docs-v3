@@ -1,5 +1,5 @@
 ---
-display_name: Append Spiral Revolve Polygon
+title: Append Spiral Revolve Polygon
 order: 21
 ---
 ## Navigation

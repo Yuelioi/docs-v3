@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Layer Visibility
+title: Toggle Layer Visibility
 order: 40
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Leave Tangent
+title: Get Leave Tangent
 order: 47
 ---
 ## Navigation

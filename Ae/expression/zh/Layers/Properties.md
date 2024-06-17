@@ -1,5 +1,5 @@
 ---
-display_name: Properties
+title: Properties
 order: 3
 ---
 

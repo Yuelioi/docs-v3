@@ -1,5 +1,5 @@
 ---
-display_name: Get Image Center Point
+title: Get Image Center Point
 order: 12
 ---
 ## Navigation

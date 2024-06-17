@@ -1,5 +1,5 @@
 ---
-display_name: Get Double Attribute
+title: Get Double Attribute
 order: 31
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Spline Points
+title: Set Spline Points
 order: 88
 ---
 ## Navigation

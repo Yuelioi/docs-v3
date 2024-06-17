@@ -1,5 +1,5 @@
 ---
-display_name: Reset Body Modifier to Cached Bone Transform
+title: Reset Body Modifier to Cached Bone Transform
 order: 50
 ---
 ## Navigation

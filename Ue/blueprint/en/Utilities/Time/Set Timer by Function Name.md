@@ -1,5 +1,5 @@
 ---
-display_name: Set Timer by Function Name
+title: Set Timer by Function Name
 order: 28
 ---
 ## Navigation

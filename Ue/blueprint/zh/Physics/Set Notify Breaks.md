@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Breaks
+title: Set Notify Breaks
 order: 40
 ---
 ## Navigation

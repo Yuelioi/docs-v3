@@ -1,5 +1,5 @@
 ---
-display_name: Clear Move Ignore Actors
+title: Clear Move Ignore Actors
 order: 14
 ---
 ## Navigation

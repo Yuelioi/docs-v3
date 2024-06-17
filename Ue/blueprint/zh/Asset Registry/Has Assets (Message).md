@@ -1,5 +1,5 @@
 ---
-display_name: Has Assets (Message)
+title: Has Assets (Message)
 order: 30
 ---
 ## Navigation

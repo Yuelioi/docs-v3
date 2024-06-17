@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Vector
+title: Get Value Vector
 order: 13
 ---
 ## Navigation

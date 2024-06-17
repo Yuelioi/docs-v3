@@ -1,5 +1,5 @@
 ---
-display_name: agentclipweights
+title: agentclipweights
 order: 19
 ---
 `float [] agentclipweights(<geometry>geometry, int prim)`

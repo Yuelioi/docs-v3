@@ -1,5 +1,5 @@
 ---
-display_name: FrameNumber to Integer
+title: FrameNumber to Integer
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Impulse
+title: Add Impulse
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Or Update Warp Targets For Bindings
+title: Add Or Update Warp Targets For Bindings
 order: 1
 ---
 ## Navigation

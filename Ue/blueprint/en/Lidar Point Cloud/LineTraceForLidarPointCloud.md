@@ -1,5 +1,5 @@
 ---
-display_name: LineTraceForLidarPointCloud
+title: LineTraceForLidarPointCloud
 order: 45
 ---
 ## Navigation

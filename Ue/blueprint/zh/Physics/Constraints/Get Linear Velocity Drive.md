@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Velocity Drive
+title: Get Linear Velocity Drive
 order: 26
 ---
 ## Navigation

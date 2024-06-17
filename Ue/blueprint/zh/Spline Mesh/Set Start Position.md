@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Position
+title: Set Start Position
 order: 26
 ---
 ## Navigation

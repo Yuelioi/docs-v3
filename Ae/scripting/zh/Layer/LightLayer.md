@@ -1,5 +1,5 @@
 ---
-display_name: LightLayer
+title: LightLayer
 order: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Log Observation
+title: Log Observation
 order: 151
 ---
 ## Navigation

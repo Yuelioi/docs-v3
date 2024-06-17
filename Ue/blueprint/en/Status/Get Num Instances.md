@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Instances
+title: Get Num Instances
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Allows Multiple Connections
+title: Allows Multiple Connections
 order: 1
 ---
 ## Navigation

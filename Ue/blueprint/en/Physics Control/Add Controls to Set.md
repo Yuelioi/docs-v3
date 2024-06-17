@@ -1,5 +1,5 @@
 ---
-display_name: Add Controls to Set
+title: Add Controls to Set
 order: 4
 ---
 ## Navigation

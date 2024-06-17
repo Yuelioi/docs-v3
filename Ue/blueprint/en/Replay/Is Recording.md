@@ -1,5 +1,5 @@
 ---
-display_name: Is Recording
+title: Is Recording
 order: 4
 ---
 ## Navigation

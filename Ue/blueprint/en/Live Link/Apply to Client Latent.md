@@ -1,5 +1,5 @@
 ---
-display_name: Apply to Client Latent
+title: Apply to Client Latent
 order: 11
 ---
 ## Navigation

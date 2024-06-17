@@ -1,5 +1,5 @@
 ---
-display_name: Get Hover Location
+title: Get Hover Location
 order: 4
 ---
 ## Navigation

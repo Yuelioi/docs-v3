@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend Shape Value
+title: Get Blend Shape Value
 order: 1
 ---
 ## Navigation

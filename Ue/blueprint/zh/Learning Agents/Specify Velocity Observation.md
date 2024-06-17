@@ -1,5 +1,5 @@
 ---
-display_name: Specify Velocity Observation
+title: Specify Velocity Observation
 order: 335
 ---
 ## Navigation

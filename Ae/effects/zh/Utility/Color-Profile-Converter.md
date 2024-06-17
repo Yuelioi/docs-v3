@@ -1,5 +1,5 @@
 ---
-display_name: 颜色配置文件转换器
+title: 颜色配置文件转换器
 order: 4
 ---
 

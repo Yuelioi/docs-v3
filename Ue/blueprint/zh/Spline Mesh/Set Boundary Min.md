@@ -1,5 +1,5 @@
 ---
-display_name: Set Boundary Min
+title: Set Boundary Min
 order: 16
 ---
 ## Navigation

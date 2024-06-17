@@ -1,5 +1,5 @@
 ---
-display_name: Get Effective Frame Rate
+title: Get Effective Frame Rate
 order: 22
 ---
 ## Navigation

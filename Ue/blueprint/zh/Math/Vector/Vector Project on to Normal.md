@@ -1,5 +1,5 @@
 ---
-display_name: Vector Project on to Normal
+title: Vector Project on to Normal
 order: 86
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add AR Environment Probe
+title: Add AR Environment Probe
 order: 1
 ---
 ## Navigation

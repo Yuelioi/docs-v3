@@ -1,5 +1,5 @@
 ---
-display_name: Feature Pack Dir
+title: Feature Pack Dir
 order: 29
 ---
 ## Navigation

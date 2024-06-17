@@ -1,5 +1,5 @@
 ---
-display_name: Equal Exactly (Vector4)
+title: Equal Exactly (Vector4)
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is UObject
+title: Is UObject
 order: 50
 ---
 ## Navigation

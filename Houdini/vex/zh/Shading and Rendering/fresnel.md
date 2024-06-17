@@ -1,5 +1,5 @@
 ---
-display_name: fresnel
+title: fresnel
 order: 7
 ---
 `void  fresnel(vector i, vector n, float eta, float &kr, float &kt)`

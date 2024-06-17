@@ -1,5 +1,5 @@
 ---
-display_name: Get All Light Actors
+title: Get All Light Actors
 order: 17
 ---
 ## Navigation

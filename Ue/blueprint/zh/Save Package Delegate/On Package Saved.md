@@ -1,5 +1,5 @@
 ---
-display_name: On Package Saved
+title: On Package Saved
 order: 1
 ---
 ## Navigation

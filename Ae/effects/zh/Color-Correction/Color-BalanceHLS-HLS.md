@@ -1,5 +1,5 @@
 ---
-display_name: 颜色平衡（HLS）
+title: 颜色平衡（HLS）
 order: 15
 ---
 

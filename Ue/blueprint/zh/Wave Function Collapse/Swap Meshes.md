@@ -1,5 +1,5 @@
 ---
-display_name: Swap Meshes
+title: Swap Meshes
 order: 27
 ---
 ## Navigation

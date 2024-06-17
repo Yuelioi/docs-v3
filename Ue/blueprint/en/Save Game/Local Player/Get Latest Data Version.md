@@ -1,5 +1,5 @@
 ---
-display_name: Get Latest Data Version
+title: Get Latest Data Version
 order: 4
 ---
 ## Navigation

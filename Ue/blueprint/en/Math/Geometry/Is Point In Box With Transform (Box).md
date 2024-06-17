@@ -1,5 +1,5 @@
 ---
-display_name: Is Point In Box With Transform (Box)
+title: Is Point In Box With Transform (Box)
 order: 6
 ---
 ## Navigation

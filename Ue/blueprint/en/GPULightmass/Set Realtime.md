@@ -1,5 +1,5 @@
 ---
-display_name: Set Realtime
+title: Set Realtime
 order: 7
 ---
 ## Navigation

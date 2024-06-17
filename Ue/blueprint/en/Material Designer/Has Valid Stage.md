@@ -1,5 +1,5 @@
 ---
-display_name: Has Valid Stage
+title: Has Valid Stage
 order: 159
 ---
 ## Navigation

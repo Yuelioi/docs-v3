@@ -1,5 +1,5 @@
 ---
-display_name: Point Loop
+title: Point Loop
 order: 3
 ---
 ## Navigation

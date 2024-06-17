@@ -1,5 +1,5 @@
 ---
-display_name: Bindings
+title: Bindings
 order: 1
 ---
 ## Navigation

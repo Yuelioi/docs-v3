@@ -1,5 +1,5 @@
 ---
-display_name: Initialize
+title: Initialize
 order: 1
 ---
 ## Navigation

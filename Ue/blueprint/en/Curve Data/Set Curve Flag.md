@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Flag
+title: Set Curve Flag
 order: 22
 ---
 ## Navigation

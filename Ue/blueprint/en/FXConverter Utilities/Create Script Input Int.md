@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Int
+title: Create Script Input Int
 order: 19
 ---
 ## Navigation

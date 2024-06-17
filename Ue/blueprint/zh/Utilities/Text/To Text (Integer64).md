@@ -1,5 +1,5 @@
 ---
-display_name: To Text (Integer64)
+title: To Text (Integer64)
 order: 41
 ---
 ## Navigation

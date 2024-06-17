@@ -1,5 +1,5 @@
 ---
-display_name: Get Update Kinematic from Simulation
+title: Get Update Kinematic from Simulation
 order: 91
 ---
 ## Navigation

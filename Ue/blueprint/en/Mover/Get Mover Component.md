@@ -1,5 +1,5 @@
 ---
-display_name: Get Mover Component
+title: Get Mover Component
 order: 19
 ---
 ## Navigation

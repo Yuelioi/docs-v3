@@ -1,5 +1,5 @@
 ---
-display_name: Get
+title: Get
 order: 20
 ---
 ## Navigation

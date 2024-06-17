@@ -1,5 +1,5 @@
 ---
-display_name: Get Water Body Type
+title: Get Water Body Type
 order: 16
 ---
 ## Navigation

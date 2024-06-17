@@ -1,5 +1,5 @@
 ---
-display_name: agenttransformnames
+title: agenttransformnames
 order: 45
 ---
 `string [] agenttransformnames(<geometry>geometry, int prim)`

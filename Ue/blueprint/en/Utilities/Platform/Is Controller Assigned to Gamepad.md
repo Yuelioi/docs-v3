@@ -1,5 +1,5 @@
 ---
-display_name: Is Controller Assigned to Gamepad
+title: Is Controller Assigned to Gamepad
 order: 13
 ---
 ## Navigation

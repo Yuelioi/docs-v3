@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Stage Gradient Class
+title: Set Material Stage Gradient Class
 order: 220
 ---
 ## Navigation

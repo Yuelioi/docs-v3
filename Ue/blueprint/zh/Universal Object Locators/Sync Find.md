@@ -1,5 +1,5 @@
 ---
-display_name: Sync Find
+title: Sync Find
 order: 3
 ---
 ## Navigation

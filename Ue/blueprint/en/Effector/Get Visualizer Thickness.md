@@ -1,5 +1,5 @@
 ---
-display_name: Get Visualizer Thickness
+title: Get Visualizer Thickness
 order: 16
 ---
 ## Navigation

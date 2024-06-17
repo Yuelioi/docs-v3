@@ -1,5 +1,5 @@
 ---
-display_name: Remove Fixture Type from Library
+title: Remove Fixture Type from Library
 order: 9
 ---
 ## Navigation

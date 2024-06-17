@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Integer)
+title: Get Value (Integer)
 order: 71
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Retarget Chain End Bone
+title: Set Retarget Chain End Bone
 order: 43
 ---
 ## Navigation

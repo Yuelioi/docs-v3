@@ -1,5 +1,5 @@
 ---
-display_name: Set Line Height Percentage
+title: Set Line Height Percentage
 order: 4
 ---
 ## Navigation

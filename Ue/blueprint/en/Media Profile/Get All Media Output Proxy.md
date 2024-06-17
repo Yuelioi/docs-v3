@@ -1,5 +1,5 @@
 ---
-display_name: Get All Media Output Proxy
+title: Get All Media Output Proxy
 order: 1
 ---
 ## Navigation

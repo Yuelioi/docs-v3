@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Range
+title: Set Location Range
 order: 5
 ---
 ## Navigation

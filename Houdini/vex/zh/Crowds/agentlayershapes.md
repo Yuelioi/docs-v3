@@ -1,5 +1,5 @@
 ---
-display_name: agentlayershapes
+title: agentlayershapes
 order: 29
 ---
 `string [] agentlayershapes(<geometry>geometry, int prim, string layername, string shapetype)`

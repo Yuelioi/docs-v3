@@ -1,5 +1,5 @@
 ---
-display_name: osd_limitsurfacevertex
+title: osd_limitsurfacevertex
 order: 4
 ---
 This is like [osd_limitsurface](osd_limitsurface.html "Evaluates a point attribute at the subdivision limit surface using Open Subdiv.") but for vertex attributes instead of point attributes.

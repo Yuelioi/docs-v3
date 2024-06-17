@@ -1,5 +1,5 @@
 ---
-display_name: Change Stage Input Function
+title: Change Stage Input Function
 order: 23
 ---
 ## Navigation

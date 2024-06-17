@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Grid Slot
+title: Slot as Grid Slot
 order: 3
 ---
 ## Navigation

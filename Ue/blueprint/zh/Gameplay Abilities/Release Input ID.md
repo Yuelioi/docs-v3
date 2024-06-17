@@ -1,5 +1,5 @@
 ---
-display_name: Release Input ID
+title: Release Input ID
 order: 13
 ---
 ## Navigation

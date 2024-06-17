@@ -1,5 +1,5 @@
 ---
-display_name: Get Product Name
+title: Get Product Name
 order: 37
 ---
 ## Navigation

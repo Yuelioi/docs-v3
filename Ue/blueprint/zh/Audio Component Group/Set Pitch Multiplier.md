@@ -1,5 +1,5 @@
 ---
-display_name: Set Pitch Multiplier
+title: Set Pitch Multiplier
 order: 16
 ---
 ## Navigation

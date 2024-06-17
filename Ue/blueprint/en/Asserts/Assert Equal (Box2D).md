@@ -1,5 +1,5 @@
 ---
-display_name: Assert Equal (Box2D)
+title: Assert Equal (Box2D)
 order: 2
 ---
 ## Navigation

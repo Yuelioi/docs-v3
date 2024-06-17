@@ -1,5 +1,5 @@
 ---
-display_name: Set Job Index
+title: Set Job Index
 order: 10
 ---
 ## Navigation

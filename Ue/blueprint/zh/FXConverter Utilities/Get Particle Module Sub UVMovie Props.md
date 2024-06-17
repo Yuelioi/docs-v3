@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Sub UVMovie Props
+title: Get Particle Module Sub UVMovie Props
 order: 97
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Free All Compute Meshes
+title: Free All Compute Meshes
 order: 4
 ---
 ## Navigation

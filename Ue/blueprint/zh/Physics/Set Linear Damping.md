@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Damping
+title: Set Linear Damping
 order: 36
 ---
 ## Navigation

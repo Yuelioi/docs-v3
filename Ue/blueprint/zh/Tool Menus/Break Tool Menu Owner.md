@@ -1,5 +1,5 @@
 ---
-display_name: Break Tool Menu Owner
+title: Break Tool Menu Owner
 order: 10
 ---
 ## Navigation

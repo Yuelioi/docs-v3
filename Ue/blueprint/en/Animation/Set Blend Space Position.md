@@ -1,5 +1,5 @@
 ---
-display_name: Set Blend Space Position
+title: Set Blend Space Position
 order: 20
 ---
 ## Navigation

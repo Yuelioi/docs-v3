@@ -1,5 +1,5 @@
 ---
-display_name: Get ZoneGraphSubsystem
+title: Get ZoneGraphSubsystem
 order: 82
 ---
 ## Navigation

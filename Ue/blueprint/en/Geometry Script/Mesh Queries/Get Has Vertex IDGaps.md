@@ -1,5 +1,5 @@
 ---
-display_name: Get Has Vertex IDGaps
+title: Get Has Vertex IDGaps
 order: 12
 ---
 ## Navigation

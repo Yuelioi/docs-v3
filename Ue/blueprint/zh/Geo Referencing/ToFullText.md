@@ -1,5 +1,5 @@
 ---
-display_name: ToFullText
+title: ToFullText
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: irradiance
+title: irradiance
 order: 41
 ---
 | On this page | * [Sample adaptation options](#sample-adaptation-options) * [Ray options](#ray-options) |

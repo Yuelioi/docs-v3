@@ -1,5 +1,5 @@
 ---
-display_name: Set Apply Nodal Offset on Tick
+title: Set Apply Nodal Offset on Tick
 order: 16
 ---
 ## Navigation

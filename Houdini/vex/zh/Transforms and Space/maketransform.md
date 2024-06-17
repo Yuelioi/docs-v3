@@ -1,5 +1,5 @@
 ---
-display_name: maketransform
+title: maketransform
 order: 7
 ---
 `matrix3  maketransform(vector zaxis, vector yaxis)`

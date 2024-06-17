@@ -1,5 +1,5 @@
 ---
-display_name: Vector 2D One
+title: Vector 2D One
 order: 26
 ---
 ## Navigation

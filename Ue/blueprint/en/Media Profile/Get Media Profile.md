@@ -1,5 +1,5 @@
 ---
-display_name: Get Media Profile
+title: Get Media Profile
 order: 3
 ---
 ## Navigation

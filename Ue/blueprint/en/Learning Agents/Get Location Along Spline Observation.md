@@ -1,5 +1,5 @@
 ---
-display_name: Get Location Along Spline Observation
+title: Get Location Along Spline Observation
 order: 84
 ---
 ## Navigation

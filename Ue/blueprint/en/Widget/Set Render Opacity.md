@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Opacity
+title: Set Render Opacity
 order: 27
 ---
 ## Navigation

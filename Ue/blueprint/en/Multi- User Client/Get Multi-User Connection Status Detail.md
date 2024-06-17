@@ -1,5 +1,5 @@
 ---
-display_name: Get Multi-User Connection Status Detail
+title: Get Multi-User Connection Status Detail
 order: 5
 ---
 ## Navigation

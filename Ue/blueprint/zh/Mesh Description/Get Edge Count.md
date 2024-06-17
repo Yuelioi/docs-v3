@@ -1,5 +1,5 @@
 ---
-display_name: Get Edge Count
+title: Get Edge Count
 order: 24
 ---
 ## Navigation

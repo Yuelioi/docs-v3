@@ -1,5 +1,5 @@
 ---
-display_name: Request Transition Event
+title: Request Transition Event
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert To PNG
+title: Convert To PNG
 order: 3
 ---
 ## Navigation

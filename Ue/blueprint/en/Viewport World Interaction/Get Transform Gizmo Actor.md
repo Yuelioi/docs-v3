@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform Gizmo Actor
+title: Get Transform Gizmo Actor
 order: 7
 ---
 ## Navigation

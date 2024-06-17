@@ -1,5 +1,5 @@
 ---
-display_name: Load Selected Objects if Needed
+title: Load Selected Objects if Needed
 order: 24
 ---
 ## Navigation

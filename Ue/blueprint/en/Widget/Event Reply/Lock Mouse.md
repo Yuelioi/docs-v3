@@ -1,5 +1,5 @@
 ---
-display_name: Lock Mouse
+title: Lock Mouse
 order: 4
 ---
 ## Navigation

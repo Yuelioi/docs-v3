@@ -1,5 +1,5 @@
 ---
-display_name: Create Cards Static Mesh
+title: Create Cards Static Mesh
 order: 2
 ---
 ## Navigation

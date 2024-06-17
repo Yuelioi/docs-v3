@@ -1,5 +1,5 @@
 ---
-display_name: Set Display Texture
+title: Set Display Texture
 order: 2
 ---
 ## Navigation

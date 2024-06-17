@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance Vertex
+title: Get Vertex Instance Vertex
 order: 67
 ---
 ## Navigation

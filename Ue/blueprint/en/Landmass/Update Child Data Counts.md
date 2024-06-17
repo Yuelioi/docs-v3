@@ -1,5 +1,5 @@
 ---
-display_name: Update Child Data Counts
+title: Update Child Data Counts
 order: 14
 ---
 ## Navigation

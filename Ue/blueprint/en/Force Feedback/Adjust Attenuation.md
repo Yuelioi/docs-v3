@@ -1,5 +1,5 @@
 ---
-display_name: Adjust Attenuation
+title: Adjust Attenuation
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Plane Spacing
+title: Set Plane Spacing
 order: 26
 ---
 ## Navigation

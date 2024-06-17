@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction at Time
+title: Get Direction at Time
 order: 28
 ---
 ## Navigation

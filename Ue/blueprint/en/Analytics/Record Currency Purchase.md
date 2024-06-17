@@ -1,5 +1,5 @@
 ---
-display_name: Record Currency Purchase
+title: Record Currency Purchase
 order: 8
 ---
 ## Navigation

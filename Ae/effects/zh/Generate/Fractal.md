@@ -1,5 +1,5 @@
 ---
-display_name: 分形
+title: 分形
 order: 17
 ---
 

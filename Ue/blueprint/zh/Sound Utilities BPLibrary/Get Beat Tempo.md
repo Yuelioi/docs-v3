@@ -1,5 +1,5 @@
 ---
-display_name: Get Beat Tempo
+title: Get Beat Tempo
 order: 4
 ---
 ## Navigation

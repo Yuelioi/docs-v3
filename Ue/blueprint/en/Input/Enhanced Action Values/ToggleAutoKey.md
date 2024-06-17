@@ -1,5 +1,5 @@
 ---
-display_name: ToggleAutoKey
+title: ToggleAutoKey
 order: 104
 ---
 ## Navigation

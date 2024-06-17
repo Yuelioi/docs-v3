@@ -1,5 +1,5 @@
 ---
-display_name: Add Mapping Context (Message)
+title: Add Mapping Context (Message)
 order: 1
 ---
 ## Navigation

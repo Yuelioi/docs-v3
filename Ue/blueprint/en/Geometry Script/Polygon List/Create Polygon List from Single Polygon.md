@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon List from Single Polygon
+title: Create Polygon List from Single Polygon
 order: 4
 ---
 ## Navigation

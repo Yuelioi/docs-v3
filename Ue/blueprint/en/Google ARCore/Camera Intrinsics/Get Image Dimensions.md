@@ -1,5 +1,5 @@
 ---
-display_name: Get Image Dimensions
+title: Get Image Dimensions
 order: 2
 ---
 ## Navigation

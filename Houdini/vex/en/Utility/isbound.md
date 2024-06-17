@@ -1,5 +1,5 @@
 ---
-display_name: isbound
+title: isbound
 order: 6
 ---
 `int  isbound(string variable_name)`

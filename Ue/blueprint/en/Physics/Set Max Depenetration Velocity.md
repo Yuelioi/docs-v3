@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Depenetration Velocity
+title: Set Max Depenetration Velocity
 order: 39
 ---
 ## Navigation

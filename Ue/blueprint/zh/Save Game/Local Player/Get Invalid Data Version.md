@@ -1,5 +1,5 @@
 ---
-display_name: Get Invalid Data Version
+title: Get Invalid Data Version
 order: 3
 ---
 ## Navigation

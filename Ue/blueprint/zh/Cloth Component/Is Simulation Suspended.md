@@ -1,5 +1,5 @@
 ---
-display_name: Is Simulation Suspended
+title: Is Simulation Suspended
 order: 6
 ---
 ## Navigation

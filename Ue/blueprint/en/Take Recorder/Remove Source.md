@@ -1,5 +1,5 @@
 ---
-display_name: Remove Source
+title: Remove Source
 order: 19
 ---
 ## Navigation

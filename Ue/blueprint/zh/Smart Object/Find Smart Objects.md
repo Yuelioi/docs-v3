@@ -1,5 +1,5 @@
 ---
-display_name: Find Smart Objects
+title: Find Smart Objects
 order: 12
 ---
 ## Navigation

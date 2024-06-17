@@ -1,5 +1,5 @@
 ---
-display_name: Does Input Exist
+title: Does Input Exist
 order: 1
 ---
 ## Navigation

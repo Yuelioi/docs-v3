@@ -1,5 +1,5 @@
 ---
-display_name: Set Object Classification Debug Colors
+title: Set Object Classification Debug Colors
 order: 5
 ---
 ## Navigation

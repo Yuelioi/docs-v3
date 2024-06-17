@@ -1,5 +1,5 @@
 ---
-display_name: Register for Remote Notifications
+title: Register for Remote Notifications
 order: 19
 ---
 ## Navigation

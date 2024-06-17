@@ -1,5 +1,5 @@
 ---
-display_name: Reset Point Weighted Attributes
+title: Reset Point Weighted Attributes
 order: 70
 ---
 ## Navigation

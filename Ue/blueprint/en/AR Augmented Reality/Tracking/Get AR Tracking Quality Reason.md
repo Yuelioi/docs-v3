@@ -1,5 +1,5 @@
 ---
-display_name: Get AR Tracking Quality Reason
+title: Get AR Tracking Quality Reason
 order: 3
 ---
 ## Navigation

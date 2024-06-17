@@ -1,5 +1,5 @@
 ---
-display_name: foreach
+title: foreach
 order: 5
 ---
 

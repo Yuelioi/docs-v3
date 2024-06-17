@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXPixel Mapping
+title: Get DMXPixel Mapping
 order: 1
 ---
 ## Navigation

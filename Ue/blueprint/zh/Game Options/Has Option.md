@@ -1,5 +1,5 @@
 ---
-display_name: Has Option
+title: Has Option
 order: 3
 ---
 ## Navigation

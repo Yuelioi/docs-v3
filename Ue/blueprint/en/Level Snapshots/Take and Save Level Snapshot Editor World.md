@@ -1,5 +1,5 @@
 ---
-display_name: Take and Save Level Snapshot Editor World
+title: Take and Save Level Snapshot Editor World
 order: 32
 ---
 ## Navigation

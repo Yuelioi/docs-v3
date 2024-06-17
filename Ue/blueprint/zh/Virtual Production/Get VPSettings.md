@@ -1,5 +1,5 @@
 ---
-display_name: Get VPSettings
+title: Get VPSettings
 order: 22
 ---
 ## Navigation

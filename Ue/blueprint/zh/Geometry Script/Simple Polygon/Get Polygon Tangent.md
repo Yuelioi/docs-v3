@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Tangent
+title: Get Polygon Tangent
 order: 8
 ---
 ## Navigation

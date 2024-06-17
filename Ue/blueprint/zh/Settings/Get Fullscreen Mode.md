@@ -1,5 +1,5 @@
 ---
-display_name: Get Fullscreen Mode
+title: Get Fullscreen Mode
 order: 42
 ---
 ## Navigation

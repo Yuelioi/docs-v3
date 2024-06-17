@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Internal Edges
+title: Get Polygon Internal Edges
 order: 43
 ---
 ## Navigation

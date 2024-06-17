@@ -1,5 +1,5 @@
 ---
-display_name: Spawn AIFrom Class
+title: Spawn AIFrom Class
 order: 32
 ---
 ## Navigation

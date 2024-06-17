@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle List Item
+title: Get Triangle List Item
 order: 34
 ---
 ## Navigation

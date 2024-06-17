@@ -1,5 +1,5 @@
 ---
-display_name: Get Common View Point
+title: Get Common View Point
 order: 1
 ---
 ## Navigation

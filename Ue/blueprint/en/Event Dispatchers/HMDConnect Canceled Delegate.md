@@ -1,5 +1,5 @@
 ---
-display_name: HMDConnect Canceled Delegate
+title: HMDConnect Canceled Delegate
 order: 29
 ---
 ## Navigation

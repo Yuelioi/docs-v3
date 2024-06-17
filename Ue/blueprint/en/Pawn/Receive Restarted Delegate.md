@@ -1,5 +1,5 @@
 ---
-display_name: Receive Restarted Delegate
+title: Receive Restarted Delegate
 order: 26
 ---
 ## Navigation

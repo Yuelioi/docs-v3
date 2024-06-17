@@ -1,5 +1,5 @@
 ---
-display_name: Get Meter Channel Info
+title: Get Meter Channel Info
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Instance Transform
+title: Get Instance Transform
 order: 8
 ---
 ## Navigation

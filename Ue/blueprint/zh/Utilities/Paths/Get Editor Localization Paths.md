@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor Localization Paths
+title: Get Editor Localization Paths
 order: 38
 ---
 ## Navigation

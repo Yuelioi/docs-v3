@@ -1,5 +1,5 @@
 ---
-display_name: Set Center Background Color
+title: Set Center Background Color
 order: 32
 ---
 ## Navigation

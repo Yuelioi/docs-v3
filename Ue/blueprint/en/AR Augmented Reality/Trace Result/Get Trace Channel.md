@@ -1,5 +1,5 @@
 ---
-display_name: Get Trace Channel
+title: Get Trace Channel
 order: 5
 ---
 ## Navigation

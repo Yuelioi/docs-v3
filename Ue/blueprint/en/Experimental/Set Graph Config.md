@@ -1,5 +1,5 @@
 ---
-display_name: Set Graph Config
+title: Set Graph Config
 order: 19
 ---
 ## Navigation

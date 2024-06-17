@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Screenshot Options for Rendering
+title: Get Default Screenshot Options for Rendering
 order: 17
 ---
 ## Navigation

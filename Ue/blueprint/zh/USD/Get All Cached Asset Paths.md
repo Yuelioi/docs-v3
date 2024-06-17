@@ -1,5 +1,5 @@
 ---
-display_name: Get All Cached Asset Paths
+title: Get All Cached Asset Paths
 order: 6
 ---
 ## Navigation

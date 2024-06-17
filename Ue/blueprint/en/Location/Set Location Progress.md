@@ -1,5 +1,5 @@
 ---
-display_name: Set Location Progress
+title: Set Location Progress
 order: 4
 ---
 ## Navigation

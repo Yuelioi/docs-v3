@@ -1,5 +1,5 @@
 ---
-display_name: Set Node Position
+title: Set Node Position
 order: 6
 ---
 ## Navigation

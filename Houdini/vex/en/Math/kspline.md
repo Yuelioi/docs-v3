@@ -1,5 +1,5 @@
 ---
-display_name: kspline
+title: kspline
 order: 36
 ---
 `float  kspline(string basis, float sample_pos, float value1, float key_pos1, ...)`

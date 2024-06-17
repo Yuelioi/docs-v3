@@ -1,6 +1,6 @@
 ---
 order: 34
-display_name: 自然饱和度
+title: 自然饱和度
 ---
 
 # Vibrance - 自然饱和度

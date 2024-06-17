@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Bindings Count
+title: Get Actor Bindings Count
 order: 9
 ---
 ## Navigation

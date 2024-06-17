@@ -1,5 +1,5 @@
 ---
-display_name: Get Quality Level
+title: Get Quality Level
 order: 6
 ---
 ## Navigation

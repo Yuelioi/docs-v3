@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Evaluation Type
+title: Get Input Evaluation Type
 order: 14
 ---
 ## Navigation

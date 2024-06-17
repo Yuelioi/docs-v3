@@ -1,5 +1,5 @@
 ---
-display_name: VEX contexts
+title: VEX contexts
 order: 2
 ---
 Unlike C or C++, VEX has different “contexts” for which you write programs. These contexts define how the function is to be used.

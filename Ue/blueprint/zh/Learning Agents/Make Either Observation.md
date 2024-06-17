@@ -1,5 +1,5 @@
 ---
-display_name: Make Either Observation
+title: Make Either Observation
 order: 181
 ---
 ## Navigation

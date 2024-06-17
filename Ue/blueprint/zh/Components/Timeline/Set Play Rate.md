@@ -1,5 +1,5 @@
 ---
-display_name: Set Play Rate
+title: Set Play Rate
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Dynamic Weighted Moving Average Float
+title: Dynamic Weighted Moving Average Float
 order: 1
 ---
 ## Navigation

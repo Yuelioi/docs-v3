@@ -1,5 +1,5 @@
 ---
-display_name: Set Anchored by Box
+title: Set Anchored by Box
 order: 21
 ---
 ## Navigation

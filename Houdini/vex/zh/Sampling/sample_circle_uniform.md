@@ -1,5 +1,5 @@
 ---
-display_name: sample_circle_uniform
+title: sample_circle_uniform
 order: 12
 ---
 `vector2  sample_circle_uniform(vector2 u)`

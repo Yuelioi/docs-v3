@@ -1,5 +1,5 @@
 ---
-display_name: Save Key Mappings
+title: Save Key Mappings
 order: 103
 ---
 ## Navigation

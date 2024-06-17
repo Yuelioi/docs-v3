@@ -1,5 +1,5 @@
 ---
-display_name: OnConstraintRemoved
+title: OnConstraintRemoved
 order: 2
 ---
 ## Navigation

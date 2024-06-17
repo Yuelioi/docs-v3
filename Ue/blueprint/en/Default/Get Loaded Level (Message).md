@@ -1,5 +1,5 @@
 ---
-display_name: Get Loaded Level (Message)
+title: Get Loaded Level (Message)
 order: 7
 ---
 ## Navigation

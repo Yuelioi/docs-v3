@@ -1,5 +1,5 @@
 ---
-display_name: Get MassActorSubsystem
+title: Get MassActorSubsystem
 order: 39
 ---
 ## Navigation

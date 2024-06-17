@@ -1,5 +1,5 @@
 ---
-display_name: Add Geo Anchor at Location
+title: Add Geo Anchor at Location
 order: 2
 ---
 ## Navigation

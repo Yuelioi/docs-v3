@@ -1,5 +1,5 @@
 ---
-display_name: Make Pair Action
+title: Make Pair Action
 order: 213
 ---
 ## Navigation

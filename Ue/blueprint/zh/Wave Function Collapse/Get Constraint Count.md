@@ -1,5 +1,5 @@
 ---
-display_name: Get Constraint Count
+title: Get Constraint Count
 order: 8
 ---
 ## Navigation

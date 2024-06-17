@@ -1,5 +1,5 @@
 ---
-display_name: DeleteKeyframe
+title: DeleteKeyframe
 order: 13
 ---
 ## Navigation

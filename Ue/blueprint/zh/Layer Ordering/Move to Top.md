@@ -1,5 +1,5 @@
 ---
-display_name: Move to Top
+title: Move to Top
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Goals
+title: Clear All Goals
 order: 3
 ---
 ## Navigation

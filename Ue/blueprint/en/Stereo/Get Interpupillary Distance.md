@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpupillary Distance
+title: Get Interpupillary Distance
 order: 1
 ---
 ## Navigation

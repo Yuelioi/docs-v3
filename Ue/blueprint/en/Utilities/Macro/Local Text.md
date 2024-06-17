@@ -1,5 +1,5 @@
 ---
-display_name: Local Text
+title: Local Text
 order: 20
 ---
 ## Navigation

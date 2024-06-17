@@ -1,5 +1,5 @@
 ---
-display_name: Combine
+title: Combine
 order: 8
 ---
 ## Navigation

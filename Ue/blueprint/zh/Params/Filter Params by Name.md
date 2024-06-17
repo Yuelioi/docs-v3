@@ -1,5 +1,5 @@
 ---
-display_name: Filter Params by Name
+title: Filter Params by Name
 order: 2
 ---
 ## Navigation

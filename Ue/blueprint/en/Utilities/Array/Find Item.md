@@ -1,5 +1,5 @@
 ---
-display_name: Find Item
+title: Find Item
 order: 7
 ---
 ## Navigation

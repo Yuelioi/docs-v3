@@ -1,5 +1,5 @@
 ---
-display_name: Montage
+title: Montage
 order: 11
 ---
 ## Navigation

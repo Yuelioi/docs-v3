@@ -1,5 +1,5 @@
 ---
-display_name: Set Attribute Key
+title: Set Attribute Key
 order: 3
 ---
 ## Navigation

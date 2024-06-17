@@ -1,5 +1,5 @@
 ---
-display_name: Set Content
+title: Set Content
 order: 18
 ---
 ## Navigation

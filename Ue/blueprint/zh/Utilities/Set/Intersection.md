@@ -1,5 +1,5 @@
 ---
-display_name: Intersection
+title: Intersection
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Source Radius
+title: Set Source Radius
 order: 33
 ---
 ## Navigation

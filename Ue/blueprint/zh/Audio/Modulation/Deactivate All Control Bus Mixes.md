@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate All Control Bus Mixes
+title: Deactivate All Control Bus Mixes
 order: 15
 ---
 ## Navigation

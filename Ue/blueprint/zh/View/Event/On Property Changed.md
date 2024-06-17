@@ -1,5 +1,5 @@
 ---
-display_name: On Property Changed
+title: On Property Changed
 order: 1
 ---
 ## Navigation

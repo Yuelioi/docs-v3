@@ -1,5 +1,5 @@
 ---
-display_name: Is Curve Editor Open
+title: Is Curve Editor Open
 order: 8
 ---
 ## Navigation

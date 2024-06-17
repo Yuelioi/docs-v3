@@ -1,5 +1,5 @@
 ---
-display_name: On Config Camera
+title: On Config Camera
 order: 66
 ---
 ## Navigation

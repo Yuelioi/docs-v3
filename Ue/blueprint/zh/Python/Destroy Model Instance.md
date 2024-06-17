@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Model Instance
+title: Destroy Model Instance
 order: 5
 ---
 ## Navigation

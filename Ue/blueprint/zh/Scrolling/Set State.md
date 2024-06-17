@@ -1,5 +1,5 @@
 ---
-display_name: Set State
+title: Set State
 order: 1
 ---
 ## Navigation

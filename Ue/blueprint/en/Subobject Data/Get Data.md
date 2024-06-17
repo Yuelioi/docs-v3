@@ -1,5 +1,5 @@
 ---
-display_name: Get Data
+title: Get Data
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset Bone Transform by Name
+title: Reset Bone Transform by Name
 order: 6
 ---
 ## Navigation

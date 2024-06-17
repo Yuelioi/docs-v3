@@ -1,5 +1,5 @@
 ---
-display_name: Add Child to Uniform Grid
+title: Add Child to Uniform Grid
 order: 5
 ---
 ## Navigation

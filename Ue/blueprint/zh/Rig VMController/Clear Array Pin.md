@@ -1,5 +1,5 @@
 ---
-display_name: Clear Array Pin
+title: Clear Array Pin
 order: 40
 ---
 ## Navigation

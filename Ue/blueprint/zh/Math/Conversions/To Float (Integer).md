@@ -1,5 +1,5 @@
 ---
-display_name: To Float (Integer)
+title: To Float (Integer)
 order: 10
 ---
 ## Navigation

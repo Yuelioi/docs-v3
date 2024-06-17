@@ -1,5 +1,5 @@
 ---
-display_name: Get Fixture Patch Channel Enabled
+title: Get Fixture Patch Channel Enabled
 order: 29
 ---
 ## Navigation

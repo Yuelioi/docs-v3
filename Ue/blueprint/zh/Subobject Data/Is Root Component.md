@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Component
+title: Is Root Component
 order: 25
 ---
 ## Navigation

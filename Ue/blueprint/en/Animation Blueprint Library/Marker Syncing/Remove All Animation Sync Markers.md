@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Animation Sync Markers
+title: Remove All Animation Sync Markers
 order: 5
 ---
 ## Navigation

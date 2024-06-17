@@ -1,5 +1,5 @@
 ---
-display_name: Make Float Observation
+title: Make Float Observation
 order: 191
 ---
 ## Navigation

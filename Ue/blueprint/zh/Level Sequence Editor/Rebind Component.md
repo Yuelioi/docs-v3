@@ -1,5 +1,5 @@
 ---
-display_name: Rebind Component
+title: Rebind Component
 order: 50
 ---
 ## Navigation

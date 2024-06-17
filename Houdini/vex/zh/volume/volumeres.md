@@ -1,5 +1,5 @@
 ---
-display_name: volumeres
+title: volumeres
 order: 14
 ---
 `vector  volumeres(<geometry>geometry, int primnum)`

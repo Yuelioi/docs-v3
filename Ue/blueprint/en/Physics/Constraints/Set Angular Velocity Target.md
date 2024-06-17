@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Velocity Target
+title: Set Angular Velocity Target
 order: 43
 ---
 ## Navigation

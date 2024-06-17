@@ -1,5 +1,5 @@
 ---
-display_name: Get OSC Message Integer (64-bit) at Index
+title: Get OSC Message Integer (64-bit) at Index
 order: 41
 ---
 ## Navigation

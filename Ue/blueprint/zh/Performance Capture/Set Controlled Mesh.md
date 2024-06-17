@@ -1,5 +1,5 @@
 ---
-display_name: Set Controlled Mesh
+title: Set Controlled Mesh
 order: 4
 ---
 ## Navigation

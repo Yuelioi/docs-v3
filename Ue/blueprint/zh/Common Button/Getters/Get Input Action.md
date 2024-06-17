@@ -1,5 +1,5 @@
 ---
-display_name: Get Input Action
+title: Get Input Action
 order: 6
 ---
 ## Navigation

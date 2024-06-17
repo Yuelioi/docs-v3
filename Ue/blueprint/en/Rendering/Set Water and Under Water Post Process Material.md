@@ -1,5 +1,5 @@
 ---
-display_name: Set Water and Under Water Post Process Material
+title: Set Water and Under Water Post Process Material
 order: 100
 ---
 ## Navigation

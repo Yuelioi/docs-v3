@@ -1,5 +1,5 @@
 ---
-display_name: Get Mirror Transition Blend Time
+title: Get Mirror Transition Blend Time
 order: 3
 ---
 ## Navigation

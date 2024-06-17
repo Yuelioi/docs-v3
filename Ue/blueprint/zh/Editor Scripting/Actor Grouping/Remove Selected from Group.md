@@ -1,5 +1,5 @@
 ---
-display_name: Remove Selected from Group
+title: Remove Selected from Group
 order: 9
 ---
 ## Navigation

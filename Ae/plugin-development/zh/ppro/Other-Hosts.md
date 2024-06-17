@@ -1,5 +1,5 @@
 ---
-display_name: Other-Hosts
+title: Other-Hosts
 order: 6
 ---
 

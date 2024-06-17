@@ -1,5 +1,5 @@
 ---
-display_name: Is Ready for Training
+title: Is Ready for Training
 order: 20
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Soundscape Palette
+title: Spawn Soundscape Palette
 order: 12
 ---
 ## Navigation

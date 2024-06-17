@@ -1,5 +1,5 @@
 ---
-display_name: Deselect All
+title: Deselect All
 order: 1
 ---
 ## Navigation

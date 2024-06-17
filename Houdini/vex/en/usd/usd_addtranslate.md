@@ -1,5 +1,5 @@
 ---
-display_name: usd_addtranslate
+title: usd_addtranslate
 order: 14
 ---
 | Since | 18.0 |

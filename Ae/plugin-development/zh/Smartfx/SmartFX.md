@@ -1,5 +1,5 @@
 ---
-display_name: SmartFX
+title: SmartFX
 order: 1
 ---
 

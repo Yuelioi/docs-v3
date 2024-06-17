@@ -1,5 +1,5 @@
 ---
-display_name: Get Child At
+title: Get Child At
 order: 4
 ---
 ## Navigation

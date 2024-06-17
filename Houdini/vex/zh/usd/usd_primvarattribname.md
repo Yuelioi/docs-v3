@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarattribname
+title: usd_primvarattribname
 order: 106
 ---
 | Since | 18.0 |

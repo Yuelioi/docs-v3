@@ -1,5 +1,5 @@
 ---
-display_name: Reset Databases to Search
+title: Reset Databases to Search
 order: 3
 ---
 ## Navigation

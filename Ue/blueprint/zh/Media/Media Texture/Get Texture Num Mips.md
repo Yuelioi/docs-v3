@@ -1,5 +1,5 @@
 ---
-display_name: Get Texture Num Mips
+title: Get Texture Num Mips
 order: 5
 ---
 ## Navigation

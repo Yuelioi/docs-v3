@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Points
+title: Get Num Points
 order: 26
 ---
 ## Navigation

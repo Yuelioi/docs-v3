@@ -1,5 +1,5 @@
 ---
-display_name: Reset Single Transform
+title: Reset Single Transform
 order: 11
 ---
 ## Navigation

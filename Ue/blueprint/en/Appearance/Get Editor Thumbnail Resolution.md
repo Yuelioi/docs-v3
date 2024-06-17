@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor Thumbnail Resolution
+title: Get Editor Thumbnail Resolution
 order: 7
 ---
 ## Navigation

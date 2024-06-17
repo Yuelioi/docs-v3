@@ -1,5 +1,5 @@
 ---
-display_name: Rename Pose
+title: Rename Pose
 order: 3
 ---
 ## Navigation

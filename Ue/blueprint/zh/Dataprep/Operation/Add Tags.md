@@ -1,5 +1,5 @@
 ---
-display_name: Add Tags
+title: Add Tags
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Request Nav Mesh Update
+title: Request Nav Mesh Update
 order: 12
 ---
 ## Navigation

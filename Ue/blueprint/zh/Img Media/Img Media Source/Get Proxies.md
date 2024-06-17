@@ -1,5 +1,5 @@
 ---
-display_name: Get Proxies
+title: Get Proxies
 order: 2
 ---
 ## Navigation

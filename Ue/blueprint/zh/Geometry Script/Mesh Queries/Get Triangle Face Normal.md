@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Face Normal
+title: Get Triangle Face Normal
 order: 32
 ---
 ## Navigation

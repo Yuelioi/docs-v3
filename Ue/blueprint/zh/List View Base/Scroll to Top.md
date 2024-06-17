@@ -1,5 +1,5 @@
 ---
-display_name: Scroll to Top
+title: Scroll to Top
 order: 6
 ---
 ## Navigation

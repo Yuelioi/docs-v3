@@ -1,5 +1,5 @@
 ---
-display_name: VEX Functions
+title: VEX Functions
 order: 1
 ---
 See [VEX contexts](../contexts/index.html "Guide to the different contexts in which you can write VEX

@@ -1,5 +1,5 @@
 ---
-display_name: Create Contextual Anim Scene Bindings For Two Actors
+title: Create Contextual Anim Scene Bindings For Two Actors
 order: 1
 ---
 ## Navigation

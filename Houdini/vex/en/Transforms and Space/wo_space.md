@@ -1,5 +1,5 @@
 ---
-display_name: wo_space
+title: wo_space
 order: 38
 ---
 `matrix  wo_space()`

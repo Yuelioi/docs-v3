@@ -1,5 +1,5 @@
 ---
-display_name: Stop File Server
+title: Stop File Server
 order: 3
 ---
 ## Navigation

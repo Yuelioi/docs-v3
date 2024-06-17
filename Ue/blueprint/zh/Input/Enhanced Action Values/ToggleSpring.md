@@ -1,5 +1,5 @@
 ---
-display_name: ToggleSpring
+title: ToggleSpring
 order: 121
 ---
 ## Navigation

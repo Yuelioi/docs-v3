@@ -1,5 +1,5 @@
 ---
-display_name: Set Equirect Props
+title: Set Equirect Props
 order: 7
 ---
 ## Navigation

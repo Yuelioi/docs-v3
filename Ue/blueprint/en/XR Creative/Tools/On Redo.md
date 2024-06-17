@@ -1,5 +1,5 @@
 ---
-display_name: On Redo
+title: On Redo
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Forced Lod Model
+title: Set Forced Lod Model
 order: 3
 ---
 ## Navigation

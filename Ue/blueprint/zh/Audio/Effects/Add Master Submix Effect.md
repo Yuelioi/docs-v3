@@ -1,5 +1,5 @@
 ---
-display_name: Add Master Submix Effect
+title: Add Master Submix Effect
 order: 1
 ---
 ## Navigation

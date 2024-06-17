@@ -1,5 +1,5 @@
 ---
-display_name: Enumerate Tracked Devices
+title: Enumerate Tracked Devices
 order: 5
 ---
 ## Navigation

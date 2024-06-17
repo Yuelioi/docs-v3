@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input Float
+title: Create Script Input Float
 order: 18
 ---
 ## Navigation

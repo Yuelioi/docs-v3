@@ -1,5 +1,5 @@
 ---
-display_name: Vector to Json
+title: Vector to Json
 order: 32
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Reward from Velocity Along Spline
+title: Make Reward from Velocity Along Spline
 order: 224
 ---
 ## Navigation

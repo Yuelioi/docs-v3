@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Currency Symbol
+title: Get Local Currency Symbol
 order: 10
 ---
 ## Navigation

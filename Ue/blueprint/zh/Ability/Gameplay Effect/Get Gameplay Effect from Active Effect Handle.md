@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Effect from Active Effect Handle
+title: Get Gameplay Effect from Active Effect Handle
 order: 18
 ---
 ## Navigation

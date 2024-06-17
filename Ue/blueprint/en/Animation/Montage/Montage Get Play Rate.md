@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Play Rate
+title: Montage Get Play Rate
 order: 11
 ---
 ## Navigation

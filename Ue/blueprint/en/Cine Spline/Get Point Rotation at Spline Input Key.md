@@ -1,5 +1,5 @@
 ---
-display_name: Get Point Rotation at Spline Input Key
+title: Get Point Rotation at Spline Input Key
 order: 4
 ---
 ## Navigation

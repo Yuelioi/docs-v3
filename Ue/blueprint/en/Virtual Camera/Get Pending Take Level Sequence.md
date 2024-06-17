@@ -1,5 +1,5 @@
 ---
-display_name: Get Pending Take Level Sequence
+title: Get Pending Take Level Sequence
 order: 37
 ---
 ## Navigation

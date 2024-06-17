@@ -1,5 +1,5 @@
 ---
-display_name: SetRotationStabilization
+title: SetRotationStabilization
 order: 77
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Color Metadata
+title: Set Linear Color Metadata
 order: 150
 ---
 ## Navigation

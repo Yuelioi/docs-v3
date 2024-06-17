@@ -1,5 +1,5 @@
 ---
-display_name: Build from Client
+title: Build from Client
 order: 13
 ---
 ## Navigation

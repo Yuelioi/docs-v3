@@ -1,5 +1,5 @@
 ---
-display_name: Reset Transport
+title: Reset Transport
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: pointattribtype
+title: pointattribtype
 order: 37
 ---
 `int  pointattribtype(<geometry>geometry, string attribute_name)`

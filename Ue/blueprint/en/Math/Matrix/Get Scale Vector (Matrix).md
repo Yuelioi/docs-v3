@@ -1,5 +1,5 @@
 ---
-display_name: Get Scale Vector (Matrix)
+title: Get Scale Vector (Matrix)
 order: 17
 ---
 ## Navigation

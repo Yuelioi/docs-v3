@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Connected Triangles
+title: Get Vertex Connected Triangles
 order: 40
 ---
 ## Navigation

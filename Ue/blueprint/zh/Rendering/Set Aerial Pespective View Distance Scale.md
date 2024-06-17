@@ -1,5 +1,5 @@
 ---
-display_name: Set Aerial Pespective View Distance Scale
+title: Set Aerial Pespective View Distance Scale
 order: 14
 ---
 ## Navigation

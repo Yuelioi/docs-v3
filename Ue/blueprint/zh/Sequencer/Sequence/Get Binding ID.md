@@ -1,5 +1,5 @@
 ---
-display_name: Get Binding ID
+title: Get Binding ID
 order: 22
 ---
 ## Navigation

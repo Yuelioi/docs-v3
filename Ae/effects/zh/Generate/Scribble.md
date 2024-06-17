@@ -1,5 +1,5 @@
 ---
-display_name: 涂写
+title: 涂写
 order: 23
 ---
 

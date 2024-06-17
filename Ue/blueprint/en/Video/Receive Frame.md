@@ -1,5 +1,5 @@
 ---
-display_name: Receive Frame
+title: Receive Frame
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Distribution Type
+title: Get Distribution Type
 order: 41
 ---
 ## Navigation

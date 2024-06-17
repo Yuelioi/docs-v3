@@ -1,5 +1,5 @@
 ---
-display_name: On Connected
+title: On Connected
 order: 10
 ---
 ## Navigation

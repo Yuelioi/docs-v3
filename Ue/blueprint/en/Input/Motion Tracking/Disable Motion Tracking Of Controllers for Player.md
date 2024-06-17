@@ -1,5 +1,5 @@
 ---
-display_name: Disable Motion Tracking Of Controllers for Player
+title: Disable Motion Tracking Of Controllers for Player
 order: 3
 ---
 ## Navigation

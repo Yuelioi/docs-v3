@@ -1,5 +1,5 @@
 ---
-display_name: Set Start Frame Seconds
+title: Set Start Frame Seconds
 order: 100
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Preset Spectral Analysis Band Settings
+title: Make Preset Spectral Analysis Band Settings
 order: 5
 ---
 ## Navigation

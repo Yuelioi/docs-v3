@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 4Attribute
+title: Get Vector 4Attribute
 order: 55
 ---
 ## Navigation

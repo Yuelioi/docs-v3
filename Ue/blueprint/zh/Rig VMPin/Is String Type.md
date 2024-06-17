@@ -1,5 +1,5 @@
 ---
-display_name: Is String Type
+title: Is String Type
 order: 47
 ---
 ## Navigation

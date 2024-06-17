@@ -1,5 +1,5 @@
 ---
-display_name: Should Force Node Reimport
+title: Should Force Node Reimport
 order: 73
 ---
 ## Navigation

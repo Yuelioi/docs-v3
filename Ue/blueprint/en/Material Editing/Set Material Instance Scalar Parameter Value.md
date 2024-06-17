@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Scalar Parameter Value
+title: Set Material Instance Scalar Parameter Value
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Line Plane Intersection (Origin & Normal)
+title: Line Plane Intersection (Origin & Normal)
 order: 1
 ---
 ## Navigation

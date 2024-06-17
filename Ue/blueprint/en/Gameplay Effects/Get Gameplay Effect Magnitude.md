@@ -1,5 +1,5 @@
 ---
-display_name: Get Gameplay Effect Magnitude
+title: Get Gameplay Effect Magnitude
 order: 9
 ---
 ## Navigation

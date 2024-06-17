@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_or
+title: fuzzy_or
 order: 8
 ---
 `int  fuzzy_or(int a, int b, ...)`

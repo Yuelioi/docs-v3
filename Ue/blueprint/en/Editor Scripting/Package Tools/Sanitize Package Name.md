@@ -1,5 +1,5 @@
 ---
-display_name: Sanitize Package Name
+title: Sanitize Package Name
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Interactors
+title: Get Interactors
 order: 4
 ---
 ## Navigation

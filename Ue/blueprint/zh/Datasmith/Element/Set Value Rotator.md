@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Rotator
+title: Set Value Rotator
 order: 150
 ---
 ## Navigation

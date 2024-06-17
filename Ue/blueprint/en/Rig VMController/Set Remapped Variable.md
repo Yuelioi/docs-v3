@@ -1,5 +1,5 @@
 ---
-display_name: Set Remapped Variable
+title: Set Remapped Variable
 order: 124
 ---
 ## Navigation

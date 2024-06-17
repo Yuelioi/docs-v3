@@ -1,5 +1,5 @@
 ---
-display_name: Noise
+title: Noise
 order: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Reset Atmosphere Light Direction Override
+title: Reset Atmosphere Light Direction Override
 order: 83
 ---
 ## Navigation

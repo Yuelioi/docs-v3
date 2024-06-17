@@ -1,5 +1,5 @@
 ---
-display_name: Can Trigger Resimulation
+title: Can Trigger Resimulation
 order: 18
 ---
 ## Navigation

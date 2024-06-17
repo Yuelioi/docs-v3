@@ -1,5 +1,5 @@
 ---
-display_name: Float Spring Interp
+title: Float Spring Interp
 order: 4
 ---
 ## Navigation

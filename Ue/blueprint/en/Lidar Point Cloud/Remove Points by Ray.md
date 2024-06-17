@@ -1,5 +1,5 @@
 ---
-display_name: Remove Points by Ray
+title: Remove Points by Ray
 order: 60
 ---
 ## Navigation

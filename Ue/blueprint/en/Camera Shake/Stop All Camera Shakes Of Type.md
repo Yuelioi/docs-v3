@@ -1,5 +1,5 @@
 ---
-display_name: Stop All Camera Shakes Of Type
+title: Stop All Camera Shakes Of Type
 order: 6
 ---
 ## Navigation

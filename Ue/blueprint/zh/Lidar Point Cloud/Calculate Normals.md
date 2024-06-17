@@ -1,5 +1,5 @@
 ---
-display_name: Calculate Normals
+title: Calculate Normals
 order: 12
 ---
 ## Navigation

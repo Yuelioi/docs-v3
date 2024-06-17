@@ -1,5 +1,5 @@
 ---
-display_name: Set UVMap Settings to Material Parameters
+title: Set UVMap Settings to Material Parameters
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Pan
+title: Pan
 order: 50
 ---
 ## Navigation

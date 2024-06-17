@@ -1,5 +1,5 @@
 ---
-display_name: Get Stat Call Count
+title: Get Stat Call Count
 order: 18
 ---
 ## Navigation

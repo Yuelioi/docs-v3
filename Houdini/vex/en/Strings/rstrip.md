@@ -1,5 +1,5 @@
 ---
-display_name: rstrip
+title: rstrip
 order: 33
 ---
 `string  rstrip(string value)`

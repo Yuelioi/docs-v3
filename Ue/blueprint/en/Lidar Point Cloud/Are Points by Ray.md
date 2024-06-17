@@ -1,5 +1,5 @@
 ---
-display_name: Are Points by Ray
+title: Are Points by Ray
 order: 7
 ---
 ## Navigation

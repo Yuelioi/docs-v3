@@ -1,5 +1,5 @@
 ---
-display_name: Get Game User Settings
+title: Get Game User Settings
 order: 44
 ---
 ## Navigation

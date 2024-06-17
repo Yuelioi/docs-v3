@@ -1,5 +1,5 @@
 ---
-display_name: removevalue
+title: removevalue
 order: 11
 ---
 `int  removevalue(<type>&array[], <type>value)`

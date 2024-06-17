@@ -1,5 +1,5 @@
 ---
-display_name: Set Clipping
+title: Set Clipping
 order: 9
 ---
 ## Navigation

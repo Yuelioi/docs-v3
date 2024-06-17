@@ -1,5 +1,5 @@
 ---
-display_name: Apply Color Space Transform to Texture Compressed
+title: Apply Color Space Transform to Texture Compressed
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add OSC Bundle to Bundle
+title: Add OSC Bundle to Bundle
 order: 8
 ---
 ## Navigation

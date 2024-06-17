@@ -1,5 +1,5 @@
 ---
-display_name: Set Loading Text
+title: Set Loading Text
 order: 5
 ---
 ## Navigation

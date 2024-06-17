@@ -1,5 +1,5 @@
 ---
-display_name: Enable Streaming Source
+title: Enable Streaming Source
 order: 2
 ---
 ## Navigation

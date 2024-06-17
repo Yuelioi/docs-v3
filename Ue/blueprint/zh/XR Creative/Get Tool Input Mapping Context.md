@@ -1,5 +1,5 @@
 ---
-display_name: Get Tool Input Mapping Context
+title: Get Tool Input Mapping Context
 order: 15
 ---
 ## Navigation

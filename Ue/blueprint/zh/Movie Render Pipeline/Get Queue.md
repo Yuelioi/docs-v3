@@ -1,5 +1,5 @@
 ---
-display_name: Get Queue
+title: Get Queue
 order: 55
 ---
 ## Navigation

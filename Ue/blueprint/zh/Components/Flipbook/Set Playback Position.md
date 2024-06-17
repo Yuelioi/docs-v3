@@ -1,5 +1,5 @@
 ---
-display_name: Set Playback Position
+title: Set Playback Position
 order: 18
 ---
 ## Navigation

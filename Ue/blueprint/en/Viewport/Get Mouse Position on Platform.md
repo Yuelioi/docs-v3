@@ -1,5 +1,5 @@
 ---
-display_name: Get Mouse Position on Platform
+title: Get Mouse Position on Platform
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Value to Float Range
+title: Add Value to Float Range
 order: 1
 ---
 ## Navigation

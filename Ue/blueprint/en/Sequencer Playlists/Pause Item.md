@@ -1,5 +1,5 @@
 ---
-display_name: Pause Item
+title: Pause Item
 order: 6
 ---
 ## Navigation

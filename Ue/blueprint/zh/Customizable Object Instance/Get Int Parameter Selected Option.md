@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Parameter Selected Option
+title: Get Int Parameter Selected Option
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set All Physics Linear Velocity
+title: Set All Physics Linear Velocity
 order: 22
 ---
 ## Navigation

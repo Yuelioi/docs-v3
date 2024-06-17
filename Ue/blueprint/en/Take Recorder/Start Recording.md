@@ -1,5 +1,5 @@
 ---
-display_name: Start Recording
+title: Start Recording
 order: 25
 ---
 ## Navigation

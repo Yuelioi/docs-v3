@@ -1,5 +1,5 @@
 ---
-display_name: Get Attributes Values
+title: Get Attributes Values
 order: 11
 ---
 ## Navigation

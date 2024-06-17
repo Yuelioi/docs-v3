@@ -1,5 +1,5 @@
 ---
-display_name: Is Left Control Down
+title: Is Left Control Down
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Grid Mesh Triangles
+title: Create Grid Mesh Triangles
 order: 9
 ---
 ## Navigation

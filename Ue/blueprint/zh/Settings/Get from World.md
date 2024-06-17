@@ -1,5 +1,5 @@
 ---
-display_name: Get from World
+title: Get from World
 order: 72
 ---
 ## Navigation

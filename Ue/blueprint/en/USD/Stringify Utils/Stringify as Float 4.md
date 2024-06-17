@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Float 4
+title: Stringify as Float 4
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Angular Damping
+title: Set Angular Damping
 order: 24
 ---
 ## Navigation

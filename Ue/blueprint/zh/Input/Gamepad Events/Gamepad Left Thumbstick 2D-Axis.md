@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Thumbstick 2D-Axis
+title: Gamepad Left Thumbstick 2D-Axis
 order: 10
 ---
 ## Navigation

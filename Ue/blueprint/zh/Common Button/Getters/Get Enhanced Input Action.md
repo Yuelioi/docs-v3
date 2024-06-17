@@ -1,5 +1,5 @@
 ---
-display_name: Get Enhanced Input Action
+title: Get Enhanced Input Action
 order: 5
 ---
 ## Navigation

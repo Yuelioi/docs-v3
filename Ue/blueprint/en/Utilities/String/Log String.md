@@ -1,5 +1,5 @@
 ---
-display_name: Log String
+title: Log String
 order: 29
 ---
 ## Navigation

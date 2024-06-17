@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Dim
+title: Get Output Dim
 order: 14
 ---
 ## Navigation

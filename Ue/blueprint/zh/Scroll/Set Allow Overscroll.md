@@ -1,5 +1,5 @@
 ---
-display_name: Set Allow Overscroll
+title: Set Allow Overscroll
 order: 2
 ---
 ## Navigation

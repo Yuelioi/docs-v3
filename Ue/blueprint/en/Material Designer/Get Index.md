@@ -1,5 +1,5 @@
 ---
-display_name: Get Index
+title: Get Index
 order: 77
 ---
 ## Navigation

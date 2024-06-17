@@ -1,5 +1,5 @@
 ---
-display_name: On Load Failure
+title: On Load Failure
 order: 111
 ---
 ## Navigation

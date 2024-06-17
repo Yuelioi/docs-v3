@@ -1,5 +1,5 @@
 ---
-display_name: Is Move Input Ignored
+title: Is Move Input Ignored
 order: 19
 ---
 ## Navigation

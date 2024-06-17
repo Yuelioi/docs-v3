@@ -1,5 +1,5 @@
 ---
-display_name: Exceptions
+title: Exceptions
 order: 4
 ---
 

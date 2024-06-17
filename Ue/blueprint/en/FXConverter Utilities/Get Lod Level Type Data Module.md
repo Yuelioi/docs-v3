@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Level Type Data Module
+title: Get Lod Level Type Data Module
 order: 53
 ---
 ## Navigation

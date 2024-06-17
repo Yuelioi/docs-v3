@@ -1,5 +1,5 @@
 ---
-display_name: Add Data To Collection
+title: Add Data To Collection
 order: 1
 ---
 ## Navigation

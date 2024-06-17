@@ -1,5 +1,5 @@
 ---
-display_name: Get Movement Intent
+title: Get Movement Intent
 order: 17
 ---
 ## Navigation

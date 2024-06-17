@@ -1,5 +1,5 @@
 ---
-display_name: Read Quat Attribute with Rebase
+title: Read Quat Attribute with Rebase
 order: 20
 ---
 ## Navigation

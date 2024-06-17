@@ -1,5 +1,5 @@
 ---
-display_name: Generate Unwrapped UVs
+title: Generate Unwrapped UVs
 order: 1
 ---
 ## Navigation

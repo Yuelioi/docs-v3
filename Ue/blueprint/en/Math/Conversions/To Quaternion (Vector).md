@@ -1,5 +1,5 @@
 ---
-display_name: To Quaternion (Vector)
+title: To Quaternion (Vector)
 order: 23
 ---
 ## Navigation

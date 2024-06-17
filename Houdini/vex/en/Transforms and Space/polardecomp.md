@@ -1,5 +1,5 @@
 ---
-display_name: polardecomp
+title: polardecomp
 order: 16
 ---
 `matrix3  polardecomp(matrix3 transform)`

@@ -1,5 +1,5 @@
 ---
-display_name: Get Center
+title: Get Center
 order: 2
 ---
 ## Navigation

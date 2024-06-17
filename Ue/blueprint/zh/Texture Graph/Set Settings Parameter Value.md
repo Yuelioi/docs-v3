@@ -1,5 +1,5 @@
 ---
-display_name: Set Settings Parameter Value
+title: Set Settings Parameter Value
 order: 9
 ---
 ## Navigation

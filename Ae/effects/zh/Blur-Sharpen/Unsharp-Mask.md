@@ -1,5 +1,5 @@
 ---
-display_name: 钝化蒙版
+title: 钝化蒙版
 order: 16
 ---
 

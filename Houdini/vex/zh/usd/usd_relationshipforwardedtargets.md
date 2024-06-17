@@ -1,5 +1,5 @@
 ---
-display_name: usd_relationshipforwardedtargets
+title: usd_relationshipforwardedtargets
 order: 117
 ---
 | Since | 18.0 |

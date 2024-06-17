@@ -1,5 +1,5 @@
 ---
-display_name: Rename Module
+title: Rename Module
 order: 11
 ---
 ## Navigation

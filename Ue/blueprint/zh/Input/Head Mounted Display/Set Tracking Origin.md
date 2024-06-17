@@ -1,5 +1,5 @@
 ---
-display_name: Set Tracking Origin
+title: Set Tracking Origin
 order: 21
 ---
 ## Navigation

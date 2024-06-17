@@ -1,5 +1,5 @@
 ---
-display_name: 路径文本
+title: 路径文本
 order: 6
 ---
 

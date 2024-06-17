@@ -1,5 +1,5 @@
 ---
-display_name: Set Auto Destroy
+title: Set Auto Destroy
 order: 11
 ---
 ## Navigation

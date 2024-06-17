@@ -1,5 +1,5 @@
 ---
-display_name: Force Rebuild Keymaps
+title: Force Rebuild Keymaps
 order: 20
 ---
 ## Navigation

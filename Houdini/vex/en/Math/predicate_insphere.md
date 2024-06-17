@@ -1,5 +1,5 @@
 ---
-display_name: predicate_insphere
+title: predicate_insphere
 order: 55
 ---
 `float  predicate_insphere(vector a, vector b, vector c, vector d, vector e)`

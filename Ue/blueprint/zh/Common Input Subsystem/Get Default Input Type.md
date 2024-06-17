@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Input Type
+title: Get Default Input Type
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Skin Weight Info
+title: Make Skin Weight Info
 order: 37
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Random Sobol Cell 3D
+title: Random Sobol Cell 3D
 order: 31
 ---
 ## Navigation

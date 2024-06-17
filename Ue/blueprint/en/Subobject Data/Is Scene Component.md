@@ -1,5 +1,5 @@
 ---
-display_name: Is Scene Component
+title: Is Scene Component
 order: 26
 ---
 ## Navigation

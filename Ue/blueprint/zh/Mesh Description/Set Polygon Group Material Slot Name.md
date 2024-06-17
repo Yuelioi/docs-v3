@@ -1,5 +1,5 @@
 ---
-display_name: Set Polygon Group Material Slot Name
+title: Set Polygon Group Material Slot Name
 order: 91
 ---
 ## Navigation

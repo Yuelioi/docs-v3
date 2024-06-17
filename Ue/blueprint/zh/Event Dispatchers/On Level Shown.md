@@ -1,5 +1,5 @@
 ---
-display_name: On Level Shown
+title: On Level Shown
 order: 109
 ---
 ## Navigation

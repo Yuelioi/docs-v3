@@ -1,5 +1,5 @@
 ---
-display_name: Stop Spectral Analysis
+title: Stop Spectral Analysis
 order: 9
 ---
 ## Navigation

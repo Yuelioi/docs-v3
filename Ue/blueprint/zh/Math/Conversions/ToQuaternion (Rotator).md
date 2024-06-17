@@ -1,5 +1,5 @@
 ---
-display_name: ToQuaternion (Rotator)
+title: ToQuaternion (Rotator)
 order: 39
 ---
 ## Navigation

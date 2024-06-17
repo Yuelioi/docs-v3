@@ -1,5 +1,5 @@
 ---
-display_name: Get Skeleton
+title: Get Skeleton
 order: 3
 ---
 ## Navigation

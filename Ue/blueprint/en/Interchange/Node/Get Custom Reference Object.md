@@ -1,5 +1,5 @@
 ---
-display_name: Get Custom Reference Object
+title: Get Custom Reference Object
 order: 24
 ---
 ## Navigation

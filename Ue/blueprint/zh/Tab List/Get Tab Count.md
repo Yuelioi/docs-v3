@@ -1,5 +1,5 @@
 ---
-display_name: Get Tab Count
+title: Get Tab Count
 order: 6
 ---
 ## Navigation

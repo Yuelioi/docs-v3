@@ -1,5 +1,5 @@
 ---
-display_name: setattribtypeinfo
+title: setattribtypeinfo
 order: 64
 ---
 `int  setattribtypeinfo(int geohandle, string attribclass, string name, string typeinfo)`

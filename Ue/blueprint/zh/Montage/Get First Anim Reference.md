@@ -1,5 +1,5 @@
 ---
-display_name: Get First Anim Reference
+title: Get First Anim Reference
 order: 5
 ---
 ## Navigation

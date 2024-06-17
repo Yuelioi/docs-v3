@@ -1,5 +1,5 @@
 ---
-display_name: Get All Attributes in Active Mode
+title: Get All Attributes in Active Mode
 order: 4
 ---
 ## Navigation

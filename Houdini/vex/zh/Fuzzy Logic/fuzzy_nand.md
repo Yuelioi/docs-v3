@@ -1,5 +1,5 @@
 ---
-display_name: fuzzy_nand
+title: fuzzy_nand
 order: 4
 ---
 `int  fuzzy_nand(int a, int b, ...)`

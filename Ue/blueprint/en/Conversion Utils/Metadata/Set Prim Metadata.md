@@ -1,5 +1,5 @@
 ---
-display_name: Set Prim Metadata
+title: Set Prim Metadata
 order: 5
 ---
 ## Navigation

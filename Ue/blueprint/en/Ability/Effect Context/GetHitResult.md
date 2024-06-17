@@ -1,5 +1,5 @@
 ---
-display_name: GetHitResult
+title: GetHitResult
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Recompile Material
+title: Recompile Material
 order: 46
 ---
 ## Navigation

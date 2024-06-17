@@ -1,5 +1,5 @@
 ---
-display_name: Get Focal Point on Actor
+title: Get Focal Point on Actor
 order: 13
 ---
 ## Navigation

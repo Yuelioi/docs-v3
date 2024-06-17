@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush from Material
+title: Set Brush from Material
 order: 26
 ---
 ## Navigation

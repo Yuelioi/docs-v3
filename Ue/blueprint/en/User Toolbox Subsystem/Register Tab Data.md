@@ -1,5 +1,5 @@
 ---
-display_name: Register Tab Data
+title: Register Tab Data
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Generate Next Job Id
+title: Generate Next Job Id
 order: 8
 ---
 ## Navigation

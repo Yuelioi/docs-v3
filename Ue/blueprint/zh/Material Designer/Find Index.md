@@ -1,5 +1,5 @@
 ---
-display_name: Find Index
+title: Find Index
 order: 50
 ---
 ## Navigation

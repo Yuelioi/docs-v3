@@ -1,5 +1,5 @@
 ---
-display_name: Set Role
+title: Set Role
 order: 12
 ---
 ## Navigation

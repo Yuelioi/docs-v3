@@ -1,5 +1,5 @@
 ---
-display_name: Remove Run Once Event
+title: Remove Run Once Event
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Motion Tracked Device Count Management Necessary
+title: Is Motion Tracked Device Count Management Necessary
 order: 13
 ---
 ## Navigation

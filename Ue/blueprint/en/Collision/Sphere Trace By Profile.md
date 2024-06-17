@@ -1,5 +1,5 @@
 ---
-display_name: Sphere Trace By Profile
+title: Sphere Trace By Profile
 order: 77
 ---
 ## Navigation

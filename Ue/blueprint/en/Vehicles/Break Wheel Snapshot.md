@@ -1,5 +1,5 @@
 ---
-display_name: Break Wheel Snapshot
+title: Break Wheel Snapshot
 order: 1
 ---
 ## Navigation

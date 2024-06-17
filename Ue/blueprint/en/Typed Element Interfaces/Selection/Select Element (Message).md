@@ -1,5 +1,5 @@
 ---
-display_name: Select Element (Message)
+title: Select Element (Message)
 order: 13
 ---
 ## Navigation

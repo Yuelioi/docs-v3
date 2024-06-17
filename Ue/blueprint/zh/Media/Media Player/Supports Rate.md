@@ -1,5 +1,5 @@
 ---
-display_name: Supports Rate
+title: Supports Rate
 order: 84
 ---
 ## Navigation

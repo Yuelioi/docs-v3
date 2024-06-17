@@ -1,5 +1,5 @@
 ---
-display_name: String To Name
+title: String To Name
 order: 52
 ---
 ## Navigation

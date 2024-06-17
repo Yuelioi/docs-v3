@@ -1,5 +1,5 @@
 ---
-display_name: Forward Gameplay Cue to Parent
+title: Forward Gameplay Cue to Parent
 order: 4
 ---
 ## Navigation

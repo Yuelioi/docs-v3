@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double 2
+title: Unstringify as Double 2
 order: 68
 ---
 ## Navigation

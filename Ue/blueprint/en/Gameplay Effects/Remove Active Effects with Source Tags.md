@@ -1,5 +1,5 @@
 ---
-display_name: Remove Active Effects with Source Tags
+title: Remove Active Effects with Source Tags
 order: 14
 ---
 ## Navigation

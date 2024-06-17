@@ -1,5 +1,5 @@
 ---
-display_name: expandvertexgroup
+title: expandvertexgroup
 order: 4
 ---
 | Since | 17.0 |

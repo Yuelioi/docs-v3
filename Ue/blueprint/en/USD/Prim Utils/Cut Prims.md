@@ -1,5 +1,5 @@
 ---
-display_name: Cut Prims
+title: Cut Prims
 order: 4
 ---
 ## Navigation

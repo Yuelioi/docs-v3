@@ -1,5 +1,5 @@
 ---
-display_name: Get Int Parameters
+title: Get Int Parameters
 order: 25
 ---
 ## Navigation

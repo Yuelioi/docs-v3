@@ -1,5 +1,5 @@
 ---
-display_name: On Post Apply Snapshot
+title: On Post Apply Snapshot
 order: 21
 ---
 ## Navigation

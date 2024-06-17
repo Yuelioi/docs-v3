@@ -1,5 +1,5 @@
 ---
-display_name: Find Rig VMHosts
+title: Find Rig VMHosts
 order: 4
 ---
 ## Navigation

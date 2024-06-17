@@ -1,5 +1,5 @@
 ---
-display_name: Get Time Delay
+title: Get Time Delay
 order: 23
 ---
 ## Navigation

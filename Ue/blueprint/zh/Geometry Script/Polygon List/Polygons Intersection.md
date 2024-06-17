@@ -1,5 +1,5 @@
 ---
-display_name: Polygons Intersection
+title: Polygons Intersection
 order: 19
 ---
 ## Navigation

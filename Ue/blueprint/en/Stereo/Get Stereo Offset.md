@@ -1,5 +1,5 @@
 ---
-display_name: Get Stereo Offset
+title: Get Stereo Offset
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Hide Actor Components
+title: Hide Actor Components
 order: 4
 ---
 ## Navigation

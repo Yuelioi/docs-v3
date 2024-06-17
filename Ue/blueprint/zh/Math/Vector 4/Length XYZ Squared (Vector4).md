@@ -1,5 +1,5 @@
 ---
-display_name: Length XYZ Squared (Vector4)
+title: Length XYZ Squared (Vector4)
 order: 11
 ---
 ## Navigation

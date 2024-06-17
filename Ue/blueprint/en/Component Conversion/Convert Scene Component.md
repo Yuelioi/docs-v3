@@ -1,5 +1,5 @@
 ---
-display_name: Convert Scene Component
+title: Convert Scene Component
 order: 12
 ---
 ## Navigation

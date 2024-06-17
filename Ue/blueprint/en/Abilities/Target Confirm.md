@@ -1,5 +1,5 @@
 ---
-display_name: Target Confirm
+title: Target Confirm
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Editor Viewport View Mode
+title: Set Editor Viewport View Mode
 order: 28
 ---
 ## Navigation

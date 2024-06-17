@@ -1,5 +1,5 @@
 ---
-display_name: Set Active
+title: Set Active
 order: 6
 ---
 ## Navigation

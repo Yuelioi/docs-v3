@@ -1,5 +1,5 @@
 ---
-display_name: Has Recorded Data
+title: Has Recorded Data
 order: 3
 ---
 ## Navigation

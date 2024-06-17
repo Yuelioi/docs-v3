@@ -1,5 +1,5 @@
 ---
-display_name: Set Stretch Direction
+title: Set Stretch Direction
 order: 84
 ---
 ## Navigation

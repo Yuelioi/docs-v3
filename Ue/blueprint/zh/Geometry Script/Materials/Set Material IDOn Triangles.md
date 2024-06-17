@@ -1,5 +1,5 @@
 ---
-display_name: Set Material IDOn Triangles
+title: Set Material IDOn Triangles
 order: 10
 ---
 ## Navigation

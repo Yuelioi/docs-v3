@@ -1,5 +1,5 @@
 ---
-display_name: Get All Actors from Target Data
+title: Get All Actors from Target Data
 order: 9
 ---
 ## Navigation

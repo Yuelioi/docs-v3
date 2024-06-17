@@ -1,5 +1,5 @@
 ---
-display_name: Save All Dirty Levels
+title: Save All Dirty Levels
 order: 52
 ---
 ## Navigation

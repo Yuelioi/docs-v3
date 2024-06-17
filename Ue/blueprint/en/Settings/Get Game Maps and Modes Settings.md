@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Maps and Modes Settings
+title: Get Game Maps and Modes Settings
 order: 43
 ---
 ## Navigation

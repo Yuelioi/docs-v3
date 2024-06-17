@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets by Package Name (Message)
+title: Get Assets by Package Name (Message)
 order: 12
 ---
 ## Navigation

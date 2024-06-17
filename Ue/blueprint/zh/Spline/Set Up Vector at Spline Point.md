@@ -1,5 +1,5 @@
 ---
-display_name: Set Up Vector at Spline Point
+title: Set Up Vector at Spline Point
 order: 91
 ---
 ## Navigation

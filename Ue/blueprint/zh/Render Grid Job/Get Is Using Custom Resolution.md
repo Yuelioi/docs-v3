@@ -1,5 +1,5 @@
 ---
-display_name: Get Is Using Custom Resolution
+title: Get Is Using Custom Resolution
 order: 11
 ---
 ## Navigation

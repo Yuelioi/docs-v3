@@ -1,5 +1,5 @@
 ---
-display_name: Get Disable Component when Spawned by Sequencer
+title: Get Disable Component when Spawned by Sequencer
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 滑块控制
+title: 滑块控制
 order: 8
 ---
 

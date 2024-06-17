@@ -1,5 +1,5 @@
 ---
-display_name: Set Chain FKSettings in Retarget Profile
+title: Set Chain FKSettings in Retarget Profile
 order: 6
 ---
 ## Navigation

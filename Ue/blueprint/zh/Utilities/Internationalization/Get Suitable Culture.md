@@ -1,5 +1,5 @@
 ---
-display_name: Get Suitable Culture
+title: Get Suitable Culture
 order: 14
 ---
 ## Navigation

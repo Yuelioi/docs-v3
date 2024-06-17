@@ -1,5 +1,5 @@
 ---
-display_name: Single Blur Step
+title: Single Blur Step
 order: 8
 ---
 ## Navigation

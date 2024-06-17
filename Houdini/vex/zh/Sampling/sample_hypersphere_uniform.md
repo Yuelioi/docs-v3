@@ -1,5 +1,5 @@
 ---
-display_name: sample_hypersphere_uniform
+title: sample_hypersphere_uniform
 order: 20
 ---
 `vector4  sample_hypersphere_uniform(vector4 u)`

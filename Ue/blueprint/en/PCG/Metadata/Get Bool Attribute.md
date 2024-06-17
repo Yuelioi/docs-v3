@@ -1,5 +1,5 @@
 ---
-display_name: Get Bool Attribute
+title: Get Bool Attribute
 order: 29
 ---
 ## Navigation

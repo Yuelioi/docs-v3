@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Integer)
+title: Has Default (Integer)
 order: 79
 ---
 ## Navigation

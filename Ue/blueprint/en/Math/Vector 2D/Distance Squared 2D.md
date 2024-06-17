@@ -1,5 +1,5 @@
 ---
-display_name: Distance Squared 2D
+title: Distance Squared 2D
 order: 5
 ---
 ## Navigation

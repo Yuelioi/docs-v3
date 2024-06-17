@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Thumbstick Button
+title: Gamepad Left Thumbstick Button
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Number Of Modifiers
+title: Get Number Of Modifiers
 order: 32
 ---
 ## Navigation

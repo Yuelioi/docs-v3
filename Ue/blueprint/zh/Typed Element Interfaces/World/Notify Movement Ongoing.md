@@ -1,5 +1,5 @@
 ---
-display_name: Notify Movement Ongoing
+title: Notify Movement Ongoing
 order: 34
 ---
 ## Navigation

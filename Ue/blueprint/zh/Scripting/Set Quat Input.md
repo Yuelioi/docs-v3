@@ -1,5 +1,5 @@
 ---
-display_name: Set Quat Input
+title: Set Quat Input
 order: 29
 ---
 ## Navigation

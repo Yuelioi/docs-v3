@@ -1,5 +1,5 @@
 ---
-display_name: Remove Value from Projector Range
+title: Remove Value from Projector Range
 order: 60
 ---
 ## Navigation

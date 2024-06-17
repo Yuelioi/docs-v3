@@ -1,5 +1,5 @@
 ---
-display_name: 自动对比度
+title: 自动对比度
 order: 2
 ---
 

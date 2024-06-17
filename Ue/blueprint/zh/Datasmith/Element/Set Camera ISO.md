@@ -1,5 +1,5 @@
 ---
-display_name: Set Camera ISO
+title: Set Camera ISO
 order: 102
 ---
 ## Navigation

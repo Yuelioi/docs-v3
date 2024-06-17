@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Resolution Scale
+title: Get Default Resolution Scale
 order: 34
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotator Attribute by Metadata Key
+title: Get Rotator Attribute by Metadata Key
 order: 42
 ---
 ## Navigation

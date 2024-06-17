@@ -1,5 +1,5 @@
 ---
-display_name: Get Horizontal Entry Spacing
+title: Get Horizontal Entry Spacing
 order: 5
 ---
 ## Navigation

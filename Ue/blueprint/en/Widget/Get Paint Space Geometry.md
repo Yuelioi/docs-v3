@@ -1,5 +1,5 @@
 ---
-display_name: Get Paint Space Geometry
+title: Get Paint Space Geometry
 order: 33
 ---
 ## Navigation

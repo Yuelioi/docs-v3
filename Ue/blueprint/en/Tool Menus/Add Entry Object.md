@@ -1,5 +1,5 @@
 ---
-display_name: Add Entry Object
+title: Add Entry Object
 order: 2
 ---
 ## Navigation

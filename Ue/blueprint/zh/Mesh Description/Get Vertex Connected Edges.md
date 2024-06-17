@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Connected Edges
+title: Get Vertex Connected Edges
 order: 58
 ---
 ## Navigation

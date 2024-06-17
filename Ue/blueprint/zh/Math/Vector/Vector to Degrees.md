@@ -1,5 +1,5 @@
 ---
-display_name: Vector to Degrees
+title: Vector to Degrees
 order: 94
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: getprimid
+title: getprimid
 order: 27
 ---
 | Context(s) | [shading](../contexts/shading.html) |

@@ -1,5 +1,5 @@
 ---
-display_name: Paste Folders
+title: Paste Folders
 order: 44
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Blendable
+title: Remove Blendable
 order: 80
 ---
 ## Navigation

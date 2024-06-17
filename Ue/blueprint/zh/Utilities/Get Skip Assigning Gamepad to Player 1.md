@@ -1,5 +1,5 @@
 ---
-display_name: Get Skip Assigning Gamepad to Player 1
+title: Get Skip Assigning Gamepad to Player 1
 order: 22
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get AvaTransitionSubsystem
+title: Get AvaTransitionSubsystem
 order: 14
 ---
 ## Navigation

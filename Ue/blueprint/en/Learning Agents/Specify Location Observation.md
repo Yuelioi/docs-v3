@@ -1,5 +1,5 @@
 ---
-display_name: Specify Location Observation
+title: Specify Location Observation
 order: 311
 ---
 ## Navigation

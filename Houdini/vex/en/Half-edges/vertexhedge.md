@@ -1,5 +1,5 @@
 ---
-display_name: vertexhedge
+title: vertexhedge
 order: 22
 ---
 `int  vertexhedge(<geometry>geometry, int vertex)`

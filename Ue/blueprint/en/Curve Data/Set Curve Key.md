@@ -1,5 +1,5 @@
 ---
-display_name: Set Curve Key
+title: Set Curve Key
 order: 26
 ---
 ## Navigation

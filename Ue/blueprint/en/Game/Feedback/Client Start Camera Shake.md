@@ -1,5 +1,5 @@
 ---
-display_name: Client Start Camera Shake
+title: Client Start Camera Shake
 order: 5
 ---
 ## Navigation

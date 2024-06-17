@@ -1,5 +1,5 @@
 ---
-display_name: atan
+title: atan
 order: 7
 ---
 `float  atan(float n)`

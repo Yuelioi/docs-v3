@@ -1,5 +1,5 @@
 ---
-display_name: sensor_panorama_getcone
+title: sensor_panorama_getcone
 order: 3
 ---
 `void  sensor_panorama_getcone(int handle, vector lookodir, float angle, vector colormin, vector colormax, float depthmin, float depthmax, float &strength, vector &dir, vector &color, float &depth)`

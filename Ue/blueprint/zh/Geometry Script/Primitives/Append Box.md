@@ -1,5 +1,5 @@
 ---
-display_name: Append Box
+title: Append Box
 order: 2
 ---
 ## Navigation

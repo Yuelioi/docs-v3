@@ -1,5 +1,5 @@
 ---
-display_name: On Destroyed
+title: On Destroyed
 order: 2
 ---
 ## Navigation

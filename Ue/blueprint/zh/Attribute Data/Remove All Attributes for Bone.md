@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Attributes for Bone
+title: Remove All Attributes for Bone
 order: 7
 ---
 ## Navigation

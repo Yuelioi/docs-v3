@@ -1,5 +1,5 @@
 ---
-display_name: Write Achievement Progress
+title: Write Achievement Progress
 order: 5
 ---
 ## Navigation

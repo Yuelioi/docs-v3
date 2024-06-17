@@ -1,5 +1,5 @@
 ---
-display_name: Create Script Input DI
+title: Create Script Input DI
 order: 15
 ---
 ## Navigation

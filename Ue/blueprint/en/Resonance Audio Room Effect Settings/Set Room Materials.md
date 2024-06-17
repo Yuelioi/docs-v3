@@ -1,5 +1,5 @@
 ---
-display_name: Set Room Materials
+title: Set Room Materials
 order: 7
 ---
 ## Navigation

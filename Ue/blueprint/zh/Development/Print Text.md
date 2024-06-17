@@ -1,5 +1,5 @@
 ---
-display_name: Print Text
+title: Print Text
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Kill Box Props
+title: Get Particle Module Kill Box Props
 order: 69
 ---
 ## Navigation

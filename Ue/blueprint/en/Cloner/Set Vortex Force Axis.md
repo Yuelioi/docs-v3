@@ -1,5 +1,5 @@
 ---
-display_name: Set Vortex Force Axis
+title: Set Vortex Force Axis
 order: 63
 ---
 ## Navigation

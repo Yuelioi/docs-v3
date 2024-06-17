@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Float 2Array
+title: Unstringify as Float 2Array
 order: 77
 ---
 ## Navigation

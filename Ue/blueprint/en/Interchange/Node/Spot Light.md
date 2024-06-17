@@ -1,5 +1,5 @@
 ---
-display_name: Spot Light
+title: Spot Light
 order: 81
 ---
 ## Navigation

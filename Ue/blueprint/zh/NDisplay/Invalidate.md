@@ -1,5 +1,5 @@
 ---
-display_name: Invalidate
+title: Invalidate
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Timespan
+title: Make Timespan
 order: 20
 ---
 ## Navigation

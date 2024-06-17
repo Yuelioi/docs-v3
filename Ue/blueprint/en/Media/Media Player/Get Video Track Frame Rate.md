@@ -1,5 +1,5 @@
 ---
-display_name: Get Video Track Frame Rate
+title: Get Video Track Frame Rate
 order: 33
 ---
 ## Navigation

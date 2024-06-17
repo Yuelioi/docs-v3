@@ -1,5 +1,5 @@
 ---
-display_name: Is Curve Value Set by Index
+title: Is Curve Value Set by Index
 order: 95
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Projector Direction
+title: Set Projector Direction
 order: 70
 ---
 ## Navigation

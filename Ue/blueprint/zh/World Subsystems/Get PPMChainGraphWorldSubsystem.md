@@ -1,5 +1,5 @@
 ---
-display_name: Get PPMChainGraphWorldSubsystem
+title: Get PPMChainGraphWorldSubsystem
 order: 66
 ---
 ## Navigation

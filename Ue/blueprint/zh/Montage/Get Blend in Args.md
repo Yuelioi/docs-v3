@@ -1,5 +1,5 @@
 ---
-display_name: Get Blend in Args
+title: Get Blend in Args
 order: 2
 ---
 ## Navigation

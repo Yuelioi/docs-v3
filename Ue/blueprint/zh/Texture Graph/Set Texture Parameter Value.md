@@ -1,5 +1,5 @@
 ---
-display_name: Set Texture Parameter Value
+title: Set Texture Parameter Value
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Recorded Level Name
+title: Set Recorded Level Name
 order: 15
 ---
 ## Navigation

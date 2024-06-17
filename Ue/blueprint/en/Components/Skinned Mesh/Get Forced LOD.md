@@ -1,5 +1,5 @@
 ---
-display_name: Get Forced LOD
+title: Get Forced LOD
 order: 10
 ---
 ## Navigation

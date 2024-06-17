@@ -1,5 +1,5 @@
 ---
-display_name: Get Physics History Count
+title: Get Physics History Count
 order: 81
 ---
 ## Navigation

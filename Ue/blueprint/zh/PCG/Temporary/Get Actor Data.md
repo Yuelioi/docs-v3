@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Data
+title: Get Actor Data
 order: 1
 ---
 ## Navigation

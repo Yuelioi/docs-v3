@@ -1,5 +1,5 @@
 ---
-display_name: Get Next Key
+title: Get Next Key
 order: 3
 ---
 ## Navigation

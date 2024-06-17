@@ -1,5 +1,5 @@
 ---
-display_name: volumeindexp
+title: volumeindexp
 order: 9
 ---
 `vector4  volumeindexp(<geometry>geometry, int primnum, vector voxel)`

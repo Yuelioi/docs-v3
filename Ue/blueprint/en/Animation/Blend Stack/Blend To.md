@@ -1,5 +1,5 @@
 ---
-display_name: Blend To
+title: Blend To
 order: 1
 ---
 ## Navigation

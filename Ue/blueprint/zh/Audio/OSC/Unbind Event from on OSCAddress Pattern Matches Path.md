@@ -1,5 +1,5 @@
 ---
-display_name: Unbind Event from on OSCAddress Pattern Matches Path
+title: Unbind Event from on OSCAddress Pattern Matches Path
 order: 77
 ---
 ## Navigation

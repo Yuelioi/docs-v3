@@ -1,5 +1,5 @@
 ---
-display_name: SetSubmixOutputVolume (linear gain)
+title: SetSubmixOutputVolume (linear gain)
 order: 16
 ---
 ## Navigation

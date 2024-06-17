@@ -1,5 +1,5 @@
 ---
-display_name: Seek to Desired Age
+title: Seek to Desired Age
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Persistent Local Integer
+title: Persistent Local Integer
 order: 25
 ---
 ## Navigation

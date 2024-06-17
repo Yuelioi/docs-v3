@@ -1,5 +1,5 @@
 ---
-display_name: Create Event
+title: Create Event
 order: 24
 ---
 ## Navigation

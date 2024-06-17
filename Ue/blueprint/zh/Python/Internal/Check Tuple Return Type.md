@@ -1,5 +1,5 @@
 ---
-display_name: Check Tuple Return Type
+title: Check Tuple Return Type
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Shotgrid Work Dir
+title: Get Shotgrid Work Dir
 order: 14
 ---
 ## Navigation

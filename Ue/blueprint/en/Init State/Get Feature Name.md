@@ -1,5 +1,5 @@
 ---
-display_name: Get Feature Name
+title: Get Feature Name
 order: 2
 ---
 ## Navigation

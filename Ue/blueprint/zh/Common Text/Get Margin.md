@@ -1,5 +1,5 @@
 ---
-display_name: Get Margin
+title: Get Margin
 order: 1
 ---
 ## Navigation

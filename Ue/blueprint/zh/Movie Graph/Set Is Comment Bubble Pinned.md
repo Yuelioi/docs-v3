@@ -1,5 +1,5 @@
 ---
-display_name: Set Is Comment Bubble Pinned
+title: Set Is Comment Bubble Pinned
 order: 69
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Purposes to Load
+title: Set Purposes to Load
 order: 18
 ---
 ## Navigation

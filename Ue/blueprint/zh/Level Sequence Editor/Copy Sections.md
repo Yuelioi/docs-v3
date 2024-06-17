@@ -1,5 +1,5 @@
 ---
-display_name: Copy Sections
+title: Copy Sections
 order: 10
 ---
 ## Navigation

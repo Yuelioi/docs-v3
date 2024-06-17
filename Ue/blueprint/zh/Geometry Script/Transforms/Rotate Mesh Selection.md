@@ -1,5 +1,5 @@
 ---
-display_name: Rotate Mesh Selection
+title: Rotate Mesh Selection
 order: 1
 ---
 ## Navigation

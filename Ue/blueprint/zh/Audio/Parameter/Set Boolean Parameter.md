@@ -1,5 +1,5 @@
 ---
-display_name: Set Boolean Parameter
+title: Set Boolean Parameter
 order: 16
 ---
 ## Navigation

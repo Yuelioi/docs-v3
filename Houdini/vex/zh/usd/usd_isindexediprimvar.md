@@ -1,5 +1,5 @@
 ---
-display_name: usd_isindexediprimvar
+title: usd_isindexediprimvar
 order: 70
 ---
 | Since | 19.0 |

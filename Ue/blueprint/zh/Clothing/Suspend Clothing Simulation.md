@@ -1,5 +1,5 @@
 ---
-display_name: Suspend Clothing Simulation
+title: Suspend Clothing Simulation
 order: 10
 ---
 ## Navigation

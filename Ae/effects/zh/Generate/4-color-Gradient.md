@@ -1,5 +1,5 @@
 ---
-display_name: 四色渐变
+title: 四色渐变
 order: 1
 ---
 

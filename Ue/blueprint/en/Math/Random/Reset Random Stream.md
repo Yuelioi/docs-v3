@@ -1,5 +1,5 @@
 ---
-display_name: Reset Random Stream
+title: Reset Random Stream
 order: 43
 ---
 ## Navigation

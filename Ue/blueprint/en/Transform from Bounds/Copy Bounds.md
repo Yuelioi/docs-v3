@@ -1,5 +1,5 @@
 ---
-display_name: Copy Bounds
+title: Copy Bounds
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Wireframe Material
+title: Set Wireframe Material
 order: 16
 ---
 ## Navigation

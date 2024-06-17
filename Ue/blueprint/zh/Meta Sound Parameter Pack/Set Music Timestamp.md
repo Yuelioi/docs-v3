@@ -1,5 +1,5 @@
 ---
-display_name: Set Music Timestamp
+title: Set Music Timestamp
 order: 24
 ---
 ## Navigation

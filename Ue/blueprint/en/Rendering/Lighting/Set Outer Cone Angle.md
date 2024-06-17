@@ -1,5 +1,5 @@
 ---
-display_name: Set Outer Cone Angle
+title: Set Outer Cone Angle
 order: 24
 ---
 ## Navigation

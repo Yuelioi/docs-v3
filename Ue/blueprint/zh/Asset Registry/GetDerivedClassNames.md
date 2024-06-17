@@ -1,5 +1,5 @@
 ---
-display_name: GetDerivedClassNames
+title: GetDerivedClassNames
 order: 29
 ---
 ## Navigation

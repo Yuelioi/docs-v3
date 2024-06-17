@@ -1,5 +1,5 @@
 ---
-display_name: CC光线放射
+title: CC光线放射
 order: 8
 ---
 

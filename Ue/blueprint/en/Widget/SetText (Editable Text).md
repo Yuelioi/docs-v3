@@ -1,5 +1,5 @@
 ---
-display_name: SetText (Editable Text)
+title: SetText (Editable Text)
 order: 48
 ---
 ## Navigation

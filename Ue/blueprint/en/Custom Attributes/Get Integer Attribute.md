@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer Attribute
+title: Get Integer Attribute
 order: 4
 ---
 ## Navigation

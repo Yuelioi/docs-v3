@@ -1,5 +1,5 @@
 ---
-display_name: Get Game Mode
+title: Get Game Mode
 order: 21
 ---
 ## Navigation

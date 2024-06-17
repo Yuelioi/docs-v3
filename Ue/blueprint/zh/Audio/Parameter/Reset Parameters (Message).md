@@ -1,5 +1,5 @@
 ---
-display_name: Reset Parameters (Message)
+title: Reset Parameters (Message)
 order: 11
 ---
 ## Navigation

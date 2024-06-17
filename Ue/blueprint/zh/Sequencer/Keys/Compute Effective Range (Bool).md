@@ -1,5 +1,5 @@
 ---
-display_name: Compute Effective Range (Bool)
+title: Compute Effective Range (Bool)
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Aggregate Inputs
+title: Get Aggregate Inputs
 order: 6
 ---
 ## Navigation

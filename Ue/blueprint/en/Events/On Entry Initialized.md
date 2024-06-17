@@ -1,5 +1,5 @@
 ---
-display_name: On Entry Initialized
+title: On Entry Initialized
 order: 8
 ---
 ## Navigation

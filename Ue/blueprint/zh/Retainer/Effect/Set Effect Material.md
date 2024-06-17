@@ -1,5 +1,5 @@
 ---
-display_name: Set Effect Material
+title: Set Effect Material
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Value by Index
+title: Get Curve Value by Index
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Static Array Observation
+title: Specify Static Array Observation
 order: 327
 ---
 ## Navigation

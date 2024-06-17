@@ -1,5 +1,5 @@
 ---
-display_name: FocusDistance
+title: FocusDistance
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Orient Bone
+title: Orient Bone
 order: 12
 ---
 ## Navigation

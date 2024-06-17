@@ -1,5 +1,5 @@
 ---
-display_name: Set Channel Data Buffer Size
+title: Set Channel Data Buffer Size
 order: 20
 ---
 ## Navigation

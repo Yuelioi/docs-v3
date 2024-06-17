@@ -1,5 +1,5 @@
 ---
-display_name: 材质 Material
+title: 材质 Material
 order: 1
 ---
 

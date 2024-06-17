@@ -1,5 +1,5 @@
 ---
-display_name: hscript_rand
+title: hscript_rand
 order: 14
 ---
 `float|vector|vector4 hscript_rand(float seed)`

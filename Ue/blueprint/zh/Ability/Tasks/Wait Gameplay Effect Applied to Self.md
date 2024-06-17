@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Effect Applied to Self
+title: Wait Gameplay Effect Applied to Self
 order: 24
 ---
 ## Navigation

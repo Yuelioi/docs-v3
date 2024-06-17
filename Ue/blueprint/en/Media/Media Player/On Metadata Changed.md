@@ -1,5 +1,5 @@
 ---
-display_name: On Metadata Changed
+title: On Metadata Changed
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get ContentBundleEngineSubsystem
+title: Get ContentBundleEngineSubsystem
 order: 13
 ---
 ## Navigation

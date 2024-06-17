@@ -1,5 +1,5 @@
 ---
-display_name: Producers
+title: Producers
 order: 4
 ---
 ## Navigation

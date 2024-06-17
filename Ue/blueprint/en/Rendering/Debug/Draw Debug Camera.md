@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Camera
+title: Draw Debug Camera
 order: 4
 ---
 ## Navigation

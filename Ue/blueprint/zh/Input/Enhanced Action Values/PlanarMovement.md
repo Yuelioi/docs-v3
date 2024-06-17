@@ -1,5 +1,5 @@
 ---
-display_name: PlanarMovement
+title: PlanarMovement
 order: 53
 ---
 ## Navigation

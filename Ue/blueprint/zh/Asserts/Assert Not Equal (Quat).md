@@ -1,5 +1,5 @@
 ---
-display_name: Assert Not Equal (Quat)
+title: Assert Not Equal (Quat)
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Configuration
+title: Set Configuration
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Value
+title: Get Curve Value
 order: 25
 ---
 ## Navigation

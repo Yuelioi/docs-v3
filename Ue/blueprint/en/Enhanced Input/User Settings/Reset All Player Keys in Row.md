@@ -1,5 +1,5 @@
 ---
-display_name: Reset All Player Keys in Row
+title: Reset All Player Keys in Row
 order: 25
 ---
 ## Navigation

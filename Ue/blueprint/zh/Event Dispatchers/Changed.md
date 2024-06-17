@@ -1,5 +1,5 @@
 ---
-display_name: Changed
+title: Changed
 order: 21
 ---
 ## Navigation

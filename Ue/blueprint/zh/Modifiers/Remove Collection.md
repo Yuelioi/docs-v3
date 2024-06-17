@@ -1,5 +1,5 @@
 ---
-display_name: Remove Collection
+title: Remove Collection
 order: 6
 ---
 ## Navigation

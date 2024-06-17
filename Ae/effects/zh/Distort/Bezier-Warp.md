@@ -1,5 +1,5 @@
 ---
-display_name: 贝塞尔曲线变形
+title: 贝塞尔曲线变形
 order: 1
 ---
 

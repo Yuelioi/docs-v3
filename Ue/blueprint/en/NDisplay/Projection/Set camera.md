@@ -1,5 +1,5 @@
 ---
-display_name: Set camera
+title: Set camera
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is String
+title: Is String
 order: 14
 ---
 ## Navigation

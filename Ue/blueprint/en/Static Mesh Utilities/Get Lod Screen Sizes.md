@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Screen Sizes
+title: Get Lod Screen Sizes
 order: 15
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Opposite Aggregate Pin
+title: Get Opposite Aggregate Pin
 order: 23
 ---
 ## Navigation

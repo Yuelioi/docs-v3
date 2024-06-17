@@ -1,5 +1,5 @@
 ---
-display_name: PreviousReticle
+title: PreviousReticle
 order: 62
 ---
 ## Navigation

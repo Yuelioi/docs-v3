@@ -1,5 +1,5 @@
 ---
-display_name: npoints
+title: npoints
 order: 17
 ---
 `int  npoints(<geometry>geometry)`

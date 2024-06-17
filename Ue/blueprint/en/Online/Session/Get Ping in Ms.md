@@ -1,5 +1,5 @@
 ---
-display_name: Get Ping in Ms
+title: Get Ping in Ms
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 分形杂色
+title: 分形杂色
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: FocusMethod
+title: FocusMethod
 order: 26
 ---
 ## Navigation

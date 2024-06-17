@@ -1,5 +1,5 @@
 ---
-display_name: Force Update Texture
+title: Force Update Texture
 order: 7
 ---
 ## Navigation

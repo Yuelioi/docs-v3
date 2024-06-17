@@ -1,5 +1,5 @@
 ---
-display_name: Set Navigation Rule Custom
+title: Set Navigation Rule Custom
 order: 24
 ---
 ## Navigation

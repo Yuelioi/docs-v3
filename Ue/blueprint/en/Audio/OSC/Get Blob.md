@@ -1,5 +1,5 @@
 ---
-display_name: Get Blob
+title: Get Blob
 order: 25
 ---
 ## Navigation

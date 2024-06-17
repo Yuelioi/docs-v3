@@ -1,5 +1,5 @@
 ---
-display_name: Normalize
+title: Normalize
 order: 44
 ---
 ## Navigation

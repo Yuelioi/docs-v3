@@ -1,5 +1,5 @@
 ---
-display_name: Play All
+title: Play All
 order: 7
 ---
 ## Navigation

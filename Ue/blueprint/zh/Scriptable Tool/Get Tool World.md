@@ -1,5 +1,5 @@
 ---
-display_name: Get Tool World
+title: Get Tool World
 order: 5
 ---
 ## Navigation

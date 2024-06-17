@@ -1,5 +1,5 @@
 ---
-display_name: uvsample
+title: uvsample
 order: 76
 ---
 This function specifies the position using UVs from a UV attribute. To use *intrinsic primitive UVs*, use [primuv](primuv.html "Interpolates the value of an attribute at a certain parametric (uvw) position.") instead.

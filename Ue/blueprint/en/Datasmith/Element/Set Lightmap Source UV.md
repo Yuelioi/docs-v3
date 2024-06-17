@@ -1,5 +1,5 @@
 ---
-display_name: Set Lightmap Source UV
+title: Set Lightmap Source UV
 order: 121
 ---
 ## Navigation

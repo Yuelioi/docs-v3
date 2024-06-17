@@ -1,5 +1,5 @@
 ---
-display_name: Has Default (Enum)
+title: Has Default (Enum)
 order: 77
 ---
 ## Navigation

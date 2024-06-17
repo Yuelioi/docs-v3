@@ -1,5 +1,5 @@
 ---
-display_name: Get Component State
+title: Get Component State
 order: 58
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Desaturate (LinearColor)
+title: Desaturate (LinearColor)
 order: 2
 ---
 ## Navigation

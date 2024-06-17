@@ -1,5 +1,5 @@
 ---
-display_name: Weighted Moving Average Rotator
+title: Weighted Moving Average Rotator
 order: 5
 ---
 ## Navigation

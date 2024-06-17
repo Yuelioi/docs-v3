@@ -1,5 +1,5 @@
 ---
-display_name: Add Variant
+title: Add Variant
 order: 4
 ---
 ## Navigation

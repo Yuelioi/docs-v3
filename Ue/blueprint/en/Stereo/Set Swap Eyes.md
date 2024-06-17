@@ -1,5 +1,5 @@
 ---
-display_name: Set Swap Eyes
+title: Set Swap Eyes
 order: 6
 ---
 ## Navigation

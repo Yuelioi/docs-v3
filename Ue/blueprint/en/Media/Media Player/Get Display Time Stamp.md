@@ -1,5 +1,5 @@
 ---
-display_name: Get Display Time Stamp
+title: Get Display Time Stamp
 order: 9
 ---
 ## Navigation

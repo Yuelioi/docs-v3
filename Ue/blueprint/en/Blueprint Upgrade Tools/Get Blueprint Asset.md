@@ -1,5 +1,5 @@
 ---
-display_name: Get Blueprint Asset
+title: Get Blueprint Asset
 order: 5
 ---
 ## Navigation

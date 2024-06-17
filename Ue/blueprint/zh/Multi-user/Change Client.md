@@ -1,5 +1,5 @@
 ---
-display_name: Change Client
+title: Change Client
 order: 5
 ---
 ## Navigation

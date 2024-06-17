@@ -1,5 +1,5 @@
 ---
-display_name: Can Duplicate Element (Message)
+title: Can Duplicate Element (Message)
 order: 3
 ---
 ## Navigation

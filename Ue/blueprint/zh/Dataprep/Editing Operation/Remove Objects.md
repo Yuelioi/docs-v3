@@ -1,5 +1,5 @@
 ---
-display_name: Remove Objects
+title: Remove Objects
 order: 7
 ---
 ## Navigation

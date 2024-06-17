@@ -1,5 +1,5 @@
 ---
-display_name: Get Anti Aliasing Quality
+title: Get Anti Aliasing Quality
 order: 24
 ---
 ## Navigation

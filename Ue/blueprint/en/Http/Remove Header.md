@@ -1,5 +1,5 @@
 ---
-display_name: Remove Header
+title: Remove Header
 order: 7
 ---
 ## Navigation

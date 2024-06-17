@@ -1,5 +1,5 @@
 ---
-display_name: Record Simple Currency Purchase
+title: Record Simple Currency Purchase
 order: 19
 ---
 ## Navigation

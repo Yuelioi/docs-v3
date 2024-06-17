@@ -1,5 +1,5 @@
 ---
-display_name: Expand Mesh Selection to Connected
+title: Expand Mesh Selection to Connected
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: sensor_panorama_getcolor
+title: sensor_panorama_getcolor
 order: 2
 ---
 `vector  sensor_panorama_getcolor(int handle, vector dir)`

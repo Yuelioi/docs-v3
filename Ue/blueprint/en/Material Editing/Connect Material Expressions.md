@@ -1,5 +1,5 @@
 ---
-display_name: Connect Material Expressions
+title: Connect Material Expressions
 order: 2
 ---
 ## Navigation

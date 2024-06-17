@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Weights
+title: Get Vertex Weights
 order: 2
 ---
 ## Navigation

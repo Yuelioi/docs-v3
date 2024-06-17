@@ -1,5 +1,5 @@
 ---
-display_name: Set Uniform Integer
+title: Set Uniform Integer
 order: 31
 ---
 ## Navigation

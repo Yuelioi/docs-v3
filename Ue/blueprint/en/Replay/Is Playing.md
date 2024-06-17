@@ -1,5 +1,5 @@
 ---
-display_name: Is Playing
+title: Is Playing
 order: 3
 ---
 ## Navigation

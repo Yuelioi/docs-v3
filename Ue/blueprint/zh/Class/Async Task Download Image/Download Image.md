@@ -1,5 +1,5 @@
 ---
-display_name: Download Image
+title: Download Image
 order: 1
 ---
 ## Navigation

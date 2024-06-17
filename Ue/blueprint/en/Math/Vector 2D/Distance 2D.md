@@ -1,5 +1,5 @@
 ---
-display_name: Distance 2D
+title: Distance 2D
 order: 4
 ---
 ## Navigation

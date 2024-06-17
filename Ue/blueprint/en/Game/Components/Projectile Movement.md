@@ -1,5 +1,5 @@
 ---
-display_name: Projectile Movement
+title: Projectile Movement
 order: 5
 ---
 ## Navigation

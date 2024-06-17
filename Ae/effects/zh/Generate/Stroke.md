@@ -1,5 +1,5 @@
 ---
-display_name: 描边
+title: 描边
 order: 24
 ---
 

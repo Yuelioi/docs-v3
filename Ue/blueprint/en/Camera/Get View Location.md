@@ -1,5 +1,5 @@
 ---
-display_name: Get View Location
+title: Get View Location
 order: 12
 ---
 ## Navigation

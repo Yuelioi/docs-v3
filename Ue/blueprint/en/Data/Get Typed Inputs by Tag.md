@@ -1,5 +1,5 @@
 ---
-display_name: Get Typed Inputs by Tag
+title: Get Typed Inputs by Tag
 order: 11
 ---
 ## Navigation

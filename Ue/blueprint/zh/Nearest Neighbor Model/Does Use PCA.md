@@ -1,5 +1,5 @@
 ---
-display_name: Does Use PCA
+title: Does Use PCA
 order: 1
 ---
 ## Navigation

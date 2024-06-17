@@ -1,5 +1,5 @@
 ---
-display_name: Save Loaded Assets
+title: Save Loaded Assets
 order: 39
 ---
 ## Navigation

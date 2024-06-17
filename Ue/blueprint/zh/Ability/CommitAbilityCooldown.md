@@ -1,5 +1,5 @@
 ---
-display_name: CommitAbilityCooldown
+title: CommitAbilityCooldown
 order: 14
 ---
 ## Navigation

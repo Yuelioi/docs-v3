@@ -1,5 +1,5 @@
 ---
-display_name: Set Variable (Vector)
+title: Set Variable (Vector)
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Attached Body Names
+title: Get Attached Body Names
 order: 13
 ---
 ## Navigation

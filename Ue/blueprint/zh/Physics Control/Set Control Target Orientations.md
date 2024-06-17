@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Target Orientations
+title: Set Control Target Orientations
 order: 103
 ---
 ## Navigation

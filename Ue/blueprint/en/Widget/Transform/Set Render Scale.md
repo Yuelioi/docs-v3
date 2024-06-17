@@ -1,5 +1,5 @@
 ---
-display_name: Set Render Scale
+title: Set Render Scale
 order: 2
 ---
 ## Navigation

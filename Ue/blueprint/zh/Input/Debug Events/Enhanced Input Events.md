@@ -1,5 +1,5 @@
 ---
-display_name: Enhanced Input Events
+title: Enhanced Input Events
 order: 2
 ---
 ## Navigation

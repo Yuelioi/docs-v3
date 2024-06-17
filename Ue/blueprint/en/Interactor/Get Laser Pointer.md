@@ -1,5 +1,5 @@
 ---
-display_name: Get Laser Pointer
+title: Get Laser Pointer
 order: 5
 ---
 ## Navigation

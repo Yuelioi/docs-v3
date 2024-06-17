@@ -1,5 +1,5 @@
 ---
-display_name: Get Time (Enum)
+title: Get Time (Enum)
 order: 59
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: VisLog Cone Shape
+title: VisLog Cone Shape
 order: 7
 ---
 ## Navigation

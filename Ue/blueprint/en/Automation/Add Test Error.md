@@ -1,5 +1,5 @@
 ---
-display_name: Add Test Error
+title: Add Test Error
 order: 5
 ---
 ## Navigation

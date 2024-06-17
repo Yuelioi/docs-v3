@@ -1,5 +1,5 @@
 ---
-display_name: Get Bar Progress
+title: Get Bar Progress
 order: 6
 ---
 ## Navigation

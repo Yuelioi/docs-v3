@@ -1,5 +1,5 @@
 ---
-display_name: Get Color Channel
+title: Get Color Channel
 order: 8
 ---
 ## Navigation

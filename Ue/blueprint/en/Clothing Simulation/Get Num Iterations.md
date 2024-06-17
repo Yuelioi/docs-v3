@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Iterations
+title: Get Num Iterations
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Visualizer Thickness
+title: Set Visualizer Thickness
 order: 32
 ---
 ## Navigation

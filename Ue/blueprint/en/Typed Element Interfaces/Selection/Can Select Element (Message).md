@@ -1,5 +1,5 @@
 ---
-display_name: Can Select Element (Message)
+title: Can Select Element (Message)
 order: 5
 ---
 ## Navigation

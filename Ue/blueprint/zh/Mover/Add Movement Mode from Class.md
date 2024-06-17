@@ -1,5 +1,5 @@
 ---
-display_name: Add Movement Mode from Class
+title: Add Movement Mode from Class
 order: 1
 ---
 ## Navigation

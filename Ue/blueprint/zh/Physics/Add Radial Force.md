@@ -1,5 +1,5 @@
 ---
-display_name: Add Radial Force
+title: Add Radial Force
 order: 11
 ---
 ## Navigation

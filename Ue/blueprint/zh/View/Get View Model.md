@@ -1,5 +1,5 @@
 ---
-display_name: Get View Model
+title: Get View Model
 order: 5
 ---
 ## Navigation

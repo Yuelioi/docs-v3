@@ -1,5 +1,5 @@
 ---
-display_name: Set Preview Skeletal Mesh
+title: Set Preview Skeletal Mesh
 order: 32
 ---
 ## Navigation

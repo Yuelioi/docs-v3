@@ -1,5 +1,5 @@
 ---
-display_name: Get Color List Length
+title: Get Color List Length
 order: 27
 ---
 ## Navigation

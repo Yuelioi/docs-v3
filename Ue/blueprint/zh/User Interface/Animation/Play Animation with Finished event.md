@@ -1,5 +1,5 @@
 ---
-display_name: Play Animation with Finished event
+title: Play Animation with Finished event
 order: 12
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Item Scrolled Into View
+title: On Item Scrolled Into View
 order: 15
 ---
 ## Navigation

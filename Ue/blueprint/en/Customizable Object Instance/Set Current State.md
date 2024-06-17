@@ -1,5 +1,5 @@
 ---
-display_name: Set Current State
+title: Set Current State
 order: 65
 ---
 ## Navigation

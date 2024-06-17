@@ -1,5 +1,5 @@
 ---
-display_name: Get Properties That Require List Refresh
+title: Get Properties That Require List Refresh
 order: 8
 ---
 ## Navigation

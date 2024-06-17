@@ -1,5 +1,5 @@
 ---
-display_name: Get First Aggregate Pin
+title: Get First Aggregate Pin
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: lightbounces
+title: lightbounces
 order: 48
 ---
 | Context(s) | [shading](../contexts/shading.html) |

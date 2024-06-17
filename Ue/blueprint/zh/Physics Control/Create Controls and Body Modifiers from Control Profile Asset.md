@@ -1,5 +1,5 @@
 ---
-display_name: Create Controls and Body Modifiers from Control Profile Asset
+title: Create Controls and Body Modifiers from Control Profile Asset
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: ClearPolyGroups
+title: ClearPolyGroups
 order: 1
 ---
 ## Navigation

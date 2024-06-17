@@ -1,5 +1,5 @@
 ---
-display_name: Create Texture
+title: Create Texture
 order: 10
 ---
 ## Navigation

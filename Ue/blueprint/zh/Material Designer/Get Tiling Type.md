@@ -1,5 +1,5 @@
 ---
-display_name: Get Tiling Type
+title: Get Tiling Type
 order: 139
 ---
 ## Navigation

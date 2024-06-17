@@ -1,5 +1,5 @@
 ---
-display_name: Get Mass Scale
+title: Get Mass Scale
 order: 75
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Pause Recording Output
+title: Pause Recording Output
 order: 2
 ---
 ## Navigation

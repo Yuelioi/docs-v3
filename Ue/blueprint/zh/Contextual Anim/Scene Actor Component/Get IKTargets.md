@@ -1,5 +1,5 @@
 ---
-display_name: Get IKTargets
+title: Get IKTargets
 order: 3
 ---
 ## Navigation

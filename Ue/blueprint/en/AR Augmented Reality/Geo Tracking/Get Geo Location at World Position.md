@@ -1,5 +1,5 @@
 ---
-display_name: Get Geo Location at World Position
+title: Get Geo Location at World Position
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Make Stage Actor Flush to Wall
+title: Make Stage Actor Flush to Wall
 order: 3
 ---
 ## Navigation

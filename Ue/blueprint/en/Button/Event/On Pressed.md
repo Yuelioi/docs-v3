@@ -1,5 +1,5 @@
 ---
-display_name: On Pressed
+title: On Pressed
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: On Canvas Render Target Update
+title: On Canvas Render Target Update
 order: 3
 ---
 ## Navigation

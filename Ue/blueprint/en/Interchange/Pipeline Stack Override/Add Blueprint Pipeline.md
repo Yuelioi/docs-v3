@@ -1,5 +1,5 @@
 ---
-display_name: Add Blueprint Pipeline
+title: Add Blueprint Pipeline
 order: 1
 ---
 ## Navigation

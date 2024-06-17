@@ -1,5 +1,5 @@
 ---
-display_name: Get Selection Set
+title: Get Selection Set
 order: 5
 ---
 ## Navigation

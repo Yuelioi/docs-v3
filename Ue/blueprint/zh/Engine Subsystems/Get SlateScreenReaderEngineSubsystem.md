@@ -1,5 +1,5 @@
 ---
-display_name: Get SlateScreenReaderEngineSubsystem
+title: Get SlateScreenReaderEngineSubsystem
 order: 42
 ---
 ## Navigation

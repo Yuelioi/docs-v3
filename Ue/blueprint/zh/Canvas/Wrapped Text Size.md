@@ -1,5 +1,5 @@
 ---
-display_name: Wrapped Text Size
+title: Wrapped Text Size
 order: 16
 ---
 ## Navigation

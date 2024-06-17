@@ -1,5 +1,5 @@
 ---
-display_name: CC强力定位
+title: CC强力定位
 order: 10
 ---
 

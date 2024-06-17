@@ -1,5 +1,5 @@
 ---
-display_name: Flush Animations
+title: Flush Animations
 order: 1
 ---
 ## Navigation

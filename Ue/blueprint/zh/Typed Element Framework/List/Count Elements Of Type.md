@@ -1,5 +1,5 @@
 ---
-display_name: Count Elements Of Type
+title: Count Elements Of Type
 order: 6
 ---
 ## Navigation

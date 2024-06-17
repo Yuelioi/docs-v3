@@ -1,5 +1,5 @@
 ---
-display_name: Remove Fixture Patch from Library
+title: Remove Fixture Patch from Library
 order: 8
 ---
 ## Navigation

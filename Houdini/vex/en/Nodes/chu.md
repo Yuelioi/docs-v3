@@ -1,5 +1,5 @@
 ---
-display_name: chu
+title: chu
 order: 19
 ---
 `vector2  chu(string channel)`

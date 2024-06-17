@@ -1,5 +1,5 @@
 ---
-display_name: Get Interactor Trying Teleport
+title: Get Interactor Trying Teleport
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_addprimvar
+title: usd_addprimvar
 order: 7
 ---
 | Since | 18.0 |

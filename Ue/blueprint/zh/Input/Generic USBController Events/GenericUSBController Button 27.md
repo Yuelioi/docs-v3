@@ -1,5 +1,5 @@
 ---
-display_name: GenericUSBController Button 27
+title: GenericUSBController Button 27
 order: 44
 ---
 ## Navigation

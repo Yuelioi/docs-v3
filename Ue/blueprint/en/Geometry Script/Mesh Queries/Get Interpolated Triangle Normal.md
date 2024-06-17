@@ -1,5 +1,5 @@
 ---
-display_name: Get Interpolated Triangle Normal
+title: Get Interpolated Triangle Normal
 order: 14
 ---
 ## Navigation

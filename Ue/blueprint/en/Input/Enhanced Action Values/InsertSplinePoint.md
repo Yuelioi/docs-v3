@@ -1,5 +1,5 @@
 ---
-display_name: InsertSplinePoint
+title: InsertSplinePoint
 order: 30
 ---
 ## Navigation

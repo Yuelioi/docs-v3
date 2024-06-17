@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Evaluation Type
+title: Set Input Evaluation Type
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Copy Mesh Selection to Mesh
+title: Copy Mesh Selection to Mesh
 order: 1
 ---
 ## Navigation

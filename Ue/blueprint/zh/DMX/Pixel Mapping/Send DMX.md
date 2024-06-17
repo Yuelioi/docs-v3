@@ -1,5 +1,5 @@
 ---
-display_name: Send DMX
+title: Send DMX
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert Poly Path to Array Of Vector 2D
+title: Convert Poly Path to Array Of Vector 2D
 order: 5
 ---
 ## Navigation

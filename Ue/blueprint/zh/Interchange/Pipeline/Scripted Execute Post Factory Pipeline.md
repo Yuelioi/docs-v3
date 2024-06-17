@@ -1,5 +1,5 @@
 ---
-display_name: Scripted Execute Post Factory Pipeline
+title: Scripted Execute Post Factory Pipeline
 order: 6
 ---
 ## Navigation

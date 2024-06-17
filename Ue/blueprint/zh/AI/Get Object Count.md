@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Count
+title: Get Object Count
 order: 18
 ---
 ## Navigation

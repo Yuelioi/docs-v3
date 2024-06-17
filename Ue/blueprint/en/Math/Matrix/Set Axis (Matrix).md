@@ -1,5 +1,5 @@
 ---
-display_name: Set Axis (Matrix)
+title: Set Axis (Matrix)
 order: 32
 ---
 ## Navigation

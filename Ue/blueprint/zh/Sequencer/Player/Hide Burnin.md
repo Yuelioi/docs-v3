@@ -1,5 +1,5 @@
 ---
-display_name: Hide Burnin
+title: Hide Burnin
 order: 19
 ---
 ## Navigation

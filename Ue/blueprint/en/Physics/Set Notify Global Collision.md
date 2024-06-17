@@ -1,5 +1,5 @@
 ---
-display_name: Set Notify Global Collision
+title: Set Notify Global Collision
 order: 43
 ---
 ## Navigation

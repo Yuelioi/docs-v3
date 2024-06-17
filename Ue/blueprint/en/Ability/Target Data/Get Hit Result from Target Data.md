@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Result from Target Data
+title: Get Hit Result from Target Data
 order: 11
 ---
 ## Navigation

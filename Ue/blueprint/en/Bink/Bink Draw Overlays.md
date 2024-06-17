@@ -1,5 +1,5 @@
 ---
-display_name: Bink Draw Overlays
+title: Bink Draw Overlays
 order: 1
 ---
 ## Navigation

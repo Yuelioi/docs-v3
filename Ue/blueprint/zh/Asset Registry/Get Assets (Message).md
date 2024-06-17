@@ -1,5 +1,5 @@
 ---
-display_name: Get Assets (Message)
+title: Get Assets (Message)
 order: 9
 ---
 ## Navigation

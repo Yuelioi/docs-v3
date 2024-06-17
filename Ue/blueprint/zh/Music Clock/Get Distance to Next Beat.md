@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance to Next Beat
+title: Get Distance to Next Beat
 order: 26
 ---
 ## Navigation

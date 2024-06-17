@@ -1,5 +1,5 @@
 ---
-display_name: Single Jump Step
+title: Single Jump Step
 order: 7
 ---
 ## Navigation

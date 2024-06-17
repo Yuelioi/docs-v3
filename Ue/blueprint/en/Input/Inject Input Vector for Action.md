@@ -1,5 +1,5 @@
 ---
-display_name: Inject Input Vector for Action
+title: Inject Input Vector for Action
 order: 25
 ---
 ## Navigation

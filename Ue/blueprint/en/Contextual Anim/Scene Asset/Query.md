@@ -1,5 +1,5 @@
 ---
-display_name: Query
+title: Query
 order: 10
 ---
 ## Navigation

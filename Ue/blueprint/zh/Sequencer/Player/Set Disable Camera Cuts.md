@@ -1,5 +1,5 @@
 ---
-display_name: Set Disable Camera Cuts
+title: Set Disable Camera Cuts
 order: 39
 ---
 ## Navigation

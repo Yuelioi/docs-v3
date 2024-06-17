@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Cine Camera
+title: Get Current Cine Camera
 order: 12
 ---
 ## Navigation

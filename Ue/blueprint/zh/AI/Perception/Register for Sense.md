@@ -1,5 +1,5 @@
 ---
-display_name: Register for Sense
+title: Register for Sense
 order: 13
 ---
 ## Navigation

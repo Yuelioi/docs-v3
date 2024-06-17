@@ -1,5 +1,5 @@
 ---
-display_name: Clear Camera Lens Effects
+title: Clear Camera Lens Effects
 order: 4
 ---
 ## Navigation

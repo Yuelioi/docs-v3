@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Links
+title: Get Target Links
 order: 31
 ---
 ## Navigation

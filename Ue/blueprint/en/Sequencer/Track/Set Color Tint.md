@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Tint
+title: Set Color Tint
 order: 18
 ---
 ## Navigation

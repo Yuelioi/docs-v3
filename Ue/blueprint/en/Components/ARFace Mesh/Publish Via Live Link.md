@@ -1,5 +1,5 @@
 ---
-display_name: Publish Via Live Link
+title: Publish Via Live Link
 order: 8
 ---
 ## Navigation

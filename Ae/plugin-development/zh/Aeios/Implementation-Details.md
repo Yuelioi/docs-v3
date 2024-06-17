@@ -1,5 +1,5 @@
 ---
-display_name: Implementation-Details
+title: Implementation-Details
 order: 4
 ---
 

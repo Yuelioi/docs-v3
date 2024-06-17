@@ -1,5 +1,5 @@
 ---
-display_name: Get Broadcast
+title: Get Broadcast
 order: 1
 ---
 ## Navigation

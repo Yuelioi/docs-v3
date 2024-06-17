@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Position Target
+title: Get Linear Position Target
 order: 24
 ---
 ## Navigation

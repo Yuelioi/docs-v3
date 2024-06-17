@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Image Center Parameters
+title: Evaluate Image Center Parameters
 order: 5
 ---
 ## Navigation

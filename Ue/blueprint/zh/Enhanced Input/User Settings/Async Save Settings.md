@@ -1,5 +1,5 @@
 ---
-display_name: Async Save Settings
+title: Async Save Settings
 order: 2
 ---
 ## Navigation

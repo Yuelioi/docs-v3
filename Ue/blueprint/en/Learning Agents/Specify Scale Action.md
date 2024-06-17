@@ -1,5 +1,5 @@
 ---
-display_name: Specify Scale Action
+title: Specify Scale Action
 order: 323
 ---
 ## Navigation

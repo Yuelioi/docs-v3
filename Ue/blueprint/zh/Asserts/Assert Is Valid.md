@@ -1,5 +1,5 @@
 ---
-display_name: Assert Is Valid
+title: Assert Is Valid
 order: 20
 ---
 ## Navigation

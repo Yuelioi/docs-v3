@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable Wireframe Render Pass
+title: Set Enable Wireframe Render Pass
 order: 15
 ---
 ## Navigation

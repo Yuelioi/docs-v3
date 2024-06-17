@@ -1,5 +1,5 @@
 ---
-display_name: Set Secondary Render Material
+title: Set Secondary Render Material
 order: 18
 ---
 ## Navigation

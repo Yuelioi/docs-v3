@@ -1,5 +1,5 @@
 ---
-display_name: Apply Physical Animation Settings
+title: Apply Physical Animation Settings
 order: 3
 ---
 ## Navigation

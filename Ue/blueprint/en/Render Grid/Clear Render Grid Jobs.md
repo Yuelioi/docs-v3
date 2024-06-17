@@ -1,5 +1,5 @@
 ---
-display_name: Clear Render Grid Jobs
+title: Clear Render Grid Jobs
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Function from Library
+title: Remove Function from Library
 order: 84
 ---
 ## Navigation

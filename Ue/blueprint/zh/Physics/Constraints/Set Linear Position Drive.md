@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Position Drive
+title: Set Linear Position Drive
 order: 50
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Cell Attributes
+title: Get Cell Attributes
 order: 12
 ---
 ## Navigation

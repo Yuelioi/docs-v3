@@ -1,5 +1,5 @@
 ---
-display_name: Length (Vector4)
+title: Length (Vector4)
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Connection Point Name
+title: Get Connection Point Name
 order: 7
 ---
 ## Navigation

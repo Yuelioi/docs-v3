@@ -1,5 +1,5 @@
 ---
-display_name: Is Ctrl Down
+title: Is Ctrl Down
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Substitute Material
+title: Substitute Material
 order: 20
 ---
 ## Navigation

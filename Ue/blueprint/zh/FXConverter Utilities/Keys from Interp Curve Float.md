@@ -1,5 +1,5 @@
 ---
-display_name: Keys from Interp Curve Float
+title: Keys from Interp Curve Float
 order: 114
 ---
 ## Navigation

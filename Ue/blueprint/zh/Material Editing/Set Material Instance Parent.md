@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Instance Parent
+title: Set Material Instance Parent
 order: 48
 ---
 ## Navigation

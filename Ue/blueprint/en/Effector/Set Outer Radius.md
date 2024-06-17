@@ -1,5 +1,5 @@
 ---
-display_name: Set Outer Radius
+title: Set Outer Radius
 order: 25
 ---
 ## Navigation

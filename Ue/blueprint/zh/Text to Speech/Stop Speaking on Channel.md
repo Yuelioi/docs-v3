@@ -1,5 +1,5 @@
 ---
-display_name: Stop Speaking on Channel
+title: Stop Speaking on Channel
 order: 21
 ---
 ## Navigation

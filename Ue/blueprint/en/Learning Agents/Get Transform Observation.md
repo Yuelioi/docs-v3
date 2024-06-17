@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform Observation
+title: Get Transform Observation
 order: 128
 ---
 ## Navigation

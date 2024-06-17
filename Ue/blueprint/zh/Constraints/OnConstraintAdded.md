@@ -1,5 +1,5 @@
 ---
-display_name: OnConstraintAdded
+title: OnConstraintAdded
 order: 1
 ---
 ## Navigation

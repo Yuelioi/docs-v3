@@ -1,5 +1,5 @@
 ---
-display_name: Specify Enum Observation
+title: Specify Enum Observation
 order: 294
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor Of Class
+title: Get Actor Of Class
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Initial Transforms From Skeletal Mesh
+title: Set Bone Initial Transforms From Skeletal Mesh
 order: 25
 ---
 ## Navigation

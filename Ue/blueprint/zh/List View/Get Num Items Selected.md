@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Items Selected
+title: Get Num Items Selected
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: osd_lookuppatch
+title: osd_lookuppatch
 order: 6
 ---
 `int  osd_lookuppatch(<geometry>geometry, int face_id, float face_u, float face_v, int &patch_id, float &patch_u, float &patch_v)`

@@ -1,5 +1,5 @@
 ---
-display_name: ShapeLayer
+title: ShapeLayer
 order: 6
 ---
 

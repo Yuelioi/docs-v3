@@ -1,5 +1,5 @@
 ---
-display_name: Write Float
+title: Write Float
 order: 21
 ---
 ## Navigation

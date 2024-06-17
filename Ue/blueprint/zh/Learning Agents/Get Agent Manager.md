@@ -1,5 +1,5 @@
 ---
-display_name: Get Agent Manager
+title: Get Agent Manager
 order: 30
 ---
 ## Navigation

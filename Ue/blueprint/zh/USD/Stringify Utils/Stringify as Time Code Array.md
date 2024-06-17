@@ -1,5 +1,5 @@
 ---
-display_name: Stringify as Time Code Array
+title: Stringify as Time Code Array
 order: 54
 ---
 ## Navigation

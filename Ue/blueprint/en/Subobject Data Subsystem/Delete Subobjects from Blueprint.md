@@ -1,5 +1,5 @@
 ---
-display_name: Delete Subobjects from Blueprint
+title: Delete Subobjects from Blueprint
 order: 11
 ---
 ## Navigation

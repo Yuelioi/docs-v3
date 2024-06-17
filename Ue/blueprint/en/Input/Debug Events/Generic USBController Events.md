@@ -1,5 +1,5 @@
 ---
-display_name: Generic USBController Events
+title: Generic USBController Events
 order: 4
 ---
 ## Navigation

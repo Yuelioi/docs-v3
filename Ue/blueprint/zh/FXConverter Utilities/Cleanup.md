@@ -1,5 +1,5 @@
 ---
-display_name: Cleanup
+title: Cleanup
 order: 6
 ---
 ## Navigation

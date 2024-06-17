@@ -1,5 +1,5 @@
 ---
-display_name: Redirect Vislog
+title: Redirect Vislog
 order: 2
 ---
 ## Navigation

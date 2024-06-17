@@ -1,5 +1,5 @@
 ---
-display_name: Get Hit Proxy Element
+title: Get Hit Proxy Element
 order: 1
 ---
 ## Navigation

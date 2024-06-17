@@ -1,5 +1,5 @@
 ---
-display_name: Is One Of Spawned Pawns
+title: Is One Of Spawned Pawns
 order: 48
 ---
 ## Navigation

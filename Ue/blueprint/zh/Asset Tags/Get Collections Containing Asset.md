@@ -1,5 +1,5 @@
 ---
-display_name: Get Collections Containing Asset
+title: Get Collections Containing Asset
 order: 14
 ---
 ## Navigation

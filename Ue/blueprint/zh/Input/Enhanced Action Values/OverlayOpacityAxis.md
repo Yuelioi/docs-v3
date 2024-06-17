@@ -1,5 +1,5 @@
 ---
-display_name: OverlayOpacityAxis
+title: OverlayOpacityAxis
 order: 48
 ---
 ## Navigation

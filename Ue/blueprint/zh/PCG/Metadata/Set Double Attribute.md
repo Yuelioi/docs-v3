@@ -1,5 +1,5 @@
 ---
-display_name: Set Double Attribute
+title: Set Double Attribute
 order: 77
 ---
 ## Navigation

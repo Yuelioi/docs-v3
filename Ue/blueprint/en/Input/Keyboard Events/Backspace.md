@@ -1,5 +1,5 @@
 ---
-display_name: Backspace
+title: Backspace
 order: 18
 ---
 ## Navigation

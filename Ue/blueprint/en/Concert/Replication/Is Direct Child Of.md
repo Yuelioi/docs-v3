@@ -1,5 +1,5 @@
 ---
-display_name: Is Direct Child Of
+title: Is Direct Child Of
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Rotation
+title: Get Rotation
 order: 59
 ---
 ## Navigation

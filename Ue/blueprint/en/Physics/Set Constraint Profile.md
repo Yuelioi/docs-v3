@@ -1,5 +1,5 @@
 ---
-display_name: Set Constraint Profile
+title: Set Constraint Profile
 order: 31
 ---
 ## Navigation

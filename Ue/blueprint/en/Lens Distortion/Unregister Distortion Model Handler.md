@@ -1,5 +1,5 @@
 ---
-display_name: Unregister Distortion Model Handler
+title: Unregister Distortion Model Handler
 order: 5
 ---
 ## Navigation

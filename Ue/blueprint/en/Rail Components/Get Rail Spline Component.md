@@ -1,5 +1,5 @@
 ---
-display_name: Get Rail Spline Component
+title: Get Rail Spline Component
 order: 2
 ---
 ## Navigation

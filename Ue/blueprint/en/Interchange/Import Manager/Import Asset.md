@@ -1,5 +1,5 @@
 ---
-display_name: Import Asset
+title: Import Asset
 order: 5
 ---
 ## Navigation

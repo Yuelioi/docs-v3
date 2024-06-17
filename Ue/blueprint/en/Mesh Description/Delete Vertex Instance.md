@@ -1,5 +1,5 @@
 ---
-display_name: Delete Vertex Instance
+title: Delete Vertex Instance
 order: 19
 ---
 ## Navigation

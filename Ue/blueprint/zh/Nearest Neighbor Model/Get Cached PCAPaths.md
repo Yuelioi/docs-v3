@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached PCAPaths
+title: Get Cached PCAPaths
 order: 5
 ---
 ## Navigation

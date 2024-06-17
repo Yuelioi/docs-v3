@@ -1,5 +1,5 @@
 ---
-display_name: Get Projector Direction
+title: Get Projector Direction
 order: 30
 ---
 ## Navigation

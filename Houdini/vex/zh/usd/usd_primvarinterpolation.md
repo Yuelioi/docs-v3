@@ -1,5 +1,5 @@
 ---
-display_name: usd_primvarinterpolation
+title: usd_primvarinterpolation
 order: 110
 ---
 | Since | 18.0 |

@@ -1,5 +1,5 @@
 ---
-display_name: Local Integer64
+title: Local Integer64
 order: 17
 ---
 ## Navigation

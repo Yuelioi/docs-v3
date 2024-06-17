@@ -1,5 +1,5 @@
 ---
-display_name: Get Virtual Path
+title: Get Virtual Path
 order: 13
 ---
 ## Navigation

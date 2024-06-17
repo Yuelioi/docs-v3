@@ -1,5 +1,5 @@
 ---
-display_name: Get GameViewportSubsystem
+title: Get GameViewportSubsystem
 order: 19
 ---
 ## Navigation

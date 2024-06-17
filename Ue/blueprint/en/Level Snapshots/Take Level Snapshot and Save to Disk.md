@@ -1,5 +1,5 @@
 ---
-display_name: Take Level Snapshot and Save to Disk
+title: Take Level Snapshot and Save to Disk
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Link Sound
+title: Set Link Sound
 order: 6
 ---
 ## Navigation

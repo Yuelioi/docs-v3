@@ -1,5 +1,5 @@
 ---
-display_name: 径向擦除
+title: 径向擦除
 order: 16
 ---
 

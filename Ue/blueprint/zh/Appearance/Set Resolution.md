@@ -1,5 +1,5 @@
 ---
-display_name: Set Resolution
+title: Set Resolution
 order: 70
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Inset Outset Faces
+title: Apply Mesh Inset Outset Faces
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Global Control Bus Mix Value
+title: Set Global Control Bus Mix Value
 order: 28
 ---
 ## Navigation

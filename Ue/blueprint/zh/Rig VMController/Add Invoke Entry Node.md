@@ -1,5 +1,5 @@
 ---
-display_name: Add Invoke Entry Node
+title: Add Invoke Entry Node
 order: 17
 ---
 ## Navigation

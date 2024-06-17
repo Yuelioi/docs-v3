@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifier Movement Type
+title: Set Body Modifier Movement Type
 order: 60
 ---
 ## Navigation

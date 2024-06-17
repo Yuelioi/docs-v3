@@ -1,5 +1,5 @@
 ---
-display_name: Get Effect Context
+title: Get Effect Context
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Effect-Basics
+title: Effect-Basics
 order: 2
 ---
 

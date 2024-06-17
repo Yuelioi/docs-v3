@@ -1,5 +1,5 @@
 ---
-display_name: 摄像机抖动去模糊
+title: 摄像机抖动去模糊
 order: 3
 ---
 

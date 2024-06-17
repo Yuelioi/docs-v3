@@ -1,5 +1,5 @@
 ---
-display_name: Make Bitmask Observation
+title: Make Bitmask Observation
 order: 158
 ---
 ## Navigation

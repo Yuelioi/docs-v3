@@ -1,5 +1,5 @@
 ---
-display_name: Set Head Transform
+title: Set Head Transform
 order: 10
 ---
 ## Navigation

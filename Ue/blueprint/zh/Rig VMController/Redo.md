@@ -1,5 +1,5 @@
 ---
-display_name: Redo
+title: Redo
 order: 78
 ---
 ## Navigation

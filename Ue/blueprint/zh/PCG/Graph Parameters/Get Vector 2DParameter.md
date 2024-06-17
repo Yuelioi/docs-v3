@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector 2DParameter
+title: Get Vector 2DParameter
 order: 18
 ---
 ## Navigation

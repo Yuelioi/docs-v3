@@ -1,5 +1,5 @@
 ---
-display_name: usd_ismodel
+title: usd_ismodel
 order: 76
 ---
 | Since | 19.0 |

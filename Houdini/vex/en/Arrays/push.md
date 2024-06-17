@@ -1,5 +1,5 @@
 ---
-display_name: push
+title: push
 order: 9
 ---
 `void  push(<type>&array[], <type>value)`

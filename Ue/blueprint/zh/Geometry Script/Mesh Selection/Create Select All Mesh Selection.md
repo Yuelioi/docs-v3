@@ -1,5 +1,5 @@
 ---
-display_name: Create Select All Mesh Selection
+title: Create Select All Mesh Selection
 order: 8
 ---
 ## Navigation

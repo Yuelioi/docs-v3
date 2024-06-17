@@ -1,5 +1,5 @@
 ---
-display_name: Remove Material
+title: Remove Material
 order: 51
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Attach End To
+title: Set Attach End To
 order: 4
 ---
 ## Navigation

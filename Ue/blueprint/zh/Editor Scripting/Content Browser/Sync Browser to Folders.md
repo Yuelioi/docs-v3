@@ -1,5 +1,5 @@
 ---
-display_name: Sync Browser to Folders
+title: Sync Browser to Folders
 order: 2
 ---
 ## Navigation

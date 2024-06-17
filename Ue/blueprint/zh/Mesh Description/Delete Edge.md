@@ -1,5 +1,5 @@
 ---
-display_name: Delete Edge
+title: Delete Edge
 order: 15
 ---
 ## Navigation

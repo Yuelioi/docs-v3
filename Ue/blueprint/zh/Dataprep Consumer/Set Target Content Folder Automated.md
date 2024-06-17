@@ -1,5 +1,5 @@
 ---
-display_name: Set Target Content Folder Automated
+title: Set Target Content Folder Automated
 order: 5
 ---
 ## Navigation

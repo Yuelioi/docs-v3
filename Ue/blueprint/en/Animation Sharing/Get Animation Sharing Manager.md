@@ -1,5 +1,5 @@
 ---
-display_name: Get Animation Sharing Manager
+title: Get Animation Sharing Manager
 order: 3
 ---
 ## Navigation

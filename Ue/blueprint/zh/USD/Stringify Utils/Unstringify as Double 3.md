@@ -1,5 +1,5 @@
 ---
-display_name: Unstringify as Double 3
+title: Unstringify as Double 3
 order: 70
 ---
 ## Navigation

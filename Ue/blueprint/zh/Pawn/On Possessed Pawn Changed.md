@@ -1,5 +1,5 @@
 ---
-display_name: On Possessed Pawn Changed
+title: On Possessed Pawn Changed
 order: 23
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Direction Action
+title: Get Direction Action
 order: 53
 ---
 ## Navigation

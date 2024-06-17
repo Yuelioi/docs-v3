@@ -1,5 +1,5 @@
 ---
-display_name: Add Timed Display
+title: Add Timed Display
 order: 2
 ---
 ## Navigation

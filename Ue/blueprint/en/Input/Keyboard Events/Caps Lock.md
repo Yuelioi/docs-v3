@@ -1,5 +1,5 @@
 ---
-display_name: Caps Lock
+title: Caps Lock
 order: 20
 ---
 ## Navigation

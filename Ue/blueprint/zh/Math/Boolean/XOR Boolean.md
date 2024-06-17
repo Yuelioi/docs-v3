@@ -1,5 +1,5 @@
 ---
-display_name: XOR Boolean
+title: XOR Boolean
 order: 7
 ---
 ## Navigation

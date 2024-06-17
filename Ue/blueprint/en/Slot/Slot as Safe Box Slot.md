@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Safe Box Slot
+title: Slot as Safe Box Slot
 order: 6
 ---
 ## Navigation

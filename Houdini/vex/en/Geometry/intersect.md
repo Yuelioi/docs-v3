@@ -1,5 +1,5 @@
 ---
-display_name: intersect
+title: intersect
 order: 8
 ---
 To get a list of *all* intersections along a ray, use [intersect_all](intersect_all.html "Computes all intersections of the specified ray with geometry.").

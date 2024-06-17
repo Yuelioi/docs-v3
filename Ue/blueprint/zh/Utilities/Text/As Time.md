@@ -1,5 +1,5 @@
 ---
-display_name: As Time
+title: As Time
 order: 8
 ---
 ## Navigation

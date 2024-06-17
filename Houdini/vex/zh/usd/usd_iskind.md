@@ -1,5 +1,5 @@
 ---
-display_name: usd_iskind
+title: usd_iskind
 order: 74
 ---
 | Since | 18.0 |

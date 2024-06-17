@@ -1,5 +1,5 @@
 ---
-display_name: Object to Audio Parameter
+title: Object to Audio Parameter
 order: 10
 ---
 ## Navigation

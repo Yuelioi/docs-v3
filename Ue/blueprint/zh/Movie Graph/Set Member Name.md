@@ -1,5 +1,5 @@
 ---
-display_name: Set Member Name
+title: Set Member Name
 order: 71
 ---
 ## Navigation

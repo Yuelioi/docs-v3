@@ -1,5 +1,5 @@
 ---
-display_name: Get All Fixtures with Tag
+title: Get All Fixtures with Tag
 order: 35
 ---
 ## Navigation

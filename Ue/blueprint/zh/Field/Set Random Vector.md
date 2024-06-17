@@ -1,5 +1,5 @@
 ---
-display_name: Set Random Vector
+title: Set Random Vector
 order: 27
 ---
 ## Navigation

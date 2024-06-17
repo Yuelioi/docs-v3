@@ -1,5 +1,5 @@
 ---
-display_name: Slot as Border Slot
+title: Slot as Border Slot
 order: 1
 ---
 ## Navigation

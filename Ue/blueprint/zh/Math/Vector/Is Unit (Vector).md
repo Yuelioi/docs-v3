@@ -1,5 +1,5 @@
 ---
-display_name: Is Unit (Vector)
+title: Is Unit (Vector)
 order: 32
 ---
 ## Navigation

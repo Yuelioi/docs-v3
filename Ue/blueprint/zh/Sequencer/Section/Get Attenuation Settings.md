@@ -1,5 +1,5 @@
 ---
-display_name: Get Attenuation Settings
+title: Get Attenuation Settings
 order: 10
 ---
 ## Navigation

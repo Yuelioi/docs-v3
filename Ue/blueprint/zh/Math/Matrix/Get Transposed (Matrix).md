@@ -1,5 +1,5 @@
 ---
-display_name: Get Transposed (Matrix)
+title: Get Transposed (Matrix)
 order: 21
 ---
 ## Navigation

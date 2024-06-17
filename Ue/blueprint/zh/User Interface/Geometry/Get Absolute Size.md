@@ -1,5 +1,5 @@
 ---
-display_name: Get Absolute Size
+title: Get Absolute Size
 order: 3
 ---
 ## Navigation

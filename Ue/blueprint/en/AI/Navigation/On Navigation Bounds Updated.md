@@ -1,5 +1,5 @@
 ---
-display_name: On Navigation Bounds Updated
+title: On Navigation Bounds Updated
 order: 29
 ---
 ## Navigation

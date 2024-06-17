@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Mappable Key Settings
+title: Get Player Mappable Key Settings
 order: 124
 ---
 ## Navigation

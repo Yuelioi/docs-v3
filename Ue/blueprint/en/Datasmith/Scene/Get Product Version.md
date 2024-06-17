@@ -1,5 +1,5 @@
 ---
-display_name: Get Product Version
+title: Get Product Version
 order: 38
 ---
 ## Navigation

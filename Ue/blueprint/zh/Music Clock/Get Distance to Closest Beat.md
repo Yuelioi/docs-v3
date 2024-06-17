@@ -1,5 +1,5 @@
 ---
-display_name: Get Distance to Closest Beat
+title: Get Distance to Closest Beat
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Convert Poly Path to Array
+title: Convert Poly Path to Array
 order: 6
 ---
 ## Navigation

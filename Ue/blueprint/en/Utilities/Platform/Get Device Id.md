@@ -1,5 +1,5 @@
 ---
-display_name: Get Device Id
+title: Get Device Id
 order: 6
 ---
 ## Navigation

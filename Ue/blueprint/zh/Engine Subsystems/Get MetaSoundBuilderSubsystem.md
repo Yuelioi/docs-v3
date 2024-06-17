@@ -1,5 +1,5 @@
 ---
-display_name: Get MetaSoundBuilderSubsystem
+title: Get MetaSoundBuilderSubsystem
 order: 32
 ---
 ## Navigation

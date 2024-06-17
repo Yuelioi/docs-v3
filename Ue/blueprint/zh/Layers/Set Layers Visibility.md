@@ -1,5 +1,5 @@
 ---
-display_name: Set Layers Visibility
+title: Set Layers Visibility
 order: 39
 ---
 ## Navigation

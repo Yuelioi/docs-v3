@@ -1,5 +1,5 @@
 ---
-display_name: On Post Take Snapshot
+title: On Post Take Snapshot
 order: 22
 ---
 ## Navigation

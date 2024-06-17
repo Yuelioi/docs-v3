@@ -1,5 +1,5 @@
 ---
-display_name: Is Added Actor Valid
+title: Is Added Actor Valid
 order: 15
 ---
 ## Navigation

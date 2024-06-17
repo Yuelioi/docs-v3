@@ -1,5 +1,5 @@
 ---
-display_name: Set Extents
+title: Set Extents
 order: 4
 ---
 ## Navigation

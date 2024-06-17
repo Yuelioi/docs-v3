@@ -1,5 +1,5 @@
 ---
-display_name: Reset to Default
+title: Reset to Default
 order: 1
 ---
 ## Navigation

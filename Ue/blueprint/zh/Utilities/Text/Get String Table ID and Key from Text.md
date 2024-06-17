@@ -1,5 +1,5 @@
 ---
-display_name: Get String Table ID and Key from Text
+title: Get String Table ID and Key from Text
 order: 20
 ---
 ## Navigation

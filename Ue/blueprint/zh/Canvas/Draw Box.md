@@ -1,5 +1,5 @@
 ---
-display_name: Draw Box
+title: Draw Box
 order: 4
 ---
 ## Navigation

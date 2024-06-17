@@ -1,5 +1,5 @@
 ---
-display_name: Close Connection
+title: Close Connection
 order: 1
 ---
 ## Navigation

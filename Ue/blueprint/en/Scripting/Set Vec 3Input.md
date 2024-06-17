@@ -1,5 +1,5 @@
 ---
-display_name: Set Vec 3Input
+title: Set Vec 3Input
 order: 31
 ---
 ## Navigation

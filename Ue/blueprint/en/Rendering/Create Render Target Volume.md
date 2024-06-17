@@ -1,5 +1,5 @@
 ---
-display_name: Create Render Target Volume
+title: Create Render Target Volume
 order: 14
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: reflect
+title: reflect
 order: 61
 ---
 `vector  reflect(vector direction, vector normal)`

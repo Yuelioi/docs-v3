@@ -1,5 +1,5 @@
 ---
-display_name: Get Snapshot Name
+title: Get Snapshot Name
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Lod Level Spawn Module
+title: Get Lod Level Spawn Module
 order: 52
 ---
 ## Navigation

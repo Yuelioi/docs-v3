@@ -1,5 +1,5 @@
 ---
-display_name: Filter Array
+title: Filter Array
 order: 6
 ---
 ## Navigation

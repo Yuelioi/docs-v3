@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Vertex Instances
+title: Get Vertex Vertex Instances
 order: 72
 ---
 ## Navigation

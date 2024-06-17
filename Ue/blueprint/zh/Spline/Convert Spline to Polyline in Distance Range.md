@@ -1,5 +1,5 @@
 ---
-display_name: Convert Spline to Polyline in Distance Range
+title: Convert Spline to Polyline in Distance Range
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Async Load Game from Slot
+title: Async Load Game from Slot
 order: 1
 ---
 ## Navigation

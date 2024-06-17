@@ -1,5 +1,5 @@
 ---
-display_name: Add Aggregate Pin
+title: Add Aggregate Pin
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get MassDebuggerSubsystem
+title: Get MassDebuggerSubsystem
 order: 45
 ---
 ## Navigation

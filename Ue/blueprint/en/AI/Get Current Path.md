@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Path
+title: Get Current Path
 order: 12
 ---
 ## Navigation

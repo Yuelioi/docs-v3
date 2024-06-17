@@ -1,5 +1,5 @@
 ---
-display_name: Add to Adjacency to Options Map
+title: Add to Adjacency to Options Map
 order: 2
 ---
 ## Navigation

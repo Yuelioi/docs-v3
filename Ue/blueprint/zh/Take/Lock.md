@@ -1,5 +1,5 @@
 ---
-display_name: Lock
+title: Lock
 order: 15
 ---
 ## Navigation

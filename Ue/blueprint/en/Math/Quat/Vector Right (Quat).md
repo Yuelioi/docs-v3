@@ -1,5 +1,5 @@
 ---
-display_name: Vector Right (Quat)
+title: Vector Right (Quat)
 order: 32
 ---
 ## Navigation

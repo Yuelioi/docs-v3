@@ -1,5 +1,5 @@
 ---
-display_name: Construct Message Bus Finder
+title: Construct Message Bus Finder
 order: 17
 ---
 ## Navigation

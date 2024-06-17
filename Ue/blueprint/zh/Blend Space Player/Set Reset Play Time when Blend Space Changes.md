@@ -1,5 +1,5 @@
 ---
-display_name: Set Reset Play Time when Blend Space Changes
+title: Set Reset Play Time when Blend Space Changes
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Names
+title: Get Level Names
 order: 33
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Are All Stages Valid
+title: Are All Stages Valid
 order: 10
 ---
 ## Navigation

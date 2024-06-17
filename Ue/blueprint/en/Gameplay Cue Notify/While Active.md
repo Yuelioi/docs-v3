@@ -1,5 +1,5 @@
 ---
-display_name: While Active
+title: While Active
 order: 5
 ---
 ## Navigation

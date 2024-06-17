@@ -1,5 +1,5 @@
 ---
-display_name: Add Data
+title: Add Data
 order: 1
 ---
 ## Navigation

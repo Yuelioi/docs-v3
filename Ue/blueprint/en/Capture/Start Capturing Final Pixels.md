@@ -1,5 +1,5 @@
 ---
-display_name: Start Capturing Final Pixels
+title: Start Capturing Final Pixels
 order: 12
 ---
 ## Navigation

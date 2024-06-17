@@ -1,5 +1,5 @@
 ---
-display_name: Play Level Sequence
+title: Play Level Sequence
 order: 1
 ---
 ## Navigation

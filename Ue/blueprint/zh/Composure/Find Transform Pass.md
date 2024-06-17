@@ -1,5 +1,5 @@
 ---
-display_name: Find Transform Pass
+title: Find Transform Pass
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Take Level Snapshot
+title: Take Level Snapshot
 order: 31
 ---
 ## Navigation

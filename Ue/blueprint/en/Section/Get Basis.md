@@ -1,5 +1,5 @@
 ---
-display_name: Get Basis
+title: Get Basis
 order: 4
 ---
 ## Navigation

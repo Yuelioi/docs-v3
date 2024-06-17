@@ -1,5 +1,5 @@
 ---
-display_name: Increase Speed Scalar
+title: Increase Speed Scalar
 order: 2
 ---
 ## Navigation

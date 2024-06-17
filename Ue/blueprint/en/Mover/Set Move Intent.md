@@ -1,5 +1,5 @@
 ---
-display_name: Set Move Intent
+title: Set Move Intent
 order: 29
 ---
 ## Navigation

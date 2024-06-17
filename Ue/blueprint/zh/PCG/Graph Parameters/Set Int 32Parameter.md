@@ -1,5 +1,5 @@
 ---
-display_name: Set Int 32Parameter
+title: Set Int 32Parameter
 order: 28
 ---
 ## Navigation

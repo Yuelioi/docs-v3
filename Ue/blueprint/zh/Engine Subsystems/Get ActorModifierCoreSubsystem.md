@@ -1,5 +1,5 @@
 ---
-display_name: Get ActorModifierCoreSubsystem
+title: Get ActorModifierCoreSubsystem
 order: 2
 ---
 ## Navigation

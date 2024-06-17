@@ -1,5 +1,5 @@
 ---
-display_name: Initialize Metadata
+title: Initialize Metadata
 order: 64
 ---
 ## Navigation

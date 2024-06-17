@@ -1,5 +1,5 @@
 ---
-display_name: Destroy Body Modifiers in Set
+title: Destroy Body Modifiers in Set
 order: 21
 ---
 ## Navigation

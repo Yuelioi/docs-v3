@@ -1,5 +1,5 @@
 ---
-display_name: Can Copy
+title: Can Copy
 order: 1
 ---
 ## Navigation

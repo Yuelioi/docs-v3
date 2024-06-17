@@ -1,5 +1,5 @@
 ---
-display_name: Get My Player Index
+title: Get My Player Index
 order: 5
 ---
 ## Navigation

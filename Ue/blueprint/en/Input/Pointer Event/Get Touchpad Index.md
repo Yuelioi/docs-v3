@@ -1,5 +1,5 @@
 ---
-display_name: Get Touchpad Index
+title: Get Touchpad Index
 order: 7
 ---
 ## Navigation

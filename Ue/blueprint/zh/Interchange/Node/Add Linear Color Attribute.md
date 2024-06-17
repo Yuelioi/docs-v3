@@ -1,5 +1,5 @@
 ---
-display_name: Add Linear Color Attribute
+title: Add Linear Color Attribute
 order: 8
 ---
 ## Navigation

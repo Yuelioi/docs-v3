@@ -1,5 +1,5 @@
 ---
-display_name: Set Replace Texture Flag for All Viewports
+title: Set Replace Texture Flag for All Viewports
 order: 2
 ---
 ## Navigation

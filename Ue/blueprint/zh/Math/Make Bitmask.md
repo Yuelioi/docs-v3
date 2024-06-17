@@ -1,5 +1,5 @@
 ---
-display_name: Make Bitmask
+title: Make Bitmask
 order: 3
 ---
 ## Navigation

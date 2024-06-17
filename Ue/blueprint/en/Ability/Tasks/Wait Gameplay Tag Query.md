@@ -1,5 +1,5 @@
 ---
-display_name: Wait Gameplay Tag Query
+title: Wait Gameplay Tag Query
 order: 34
 ---
 ## Navigation

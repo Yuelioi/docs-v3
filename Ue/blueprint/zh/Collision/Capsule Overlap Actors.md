@@ -1,5 +1,5 @@
 ---
-display_name: Capsule Overlap Actors
+title: Capsule Overlap Actors
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Granted by Effect Context
+title: Get Granted by Effect Context
 order: 42
 ---
 ## Navigation

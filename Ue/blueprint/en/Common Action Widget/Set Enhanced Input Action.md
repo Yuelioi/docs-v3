@@ -1,5 +1,5 @@
 ---
-display_name: Set Enhanced Input Action
+title: Set Enhanced Input Action
 order: 5
 ---
 ## Navigation

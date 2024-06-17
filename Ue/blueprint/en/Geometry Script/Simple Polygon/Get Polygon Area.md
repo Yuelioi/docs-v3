@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Area
+title: Get Polygon Area
 order: 6
 ---
 ## Navigation

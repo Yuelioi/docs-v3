@@ -1,5 +1,5 @@
 ---
-display_name: Is Action Key Mapping Player Mappable
+title: Is Action Key Mapping Player Mappable
 order: 17
 ---
 ## Navigation

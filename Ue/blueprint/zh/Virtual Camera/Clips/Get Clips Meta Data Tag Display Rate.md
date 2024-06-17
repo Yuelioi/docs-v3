@@ -1,5 +1,5 @@
 ---
-display_name: Get Clips Meta Data Tag Display Rate
+title: Get Clips Meta Data Tag Display Rate
 order: 5
 ---
 ## Navigation

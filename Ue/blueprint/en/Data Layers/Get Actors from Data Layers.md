@@ -1,5 +1,5 @@
 ---
-display_name: Get Actors from Data Layers
+title: Get Actors from Data Layers
 order: 16
 ---
 ## Navigation

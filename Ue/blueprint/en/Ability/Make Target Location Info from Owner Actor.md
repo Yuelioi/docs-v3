@@ -1,5 +1,5 @@
 ---
-display_name: Make Target Location Info from Owner Actor
+title: Make Target Location Info from Owner Actor
 order: 55
 ---
 ## Navigation

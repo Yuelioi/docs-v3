@@ -1,5 +1,5 @@
 ---
-display_name: Get Projected Ellipsoid Min Radius
+title: Get Projected Ellipsoid Min Radius
 order: 4
 ---
 ## Navigation

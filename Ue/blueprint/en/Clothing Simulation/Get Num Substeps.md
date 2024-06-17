@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Substeps
+title: Get Num Substeps
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Enabled Plugin Names
+title: Get Enabled Plugin Names
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Game Agnostic Saved Dir
+title: Game Agnostic Saved Dir
 order: 31
 ---
 ## Navigation

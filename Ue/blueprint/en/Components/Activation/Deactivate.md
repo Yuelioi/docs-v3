@@ -1,5 +1,5 @@
 ---
-display_name: Deactivate
+title: Deactivate
 order: 2
 ---
 ## Navigation

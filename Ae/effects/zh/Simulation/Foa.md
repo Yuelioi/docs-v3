@@ -1,5 +1,5 @@
 ---
-display_name: 泡沫
+title: 泡沫
 order: 15
 ---
 

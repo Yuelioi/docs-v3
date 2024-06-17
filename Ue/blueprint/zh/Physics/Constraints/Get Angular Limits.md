@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Limits
+title: Get Angular Limits
 order: 5
 ---
 ## Navigation

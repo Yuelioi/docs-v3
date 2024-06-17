@@ -1,5 +1,5 @@
 ---
-display_name: Find Key Mapping
+title: Find Key Mapping
 order: 6
 ---
 ## Navigation

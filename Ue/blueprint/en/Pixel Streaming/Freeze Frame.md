@@ -1,5 +1,5 @@
 ---
-display_name: Freeze Frame
+title: Freeze Frame
 order: 6
 ---
 ## Navigation

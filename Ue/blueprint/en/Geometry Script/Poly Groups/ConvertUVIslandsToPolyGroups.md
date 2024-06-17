@@ -1,5 +1,5 @@
 ---
-display_name: ConvertUVIslandsToPolyGroups
+title: ConvertUVIslandsToPolyGroups
 order: 5
 ---
 ## Navigation

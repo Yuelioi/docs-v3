@@ -1,5 +1,5 @@
 ---
-display_name: Get Plugin Base Dir
+title: Get Plugin Base Dir
 order: 4
 ---
 ## Navigation

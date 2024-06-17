@@ -1,5 +1,5 @@
 ---
-display_name: 通道模糊
+title: 通道模糊
 order: 8
 ---
 

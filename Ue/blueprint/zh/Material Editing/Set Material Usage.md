@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Usage
+title: Set Material Usage
 order: 55
 ---
 ## Navigation

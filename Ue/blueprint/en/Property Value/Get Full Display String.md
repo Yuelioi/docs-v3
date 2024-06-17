@@ -1,5 +1,5 @@
 ---
-display_name: Get Full Display String
+title: Get Full Display String
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Collision Complexity
+title: Get Collision Complexity
 order: 11
 ---
 ## Navigation

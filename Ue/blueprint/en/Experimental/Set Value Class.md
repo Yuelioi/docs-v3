@@ -1,5 +1,5 @@
 ---
-display_name: Set Value Class
+title: Set Value Class
 order: 22
 ---
 ## Navigation

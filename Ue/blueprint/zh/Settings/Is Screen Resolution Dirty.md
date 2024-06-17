@@ -1,5 +1,5 @@
 ---
-display_name: Is Screen Resolution Dirty
+title: Is Screen Resolution Dirty
 order: 84
 ---
 ## Navigation

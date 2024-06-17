@@ -1,5 +1,5 @@
 ---
-display_name: Get Key Event Navigation Direction
+title: Get Key Event Navigation Direction
 order: 2
 ---
 ## Navigation

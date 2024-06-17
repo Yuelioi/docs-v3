@@ -1,5 +1,5 @@
 ---
-display_name: volumevoxeldiameter
+title: volumevoxeldiameter
 order: 23
 ---
 `float  volumevoxeldiameter(<geometry>geometry, int primnum)`

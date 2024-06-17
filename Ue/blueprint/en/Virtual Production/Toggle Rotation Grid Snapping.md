@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Rotation Grid Snapping
+title: Toggle Rotation Grid Snapping
 order: 29
 ---
 ## Navigation

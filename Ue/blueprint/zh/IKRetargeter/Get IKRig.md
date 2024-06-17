@@ -1,5 +1,5 @@
 ---
-display_name: Get IKRig
+title: Get IKRig
 order: 9
 ---
 ## Navigation

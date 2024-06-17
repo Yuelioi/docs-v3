@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Object Path Parameter
+title: Set Soft Object Path Parameter
 order: 36
 ---
 ## Navigation

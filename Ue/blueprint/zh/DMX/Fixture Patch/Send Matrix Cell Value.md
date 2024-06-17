@@ -1,5 +1,5 @@
 ---
-display_name: Send Matrix Cell Value
+title: Send Matrix Cell Value
 order: 25
 ---
 ## Navigation

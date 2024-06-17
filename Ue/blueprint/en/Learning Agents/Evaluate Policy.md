@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Policy
+title: Evaluate Policy
 order: 19
 ---
 ## Navigation

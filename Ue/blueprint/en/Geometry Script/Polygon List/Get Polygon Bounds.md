@@ -1,5 +1,5 @@
 ---
-display_name: Get Polygon Bounds
+title: Get Polygon Bounds
 order: 8
 ---
 ## Navigation

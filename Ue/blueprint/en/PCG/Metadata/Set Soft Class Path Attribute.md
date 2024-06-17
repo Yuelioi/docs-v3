@@ -1,5 +1,5 @@
 ---
-display_name: Set Soft Class Path Attribute
+title: Set Soft Class Path Attribute
 order: 91
 ---
 ## Navigation

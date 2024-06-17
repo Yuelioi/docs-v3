@@ -1,5 +1,5 @@
 ---
-display_name: Set Graph
+title: Set Graph
 order: 3
 ---
 ## Navigation

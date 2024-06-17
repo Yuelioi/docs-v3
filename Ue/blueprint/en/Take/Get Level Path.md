@@ -1,5 +1,5 @@
 ---
-display_name: Get Level Path
+title: Get Level Path
 order: 7
 ---
 ## Navigation

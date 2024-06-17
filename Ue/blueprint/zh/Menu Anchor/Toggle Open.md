@@ -1,5 +1,5 @@
 ---
-display_name: Toggle Open
+title: Toggle Open
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Target Layer Names
+title: Get Target Layer Names
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Row Index
+title: Set Row Index
 order: 95
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Weights from Contributions
+title: Set Weights from Contributions
 order: 26
 ---
 ## Navigation

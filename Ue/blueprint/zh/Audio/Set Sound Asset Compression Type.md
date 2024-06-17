@@ -1,5 +1,5 @@
 ---
-display_name: Set Sound Asset Compression Type
+title: Set Sound Asset Compression Type
 order: 12
 ---
 ## Navigation

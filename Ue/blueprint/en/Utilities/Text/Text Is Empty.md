@@ -1,5 +1,5 @@
 ---
-display_name: Text Is Empty
+title: Text Is Empty
 order: 30
 ---
 ## Navigation

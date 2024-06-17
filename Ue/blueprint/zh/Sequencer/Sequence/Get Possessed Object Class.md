@@ -1,5 +1,5 @@
 ---
-display_name: Get Possessed Object Class
+title: Get Possessed Object Class
 order: 50
 ---
 ## Navigation

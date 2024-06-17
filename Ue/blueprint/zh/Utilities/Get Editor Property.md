@@ -1,5 +1,5 @@
 ---
-display_name: Get Editor Property
+title: Get Editor Property
 order: 16
 ---
 ## Navigation

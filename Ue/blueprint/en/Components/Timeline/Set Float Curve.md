@@ -1,5 +1,5 @@
 ---
-display_name: Set Float Curve
+title: Set Float Curve
 order: 17
 ---
 ## Navigation

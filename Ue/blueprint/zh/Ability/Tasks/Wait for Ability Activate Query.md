@@ -1,5 +1,5 @@
 ---
-display_name: Wait for Ability Activate Query
+title: Wait for Ability Activate Query
 order: 42
 ---
 ## Navigation

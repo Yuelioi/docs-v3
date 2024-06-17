@@ -1,5 +1,5 @@
 ---
-display_name: Convert To JPEG
+title: Convert To JPEG
 order: 2
 ---
 ## Navigation

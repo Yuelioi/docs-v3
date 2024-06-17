@@ -1,5 +1,5 @@
 ---
-display_name: Set Cell
+title: Set Cell
 order: 8
 ---
 ## Navigation

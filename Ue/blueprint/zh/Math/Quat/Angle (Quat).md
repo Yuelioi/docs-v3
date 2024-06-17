@@ -1,5 +1,5 @@
 ---
-display_name: Angle (Quat)
+title: Angle (Quat)
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Prim Specs
+title: Remove All Prim Specs
 order: 9
 ---
 ## Navigation

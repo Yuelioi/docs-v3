@@ -1,5 +1,5 @@
 ---
-display_name: Find Soft References to Object
+title: Find Soft References to Object
 order: 25
 ---
 ## Navigation

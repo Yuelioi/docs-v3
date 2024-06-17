@@ -1,5 +1,5 @@
 ---
-display_name: Set Delta Step Rotation
+title: Set Delta Step Rotation
 order: 21
 ---
 ## Navigation

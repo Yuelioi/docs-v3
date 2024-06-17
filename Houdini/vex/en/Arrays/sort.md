@@ -1,5 +1,5 @@
 ---
-display_name: sort
+title: sort
 order: 16
 ---
 `int [] sort(int values[])`

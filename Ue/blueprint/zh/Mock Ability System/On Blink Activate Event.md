@@ -1,5 +1,5 @@
 ---
-display_name: On Blink Activate Event
+title: On Blink Activate Event
 order: 7
 ---
 ## Navigation

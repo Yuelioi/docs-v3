@@ -1,5 +1,5 @@
 ---
-display_name: Get Metadata Type
+title: Get Metadata Type
 order: 53
 ---
 ## Navigation

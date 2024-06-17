@@ -1,5 +1,5 @@
 ---
-display_name: Set Color Parameter Value
+title: Set Color Parameter Value
 order: 7
 ---
 ## Navigation

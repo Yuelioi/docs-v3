@@ -1,5 +1,5 @@
 ---
-display_name: Is Collision Fix Applied
+title: Is Collision Fix Applied
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Persist Specified Packages
+title: Persist Specified Packages
 order: 3
 ---
 ## Navigation

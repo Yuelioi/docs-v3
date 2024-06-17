@@ -1,5 +1,5 @@
 ---
-display_name: Set Override Attenuation
+title: Set Override Attenuation
 order: 88
 ---
 ## Navigation

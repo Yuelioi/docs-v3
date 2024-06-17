@@ -1,5 +1,5 @@
 ---
-display_name: Is Array Element
+title: Is Array Element
 order: 33
 ---
 ## Navigation

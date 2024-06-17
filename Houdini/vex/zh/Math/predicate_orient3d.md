@@ -1,5 +1,5 @@
 ---
-display_name: predicate_orient3d
+title: predicate_orient3d
 order: 57
 ---
 `float  predicate_orient3d(vector a, vector b, vector c, vector d)`

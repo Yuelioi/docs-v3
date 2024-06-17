@@ -1,5 +1,5 @@
 ---
-display_name: exp
+title: exp
 order: 27
 ---
 `float  exp(float n)`

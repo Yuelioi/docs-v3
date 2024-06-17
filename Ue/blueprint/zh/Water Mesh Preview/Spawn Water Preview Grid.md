@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Water Preview Grid
+title: Spawn Water Preview Grid
 order: 2
 ---
 ## Navigation

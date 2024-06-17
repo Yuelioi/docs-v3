@@ -1,5 +1,5 @@
 ---
-display_name: Get Output Processor
+title: Get Output Processor
 order: 115
 ---
 ## Navigation

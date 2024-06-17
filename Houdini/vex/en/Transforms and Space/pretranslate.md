@@ -1,5 +1,5 @@
 ---
-display_name: pretranslate
+title: pretranslate
 order: 19
 ---
 | Since | 17.5 |

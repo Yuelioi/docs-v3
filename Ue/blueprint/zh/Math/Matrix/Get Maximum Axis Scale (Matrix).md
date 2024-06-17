@@ -1,5 +1,5 @@
 ---
-display_name: Get Maximum Axis Scale (Matrix)
+title: Get Maximum Axis Scale (Matrix)
 order: 13
 ---
 ## Navigation

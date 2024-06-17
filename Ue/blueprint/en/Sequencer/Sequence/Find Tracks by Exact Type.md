@@ -1,5 +1,5 @@
 ---
-display_name: Find Tracks by Exact Type
+title: Find Tracks by Exact Type
 order: 20
 ---
 ## Navigation

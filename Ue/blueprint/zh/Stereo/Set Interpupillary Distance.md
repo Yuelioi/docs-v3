@@ -1,5 +1,5 @@
 ---
-display_name: Set Interpupillary Distance
+title: Set Interpupillary Distance
 order: 4
 ---
 ## Navigation

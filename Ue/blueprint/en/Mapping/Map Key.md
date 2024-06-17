@@ -1,5 +1,5 @@
 ---
-display_name: Map Key
+title: Map Key
 order: 1
 ---
 ## Navigation

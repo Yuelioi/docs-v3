@@ -1,5 +1,5 @@
 ---
-display_name: Get Frame Rate
+title: Get Frame Rate
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get View Model Collection
+title: Get View Model Collection
 order: 1
 ---
 ## Navigation

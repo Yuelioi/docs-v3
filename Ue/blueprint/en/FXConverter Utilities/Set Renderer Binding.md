@@ -1,5 +1,5 @@
 ---
-display_name: Set Renderer Binding
+title: Set Renderer Binding
 order: 126
 ---
 ## Navigation

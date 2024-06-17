@@ -1,5 +1,5 @@
 ---
-display_name: Was Distortion Evaluated
+title: Was Distortion Evaluated
 order: 28
 ---
 ## Navigation

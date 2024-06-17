@@ -1,5 +1,5 @@
 ---
-display_name: GetText (Multi-Line Text Box)
+title: GetText (Multi-Line Text Box)
 order: 49
 ---
 ## Navigation

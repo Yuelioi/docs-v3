@@ -1,5 +1,5 @@
 ---
-display_name: Break Timespan 2
+title: Break Timespan 2
 order: 1
 ---
 ## Navigation

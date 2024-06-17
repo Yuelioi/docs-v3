@@ -1,5 +1,5 @@
 ---
-display_name: Get Actor by Index
+title: Get Actor by Index
 order: 7
 ---
 ## Navigation

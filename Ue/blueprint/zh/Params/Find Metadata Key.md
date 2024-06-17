@@ -1,5 +1,5 @@
 ---
-display_name: Find Metadata Key
+title: Find Metadata Key
 order: 3
 ---
 ## Navigation

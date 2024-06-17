@@ -1,5 +1,5 @@
 ---
-display_name: Set Weight Patch Blend Mode Override
+title: Set Weight Patch Blend Mode Override
 order: 41
 ---
 ## Navigation

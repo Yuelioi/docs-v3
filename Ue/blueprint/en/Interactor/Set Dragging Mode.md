@@ -1,5 +1,5 @@
 ---
-display_name: Set Dragging Mode
+title: Set Dragging Mode
 order: 15
 ---
 ## Navigation

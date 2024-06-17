@@ -1,5 +1,5 @@
 ---
-display_name: Set Grab Speed
+title: Set Grab Speed
 order: 10
 ---
 ## Navigation

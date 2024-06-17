@@ -1,5 +1,5 @@
 ---
-display_name: Create Actor Binding
+title: Create Actor Binding
 order: 3
 ---
 ## Navigation

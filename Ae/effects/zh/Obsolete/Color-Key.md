@@ -1,5 +1,5 @@
 ---
-display_name: 颜色键
+title: 颜色键
 order: 2
 ---
 

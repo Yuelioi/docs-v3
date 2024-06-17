@@ -1,5 +1,5 @@
 ---
-display_name: Get Playback State
+title: Get Playback State
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Emitters
+title: Get Num Emitters
 order: 9
 ---
 ## Navigation

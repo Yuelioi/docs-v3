@@ -1,5 +1,5 @@
 ---
-display_name: Get AIController
+title: Get AIController
 order: 7
 ---
 ## Navigation

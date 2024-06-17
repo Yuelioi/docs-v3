@@ -1,5 +1,5 @@
 ---
-display_name: pcfind_radius
+title: pcfind_radius
 order: 12
 ---
 `int [] pcfind_radius(<geometry>geometry, string Pchannel, string RadChannel, float radscale, vector P, float radius, int maxpoints)`

@@ -1,5 +1,5 @@
 ---
-display_name: Caret
+title: Caret
 order: 21
 ---
 ## Navigation

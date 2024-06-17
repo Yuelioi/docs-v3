@@ -1,5 +1,5 @@
 ---
-display_name: Get Loaded Level Names
+title: Get Loaded Level Names
 order: 4
 ---
 ## Navigation

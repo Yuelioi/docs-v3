@@ -1,5 +1,5 @@
 ---
-display_name: usd_istype
+title: usd_istype
 order: 82
 ---
 | Since | 18.0 |

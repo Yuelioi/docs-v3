@@ -1,5 +1,5 @@
 ---
-display_name: Get Mock Flying Ability Component
+title: Get Mock Flying Ability Component
 order: 45
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Cull Array
+title: Cull Array
 order: 13
 ---
 ## Navigation

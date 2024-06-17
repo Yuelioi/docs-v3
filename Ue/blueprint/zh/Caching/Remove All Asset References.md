@@ -1,5 +1,5 @@
 ---
-display_name: Remove All Asset References
+title: Remove All Asset References
 order: 7
 ---
 ## Navigation

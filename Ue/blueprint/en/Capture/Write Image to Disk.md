@@ -1,5 +1,5 @@
 ---
-display_name: Write Image to Disk
+title: Write Image to Disk
 order: 14
 ---
 ## Navigation

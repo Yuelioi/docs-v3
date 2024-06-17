@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Capsule Size
+title: Get Unscaled Capsule Size
 order: 11
 ---
 ## Navigation

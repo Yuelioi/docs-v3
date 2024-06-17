@@ -1,5 +1,5 @@
 ---
-display_name: Get ENUVectors at Geographic Location
+title: Get ENUVectors at Geographic Location
 order: 5
 ---
 ## Navigation

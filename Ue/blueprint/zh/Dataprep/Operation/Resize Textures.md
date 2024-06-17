@@ -1,5 +1,5 @@
 ---
-display_name: Resize Textures
+title: Resize Textures
 order: 8
 ---
 ## Navigation

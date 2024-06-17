@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Stack Limit Count
+title: Get Active Gameplay Effect Stack Limit Count
 order: 11
 ---
 ## Navigation

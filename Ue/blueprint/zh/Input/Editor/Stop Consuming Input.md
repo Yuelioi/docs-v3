@@ -1,5 +1,5 @@
 ---
-display_name: Stop Consuming Input
+title: Stop Consuming Input
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Mesh Render Mode
+title: Set Mesh Render Mode
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Max Move Speed
+title: Get Max Move Speed
 order: 3
 ---
 ## Navigation

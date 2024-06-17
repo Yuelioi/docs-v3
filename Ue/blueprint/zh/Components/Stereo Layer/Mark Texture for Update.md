@@ -1,5 +1,5 @@
 ---
-display_name: Mark Texture for Update
+title: Mark Texture for Update
 order: 6
 ---
 ## Navigation

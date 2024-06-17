@@ -1,5 +1,5 @@
 ---
-display_name: Is Any Simulating Physics
+title: Is Any Simulating Physics
 order: 94
 ---
 ## Navigation

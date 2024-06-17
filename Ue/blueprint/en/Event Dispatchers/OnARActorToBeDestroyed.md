@@ -1,5 +1,5 @@
 ---
-display_name: OnARActorToBeDestroyed
+title: OnARActorToBeDestroyed
 order: 186
 ---
 ## Navigation

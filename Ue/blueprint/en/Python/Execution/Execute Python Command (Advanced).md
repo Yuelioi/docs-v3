@@ -1,5 +1,5 @@
 ---
-display_name: Execute Python Command (Advanced)
+title: Execute Python Command (Advanced)
 order: 1
 ---
 ## Navigation

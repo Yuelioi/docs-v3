@@ -1,5 +1,5 @@
 ---
-display_name: 延迟
+title: 延迟
 order: 3
 ---
 

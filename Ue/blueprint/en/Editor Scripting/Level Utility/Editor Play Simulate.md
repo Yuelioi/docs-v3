@@ -1,5 +1,5 @@
 ---
-display_name: Editor Play Simulate
+title: Editor Play Simulate
 order: 11
 ---
 ## Navigation

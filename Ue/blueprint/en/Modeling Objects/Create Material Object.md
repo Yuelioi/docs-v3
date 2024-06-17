@@ -1,5 +1,5 @@
 ---
-display_name: Create Material Object
+title: Create Material Object
 order: 1
 ---
 ## Navigation

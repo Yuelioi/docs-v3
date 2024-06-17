@@ -1,5 +1,5 @@
 ---
-display_name: Get Screen Space Position
+title: Get Screen Space Position
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Take Recorder Panel
+title: Get Take Recorder Panel
 order: 12
 ---
 ## Navigation

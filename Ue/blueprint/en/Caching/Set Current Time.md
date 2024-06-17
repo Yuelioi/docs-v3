@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Time
+title: Set Current Time
 order: 13
 ---
 ## Navigation

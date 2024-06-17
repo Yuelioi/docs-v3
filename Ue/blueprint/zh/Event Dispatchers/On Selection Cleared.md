@@ -1,5 +1,5 @@
 ---
-display_name: On Selection Cleared
+title: On Selection Cleared
 order: 151
 ---
 ## Navigation

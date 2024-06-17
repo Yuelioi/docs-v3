@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Render Thread to Game Thread Max Latency
+title: Get Audio Render Thread to Game Thread Max Latency
 order: 2
 ---
 ## Navigation

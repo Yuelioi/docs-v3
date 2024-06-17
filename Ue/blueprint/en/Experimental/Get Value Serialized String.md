@@ -1,5 +1,5 @@
 ---
-display_name: Get Value Serialized String
+title: Get Value Serialized String
 order: 13
 ---
 ## Navigation

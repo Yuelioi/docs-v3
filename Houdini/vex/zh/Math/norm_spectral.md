@@ -1,5 +1,5 @@
 ---
-display_name: norm_spectral
+title: norm_spectral
 order: 48
 ---
 `float  norm_spectral(<matrix>m)`

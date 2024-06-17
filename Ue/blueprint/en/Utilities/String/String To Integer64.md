@@ -1,5 +1,5 @@
 ---
-display_name: String To Integer64
+title: String To Integer64
 order: 51
 ---
 ## Navigation

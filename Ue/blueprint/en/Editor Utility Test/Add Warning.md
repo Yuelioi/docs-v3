@@ -1,5 +1,5 @@
 ---
-display_name: Add Warning
+title: Add Warning
 order: 3
 ---
 ## Navigation

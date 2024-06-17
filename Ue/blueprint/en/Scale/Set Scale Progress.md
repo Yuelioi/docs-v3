@@ -1,5 +1,5 @@
 ---
-display_name: Set Scale Progress
+title: Set Scale Progress
 order: 5
 ---
 ## Navigation

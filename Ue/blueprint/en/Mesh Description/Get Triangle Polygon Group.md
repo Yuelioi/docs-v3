@@ -1,5 +1,5 @@
 ---
-display_name: Get Triangle Polygon Group
+title: Get Triangle Polygon Group
 order: 52
 ---
 ## Navigation

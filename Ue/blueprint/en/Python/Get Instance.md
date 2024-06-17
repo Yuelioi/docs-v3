@@ -1,5 +1,5 @@
 ---
-display_name: Get Instance
+title: Get Instance
 order: 5
 ---
 ## Navigation

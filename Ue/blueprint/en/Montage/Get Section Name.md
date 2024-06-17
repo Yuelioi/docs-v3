@@ -1,5 +1,5 @@
 ---
-display_name: Get Section Name
+title: Get Section Name
 order: 9
 ---
 ## Navigation

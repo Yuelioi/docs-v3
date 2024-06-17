@@ -1,5 +1,5 @@
 ---
-display_name: Get Color List Item
+title: Get Color List Item
 order: 25
 ---
 ## Navigation

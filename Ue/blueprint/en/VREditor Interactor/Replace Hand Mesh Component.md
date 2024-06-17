@@ -1,5 +1,5 @@
 ---
-display_name: Replace Hand Mesh Component
+title: Replace Hand Mesh Component
 order: 5
 ---
 ## Navigation

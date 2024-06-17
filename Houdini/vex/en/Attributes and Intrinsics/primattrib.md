@@ -1,5 +1,5 @@
 ---
-display_name: primattrib
+title: primattrib
 order: 47
 ---
 `<type> primattrib(<geometry>geometry, string attribute_name, int prim, int &success)`

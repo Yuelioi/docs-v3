@@ -1,5 +1,5 @@
 ---
-display_name: Load ARPins from Local Store
+title: Load ARPins from Local Store
 order: 4
 ---
 ## Navigation

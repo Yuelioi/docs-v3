@@ -1,5 +1,5 @@
 ---
-display_name: Create Vec 2Curve DI
+title: Create Vec 2Curve DI
 order: 26
 ---
 ## Navigation

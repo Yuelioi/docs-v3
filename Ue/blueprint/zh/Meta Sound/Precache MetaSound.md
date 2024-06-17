@@ -1,5 +1,5 @@
 ---
-display_name: Precache MetaSound
+title: Precache MetaSound
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Touchpad Button Y Axis
+title: Touchpad Button Y Axis
 order: 104
 ---
 ## Navigation

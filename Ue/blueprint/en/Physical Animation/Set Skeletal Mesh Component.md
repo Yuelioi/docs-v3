@@ -1,5 +1,5 @@
 ---
-display_name: Set Skeletal Mesh Component
+title: Set Skeletal Mesh Component
 order: 5
 ---
 ## Navigation

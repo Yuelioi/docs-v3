@@ -1,5 +1,5 @@
 ---
-display_name: Is Device Property Handle Valid
+title: Is Device Property Handle Valid
 order: 7
 ---
 ## Navigation

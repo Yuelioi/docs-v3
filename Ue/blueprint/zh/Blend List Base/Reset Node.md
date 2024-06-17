@@ -1,5 +1,5 @@
 ---
-display_name: Reset Node
+title: Reset Node
 order: 2
 ---
 ## Navigation

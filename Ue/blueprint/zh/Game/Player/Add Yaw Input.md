@@ -1,5 +1,5 @@
 ---
-display_name: Add Yaw Input
+title: Add Yaw Input
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: End (Recycle) GameplayCue
+title: End (Recycle) GameplayCue
 order: 1
 ---
 ## Navigation

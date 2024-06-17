@@ -1,5 +1,5 @@
 ---
-display_name: Compose Transforms
+title: Compose Transforms
 order: 2
 ---
 ## Navigation

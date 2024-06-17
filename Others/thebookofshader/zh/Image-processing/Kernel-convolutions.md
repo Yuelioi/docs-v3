@@ -1,5 +1,5 @@
 ---
-display_name: Kernel-convolutions
+title: Kernel-convolutions
 order: 3
 ---
 

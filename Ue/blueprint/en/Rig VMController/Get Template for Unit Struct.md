@@ -1,5 +1,5 @@
 ---
-display_name: Get Template for Unit Struct
+title: Get Template for Unit Struct
 order: 57
 ---
 ## Navigation

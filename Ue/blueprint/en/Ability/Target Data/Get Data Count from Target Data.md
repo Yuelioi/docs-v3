@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Count from Target Data
+title: Get Data Count from Target Data
 order: 10
 ---
 ## Navigation

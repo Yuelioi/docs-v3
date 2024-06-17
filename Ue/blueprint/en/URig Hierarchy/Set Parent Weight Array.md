@@ -1,5 +1,5 @@
 ---
-display_name: Set Parent Weight Array
+title: Set Parent Weight Array
 order: 155
 ---
 ## Navigation

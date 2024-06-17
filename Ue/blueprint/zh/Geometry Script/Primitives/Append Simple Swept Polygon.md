@@ -1,5 +1,5 @@
 ---
-display_name: Append Simple Swept Polygon
+title: Append Simple Swept Polygon
 order: 17
 ---
 ## Navigation

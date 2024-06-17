@@ -1,5 +1,5 @@
 ---
-display_name: From Days
+title: From Days
 order: 3
 ---
 ## Navigation

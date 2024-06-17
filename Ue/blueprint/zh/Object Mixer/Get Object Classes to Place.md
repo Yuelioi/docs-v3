@@ -1,5 +1,5 @@
 ---
-display_name: Get Object Classes to Place
+title: Get Object Classes to Place
 order: 5
 ---
 ## Navigation

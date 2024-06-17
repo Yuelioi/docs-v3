@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Breakable
+title: Get Linear Breakable
 order: 19
 ---
 ## Navigation

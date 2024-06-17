@@ -1,5 +1,5 @@
 ---
-display_name: chprim_length
+title: chprim_length
 order: 9
 ---
 `float  chprim_length(<geometry>geometry, int prim)`

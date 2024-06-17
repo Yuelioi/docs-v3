@@ -1,5 +1,5 @@
 ---
-display_name: Select Button at Index
+title: Select Button at Index
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Bone Mass
+title: Get Bone Mass
 order: 67
 ---
 ## Navigation

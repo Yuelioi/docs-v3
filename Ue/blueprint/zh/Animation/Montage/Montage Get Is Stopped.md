@@ -1,5 +1,5 @@
 ---
-display_name: Montage Get Is Stopped
+title: Montage Get Is Stopped
 order: 10
 ---
 ## Navigation

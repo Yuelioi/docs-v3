@@ -1,5 +1,5 @@
 ---
-display_name: Set Nanite Override Material
+title: Set Nanite Override Material
 order: 47
 ---
 ## Navigation

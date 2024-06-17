@@ -1,5 +1,5 @@
 ---
-display_name: Montage Stop
+title: Montage Stop
 order: 3
 ---
 ## Navigation

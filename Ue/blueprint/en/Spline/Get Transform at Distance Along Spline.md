@@ -1,5 +1,5 @@
 ---
-display_name: Get Transform at Distance Along Spline
+title: Get Transform at Distance Along Spline
 order: 68
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Attribute Key (Message)
+title: Remove Attribute Key (Message)
 order: 10
 ---
 ## Navigation

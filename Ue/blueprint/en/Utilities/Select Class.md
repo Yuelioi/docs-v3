@@ -1,5 +1,5 @@
 ---
-display_name: Select Class
+title: Select Class
 order: 32
 ---
 ## Navigation

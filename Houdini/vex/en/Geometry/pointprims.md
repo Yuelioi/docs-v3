@@ -1,5 +1,5 @@
 ---
-display_name: pointprims
+title: pointprims
 order: 21
 ---
 `int [] pointprims(<geometry>geometry, int ptnum)`

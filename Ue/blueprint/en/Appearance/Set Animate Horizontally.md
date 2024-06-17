@@ -1,5 +1,5 @@
 ---
-display_name: Set Animate Horizontally
+title: Set Animate Horizontally
 order: 11
 ---
 ## Navigation

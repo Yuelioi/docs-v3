@@ -1,5 +1,5 @@
 ---
-display_name: Add Radial Impulse
+title: Add Radial Impulse
 order: 12
 ---
 ## Navigation

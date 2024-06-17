@@ -1,5 +1,5 @@
 ---
-display_name: Get Vector Value
+title: Get Vector Value
 order: 9
 ---
 ## Navigation

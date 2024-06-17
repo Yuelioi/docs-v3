@@ -1,5 +1,5 @@
 ---
-display_name: Equal (SmartObjectSlotHandle)
+title: Equal (SmartObjectSlotHandle)
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Gamepad Left Trigger
+title: Gamepad Left Trigger
 order: 19
 ---
 ## Navigation

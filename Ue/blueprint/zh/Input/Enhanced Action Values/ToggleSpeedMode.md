@@ -1,5 +1,5 @@
 ---
-display_name: ToggleSpeedMode
+title: ToggleSpeedMode
 order: 120
 ---
 ## Navigation

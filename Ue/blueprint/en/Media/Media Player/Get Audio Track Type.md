@@ -1,5 +1,5 @@
 ---
-display_name: Get Audio Track Type
+title: Get Audio Track Type
 order: 7
 ---
 ## Navigation

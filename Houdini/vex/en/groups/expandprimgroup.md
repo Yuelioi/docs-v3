@@ -1,5 +1,5 @@
 ---
-display_name: expandprimgroup
+title: expandprimgroup
 order: 3
 ---
 `int [] expandprimgroup(<geometry>geometry, string groupname)`

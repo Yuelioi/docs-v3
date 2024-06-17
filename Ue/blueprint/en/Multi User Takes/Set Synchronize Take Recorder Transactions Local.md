@@ -1,5 +1,5 @@
 ---
-display_name: Set Synchronize Take Recorder Transactions Local
+title: Set Synchronize Take Recorder Transactions Local
 order: 7
 ---
 ## Navigation

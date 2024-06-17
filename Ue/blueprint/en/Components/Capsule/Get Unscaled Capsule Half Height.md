@@ -1,5 +1,5 @@
 ---
-display_name: Get Unscaled Capsule Half Height
+title: Get Unscaled Capsule Half Height
 order: 8
 ---
 ## Navigation

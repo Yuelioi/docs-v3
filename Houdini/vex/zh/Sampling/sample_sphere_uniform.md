@@ -1,5 +1,5 @@
 ---
-display_name: sample_sphere_uniform
+title: sample_sphere_uniform
 order: 30
 ---
 `vector  sample_sphere_uniform(vector u)`

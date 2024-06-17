@@ -1,5 +1,5 @@
 ---
-display_name: Make Vector Net Quantize Normal
+title: Make Vector Net Quantize Normal
 order: 36
 ---
 ## Navigation

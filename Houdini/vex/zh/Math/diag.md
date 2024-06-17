@@ -1,5 +1,5 @@
 ---
-display_name: diag
+title: diag
 order: 17
 ---
 `vector2  diag(matrix2 m)`

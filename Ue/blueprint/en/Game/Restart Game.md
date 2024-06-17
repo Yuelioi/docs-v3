@@ -1,5 +1,5 @@
 ---
-display_name: Restart Game
+title: Restart Game
 order: 42
 ---
 ## Navigation

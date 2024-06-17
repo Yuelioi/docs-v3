@@ -1,5 +1,5 @@
 ---
-display_name: Is Refresh Pending
+title: Is Refresh Pending
 order: 15
 ---
 ## Navigation

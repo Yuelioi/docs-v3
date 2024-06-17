@@ -1,5 +1,5 @@
 ---
-display_name: Query Keys Mapped to Action
+title: Query Keys Mapped to Action
 order: 6
 ---
 ## Navigation

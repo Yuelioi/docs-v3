@@ -1,5 +1,5 @@
 ---
-display_name: Get Layer Name
+title: Get Layer Name
 order: 87
 ---
 ## Navigation

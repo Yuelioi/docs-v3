@@ -1,5 +1,5 @@
 ---
-display_name: nuniqueval
+title: nuniqueval
 order: 33
 ---
 `int  nuniqueval(<geometry>geometry, string attribclass, string attribute_name)`

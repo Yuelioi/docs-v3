@@ -1,5 +1,5 @@
 ---
-display_name: Vector Get Abs Max
+title: Vector Get Abs Max
 order: 70
 ---
 ## Navigation

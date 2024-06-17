@@ -1,5 +1,5 @@
 ---
-display_name: Find Target Camera
+title: Find Target Camera
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Specify Null Observation
+title: Specify Null Observation
 order: 314
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Emit Tracked Mesh Change
+title: Emit Tracked Mesh Change
 order: 2
 ---
 ## Navigation

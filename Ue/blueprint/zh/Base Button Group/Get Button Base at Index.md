@@ -1,5 +1,5 @@
 ---
-display_name: Get Button Base at Index
+title: Get Button Base at Index
 order: 3
 ---
 ## Navigation

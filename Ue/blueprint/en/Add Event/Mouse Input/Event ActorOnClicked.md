@@ -1,5 +1,5 @@
 ---
-display_name: Event ActorOnClicked
+title: Event ActorOnClicked
 order: 3
 ---
 ## Navigation

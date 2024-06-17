@@ -1,5 +1,5 @@
 ---
-display_name: Subscribe to String Param
+title: Subscribe to String Param
 order: 22
 ---
 ## Navigation

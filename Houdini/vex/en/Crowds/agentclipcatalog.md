@@ -1,5 +1,5 @@
 ---
-display_name: agentclipcatalog
+title: agentclipcatalog
 order: 6
 ---
 `string [] agentclipcatalog(<geometry>geometry, int prim)`

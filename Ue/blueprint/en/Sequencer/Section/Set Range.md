@@ -1,5 +1,5 @@
 ---
-display_name: Set Range
+title: Set Range
 order: 94
 ---
 ## Navigation

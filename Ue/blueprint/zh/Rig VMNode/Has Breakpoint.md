@@ -1,5 +1,5 @@
 ---
-display_name: Has Breakpoint
+title: Has Breakpoint
 order: 33
 ---
 ## Navigation

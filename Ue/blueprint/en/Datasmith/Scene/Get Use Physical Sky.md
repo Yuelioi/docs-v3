@@ -1,5 +1,5 @@
 ---
-display_name: Get Use Physical Sky
+title: Get Use Physical Sky
 order: 40
 ---
 ## Navigation

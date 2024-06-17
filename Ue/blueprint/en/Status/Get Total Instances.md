@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Instances
+title: Get Total Instances
 order: 8
 ---
 ## Navigation

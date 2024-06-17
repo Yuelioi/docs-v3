@@ -1,5 +1,5 @@
 ---
-display_name: Cross Product (2D)
+title: Cross Product (2D)
 order: 3
 ---
 ## Navigation

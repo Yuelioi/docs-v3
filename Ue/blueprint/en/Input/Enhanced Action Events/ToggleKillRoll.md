@@ -1,5 +1,5 @@
 ---
-display_name: ToggleKillRoll
+title: ToggleKillRoll
 order: 113
 ---
 ## Navigation

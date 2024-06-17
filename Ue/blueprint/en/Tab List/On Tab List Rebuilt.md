@@ -1,5 +1,5 @@
 ---
-display_name: On Tab List Rebuilt
+title: On Tab List Rebuilt
 order: 10
 ---
 ## Navigation

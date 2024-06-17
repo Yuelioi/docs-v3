@@ -1,5 +1,5 @@
 ---
-display_name: usd_getbounds
+title: usd_getbounds
 order: 47
 ---
 | Since | 18.0 |

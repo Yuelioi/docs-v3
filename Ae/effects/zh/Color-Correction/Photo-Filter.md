@@ -1,5 +1,5 @@
 ---
-display_name: 照片滤镜
+title: 照片滤镜
 order: 28
 ---
 

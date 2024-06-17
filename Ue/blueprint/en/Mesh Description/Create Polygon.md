@@ -1,5 +1,5 @@
 ---
-display_name: Create Polygon
+title: Create Polygon
 order: 8
 ---
 ## Navigation

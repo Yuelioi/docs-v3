@@ -1,5 +1,5 @@
 ---
-display_name: Add Unit Node from Struct Path
+title: Add Unit Node from Struct Path
 order: 27
 ---
 ## Navigation

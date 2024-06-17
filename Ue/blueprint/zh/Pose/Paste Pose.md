@@ -1,5 +1,5 @@
 ---
-display_name: Paste Pose
+title: Paste Pose
 order: 4
 ---
 ## Navigation

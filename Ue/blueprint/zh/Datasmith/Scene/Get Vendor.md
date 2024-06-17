@@ -1,5 +1,5 @@
 ---
-display_name: Get Vendor
+title: Get Vendor
 order: 43
 ---
 ## Navigation

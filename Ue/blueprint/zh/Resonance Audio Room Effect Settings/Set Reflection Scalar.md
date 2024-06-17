@@ -1,5 +1,5 @@
 ---
-display_name: Set Reflection Scalar
+title: Set Reflection Scalar
 order: 2
 ---
 ## Navigation

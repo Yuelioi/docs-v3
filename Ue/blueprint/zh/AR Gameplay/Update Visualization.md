@@ -1,5 +1,5 @@
 ---
-display_name: Update Visualization
+title: Update Visualization
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Apply Asset Defaults
+title: Apply Asset Defaults
 order: 2
 ---
 ## Navigation

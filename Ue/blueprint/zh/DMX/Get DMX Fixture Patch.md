@@ -1,5 +1,5 @@
 ---
-display_name: Get DMX Fixture Patch
+title: Get DMX Fixture Patch
 order: 38
 ---
 ## Navigation

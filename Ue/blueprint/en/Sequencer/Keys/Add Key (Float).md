@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Float)
+title: Add Key (Float)
 order: 6
 ---
 ## Navigation

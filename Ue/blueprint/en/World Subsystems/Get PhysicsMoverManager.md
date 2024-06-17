@@ -1,5 +1,5 @@
 ---
-display_name: Get PhysicsMoverManager
+title: Get PhysicsMoverManager
 order: 67
 ---
 ## Navigation

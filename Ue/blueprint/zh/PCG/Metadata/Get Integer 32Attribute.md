@@ -1,5 +1,5 @@
 ---
-display_name: Get Integer 32Attribute
+title: Get Integer 32Attribute
 order: 35
 ---
 ## Navigation

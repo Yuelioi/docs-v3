@@ -1,5 +1,5 @@
 ---
-display_name: On Graph Cancelled
+title: On Graph Cancelled
 order: 89
 ---
 ## Navigation

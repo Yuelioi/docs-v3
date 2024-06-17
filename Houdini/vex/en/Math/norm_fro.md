@@ -1,5 +1,5 @@
 ---
-display_name: norm_fro
+title: norm_fro
 order: 45
 ---
 `float  norm_fro(<matrix>m)`

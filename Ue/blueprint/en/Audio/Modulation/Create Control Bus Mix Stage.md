@@ -1,5 +1,5 @@
 ---
-display_name: Create Control Bus Mix Stage
+title: Create Control Bus Mix Stage
 order: 9
 ---
 ## Navigation

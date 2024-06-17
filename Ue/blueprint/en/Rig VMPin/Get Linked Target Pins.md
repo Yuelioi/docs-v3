@@ -1,5 +1,5 @@
 ---
-display_name: Get Linked Target Pins
+title: Get Linked Target Pins
 order: 16
 ---
 ## Navigation

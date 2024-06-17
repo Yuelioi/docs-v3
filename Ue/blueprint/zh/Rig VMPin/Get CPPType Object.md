@@ -1,5 +1,5 @@
 ---
-display_name: Get CPPType Object
+title: Get CPPType Object
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC扫光
+title: CC扫光
 order: 9
 ---
 

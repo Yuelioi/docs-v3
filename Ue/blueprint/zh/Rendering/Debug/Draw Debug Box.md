@@ -1,5 +1,5 @@
 ---
-display_name: Draw Debug Box
+title: Draw Debug Box
 order: 3
 ---
 ## Navigation

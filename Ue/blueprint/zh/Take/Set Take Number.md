@@ -1,5 +1,5 @@
 ---
-display_name: Set Take Number
+title: Set Take Number
 order: 24
 ---
 ## Navigation

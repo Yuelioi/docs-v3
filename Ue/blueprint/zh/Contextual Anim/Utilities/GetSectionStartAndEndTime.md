@@ -1,5 +1,5 @@
 ---
-display_name: GetSectionStartAndEndTime
+title: GetSectionStartAndEndTime
 order: 3
 ---
 ## Navigation

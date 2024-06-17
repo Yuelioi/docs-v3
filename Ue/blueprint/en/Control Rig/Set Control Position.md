@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Position
+title: Set Control Position
 order: 31
 ---
 ## Navigation

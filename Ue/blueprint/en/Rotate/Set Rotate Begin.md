@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotate Begin
+title: Set Rotate Begin
 order: 1
 ---
 ## Navigation

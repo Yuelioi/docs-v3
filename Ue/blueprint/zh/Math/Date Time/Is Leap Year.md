@@ -1,5 +1,5 @@
 ---
-display_name: Is Leap Year
+title: Is Leap Year
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Dof
+title: Get Dof
 order: 26
 ---
 ## Navigation

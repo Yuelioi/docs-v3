@@ -1,5 +1,5 @@
 ---
-display_name: Get Curve Weight
+title: Get Curve Weight
 order: 7
 ---
 ## Navigation

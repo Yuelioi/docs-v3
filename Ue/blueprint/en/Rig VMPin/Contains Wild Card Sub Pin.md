@@ -1,5 +1,5 @@
 ---
-display_name: Contains Wild Card Sub Pin
+title: Contains Wild Card Sub Pin
 order: 1
 ---
 ## Navigation

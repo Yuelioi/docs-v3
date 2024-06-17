@@ -1,5 +1,5 @@
 ---
-display_name: Get Active Gameplay Effect Remaining Duration
+title: Get Active Gameplay Effect Remaining Duration
 order: 9
 ---
 ## Navigation

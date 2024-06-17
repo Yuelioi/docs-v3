@@ -1,5 +1,5 @@
 ---
-display_name: Convert Index Array to Mesh Selection
+title: Convert Index Array to Mesh Selection
 order: 2
 ---
 ## Navigation

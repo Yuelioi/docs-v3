@@ -1,5 +1,5 @@
 ---
-display_name: Get Reflex Mode
+title: Get Reflex Mode
 order: 5
 ---
 ## Navigation

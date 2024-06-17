@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variable Bool Value
+title: Get Console Variable Bool Value
 order: 42
 ---
 ## Navigation

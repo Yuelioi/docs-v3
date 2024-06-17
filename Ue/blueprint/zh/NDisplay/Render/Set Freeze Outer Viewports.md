@@ -1,5 +1,5 @@
 ---
-display_name: Set Freeze Outer Viewports
+title: Set Freeze Outer Viewports
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Effect-UI-Events
+title: Effect-UI-Events
 order: 2
 ---
 

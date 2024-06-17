@@ -1,5 +1,5 @@
 ---
-display_name: Has Valid Animation Instance
+title: Has Valid Animation Instance
 order: 16
 ---
 ## Navigation

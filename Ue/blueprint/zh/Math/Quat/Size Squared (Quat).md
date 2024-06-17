@@ -1,5 +1,5 @@
 ---
-display_name: Size Squared (Quat)
+title: Size Squared (Quat)
 order: 28
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: lspline
+title: lspline
 order: 12
 ---
 `float  lspline(float sample_pos, float value1, ...)`

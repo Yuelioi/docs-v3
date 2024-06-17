@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Texture Param Name
+title: Set Material Texture Param Name
 order: 6
 ---
 ## Navigation

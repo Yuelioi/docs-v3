@@ -1,5 +1,5 @@
 ---
-display_name: SetError (Multi-Line Text Box)
+title: SetError (Multi-Line Text Box)
 order: 39
 ---
 ## Navigation

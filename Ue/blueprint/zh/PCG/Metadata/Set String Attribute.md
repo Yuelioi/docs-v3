@@ -1,5 +1,5 @@
 ---
-display_name: Set String Attribute
+title: Set String Attribute
 order: 95
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Ignore Look Input
+title: Set Ignore Look Input
 order: 21
 ---
 ## Navigation

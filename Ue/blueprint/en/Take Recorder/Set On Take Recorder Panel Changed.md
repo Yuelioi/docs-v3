@@ -1,5 +1,5 @@
 ---
-display_name: Set On Take Recorder Panel Changed
+title: Set On Take Recorder Panel Changed
 order: 21
 ---
 ## Navigation

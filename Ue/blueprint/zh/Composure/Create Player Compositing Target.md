@@ -1,5 +1,5 @@
 ---
-display_name: Create Player Compositing Target
+title: Create Player Compositing Target
 order: 4
 ---
 ## Navigation

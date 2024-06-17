@@ -1,5 +1,5 @@
 ---
-display_name: Application Received Startup Arguments Delegate
+title: Application Received Startup Arguments Delegate
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Create Vec 3Curve DI
+title: Create Vec 3Curve DI
 order: 27
 ---
 ## Navigation

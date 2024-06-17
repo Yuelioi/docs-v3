@@ -1,5 +1,5 @@
 ---
-display_name: Get AutoDestroySubsystem
+title: Get AutoDestroySubsystem
 order: 4
 ---
 ## Navigation

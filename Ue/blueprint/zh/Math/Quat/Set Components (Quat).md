@@ -1,5 +1,5 @@
 ---
-display_name: Set Components (Quat)
+title: Set Components (Quat)
 order: 25
 ---
 ## Navigation

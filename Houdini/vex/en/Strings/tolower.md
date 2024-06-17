@@ -1,5 +1,5 @@
 ---
-display_name: tolower
+title: tolower
 order: 41
 ---
 `string  tolower(string str)`

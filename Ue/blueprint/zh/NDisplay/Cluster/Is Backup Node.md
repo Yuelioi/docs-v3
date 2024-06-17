@@ -1,5 +1,5 @@
 ---
-display_name: Is Backup Node
+title: Is Backup Node
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Add Motor Sim Component
+title: Add Motor Sim Component
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Remove Light Actor
+title: Remove Light Actor
 order: 50
 ---
 ## Navigation

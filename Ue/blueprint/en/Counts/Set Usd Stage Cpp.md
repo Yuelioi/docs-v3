@@ -1,5 +1,5 @@
 ---
-display_name: Set Usd Stage Cpp
+title: Set Usd Stage Cpp
 order: 3
 ---
 ## Navigation

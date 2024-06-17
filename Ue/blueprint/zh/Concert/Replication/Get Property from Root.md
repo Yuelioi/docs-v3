@@ -1,5 +1,5 @@
 ---
-display_name: Get Property from Root
+title: Get Property from Root
 order: 6
 ---
 ## Navigation

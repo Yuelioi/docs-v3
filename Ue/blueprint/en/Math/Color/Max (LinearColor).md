@@ -1,5 +1,5 @@
 ---
-display_name: Max (LinearColor)
+title: Max (LinearColor)
 order: 26
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: 三色调
+title: 三色调
 order: 33
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Set Play Range (Seconds)
+title: Set Play Range (Seconds)
 order: 42
 ---
 ## Navigation

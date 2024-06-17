@@ -1,5 +1,5 @@
 ---
-display_name: Is Root Motion Enabled
+title: Is Root Motion Enabled
 order: 2
 ---
 ## Navigation

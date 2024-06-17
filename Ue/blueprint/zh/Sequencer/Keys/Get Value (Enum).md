@@ -1,5 +1,5 @@
 ---
-display_name: Get Value (Enum)
+title: Get Value (Enum)
 order: 68
 ---
 ## Navigation

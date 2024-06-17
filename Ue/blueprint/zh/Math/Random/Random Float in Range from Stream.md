@@ -1,5 +1,5 @@
 ---
-display_name: Random Float in Range from Stream
+title: Random Float in Range from Stream
 order: 15
 ---
 ## Navigation

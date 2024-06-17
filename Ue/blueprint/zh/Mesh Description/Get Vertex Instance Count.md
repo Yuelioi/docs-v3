@@ -1,5 +1,5 @@
 ---
-display_name: Get Vertex Instance Count
+title: Get Vertex Instance Count
 order: 64
 ---
 ## Navigation

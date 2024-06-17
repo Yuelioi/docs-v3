@@ -1,5 +1,5 @@
 ---
-display_name: Apply Angular Velocity
+title: Apply Angular Velocity
 order: 1
 ---
 ## Navigation

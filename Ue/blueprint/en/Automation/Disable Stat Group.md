@@ -1,5 +1,5 @@
 ---
-display_name: Disable Stat Group
+title: Disable Stat Group
 order: 13
 ---
 ## Navigation

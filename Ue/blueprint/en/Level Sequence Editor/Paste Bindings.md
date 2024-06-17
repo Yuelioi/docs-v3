@@ -1,5 +1,5 @@
 ---
-display_name: Paste Bindings
+title: Paste Bindings
 order: 43
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: findattribvalcount
+title: findattribvalcount
 order: 21
 ---
 `int  findattribvalcount(<geometry>geometry, string attribclass, string attribute_name, int|stringvalue)`

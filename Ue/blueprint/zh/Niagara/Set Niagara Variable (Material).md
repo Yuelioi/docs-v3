@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Variable (Material)
+title: Set Niagara Variable (Material)
 order: 35
 ---
 ## Navigation

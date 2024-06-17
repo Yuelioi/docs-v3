@@ -1,5 +1,5 @@
 ---
-display_name: endswith
+title: endswith
 order: 12
 ---
 `int  endswith(string haystack, string needle)`

@@ -1,5 +1,5 @@
 ---
-display_name: Create Body Modifiers from Limb Bones
+title: Create Body Modifiers from Limb Bones
 order: 6
 ---
 ## Navigation

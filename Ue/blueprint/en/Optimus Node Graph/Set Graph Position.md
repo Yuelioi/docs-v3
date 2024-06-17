@@ -1,5 +1,5 @@
 ---
-display_name: Set Graph Position
+title: Set Graph Position
 order: 41
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Has Output Pin
+title: Has Output Pin
 order: 38
 ---
 ## Navigation

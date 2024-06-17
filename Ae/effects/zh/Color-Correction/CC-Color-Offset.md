@@ -1,5 +1,5 @@
 ---
-display_name: CC颜色偏移
+title: CC颜色偏移
 order: 8
 ---
 

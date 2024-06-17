@@ -1,5 +1,5 @@
 ---
-display_name: To String (SmartObjectDefinition)
+title: To String (SmartObjectDefinition)
 order: 76
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Right Parantheses
+title: Right Parantheses
 order: 93
 ---
 ## Navigation

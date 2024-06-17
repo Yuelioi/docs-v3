@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variable Source by Name
+title: Get Console Variable Source by Name
 order: 3
 ---
 ## Navigation

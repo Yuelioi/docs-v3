@@ -1,5 +1,5 @@
 ---
-display_name: Get Alignment Transform
+title: Get Alignment Transform
 order: 2
 ---
 ## Navigation

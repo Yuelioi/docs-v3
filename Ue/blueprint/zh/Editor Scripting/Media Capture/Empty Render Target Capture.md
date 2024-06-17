@@ -1,5 +1,5 @@
 ---
-display_name: Empty Render Target Capture
+title: Empty Render Target Capture
 order: 3
 ---
 ## Navigation

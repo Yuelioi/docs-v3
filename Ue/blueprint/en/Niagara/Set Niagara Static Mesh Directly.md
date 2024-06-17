@@ -1,5 +1,5 @@
 ---
-display_name: Set Niagara Static Mesh Directly
+title: Set Niagara Static Mesh Directly
 order: 28
 ---
 ## Navigation

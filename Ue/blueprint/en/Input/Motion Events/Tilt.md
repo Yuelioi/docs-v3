@@ -1,5 +1,5 @@
 ---
-display_name: Tilt
+title: Tilt
 order: 4
 ---
 ## Navigation

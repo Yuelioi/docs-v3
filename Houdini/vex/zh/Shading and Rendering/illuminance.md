@@ -1,5 +1,5 @@
 ---
-display_name: illuminance
+title: illuminance
 order: 37
 ---
 | On this page | * [Overview](#overview) * [Light inclusion/exclusion options](#light-inclusion-exclusion-options) * [Sending information to the light’s shader](#sending-information-to-the-light-s-shader) * [Message passing](#message-passing) * [lightexport keyword argument](#lightexport-keyword-argument) |

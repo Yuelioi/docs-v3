@@ -1,5 +1,5 @@
 ---
-display_name: Get Asset By Object Path
+title: Get Asset By Object Path
 order: 7
 ---
 ## Navigation

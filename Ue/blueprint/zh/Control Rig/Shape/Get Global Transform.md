@@ -1,5 +1,5 @@
 ---
-display_name: Get Global Transform
+title: Get Global Transform
 order: 1
 ---
 ## Navigation

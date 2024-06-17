@@ -1,5 +1,5 @@
 ---
-display_name: Montage Play with Blend Settings
+title: Montage Play with Blend Settings
 order: 19
 ---
 ## Navigation

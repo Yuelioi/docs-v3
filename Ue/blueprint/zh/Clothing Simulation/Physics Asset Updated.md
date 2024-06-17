@@ -1,5 +1,5 @@
 ---
-display_name: Physics Asset Updated
+title: Physics Asset Updated
 order: 12
 ---
 ## Navigation

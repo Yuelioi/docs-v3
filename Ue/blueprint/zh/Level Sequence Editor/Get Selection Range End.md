@@ -1,5 +1,5 @@
 ---
-display_name: Get Selection Range End
+title: Get Selection Range End
 order: 34
 ---
 ## Navigation

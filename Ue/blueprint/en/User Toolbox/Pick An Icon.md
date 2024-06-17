@@ -1,5 +1,5 @@
 ---
-display_name: Pick An Icon
+title: Pick An Icon
 order: 1
 ---
 ## Navigation

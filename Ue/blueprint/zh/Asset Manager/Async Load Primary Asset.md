@@ -1,5 +1,5 @@
 ---
-display_name: Async Load Primary Asset
+title: Async Load Primary Asset
 order: 6
 ---
 ## Navigation

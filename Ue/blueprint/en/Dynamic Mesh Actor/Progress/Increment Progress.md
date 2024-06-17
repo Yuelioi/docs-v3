@@ -1,5 +1,5 @@
 ---
-display_name: Increment Progress
+title: Increment Progress
 order: 1
 ---
 ## Navigation

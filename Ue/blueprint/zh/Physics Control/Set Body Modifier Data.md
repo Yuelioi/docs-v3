@@ -1,5 +1,5 @@
 ---
-display_name: Set Body Modifier Data
+title: Set Body Modifier Data
 order: 55
 ---
 ## Navigation

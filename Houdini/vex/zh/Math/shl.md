@@ -1,5 +1,5 @@
 ---
-display_name: shl
+title: shl
 order: 68
 ---
 `int  shl(int a, int bits)`

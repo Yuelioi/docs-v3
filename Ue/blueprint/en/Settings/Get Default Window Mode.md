@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Window Mode
+title: Get Default Window Mode
 order: 36
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Min Desired Height
+title: Set Min Desired Height
 order: 14
 ---
 ## Navigation

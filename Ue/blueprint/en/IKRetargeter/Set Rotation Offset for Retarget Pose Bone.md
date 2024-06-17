@@ -1,5 +1,5 @@
 ---
-display_name: Set Rotation Offset for Retarget Pose Bone
+title: Set Rotation Offset for Retarget Pose Bone
 order: 27
 ---
 ## Navigation

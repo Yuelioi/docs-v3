@@ -1,5 +1,5 @@
 ---
-display_name: Add Key (Actor Reference)
+title: Add Key (Actor Reference)
 order: 1
 ---
 ## Navigation

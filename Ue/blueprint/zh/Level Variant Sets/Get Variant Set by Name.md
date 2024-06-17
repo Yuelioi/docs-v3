@@ -1,5 +1,5 @@
 ---
-display_name: Get Variant Set by Name
+title: Get Variant Set by Name
 order: 3
 ---
 ## Navigation

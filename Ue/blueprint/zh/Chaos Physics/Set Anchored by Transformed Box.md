@@ -1,5 +1,5 @@
 ---
-display_name: Set Anchored by Transformed Box
+title: Set Anchored by Transformed Box
 order: 23
 ---
 ## Navigation

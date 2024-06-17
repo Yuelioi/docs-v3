@@ -1,5 +1,5 @@
 ---
-display_name: Substitute Materials by Table
+title: Substitute Materials by Table
 order: 21
 ---
 ## Navigation

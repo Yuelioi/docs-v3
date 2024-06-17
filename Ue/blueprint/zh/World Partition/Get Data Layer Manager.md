@@ -1,5 +1,5 @@
 ---
-display_name: Get Data Layer Manager
+title: Get Data Layer Manager
 order: 3
 ---
 ## Navigation

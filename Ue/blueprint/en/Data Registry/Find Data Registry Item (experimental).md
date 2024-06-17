@@ -1,5 +1,5 @@
 ---
-display_name: Find Data Registry Item (experimental)
+title: Find Data Registry Item (experimental)
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Cached Session Status
+title: Get Cached Session Status
 order: 5
 ---
 ## Navigation

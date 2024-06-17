@@ -1,5 +1,5 @@
 ---
-display_name: Pixel Mapping Distribution Sort
+title: Pixel Mapping Distribution Sort
 order: 7
 ---
 ## Navigation

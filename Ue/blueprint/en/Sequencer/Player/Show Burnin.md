@@ -1,5 +1,5 @@
 ---
-display_name: Show Burnin
+title: Show Burnin
 order: 47
 ---
 ## Navigation

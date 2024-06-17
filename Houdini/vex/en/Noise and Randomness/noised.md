@@ -1,5 +1,5 @@
 ---
-display_name: noised
+title: noised
 order: 24
 ---
 `void  noised(float x, float &v, float &dvdx)`

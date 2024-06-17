@@ -1,5 +1,5 @@
 ---
-display_name: Remove Unused Inputs
+title: Remove Unused Inputs
 order: 194
 ---
 ## Navigation

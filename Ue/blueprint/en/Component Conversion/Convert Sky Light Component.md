@@ -1,5 +1,5 @@
 ---
-display_name: Convert Sky Light Component
+title: Convert Sky Light Component
 order: 13
 ---
 ## Navigation

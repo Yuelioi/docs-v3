@@ -1,5 +1,5 @@
 ---
-display_name: Actions Import
+title: Actions Import
 order: 1
 ---
 ## Navigation

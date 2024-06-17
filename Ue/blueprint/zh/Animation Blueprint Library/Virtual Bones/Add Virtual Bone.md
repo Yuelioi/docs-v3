@@ -1,5 +1,5 @@
 ---
-display_name: Add Virtual Bone
+title: Add Virtual Bone
 order: 1
 ---
 ## Navigation

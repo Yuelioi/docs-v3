@@ -1,5 +1,5 @@
 ---
-display_name: Begin Work
+title: Begin Work
 order: 1
 ---
 ## Navigation

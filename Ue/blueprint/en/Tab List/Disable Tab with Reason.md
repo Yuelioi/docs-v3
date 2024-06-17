@@ -1,5 +1,5 @@
 ---
-display_name: Disable Tab with Reason
+title: Disable Tab with Reason
 order: 1
 ---
 ## Navigation

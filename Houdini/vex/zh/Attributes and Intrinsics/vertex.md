@@ -1,5 +1,5 @@
 ---
-display_name: vertex
+title: vertex
 order: 77
 ---
 `<type> vertex(<geometry>geometry, string attribute_name, int linear_vertex_index)`

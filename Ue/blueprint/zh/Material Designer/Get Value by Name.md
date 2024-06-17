@@ -1,5 +1,5 @@
 ---
-display_name: Get Value by Name
+title: Get Value by Name
 order: 149
 ---
 ## Navigation

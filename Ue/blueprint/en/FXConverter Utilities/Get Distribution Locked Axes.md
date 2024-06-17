@@ -1,5 +1,5 @@
 ---
-display_name: Get Distribution Locked Axes
+title: Get Distribution Locked Axes
 order: 39
 ---
 ## Navigation

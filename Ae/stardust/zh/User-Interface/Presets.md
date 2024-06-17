@@ -1,6 +1,6 @@
 ---
 order: 7
-display_name: 预设(Presets)
+title: 预设(Presets)
 ---
 
 # 预设(Presets)

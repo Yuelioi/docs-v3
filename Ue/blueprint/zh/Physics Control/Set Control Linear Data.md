@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Linear Data
+title: Set Control Linear Data
 order: 86
 ---
 ## Navigation

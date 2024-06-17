@@ -1,5 +1,5 @@
 ---
-display_name: Release Instance Of Asset
+title: Release Instance Of Asset
 order: 22
 ---
 ## Navigation

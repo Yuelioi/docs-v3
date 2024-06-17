@@ -1,5 +1,5 @@
 ---
-display_name: Get Angular Velocity Drive SLERP
+title: Get Angular Velocity Drive SLERP
 order: 10
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Stop Tracing
+title: Stop Tracing
 order: 9
 ---
 ## Navigation

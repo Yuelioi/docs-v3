@@ -1,5 +1,5 @@
 ---
-display_name: Is Streaming Source Enabled
+title: Is Streaming Source Enabled
 order: 11
 ---
 ## Navigation

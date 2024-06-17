@@ -1,5 +1,5 @@
 ---
-display_name: Clear All Mesh Sections
+title: Clear All Mesh Sections
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Channel Last Evaluation Data Stat
+title: Get Channel Last Evaluation Data Stat
 order: 15
 ---
 ## Navigation

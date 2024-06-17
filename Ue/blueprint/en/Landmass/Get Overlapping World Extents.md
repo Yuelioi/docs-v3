@@ -1,5 +1,5 @@
 ---
-display_name: Get Overlapping World Extents
+title: Get Overlapping World Extents
 order: 7
 ---
 ## Navigation

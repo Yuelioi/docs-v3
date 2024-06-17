@@ -1,5 +1,5 @@
 ---
-display_name: 曝光度
+title: 曝光度
 order: 21
 ---
 

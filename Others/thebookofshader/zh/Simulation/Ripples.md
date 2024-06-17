@@ -1,5 +1,5 @@
 ---
-display_name: Ripples
+title: Ripples
 order: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Is Valid Key Frame Index
+title: Is Valid Key Frame Index
 order: 22
 ---
 ## Navigation

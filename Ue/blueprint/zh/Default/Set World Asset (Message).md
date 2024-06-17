@@ -1,5 +1,5 @@
 ---
-display_name: Set World Asset (Message)
+title: Set World Asset (Message)
 order: 24
 ---
 ## Navigation

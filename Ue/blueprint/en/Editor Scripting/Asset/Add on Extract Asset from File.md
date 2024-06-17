@@ -1,5 +1,5 @@
 ---
-display_name: Add on Extract Asset from File
+title: Add on Extract Asset from File
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Allowed Anim Curves Evaluation
+title: Set Allowed Anim Curves Evaluation
 order: 23
 ---
 ## Navigation

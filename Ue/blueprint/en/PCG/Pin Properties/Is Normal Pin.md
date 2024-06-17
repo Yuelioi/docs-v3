@@ -1,5 +1,5 @@
 ---
-display_name: Is Normal Pin
+title: Is Normal Pin
 order: 3
 ---
 ## Navigation

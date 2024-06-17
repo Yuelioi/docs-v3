@@ -1,5 +1,5 @@
 ---
-display_name: Generate Filename
+title: Generate Filename
 order: 3
 ---
 ## Navigation

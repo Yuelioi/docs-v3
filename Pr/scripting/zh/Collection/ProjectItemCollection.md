@@ -1,5 +1,5 @@
 ---
-display_name: ProjectItemCollection 项目集合
+title: ProjectItemCollection 项目集合
 order: 4
 ---
 

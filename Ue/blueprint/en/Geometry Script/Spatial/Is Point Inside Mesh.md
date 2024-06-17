@@ -1,5 +1,5 @@
 ---
-display_name: Is Point Inside Mesh
+title: Is Point Inside Mesh
 order: 5
 ---
 ## Navigation

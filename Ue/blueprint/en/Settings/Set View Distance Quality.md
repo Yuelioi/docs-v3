@@ -1,5 +1,5 @@
 ---
-display_name: Set View Distance Quality
+title: Set View Distance Quality
 order: 136
 ---
 ## Navigation

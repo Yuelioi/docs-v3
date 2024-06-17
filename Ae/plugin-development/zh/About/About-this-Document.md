@@ -1,5 +1,5 @@
 ---
-display_name: About-this-Document
+title: About-this-Document
 order: 1
 ---
 

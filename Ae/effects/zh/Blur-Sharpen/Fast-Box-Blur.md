@@ -1,5 +1,5 @@
 ---
-display_name: 快速方框模糊
+title: 快速方框模糊
 order: 11
 ---
 

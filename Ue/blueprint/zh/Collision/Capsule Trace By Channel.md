@@ -1,5 +1,5 @@
 ---
-display_name: Capsule Trace By Channel
+title: Capsule Trace By Channel
 order: 11
 ---
 ## Navigation

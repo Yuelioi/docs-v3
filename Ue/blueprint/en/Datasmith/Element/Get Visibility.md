@@ -1,5 +1,5 @@
 ---
-display_name: Get Visibility
+title: Get Visibility
 order: 90
 ---
 ## Navigation

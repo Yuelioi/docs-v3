@@ -1,5 +1,5 @@
 ---
-display_name: Apply Mesh Linear Extrude Faces
+title: Apply Mesh Linear Extrude Faces
 order: 5
 ---
 ## Navigation

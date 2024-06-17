@@ -1,5 +1,5 @@
 ---
-display_name: On Listener Exit (Message)
+title: On Listener Exit (Message)
 order: 3
 ---
 ## Navigation

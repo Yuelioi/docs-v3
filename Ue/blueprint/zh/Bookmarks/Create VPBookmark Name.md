@@ -1,5 +1,5 @@
 ---
-display_name: Create VPBookmark Name
+title: Create VPBookmark Name
 order: 2
 ---
 ## Navigation

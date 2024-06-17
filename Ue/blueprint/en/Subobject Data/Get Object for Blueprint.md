@@ -1,5 +1,5 @@
 ---
-display_name: Get Object for Blueprint
+title: Get Object for Blueprint
 order: 11
 ---
 ## Navigation

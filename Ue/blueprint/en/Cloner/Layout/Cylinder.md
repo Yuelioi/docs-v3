@@ -1,5 +1,5 @@
 ---
-display_name: Cylinder
+title: Cylinder
 order: 2
 ---
 ## Navigation

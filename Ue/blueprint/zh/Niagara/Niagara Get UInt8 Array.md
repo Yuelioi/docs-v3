@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get UInt8 Array
+title: Niagara Get UInt8 Array
 order: 47
 ---
 ## Navigation

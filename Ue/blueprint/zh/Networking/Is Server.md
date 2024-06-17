@@ -1,5 +1,5 @@
 ---
-display_name: Is Server
+title: Is Server
 order: 8
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Default (String)
+title: Get Default (String)
 order: 26
 ---
 ## Navigation

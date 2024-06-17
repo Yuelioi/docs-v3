@@ -1,5 +1,5 @@
 ---
-display_name: Set Int Input
+title: Set Int Input
 order: 25
 ---
 ## Navigation

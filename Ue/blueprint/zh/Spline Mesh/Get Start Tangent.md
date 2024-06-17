@@ -1,5 +1,5 @@
 ---
-display_name: Get Start Tangent
+title: Get Start Tangent
 order: 14
 ---
 ## Navigation

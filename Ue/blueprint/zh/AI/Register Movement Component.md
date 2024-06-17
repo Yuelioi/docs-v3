@@ -1,5 +1,5 @@
 ---
-display_name: Register Movement Component
+title: Register Movement Component
 order: 26
 ---
 ## Navigation

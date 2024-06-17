@@ -1,5 +1,5 @@
 ---
-display_name: Linear Color Red
+title: Linear Color Red
 order: 13
 ---
 ## Navigation

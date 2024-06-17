@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Move to Component Force
+title: Apply Root Motion Move to Component Force
 order: 4
 ---
 ## Navigation

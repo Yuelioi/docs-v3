@@ -1,5 +1,5 @@
 ---
-display_name: Set Max Value
+title: Set Max Value
 order: 23
 ---
 ## Navigation

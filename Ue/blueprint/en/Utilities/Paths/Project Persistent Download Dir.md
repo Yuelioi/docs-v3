@@ -1,5 +1,5 @@
 ---
-display_name: Project Persistent Download Dir
+title: Project Persistent Download Dir
 order: 73
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: metaimport
+title: metaimport
 order: 1
 ---
 `int  metaimport(int handle, string attrib, vector P, <type>&value)`

@@ -1,5 +1,5 @@
 ---
-display_name: Evaluate Curve Table Row
+title: Evaluate Curve Table Row
 order: 2
 ---
 ## Navigation

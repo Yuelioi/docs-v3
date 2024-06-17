@@ -1,5 +1,5 @@
 ---
-display_name: Run Assets Through Filter (Message)
+title: Run Assets Through Filter (Message)
 order: 40
 ---
 ## Navigation

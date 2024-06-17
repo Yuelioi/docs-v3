@@ -1,5 +1,5 @@
 ---
-display_name: Music Clock Connected Event
+title: Music Clock Connected Event
 order: 39
 ---
 ## Navigation

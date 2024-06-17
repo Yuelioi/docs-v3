@@ -1,5 +1,5 @@
 ---
-display_name: On Duplicate Actors Begin
+title: On Duplicate Actors Begin
 order: 35
 ---
 ## Navigation

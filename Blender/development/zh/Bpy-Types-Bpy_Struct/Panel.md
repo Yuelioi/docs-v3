@@ -1,5 +1,5 @@
 ---
-display_name: Panel 面板
+title: Panel 面板
 order: 9
 ---
 

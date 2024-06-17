@@ -1,5 +1,5 @@
 ---
-display_name: Is Specific Live Link Subject Enabled
+title: Is Specific Live Link Subject Enabled
 order: 36
 ---
 ## Navigation

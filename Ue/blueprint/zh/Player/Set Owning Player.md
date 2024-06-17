@@ -1,5 +1,5 @@
 ---
-display_name: Set Owning Player
+title: Set Owning Player
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Player Name
+title: Get Player Name
 order: 17
 ---
 ## Navigation

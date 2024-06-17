@@ -1,5 +1,5 @@
 ---
-display_name: Get Tile Map Color
+title: Get Tile Map Color
 order: 16
 ---
 ## Navigation

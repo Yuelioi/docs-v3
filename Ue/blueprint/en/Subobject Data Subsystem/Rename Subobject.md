@@ -1,5 +1,5 @@
 ---
-display_name: Rename Subobject
+title: Rename Subobject
 order: 21
 ---
 ## Navigation

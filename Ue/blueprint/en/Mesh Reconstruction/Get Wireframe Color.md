@@ -1,5 +1,5 @@
 ---
-display_name: Get Wireframe Color
+title: Get Wireframe Color
 order: 7
 ---
 ## Navigation

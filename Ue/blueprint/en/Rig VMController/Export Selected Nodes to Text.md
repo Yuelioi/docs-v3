@@ -1,5 +1,5 @@
 ---
-display_name: Export Selected Nodes to Text
+title: Export Selected Nodes to Text
 order: 49
 ---
 ## Navigation

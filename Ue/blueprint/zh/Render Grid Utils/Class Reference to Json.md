@@ -1,5 +1,5 @@
 ---
-display_name: Class Reference to Json
+title: Class Reference to Json
 order: 3
 ---
 ## Navigation

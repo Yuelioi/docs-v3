@@ -1,5 +1,5 @@
 ---
-display_name: Get Mesh Per Vertex Colors
+title: Get Mesh Per Vertex Colors
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Candidate Object Data
+title: Get Candidate Object Data
 order: 2
 ---
 ## Navigation

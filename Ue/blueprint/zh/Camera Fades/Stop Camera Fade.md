@@ -1,5 +1,5 @@
 ---
-display_name: Stop Camera Fade
+title: Stop Camera Fade
 order: 3
 ---
 ## Navigation

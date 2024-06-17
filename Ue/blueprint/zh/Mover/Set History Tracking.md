@@ -1,5 +1,5 @@
 ---
-display_name: Set History Tracking
+title: Set History Tracking
 order: 28
 ---
 ## Navigation

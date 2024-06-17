@@ -1,5 +1,5 @@
 ---
-display_name: attrib
+title: attrib
 order: 7
 ---
 `<type> attrib(<geometry>geometry, string attribclass, string name, int elemnum)`

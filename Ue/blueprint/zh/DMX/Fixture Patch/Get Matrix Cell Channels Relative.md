@@ -1,5 +1,5 @@
 ---
-display_name: Get Matrix Cell Channels Relative
+title: Get Matrix Cell Channels Relative
 order: 17
 ---
 ## Navigation

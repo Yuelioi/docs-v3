@@ -1,5 +1,5 @@
 ---
-display_name: Detect Faces
+title: Detect Faces
 order: 1
 ---
 ## Navigation

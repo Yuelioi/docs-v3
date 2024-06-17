@@ -1,5 +1,5 @@
 ---
-display_name: Set Groom Asset
+title: Set Groom Asset
 order: 7
 ---
 ## Navigation

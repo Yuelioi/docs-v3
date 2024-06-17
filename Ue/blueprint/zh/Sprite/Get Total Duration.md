@@ -1,5 +1,5 @@
 ---
-display_name: Get Total Duration
+title: Get Total Duration
 order: 21
 ---
 ## Navigation

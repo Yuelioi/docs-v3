@@ -1,5 +1,5 @@
 ---
-display_name: Pause Current Level Sequence
+title: Pause Current Level Sequence
 order: 10
 ---
 ## Navigation

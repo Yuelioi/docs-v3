@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstance_getbbox_min
+title: usd_pointinstance_getbbox_min
 order: 101
 ---
 | Since | 18.0 |

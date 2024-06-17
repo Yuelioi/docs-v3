@@ -1,5 +1,5 @@
 ---
-display_name: Specify Proportion Along Ray Observation
+title: Specify Proportion Along Ray Observation
 order: 319
 ---
 ## Navigation

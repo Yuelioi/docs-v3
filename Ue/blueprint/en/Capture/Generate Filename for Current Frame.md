@@ -1,5 +1,5 @@
 ---
-display_name: Generate Filename for Current Frame
+title: Generate Filename for Current Frame
 order: 2
 ---
 ## Navigation

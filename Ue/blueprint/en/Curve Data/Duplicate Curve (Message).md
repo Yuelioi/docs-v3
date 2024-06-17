@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Curve (Message)
+title: Duplicate Curve (Message)
 order: 3
 ---
 ## Navigation

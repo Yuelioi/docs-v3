@@ -1,5 +1,5 @@
 ---
-display_name: Get Particle Module Sub UVProps
+title: Get Particle Module Sub UVProps
 order: 98
 ---
 ## Navigation

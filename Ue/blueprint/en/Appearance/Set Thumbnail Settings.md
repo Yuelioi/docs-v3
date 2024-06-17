@@ -1,5 +1,5 @@
 ---
-display_name: Set Thumbnail Settings
+title: Set Thumbnail Settings
 order: 90
 ---
 ## Navigation

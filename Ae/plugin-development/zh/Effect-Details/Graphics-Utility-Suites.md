@@ -1,5 +1,5 @@
 ---
-display_name: Graphics-Utility-Suites
+title: Graphics-Utility-Suites
 order: 9
 ---
 

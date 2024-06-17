@@ -1,5 +1,5 @@
 ---
-display_name: sample_geometry
+title: sample_geometry
 order: 17
 ---
 | On this page | * [Area Distribution](#area-distribution) * [Parametric Distribution](#parametric-distribution) * [Solid Angle Distribution](#solid-angle-distribution) * [Details](#details)   + [Light inclusion/exclusion options](#light-inclusion-exclusion-options)  + [Ray options](#ray-options)  + [Ray sending options](#ray-sending-options)  + [Sending information to the surface’s shader](#sending-information-to-the-surface-s-shader)  + [Importing information from the ray](#importing-information-from-the-ray)  + [Sample filtering options](#sample-filtering-options)  + [Pipeline options](#pipeline-options) * [Examples](#examples) |

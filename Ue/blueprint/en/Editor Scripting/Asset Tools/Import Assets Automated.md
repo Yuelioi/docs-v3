@@ -1,5 +1,5 @@
 ---
-display_name: Import Assets Automated
+title: Import Assets Automated
 order: 30
 ---
 ## Navigation

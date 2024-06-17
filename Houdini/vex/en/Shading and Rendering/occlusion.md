@@ -1,5 +1,5 @@
 ---
-display_name: occlusion
+title: occlusion
 order: 56
 ---
 | On this page | * [Sample adaptation options](#sample-adaptation-options) * [Ray options](#ray-options) |

@@ -1,5 +1,5 @@
 ---
-display_name: Set Capsule Radius
+title: Set Capsule Radius
 order: 13
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Open Editor for Assets
+title: Open Editor for Assets
 order: 35
 ---
 ## Navigation

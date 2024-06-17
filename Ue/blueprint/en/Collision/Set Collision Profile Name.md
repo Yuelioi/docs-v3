@@ -1,5 +1,5 @@
 ---
-display_name: Set Collision Profile Name
+title: Set Collision Profile Name
 order: 70
 ---
 ## Navigation

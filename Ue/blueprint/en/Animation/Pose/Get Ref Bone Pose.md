@@ -1,5 +1,5 @@
 ---
-display_name: Get Ref Bone Pose
+title: Get Ref Bone Pose
 order: 8
 ---
 ## Navigation

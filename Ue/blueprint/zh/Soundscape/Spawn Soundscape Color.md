@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Soundscape Color
+title: Spawn Soundscape Color
 order: 11
 ---
 ## Navigation

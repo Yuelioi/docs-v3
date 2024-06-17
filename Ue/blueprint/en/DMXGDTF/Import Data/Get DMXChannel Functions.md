@@ -1,5 +1,5 @@
 ---
-display_name: Get DMXChannel Functions
+title: Get DMXChannel Functions
 order: 1
 ---
 ## Navigation

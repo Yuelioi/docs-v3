@@ -1,5 +1,5 @@
 ---
-display_name: Reset Pose to Initial
+title: Reset Pose to Initial
 order: 115
 ---
 ## Navigation

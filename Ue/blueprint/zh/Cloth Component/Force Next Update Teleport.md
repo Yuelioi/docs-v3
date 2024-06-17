@@ -1,5 +1,5 @@
 ---
-display_name: Force Next Update Teleport
+title: Force Next Update Teleport
 order: 2
 ---
 ## Navigation

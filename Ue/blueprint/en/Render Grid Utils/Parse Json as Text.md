@@ -1,5 +1,5 @@
 ---
-display_name: Parse Json as Text
+title: Parse Json as Text
 order: 24
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Use Temperature
+title: Get Use Temperature
 order: 71
 ---
 ## Navigation

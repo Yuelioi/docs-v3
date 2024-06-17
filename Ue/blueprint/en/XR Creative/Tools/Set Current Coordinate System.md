@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Coordinate System
+title: Set Current Coordinate System
 order: 12
 ---
 ## Navigation

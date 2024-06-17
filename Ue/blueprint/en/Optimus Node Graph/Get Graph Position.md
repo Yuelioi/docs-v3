@@ -1,5 +1,5 @@
 ---
-display_name: Get Graph Position
+title: Get Graph Position
 order: 23
 ---
 ## Navigation

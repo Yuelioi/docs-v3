@@ -1,5 +1,5 @@
 ---
-display_name: Niagara Get Color Array Value
+title: Niagara Get Color Array Value
 order: 34
 ---
 ## Navigation

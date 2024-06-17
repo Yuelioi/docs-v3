@@ -1,5 +1,5 @@
 ---
-display_name: Get Keys By Index (Enum)
+title: Get Keys By Index (Enum)
 order: 40
 ---
 ## Navigation

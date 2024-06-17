@@ -1,5 +1,5 @@
 ---
-display_name: FrameRate To Interval
+title: FrameRate To Interval
 order: 4
 ---
 ## Navigation

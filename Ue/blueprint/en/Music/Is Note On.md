@@ -1,5 +1,5 @@
 ---
-display_name: Is Note On
+title: Is Note On
 order: 5
 ---
 ## Navigation

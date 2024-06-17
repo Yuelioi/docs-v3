@@ -1,5 +1,5 @@
 ---
-display_name: Set Projection Params
+title: Set Projection Params
 order: 59
 ---
 ## Navigation

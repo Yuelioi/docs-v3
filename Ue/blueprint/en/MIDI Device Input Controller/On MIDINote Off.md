@@ -1,5 +1,5 @@
 ---
-display_name: On MIDINote Off
+title: On MIDINote Off
 order: 4
 ---
 ## Navigation

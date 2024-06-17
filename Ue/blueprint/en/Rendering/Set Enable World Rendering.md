@@ -1,5 +1,5 @@
 ---
-display_name: Set Enable World Rendering
+title: Set Enable World Rendering
 order: 29
 ---
 ## Navigation

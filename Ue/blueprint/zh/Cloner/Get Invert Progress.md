@@ -1,5 +1,5 @@
 ---
-display_name: Get Invert Progress
+title: Get Invert Progress
 order: 16
 ---
 ## Navigation

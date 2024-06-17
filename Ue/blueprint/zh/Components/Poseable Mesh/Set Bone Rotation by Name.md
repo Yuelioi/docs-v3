@@ -1,5 +1,5 @@
 ---
-display_name: Set Bone Rotation by Name
+title: Set Bone Rotation by Name
 order: 8
 ---
 ## Navigation

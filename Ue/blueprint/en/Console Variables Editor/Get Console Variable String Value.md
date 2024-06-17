@@ -1,5 +1,5 @@
 ---
-display_name: Get Console Variable String Value
+title: Get Console Variable String Value
 order: 4
 ---
 ## Navigation

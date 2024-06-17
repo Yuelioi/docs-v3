@@ -1,5 +1,5 @@
 ---
-display_name: Get Linear Position Drive
+title: Get Linear Position Drive
 order: 23
 ---
 ## Navigation

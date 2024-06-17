@@ -1,5 +1,5 @@
 ---
-display_name: Report Perception Event
+title: Report Perception Event
 order: 18
 ---
 ## Navigation

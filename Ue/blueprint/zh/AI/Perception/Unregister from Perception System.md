@@ -1,5 +1,5 @@
 ---
-display_name: Unregister from Perception System
+title: Unregister from Perception System
 order: 24
 ---
 ## Navigation

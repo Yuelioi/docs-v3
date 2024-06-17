@@ -1,5 +1,5 @@
 ---
-display_name: mx_worley
+title: mx_worley
 order: 22
 ---
 `float|vector|vector2 mx_worley(vector2 pos, float jitter, int metric)`

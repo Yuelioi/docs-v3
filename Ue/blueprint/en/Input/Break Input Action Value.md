@@ -1,5 +1,5 @@
 ---
-display_name: Break Input Action Value
+title: Break Input Action Value
 order: 5
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Activate Previews
+title: Activate Previews
 order: 1
 ---
 ## Navigation

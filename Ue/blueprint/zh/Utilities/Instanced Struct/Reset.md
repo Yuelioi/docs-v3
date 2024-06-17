@@ -1,5 +1,5 @@
 ---
-display_name: Reset
+title: Reset
 order: 5
 ---
 ## Navigation

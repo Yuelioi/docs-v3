@@ -1,5 +1,5 @@
 ---
-display_name: Connect Connector to Element
+title: Connect Connector to Element
 order: 6
 ---
 ## Navigation

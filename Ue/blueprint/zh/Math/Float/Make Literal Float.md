@@ -1,5 +1,5 @@
 ---
-display_name: Make Literal Float
+title: Make Literal Float
 order: 20
 ---
 ## Navigation

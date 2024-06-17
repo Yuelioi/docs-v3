@@ -1,5 +1,5 @@
 ---
-display_name: Get Environment Capture Probe Type
+title: Get Environment Capture Probe Type
 order: 8
 ---
 ## Navigation

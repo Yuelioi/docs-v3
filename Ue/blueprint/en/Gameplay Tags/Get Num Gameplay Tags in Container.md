@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Gameplay Tags in Container
+title: Get Num Gameplay Tags in Container
 order: 11
 ---
 ## Navigation

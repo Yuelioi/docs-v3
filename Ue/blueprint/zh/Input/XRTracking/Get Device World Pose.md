@@ -1,5 +1,5 @@
 ---
-display_name: Get Device World Pose
+title: Get Device World Pose
 order: 8
 ---
 ## Navigation

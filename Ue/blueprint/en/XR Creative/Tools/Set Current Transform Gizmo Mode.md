@@ -1,5 +1,5 @@
 ---
-display_name: Set Current Transform Gizmo Mode
+title: Set Current Transform Gizmo Mode
 order: 13
 ---
 ## Navigation

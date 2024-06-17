@@ -1,5 +1,5 @@
 ---
-display_name: Object Array to Audio Parameter
+title: Object Array to Audio Parameter
 order: 9
 ---
 ## Navigation

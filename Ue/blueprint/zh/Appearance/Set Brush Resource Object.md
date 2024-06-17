@@ -1,5 +1,5 @@
 ---
-display_name: Set Brush Resource Object
+title: Set Brush Resource Object
 order: 22
 ---
 ## Navigation

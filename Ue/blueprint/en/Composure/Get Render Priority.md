@@ -1,5 +1,5 @@
 ---
-display_name: Get Render Priority
+title: Get Render Priority
 order: 13
 ---
 ## Navigation

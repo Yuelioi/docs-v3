@@ -1,5 +1,5 @@
 ---
-display_name: Get Author
+title: Get Author
 order: 1
 ---
 ## Navigation

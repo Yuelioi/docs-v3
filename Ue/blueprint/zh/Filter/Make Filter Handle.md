@@ -1,5 +1,5 @@
 ---
-display_name: Make Filter Handle
+title: Make Filter Handle
 order: 2
 ---
 ## Navigation

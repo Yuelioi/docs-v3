@@ -1,5 +1,5 @@
 ---
-display_name: curlnoise
+title: curlnoise
 order: 4
 ---
 `vector  curlnoise(vector xyz)`

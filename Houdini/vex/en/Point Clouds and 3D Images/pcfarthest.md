@@ -1,5 +1,5 @@
 ---
-display_name: pcfarthest
+title: pcfarthest
 order: 9
 ---
 `float  pcfarthest(int handle)`

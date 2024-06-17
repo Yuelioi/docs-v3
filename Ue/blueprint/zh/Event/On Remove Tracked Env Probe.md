@@ -1,5 +1,5 @@
 ---
-display_name: On Remove Tracked Env Probe
+title: On Remove Tracked Env Probe
 order: 8
 ---
 ## Navigation

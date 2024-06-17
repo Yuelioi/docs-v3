@@ -1,5 +1,5 @@
 ---
-display_name: Collapse All
+title: Collapse All
 order: 1
 ---
 ## Navigation

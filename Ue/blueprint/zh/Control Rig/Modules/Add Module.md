@@ -1,5 +1,5 @@
 ---
-display_name: Add Module
+title: Add Module
 order: 1
 ---
 ## Navigation

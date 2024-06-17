@@ -1,5 +1,5 @@
 ---
-display_name: Set Gender
+title: Set Gender
 order: 24
 ---
 ## Navigation

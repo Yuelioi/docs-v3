@@ -1,5 +1,5 @@
 ---
-display_name: Enable Input
+title: Enable Input
 order: 7
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Int Value to Bytes
+title: Int Value to Bytes
 order: 57
 ---
 ## Navigation

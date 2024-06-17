@@ -1,5 +1,5 @@
 ---
-display_name: Is Over Focusable Widget
+title: Is Over Focusable Widget
 order: 5
 ---
 ## Navigation

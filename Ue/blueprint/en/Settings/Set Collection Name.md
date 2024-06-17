@@ -1,5 +1,5 @@
 ---
-display_name: Set Collection Name
+title: Set Collection Name
 order: 110
 ---
 ## Navigation

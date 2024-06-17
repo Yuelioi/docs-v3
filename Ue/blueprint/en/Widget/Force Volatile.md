@@ -1,5 +1,5 @@
 ---
-display_name: Force Volatile
+title: Force Volatile
 order: 11
 ---
 ## Navigation

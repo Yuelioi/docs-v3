@@ -1,5 +1,5 @@
 ---
-display_name: Get Current Focus Distance
+title: Get Current Focus Distance
 order: 14
 ---
 ## Navigation

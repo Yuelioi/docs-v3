@@ -1,5 +1,5 @@
 ---
-display_name: Set Lighting Channels
+title: Set Lighting Channels
 order: 6
 ---
 ## Navigation

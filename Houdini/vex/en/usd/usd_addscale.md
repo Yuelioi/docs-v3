@@ -1,5 +1,5 @@
 ---
-display_name: usd_addscale
+title: usd_addscale
 order: 10
 ---
 | Since | 18.0 |

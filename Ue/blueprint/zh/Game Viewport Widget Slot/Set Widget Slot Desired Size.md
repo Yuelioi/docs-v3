@@ -1,5 +1,5 @@
 ---
-display_name: Set Widget Slot Desired Size
+title: Set Widget Slot Desired Size
 order: 1
 ---
 ## Navigation

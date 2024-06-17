@@ -1,5 +1,5 @@
 ---
-display_name: On Console Message
+title: On Console Message
 order: 2
 ---
 ## Navigation

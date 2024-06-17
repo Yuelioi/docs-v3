@@ -1,5 +1,5 @@
 ---
-display_name: Custom Tick
+title: Custom Tick
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: CC 散射
+title: CC 散射
 order: 12
 ---
 

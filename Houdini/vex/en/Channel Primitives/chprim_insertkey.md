@@ -1,5 +1,5 @@
 ---
-display_name: chprim_insertkey
+title: chprim_insertkey
 order: 5
 ---
 `int  chprim_insertkey(int geohandle, int prim, float time)`

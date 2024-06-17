@@ -1,5 +1,5 @@
 ---
-display_name: Merge Point Attributes
+title: Merge Point Attributes
 order: 68
 ---
 ## Navigation

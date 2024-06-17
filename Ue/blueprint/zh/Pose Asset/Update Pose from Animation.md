@@ -1,5 +1,5 @@
 ---
-display_name: Update Pose from Animation
+title: Update Pose from Animation
 order: 5
 ---
 ## Navigation

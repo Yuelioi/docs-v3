@@ -1,5 +1,5 @@
 ---
-display_name: 广播颜色
+title: 广播颜色
 order: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Dolly Track from Points Smooth
+title: Spawn Dolly Track from Points Smooth
 order: 22
 ---
 ## Navigation

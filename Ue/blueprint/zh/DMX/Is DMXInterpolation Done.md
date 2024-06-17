@@ -1,5 +1,5 @@
 ---
-display_name: Is DMXInterpolation Done
+title: Is DMXInterpolation Done
 order: 60
 ---
 ## Navigation

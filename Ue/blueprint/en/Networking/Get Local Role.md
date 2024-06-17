@@ -1,5 +1,5 @@
 ---
-display_name: Get Local Role
+title: Get Local Role
 order: 4
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: mdensity
+title: mdensity
 order: 2
 ---
 | Context(s) | [image3d](../contexts/image3d.html) |

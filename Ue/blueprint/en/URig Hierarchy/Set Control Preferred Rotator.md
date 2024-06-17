@@ -1,5 +1,5 @@
 ---
-display_name: Set Control Preferred Rotator
+title: Set Control Preferred Rotator
 order: 132
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Reset Allowed Anim Curve Evaluation
+title: Reset Allowed Anim Curve Evaluation
 order: 18
 ---
 ## Navigation

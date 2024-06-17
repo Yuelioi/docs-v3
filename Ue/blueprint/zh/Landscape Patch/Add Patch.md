@@ -1,5 +1,5 @@
 ---
-display_name: Add Patch
+title: Add Patch
 order: 1
 ---
 ## Navigation

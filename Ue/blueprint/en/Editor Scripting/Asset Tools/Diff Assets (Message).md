@@ -1,5 +1,5 @@
 ---
-display_name: Diff Assets (Message)
+title: Diff Assets (Message)
 order: 12
 ---
 ## Navigation

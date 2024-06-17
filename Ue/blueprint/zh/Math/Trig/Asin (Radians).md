@@ -1,5 +1,5 @@
 ---
-display_name: Asin (Radians)
+title: Asin (Radians)
 order: 4
 ---
 ## Navigation

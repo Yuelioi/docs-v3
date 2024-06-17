@@ -1,5 +1,5 @@
 ---
-display_name: Duplicate Asset with Dialog and Title (Message)
+title: Duplicate Asset with Dialog and Title (Message)
 order: 16
 ---
 ## Navigation

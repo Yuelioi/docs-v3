@@ -1,5 +1,5 @@
 ---
-display_name: Prime Sound Cue for Playback
+title: Prime Sound Cue for Playback
 order: 1
 ---
 ## Navigation

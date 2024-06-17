@@ -1,5 +1,5 @@
 ---
-display_name: Rename Composure Element
+title: Rename Composure Element
 order: 7
 ---
 ## Navigation

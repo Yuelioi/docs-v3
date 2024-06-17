@@ -1,5 +1,5 @@
 ---
-display_name: Acquire Niagara GPURay Traced Collision Group
+title: Acquire Niagara GPURay Traced Collision Group
 order: 1
 ---
 ## Navigation

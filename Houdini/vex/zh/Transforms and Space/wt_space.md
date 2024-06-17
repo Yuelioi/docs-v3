@@ -1,5 +1,5 @@
 ---
-display_name: wt_space
+title: wt_space
 order: 41
 ---
 `matrix  wt_space()`

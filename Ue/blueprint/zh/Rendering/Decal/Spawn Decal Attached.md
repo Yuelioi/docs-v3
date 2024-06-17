@@ -1,5 +1,5 @@
 ---
-display_name: Spawn Decal Attached
+title: Spawn Decal Attached
 order: 1
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: usd_variantselection
+title: usd_variantselection
 order: 152
 ---
 | Since | 17.5 |

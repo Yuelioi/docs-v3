@@ -1,5 +1,5 @@
 ---
-display_name: On Throttle Engaged
+title: On Throttle Engaged
 order: 2
 ---
 ## Navigation

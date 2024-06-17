@@ -1,5 +1,5 @@
 ---
-display_name: Has Reached Init State (Message)
+title: Has Reached Init State (Message)
 order: 5
 ---
 ## Navigation

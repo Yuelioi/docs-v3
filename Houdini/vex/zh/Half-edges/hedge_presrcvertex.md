@@ -1,5 +1,5 @@
 ---
-display_name: hedge_presrcvertex
+title: hedge_presrcvertex
 order: 12
 ---
 `int  hedge_presrcvertex(<geometry>geometry, int hedge)`

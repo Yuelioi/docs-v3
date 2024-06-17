@@ -1,5 +1,5 @@
 ---
-display_name: Distance (Vector)
+title: Distance (Vector)
 order: 9
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get All Bone Names
+title: Get All Bone Names
 order: 1
 ---
 ## Navigation

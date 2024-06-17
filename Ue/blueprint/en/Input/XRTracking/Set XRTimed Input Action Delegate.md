@@ -1,5 +1,5 @@
 ---
-display_name: Set XRTimed Input Action Delegate
+title: Set XRTimed Input Action Delegate
 order: 18
 ---
 ## Navigation

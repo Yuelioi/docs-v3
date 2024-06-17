@@ -1,5 +1,5 @@
 ---
-display_name: chinput
+title: chinput
 order: 8
 ---
 | Context(s) | [chop](../contexts/chop.html) |

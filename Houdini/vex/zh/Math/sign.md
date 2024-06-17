@@ -1,5 +1,5 @@
 ---
-display_name: sign
+title: sign
 order: 71
 ---
 `int  sign(int n)`

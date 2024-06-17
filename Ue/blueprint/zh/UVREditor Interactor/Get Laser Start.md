@@ -1,5 +1,5 @@
 ---
-display_name: Get Laser Start
+title: Get Laser Start
 order: 5
 ---
 ## Navigation

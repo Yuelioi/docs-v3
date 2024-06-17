@@ -1,5 +1,5 @@
 ---
-display_name: Get Inclusive Union Observation to Arrays
+title: Get Inclusive Union Observation to Arrays
 order: 80
 ---
 ## Navigation

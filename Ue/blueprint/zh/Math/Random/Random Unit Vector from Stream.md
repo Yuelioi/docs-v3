@@ -1,5 +1,5 @@
 ---
-display_name: Random Unit Vector from Stream
+title: Random Unit Vector from Stream
 order: 33
 ---
 ## Navigation

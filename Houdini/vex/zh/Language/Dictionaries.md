@@ -1,5 +1,5 @@
 ---
-display_name: Dictionaries
+title: Dictionaries
 order: 2
 ---
 | On this page | * [Overview](#overview) * [Dictionary Literals](#dictionary-literals) * [Declaring dictionary types](#declaring-dictionary-types) * [Dictionary values](#dictionary-values) * [Accessing and setting dictionary values](#accessing-and-setting-dictionary-values) * [Working with dictionaries](#working-with-dictionaries) |

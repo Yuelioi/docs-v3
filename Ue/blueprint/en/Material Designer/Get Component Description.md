@@ -1,5 +1,5 @@
 ---
-display_name: Get Component Description
+title: Get Component Description
 order: 56
 ---
 ## Navigation

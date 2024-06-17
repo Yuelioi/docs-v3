@@ -1,5 +1,5 @@
 ---
-display_name: Apply Root Motion Move to Force
+title: Apply Root Motion Move to Force
 order: 5
 ---
 ## Navigation

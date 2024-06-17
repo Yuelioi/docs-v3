@@ -1,5 +1,5 @@
 ---
-display_name: Start Camera Fade
+title: Start Camera Fade
 order: 2
 ---
 ## Navigation

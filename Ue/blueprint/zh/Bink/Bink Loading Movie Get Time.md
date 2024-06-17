@@ -1,5 +1,5 @@
 ---
-display_name: Bink Loading Movie Get Time
+title: Bink Loading Movie Get Time
 order: 3
 ---
 ## Navigation

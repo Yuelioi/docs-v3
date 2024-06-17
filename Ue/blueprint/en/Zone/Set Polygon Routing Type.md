@@ -1,5 +1,5 @@
 ---
-display_name: Set Polygon Routing Type
+title: Set Polygon Routing Type
 order: 4
 ---
 ## Navigation

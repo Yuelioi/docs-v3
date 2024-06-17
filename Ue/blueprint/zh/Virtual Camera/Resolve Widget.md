@@ -1,5 +1,5 @@
 ---
-display_name: Resolve Widget
+title: Resolve Widget
 order: 21
 ---
 ## Navigation

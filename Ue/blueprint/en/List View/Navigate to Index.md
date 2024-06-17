@@ -1,5 +1,5 @@
 ---
-display_name: Navigate to Index
+title: Navigate to Index
 order: 17
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Author
+title: Set Author
 order: 4
 ---
 ## Navigation

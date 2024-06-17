@@ -1,5 +1,5 @@
 ---
-display_name: Create Meta Sound Generator Handle
+title: Create Meta Sound Generator Handle
 order: 1
 ---
 ## Navigation

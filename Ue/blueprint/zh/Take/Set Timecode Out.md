@@ -1,5 +1,5 @@
 ---
-display_name: Set Timecode Out
+title: Set Timecode Out
 order: 26
 ---
 ## Navigation

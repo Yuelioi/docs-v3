@@ -1,5 +1,5 @@
 ---
-display_name: Release AssetPack Location
+title: Release AssetPack Location
 order: 10
 ---
 ## Navigation

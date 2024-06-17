@@ -1,5 +1,5 @@
 ---
-display_name: Get End Scale
+title: Get End Scale
 order: 6
 ---
 ## Navigation

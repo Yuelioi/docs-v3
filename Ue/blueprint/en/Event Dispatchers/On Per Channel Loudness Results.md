@@ -1,5 +1,5 @@
 ---
-display_name: On Per Channel Loudness Results
+title: On Per Channel Loudness Results
 order: 131
 ---
 ## Navigation

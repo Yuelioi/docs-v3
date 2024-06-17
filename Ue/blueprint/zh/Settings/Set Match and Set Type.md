@@ -1,5 +1,5 @@
 ---
-display_name: Set Match and Set Type
+title: Set Match and Set Type
 order: 121
 ---
 ## Navigation

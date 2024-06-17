@@ -1,5 +1,5 @@
 ---
-display_name: Get Tangent Weight Mode
+title: Get Tangent Weight Mode
 order: 55
 ---
 ## Navigation

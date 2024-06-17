@@ -1,5 +1,5 @@
 ---
-display_name: Get Override Render Material
+title: Get Override Render Material
 order: 8
 ---
 ## Navigation

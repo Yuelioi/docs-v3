@@ -1,5 +1,5 @@
 ---
-display_name: Set MIC Scalar Parameter Editor Only
+title: Set MIC Scalar Parameter Editor Only
 order: 52
 ---
 ## Navigation

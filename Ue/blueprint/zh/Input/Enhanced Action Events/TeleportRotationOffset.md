@@ -1,5 +1,5 @@
 ---
-display_name: TeleportRotationOffset
+title: TeleportRotationOffset
 order: 93
 ---
 ## Navigation

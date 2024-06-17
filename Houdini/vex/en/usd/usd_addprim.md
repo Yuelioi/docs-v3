@@ -1,5 +1,5 @@
 ---
-display_name: usd_addprim
+title: usd_addprim
 order: 6
 ---
 | Since | 18.0 |

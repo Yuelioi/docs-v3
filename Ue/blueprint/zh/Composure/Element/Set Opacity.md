@@ -1,5 +1,5 @@
 ---
-display_name: Set Opacity
+title: Set Opacity
 order: 7
 ---
 ## Navigation

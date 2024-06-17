@@ -1,5 +1,5 @@
 ---
-display_name: Set Linear Color Array Metadata
+title: Set Linear Color Array Metadata
 order: 149
 ---
 ## Navigation

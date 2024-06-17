@@ -1,5 +1,5 @@
 ---
-display_name: Make Valid File Name
+title: Make Valid File Name
 order: 63
 ---
 ## Navigation

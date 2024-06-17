@@ -1,5 +1,5 @@
 ---
-display_name: Update Value Of Continuous Input Injection for Action (Message)
+title: Update Value Of Continuous Input Injection for Action (Message)
 order: 10
 ---
 ## Navigation

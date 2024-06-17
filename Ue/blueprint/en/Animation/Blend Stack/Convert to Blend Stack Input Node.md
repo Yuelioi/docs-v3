@@ -1,5 +1,5 @@
 ---
-display_name: Convert to Blend Stack Input Node
+title: Convert to Blend Stack Input Node
 order: 2
 ---
 ## Navigation

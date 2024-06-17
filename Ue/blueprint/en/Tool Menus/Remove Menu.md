@@ -1,5 +1,5 @@
 ---
-display_name: Remove Menu
+title: Remove Menu
 order: 33
 ---
 ## Navigation

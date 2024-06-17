@@ -1,5 +1,5 @@
 ---
-display_name: Was Component Recently Rendered
+title: Was Component Recently Rendered
 order: 9
 ---
 ## Navigation

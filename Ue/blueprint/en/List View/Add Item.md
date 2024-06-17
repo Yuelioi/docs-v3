@@ -1,5 +1,5 @@
 ---
-display_name: Add Item
+title: Add Item
 order: 1
 ---
 ## Navigation

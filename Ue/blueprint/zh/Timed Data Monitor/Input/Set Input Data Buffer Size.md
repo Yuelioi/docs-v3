@@ -1,5 +1,5 @@
 ---
-display_name: Set Input Data Buffer Size
+title: Set Input Data Buffer Size
 order: 19
 ---
 ## Navigation

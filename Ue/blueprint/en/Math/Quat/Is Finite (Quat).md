@@ -1,5 +1,5 @@
 ---
-display_name: Is Finite (Quat)
+title: Is Finite (Quat)
 order: 13
 ---
 ## Navigation

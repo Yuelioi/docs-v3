@@ -1,5 +1,5 @@
 ---
-display_name: Max (Byte)
+title: Max (Byte)
 order: 3
 ---
 ## Navigation

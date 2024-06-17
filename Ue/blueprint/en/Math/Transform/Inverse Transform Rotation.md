@@ -1,5 +1,5 @@
 ---
-display_name: Inverse Transform Rotation
+title: Inverse Transform Rotation
 order: 6
 ---
 ## Navigation

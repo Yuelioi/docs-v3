@@ -1,5 +1,5 @@
 ---
-display_name: Set Vector Array Metadata
+title: Set Vector Array Metadata
 order: 167
 ---
 ## Navigation

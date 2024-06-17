@@ -1,5 +1,5 @@
 ---
-display_name: SetNumExtendedPolyGroupLayers
+title: SetNumExtendedPolyGroupLayers
 order: 14
 ---
 ## Navigation

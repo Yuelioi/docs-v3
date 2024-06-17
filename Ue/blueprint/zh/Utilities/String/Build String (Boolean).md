@@ -1,5 +1,5 @@
 ---
-display_name: Build String (Boolean)
+title: Build String (Boolean)
 order: 2
 ---
 ## Navigation

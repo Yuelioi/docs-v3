@@ -1,5 +1,5 @@
 ---
-display_name: Create Vertex Instance with ID
+title: Create Vertex Instance with ID
 order: 11
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: nametopoint
+title: nametopoint
 order: 31
 ---
 `int  nametopoint(<geometry>geometry, string name)`

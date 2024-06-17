@@ -1,5 +1,5 @@
 ---
-display_name: Get Enable Multi User CVar Sync
+title: Get Enable Multi User CVar Sync
 order: 6
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Set Image Component Debug Mode
+title: Set Image Component Debug Mode
 order: 4
 ---
 ## Navigation

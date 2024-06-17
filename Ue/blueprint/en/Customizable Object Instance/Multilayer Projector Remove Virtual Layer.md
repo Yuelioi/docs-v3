@@ -1,5 +1,5 @@
 ---
-display_name: Multilayer Projector Remove Virtual Layer
+title: Multilayer Projector Remove Virtual Layer
 order: 54
 ---
 ## Navigation

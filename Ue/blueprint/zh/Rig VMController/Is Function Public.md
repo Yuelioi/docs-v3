@@ -1,5 +1,5 @@
 ---
-display_name: Is Function Public
+title: Is Function Public
 order: 62
 ---
 ## Navigation

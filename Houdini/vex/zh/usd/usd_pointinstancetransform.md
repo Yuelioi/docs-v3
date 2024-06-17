@@ -1,5 +1,5 @@
 ---
-display_name: usd_pointinstancetransform
+title: usd_pointinstancetransform
 order: 104
 ---
 | Since | 18.0 |

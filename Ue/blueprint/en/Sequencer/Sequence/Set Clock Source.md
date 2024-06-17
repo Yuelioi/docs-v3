@@ -1,5 +1,5 @@
 ---
-display_name: Set Clock Source
+title: Set Clock Source
 order: 80
 ---
 ## Navigation

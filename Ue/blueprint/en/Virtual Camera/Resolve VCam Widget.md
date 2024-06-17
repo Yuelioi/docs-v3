@@ -1,5 +1,5 @@
 ---
-display_name: Resolve VCam Widget
+title: Resolve VCam Widget
 order: 20
 ---
 ## Navigation

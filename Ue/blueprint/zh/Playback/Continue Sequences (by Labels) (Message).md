@@ -1,5 +1,5 @@
 ---
-display_name: Continue Sequences (by Labels) (Message)
+title: Continue Sequences (by Labels) (Message)
 order: 3
 ---
 ## Navigation

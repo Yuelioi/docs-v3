@@ -1,5 +1,5 @@
 ---
-display_name: Get Num Channels Used
+title: Get Num Channels Used
 order: 7
 ---
 ## Navigation

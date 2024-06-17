@@ -1,5 +1,5 @@
 ---
-display_name: Get Pre Infinity Extrapolation
+title: Get Pre Infinity Extrapolation
 order: 53
 ---
 ## Navigation

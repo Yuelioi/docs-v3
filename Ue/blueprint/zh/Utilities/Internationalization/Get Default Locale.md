@@ -1,5 +1,5 @@
 ---
-display_name: Get Default Locale
+title: Get Default Locale
 order: 8
 ---
 ## Navigation

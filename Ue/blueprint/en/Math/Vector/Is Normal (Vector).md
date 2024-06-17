@@ -1,5 +1,5 @@
 ---
-display_name: Is Normal (Vector)
+title: Is Normal (Vector)
 order: 30
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Run Training
+title: Run Training
 order: 260
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Is Custom Kernel
+title: Is Custom Kernel
 order: 28
 ---
 ## Navigation

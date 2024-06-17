@@ -1,5 +1,5 @@
 ---
-display_name: Custom-ECW-UI-Over-A-Standard-Data-Type
+title: Custom-ECW-UI-Over-A-Standard-Data-Type
 order: 3
 ---
 

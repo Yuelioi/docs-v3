@@ -1,5 +1,5 @@
 ---
-display_name: Compatibility-Across-Multiple-Versions-
+title: Compatibility-Across-Multiple-Versions-
 order: 2
 ---
 

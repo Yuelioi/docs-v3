@@ -1,5 +1,5 @@
 ---
-display_name: Compute Controlled Ground Move
+title: Compute Controlled Ground Move
 order: 8
 ---
 ## Navigation

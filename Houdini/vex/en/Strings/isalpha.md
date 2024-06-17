@@ -1,5 +1,5 @@
 ---
-display_name: isalpha
+title: isalpha
 order: 14
 ---
 `int  isalpha(string str)`

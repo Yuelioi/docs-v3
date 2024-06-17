@@ -1,5 +1,5 @@
 ---
-display_name: Set Thumbnail from File
+title: Set Thumbnail from File
 order: 4
 ---
 ## Navigation

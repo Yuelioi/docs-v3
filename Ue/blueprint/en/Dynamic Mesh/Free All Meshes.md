@@ -1,5 +1,5 @@
 ---
-display_name: Free All Meshes
+title: Free All Meshes
 order: 5
 ---
 ## Navigation

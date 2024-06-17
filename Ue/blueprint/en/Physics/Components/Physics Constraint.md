@@ -1,5 +1,5 @@
 ---
-display_name: Physics Constraint
+title: Physics Constraint
 order: 1
 ---
 ## Navigation

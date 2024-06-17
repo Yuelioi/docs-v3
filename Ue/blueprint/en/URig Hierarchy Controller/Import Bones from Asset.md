@@ -1,5 +1,5 @@
 ---
-display_name: Import Bones from Asset
+title: Import Bones from Asset
 order: 17
 ---
 ## Navigation

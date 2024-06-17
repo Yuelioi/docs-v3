@@ -1,5 +1,5 @@
 ---
-display_name: Is Property Visible
+title: Is Property Visible
 order: 175
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Line Trace Tracked Objects 3D
+title: Line Trace Tracked Objects 3D
 order: 7
 ---
 ## Navigation

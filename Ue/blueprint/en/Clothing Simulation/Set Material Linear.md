@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Linear
+title: Set Material Linear
 order: 25
 ---
 ## Navigation

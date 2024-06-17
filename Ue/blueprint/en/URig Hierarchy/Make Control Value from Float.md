@@ -1,5 +1,5 @@
 ---
-display_name: Make Control Value from Float
+title: Make Control Value from Float
 order: 104
 ---
 ## Navigation

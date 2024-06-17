@@ -1,5 +1,5 @@
 ---
-display_name: Set Material Stage Expression Class
+title: Set Material Stage Expression Class
 order: 219
 ---
 ## Navigation

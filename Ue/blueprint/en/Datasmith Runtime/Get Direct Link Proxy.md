@@ -1,5 +1,5 @@
 ---
-display_name: Get Direct Link Proxy
+title: Get Direct Link Proxy
 order: 3
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Advance Simulation by Time
+title: Advance Simulation by Time
 order: 2
 ---
 ## Navigation

@@ -1,5 +1,5 @@
 ---
-display_name: Get Data From Collection
+title: Get Data From Collection
 order: 3
 ---
 ## Navigation

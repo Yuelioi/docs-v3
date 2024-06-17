@@ -1,5 +1,5 @@
 ---
-display_name: Was Nodal Offset Applied This Tick
+title: Was Nodal Offset Applied This Tick
 order: 29
 ---
 ## Navigation

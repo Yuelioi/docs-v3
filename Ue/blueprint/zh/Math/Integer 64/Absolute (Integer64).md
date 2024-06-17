@@ -1,5 +1,5 @@
 ---
-display_name: Absolute (Integer64)
+title: Absolute (Integer64)
 order: 2
 ---
 ## Navigation

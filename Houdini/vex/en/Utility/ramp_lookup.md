@@ -1,5 +1,5 @@
 ---
-display_name: ramp_lookup
+title: ramp_lookup
 order: 13
 ---
 | Since | 18.5 |

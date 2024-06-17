@@ -1,5 +1,5 @@
 ---
-display_name: On Item Expansion Changed
+title: On Item Expansion Changed
 order: 13
 ---
 ## Navigation

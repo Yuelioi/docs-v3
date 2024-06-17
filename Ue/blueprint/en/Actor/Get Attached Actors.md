@@ -1,5 +1,5 @@
 ---
-display_name: Get Attached Actors
+title: Get Attached Actors
 order: 16
 ---
 ## Navigation

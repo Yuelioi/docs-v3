@@ -1,5 +1,5 @@
 ---
-display_name: Line Of Sight To
+title: Line Of Sight To
 order: 1
 ---
 ## Navigation

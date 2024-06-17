@@ -1,5 +1,5 @@
 ---
-display_name: Set Vertex Instance UV
+title: Set Vertex Instance UV
 order: 94
 ---
 ## Navigation

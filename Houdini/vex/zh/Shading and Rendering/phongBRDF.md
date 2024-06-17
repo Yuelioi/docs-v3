@@ -1,5 +1,5 @@
 ---
-display_name: phongBRDF
+title: phongBRDF
 order: 58
 ---
 `float  phongBRDF(vector L, vector N, vector V, float rough)`
