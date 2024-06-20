@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Player Camera Manager.md",
+            "title": "Get Player Camera Manager.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Player Compositing Target/Get Player Camera Manager.md",
+            "url": "Ue/blueprint/zh/PlayerCompositingTarget/GetPlayerCameraManager.md"
+        },
+        {
+            "name": "Set Player Camera Manager.md",
+            "title": "Set Player Camera Manager.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Player Compositing Target/Set Player Camera Manager.md",
+            "url": "Ue/blueprint/zh/PlayerCompositingTarget/SetPlayerCameraManager.md"
+        },
+        {
+            "name": "Set Render Target.md",
+            "title": "Set Render Target.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Player Compositing Target/Set Render Target.md",
+            "url": "Ue/blueprint/zh/PlayerCompositingTarget/SetRenderTarget.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Get Bounding Box.md",
+            "title": "Get Bounding Box.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Get Bounding Box.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/GetBoundingBox.md"
+        },
+        {
+            "name": "Get Candidate Object Data.md",
+            "title": "Get Candidate Object Data.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Get Candidate Object Data.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/GetCandidateObjectData.md"
+        },
+        {
+            "name": "Get Detected Object.md",
+            "title": "Get Detected Object.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Get Detected Object.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/GetDetectedObject.md"
+        },
+        {
+            "name": "Get Friendly Name.md",
+            "title": "Get Friendly Name.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Get Friendly Name.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/GetFriendlyName.md"
+        },
+        {
+            "name": "Set Bounding Box.md",
+            "title": "Set Bounding Box.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Set Bounding Box.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/SetBoundingBox.md"
+        },
+        {
+            "name": "Set Candidate Object Data.md",
+            "title": "Set Candidate Object Data.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Set Candidate Object Data.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/SetCandidateObjectData.md"
+        },
+        {
+            "name": "Set Friendly Name.md",
+            "title": "Set Friendly Name.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Object Detection/Set Friendly Name.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/ObjectDetection/SetFriendlyName.md"
+        }
+    ],
+    "categorys": []
+}

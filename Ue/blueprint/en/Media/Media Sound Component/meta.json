@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Get Attenuation Settings To Apply.md",
+            "title": "Get Attenuation Settings To Apply.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Get Attenuation Settings To Apply.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/GetAttenuationSettingsToApply.md"
+        },
+        {
+            "name": "Get Media Player.md",
+            "title": "Get Media Player.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Get Media Player.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/GetMediaPlayer.md"
+        },
+        {
+            "name": "Set Enable Envelope Following.md",
+            "title": "Set Enable Envelope Following.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Set Enable Envelope Following.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/SetEnableEnvelopeFollowing.md"
+        },
+        {
+            "name": "Set Enable Spectral Analysis.md",
+            "title": "Set Enable Spectral Analysis.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Set Enable Spectral Analysis.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/SetEnableSpectralAnalysis.md"
+        },
+        {
+            "name": "Set Envelope Followingsettings.md",
+            "title": "Set Envelope Followingsettings.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Set Envelope Followingsettings.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/SetEnvelopeFollowingsettings.md"
+        },
+        {
+            "name": "Set Media Player.md",
+            "title": "Set Media Player.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Set Media Player.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/SetMediaPlayer.md"
+        },
+        {
+            "name": "Set Spectral Analysis Settings.md",
+            "title": "Set Spectral Analysis Settings.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Sound Component/Set Spectral Analysis Settings.md",
+            "url": "Ue/blueprint/en/Media/MediaSoundComponent/SetSpectralAnalysisSettings.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Convert to Pose History Node.md",
+            "title": "Convert to Pose History Node.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose History/Convert to Pose History Node.md",
+            "url": "Ue/blueprint/en/Animation/PoseHistory/ConverttoPoseHistoryNode.md"
+        },
+        {
+            "name": "Get Pose History Node Trajectory.md",
+            "title": "Get Pose History Node Trajectory.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose History/Get Pose History Node Trajectory.md",
+            "url": "Ue/blueprint/en/Animation/PoseHistory/GetPoseHistoryNodeTrajectory.md"
+        },
+        {
+            "name": "Set Pose History Node Trajectory.md",
+            "title": "Set Pose History Node Trajectory.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose History/Set Pose History Node Trajectory.md",
+            "url": "Ue/blueprint/en/Animation/PoseHistory/SetPoseHistoryNodeTrajectory.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Additive Animation Type.md",
+            "title": "Get Additive Animation Type.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Additive/Get Additive Animation Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Additive/GetAdditiveAnimationType.md"
+        },
+        {
+            "name": "Get Additive Base Pose Type.md",
+            "title": "Get Additive Base Pose Type.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Additive/Get Additive Base Pose Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Additive/GetAdditiveBasePoseType.md"
+        },
+        {
+            "name": "Set Additive Animation Type.md",
+            "title": "Set Additive Animation Type.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Additive/Set Additive Animation Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Additive/SetAdditiveAnimationType.md"
+        },
+        {
+            "name": "Set Additive Base Pose Type.md",
+            "title": "Set Additive Base Pose Type.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Additive/Set Additive Base Pose Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Additive/SetAdditiveBasePoseType.md"
+        }
+    ],
+    "categorys": []
+}

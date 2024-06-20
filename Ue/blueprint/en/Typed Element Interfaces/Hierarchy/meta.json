@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Child Elements (Message).md",
+            "title": "Get Child Elements (Message).md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Hierarchy/Get Child Elements (Message).md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Hierarchy/GetChildElementsMessage.md"
+        },
+        {
+            "name": "Get Child Elements.md",
+            "title": "Get Child Elements.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Hierarchy/Get Child Elements.md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Hierarchy/GetChildElements.md"
+        },
+        {
+            "name": "Get Parent Element (Message).md",
+            "title": "Get Parent Element (Message).md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Hierarchy/Get Parent Element (Message).md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Hierarchy/GetParentElementMessage.md"
+        },
+        {
+            "name": "Get Parent Element.md",
+            "title": "Get Parent Element.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Hierarchy/Get Parent Element.md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Hierarchy/GetParentElement.md"
+        }
+    ],
+    "categorys": []
+}

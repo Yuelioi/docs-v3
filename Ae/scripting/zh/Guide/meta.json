@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "参考文档-教程.md",
+            "title": "参考文档-教程.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Guide/参考文档-教程.md",
+            "url": "Ae/scripting/zh/Guide/参考文档-教程.md"
+        },
+        {
+            "name": "术语解释与逻辑图（总表）.md",
+            "title": "术语解释与逻辑图（总表）.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Guide/术语解释与逻辑图（总表）.md",
+            "url": "Ae/scripting/zh/Guide/术语解释与逻辑图（总表）.md"
+        },
+        {
+            "name": "脚本编辑器设置.md",
+            "title": "脚本编辑器设置.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Guide/脚本编辑器设置.md",
+            "url": "Ae/scripting/zh/Guide/脚本编辑器设置.md"
+        }
+    ],
+    "categorys": []
+}

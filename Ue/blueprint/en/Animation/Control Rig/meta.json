@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Convert to Control Rig.md",
+            "title": "Convert to Control Rig.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Control Rig/Convert to Control Rig.md",
+            "url": "Ue/blueprint/en/Animation/ControlRig/ConverttoControlRig.md"
+        },
+        {
+            "name": "Convert to Sequence Player.md",
+            "title": "Convert to Sequence Player.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Control Rig/Convert to Sequence Player.md",
+            "url": "Ue/blueprint/en/Animation/ControlRig/ConverttoSequencePlayer.md"
+        },
+        {
+            "name": "Set Control Rig Class.md",
+            "title": "Set Control Rig Class.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Control Rig/Set Control Rig Class.md",
+            "url": "Ue/blueprint/en/Animation/ControlRig/SetControlRigClass.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Activate Device Property Of Class.md",
+            "title": "Activate Device Property Of Class.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Activate Device Property Of Class.md",
+            "url": "Ue/blueprint/zh/InputDevices/ActivateDevicePropertyOfClass.md"
+        },
+        {
+            "name": "Get Active Device Property.md",
+            "title": "Get Active Device Property.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Get Active Device Property.md",
+            "url": "Ue/blueprint/zh/InputDevices/GetActiveDeviceProperty.md"
+        },
+        {
+            "name": "Get Input Device Hardware Identifier.md",
+            "title": "Get Input Device Hardware Identifier.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Get Input Device Hardware Identifier.md",
+            "url": "Ue/blueprint/zh/InputDevices/GetInputDeviceHardwareIdentifier.md"
+        },
+        {
+            "name": "Get Most Recently Used Hardware Device.md",
+            "title": "Get Most Recently Used Hardware Device.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Get Most Recently Used Hardware Device.md",
+            "url": "Ue/blueprint/zh/InputDevices/GetMostRecentlyUsedHardwareDevice.md"
+        },
+        {
+            "name": "Get Player Controller from Input Device.md",
+            "title": "Get Player Controller from Input Device.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Get Player Controller from Input Device.md",
+            "url": "Ue/blueprint/zh/InputDevices/GetPlayerControllerfromInputDevice.md"
+        },
+        {
+            "name": "Get Player Controller from Platform User.md",
+            "title": "Get Player Controller from Platform User.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Get Player Controller from Platform User.md",
+            "url": "Ue/blueprint/zh/InputDevices/GetPlayerControllerfromPlatformUser.md"
+        },
+        {
+            "name": "Is Device Property Handle Valid.md",
+            "title": "Is Device Property Handle Valid.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Is Device Property Handle Valid.md",
+            "url": "Ue/blueprint/zh/InputDevices/IsDevicePropertyHandleValid.md"
+        },
+        {
+            "name": "Is Property Active.md",
+            "title": "Is Property Active.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Is Property Active.md",
+            "url": "Ue/blueprint/zh/InputDevices/IsPropertyActive.md"
+        },
+        {
+            "name": "On Input Hardware Device Changed.md",
+            "title": "On Input Hardware Device Changed.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/On Input Hardware Device Changed.md",
+            "url": "Ue/blueprint/zh/InputDevices/OnInputHardwareDeviceChanged.md"
+        },
+        {
+            "name": "Remove All Device Properties.md",
+            "title": "Remove All Device Properties.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Remove All Device Properties.md",
+            "url": "Ue/blueprint/zh/InputDevices/RemoveAllDeviceProperties.md"
+        },
+        {
+            "name": "Remove Device Property Handles.md",
+            "title": "Remove Device Property Handles.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Remove Device Property Handles.md",
+            "url": "Ue/blueprint/zh/InputDevices/RemoveDevicePropertyHandles.md"
+        },
+        {
+            "name": "Remove Device Property by Handle.md",
+            "title": "Remove Device Property by Handle.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input Devices/Remove Device Property by Handle.md",
+            "url": "Ue/blueprint/zh/InputDevices/RemoveDevicePropertybyHandle.md"
+        }
+    ],
+    "categorys": []
+}

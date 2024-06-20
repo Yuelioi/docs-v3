@@ -1,0 +1,116 @@
+{
+    "documents": [
+        {
+            "name": "Allocate Compute Mesh.md",
+            "title": "Allocate Compute Mesh.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Allocate Compute Mesh.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/AllocateComputeMesh.md"
+        },
+        {
+            "name": "Copy Properties from Static Mesh.md",
+            "title": "Copy Properties from Static Mesh.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Copy Properties from Static Mesh.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/CopyPropertiesfromStaticMesh.md"
+        },
+        {
+            "name": "Copy Properties to Static Mesh.md",
+            "title": "Copy Properties to Static Mesh.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Copy Properties to Static Mesh.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/CopyPropertiestoStaticMesh.md"
+        },
+        {
+            "name": "Free All Compute Meshes.md",
+            "title": "Free All Compute Meshes.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Free All Compute Meshes.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/FreeAllComputeMeshes.md"
+        },
+        {
+            "name": "Get Compute Mesh Pool.md",
+            "title": "Get Compute Mesh Pool.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Get Compute Mesh Pool.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/GetComputeMeshPool.md"
+        },
+        {
+            "name": "Get Dynamic Mesh Component.md",
+            "title": "Get Dynamic Mesh Component.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Get Dynamic Mesh Component.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/GetDynamicMeshComponent.md"
+        },
+        {
+            "name": "Mark for Mesh Rebuild.md",
+            "title": "Mark for Mesh Rebuild.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Mark for Mesh Rebuild.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/MarkforMeshRebuild.md"
+        },
+        {
+            "name": "Release All Compute Meshes.md",
+            "title": "Release All Compute Meshes.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Release All Compute Meshes.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/ReleaseAllComputeMeshes.md"
+        },
+        {
+            "name": "Release Compute Mesh.md",
+            "title": "Release Compute Mesh.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Release Compute Mesh.md",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/ReleaseComputeMesh.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Progress",
+            "title": "Progress",
+            "depth": 4,
+            "order": 8,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Actor/Progress",
+            "url": "Ue/blueprint/zh/DynamicMeshActor/Progress"
+        }
+    ]
+}

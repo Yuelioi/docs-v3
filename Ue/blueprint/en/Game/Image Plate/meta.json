@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Plate.md",
+            "title": "Get Plate.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Image Plate/Get Plate.md",
+            "url": "Ue/blueprint/en/Game/ImagePlate/GetPlate.md"
+        },
+        {
+            "name": "Set Image Plate.md",
+            "title": "Set Image Plate.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Image Plate/Set Image Plate.md",
+            "url": "Ue/blueprint/en/Game/ImagePlate/SetImagePlate.md"
+        }
+    ],
+    "categorys": []
+}

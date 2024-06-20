@@ -1,0 +1,83 @@
+{
+    "documents": [
+        {
+            "name": "Get Display Text.md",
+            "title": "Get Display Text.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Get Display Text.md",
+            "url": "Ue/blueprint/zh/VariantSet/GetDisplayText.md"
+        },
+        {
+            "name": "Get Num Variants.md",
+            "title": "Get Num Variants.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Get Num Variants.md",
+            "url": "Ue/blueprint/zh/VariantSet/GetNumVariants.md"
+        },
+        {
+            "name": "Get Parent.md",
+            "title": "Get Parent.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Get Parent.md",
+            "url": "Ue/blueprint/zh/VariantSet/GetParent.md"
+        },
+        {
+            "name": "Get Variant by Name.md",
+            "title": "Get Variant by Name.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Get Variant by Name.md",
+            "url": "Ue/blueprint/zh/VariantSet/GetVariantbyName.md"
+        },
+        {
+            "name": "Get Variant.md",
+            "title": "Get Variant.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Get Variant.md",
+            "url": "Ue/blueprint/zh/VariantSet/GetVariant.md"
+        },
+        {
+            "name": "Set Display Text.md",
+            "title": "Set Display Text.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Set Display Text.md",
+            "url": "Ue/blueprint/zh/VariantSet/SetDisplayText.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Thumbnail",
+            "title": "Thumbnail",
+            "depth": 4,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail"
+        }
+    ]
+}

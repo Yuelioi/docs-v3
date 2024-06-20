@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Default Capture Device Changed.md",
+            "title": "Default Capture Device Changed.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Default Capture Device Changed.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DefaultCaptureDeviceChanged.md"
+        },
+        {
+            "name": "Default Render Device Changed.md",
+            "title": "Default Render Device Changed.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Default Render Device Changed.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DefaultRenderDeviceChanged.md"
+        },
+        {
+            "name": "Device Added.md",
+            "title": "Device Added.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Device Added.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DeviceAdded.md"
+        },
+        {
+            "name": "Device Removed.md",
+            "title": "Device Removed.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Device Removed.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DeviceRemoved.md"
+        },
+        {
+            "name": "Device State Changed.md",
+            "title": "Device State Changed.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Device State Changed.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DeviceStateChanged.md"
+        },
+        {
+            "name": "Device Switched.md",
+            "title": "Device Switched.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Delegates/Device Switched.md",
+            "url": "Ue/blueprint/en/AudioDelegates/DeviceSwitched.md"
+        }
+    ],
+    "categorys": []
+}

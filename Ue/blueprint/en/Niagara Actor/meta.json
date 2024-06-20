@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Destroy on System Finish.md",
+            "title": "Get Destroy on System Finish.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Niagara Actor/Get Destroy on System Finish.md",
+            "url": "Ue/blueprint/en/NiagaraActor/GetDestroyonSystemFinish.md"
+        },
+        {
+            "name": "Set Destroy on System Finish.md",
+            "title": "Set Destroy on System Finish.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Niagara Actor/Set Destroy on System Finish.md",
+            "url": "Ue/blueprint/en/NiagaraActor/SetDestroyonSystemFinish.md"
+        }
+    ],
+    "categorys": []
+}

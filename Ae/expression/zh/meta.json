@@ -1,0 +1,60 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "General",
+            "title": "General",
+            "depth": 3,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression/zh/General",
+            "url": "Ae/expression/zh/General"
+        },
+        {
+            "name": "Intro",
+            "title": "Intro",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression/zh/Intro",
+            "url": "Ae/expression/zh/Intro"
+        },
+        {
+            "name": "Layers",
+            "title": "Layers",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression/zh/Layers",
+            "url": "Ae/expression/zh/Layers"
+        },
+        {
+            "name": "Objects",
+            "title": "Objects",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression/zh/Objects",
+            "url": "Ae/expression/zh/Objects"
+        },
+        {
+            "name": "Text",
+            "title": "Text",
+            "depth": 3,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression/zh/Text",
+            "url": "Ae/expression/zh/Text"
+        }
+    ]
+}

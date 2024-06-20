@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "weightarrayblend.md",
+            "title": "weightarrayblend.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/weightarray/weightarrayblend.md",
+            "url": "Houdini/vex/zh/weightarray/weightarrayblend.md"
+        },
+        {
+            "name": "weightarrayfromname.md",
+            "title": "weightarrayfromname.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/weightarray/weightarrayfromname.md",
+            "url": "Houdini/vex/zh/weightarray/weightarrayfromname.md"
+        },
+        {
+            "name": "weightarraynormalize.md",
+            "title": "weightarraynormalize.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/weightarray/weightarraynormalize.md",
+            "url": "Houdini/vex/zh/weightarray/weightarraynormalize.md"
+        },
+        {
+            "name": "weightarraythreshold.md",
+            "title": "weightarraythreshold.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/weightarray/weightarraythreshold.md",
+            "url": "Houdini/vex/zh/weightarray/weightarraythreshold.md"
+        }
+    ],
+    "categorys": []
+}

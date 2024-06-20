@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Clear.md",
+            "title": "Clear.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Control Actor/Clear.md",
+            "url": "Ue/blueprint/en/ControlActor/Clear.md"
+        },
+        {
+            "name": "Refresh.md",
+            "title": "Refresh.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Control Actor/Refresh.md",
+            "url": "Ue/blueprint/en/ControlActor/Refresh.md"
+        },
+        {
+            "name": "Reset.md",
+            "title": "Reset.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Control Actor/Reset.md",
+            "url": "Ue/blueprint/en/ControlActor/Reset.md"
+        }
+    ],
+    "categorys": []
+}

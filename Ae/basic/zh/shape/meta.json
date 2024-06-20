@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Fill-and-Stroke.md",
+            "title": "Fill-and-Stroke.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/shape/Fill-and-Stroke.md",
+            "url": "Ae/basic/zh/shape/Fill-and-Stroke.md"
+        },
+        {
+            "name": "Path.md",
+            "title": "Path.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/shape/Path.md",
+            "url": "Ae/basic/zh/shape/Path.md"
+        },
+        {
+            "name": "Shape.md",
+            "title": "Shape.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/shape/Shape.md",
+            "url": "Ae/basic/zh/shape/Shape.md"
+        }
+    ],
+    "categorys": []
+}

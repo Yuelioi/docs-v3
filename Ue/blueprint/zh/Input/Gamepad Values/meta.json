@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Gamepad Left Thumbstick X-Axis.md",
+            "title": "Gamepad Left Thumbstick X-Axis.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Left Thumbstick X-Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadLeftThumbstickX-Axis.md"
+        },
+        {
+            "name": "Gamepad Left Thumbstick Y-Axis.md",
+            "title": "Gamepad Left Thumbstick Y-Axis.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Left Thumbstick Y-Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadLeftThumbstickY-Axis.md"
+        },
+        {
+            "name": "Gamepad Left Trigger Axis.md",
+            "title": "Gamepad Left Trigger Axis.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Left Trigger Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadLeftTriggerAxis.md"
+        },
+        {
+            "name": "Gamepad Right Thumbstick X-Axis.md",
+            "title": "Gamepad Right Thumbstick X-Axis.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Right Thumbstick X-Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadRightThumbstickX-Axis.md"
+        },
+        {
+            "name": "Gamepad Right Thumbstick Y-Axis.md",
+            "title": "Gamepad Right Thumbstick Y-Axis.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Right Thumbstick Y-Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadRightThumbstickY-Axis.md"
+        },
+        {
+            "name": "Gamepad Right Trigger Axis.md",
+            "title": "Gamepad Right Trigger Axis.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Gamepad Values/Gamepad Right Trigger Axis.md",
+            "url": "Ue/blueprint/zh/Input/GamepadValues/GamepadRightTriggerAxis.md"
+        }
+    ],
+    "categorys": []
+}

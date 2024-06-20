@@ -1,0 +1,214 @@
+{
+    "documents": [
+        {
+            "name": "Evaluate Animation Blueprint with Input Pose.md",
+            "title": "Evaluate Animation Blueprint with Input Pose.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Evaluate Animation Blueprint with Input Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/EvaluateAnimationBlueprintwithInputPose.md"
+        },
+        {
+            "name": "Get Anim Pose at Frame.md",
+            "title": "Get Anim Pose at Frame.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Anim Pose at Frame.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetAnimPoseatFrame.md"
+        },
+        {
+            "name": "Get Anim Pose at Time.md",
+            "title": "Get Anim Pose at Time.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Anim Pose at Time.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetAnimPoseatTime.md"
+        },
+        {
+            "name": "Get Bone Names.md",
+            "title": "Get Bone Names.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Bone Names.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetBoneNames.md"
+        },
+        {
+            "name": "Get Bone Pose.md",
+            "title": "Get Bone Pose.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Bone Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetBonePose.md"
+        },
+        {
+            "name": "Get Curve Names.md",
+            "title": "Get Curve Names.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Curve Names.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetCurveNames.md"
+        },
+        {
+            "name": "Get Curve Weight.md",
+            "title": "Get Curve Weight.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Curve Weight.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetCurveWeight.md"
+        },
+        {
+            "name": "Get Ref Bone Pose.md",
+            "title": "Get Ref Bone Pose.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Ref Bone Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetRefBonePose.md"
+        },
+        {
+            "name": "Get Ref Pose Relative Transform.md",
+            "title": "Get Ref Pose Relative Transform.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Ref Pose Relative Transform.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetRefPoseRelativeTransform.md"
+        },
+        {
+            "name": "Get Reference Pose.md",
+            "title": "Get Reference Pose.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Reference Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetReferencePose.md"
+        },
+        {
+            "name": "Get Relative Transform.md",
+            "title": "Get Relative Transform.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Relative Transform.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetRelativeTransform.md"
+        },
+        {
+            "name": "Get Relative to Ref Pose Transform.md",
+            "title": "Get Relative to Ref Pose Transform.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Relative to Ref Pose Transform.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetRelativetoRefPoseTransform.md"
+        },
+        {
+            "name": "Get Socket Names.md",
+            "title": "Get Socket Names.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Socket Names.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetSocketNames.md"
+        },
+        {
+            "name": "Get Socket Pose.md",
+            "title": "Get Socket Pose.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Get Socket Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/GetSocketPose.md"
+        },
+        {
+            "name": "Is Valid.md",
+            "title": "Is Valid.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Is Valid.md",
+            "url": "Ue/blueprint/en/Animation/Pose/IsValid.md"
+        },
+        {
+            "name": "Remove Pose Snapshot.md",
+            "title": "Remove Pose Snapshot.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Remove Pose Snapshot.md",
+            "url": "Ue/blueprint/en/Animation/Pose/RemovePoseSnapshot.md"
+        },
+        {
+            "name": "Save Pose Snapshot.md",
+            "title": "Save Pose Snapshot.md",
+            "depth": 5,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Save Pose Snapshot.md",
+            "url": "Ue/blueprint/en/Animation/Pose/SavePoseSnapshot.md"
+        },
+        {
+            "name": "Set Bone Pose.md",
+            "title": "Set Bone Pose.md",
+            "depth": 5,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Set Bone Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/SetBonePose.md"
+        },
+        {
+            "name": "Snapshot Pose.md",
+            "title": "Snapshot Pose.md",
+            "depth": 5,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Pose/Snapshot Pose.md",
+            "url": "Ue/blueprint/en/Animation/Pose/SnapshotPose.md"
+        }
+    ],
+    "categorys": []
+}

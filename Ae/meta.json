@@ -1,0 +1,71 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "basic",
+            "title": "basic",
+            "depth": 1,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic",
+            "url": "Ae/basic"
+        },
+        {
+            "name": "effects",
+            "title": "effects",
+            "depth": 1,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects",
+            "url": "Ae/effects"
+        },
+        {
+            "name": "expression",
+            "title": "expression",
+            "depth": 1,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/expression",
+            "url": "Ae/expression"
+        },
+        {
+            "name": "plugin-development",
+            "title": "plugin-development",
+            "depth": 1,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development",
+            "url": "Ae/plugin-development"
+        },
+        {
+            "name": "scripting",
+            "title": "scripting",
+            "depth": 1,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting",
+            "url": "Ae/scripting"
+        },
+        {
+            "name": "stardust",
+            "title": "stardust",
+            "depth": 1,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust",
+            "url": "Ae/stardust"
+        }
+    ]
+}

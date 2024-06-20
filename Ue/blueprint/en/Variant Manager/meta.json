@@ -1,0 +1,259 @@
+{
+    "documents": [
+        {
+            "name": "Add Actor Binding.md",
+            "title": "Add Actor Binding.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Add Actor Binding.md",
+            "url": "Ue/blueprint/en/VariantManager/AddActorBinding.md"
+        },
+        {
+            "name": "Add Dependency.md",
+            "title": "Add Dependency.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Add Dependency.md",
+            "url": "Ue/blueprint/en/VariantManager/AddDependency.md"
+        },
+        {
+            "name": "Add Variant Set.md",
+            "title": "Add Variant Set.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Add Variant Set.md",
+            "url": "Ue/blueprint/en/VariantManager/AddVariantSet.md"
+        },
+        {
+            "name": "Add Variant.md",
+            "title": "Add Variant.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Add Variant.md",
+            "url": "Ue/blueprint/en/VariantManager/AddVariant.md"
+        },
+        {
+            "name": "Apply.md",
+            "title": "Apply.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Apply.md",
+            "url": "Ue/blueprint/en/VariantManager/Apply.md"
+        },
+        {
+            "name": "Capture Property.md",
+            "title": "Capture Property.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Capture Property.md",
+            "url": "Ue/blueprint/en/VariantManager/CaptureProperty.md"
+        },
+        {
+            "name": "Create Level Variant Sets Actor.md",
+            "title": "Create Level Variant Sets Actor.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Create Level Variant Sets Actor.md",
+            "url": "Ue/blueprint/en/VariantManager/CreateLevelVariantSetsActor.md"
+        },
+        {
+            "name": "Create Level Variant Sets Asset.md",
+            "title": "Create Level Variant Sets Asset.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Create Level Variant Sets Asset.md",
+            "url": "Ue/blueprint/en/VariantManager/CreateLevelVariantSetsAsset.md"
+        },
+        {
+            "name": "Delete Dependency.md",
+            "title": "Delete Dependency.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Delete Dependency.md",
+            "url": "Ue/blueprint/en/VariantManager/DeleteDependency.md"
+        },
+        {
+            "name": "Get Capturable Properties.md",
+            "title": "Get Capturable Properties.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Get Capturable Properties.md",
+            "url": "Ue/blueprint/en/VariantManager/GetCapturableProperties.md"
+        },
+        {
+            "name": "Get Captured Properties.md",
+            "title": "Get Captured Properties.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Get Captured Properties.md",
+            "url": "Ue/blueprint/en/VariantManager/GetCapturedProperties.md"
+        },
+        {
+            "name": "Get Property Type String.md",
+            "title": "Get Property Type String.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Get Property Type String.md",
+            "url": "Ue/blueprint/en/VariantManager/GetPropertyTypeString.md"
+        },
+        {
+            "name": "Record.md",
+            "title": "Record.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Record.md",
+            "url": "Ue/blueprint/en/VariantManager/Record.md"
+        },
+        {
+            "name": "Remove Actor Binding by Name.md",
+            "title": "Remove Actor Binding by Name.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Actor Binding by Name.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveActorBindingbyName.md"
+        },
+        {
+            "name": "Remove Actor Binding.md",
+            "title": "Remove Actor Binding.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Actor Binding.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveActorBinding.md"
+        },
+        {
+            "name": "Remove Captured Property by Name.md",
+            "title": "Remove Captured Property by Name.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Captured Property by Name.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveCapturedPropertybyName.md"
+        },
+        {
+            "name": "Remove Captured Property.md",
+            "title": "Remove Captured Property.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Captured Property.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveCapturedProperty.md"
+        },
+        {
+            "name": "Remove Variant Set by Name.md",
+            "title": "Remove Variant Set by Name.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Variant Set by Name.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveVariantSetbyName.md"
+        },
+        {
+            "name": "Remove Variant Set.md",
+            "title": "Remove Variant Set.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Variant Set.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveVariantSet.md"
+        },
+        {
+            "name": "Remove Variant by Name.md",
+            "title": "Remove Variant by Name.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Variant by Name.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveVariantbyName.md"
+        },
+        {
+            "name": "Remove Variant.md",
+            "title": "Remove Variant.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Remove Variant.md",
+            "url": "Ue/blueprint/en/VariantManager/RemoveVariant.md"
+        },
+        {
+            "name": "Set Dependency.md",
+            "title": "Set Dependency.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Set Dependency.md",
+            "url": "Ue/blueprint/en/VariantManager/SetDependency.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Property Accessors",
+            "title": "Property Accessors",
+            "depth": 4,
+            "order": 13,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Variant Manager/Property Accessors",
+            "url": "Ue/blueprint/en/VariantManager/PropertyAccessors"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Get Current Gamepad Name.md",
+            "title": "Get Current Gamepad Name.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Get Current Gamepad Name.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/GetCurrentGamepadName.md"
+        },
+        {
+            "name": "Get Current Input Type.md",
+            "title": "Get Current Input Type.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Get Current Input Type.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/GetCurrentInputType.md"
+        },
+        {
+            "name": "Get Default Input Type.md",
+            "title": "Get Default Input Type.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Get Default Input Type.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/GetDefaultInputType.md"
+        },
+        {
+            "name": "Is Input Method Active.md",
+            "title": "Is Input Method Active.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Is Input Method Active.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/IsInputMethodActive.md"
+        },
+        {
+            "name": "Is Using Pointer Input.md",
+            "title": "Is Using Pointer Input.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Is Using Pointer Input.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/IsUsingPointerInput.md"
+        },
+        {
+            "name": "On Input Method Changed.md",
+            "title": "On Input Method Changed.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/On Input Method Changed.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/OnInputMethodChanged.md"
+        },
+        {
+            "name": "Set Current Input Type.md",
+            "title": "Set Current Input Type.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Set Current Input Type.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/SetCurrentInputType.md"
+        },
+        {
+            "name": "Set Gamepad Input Type.md",
+            "title": "Set Gamepad Input Type.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Set Gamepad Input Type.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/SetGamepadInputType.md"
+        },
+        {
+            "name": "Should Show Input Keys.md",
+            "title": "Should Show Input Keys.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Input Subsystem/Should Show Input Keys.md",
+            "url": "Ue/blueprint/en/CommonInputSubsystem/ShouldShowInputKeys.md"
+        }
+    ],
+    "categorys": []
+}

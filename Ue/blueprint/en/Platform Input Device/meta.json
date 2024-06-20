@@ -1,0 +1,181 @@
+{
+    "documents": [
+        {
+            "name": "Get All Active Users.md",
+            "title": "Get All Active Users.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get All Active Users.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetAllActiveUsers.md"
+        },
+        {
+            "name": "Get All Connected Input Devices.md",
+            "title": "Get All Connected Input Devices.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get All Connected Input Devices.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetAllConnectedInputDevices.md"
+        },
+        {
+            "name": "Get All Input Devices for User.md",
+            "title": "Get All Input Devices for User.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get All Input Devices for User.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetAllInputDevicesforUser.md"
+        },
+        {
+            "name": "Get All Input Devices.md",
+            "title": "Get All Input Devices.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get All Input Devices.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetAllInputDevices.md"
+        },
+        {
+            "name": "Get Default Input Device.md",
+            "title": "Get Default Input Device.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get Default Input Device.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetDefaultInputDevice.md"
+        },
+        {
+            "name": "Get Input Device Connection State.md",
+            "title": "Get Input Device Connection State.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get Input Device Connection State.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetInputDeviceConnectionState.md"
+        },
+        {
+            "name": "Get Primary Input Device for User.md",
+            "title": "Get Primary Input Device for User.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get Primary Input Device for User.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetPrimaryInputDeviceforUser.md"
+        },
+        {
+            "name": "Get Primary Platform User.md",
+            "title": "Get Primary Platform User.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get Primary Platform User.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetPrimaryPlatformUser.md"
+        },
+        {
+            "name": "Get User for Input Device.md",
+            "title": "Get User for Input Device.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get User for Input Device.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetUserforInputDevice.md"
+        },
+        {
+            "name": "Get User for Unpaired Input Devices.md",
+            "title": "Get User for Unpaired Input Devices.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Get User for Unpaired Input Devices.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/GetUserforUnpairedInputDevices.md"
+        },
+        {
+            "name": "Input Device Id None.md",
+            "title": "Input Device Id None.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Input Device Id None.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/InputDeviceIdNone.md"
+        },
+        {
+            "name": "Is Input Device Mapped to Unpaired User.md",
+            "title": "Is Input Device Mapped to Unpaired User.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Is Input Device Mapped to Unpaired User.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/IsInputDeviceMappedtoUnpairedUser.md"
+        },
+        {
+            "name": "Is Unpaired User Id.md",
+            "title": "Is Unpaired User Id.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Is Unpaired User Id.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/IsUnpairedUserId.md"
+        },
+        {
+            "name": "Is Valid Input Device.md",
+            "title": "Is Valid Input Device.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Is Valid Input Device.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/IsValidInputDevice.md"
+        },
+        {
+            "name": "Is Valid Platform Id.md",
+            "title": "Is Valid Platform Id.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Is Valid Platform Id.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/IsValidPlatformId.md"
+        },
+        {
+            "name": "Platform User Id None.md",
+            "title": "Platform User Id None.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Platform Input Device/Platform User Id None.md",
+            "url": "Ue/blueprint/en/PlatformInputDevice/PlatformUserIdNone.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,28 @@
+{
+    "documents": [
+        {
+            "name": "OpenCV Chessboard Detect Corners.md",
+            "title": "OpenCV Chessboard Detect Corners.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Open CV/OpenCV Chessboard Detect Corners.md",
+            "url": "Ue/blueprint/en/OpenCV/OpenCVChessboardDetectCorners.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Ar Uco",
+            "title": "Ar Uco",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Open CV/Ar Uco",
+            "url": "Ue/blueprint/en/OpenCV/ArUco"
+        }
+    ]
+}

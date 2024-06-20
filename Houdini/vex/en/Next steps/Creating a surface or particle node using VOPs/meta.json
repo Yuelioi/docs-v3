@@ -1,0 +1,16 @@
+{
+    "documents": [
+        {
+            "name": "VEX.md",
+            "title": "VEX.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Creating a surface or particle node using VOPs/VEX.md",
+            "url": "Houdini/vex/en/Nextsteps/CreatingasurfaceorparticlenodeusingVOPs/VEX.md"
+        }
+    ],
+    "categorys": []
+}

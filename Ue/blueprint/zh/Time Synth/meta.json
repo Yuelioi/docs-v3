@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Envelope Value.md",
+            "title": "Get Envelope Value.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Time Synth/Get Envelope Value.md",
+            "url": "Ue/blueprint/zh/TimeSynth/GetEnvelopeValue.md"
+        },
+        {
+            "name": "Get Normalized Spectral Data.md",
+            "title": "Get Normalized Spectral Data.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Time Synth/Get Normalized Spectral Data.md",
+            "url": "Ue/blueprint/zh/TimeSynth/GetNormalizedSpectralData.md"
+        },
+        {
+            "name": "Get Spectral Data.md",
+            "title": "Get Spectral Data.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Time Synth/Get Spectral Data.md",
+            "url": "Ue/blueprint/zh/TimeSynth/GetSpectralData.md"
+        }
+    ],
+    "categorys": []
+}

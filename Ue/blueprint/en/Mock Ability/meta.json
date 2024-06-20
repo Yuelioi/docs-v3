@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Max Stamina.md",
+            "title": "Get Max Stamina.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mock Ability/Get Max Stamina.md",
+            "url": "Ue/blueprint/en/MockAbility/GetMaxStamina.md"
+        },
+        {
+            "name": "Get Stamina.md",
+            "title": "Get Stamina.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mock Ability/Get Stamina.md",
+            "url": "Ue/blueprint/en/MockAbility/GetStamina.md"
+        }
+    ],
+    "categorys": []
+}

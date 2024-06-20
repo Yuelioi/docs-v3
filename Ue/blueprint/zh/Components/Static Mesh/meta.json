@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Local Bounds.md",
+            "title": "Get Local Bounds.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Static Mesh/Get Local Bounds.md",
+            "url": "Ue/blueprint/zh/Components/StaticMesh/GetLocalBounds.md"
+        },
+        {
+            "name": "Set Static Mesh.md",
+            "title": "Set Static Mesh.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Static Mesh/Set Static Mesh.md",
+            "url": "Ue/blueprint/zh/Components/StaticMesh/SetStaticMesh.md"
+        }
+    ],
+    "categorys": []
+}

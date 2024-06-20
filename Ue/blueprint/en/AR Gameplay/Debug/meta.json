@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "Get Object Classification Debug Colors.md",
+            "title": "Get Object Classification Debug Colors.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Get Object Classification Debug Colors.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/GetObjectClassificationDebugColors.md"
+        },
+        {
+            "name": "Set Face Component Debug Mode.md",
+            "title": "Set Face Component Debug Mode.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Face Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetFaceComponentDebugMode.md"
+        },
+        {
+            "name": "Set Geo Anchor Component Debug Mode.md",
+            "title": "Set Geo Anchor Component Debug Mode.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Geo Anchor Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetGeoAnchorComponentDebugMode.md"
+        },
+        {
+            "name": "Set Image Component Debug Mode.md",
+            "title": "Set Image Component Debug Mode.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Image Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetImageComponentDebugMode.md"
+        },
+        {
+            "name": "Set Object Classification Debug Colors.md",
+            "title": "Set Object Classification Debug Colors.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Object Classification Debug Colors.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetObjectClassificationDebugColors.md"
+        },
+        {
+            "name": "Set Plane Component Debug Mode.md",
+            "title": "Set Plane Component Debug Mode.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Plane Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetPlaneComponentDebugMode.md"
+        },
+        {
+            "name": "Set Pose Component Debug Mode.md",
+            "title": "Set Pose Component Debug Mode.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set Pose Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetPoseComponentDebugMode.md"
+        },
+        {
+            "name": "Set QRCode Component Debug Mode.md",
+            "title": "Set QRCode Component Debug Mode.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Gameplay/Debug/Set QRCode Component Debug Mode.md",
+            "url": "Ue/blueprint/en/ARGameplay/Debug/SetQRCodeComponentDebugMode.md"
+        }
+    ],
+    "categorys": []
+}

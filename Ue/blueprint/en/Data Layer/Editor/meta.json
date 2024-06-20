@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Is Effective Visible.md",
+            "title": "Is Effective Visible.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Data Layer/Editor/Is Effective Visible.md",
+            "url": "Ue/blueprint/en/DataLayer/Editor/IsEffectiveVisible.md"
+        },
+        {
+            "name": "Is Initially Visible.md",
+            "title": "Is Initially Visible.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Data Layer/Editor/Is Initially Visible.md",
+            "url": "Ue/blueprint/en/DataLayer/Editor/IsInitiallyVisible.md"
+        },
+        {
+            "name": "Is Visible.md",
+            "title": "Is Visible.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Data Layer/Editor/Is Visible.md",
+            "url": "Ue/blueprint/en/DataLayer/Editor/IsVisible.md"
+        }
+    ],
+    "categorys": []
+}

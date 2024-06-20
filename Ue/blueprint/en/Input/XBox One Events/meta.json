@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Global Back.md",
+            "title": "Global Back.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Input/XBox One Events/Global Back.md",
+            "url": "Ue/blueprint/en/Input/XBoxOneEvents/GlobalBack.md"
+        },
+        {
+            "name": "Global Menu.md",
+            "title": "Global Menu.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Input/XBox One Events/Global Menu.md",
+            "url": "Ue/blueprint/en/Input/XBoxOneEvents/GlobalMenu.md"
+        },
+        {
+            "name": "Global Pause.md",
+            "title": "Global Pause.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Input/XBox One Events/Global Pause.md",
+            "url": "Ue/blueprint/en/Input/XBoxOneEvents/GlobalPause.md"
+        },
+        {
+            "name": "Global Play.md",
+            "title": "Global Play.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Input/XBox One Events/Global Play.md",
+            "url": "Ue/blueprint/en/Input/XBoxOneEvents/GlobalPlay.md"
+        },
+        {
+            "name": "Global View.md",
+            "title": "Global View.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Input/XBox One Events/Global View.md",
+            "url": "Ue/blueprint/en/Input/XBoxOneEvents/GlobalView.md"
+        }
+    ],
+    "categorys": []
+}

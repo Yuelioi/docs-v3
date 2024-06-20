@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Scaled Sphere Radius.md",
+            "title": "Get Scaled Sphere Radius.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Components/Sphere/Get Scaled Sphere Radius.md",
+            "url": "Ue/blueprint/en/Components/Sphere/GetScaledSphereRadius.md"
+        },
+        {
+            "name": "Get Shape Scale.md",
+            "title": "Get Shape Scale.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Components/Sphere/Get Shape Scale.md",
+            "url": "Ue/blueprint/en/Components/Sphere/GetShapeScale.md"
+        },
+        {
+            "name": "Get Unscaled Sphere Radius.md",
+            "title": "Get Unscaled Sphere Radius.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Components/Sphere/Get Unscaled Sphere Radius.md",
+            "url": "Ue/blueprint/en/Components/Sphere/GetUnscaledSphereRadius.md"
+        },
+        {
+            "name": "Set Sphere Radius.md",
+            "title": "Set Sphere Radius.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Components/Sphere/Set Sphere Radius.md",
+            "url": "Ue/blueprint/en/Components/Sphere/SetSphereRadius.md"
+        }
+    ],
+    "categorys": []
+}

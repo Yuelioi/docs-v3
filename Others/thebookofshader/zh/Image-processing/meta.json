@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Filters.md",
+            "title": "Filters.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing/Filters.md",
+            "url": "Others/thebookofshader/zh/Image-processing/Filters.md"
+        },
+        {
+            "name": "Image-operations.md",
+            "title": "Image-operations.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing/Image-operations.md",
+            "url": "Others/thebookofshader/zh/Image-processing/Image-operations.md"
+        },
+        {
+            "name": "Kernel-convolutions.md",
+            "title": "Kernel-convolutions.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing/Kernel-convolutions.md",
+            "url": "Others/thebookofshader/zh/Image-processing/Kernel-convolutions.md"
+        },
+        {
+            "name": "Others-effects.md",
+            "title": "Others-effects.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing/Others-effects.md",
+            "url": "Others/thebookofshader/zh/Image-processing/Others-effects.md"
+        },
+        {
+            "name": "Textures.md",
+            "title": "Textures.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing/Textures.md",
+            "url": "Others/thebookofshader/zh/Image-processing/Textures.md"
+        }
+    ],
+    "categorys": []
+}

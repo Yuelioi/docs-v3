@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Get Thumbnail.md",
+            "title": "Get Thumbnail.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail/Get Thumbnail.md",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail/GetThumbnail.md"
+        },
+        {
+            "name": "Set Thumbnail from Camera.md",
+            "title": "Set Thumbnail from Camera.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail/Set Thumbnail from Camera.md",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail/SetThumbnailfromCamera.md"
+        },
+        {
+            "name": "Set Thumbnail from Editor Viewport.md",
+            "title": "Set Thumbnail from Editor Viewport.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail/Set Thumbnail from Editor Viewport.md",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail/SetThumbnailfromEditorViewport.md"
+        },
+        {
+            "name": "Set Thumbnail from File.md",
+            "title": "Set Thumbnail from File.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail/Set Thumbnail from File.md",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail/SetThumbnailfromFile.md"
+        },
+        {
+            "name": "Set Thumbnail from Texture.md",
+            "title": "Set Thumbnail from Texture.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant Set/Thumbnail/Set Thumbnail from Texture.md",
+            "url": "Ue/blueprint/zh/VariantSet/Thumbnail/SetThumbnailfromTexture.md"
+        }
+    ],
+    "categorys": []
+}

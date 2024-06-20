@@ -1,0 +1,236 @@
+{
+    "documents": [
+        {
+            "name": "Abort Conversation.md",
+            "title": "Abort Conversation.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Abort Conversation.md",
+            "url": "Ue/blueprint/en/Conversation/AbortConversation.md"
+        },
+        {
+            "name": "Advance Conversation with Choice.md",
+            "title": "Advance Conversation with Choice.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Advance Conversation with Choice.md",
+            "url": "Ue/blueprint/en/Conversation/AdvanceConversationwithChoice.md"
+        },
+        {
+            "name": "Advance Conversation.md",
+            "title": "Advance Conversation.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Advance Conversation.md",
+            "url": "Ue/blueprint/en/Conversation/AdvanceConversation.md"
+        },
+        {
+            "name": "Can Conversation Continue.md",
+            "title": "Can Conversation Continue.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Can Conversation Continue.md",
+            "url": "Ue/blueprint/en/Conversation/CanConversationContinue.md"
+        },
+        {
+            "name": "Find Conversation Component.md",
+            "title": "Find Conversation Component.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Find Conversation Component.md",
+            "url": "Ue/blueprint/en/Conversation/FindConversationComponent.md"
+        },
+        {
+            "name": "Get Conversation Instance.md",
+            "title": "Get Conversation Instance.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Conversation Instance.md",
+            "url": "Ue/blueprint/en/Conversation/GetConversationInstance.md"
+        },
+        {
+            "name": "Get Conversation Participant Actor.md",
+            "title": "Get Conversation Participant Actor.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Conversation Participant Actor.md",
+            "url": "Ue/blueprint/en/Conversation/GetConversationParticipantActor.md"
+        },
+        {
+            "name": "Get Conversation Participant.md",
+            "title": "Get Conversation Participant.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Conversation Participant.md",
+            "url": "Ue/blueprint/en/Conversation/GetConversationParticipant.md"
+        },
+        {
+            "name": "Get Current Conversation Node Handle.md",
+            "title": "Get Current Conversation Node Handle.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Current Conversation Node Handle.md",
+            "url": "Ue/blueprint/en/Conversation/GetCurrentConversationNodeHandle.md"
+        },
+        {
+            "name": "Get Debug Participant Color.md",
+            "title": "Get Debug Participant Color.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Debug Participant Color.md",
+            "url": "Ue/blueprint/en/Conversation/GetDebugParticipantColor.md"
+        },
+        {
+            "name": "Get Participant Actor.md",
+            "title": "Get Participant Actor.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Participant Actor.md",
+            "url": "Ue/blueprint/en/Conversation/GetParticipantActor.md"
+        },
+        {
+            "name": "Get Participant Display Name.md",
+            "title": "Get Participant Display Name.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Get Participant Display Name.md",
+            "url": "Ue/blueprint/en/Conversation/GetParticipantDisplayName.md"
+        },
+        {
+            "name": "Is in Active Conversation.md",
+            "title": "Is in Active Conversation.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Is in Active Conversation.md",
+            "url": "Ue/blueprint/en/Conversation/IsinActiveConversation.md"
+        },
+        {
+            "name": "Make Conversation Participant.md",
+            "title": "Make Conversation Participant.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Make Conversation Participant.md",
+            "url": "Ue/blueprint/en/Conversation/MakeConversationParticipant.md"
+        },
+        {
+            "name": "Pause Conversation and Send Client Choices.md",
+            "title": "Pause Conversation and Send Client Choices.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Pause Conversation and Send Client Choices.md",
+            "url": "Ue/blueprint/en/Conversation/PauseConversationandSendClientChoices.md"
+        },
+        {
+            "name": "Request Server Advance Conversation.md",
+            "title": "Request Server Advance Conversation.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Request Server Advance Conversation.md",
+            "url": "Ue/blueprint/en/Conversation/RequestServerAdvanceConversation.md"
+        },
+        {
+            "name": "Return to Conversation Start.md",
+            "title": "Return to Conversation Start.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Return to Conversation Start.md",
+            "url": "Ue/blueprint/en/Conversation/ReturntoConversationStart.md"
+        },
+        {
+            "name": "Return to Current Client Choice.md",
+            "title": "Return to Current Client Choice.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Return to Current Client Choice.md",
+            "url": "Ue/blueprint/en/Conversation/ReturntoCurrentClientChoice.md"
+        },
+        {
+            "name": "Return to Last Client Choice.md",
+            "title": "Return to Last Client Choice.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Return to Last Client Choice.md",
+            "url": "Ue/blueprint/en/Conversation/ReturntoLastClientChoice.md"
+        },
+        {
+            "name": "Start Conversation from Graph.md",
+            "title": "Start Conversation from Graph.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Start Conversation from Graph.md",
+            "url": "Ue/blueprint/en/Conversation/StartConversationfromGraph.md"
+        },
+        {
+            "name": "Start Conversation.md",
+            "title": "Start Conversation.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Conversation/Start Conversation.md",
+            "url": "Ue/blueprint/en/Conversation/StartConversation.md"
+        }
+    ],
+    "categorys": []
+}

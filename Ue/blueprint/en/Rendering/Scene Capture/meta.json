@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Capture Scene.md",
+            "title": "Capture Scene.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Capture Scene.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/CaptureScene.md"
+        },
+        {
+            "name": "Clear Hidden Components.md",
+            "title": "Clear Hidden Components.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Clear Hidden Components.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/ClearHiddenComponents.md"
+        },
+        {
+            "name": "Clear Show Only Components.md",
+            "title": "Clear Show Only Components.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Clear Show Only Components.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/ClearShowOnlyComponents.md"
+        },
+        {
+            "name": "Hide Actor Components.md",
+            "title": "Hide Actor Components.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Hide Actor Components.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/HideActorComponents.md"
+        },
+        {
+            "name": "Hide Component.md",
+            "title": "Hide Component.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Hide Component.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/HideComponent.md"
+        },
+        {
+            "name": "Remove Show Only Actor Components.md",
+            "title": "Remove Show Only Actor Components.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Remove Show Only Actor Components.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/RemoveShowOnlyActorComponents.md"
+        },
+        {
+            "name": "Remove Show Only Component.md",
+            "title": "Remove Show Only Component.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Remove Show Only Component.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/RemoveShowOnlyComponent.md"
+        },
+        {
+            "name": "Set Capture Sort Priority.md",
+            "title": "Set Capture Sort Priority.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Set Capture Sort Priority.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/SetCaptureSortPriority.md"
+        },
+        {
+            "name": "Show Only Actor Components.md",
+            "title": "Show Only Actor Components.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Show Only Actor Components.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/ShowOnlyActorComponents.md"
+        },
+        {
+            "name": "Show Only Component.md",
+            "title": "Show Only Component.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Scene Capture/Show Only Component.md",
+            "url": "Ue/blueprint/en/Rendering/SceneCapture/ShowOnlyComponent.md"
+        }
+    ],
+    "categorys": []
+}

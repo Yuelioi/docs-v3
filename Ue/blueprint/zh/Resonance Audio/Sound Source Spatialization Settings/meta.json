@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Set Sound Source Directivity.md",
+            "title": "Set Sound Source Directivity.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Resonance Audio/Sound Source Spatialization Settings/Set Sound Source Directivity.md",
+            "url": "Ue/blueprint/zh/ResonanceAudio/SoundSourceSpatializationSettings/SetSoundSourceDirectivity.md"
+        },
+        {
+            "name": "Set Sound Source Spread.md",
+            "title": "Set Sound Source Spread.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Resonance Audio/Sound Source Spatialization Settings/Set Sound Source Spread.md",
+            "url": "Ue/blueprint/zh/ResonanceAudio/SoundSourceSpatializationSettings/SetSoundSourceSpread.md"
+        }
+    ],
+    "categorys": []
+}

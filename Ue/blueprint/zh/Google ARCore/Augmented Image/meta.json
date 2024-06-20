@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Local to Tracking Transform Of Region.md",
+            "title": "Get Local to Tracking Transform Of Region.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Augmented Image/Get Local to Tracking Transform Of Region.md",
+            "url": "Ue/blueprint/zh/GoogleARCore/AugmentedImage/GetLocaltoTrackingTransformOfRegion.md"
+        },
+        {
+            "name": "Get Local to World Transform Of Region.md",
+            "title": "Get Local to World Transform Of Region.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Augmented Image/Get Local to World Transform Of Region.md",
+            "url": "Ue/blueprint/zh/GoogleARCore/AugmentedImage/GetLocaltoWorldTransformOfRegion.md"
+        }
+    ],
+    "categorys": []
+}

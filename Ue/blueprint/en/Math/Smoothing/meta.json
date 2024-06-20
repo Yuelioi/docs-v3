@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Dynamic Weighted Moving Average Float.md",
+            "title": "Dynamic Weighted Moving Average Float.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Dynamic Weighted Moving Average Float.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/DynamicWeightedMovingAverageFloat.md"
+        },
+        {
+            "name": "Dynamic Weighted Moving Average Rotator.md",
+            "title": "Dynamic Weighted Moving Average Rotator.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Dynamic Weighted Moving Average Rotator.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/DynamicWeightedMovingAverageRotator.md"
+        },
+        {
+            "name": "Dynamic Weighted Moving Average Vector.md",
+            "title": "Dynamic Weighted Moving Average Vector.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Dynamic Weighted Moving Average Vector.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/DynamicWeightedMovingAverageVector.md"
+        },
+        {
+            "name": "Weighted Moving Average Float.md",
+            "title": "Weighted Moving Average Float.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Weighted Moving Average Float.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/WeightedMovingAverageFloat.md"
+        },
+        {
+            "name": "Weighted Moving Average Rotator.md",
+            "title": "Weighted Moving Average Rotator.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Weighted Moving Average Rotator.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/WeightedMovingAverageRotator.md"
+        },
+        {
+            "name": "Weighted Moving Average Vector.md",
+            "title": "Weighted Moving Average Vector.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Math/Smoothing/Weighted Moving Average Vector.md",
+            "url": "Ue/blueprint/en/Math/Smoothing/WeightedMovingAverageVector.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,16 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Scroll Style",
+            "title": "Scroll Style",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Rich Text/Scroll Style",
+            "url": "Ue/blueprint/en/CommonRichText/ScrollStyle"
+        }
+    ]
+}

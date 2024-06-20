@@ -1,0 +1,94 @@
+{
+    "documents": [
+        {
+            "name": "Async Load Game from Slot.md",
+            "title": "Async Load Game from Slot.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Async Load Game from Slot.md",
+            "url": "Ue/blueprint/en/SaveGame/AsyncLoadGamefromSlot.md"
+        },
+        {
+            "name": "Async Save Game to Slot.md",
+            "title": "Async Save Game to Slot.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Async Save Game to Slot.md",
+            "url": "Ue/blueprint/en/SaveGame/AsyncSaveGametoSlot.md"
+        },
+        {
+            "name": "Create Save Game Object.md",
+            "title": "Create Save Game Object.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Create Save Game Object.md",
+            "url": "Ue/blueprint/en/SaveGame/CreateSaveGameObject.md"
+        },
+        {
+            "name": "Delete Game in Slot.md",
+            "title": "Delete Game in Slot.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Delete Game in Slot.md",
+            "url": "Ue/blueprint/en/SaveGame/DeleteGameinSlot.md"
+        },
+        {
+            "name": "Does Save Game Exist.md",
+            "title": "Does Save Game Exist.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Does Save Game Exist.md",
+            "url": "Ue/blueprint/en/SaveGame/DoesSaveGameExist.md"
+        },
+        {
+            "name": "Load Game from Slot.md",
+            "title": "Load Game from Slot.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Load Game from Slot.md",
+            "url": "Ue/blueprint/en/SaveGame/LoadGamefromSlot.md"
+        },
+        {
+            "name": "Save Game to Slot.md",
+            "title": "Save Game to Slot.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Save Game to Slot.md",
+            "url": "Ue/blueprint/en/SaveGame/SaveGametoSlot.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Local Player",
+            "title": "Local Player",
+            "depth": 4,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Save Game/Local Player",
+            "url": "Ue/blueprint/en/SaveGame/LocalPlayer"
+        }
+    ]
+}

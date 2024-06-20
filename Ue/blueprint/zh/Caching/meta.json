@@ -1,0 +1,192 @@
+{
+    "documents": [
+        {
+            "name": "Add Asset Reference.md",
+            "title": "Add Asset Reference.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Add Asset Reference.md",
+            "url": "Ue/blueprint/zh/Caching/AddAssetReference.md"
+        },
+        {
+            "name": "Cache Asset.md",
+            "title": "Cache Asset.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Cache Asset.md",
+            "url": "Ue/blueprint/zh/Caching/CacheAsset.md"
+        },
+        {
+            "name": "Can Remove Asset.md",
+            "title": "Can Remove Asset.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Can Remove Asset.md",
+            "url": "Ue/blueprint/zh/Caching/CanRemoveAsset.md"
+        },
+        {
+            "name": "Enable Playback by Cache.md",
+            "title": "Enable Playback by Cache.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Enable Playback by Cache.md",
+            "url": "Ue/blueprint/zh/Caching/EnablePlaybackbyCache.md"
+        },
+        {
+            "name": "Enable Playback.md",
+            "title": "Enable Playback.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Enable Playback.md",
+            "url": "Ue/blueprint/zh/Caching/EnablePlayback.md"
+        },
+        {
+            "name": "Get Cached Asset.md",
+            "title": "Get Cached Asset.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Get Cached Asset.md",
+            "url": "Ue/blueprint/zh/Caching/GetCachedAsset.md"
+        },
+        {
+            "name": "Remove All Asset References.md",
+            "title": "Remove All Asset References.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Remove All Asset References.md",
+            "url": "Ue/blueprint/zh/Caching/RemoveAllAssetReferences.md"
+        },
+        {
+            "name": "Remove Asset Reference.md",
+            "title": "Remove Asset Reference.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Remove Asset Reference.md",
+            "url": "Ue/blueprint/zh/Caching/RemoveAssetReference.md"
+        },
+        {
+            "name": "Remove Asset.md",
+            "title": "Remove Asset.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Remove Asset.md",
+            "url": "Ue/blueprint/zh/Caching/RemoveAsset.md"
+        },
+        {
+            "name": "Reset All Component Transforms.md",
+            "title": "Reset All Component Transforms.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Reset All Component Transforms.md",
+            "url": "Ue/blueprint/zh/Caching/ResetAllComponentTransforms.md"
+        },
+        {
+            "name": "Reset Single Transform.md",
+            "title": "Reset Single Transform.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Reset Single Transform.md",
+            "url": "Ue/blueprint/zh/Caching/ResetSingleTransform.md"
+        },
+        {
+            "name": "Set Cache Collection.md",
+            "title": "Set Cache Collection.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Set Cache Collection.md",
+            "url": "Ue/blueprint/zh/Caching/SetCacheCollection.md"
+        },
+        {
+            "name": "Set Current Time.md",
+            "title": "Set Current Time.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Set Current Time.md",
+            "url": "Ue/blueprint/zh/Caching/SetCurrentTime.md"
+        },
+        {
+            "name": "Touch Asset.md",
+            "title": "Touch Asset.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Touch Asset.md",
+            "url": "Ue/blueprint/zh/Caching/TouchAsset.md"
+        },
+        {
+            "name": "Trigger All.md",
+            "title": "Trigger All.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Trigger All.md",
+            "url": "Ue/blueprint/zh/Caching/TriggerAll.md"
+        },
+        {
+            "name": "Trigger Component by Cache.md",
+            "title": "Trigger Component by Cache.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Trigger Component by Cache.md",
+            "url": "Ue/blueprint/zh/Caching/TriggerComponentbyCache.md"
+        },
+        {
+            "name": "Trigger Component.md",
+            "title": "Trigger Component.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Caching/Trigger Component.md",
+            "url": "Ue/blueprint/zh/Caching/TriggerComponent.md"
+        }
+    ],
+    "categorys": []
+}

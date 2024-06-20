@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get ARShared World Game State.md",
+            "title": "Get ARShared World Game State.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Shared World/Get ARShared World Game State.md",
+            "url": "Ue/blueprint/zh/ARSharedWorld/GetARSharedWorldGameState.md"
+        },
+        {
+            "name": "Set AR Preview Image Data.md",
+            "title": "Set AR Preview Image Data.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Shared World/Set AR Preview Image Data.md",
+            "url": "Ue/blueprint/zh/ARSharedWorld/SetARPreviewImageData.md"
+        },
+        {
+            "name": "Set AR Shared World Data.md",
+            "title": "Set AR Shared World Data.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Shared World/Set AR Shared World Data.md",
+            "url": "Ue/blueprint/zh/ARSharedWorld/SetARSharedWorldData.md"
+        },
+        {
+            "name": "Set AR World Sharing Is Ready.md",
+            "title": "Set AR World Sharing Is Ready.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Shared World/Set AR World Sharing Is Ready.md",
+            "url": "Ue/blueprint/zh/ARSharedWorld/SetARWorldSharingIsReady.md"
+        }
+    ],
+    "categorys": []
+}

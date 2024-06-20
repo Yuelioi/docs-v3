@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Get Debug Name.md",
+            "title": "Get Debug Name.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Debug Name.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetDebugName.md"
+        },
+        {
+            "name": "Get Last Update Frame Number.md",
+            "title": "Get Last Update Frame Number.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Last Update Frame Number.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetLastUpdateFrameNumber.md"
+        },
+        {
+            "name": "Get Last Update Timestamp.md",
+            "title": "Get Last Update Timestamp.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Last Update Timestamp.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetLastUpdateTimestamp.md"
+        },
+        {
+            "name": "Get Local to Tracking Transform.md",
+            "title": "Get Local to Tracking Transform.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Local to Tracking Transform.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetLocaltoTrackingTransform.md"
+        },
+        {
+            "name": "Get Local to World Transform.md",
+            "title": "Get Local to World Transform.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Local to World Transform.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetLocaltoWorldTransform.md"
+        },
+        {
+            "name": "Get Name.md",
+            "title": "Get Name.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Name.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetName.md"
+        },
+        {
+            "name": "Get Tracking State.md",
+            "title": "Get Tracking State.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Tracking State.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetTrackingState.md"
+        },
+        {
+            "name": "Get Underlying Mesh.md",
+            "title": "Get Underlying Mesh.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Get Underlying Mesh.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/GetUnderlyingMesh.md"
+        },
+        {
+            "name": "Is Tracked.md",
+            "title": "Is Tracked.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Tracked Geometry/Is Tracked.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/TrackedGeometry/IsTracked.md"
+        }
+    ],
+    "categorys": []
+}

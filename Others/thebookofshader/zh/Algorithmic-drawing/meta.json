@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Colors.md",
+            "title": "Colors.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing/Colors.md",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing/Colors.md"
+        },
+        {
+            "name": "Matrices.md",
+            "title": "Matrices.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing/Matrices.md",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing/Matrices.md"
+        },
+        {
+            "name": "Patterns.md",
+            "title": "Patterns.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing/Patterns.md",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing/Patterns.md"
+        },
+        {
+            "name": "Shapes.md",
+            "title": "Shapes.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing/Shapes.md",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing/Shapes.md"
+        },
+        {
+            "name": "Shaping-functions.md",
+            "title": "Shaping-functions.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing/Shaping-functions.md",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing/Shaping-functions.md"
+        }
+    ],
+    "categorys": []
+}

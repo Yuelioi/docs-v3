@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Environment Capture Texture.md",
+            "title": "Get Environment Capture Texture.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Environment Capture Probe/Get Environment Capture Texture.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/EnvironmentCaptureProbe/GetEnvironmentCaptureTexture.md"
+        },
+        {
+            "name": "Get Extent.md",
+            "title": "Get Extent.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Environment Capture Probe/Get Extent.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/EnvironmentCaptureProbe/GetExtent.md"
+        }
+    ],
+    "categorys": []
+}

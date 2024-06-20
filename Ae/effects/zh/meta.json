@@ -1,0 +1,236 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "3D-Channel",
+            "title": "3D-Channel",
+            "depth": 3,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/3D-Channel",
+            "url": "Ae/effects/zh/3D-Channel"
+        },
+        {
+            "name": "Audio",
+            "title": "Audio",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio",
+            "url": "Ae/effects/zh/Audio"
+        },
+        {
+            "name": "Blur-Sharpen",
+            "title": "Blur-Sharpen",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Blur-Sharpen",
+            "url": "Ae/effects/zh/Blur-Sharpen"
+        },
+        {
+            "name": "Channel",
+            "title": "Channel",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel",
+            "url": "Ae/effects/zh/Channel"
+        },
+        {
+            "name": "Color-Correction",
+            "title": "Color-Correction",
+            "depth": 3,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Color-Correction",
+            "url": "Ae/effects/zh/Color-Correction"
+        },
+        {
+            "name": "Distort",
+            "title": "Distort",
+            "depth": 3,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Distort",
+            "url": "Ae/effects/zh/Distort"
+        },
+        {
+            "name": "Expression-Controls",
+            "title": "Expression-Controls",
+            "depth": 3,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Expression-Controls",
+            "url": "Ae/effects/zh/Expression-Controls"
+        },
+        {
+            "name": "Generate",
+            "title": "Generate",
+            "depth": 3,
+            "order": 8,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate",
+            "url": "Ae/effects/zh/Generate"
+        },
+        {
+            "name": "Immersive-Video",
+            "title": "Immersive-Video",
+            "depth": 3,
+            "order": 9,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Immersive-Video",
+            "url": "Ae/effects/zh/Immersive-Video"
+        },
+        {
+            "name": "Keying",
+            "title": "Keying",
+            "depth": 3,
+            "order": 10,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Keying",
+            "url": "Ae/effects/zh/Keying"
+        },
+        {
+            "name": "Matte",
+            "title": "Matte",
+            "depth": 3,
+            "order": 11,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Matte",
+            "url": "Ae/effects/zh/Matte"
+        },
+        {
+            "name": "Noise-Grain",
+            "title": "Noise-Grain",
+            "depth": 3,
+            "order": 12,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Noise-Grain",
+            "url": "Ae/effects/zh/Noise-Grain"
+        },
+        {
+            "name": "Obsolete",
+            "title": "Obsolete",
+            "depth": 3,
+            "order": 13,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete",
+            "url": "Ae/effects/zh/Obsolete"
+        },
+        {
+            "name": "Overview",
+            "title": "Overview",
+            "depth": 3,
+            "order": 14,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Overview",
+            "url": "Ae/effects/zh/Overview"
+        },
+        {
+            "name": "Perspective",
+            "title": "Perspective",
+            "depth": 3,
+            "order": 15,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Perspective",
+            "url": "Ae/effects/zh/Perspective"
+        },
+        {
+            "name": "Simulation",
+            "title": "Simulation",
+            "depth": 3,
+            "order": 16,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Simulation",
+            "url": "Ae/effects/zh/Simulation"
+        },
+        {
+            "name": "Stylize",
+            "title": "Stylize",
+            "depth": 3,
+            "order": 17,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize",
+            "url": "Ae/effects/zh/Stylize"
+        },
+        {
+            "name": "Text",
+            "title": "Text",
+            "depth": 3,
+            "order": 18,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Text",
+            "url": "Ae/effects/zh/Text"
+        },
+        {
+            "name": "Time",
+            "title": "Time",
+            "depth": 3,
+            "order": 19,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Time",
+            "url": "Ae/effects/zh/Time"
+        },
+        {
+            "name": "Transition",
+            "title": "Transition",
+            "depth": 3,
+            "order": 20,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition",
+            "url": "Ae/effects/zh/Transition"
+        },
+        {
+            "name": "Utility",
+            "title": "Utility",
+            "depth": 3,
+            "order": 21,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Utility",
+            "url": "Ae/effects/zh/Utility"
+        }
+    ]
+}

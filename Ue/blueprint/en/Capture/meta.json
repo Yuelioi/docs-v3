@@ -1,0 +1,159 @@
+{
+    "documents": [
+        {
+            "name": "Generate Filename for Buffer.md",
+            "title": "Generate Filename for Buffer.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Generate Filename for Buffer.md",
+            "url": "Ue/blueprint/en/Capture/GenerateFilenameforBuffer.md"
+        },
+        {
+            "name": "Generate Filename for Current Frame.md",
+            "title": "Generate Filename for Current Frame.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Generate Filename for Current Frame.md",
+            "url": "Ue/blueprint/en/Capture/GenerateFilenameforCurrentFrame.md"
+        },
+        {
+            "name": "Generate Filename.md",
+            "title": "Generate Filename.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Generate Filename.md",
+            "url": "Ue/blueprint/en/Capture/GenerateFilename.md"
+        },
+        {
+            "name": "Get Audio Capture Protocol.md",
+            "title": "Get Audio Capture Protocol.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Get Audio Capture Protocol.md",
+            "url": "Ue/blueprint/en/Capture/GetAudioCaptureProtocol.md"
+        },
+        {
+            "name": "Get Current Frame Metrics.md",
+            "title": "Get Current Frame Metrics.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Get Current Frame Metrics.md",
+            "url": "Ue/blueprint/en/Capture/GetCurrentFrameMetrics.md"
+        },
+        {
+            "name": "Get Image Capture Protocol.md",
+            "title": "Get Image Capture Protocol.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Get Image Capture Protocol.md",
+            "url": "Ue/blueprint/en/Capture/GetImageCaptureProtocol.md"
+        },
+        {
+            "name": "Get State.md",
+            "title": "Get State.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Get State.md",
+            "url": "Ue/blueprint/en/Capture/GetState.md"
+        },
+        {
+            "name": "Is Capturing.md",
+            "title": "Is Capturing.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Is Capturing.md",
+            "url": "Ue/blueprint/en/Capture/IsCapturing.md"
+        },
+        {
+            "name": "Resolve Buffer.md",
+            "title": "Resolve Buffer.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Resolve Buffer.md",
+            "url": "Ue/blueprint/en/Capture/ResolveBuffer.md"
+        },
+        {
+            "name": "Set Audio Capture Protocol Type.md",
+            "title": "Set Audio Capture Protocol Type.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Set Audio Capture Protocol Type.md",
+            "url": "Ue/blueprint/en/Capture/SetAudioCaptureProtocolType.md"
+        },
+        {
+            "name": "Set Image Capture Protocol Type.md",
+            "title": "Set Image Capture Protocol Type.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Set Image Capture Protocol Type.md",
+            "url": "Ue/blueprint/en/Capture/SetImageCaptureProtocolType.md"
+        },
+        {
+            "name": "Start Capturing Final Pixels.md",
+            "title": "Start Capturing Final Pixels.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Start Capturing Final Pixels.md",
+            "url": "Ue/blueprint/en/Capture/StartCapturingFinalPixels.md"
+        },
+        {
+            "name": "Stop Capturing Final Pixels.md",
+            "title": "Stop Capturing Final Pixels.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Stop Capturing Final Pixels.md",
+            "url": "Ue/blueprint/en/Capture/StopCapturingFinalPixels.md"
+        },
+        {
+            "name": "Write Image to Disk.md",
+            "title": "Write Image to Disk.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Capture/Write Image to Disk.md",
+            "url": "Ue/blueprint/en/Capture/WriteImagetoDisk.md"
+        }
+    ],
+    "categorys": []
+}

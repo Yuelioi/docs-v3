@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Spawn Decal Attached.md",
+            "title": "Spawn Decal Attached.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Decal/Spawn Decal Attached.md",
+            "url": "Ue/blueprint/en/Rendering/Decal/SpawnDecalAttached.md"
+        },
+        {
+            "name": "Spawn Decal at Location.md",
+            "title": "Spawn Decal at Location.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rendering/Decal/Spawn Decal at Location.md",
+            "url": "Ue/blueprint/en/Rendering/Decal/SpawnDecalatLocation.md"
+        }
+    ],
+    "categorys": []
+}

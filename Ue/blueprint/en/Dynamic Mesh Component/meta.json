@@ -1,0 +1,314 @@
+{
+    "documents": [
+        {
+            "name": "Clear Override Render Material.md",
+            "title": "Clear Override Render Material.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Clear Override Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/ClearOverrideRenderMaterial.md"
+        },
+        {
+            "name": "Clear Secondary Render Material.md",
+            "title": "Clear Secondary Render Material.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Clear Secondary Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/ClearSecondaryRenderMaterial.md"
+        },
+        {
+            "name": "Configure Material Set.md",
+            "title": "Configure Material Set.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Configure Material Set.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/ConfigureMaterialSet.md"
+        },
+        {
+            "name": "Enable Complex as Simple Collision.md",
+            "title": "Enable Complex as Simple Collision.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Enable Complex as Simple Collision.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/EnableComplexasSimpleCollision.md"
+        },
+        {
+            "name": "Get Dynamic Mesh.md",
+            "title": "Get Dynamic Mesh.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Dynamic Mesh.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetDynamicMesh.md"
+        },
+        {
+            "name": "Get Enable Raytracing.md",
+            "title": "Get Enable Raytracing.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Enable Raytracing.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetEnableRaytracing.md"
+        },
+        {
+            "name": "Get Enable Wireframe Render Pass.md",
+            "title": "Get Enable Wireframe Render Pass.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Enable Wireframe Render Pass.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetEnableWireframeRenderPass.md"
+        },
+        {
+            "name": "Get Override Render Material.md",
+            "title": "Get Override Render Material.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Override Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetOverrideRenderMaterial.md"
+        },
+        {
+            "name": "Get Secondary Buffers Visibility.md",
+            "title": "Get Secondary Buffers Visibility.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Secondary Buffers Visibility.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetSecondaryBuffersVisibility.md"
+        },
+        {
+            "name": "Get Secondary Render Material.md",
+            "title": "Get Secondary Render Material.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Secondary Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetSecondaryRenderMaterial.md"
+        },
+        {
+            "name": "Get Shadows Enabled.md",
+            "title": "Get Shadows Enabled.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Shadows Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetShadowsEnabled.md"
+        },
+        {
+            "name": "Get Tangents Type.md",
+            "title": "Get Tangents Type.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get Tangents Type.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetTangentsType.md"
+        },
+        {
+            "name": "Get View Mode Overrides Enabled.md",
+            "title": "Get View Mode Overrides Enabled.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Get View Mode Overrides Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/GetViewModeOverridesEnabled.md"
+        },
+        {
+            "name": "Has Override Render Material.md",
+            "title": "Has Override Render Material.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Has Override Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/HasOverrideRenderMaterial.md"
+        },
+        {
+            "name": "Set Complex as Simple Collision Enabled.md",
+            "title": "Set Complex as Simple Collision Enabled.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Complex as Simple Collision Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetComplexasSimpleCollisionEnabled.md"
+        },
+        {
+            "name": "Set Deferred Collision Updates Enabled.md",
+            "title": "Set Deferred Collision Updates Enabled.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Deferred Collision Updates Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetDeferredCollisionUpdatesEnabled.md"
+        },
+        {
+            "name": "Set Dynamic Mesh.md",
+            "title": "Set Dynamic Mesh.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Dynamic Mesh.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetDynamicMesh.md"
+        },
+        {
+            "name": "Set Enable Raytracing.md",
+            "title": "Set Enable Raytracing.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Enable Raytracing.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetEnableRaytracing.md"
+        },
+        {
+            "name": "Set Enable Wireframe Render Pass.md",
+            "title": "Set Enable Wireframe Render Pass.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Enable Wireframe Render Pass.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetEnableWireframeRenderPass.md"
+        },
+        {
+            "name": "Set Override Render Material.md",
+            "title": "Set Override Render Material.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Override Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetOverrideRenderMaterial.md"
+        },
+        {
+            "name": "Set Secondary Buffers Visibility.md",
+            "title": "Set Secondary Buffers Visibility.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Secondary Buffers Visibility.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetSecondaryBuffersVisibility.md"
+        },
+        {
+            "name": "Set Secondary Render Material.md",
+            "title": "Set Secondary Render Material.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Secondary Render Material.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetSecondaryRenderMaterial.md"
+        },
+        {
+            "name": "Set Shadows Enabled.md",
+            "title": "Set Shadows Enabled.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Shadows Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetShadowsEnabled.md"
+        },
+        {
+            "name": "Set Tangents Type.md",
+            "title": "Set Tangents Type.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set Tangents Type.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetTangentsType.md"
+        },
+        {
+            "name": "Set View Mode Overrides Enabled.md",
+            "title": "Set View Mode Overrides Enabled.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Set View Mode Overrides Enabled.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/SetViewModeOverridesEnabled.md"
+        },
+        {
+            "name": "Update Collision.md",
+            "title": "Update Collision.md",
+            "depth": 4,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Update Collision.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/UpdateCollision.md"
+        },
+        {
+            "name": "Validate Material Slots.md",
+            "title": "Validate Material Slots.md",
+            "depth": 4,
+            "order": 28,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Validate Material Slots.md",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/ValidateMaterialSlots.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Rendering",
+            "title": "Rendering",
+            "depth": 4,
+            "order": 15,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Dynamic Mesh Component/Rendering",
+            "url": "Ue/blueprint/en/DynamicMeshComponent/Rendering"
+        }
+    ]
+}

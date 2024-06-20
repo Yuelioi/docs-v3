@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "Get Apply Line Height to Bottom Line.md",
+            "title": "Get Apply Line Height to Bottom Line.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Apply Line Height to Bottom Line.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetApplyLineHeighttoBottomLine.md"
+        },
+        {
+            "name": "Get Color.md",
+            "title": "Get Color.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Color.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetColor.md"
+        },
+        {
+            "name": "Get Font.md",
+            "title": "Get Font.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Font.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetFont.md"
+        },
+        {
+            "name": "Get Line Height Percentage.md",
+            "title": "Get Line Height Percentage.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Line Height Percentage.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetLineHeightPercentage.md"
+        },
+        {
+            "name": "Get Margin.md",
+            "title": "Get Margin.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Margin.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetMargin.md"
+        },
+        {
+            "name": "Get Shadow Color.md",
+            "title": "Get Shadow Color.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Shadow Color.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetShadowColor.md"
+        },
+        {
+            "name": "Get Shadow Offset.md",
+            "title": "Get Shadow Offset.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Shadow Offset.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetShadowOffset.md"
+        },
+        {
+            "name": "Get Strike Brush.md",
+            "title": "Get Strike Brush.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Text Style/Getters/Get Strike Brush.md",
+            "url": "Ue/blueprint/en/CommonTextStyle/Getters/GetStrikeBrush.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Completion Mode Override.md",
+            "title": "Get Completion Mode Override.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Cinematic/Get Completion Mode Override.md",
+            "url": "Ue/blueprint/en/Game/Cinematic/GetCompletionModeOverride.md"
+        },
+        {
+            "name": "Restore State.md",
+            "title": "Restore State.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Cinematic/Restore State.md",
+            "url": "Ue/blueprint/en/Game/Cinematic/RestoreState.md"
+        },
+        {
+            "name": "Set Cinematic Mode.md",
+            "title": "Set Cinematic Mode.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Cinematic/Set Cinematic Mode.md",
+            "url": "Ue/blueprint/en/Game/Cinematic/SetCinematicMode.md"
+        },
+        {
+            "name": "Set Completion Mode Override.md",
+            "title": "Set Completion Mode Override.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game/Cinematic/Set Completion Mode Override.md",
+            "url": "Ue/blueprint/en/Game/Cinematic/SetCompletionModeOverride.md"
+        }
+    ],
+    "categorys": []
+}

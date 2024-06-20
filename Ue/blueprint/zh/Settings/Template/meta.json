@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Element Type.md",
+            "title": "Get Element Type.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Settings/Template/Get Element Type.md",
+            "url": "Ue/blueprint/zh/Settings/Template/GetElementType.md"
+        },
+        {
+            "name": "Set Element Type.md",
+            "title": "Set Element Type.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Settings/Template/Set Element Type.md",
+            "url": "Ue/blueprint/zh/Settings/Template/SetElementType.md"
+        }
+    ],
+    "categorys": []
+}

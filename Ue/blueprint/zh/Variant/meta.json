@@ -1,0 +1,105 @@
+{
+    "documents": [
+        {
+            "name": "Get Actor.md",
+            "title": "Get Actor.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Get Actor.md",
+            "url": "Ue/blueprint/zh/Variant/GetActor.md"
+        },
+        {
+            "name": "Get Display Text.md",
+            "title": "Get Display Text.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Get Display Text.md",
+            "url": "Ue/blueprint/zh/Variant/GetDisplayText.md"
+        },
+        {
+            "name": "Get Num Actors.md",
+            "title": "Get Num Actors.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Get Num Actors.md",
+            "url": "Ue/blueprint/zh/Variant/GetNumActors.md"
+        },
+        {
+            "name": "Get Parent.md",
+            "title": "Get Parent.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Get Parent.md",
+            "url": "Ue/blueprint/zh/Variant/GetParent.md"
+        },
+        {
+            "name": "Is Active.md",
+            "title": "Is Active.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Is Active.md",
+            "url": "Ue/blueprint/zh/Variant/IsActive.md"
+        },
+        {
+            "name": "Set Display Text.md",
+            "title": "Set Display Text.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Set Display Text.md",
+            "url": "Ue/blueprint/zh/Variant/SetDisplayText.md"
+        },
+        {
+            "name": "Switch On.md",
+            "title": "Switch On.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Switch On.md",
+            "url": "Ue/blueprint/zh/Variant/SwitchOn.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Dependencies",
+            "title": "Dependencies",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Dependencies",
+            "url": "Ue/blueprint/zh/Variant/Dependencies"
+        },
+        {
+            "name": "Thumbnail",
+            "title": "Thumbnail",
+            "depth": 4,
+            "order": 9,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Thumbnail",
+            "url": "Ue/blueprint/zh/Variant/Thumbnail"
+        }
+    ]
+}

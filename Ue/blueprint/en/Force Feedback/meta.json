@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "Adjust Attenuation.md",
+            "title": "Adjust Attenuation.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Adjust Attenuation.md",
+            "url": "Ue/blueprint/en/ForceFeedback/AdjustAttenuation.md"
+        },
+        {
+            "name": "Get Attenuation Settings To Apply.md",
+            "title": "Get Attenuation Settings To Apply.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Get Attenuation Settings To Apply.md",
+            "url": "Ue/blueprint/en/ForceFeedback/GetAttenuationSettingsToApply.md"
+        },
+        {
+            "name": "Play.md",
+            "title": "Play.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Play.md",
+            "url": "Ue/blueprint/en/ForceFeedback/Play.md"
+        },
+        {
+            "name": "Set Force Feedback Effect.md",
+            "title": "Set Force Feedback Effect.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Set Force Feedback Effect.md",
+            "url": "Ue/blueprint/en/ForceFeedback/SetForceFeedbackEffect.md"
+        },
+        {
+            "name": "Set Intensity Multiplier.md",
+            "title": "Set Intensity Multiplier.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Set Intensity Multiplier.md",
+            "url": "Ue/blueprint/en/ForceFeedback/SetIntensityMultiplier.md"
+        },
+        {
+            "name": "Spawn Force Feedback Attached.md",
+            "title": "Spawn Force Feedback Attached.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Spawn Force Feedback Attached.md",
+            "url": "Ue/blueprint/en/ForceFeedback/SpawnForceFeedbackAttached.md"
+        },
+        {
+            "name": "Spawn Force Feedback at Location.md",
+            "title": "Spawn Force Feedback at Location.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Spawn Force Feedback at Location.md",
+            "url": "Ue/blueprint/en/ForceFeedback/SpawnForceFeedbackatLocation.md"
+        },
+        {
+            "name": "Stop.md",
+            "title": "Stop.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Force Feedback/Stop.md",
+            "url": "Ue/blueprint/en/ForceFeedback/Stop.md"
+        }
+    ],
+    "categorys": []
+}

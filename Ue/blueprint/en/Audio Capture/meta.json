@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Create Audio Capture.md",
+            "title": "Create Audio Capture.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Capture/Create Audio Capture.md",
+            "url": "Ue/blueprint/en/AudioCapture/CreateAudioCapture.md"
+        },
+        {
+            "name": "Get Audio Capture Device Info.md",
+            "title": "Get Audio Capture Device Info.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Capture/Get Audio Capture Device Info.md",
+            "url": "Ue/blueprint/en/AudioCapture/GetAudioCaptureDeviceInfo.md"
+        },
+        {
+            "name": "Is Capturing Audio.md",
+            "title": "Is Capturing Audio.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Capture/Is Capturing Audio.md",
+            "url": "Ue/blueprint/en/AudioCapture/IsCapturingAudio.md"
+        },
+        {
+            "name": "Start Capturing Audio.md",
+            "title": "Start Capturing Audio.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Capture/Start Capturing Audio.md",
+            "url": "Ue/blueprint/en/AudioCapture/StartCapturingAudio.md"
+        },
+        {
+            "name": "Stop Capturing Audio.md",
+            "title": "Stop Capturing Audio.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Audio Capture/Stop Capturing Audio.md",
+            "url": "Ue/blueprint/en/AudioCapture/StopCapturingAudio.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,313 @@
+{
+    "documents": [
+        {
+            "name": "Contains Attribute.md",
+            "title": "Contains Attribute.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Contains Attribute.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/ContainsAttribute.md"
+        },
+        {
+            "name": "Convert Attribute Map to Raw Map.md",
+            "title": "Convert Attribute Map to Raw Map.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Convert Attribute Map to Raw Map.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/ConvertAttributeMaptoRawMap.md"
+        },
+        {
+            "name": "Convert to Valid Map.md",
+            "title": "Convert to Valid Map.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Convert to Valid Map.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/ConverttoValidMap.md"
+        },
+        {
+            "name": "Get All Attributes in Active Mode.md",
+            "title": "Get All Attributes in Active Mode.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get All Attributes in Active Mode.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAllAttributesinActiveMode.md"
+        },
+        {
+            "name": "Get All Matrix Cells.md",
+            "title": "Get All Matrix Cells.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get All Matrix Cells.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAllMatrixCells.md"
+        },
+        {
+            "name": "Get Attribute Channel Assignments.md",
+            "title": "Get Attribute Channel Assignments.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attribute Channel Assignments.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributeChannelAssignments.md"
+        },
+        {
+            "name": "Get Attribute Default Map.md",
+            "title": "Get Attribute Default Map.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attribute Default Map.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributeDefaultMap.md"
+        },
+        {
+            "name": "Get Attribute Functions Map.md",
+            "title": "Get Attribute Functions Map.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attribute Functions Map.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributeFunctionsMap.md"
+        },
+        {
+            "name": "Get Attribute Signal Formats.md",
+            "title": "Get Attribute Signal Formats.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attribute Signal Formats.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributeSignalFormats.md"
+        },
+        {
+            "name": "Get Attribute Value.md",
+            "title": "Get Attribute Value.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attribute Value.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributeValue.md"
+        },
+        {
+            "name": "Get Attributes Values.md",
+            "title": "Get Attributes Values.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Attributes Values.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetAttributesValues.md"
+        },
+        {
+            "name": "Get Cell Attributes.md",
+            "title": "Get Cell Attributes.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Cell Attributes.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetCellAttributes.md"
+        },
+        {
+            "name": "Get Channel Span.md",
+            "title": "Get Channel Span.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Channel Span.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetChannelSpan.md"
+        },
+        {
+            "name": "Get Ending Channel.md",
+            "title": "Get Ending Channel.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Ending Channel.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetEndingChannel.md"
+        },
+        {
+            "name": "Get Matrix Cell Channels Absolute with Validation.md",
+            "title": "Get Matrix Cell Channels Absolute with Validation.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Cell Channels Absolute with Validation.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixCellChannelsAbsolutewithValidation.md"
+        },
+        {
+            "name": "Get Matrix Cell Channels Absolute.md",
+            "title": "Get Matrix Cell Channels Absolute.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Cell Channels Absolute.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixCellChannelsAbsolute.md"
+        },
+        {
+            "name": "Get Matrix Cell Channels Relative.md",
+            "title": "Get Matrix Cell Channels Relative.md",
+            "depth": 5,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Cell Channels Relative.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixCellChannelsRelative.md"
+        },
+        {
+            "name": "Get Matrix Cell Values.md",
+            "title": "Get Matrix Cell Values.md",
+            "depth": 5,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Cell Values.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixCellValues.md"
+        },
+        {
+            "name": "Get Matrix Cell.md",
+            "title": "Get Matrix Cell.md",
+            "depth": 5,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Cell.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixCell.md"
+        },
+        {
+            "name": "Get Matrix Properties.md",
+            "title": "Get Matrix Properties.md",
+            "depth": 5,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Matrix Properties.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetMatrixProperties.md"
+        },
+        {
+            "name": "Get Normalized Attributes Values.md",
+            "title": "Get Normalized Attributes Values.md",
+            "depth": 5,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Normalized Attributes Values.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetNormalizedAttributesValues.md"
+        },
+        {
+            "name": "Get Normalized Matrix Cell Values.md",
+            "title": "Get Normalized Matrix Cell Values.md",
+            "depth": 5,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Normalized Matrix Cell Values.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetNormalizedMatrixCellValues.md"
+        },
+        {
+            "name": "Get Starting Channel.md",
+            "title": "Get Starting Channel.md",
+            "depth": 5,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Get Starting Channel.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/GetStartingChannel.md"
+        },
+        {
+            "name": "Is Map Valid.md",
+            "title": "Is Map Valid.md",
+            "depth": 5,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Is Map Valid.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/IsMapValid.md"
+        },
+        {
+            "name": "Send Matrix Cell Value.md",
+            "title": "Send Matrix Cell Value.md",
+            "depth": 5,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Send Matrix Cell Value.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/SendMatrixCellValue.md"
+        },
+        {
+            "name": "Send Normalized Matrix Cell Value.md",
+            "title": "Send Normalized Matrix Cell Value.md",
+            "depth": 5,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Send Normalized Matrix Cell Value.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/SendNormalizedMatrixCellValue.md"
+        },
+        {
+            "name": "Set Fixture Type.md",
+            "title": "Set Fixture Type.md",
+            "depth": 5,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Set Fixture Type.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/SetFixtureType.md"
+        },
+        {
+            "name": "Set Starting Channel.md",
+            "title": "Set Starting Channel.md",
+            "depth": 5,
+            "order": 28,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/DMX/Fixture Patch/Set Starting Channel.md",
+            "url": "Ue/blueprint/en/DMX/FixturePatch/SetStartingChannel.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,126 @@
+{
+    "documents": [
+        {
+            "name": "Add Runtime Candidate Image from Rawbytes.md",
+            "title": "Add Runtime Candidate Image from Rawbytes.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Add Runtime Candidate Image from Rawbytes.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/AddRuntimeCandidateImagefromRawbytes.md"
+        },
+        {
+            "name": "Add Runtime Candidate Image.md",
+            "title": "Add Runtime Candidate Image.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Add Runtime Candidate Image.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/AddRuntimeCandidateImage.md"
+        },
+        {
+            "name": "Get AR Session Config.md",
+            "title": "Get AR Session Config.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Get AR Session Config.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/GetARSessionConfig.md"
+        },
+        {
+            "name": "Get AR Session Status.md",
+            "title": "Get AR Session Status.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Get AR Session Status.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/GetARSessionStatus.md"
+        },
+        {
+            "name": "Is AR Scene Reconstruction Supported.md",
+            "title": "Is AR Scene Reconstruction Supported.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Is AR Scene Reconstruction Supported.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/IsARSceneReconstructionSupported.md"
+        },
+        {
+            "name": "Is AR Session Tracking Feature Supported.md",
+            "title": "Is AR Session Tracking Feature Supported.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Is AR Session Tracking Feature Supported.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/IsARSessionTrackingFeatureSupported.md"
+        },
+        {
+            "name": "Is AR Supported.md",
+            "title": "Is AR Supported.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Is AR Supported.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/IsARSupported.md"
+        },
+        {
+            "name": "Pause AR Session.md",
+            "title": "Pause AR Session.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Pause AR Session.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/PauseARSession.md"
+        },
+        {
+            "name": "Start AR Session.md",
+            "title": "Start AR Session.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Start AR Session.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/StartARSession.md"
+        },
+        {
+            "name": "Stop AR Session.md",
+            "title": "Stop AR Session.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Stop AR Session.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/StopARSession.md"
+        },
+        {
+            "name": "Toggle ARCapture.md",
+            "title": "Toggle ARCapture.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Session/Toggle ARCapture.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Session/ToggleARCapture.md"
+        }
+    ],
+    "categorys": []
+}

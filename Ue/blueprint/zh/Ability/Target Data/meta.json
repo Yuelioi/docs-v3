@@ -1,0 +1,203 @@
+{
+    "documents": [
+        {
+            "name": "Ability Target Data from Actor Array.md",
+            "title": "Ability Target Data from Actor Array.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Ability Target Data from Actor Array.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/AbilityTargetDatafromActorArray.md"
+        },
+        {
+            "name": "Ability Target Data from Actor.md",
+            "title": "Ability Target Data from Actor.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Ability Target Data from Actor.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/AbilityTargetDatafromActor.md"
+        },
+        {
+            "name": "Ability Target Data from Hit Result.md",
+            "title": "Ability Target Data from Hit Result.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Ability Target Data from Hit Result.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/AbilityTargetDatafromHitResult.md"
+        },
+        {
+            "name": "Ability Target Data from Locations.md",
+            "title": "Ability Target Data from Locations.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Ability Target Data from Locations.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/AbilityTargetDatafromLocations.md"
+        },
+        {
+            "name": "Append Target Data Handle.md",
+            "title": "Append Target Data Handle.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Append Target Data Handle.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/AppendTargetDataHandle.md"
+        },
+        {
+            "name": "Does Target Data Contain Actor.md",
+            "title": "Does Target Data Contain Actor.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Does Target Data Contain Actor.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/DoesTargetDataContainActor.md"
+        },
+        {
+            "name": "Filter Target Data.md",
+            "title": "Filter Target Data.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Filter Target Data.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/FilterTargetData.md"
+        },
+        {
+            "name": "Get Actors from Target Data.md",
+            "title": "Get Actors from Target Data.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Actors from Target Data.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetActorsfromTargetData.md"
+        },
+        {
+            "name": "Get All Actors from Target Data.md",
+            "title": "Get All Actors from Target Data.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get All Actors from Target Data.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetAllActorsfromTargetData.md"
+        },
+        {
+            "name": "Get Data Count from Target Data.md",
+            "title": "Get Data Count from Target Data.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Data Count from Target Data.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetDataCountfromTargetData.md"
+        },
+        {
+            "name": "Get Hit Result from Target Data.md",
+            "title": "Get Hit Result from Target Data.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Hit Result from Target Data.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetHitResultfromTargetData.md"
+        },
+        {
+            "name": "Get Target Data End Point Transform.md",
+            "title": "Get Target Data End Point Transform.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Target Data End Point Transform.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetTargetDataEndPointTransform.md"
+        },
+        {
+            "name": "Get Target Data End Point.md",
+            "title": "Get Target Data End Point.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Target Data End Point.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetTargetDataEndPoint.md"
+        },
+        {
+            "name": "Get Target Data Origin.md",
+            "title": "Get Target Data Origin.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Get Target Data Origin.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/GetTargetDataOrigin.md"
+        },
+        {
+            "name": "Target Data Has Actor.md",
+            "title": "Target Data Has Actor.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Target Data Has Actor.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/TargetDataHasActor.md"
+        },
+        {
+            "name": "Target Data Has End Point.md",
+            "title": "Target Data Has End Point.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Target Data Has End Point.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/TargetDataHasEndPoint.md"
+        },
+        {
+            "name": "Target Data Has Hit Result.md",
+            "title": "Target Data Has Hit Result.md",
+            "depth": 5,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Target Data Has Hit Result.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/TargetDataHasHitResult.md"
+        },
+        {
+            "name": "Target Data Has Origin.md",
+            "title": "Target Data Has Origin.md",
+            "depth": 5,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Ability/Target Data/Target Data Has Origin.md",
+            "url": "Ue/blueprint/zh/Ability/TargetData/TargetDataHasOrigin.md"
+        }
+    ],
+    "categorys": []
+}

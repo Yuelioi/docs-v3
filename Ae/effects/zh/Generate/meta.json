@@ -1,0 +1,291 @@
+{
+    "documents": [
+        {
+            "name": "4-color-Gradient.md",
+            "title": "4-color-Gradient.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/4-color-Gradient.md",
+            "url": "Ae/effects/zh/Generate/4-color-Gradient.md"
+        },
+        {
+            "name": "Advanced-Lightning.md",
+            "title": "Advanced-Lightning.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Advanced-Lightning.md",
+            "url": "Ae/effects/zh/Generate/Advanced-Lightning.md"
+        },
+        {
+            "name": "Audio-Spectru.md",
+            "title": "Audio-Spectru.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Audio-Spectru.md",
+            "url": "Ae/effects/zh/Generate/Audio-Spectru.md"
+        },
+        {
+            "name": "Audio-Wavefor.md",
+            "title": "Audio-Wavefor.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Audio-Wavefor.md",
+            "url": "Ae/effects/zh/Generate/Audio-Wavefor.md"
+        },
+        {
+            "name": "Bea.md",
+            "title": "Bea.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Bea.md",
+            "url": "Ae/effects/zh/Generate/Bea.md"
+        },
+        {
+            "name": "CC-Glue-Gun.md",
+            "title": "CC-Glue-Gun.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/CC-Glue-Gun.md",
+            "url": "Ae/effects/zh/Generate/CC-Glue-Gun.md"
+        },
+        {
+            "name": "CC-Light-Burst-2.md",
+            "title": "CC-Light-Burst-2.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/CC-Light-Burst-2.md",
+            "url": "Ae/effects/zh/Generate/CC-Light-Burst-2.md"
+        },
+        {
+            "name": "CC-Light-Rays.md",
+            "title": "CC-Light-Rays.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/CC-Light-Rays.md",
+            "url": "Ae/effects/zh/Generate/CC-Light-Rays.md"
+        },
+        {
+            "name": "CC-Light-Sweep.md",
+            "title": "CC-Light-Sweep.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/CC-Light-Sweep.md",
+            "url": "Ae/effects/zh/Generate/CC-Light-Sweep.md"
+        },
+        {
+            "name": "CC-Threads.md",
+            "title": "CC-Threads.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/CC-Threads.md",
+            "url": "Ae/effects/zh/Generate/CC-Threads.md"
+        },
+        {
+            "name": "Cell-Pattern.md",
+            "title": "Cell-Pattern.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Cell-Pattern.md",
+            "url": "Ae/effects/zh/Generate/Cell-Pattern.md"
+        },
+        {
+            "name": "Checkerboar.md",
+            "title": "Checkerboar.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Checkerboar.md",
+            "url": "Ae/effects/zh/Generate/Checkerboar.md"
+        },
+        {
+            "name": "Circle.md",
+            "title": "Circle.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Circle.md",
+            "url": "Ae/effects/zh/Generate/Circle.md"
+        },
+        {
+            "name": "Ellipse.md",
+            "title": "Ellipse.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Ellipse.md",
+            "url": "Ae/effects/zh/Generate/Ellipse.md"
+        },
+        {
+            "name": "Eyedropper-Fill.md",
+            "title": "Eyedropper-Fill.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Eyedropper-Fill.md",
+            "url": "Ae/effects/zh/Generate/Eyedropper-Fill.md"
+        },
+        {
+            "name": "Fill.md",
+            "title": "Fill.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Fill.md",
+            "url": "Ae/effects/zh/Generate/Fill.md"
+        },
+        {
+            "name": "Fractal.md",
+            "title": "Fractal.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Fractal.md",
+            "url": "Ae/effects/zh/Generate/Fractal.md"
+        },
+        {
+            "name": "Gradient-Ramp.md",
+            "title": "Gradient-Ramp.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Gradient-Ramp.md",
+            "url": "Ae/effects/zh/Generate/Gradient-Ramp.md"
+        },
+        {
+            "name": "Gri.md",
+            "title": "Gri.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Gri.md",
+            "url": "Ae/effects/zh/Generate/Gri.md"
+        },
+        {
+            "name": "Lens-Flare.md",
+            "title": "Lens-Flare.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Lens-Flare.md",
+            "url": "Ae/effects/zh/Generate/Lens-Flare.md"
+        },
+        {
+            "name": "Paint-Bucket.md",
+            "title": "Paint-Bucket.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Paint-Bucket.md",
+            "url": "Ae/effects/zh/Generate/Paint-Bucket.md"
+        },
+        {
+            "name": "Radio-Waves.md",
+            "title": "Radio-Waves.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Radio-Waves.md",
+            "url": "Ae/effects/zh/Generate/Radio-Waves.md"
+        },
+        {
+            "name": "Scribble.md",
+            "title": "Scribble.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Scribble.md",
+            "url": "Ae/effects/zh/Generate/Scribble.md"
+        },
+        {
+            "name": "Stroke.md",
+            "title": "Stroke.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Stroke.md",
+            "url": "Ae/effects/zh/Generate/Stroke.md"
+        },
+        {
+            "name": "Vegas.md",
+            "title": "Vegas.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Vegas.md",
+            "url": "Ae/effects/zh/Generate/Vegas.md"
+        },
+        {
+            "name": "Write-On.md",
+            "title": "Write-On.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Generate/Write-On.md",
+            "url": "Ae/effects/zh/Generate/Write-On.md"
+        }
+    ],
+    "categorys": []
+}

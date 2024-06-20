@@ -1,0 +1,50 @@
+{
+    "documents": [
+        {
+            "name": "7.md",
+            "title": "7.md",
+            "depth": 3,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/7.md",
+            "url": "Ae/basic/zh/7.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "shape",
+            "title": "shape",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/shape",
+            "url": "Ae/basic/zh/shape"
+        },
+        {
+            "name": "test",
+            "title": "test",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/test",
+            "url": "Ae/basic/zh/test"
+        },
+        {
+            "name": "text-animation",
+            "title": "text-animation",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation",
+            "url": "Ae/basic/zh/text-animation"
+        }
+    ]
+}

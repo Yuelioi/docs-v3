@@ -1,0 +1,192 @@
+{
+    "documents": [
+        {
+            "name": "Block-Dissolve.md",
+            "title": "Block-Dissolve.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Block-Dissolve.md",
+            "url": "Ae/effects/zh/Transition/Block-Dissolve.md"
+        },
+        {
+            "name": "CC-Glass-Wipe.md",
+            "title": "CC-Glass-Wipe.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Glass-Wipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Glass-Wipe.md"
+        },
+        {
+            "name": "CC-Grid-Wipe.md",
+            "title": "CC-Grid-Wipe.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Grid-Wipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Grid-Wipe.md"
+        },
+        {
+            "name": "CC-Image-Wipe.md",
+            "title": "CC-Image-Wipe.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Image-Wipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Image-Wipe.md"
+        },
+        {
+            "name": "CC-Jaws.md",
+            "title": "CC-Jaws.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Jaws.md",
+            "url": "Ae/effects/zh/Transition/CC-Jaws.md"
+        },
+        {
+            "name": "CC-Light-Wipe.md",
+            "title": "CC-Light-Wipe.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Light-Wipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Light-Wipe.md"
+        },
+        {
+            "name": "CC-Line-Sweep.md",
+            "title": "CC-Line-Sweep.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Line-Sweep.md",
+            "url": "Ae/effects/zh/Transition/CC-Line-Sweep.md"
+        },
+        {
+            "name": "CC-Radial-Scalewipe.md",
+            "title": "CC-Radial-Scalewipe.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Radial-Scalewipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Radial-Scalewipe.md"
+        },
+        {
+            "name": "CC-Scale-Wipe.md",
+            "title": "CC-Scale-Wipe.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Scale-Wipe.md",
+            "url": "Ae/effects/zh/Transition/CC-Scale-Wipe.md"
+        },
+        {
+            "name": "CC-Twister.md",
+            "title": "CC-Twister.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Twister.md",
+            "url": "Ae/effects/zh/Transition/CC-Twister.md"
+        },
+        {
+            "name": "CC-Warpomatic.md",
+            "title": "CC-Warpomatic.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/CC-Warpomatic.md",
+            "url": "Ae/effects/zh/Transition/CC-Warpomatic.md"
+        },
+        {
+            "name": "Card-Wipe.md",
+            "title": "Card-Wipe.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Card-Wipe.md",
+            "url": "Ae/effects/zh/Transition/Card-Wipe.md"
+        },
+        {
+            "name": "Gradient-Wipe.md",
+            "title": "Gradient-Wipe.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Gradient-Wipe.md",
+            "url": "Ae/effects/zh/Transition/Gradient-Wipe.md"
+        },
+        {
+            "name": "Iris-Wipe.md",
+            "title": "Iris-Wipe.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Iris-Wipe.md",
+            "url": "Ae/effects/zh/Transition/Iris-Wipe.md"
+        },
+        {
+            "name": "Linear-Wipe.md",
+            "title": "Linear-Wipe.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Linear-Wipe.md",
+            "url": "Ae/effects/zh/Transition/Linear-Wipe.md"
+        },
+        {
+            "name": "Radial-Wipe.md",
+            "title": "Radial-Wipe.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Radial-Wipe.md",
+            "url": "Ae/effects/zh/Transition/Radial-Wipe.md"
+        },
+        {
+            "name": "Venetian-Blinds.md",
+            "title": "Venetian-Blinds.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Transition/Venetian-Blinds.md",
+            "url": "Ae/effects/zh/Transition/Venetian-Blinds.md"
+        }
+    ],
+    "categorys": []
+}

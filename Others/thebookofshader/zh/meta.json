@@ -1,0 +1,82 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "3D-graphics",
+            "title": "3D-graphics",
+            "depth": 3,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/3D-graphics",
+            "url": "Others/thebookofshader/zh/3D-graphics"
+        },
+        {
+            "name": "Algorithmic-drawing",
+            "title": "Algorithmic-drawing",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Algorithmic-drawing",
+            "url": "Others/thebookofshader/zh/Algorithmic-drawing"
+        },
+        {
+            "name": "Appendix-Other-ways-to-use-this-book",
+            "title": "Appendix-Other-ways-to-use-this-book",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Appendix-Other-ways-to-use-this-book",
+            "url": "Others/thebookofshader/zh/Appendix-Other-ways-to-use-this-book"
+        },
+        {
+            "name": "Generative-designs",
+            "title": "Generative-designs",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Generative-designs",
+            "url": "Others/thebookofshader/zh/Generative-designs"
+        },
+        {
+            "name": "Getting-started",
+            "title": "Getting-started",
+            "depth": 3,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Getting-started",
+            "url": "Others/thebookofshader/zh/Getting-started"
+        },
+        {
+            "name": "Image-processing",
+            "title": "Image-processing",
+            "depth": 3,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Image-processing",
+            "url": "Others/thebookofshader/zh/Image-processing"
+        },
+        {
+            "name": "Simulation",
+            "title": "Simulation",
+            "depth": 3,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Others/thebookofshader/zh/Simulation",
+            "url": "Others/thebookofshader/zh/Simulation"
+        }
+    ]
+}

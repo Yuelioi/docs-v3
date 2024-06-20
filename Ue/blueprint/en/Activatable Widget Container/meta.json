@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Clear Widgets.md",
+            "title": "Clear Widgets.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget Container/Clear Widgets.md",
+            "url": "Ue/blueprint/en/ActivatableWidgetContainer/ClearWidgets.md"
+        },
+        {
+            "name": "Get Transition Duration.md",
+            "title": "Get Transition Duration.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget Container/Get Transition Duration.md",
+            "url": "Ue/blueprint/en/ActivatableWidgetContainer/GetTransitionDuration.md"
+        },
+        {
+            "name": "Remove Widget.md",
+            "title": "Remove Widget.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget Container/Remove Widget.md",
+            "url": "Ue/blueprint/en/ActivatableWidgetContainer/RemoveWidget.md"
+        },
+        {
+            "name": "Set Transition Duration.md",
+            "title": "Set Transition Duration.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget Container/Set Transition Duration.md",
+            "url": "Ue/blueprint/en/ActivatableWidgetContainer/SetTransitionDuration.md"
+        }
+    ],
+    "categorys": []
+}

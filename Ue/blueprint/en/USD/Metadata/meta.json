@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Set Blocked Prefix Filters.md",
+            "title": "Set Blocked Prefix Filters.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/USD/Metadata/Set Blocked Prefix Filters.md",
+            "url": "Ue/blueprint/en/USD/Metadata/SetBlockedPrefixFilters.md"
+        },
+        {
+            "name": "Set Collect Metadata.md",
+            "title": "Set Collect Metadata.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/USD/Metadata/Set Collect Metadata.md",
+            "url": "Ue/blueprint/en/USD/Metadata/SetCollectMetadata.md"
+        },
+        {
+            "name": "Set Collect from Entire Subtrees.md",
+            "title": "Set Collect from Entire Subtrees.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/USD/Metadata/Set Collect from Entire Subtrees.md",
+            "url": "Ue/blueprint/en/USD/Metadata/SetCollectfromEntireSubtrees.md"
+        },
+        {
+            "name": "Set Collect on Components.md",
+            "title": "Set Collect on Components.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/USD/Metadata/Set Collect on Components.md",
+            "url": "Ue/blueprint/en/USD/Metadata/SetCollectonComponents.md"
+        },
+        {
+            "name": "Set Invert Filters.md",
+            "title": "Set Invert Filters.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/USD/Metadata/Set Invert Filters.md",
+            "url": "Ue/blueprint/en/USD/Metadata/SetInvertFilters.md"
+        }
+    ],
+    "categorys": []
+}

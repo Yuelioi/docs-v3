@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Physics Replication Mode.md",
+            "title": "Get Physics Replication Mode.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Replication/Get Physics Replication Mode.md",
+            "url": "Ue/blueprint/en/Replication/GetPhysicsReplicationMode.md"
+        },
+        {
+            "name": "Set Physics Replication Mode.md",
+            "title": "Set Physics Replication Mode.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Replication/Set Physics Replication Mode.md",
+            "url": "Ue/blueprint/en/Replication/SetPhysicsReplicationMode.md"
+        }
+    ],
+    "categorys": []
+}

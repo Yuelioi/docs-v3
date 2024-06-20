@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Object (Message).md",
+            "title": "Get Object (Message).md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Object/Get Object (Message).md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Object/GetObjectMessage.md"
+        },
+        {
+            "name": "Get Object Class (Message).md",
+            "title": "Get Object Class (Message).md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Object/Get Object Class (Message).md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Object/GetObjectClassMessage.md"
+        },
+        {
+            "name": "Get Object Class.md",
+            "title": "Get Object Class.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Object/Get Object Class.md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Object/GetObjectClass.md"
+        },
+        {
+            "name": "Get Object.md",
+            "title": "Get Object.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Interfaces/Object/Get Object.md",
+            "url": "Ue/blueprint/en/TypedElementInterfaces/Object/GetObject.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Paint Vertices Lerp Along Axis.md",
+            "title": "Paint Vertices Lerp Along Axis.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Vertex Paint/Paint Vertices Lerp Along Axis.md",
+            "url": "Ue/blueprint/en/VertexPaint/PaintVerticesLerpAlongAxis.md"
+        },
+        {
+            "name": "Paint Vertices Single Color.md",
+            "title": "Paint Vertices Single Color.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Vertex Paint/Paint Vertices Single Color.md",
+            "url": "Ue/blueprint/en/VertexPaint/PaintVerticesSingleColor.md"
+        },
+        {
+            "name": "Remove Painted Vertices.md",
+            "title": "Remove Painted Vertices.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Vertex Paint/Remove Painted Vertices.md",
+            "url": "Ue/blueprint/en/VertexPaint/RemovePaintedVertices.md"
+        }
+    ],
+    "categorys": []
+}

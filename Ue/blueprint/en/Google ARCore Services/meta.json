@@ -1,0 +1,27 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Cloud ARPin",
+            "title": "Cloud ARPin",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Google ARCore Services/Cloud ARPin",
+            "url": "Ue/blueprint/en/GoogleARCoreServices/CloudARPin"
+        },
+        {
+            "name": "Configuration",
+            "title": "Configuration",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Google ARCore Services/Configuration",
+            "url": "Ue/blueprint/en/GoogleARCoreServices/Configuration"
+        }
+    ]
+}

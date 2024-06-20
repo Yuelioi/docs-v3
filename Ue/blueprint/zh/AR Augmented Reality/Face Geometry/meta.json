@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Blend Shape Value.md",
+            "title": "Get Blend Shape Value.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Face Geometry/Get Blend Shape Value.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/FaceGeometry/GetBlendShapeValue.md"
+        },
+        {
+            "name": "Get Blend Shapes.md",
+            "title": "Get Blend Shapes.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Face Geometry/Get Blend Shapes.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/FaceGeometry/GetBlendShapes.md"
+        },
+        {
+            "name": "Get Local Space Eye Transform.md",
+            "title": "Get Local Space Eye Transform.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Face Geometry/Get Local Space Eye Transform.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/FaceGeometry/GetLocalSpaceEyeTransform.md"
+        },
+        {
+            "name": "Get World Space Eye Transform.md",
+            "title": "Get World Space Eye Transform.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Face Geometry/Get World Space Eye Transform.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/FaceGeometry/GetWorldSpaceEyeTransform.md"
+        }
+    ],
+    "categorys": []
+}

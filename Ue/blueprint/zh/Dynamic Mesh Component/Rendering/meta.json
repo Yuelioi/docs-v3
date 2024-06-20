@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Get Color Override Mode.md",
+            "title": "Get Color Override Mode.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Get Color Override Mode.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/GetColorOverrideMode.md"
+        },
+        {
+            "name": "Get Constant Override Color.md",
+            "title": "Get Constant Override Color.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Get Constant Override Color.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/GetConstantOverrideColor.md"
+        },
+        {
+            "name": "Get Flat Shading Enabled.md",
+            "title": "Get Flat Shading Enabled.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Get Flat Shading Enabled.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/GetFlatShadingEnabled.md"
+        },
+        {
+            "name": "Get Vertex Color Space Transform Mode.md",
+            "title": "Get Vertex Color Space Transform Mode.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Get Vertex Color Space Transform Mode.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/GetVertexColorSpaceTransformMode.md"
+        },
+        {
+            "name": "Notify Mesh Updated.md",
+            "title": "Notify Mesh Updated.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Notify Mesh Updated.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/NotifyMeshUpdated.md"
+        },
+        {
+            "name": "Notify Vertex Attributes Updated.md",
+            "title": "Notify Vertex Attributes Updated.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Notify Vertex Attributes Updated.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/NotifyVertexAttributesUpdated.md"
+        },
+        {
+            "name": "Set Color Override Mode.md",
+            "title": "Set Color Override Mode.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Set Color Override Mode.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/SetColorOverrideMode.md"
+        },
+        {
+            "name": "Set Constant Override Color.md",
+            "title": "Set Constant Override Color.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Set Constant Override Color.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/SetConstantOverrideColor.md"
+        },
+        {
+            "name": "Set Enable Flat Shading.md",
+            "title": "Set Enable Flat Shading.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Set Enable Flat Shading.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/SetEnableFlatShading.md"
+        },
+        {
+            "name": "Set Vertex Color Space Transform Mode.md",
+            "title": "Set Vertex Color Space Transform Mode.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Dynamic Mesh Component/Rendering/Set Vertex Color Space Transform Mode.md",
+            "url": "Ue/blueprint/zh/DynamicMeshComponent/Rendering/SetVertexColorSpaceTransformMode.md"
+        }
+    ],
+    "categorys": []
+}

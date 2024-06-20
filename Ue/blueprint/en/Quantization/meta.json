@@ -1,0 +1,126 @@
+{
+    "documents": [
+        {
+            "name": "Get Beat Progress Percent.md",
+            "title": "Get Beat Progress Percent.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Beat Progress Percent.md",
+            "url": "Ue/blueprint/en/Quantization/GetBeatProgressPercent.md"
+        },
+        {
+            "name": "Get Beats Per Minute.md",
+            "title": "Get Beats Per Minute.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Beats Per Minute.md",
+            "url": "Ue/blueprint/en/Quantization/GetBeatsPerMinute.md"
+        },
+        {
+            "name": "Get Milliseconds Per Tick.md",
+            "title": "Get Milliseconds Per Tick.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Milliseconds Per Tick.md",
+            "url": "Ue/blueprint/en/Quantization/GetMillisecondsPerTick.md"
+        },
+        {
+            "name": "Get Seconds Per Tick.md",
+            "title": "Get Seconds Per Tick.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Seconds Per Tick.md",
+            "url": "Ue/blueprint/en/Quantization/GetSecondsPerTick.md"
+        },
+        {
+            "name": "Get Thirty Second Notes Per Minute.md",
+            "title": "Get Thirty Second Notes Per Minute.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Thirty Second Notes Per Minute.md",
+            "url": "Ue/blueprint/en/Quantization/GetThirtySecondNotesPerMinute.md"
+        },
+        {
+            "name": "Get Ticks Per Second.md",
+            "title": "Get Ticks Per Second.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Get Ticks Per Second.md",
+            "url": "Ue/blueprint/en/Quantization/GetTicksPerSecond.md"
+        },
+        {
+            "name": "Set Beats Per Minute.md",
+            "title": "Set Beats Per Minute.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Set Beats Per Minute.md",
+            "url": "Ue/blueprint/en/Quantization/SetBeatsPerMinute.md"
+        },
+        {
+            "name": "Set Milliseconds Per Tick.md",
+            "title": "Set Milliseconds Per Tick.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Set Milliseconds Per Tick.md",
+            "url": "Ue/blueprint/en/Quantization/SetMillisecondsPerTick.md"
+        },
+        {
+            "name": "Set Seconds Per Tick.md",
+            "title": "Set Seconds Per Tick.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Set Seconds Per Tick.md",
+            "url": "Ue/blueprint/en/Quantization/SetSecondsPerTick.md"
+        },
+        {
+            "name": "Set Thirty Second Notes Per Minute.md",
+            "title": "Set Thirty Second Notes Per Minute.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Set Thirty Second Notes Per Minute.md",
+            "url": "Ue/blueprint/en/Quantization/SetThirtySecondNotesPerMinute.md"
+        },
+        {
+            "name": "Set Ticks Per Second.md",
+            "title": "Set Ticks Per Second.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quantization/Set Ticks Per Second.md",
+            "url": "Ue/blueprint/en/Quantization/SetTicksPerSecond.md"
+        }
+    ],
+    "categorys": []
+}

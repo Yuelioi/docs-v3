@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Display Texture.md",
+            "title": "Get Display Texture.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Composure/Compositing Target/Get Display Texture.md",
+            "url": "Ue/blueprint/en/Composure/CompositingTarget/GetDisplayTexture.md"
+        },
+        {
+            "name": "Set Display Texture.md",
+            "title": "Set Display Texture.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Composure/Compositing Target/Set Display Texture.md",
+            "url": "Ue/blueprint/en/Composure/CompositingTarget/SetDisplayTexture.md"
+        }
+    ],
+    "categorys": []
+}

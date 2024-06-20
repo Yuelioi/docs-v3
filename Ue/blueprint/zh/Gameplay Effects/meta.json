@@ -1,0 +1,236 @@
+{
+    "documents": [
+        {
+            "name": "ApplyGameplayEffectSpecToSelf.md",
+            "title": "ApplyGameplayEffectSpecToSelf.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/ApplyGameplayEffectSpecToSelf.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/ApplyGameplayEffectSpecToSelf.md"
+        },
+        {
+            "name": "ApplyGameplayEffectSpecToTarget.md",
+            "title": "ApplyGameplayEffectSpecToTarget.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/ApplyGameplayEffectSpecToTarget.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/ApplyGameplayEffectSpecToTarget.md"
+        },
+        {
+            "name": "ApplyGameplayEffectToSelf.md",
+            "title": "ApplyGameplayEffectToSelf.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/ApplyGameplayEffectToSelf.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/ApplyGameplayEffectToSelf.md"
+        },
+        {
+            "name": "ApplyGameplayEffectToTarget.md",
+            "title": "ApplyGameplayEffectToTarget.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/ApplyGameplayEffectToTarget.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/ApplyGameplayEffectToTarget.md"
+        },
+        {
+            "name": "Get Active Effects with All Tags.md",
+            "title": "Get Active Effects with All Tags.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Get Active Effects with All Tags.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/GetActiveEffectswithAllTags.md"
+        },
+        {
+            "name": "Get Active Gameplay Effects for Query.md",
+            "title": "Get Active Gameplay Effects for Query.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Get Active Gameplay Effects for Query.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/GetActiveGameplayEffectsforQuery.md"
+        },
+        {
+            "name": "Get Gameplay Effect Count if Loaded.md",
+            "title": "Get Gameplay Effect Count if Loaded.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Get Gameplay Effect Count if Loaded.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/GetGameplayEffectCountifLoaded.md"
+        },
+        {
+            "name": "Get Gameplay Effect Count.md",
+            "title": "Get Gameplay Effect Count.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Get Gameplay Effect Count.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/GetGameplayEffectCount.md"
+        },
+        {
+            "name": "Get Gameplay Effect Magnitude.md",
+            "title": "Get Gameplay Effect Magnitude.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Get Gameplay Effect Magnitude.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/GetGameplayEffectMagnitude.md"
+        },
+        {
+            "name": "Make Effect Context.md",
+            "title": "Make Effect Context.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Make Effect Context.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/MakeEffectContext.md"
+        },
+        {
+            "name": "Make Outgoing Spec.md",
+            "title": "Make Outgoing Spec.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Make Outgoing Spec.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/MakeOutgoingSpec.md"
+        },
+        {
+            "name": "Remove Active Effects with Applied Tags.md",
+            "title": "Remove Active Effects with Applied Tags.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Effects with Applied Tags.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveEffectswithAppliedTags.md"
+        },
+        {
+            "name": "Remove Active Effects with Granted Tags.md",
+            "title": "Remove Active Effects with Granted Tags.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Effects with Granted Tags.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveEffectswithGrantedTags.md"
+        },
+        {
+            "name": "Remove Active Effects with Source Tags.md",
+            "title": "Remove Active Effects with Source Tags.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Effects with Source Tags.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveEffectswithSourceTags.md"
+        },
+        {
+            "name": "Remove Active Effects with Tags.md",
+            "title": "Remove Active Effects with Tags.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Effects with Tags.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveEffectswithTags.md"
+        },
+        {
+            "name": "Remove Active Gameplay Effect by Source Effect.md",
+            "title": "Remove Active Gameplay Effect by Source Effect.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Gameplay Effect by Source Effect.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveGameplayEffectbySourceEffect.md"
+        },
+        {
+            "name": "Remove Active Gameplay Effect.md",
+            "title": "Remove Active Gameplay Effect.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Remove Active Gameplay Effect.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/RemoveActiveGameplayEffect.md"
+        },
+        {
+            "name": "Set Active Gameplay Effect Level Using Query.md",
+            "title": "Set Active Gameplay Effect Level Using Query.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Set Active Gameplay Effect Level Using Query.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/SetActiveGameplayEffectLevelUsingQuery.md"
+        },
+        {
+            "name": "Set Active Gameplay Effect Level.md",
+            "title": "Set Active Gameplay Effect Level.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Set Active Gameplay Effect Level.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/SetActiveGameplayEffectLevel.md"
+        },
+        {
+            "name": "Update Active Gameplay Effect Set by Caller Magnitude.md",
+            "title": "Update Active Gameplay Effect Set by Caller Magnitude.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Update Active Gameplay Effect Set by Caller Magnitude.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/UpdateActiveGameplayEffectSetbyCallerMagnitude.md"
+        },
+        {
+            "name": "Update Active Gameplay Effect Set by Caller Magnitudes.md",
+            "title": "Update Active Gameplay Effect Set by Caller Magnitudes.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Gameplay Effects/Update Active Gameplay Effect Set by Caller Magnitudes.md",
+            "url": "Ue/blueprint/zh/GameplayEffects/UpdateActiveGameplayEffectSetbyCallerMagnitudes.md"
+        }
+    ],
+    "categorys": []
+}

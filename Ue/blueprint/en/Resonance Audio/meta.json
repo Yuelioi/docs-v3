@@ -1,0 +1,27 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Global Reverb Preset",
+            "title": "Global Reverb Preset",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio/Global Reverb Preset",
+            "url": "Ue/blueprint/en/ResonanceAudio/GlobalReverbPreset"
+        },
+        {
+            "name": "Sound Source Spatialization Settings",
+            "title": "Sound Source Spatialization Settings",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio/Sound Source Spatialization Settings",
+            "url": "Ue/blueprint/en/ResonanceAudio/SoundSourceSpatializationSettings"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Create MIDIDevice Controller.md",
+            "title": "Create MIDIDevice Controller.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Create MIDIDevice Controller.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/CreateMIDIDeviceController.md"
+        },
+        {
+            "name": "Create MIDIDevice Input Controller.md",
+            "title": "Create MIDIDevice Input Controller.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Create MIDIDevice Input Controller.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/CreateMIDIDeviceInputController.md"
+        },
+        {
+            "name": "Create MIDIDevice Output Controller.md",
+            "title": "Create MIDIDevice Output Controller.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Create MIDIDevice Output Controller.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/CreateMIDIDeviceOutputController.md"
+        },
+        {
+            "name": "Find All MIDIDevice Info.md",
+            "title": "Find All MIDIDevice Info.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Find All MIDIDevice Info.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/FindAllMIDIDeviceInfo.md"
+        },
+        {
+            "name": "Find MIDIDevices.md",
+            "title": "Find MIDIDevices.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Find MIDIDevices.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/FindMIDIDevices.md"
+        },
+        {
+            "name": "Get Default MIDIInput Device ID.md",
+            "title": "Get Default MIDIInput Device ID.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Get Default MIDIInput Device ID.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/GetDefaultMIDIInputDeviceID.md"
+        },
+        {
+            "name": "Get Default MIDIOutput Device ID.md",
+            "title": "Get Default MIDIOutput Device ID.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Get Default MIDIOutput Device ID.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/GetDefaultMIDIOutputDeviceID.md"
+        },
+        {
+            "name": "Get MIDIInput Device IDBy Name.md",
+            "title": "Get MIDIInput Device IDBy Name.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Get MIDIInput Device IDBy Name.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/GetMIDIInputDeviceIDByName.md"
+        },
+        {
+            "name": "Get MIDIOutput Device IDBy Name.md",
+            "title": "Get MIDIOutput Device IDBy Name.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Get MIDIOutput Device IDBy Name.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/GetMIDIOutputDeviceIDByName.md"
+        },
+        {
+            "name": "Shut Down All MIDIDevices.md",
+            "title": "Shut Down All MIDIDevices.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/MIDI Device Manager/Shut Down All MIDIDevices.md",
+            "url": "Ue/blueprint/zh/MIDIDeviceManager/ShutDownAllMIDIDevices.md"
+        }
+    ],
+    "categorys": []
+}

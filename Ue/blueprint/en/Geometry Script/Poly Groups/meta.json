@@ -1,0 +1,170 @@
+{
+    "documents": [
+        {
+            "name": "ClearPolyGroups.md",
+            "title": "ClearPolyGroups.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/ClearPolyGroups.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/ClearPolyGroups.md"
+        },
+        {
+            "name": "ComputePolyGroupsFromAngleThreshold.md",
+            "title": "ComputePolyGroupsFromAngleThreshold.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/ComputePolyGroupsFromAngleThreshold.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/ComputePolyGroupsFromAngleThreshold.md"
+        },
+        {
+            "name": "ComputePolyGroupsFromPolygonDetection.md",
+            "title": "ComputePolyGroupsFromPolygonDetection.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/ComputePolyGroupsFromPolygonDetection.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/ComputePolyGroupsFromPolygonDetection.md"
+        },
+        {
+            "name": "ConvertComponentsToPolyGroups.md",
+            "title": "ConvertComponentsToPolyGroups.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/ConvertComponentsToPolyGroups.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/ConvertComponentsToPolyGroups.md"
+        },
+        {
+            "name": "ConvertUVIslandsToPolyGroups.md",
+            "title": "ConvertUVIslandsToPolyGroups.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/ConvertUVIslandsToPolyGroups.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/ConvertUVIslandsToPolyGroups.md"
+        },
+        {
+            "name": "CopyPolyGroupsLayer.md",
+            "title": "CopyPolyGroupsLayer.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/CopyPolyGroupsLayer.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/CopyPolyGroupsLayer.md"
+        },
+        {
+            "name": "DeleteTrianglesInPolyGroup.md",
+            "title": "DeleteTrianglesInPolyGroup.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/DeleteTrianglesInPolyGroup.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/DeleteTrianglesInPolyGroup.md"
+        },
+        {
+            "name": "EnablePolyGroups.md",
+            "title": "EnablePolyGroups.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/EnablePolyGroups.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/EnablePolyGroups.md"
+        },
+        {
+            "name": "GetAllTrianglePolyGroupIDs.md",
+            "title": "GetAllTrianglePolyGroupIDs.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/GetAllTrianglePolyGroupIDs.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/GetAllTrianglePolyGroupIDs.md"
+        },
+        {
+            "name": "GetPolyGroupIDsInMesh.md",
+            "title": "GetPolyGroupIDsInMesh.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/GetPolyGroupIDsInMesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/GetPolyGroupIDsInMesh.md"
+        },
+        {
+            "name": "GetTrianglePolyGroupID.md",
+            "title": "GetTrianglePolyGroupID.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/GetTrianglePolyGroupID.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/GetTrianglePolyGroupID.md"
+        },
+        {
+            "name": "GetTrianglesInPolyGroup.md",
+            "title": "GetTrianglesInPolyGroup.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/GetTrianglesInPolyGroup.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/GetTrianglesInPolyGroup.md"
+        },
+        {
+            "name": "Set Material IDFor Mesh Selection.md",
+            "title": "Set Material IDFor Mesh Selection.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/Set Material IDFor Mesh Selection.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/SetMaterialIDForMeshSelection.md"
+        },
+        {
+            "name": "SetNumExtendedPolyGroupLayers.md",
+            "title": "SetNumExtendedPolyGroupLayers.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/SetNumExtendedPolyGroupLayers.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/SetNumExtendedPolyGroupLayers.md"
+        },
+        {
+            "name": "SetPolyGroupForMeshSelection.md",
+            "title": "SetPolyGroupForMeshSelection.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Poly Groups/SetPolyGroupForMeshSelection.md",
+            "url": "Ue/blueprint/en/GeometryScript/PolyGroups/SetPolyGroupForMeshSelection.md"
+        }
+    ],
+    "categorys": []
+}

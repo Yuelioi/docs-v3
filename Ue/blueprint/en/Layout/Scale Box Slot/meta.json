@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Set Horizontal Alignment.md",
+            "title": "Set Horizontal Alignment.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Scale Box Slot/Set Horizontal Alignment.md",
+            "url": "Ue/blueprint/en/Layout/ScaleBoxSlot/SetHorizontalAlignment.md"
+        },
+        {
+            "name": "Set Vertical Alignment.md",
+            "title": "Set Vertical Alignment.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Scale Box Slot/Set Vertical Alignment.md",
+            "url": "Ue/blueprint/en/Layout/ScaleBoxSlot/SetVerticalAlignment.md"
+        }
+    ],
+    "categorys": []
+}

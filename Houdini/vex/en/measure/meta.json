@@ -1,0 +1,236 @@
+{
+    "documents": [
+        {
+            "name": "distance.md",
+            "title": "distance.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/distance.md",
+            "url": "Houdini/vex/en/measure/distance.md"
+        },
+        {
+            "name": "distance2.md",
+            "title": "distance2.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/distance2.md",
+            "url": "Houdini/vex/en/measure/distance2.md"
+        },
+        {
+            "name": "getbbox.md",
+            "title": "getbbox.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbbox.md",
+            "url": "Houdini/vex/en/measure/getbbox.md"
+        },
+        {
+            "name": "getbbox_center.md",
+            "title": "getbbox_center.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbbox_center.md",
+            "url": "Houdini/vex/en/measure/getbbox_center.md"
+        },
+        {
+            "name": "getbbox_max.md",
+            "title": "getbbox_max.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbbox_max.md",
+            "url": "Houdini/vex/en/measure/getbbox_max.md"
+        },
+        {
+            "name": "getbbox_min.md",
+            "title": "getbbox_min.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbbox_min.md",
+            "url": "Houdini/vex/en/measure/getbbox_min.md"
+        },
+        {
+            "name": "getbbox_size.md",
+            "title": "getbbox_size.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbbox_size.md",
+            "url": "Houdini/vex/en/measure/getbbox_size.md"
+        },
+        {
+            "name": "getbounds.md",
+            "title": "getbounds.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getbounds.md",
+            "url": "Houdini/vex/en/measure/getbounds.md"
+        },
+        {
+            "name": "getpointbbox.md",
+            "title": "getpointbbox.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getpointbbox.md",
+            "url": "Houdini/vex/en/measure/getpointbbox.md"
+        },
+        {
+            "name": "getpointbbox_center.md",
+            "title": "getpointbbox_center.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getpointbbox_center.md",
+            "url": "Houdini/vex/en/measure/getpointbbox_center.md"
+        },
+        {
+            "name": "getpointbbox_max.md",
+            "title": "getpointbbox_max.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getpointbbox_max.md",
+            "url": "Houdini/vex/en/measure/getpointbbox_max.md"
+        },
+        {
+            "name": "getpointbbox_min.md",
+            "title": "getpointbbox_min.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getpointbbox_min.md",
+            "url": "Houdini/vex/en/measure/getpointbbox_min.md"
+        },
+        {
+            "name": "getpointbbox_size.md",
+            "title": "getpointbbox_size.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/getpointbbox_size.md",
+            "url": "Houdini/vex/en/measure/getpointbbox_size.md"
+        },
+        {
+            "name": "planepointdistance.md",
+            "title": "planepointdistance.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/planepointdistance.md",
+            "url": "Houdini/vex/en/measure/planepointdistance.md"
+        },
+        {
+            "name": "relbbox.md",
+            "title": "relbbox.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/relbbox.md",
+            "url": "Houdini/vex/en/measure/relbbox.md"
+        },
+        {
+            "name": "relpointbbox.md",
+            "title": "relpointbbox.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/relpointbbox.md",
+            "url": "Houdini/vex/en/measure/relpointbbox.md"
+        },
+        {
+            "name": "surfacedist.md",
+            "title": "surfacedist.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/surfacedist.md",
+            "url": "Houdini/vex/en/measure/surfacedist.md"
+        },
+        {
+            "name": "uvdist.md",
+            "title": "uvdist.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/uvdist.md",
+            "url": "Houdini/vex/en/measure/uvdist.md"
+        },
+        {
+            "name": "windingnumber.md",
+            "title": "windingnumber.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/windingnumber.md",
+            "url": "Houdini/vex/en/measure/windingnumber.md"
+        },
+        {
+            "name": "windingnumber2d.md",
+            "title": "windingnumber2d.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/windingnumber2d.md",
+            "url": "Houdini/vex/en/measure/windingnumber2d.md"
+        },
+        {
+            "name": "xyzdist.md",
+            "title": "xyzdist.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/measure/xyzdist.md",
+            "url": "Houdini/vex/en/measure/xyzdist.md"
+        }
+    ],
+    "categorys": []
+}

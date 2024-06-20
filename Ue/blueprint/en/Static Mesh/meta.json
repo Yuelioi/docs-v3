@@ -1,0 +1,291 @@
+{
+    "documents": [
+        {
+            "name": "Add Material.md",
+            "title": "Add Material.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Add Material.md",
+            "url": "Ue/blueprint/en/StaticMesh/AddMaterial.md"
+        },
+        {
+            "name": "Add Socket.md",
+            "title": "Add Socket.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Add Socket.md",
+            "url": "Ue/blueprint/en/StaticMesh/AddSocket.md"
+        },
+        {
+            "name": "Build from Static Mesh Descriptions.md",
+            "title": "Build from Static Mesh Descriptions.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Build from Static Mesh Descriptions.md",
+            "url": "Ue/blueprint/en/StaticMesh/BuildfromStaticMeshDescriptions.md"
+        },
+        {
+            "name": "Create Static Mesh Description.md",
+            "title": "Create Static Mesh Description.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Create Static Mesh Description.md",
+            "url": "Ue/blueprint/en/StaticMesh/CreateStaticMeshDescription.md"
+        },
+        {
+            "name": "Find Socket.md",
+            "title": "Find Socket.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Find Socket.md",
+            "url": "Ue/blueprint/en/StaticMesh/FindSocket.md"
+        },
+        {
+            "name": "Get Bounding Box.md",
+            "title": "Get Bounding Box.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Bounding Box.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetBoundingBox.md"
+        },
+        {
+            "name": "Get Bounds.md",
+            "title": "Get Bounds.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Bounds.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetBounds.md"
+        },
+        {
+            "name": "Get Material Index.md",
+            "title": "Get Material Index.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Material Index.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMaterialIndex.md"
+        },
+        {
+            "name": "Get Material.md",
+            "title": "Get Material.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Material.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMaterial.md"
+        },
+        {
+            "name": "Get Min LODFor Quality Levels.md",
+            "title": "Get Min LODFor Quality Levels.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Min LODFor Quality Levels.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMinLODForQualityLevels.md"
+        },
+        {
+            "name": "Get Minimum LODFor Platform.md",
+            "title": "Get Minimum LODFor Platform.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Minimum LODFor Platform.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMinimumLODForPlatform.md"
+        },
+        {
+            "name": "Get Minimum LODFor Platforms.md",
+            "title": "Get Minimum LODFor Platforms.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Minimum LODFor Platforms.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMinimumLODForPlatforms.md"
+        },
+        {
+            "name": "Get Minimum LODFor Quality Level.md",
+            "title": "Get Minimum LODFor Quality Level.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Minimum LODFor Quality Level.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMinimumLODForQualityLevel.md"
+        },
+        {
+            "name": "Get Minimum LODFor Quality Levels.md",
+            "title": "Get Minimum LODFor Quality Levels.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Minimum LODFor Quality Levels.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetMinimumLODForQualityLevels.md"
+        },
+        {
+            "name": "Get Num LODs.md",
+            "title": "Get Num LODs.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Num LODs.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetNumLODs.md"
+        },
+        {
+            "name": "Get Num Sections.md",
+            "title": "Get Num Sections.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Num Sections.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetNumSections.md"
+        },
+        {
+            "name": "Get Num Triangles.md",
+            "title": "Get Num Triangles.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Num Triangles.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetNumTriangles.md"
+        },
+        {
+            "name": "Get Sockets by Tag.md",
+            "title": "Get Sockets by Tag.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Sockets by Tag.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetSocketsbyTag.md"
+        },
+        {
+            "name": "Get Static Mesh Description.md",
+            "title": "Get Static Mesh Description.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Get Static Mesh Description.md",
+            "url": "Ue/blueprint/en/StaticMesh/GetStaticMeshDescription.md"
+        },
+        {
+            "name": "Is LODScreen Size Auto Computed.md",
+            "title": "Is LODScreen Size Auto Computed.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Is LODScreen Size Auto Computed.md",
+            "url": "Ue/blueprint/en/StaticMesh/IsLODScreenSizeAutoComputed.md"
+        },
+        {
+            "name": "Remove Socket.md",
+            "title": "Remove Socket.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Remove Socket.md",
+            "url": "Ue/blueprint/en/StaticMesh/RemoveSocket.md"
+        },
+        {
+            "name": "Set Material.md",
+            "title": "Set Material.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Set Material.md",
+            "url": "Ue/blueprint/en/StaticMesh/SetMaterial.md"
+        },
+        {
+            "name": "Set Min LODFor Quality Levels.md",
+            "title": "Set Min LODFor Quality Levels.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Set Min LODFor Quality Levels.md",
+            "url": "Ue/blueprint/en/StaticMesh/SetMinLODForQualityLevels.md"
+        },
+        {
+            "name": "Set Minimum LODFor Platform.md",
+            "title": "Set Minimum LODFor Platform.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Set Minimum LODFor Platform.md",
+            "url": "Ue/blueprint/en/StaticMesh/SetMinimumLODForPlatform.md"
+        },
+        {
+            "name": "Set Minimum LODFor Platforms.md",
+            "title": "Set Minimum LODFor Platforms.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Set Minimum LODFor Platforms.md",
+            "url": "Ue/blueprint/en/StaticMesh/SetMinimumLODForPlatforms.md"
+        },
+        {
+            "name": "Set Num Source Models.md",
+            "title": "Set Num Source Models.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Static Mesh/Set Num Source Models.md",
+            "url": "Ue/blueprint/en/StaticMesh/SetNumSourceModels.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Activate Next Widget.md",
+            "title": "Activate Next Widget.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Activate Next Widget.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/ActivateNextWidget.md"
+        },
+        {
+            "name": "Activate Previous Widget.md",
+            "title": "Activate Previous Widget.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Activate Previous Widget.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/ActivatePreviousWidget.md"
+        },
+        {
+            "name": "Has Widgets.md",
+            "title": "Has Widgets.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Has Widgets.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/HasWidgets.md"
+        },
+        {
+            "name": "Is Currently Switching.md",
+            "title": "Is Currently Switching.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Is Currently Switching.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/IsCurrentlySwitching.md"
+        },
+        {
+            "name": "Is Transition Playing.md",
+            "title": "Is Transition Playing.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Is Transition Playing.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/IsTransitionPlaying.md"
+        },
+        {
+            "name": "On Active Widget Index Changed BP.md",
+            "title": "On Active Widget Index Changed BP.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/On Active Widget Index Changed BP.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/OnActiveWidgetIndexChangedBP.md"
+        },
+        {
+            "name": "Set Disable Transition Animation.md",
+            "title": "Set Disable Transition Animation.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Widget Switcher/Set Disable Transition Animation.md",
+            "url": "Ue/blueprint/zh/CommonWidgetSwitcher/SetDisableTransitionAnimation.md"
+        }
+    ],
+    "categorys": []
+}

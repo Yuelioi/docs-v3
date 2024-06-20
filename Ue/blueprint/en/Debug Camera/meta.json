@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Selected Actor.md",
+            "title": "Get Selected Actor.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Debug Camera/Get Selected Actor.md",
+            "url": "Ue/blueprint/en/DebugCamera/GetSelectedActor.md"
+        },
+        {
+            "name": "Set Pawn Movement Speed Scale.md",
+            "title": "Set Pawn Movement Speed Scale.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Debug Camera/Set Pawn Movement Speed Scale.md",
+            "url": "Ue/blueprint/en/DebugCamera/SetPawnMovementSpeedScale.md"
+        },
+        {
+            "name": "Toggle Display.md",
+            "title": "Toggle Display.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Debug Camera/Toggle Display.md",
+            "url": "Ue/blueprint/en/DebugCamera/ToggleDisplay.md"
+        }
+    ],
+    "categorys": []
+}

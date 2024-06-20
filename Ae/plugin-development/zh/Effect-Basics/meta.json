@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Command-Selectors.md",
+            "title": "Command-Selectors.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/Command-Selectors.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/Command-Selectors.md"
+        },
+        {
+            "name": "Effect-Basics.md",
+            "title": "Effect-Basics.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/Effect-Basics.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/Effect-Basics.md"
+        },
+        {
+            "name": "Entry-Point.md",
+            "title": "Entry-Point.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/Entry-Point.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/Entry-Point.md"
+        },
+        {
+            "name": "Errors.md",
+            "title": "Errors.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/Errors.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/Errors.md"
+        },
+        {
+            "name": "PFEffectWorld-PFLayerDef.md",
+            "title": "PFEffectWorld-PFLayerDef.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/PFEffectWorld-PFLayerDef.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/PFEffectWorld-PFLayerDef.md"
+        },
+        {
+            "name": "PFInData.md",
+            "title": "PFInData.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/PFInData.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/PFInData.md"
+        },
+        {
+            "name": "PFOutData.md",
+            "title": "PFOutData.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/PFOutData.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/PFOutData.md"
+        },
+        {
+            "name": "PFParamDef.md",
+            "title": "PFParamDef.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/PFParamDef.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/PFParamDef.md"
+        },
+        {
+            "name": "Parameters.md",
+            "title": "Parameters.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Basics/Parameters.md",
+            "url": "Ae/plugin-development/zh/Effect-Basics/Parameters.md"
+        }
+    ],
+    "categorys": []
+}

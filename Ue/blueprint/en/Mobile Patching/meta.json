@@ -1,0 +1,138 @@
+{
+    "documents": [
+        {
+            "name": "Get Active Device Profile Name.md",
+            "title": "Get Active Device Profile Name.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Active Device Profile Name.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetActiveDeviceProfileName.md"
+        },
+        {
+            "name": "Get Disk Free Space.md",
+            "title": "Get Disk Free Space.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Disk Free Space.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetDiskFreeSpace.md"
+        },
+        {
+            "name": "Get Download Size.md",
+            "title": "Get Download Size.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Download Size.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetDownloadSize.md"
+        },
+        {
+            "name": "Get Installed Content Size.md",
+            "title": "Get Installed Content Size.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Installed Content Size.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetInstalledContentSize.md"
+        },
+        {
+            "name": "Get Installed Content.md",
+            "title": "Get Installed Content.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Installed Content.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetInstalledContent.md"
+        },
+        {
+            "name": "Get Required Disk Space.md",
+            "title": "Get Required Disk Space.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Required Disk Space.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetRequiredDiskSpace.md"
+        },
+        {
+            "name": "Get Supported Platform Names.md",
+            "title": "Get Supported Platform Names.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Get Supported Platform Names.md",
+            "url": "Ue/blueprint/en/MobilePatching/GetSupportedPlatformNames.md"
+        },
+        {
+            "name": "Has Active Wi Fi Connection.md",
+            "title": "Has Active Wi Fi Connection.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Has Active Wi Fi Connection.md",
+            "url": "Ue/blueprint/en/MobilePatching/HasActiveWiFiConnection.md"
+        },
+        {
+            "name": "Mount.md",
+            "title": "Mount.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Mount.md",
+            "url": "Ue/blueprint/en/MobilePatching/Mount.md"
+        },
+        {
+            "name": "Request Content.md",
+            "title": "Request Content.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Request Content.md",
+            "url": "Ue/blueprint/en/MobilePatching/RequestContent.md"
+        },
+        {
+            "name": "Start Install.md",
+            "title": "Start Install.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Start Install.md",
+            "url": "Ue/blueprint/en/MobilePatching/StartInstall.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Progress",
+            "title": "Progress",
+            "depth": 4,
+            "order": 10,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Progress",
+            "url": "Ue/blueprint/en/MobilePatching/Progress"
+        }
+    ]
+}

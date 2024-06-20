@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "Arithmetic.md",
+            "title": "Arithmetic.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Arithmetic.md",
+            "url": "Ae/effects/zh/Channel/Arithmetic.md"
+        },
+        {
+            "name": "Blen.md",
+            "title": "Blen.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Blen.md",
+            "url": "Ae/effects/zh/Channel/Blen.md"
+        },
+        {
+            "name": "CC-Composite.md",
+            "title": "CC-Composite.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/CC-Composite.md",
+            "url": "Ae/effects/zh/Channel/CC-Composite.md"
+        },
+        {
+            "name": "Calculations.md",
+            "title": "Calculations.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Calculations.md",
+            "url": "Ae/effects/zh/Channel/Calculations.md"
+        },
+        {
+            "name": "Channel-Combiner.md",
+            "title": "Channel-Combiner.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Channel-Combiner.md",
+            "url": "Ae/effects/zh/Channel/Channel-Combiner.md"
+        },
+        {
+            "name": "Compound-Arithmetic.md",
+            "title": "Compound-Arithmetic.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Compound-Arithmetic.md",
+            "url": "Ae/effects/zh/Channel/Compound-Arithmetic.md"
+        },
+        {
+            "name": "Invert.md",
+            "title": "Invert.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Invert.md",
+            "url": "Ae/effects/zh/Channel/Invert.md"
+        },
+        {
+            "name": "Minimax.md",
+            "title": "Minimax.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Minimax.md",
+            "url": "Ae/effects/zh/Channel/Minimax.md"
+        },
+        {
+            "name": "Remove-Color-Matting.md",
+            "title": "Remove-Color-Matting.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Remove-Color-Matting.md",
+            "url": "Ae/effects/zh/Channel/Remove-Color-Matting.md"
+        },
+        {
+            "name": "Set-Channels.md",
+            "title": "Set-Channels.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Set-Channels.md",
+            "url": "Ae/effects/zh/Channel/Set-Channels.md"
+        },
+        {
+            "name": "Set-Matte.md",
+            "title": "Set-Matte.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Set-Matte.md",
+            "url": "Ae/effects/zh/Channel/Set-Matte.md"
+        },
+        {
+            "name": "Shift-Channels.md",
+            "title": "Shift-Channels.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Shift-Channels.md",
+            "url": "Ae/effects/zh/Channel/Shift-Channels.md"
+        },
+        {
+            "name": "Solid-Composite.md",
+            "title": "Solid-Composite.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Channel/Solid-Composite.md",
+            "url": "Ae/effects/zh/Channel/Solid-Composite.md"
+        }
+    ],
+    "categorys": []
+}

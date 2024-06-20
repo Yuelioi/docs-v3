@@ -1,0 +1,49 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Augmented Image",
+            "title": "Augmented Image",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Augmented Image",
+            "url": "Ue/blueprint/zh/GoogleARCore/AugmentedImage"
+        },
+        {
+            "name": "Camera Image",
+            "title": "Camera Image",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Camera Image",
+            "url": "Ue/blueprint/zh/GoogleARCore/CameraImage"
+        },
+        {
+            "name": "Camera Intrinsics",
+            "title": "Camera Intrinsics",
+            "depth": 4,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Camera Intrinsics",
+            "url": "Ue/blueprint/zh/GoogleARCore/CameraIntrinsics"
+        },
+        {
+            "name": "Point Cloud",
+            "title": "Point Cloud",
+            "depth": 4,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Google ARCore/Point Cloud",
+            "url": "Ue/blueprint/zh/GoogleARCore/PointCloud"
+        }
+    ]
+}

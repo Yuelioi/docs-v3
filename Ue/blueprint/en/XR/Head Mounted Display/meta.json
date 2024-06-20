@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Connect Remote XRDevice.md",
+            "title": "Connect Remote XRDevice.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/XR/Head Mounted Display/Connect Remote XRDevice.md",
+            "url": "Ue/blueprint/en/XR/HeadMountedDisplay/ConnectRemoteXRDevice.md"
+        },
+        {
+            "name": "Disconnect Remote XRDevice.md",
+            "title": "Disconnect Remote XRDevice.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/XR/Head Mounted Display/Disconnect Remote XRDevice.md",
+            "url": "Ue/blueprint/en/XR/HeadMountedDisplay/DisconnectRemoteXRDevice.md"
+        },
+        {
+            "name": "Set XRDisconnect Delegate.md",
+            "title": "Set XRDisconnect Delegate.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/XR/Head Mounted Display/Set XRDisconnect Delegate.md",
+            "url": "Ue/blueprint/en/XR/HeadMountedDisplay/SetXRDisconnectDelegate.md"
+        }
+    ],
+    "categorys": []
+}

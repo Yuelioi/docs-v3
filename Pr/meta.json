@@ -1,0 +1,16 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "scripting",
+            "title": "scripting",
+            "depth": 1,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting",
+            "url": "Pr/scripting"
+        }
+    ]
+}

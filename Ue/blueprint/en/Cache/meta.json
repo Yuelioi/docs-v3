@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Clear Actor Cache.md",
+            "title": "Clear Actor Cache.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cache/Clear Actor Cache.md",
+            "url": "Ue/blueprint/en/Cache/ClearActorCache.md"
+        },
+        {
+            "name": "Get Actor Cache.md",
+            "title": "Get Actor Cache.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cache/Get Actor Cache.md",
+            "url": "Ue/blueprint/en/Cache/GetActorCache.md"
+        },
+        {
+            "name": "Set Actor Cache.md",
+            "title": "Set Actor Cache.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cache/Set Actor Cache.md",
+            "url": "Ue/blueprint/en/Cache/SetActorCache.md"
+        }
+    ],
+    "categorys": []
+}

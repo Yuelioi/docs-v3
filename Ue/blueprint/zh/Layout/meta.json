@@ -1,0 +1,192 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Background Blur Slot",
+            "title": "Background Blur Slot",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Background Blur Slot",
+            "url": "Ue/blueprint/zh/Layout/BackgroundBlurSlot"
+        },
+        {
+            "name": "Border Slot",
+            "title": "Border Slot",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Border Slot",
+            "url": "Ue/blueprint/zh/Layout/BorderSlot"
+        },
+        {
+            "name": "Button Slot",
+            "title": "Button Slot",
+            "depth": 4,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Button Slot",
+            "url": "Ue/blueprint/zh/Layout/ButtonSlot"
+        },
+        {
+            "name": "Canvas Slot",
+            "title": "Canvas Slot",
+            "depth": 4,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Canvas Slot",
+            "url": "Ue/blueprint/zh/Layout/CanvasSlot"
+        },
+        {
+            "name": "Grid Slot",
+            "title": "Grid Slot",
+            "depth": 4,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Grid Slot",
+            "url": "Ue/blueprint/zh/Layout/GridSlot"
+        },
+        {
+            "name": "Horizontal Box Slot",
+            "title": "Horizontal Box Slot",
+            "depth": 4,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Horizontal Box Slot",
+            "url": "Ue/blueprint/zh/Layout/HorizontalBoxSlot"
+        },
+        {
+            "name": "Load Guard Slot",
+            "title": "Load Guard Slot",
+            "depth": 4,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Load Guard Slot",
+            "url": "Ue/blueprint/zh/Layout/LoadGuardSlot"
+        },
+        {
+            "name": "Overlay Slot",
+            "title": "Overlay Slot",
+            "depth": 4,
+            "order": 8,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Overlay Slot",
+            "url": "Ue/blueprint/zh/Layout/OverlaySlot"
+        },
+        {
+            "name": "Scale Box Slot",
+            "title": "Scale Box Slot",
+            "depth": 4,
+            "order": 9,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Scale Box Slot",
+            "url": "Ue/blueprint/zh/Layout/ScaleBoxSlot"
+        },
+        {
+            "name": "Scroll Box Slot",
+            "title": "Scroll Box Slot",
+            "depth": 4,
+            "order": 10,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Scroll Box Slot",
+            "url": "Ue/blueprint/zh/Layout/ScrollBoxSlot"
+        },
+        {
+            "name": "Size Box",
+            "title": "Size Box",
+            "depth": 4,
+            "order": 11,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Size Box",
+            "url": "Ue/blueprint/zh/Layout/SizeBox"
+        },
+        {
+            "name": "Size Box Slot",
+            "title": "Size Box Slot",
+            "depth": 4,
+            "order": 12,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Size Box Slot",
+            "url": "Ue/blueprint/zh/Layout/SizeBoxSlot"
+        },
+        {
+            "name": "Uniform Grid Slot",
+            "title": "Uniform Grid Slot",
+            "depth": 4,
+            "order": 13,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Uniform Grid Slot",
+            "url": "Ue/blueprint/zh/Layout/UniformGridSlot"
+        },
+        {
+            "name": "Vertical Box Slot",
+            "title": "Vertical Box Slot",
+            "depth": 4,
+            "order": 14,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Vertical Box Slot",
+            "url": "Ue/blueprint/zh/Layout/VerticalBoxSlot"
+        },
+        {
+            "name": "Widget Switcher Slot",
+            "title": "Widget Switcher Slot",
+            "depth": 4,
+            "order": 15,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Widget Switcher Slot",
+            "url": "Ue/blueprint/zh/Layout/WidgetSwitcherSlot"
+        },
+        {
+            "name": "Window Title Bar Area Slot",
+            "title": "Window Title Bar Area Slot",
+            "depth": 4,
+            "order": 16,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Window Title Bar Area Slot",
+            "url": "Ue/blueprint/zh/Layout/WindowTitleBarAreaSlot"
+        },
+        {
+            "name": "Wrap Box Slot",
+            "title": "Wrap Box Slot",
+            "depth": 4,
+            "order": 17,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layout/Wrap Box Slot",
+            "url": "Ue/blueprint/zh/Layout/WrapBoxSlot"
+        }
+    ]
+}

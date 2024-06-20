@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Basic-Text.md",
+            "title": "Basic-Text.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Basic-Text.md",
+            "url": "Ae/effects/zh/Obsolete/Basic-Text.md"
+        },
+        {
+            "name": "Color-Key.md",
+            "title": "Color-Key.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Color-Key.md",
+            "url": "Ae/effects/zh/Obsolete/Color-Key.md"
+        },
+        {
+            "name": "Gaussian-Blur.md",
+            "title": "Gaussian-Blur.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Gaussian-Blur.md",
+            "url": "Ae/effects/zh/Obsolete/Gaussian-Blur.md"
+        },
+        {
+            "name": "Lightning.md",
+            "title": "Lightning.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Lightning.md",
+            "url": "Ae/effects/zh/Obsolete/Lightning.md"
+        },
+        {
+            "name": "Luma-Key.md",
+            "title": "Luma-Key.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Luma-Key.md",
+            "url": "Ae/effects/zh/Obsolete/Luma-Key.md"
+        },
+        {
+            "name": "Path-Text.md",
+            "title": "Path-Text.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Path-Text.md",
+            "url": "Ae/effects/zh/Obsolete/Path-Text.md"
+        },
+        {
+            "name": "Reduce-Interlace-Flicker.md",
+            "title": "Reduce-Interlace-Flicker.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Reduce-Interlace-Flicker.md",
+            "url": "Ae/effects/zh/Obsolete/Reduce-Interlace-Flicker.md"
+        },
+        {
+            "name": "Spill-Suppressor.md",
+            "title": "Spill-Suppressor.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/Spill-Suppressor.md",
+            "url": "Ae/effects/zh/Obsolete/Spill-Suppressor.md"
+        },
+        {
+            "name": "basic-3D.md",
+            "title": "basic-3D.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Obsolete/basic-3D.md",
+            "url": "Ae/effects/zh/Obsolete/basic-3D.md"
+        }
+    ],
+    "categorys": []
+}

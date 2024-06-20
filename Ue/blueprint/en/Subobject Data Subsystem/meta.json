@@ -1,0 +1,258 @@
+{
+    "documents": [
+        {
+            "name": "Add New Subobject.md",
+            "title": "Add New Subobject.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Add New Subobject.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/AddNewSubobject.md"
+        },
+        {
+            "name": "Attach Subobject.md",
+            "title": "Attach Subobject.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Attach Subobject.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/AttachSubobject.md"
+        },
+        {
+            "name": "Can Copy Subobjects.md",
+            "title": "Can Copy Subobjects.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Can Copy Subobjects.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/CanCopySubobjects.md"
+        },
+        {
+            "name": "Can Paste Subobjects.md",
+            "title": "Can Paste Subobjects.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Can Paste Subobjects.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/CanPasteSubobjects.md"
+        },
+        {
+            "name": "Change Subobject Class.md",
+            "title": "Change Subobject Class.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Change Subobject Class.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/ChangeSubobjectClass.md"
+        },
+        {
+            "name": "Copy Subobjects.md",
+            "title": "Copy Subobjects.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Copy Subobjects.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/CopySubobjects.md"
+        },
+        {
+            "name": "Create New Blueprint Component.md",
+            "title": "Create New Blueprint Component.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Create New Blueprint Component.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/CreateNewBlueprintComponent.md"
+        },
+        {
+            "name": "Create New C++ Component.md",
+            "title": "Create New C++ Component.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Create New C++ Component.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/CreateNewCComponent.md"
+        },
+        {
+            "name": "Delete Subobject from Blueprint.md",
+            "title": "Delete Subobject from Blueprint.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Delete Subobject from Blueprint.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/DeleteSubobjectfromBlueprint.md"
+        },
+        {
+            "name": "Delete Subobject from Instance.md",
+            "title": "Delete Subobject from Instance.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Delete Subobject from Instance.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/DeleteSubobjectfromInstance.md"
+        },
+        {
+            "name": "Delete Subobjects from Blueprint.md",
+            "title": "Delete Subobjects from Blueprint.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Delete Subobjects from Blueprint.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/DeleteSubobjectsfromBlueprint.md"
+        },
+        {
+            "name": "Delete Subobjects from Instance.md",
+            "title": "Delete Subobjects from Instance.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Delete Subobjects from Instance.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/DeleteSubobjectsfromInstance.md"
+        },
+        {
+            "name": "Detach Subobject.md",
+            "title": "Detach Subobject.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Detach Subobject.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/DetachSubobject.md"
+        },
+        {
+            "name": "Find Handle for Object.md",
+            "title": "Find Handle for Object.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Find Handle for Object.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/FindHandleforObject.md"
+        },
+        {
+            "name": "FindSubobjectDataFromHandle.md",
+            "title": "FindSubobjectDataFromHandle.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/FindSubobjectDataFromHandle.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/FindSubobjectDataFromHandle.md"
+        },
+        {
+            "name": "Gather Subobject Data For Blueprint.md",
+            "title": "Gather Subobject Data For Blueprint.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Gather Subobject Data For Blueprint.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/GatherSubobjectDataForBlueprint.md"
+        },
+        {
+            "name": "Gather Subobject Data For Instance.md",
+            "title": "Gather Subobject Data For Instance.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Gather Subobject Data For Instance.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/GatherSubobjectDataForInstance.md"
+        },
+        {
+            "name": "Is Valid Rename.md",
+            "title": "Is Valid Rename.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Is Valid Rename.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/IsValidRename.md"
+        },
+        {
+            "name": "Make New Scene Root.md",
+            "title": "Make New Scene Root.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Make New Scene Root.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/MakeNewSceneRoot.md"
+        },
+        {
+            "name": "Rename Subobject Member Variable.md",
+            "title": "Rename Subobject Member Variable.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Rename Subobject Member Variable.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/RenameSubobjectMemberVariable.md"
+        },
+        {
+            "name": "Rename Subobject.md",
+            "title": "Rename Subobject.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Rename Subobject.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/RenameSubobject.md"
+        },
+        {
+            "name": "Reparent Subobject.md",
+            "title": "Reparent Subobject.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Reparent Subobject.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/ReparentSubobject.md"
+        },
+        {
+            "name": "Reparent Subobjects.md",
+            "title": "Reparent Subobjects.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Subobject Data Subsystem/Reparent Subobjects.md",
+            "url": "Ue/blueprint/en/SubobjectDataSubsystem/ReparentSubobjects.md"
+        }
+    ],
+    "categorys": []
+}

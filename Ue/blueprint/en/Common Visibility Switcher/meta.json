@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Activate Visible Slot.md",
+            "title": "Activate Visible Slot.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Activate Visible Slot.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/ActivateVisibleSlot.md"
+        },
+        {
+            "name": "Deactivate Visible Slot.md",
+            "title": "Deactivate Visible Slot.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Deactivate Visible Slot.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/DeactivateVisibleSlot.md"
+        },
+        {
+            "name": "Decrement Active Widget Index.md",
+            "title": "Decrement Active Widget Index.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Decrement Active Widget Index.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/DecrementActiveWidgetIndex.md"
+        },
+        {
+            "name": "Get Active Widget Index.md",
+            "title": "Get Active Widget Index.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Get Active Widget Index.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/GetActiveWidgetIndex.md"
+        },
+        {
+            "name": "Get Active Widget.md",
+            "title": "Get Active Widget.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Get Active Widget.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/GetActiveWidget.md"
+        },
+        {
+            "name": "Increment Active Widget Index.md",
+            "title": "Increment Active Widget Index.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Increment Active Widget Index.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/IncrementActiveWidgetIndex.md"
+        },
+        {
+            "name": "Is Currently Switching.md",
+            "title": "Is Currently Switching.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Is Currently Switching.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/IsCurrentlySwitching.md"
+        },
+        {
+            "name": "Set Active Widget Index.md",
+            "title": "Set Active Widget Index.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Set Active Widget Index.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/SetActiveWidgetIndex.md"
+        },
+        {
+            "name": "Set Active Widget.md",
+            "title": "Set Active Widget.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Common Visibility Switcher/Set Active Widget.md",
+            "url": "Ue/blueprint/en/CommonVisibilitySwitcher/SetActiveWidget.md"
+        }
+    ],
+    "categorys": []
+}

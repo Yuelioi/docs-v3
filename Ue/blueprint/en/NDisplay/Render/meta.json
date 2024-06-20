@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Set Freeze Outer Viewports.md",
+            "title": "Set Freeze Outer Viewports.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/NDisplay/Render/Set Freeze Outer Viewports.md",
+            "url": "Ue/blueprint/en/NDisplay/Render/SetFreezeOuterViewports.md"
+        },
+        {
+            "name": "Set Replace Texture Flag for All Viewports.md",
+            "title": "Set Replace Texture Flag for All Viewports.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/NDisplay/Render/Set Replace Texture Flag for All Viewports.md",
+            "url": "Ue/blueprint/en/NDisplay/Render/SetReplaceTextureFlagforAllViewports.md"
+        }
+    ],
+    "categorys": []
+}

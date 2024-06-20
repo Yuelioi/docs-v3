@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "chprim_clear.md",
+            "title": "chprim_clear.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_clear.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_clear.md"
+        },
+        {
+            "name": "chprim_destroykey.md",
+            "title": "chprim_destroykey.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_destroykey.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_destroykey.md"
+        },
+        {
+            "name": "chprim_end.md",
+            "title": "chprim_end.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_end.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_end.md"
+        },
+        {
+            "name": "chprim_eval.md",
+            "title": "chprim_eval.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_eval.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_eval.md"
+        },
+        {
+            "name": "chprim_insertkey.md",
+            "title": "chprim_insertkey.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_insertkey.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_insertkey.md"
+        },
+        {
+            "name": "chprim_keycount.md",
+            "title": "chprim_keycount.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_keycount.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_keycount.md"
+        },
+        {
+            "name": "chprim_keytimes.md",
+            "title": "chprim_keytimes.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_keytimes.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_keytimes.md"
+        },
+        {
+            "name": "chprim_keyvalues.md",
+            "title": "chprim_keyvalues.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_keyvalues.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_keyvalues.md"
+        },
+        {
+            "name": "chprim_length.md",
+            "title": "chprim_length.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_length.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_length.md"
+        },
+        {
+            "name": "chprim_setkeyaccel.md",
+            "title": "chprim_setkeyaccel.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_setkeyaccel.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_setkeyaccel.md"
+        },
+        {
+            "name": "chprim_setkeyslope.md",
+            "title": "chprim_setkeyslope.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_setkeyslope.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_setkeyslope.md"
+        },
+        {
+            "name": "chprim_setkeyvalue.md",
+            "title": "chprim_setkeyvalue.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_setkeyvalue.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_setkeyvalue.md"
+        },
+        {
+            "name": "chprim_start.md",
+            "title": "chprim_start.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Channel Primitives/chprim_start.md",
+            "url": "Houdini/vex/zh/ChannelPrimitives/chprim_start.md"
+        }
+    ],
+    "categorys": []
+}

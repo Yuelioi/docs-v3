@@ -1,0 +1,16 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Import Data",
+            "title": "Import Data",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/DMXGDTF/Import Data",
+            "url": "Ue/blueprint/zh/DMXGDTF/ImportData"
+        }
+    ]
+}

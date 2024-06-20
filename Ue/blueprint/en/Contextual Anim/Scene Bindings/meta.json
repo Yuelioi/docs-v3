@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Add Or Update Warp Targets For Bindings.md",
+            "title": "Add Or Update Warp Targets For Bindings.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Add Or Update Warp Targets For Bindings.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/AddOrUpdateWarpTargetsForBindings.md"
+        },
+        {
+            "name": "Calculate Warp Points For Bindings.md",
+            "title": "Calculate Warp Points For Bindings.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Calculate Warp Points For Bindings.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/CalculateWarpPointsForBindings.md"
+        },
+        {
+            "name": "Get Alignment Transform For Role Relative To Other Role.md",
+            "title": "Get Alignment Transform For Role Relative To Other Role.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Alignment Transform For Role Relative To Other Role.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetAlignmentTransformForRoleRelativeToOtherRole.md"
+        },
+        {
+            "name": "Get Alignment Transform For Role Relative To Warp Point.md",
+            "title": "Get Alignment Transform For Role Relative To Warp Point.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Alignment Transform For Role Relative To Warp Point.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetAlignmentTransformForRoleRelativeToWarpPoint.md"
+        },
+        {
+            "name": "Get Alignment Transform From Binding.md",
+            "title": "Get Alignment Transform From Binding.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Alignment Transform From Binding.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetAlignmentTransformFromBinding.md"
+        },
+        {
+            "name": "Get Animation From Binding.md",
+            "title": "Get Animation From Binding.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Animation From Binding.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetAnimationFromBinding.md"
+        },
+        {
+            "name": "Get Binding By Actor.md",
+            "title": "Get Binding By Actor.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Binding By Actor.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetBindingByActor.md"
+        },
+        {
+            "name": "Get Binding By Role.md",
+            "title": "Get Binding By Role.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Binding By Role.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetBindingByRole.md"
+        },
+        {
+            "name": "Get Bindings.md",
+            "title": "Get Bindings.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Bindings.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetBindings.md"
+        },
+        {
+            "name": "Get Role From Binding.md",
+            "title": "Get Role From Binding.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Role From Binding.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetRoleFromBinding.md"
+        },
+        {
+            "name": "Get Scene Asset.md",
+            "title": "Get Scene Asset.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Scene Asset.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetSceneAsset.md"
+        },
+        {
+            "name": "Get Section And AnimSet Indices.md",
+            "title": "Get Section And AnimSet Indices.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Bindings/Get Section And AnimSet Indices.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneBindings/GetSectionAndAnimSetIndices.md"
+        }
+    ],
+    "categorys": []
+}

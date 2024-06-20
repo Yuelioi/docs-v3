@@ -1,0 +1,347 @@
+{
+    "documents": [
+        {
+            "name": "Add Source for Actor.md",
+            "title": "Add Source for Actor.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Add Source for Actor.md",
+            "url": "Ue/blueprint/en/TakeRecorder/AddSourceforActor.md"
+        },
+        {
+            "name": "Add Source.md",
+            "title": "Add Source.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Add Source.md",
+            "url": "Ue/blueprint/en/TakeRecorder/AddSource.md"
+        },
+        {
+            "name": "Cancel Recording.md",
+            "title": "Cancel Recording.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Cancel Recording.md",
+            "url": "Ue/blueprint/en/TakeRecorder/CancelRecording.md"
+        },
+        {
+            "name": "Compute Next Take Number.md",
+            "title": "Compute Next Take Number.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Compute Next Take Number.md",
+            "url": "Ue/blueprint/en/TakeRecorder/ComputeNextTakeNumber.md"
+        },
+        {
+            "name": "Find Takes.md",
+            "title": "Find Takes.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Find Takes.md",
+            "url": "Ue/blueprint/en/TakeRecorder/FindTakes.md"
+        },
+        {
+            "name": "Get Active Recorder.md",
+            "title": "Get Active Recorder.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Active Recorder.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetActiveRecorder.md"
+        },
+        {
+            "name": "Get Countdown Seconds.md",
+            "title": "Get Countdown Seconds.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Countdown Seconds.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetCountdownSeconds.md"
+        },
+        {
+            "name": "Get Default Parameters.md",
+            "title": "Get Default Parameters.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Default Parameters.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetDefaultParameters.md"
+        },
+        {
+            "name": "Get Sequence.md",
+            "title": "Get Sequence.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Sequence.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetSequence.md"
+        },
+        {
+            "name": "Get Sources (Copy).md",
+            "title": "Get Sources (Copy).md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Sources (Copy).md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetSourcesCopy.md"
+        },
+        {
+            "name": "Get State.md",
+            "title": "Get State.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get State.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetState.md"
+        },
+        {
+            "name": "Get Take Recorder Panel.md",
+            "title": "Get Take Recorder Panel.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Get Take Recorder Panel.md",
+            "url": "Ue/blueprint/en/TakeRecorder/GetTakeRecorderPanel.md"
+        },
+        {
+            "name": "Is Recording.md",
+            "title": "Is Recording.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Is Recording.md",
+            "url": "Ue/blueprint/en/TakeRecorder/IsRecording.md"
+        },
+        {
+            "name": "Is Take Recorder Enabled.md",
+            "title": "Is Take Recorder Enabled.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Is Take Recorder Enabled.md",
+            "url": "Ue/blueprint/en/TakeRecorder/IsTakeRecorderEnabled.md"
+        },
+        {
+            "name": "Open Take Recorder Panel.md",
+            "title": "Open Take Recorder Panel.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Open Take Recorder Panel.md",
+            "url": "Ue/blueprint/en/TakeRecorder/OpenTakeRecorderPanel.md"
+        },
+        {
+            "name": "Remove Actor from Sources.md",
+            "title": "Remove Actor from Sources.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Remove Actor from Sources.md",
+            "url": "Ue/blueprint/en/TakeRecorder/RemoveActorfromSources.md"
+        },
+        {
+            "name": "Remove Source.md",
+            "title": "Remove Source.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Remove Source.md",
+            "url": "Ue/blueprint/en/TakeRecorder/RemoveSource.md"
+        },
+        {
+            "name": "Set Default Parameters.md",
+            "title": "Set Default Parameters.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Set Default Parameters.md",
+            "url": "Ue/blueprint/en/TakeRecorder/SetDefaultParameters.md"
+        },
+        {
+            "name": "Set On Take Recorder Panel Changed.md",
+            "title": "Set On Take Recorder Panel Changed.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Set On Take Recorder Panel Changed.md",
+            "url": "Ue/blueprint/en/TakeRecorder/SetOnTakeRecorderPanelChanged.md"
+        },
+        {
+            "name": "Set on Take Recorder Slate Changed.md",
+            "title": "Set on Take Recorder Slate Changed.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Set on Take Recorder Slate Changed.md",
+            "url": "Ue/blueprint/en/TakeRecorder/SetonTakeRecorderSlateChanged.md"
+        },
+        {
+            "name": "Set on Take Recorder Take Number Changed.md",
+            "title": "Set on Take Recorder Take Number Changed.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Set on Take Recorder Take Number Changed.md",
+            "url": "Ue/blueprint/en/TakeRecorder/SetonTakeRecorderTakeNumberChanged.md"
+        },
+        {
+            "name": "Start Recording Source.md",
+            "title": "Start Recording Source.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Start Recording Source.md",
+            "url": "Ue/blueprint/en/TakeRecorder/StartRecordingSource.md"
+        },
+        {
+            "name": "Start Recording.md",
+            "title": "Start Recording.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Start Recording.md",
+            "url": "Ue/blueprint/en/TakeRecorder/StartRecording.md"
+        },
+        {
+            "name": "Stop Recording.md",
+            "title": "Stop Recording.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Stop Recording.md",
+            "url": "Ue/blueprint/en/TakeRecorder/StopRecording.md"
+        },
+        {
+            "name": "Take Recorder Cancelled.md",
+            "title": "Take Recorder Cancelled.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Cancelled.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderCancelled.md"
+        },
+        {
+            "name": "Take Recorder Finished.md",
+            "title": "Take Recorder Finished.md",
+            "depth": 4,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Finished.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderFinished.md"
+        },
+        {
+            "name": "Take Recorder Marked Frame Added.md",
+            "title": "Take Recorder Marked Frame Added.md",
+            "depth": 4,
+            "order": 28,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Marked Frame Added.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderMarkedFrameAdded.md"
+        },
+        {
+            "name": "Take Recorder Pre Initialize.md",
+            "title": "Take Recorder Pre Initialize.md",
+            "depth": 4,
+            "order": 29,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Pre Initialize.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderPreInitialize.md"
+        },
+        {
+            "name": "Take Recorder Started.md",
+            "title": "Take Recorder Started.md",
+            "depth": 4,
+            "order": 30,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Started.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderStarted.md"
+        },
+        {
+            "name": "Take Recorder Stopped.md",
+            "title": "Take Recorder Stopped.md",
+            "depth": 4,
+            "order": 31,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Take Recorder Stopped.md",
+            "url": "Ue/blueprint/en/TakeRecorder/TakeRecorderStopped.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Panel",
+            "title": "Panel",
+            "depth": 4,
+            "order": 16,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Take Recorder/Panel",
+            "url": "Ue/blueprint/en/TakeRecorder/Panel"
+        }
+    ]
+}

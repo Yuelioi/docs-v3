@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Get Player Respawn Delay.md",
+            "title": "Get Player Respawn Delay.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game State/Get Player Respawn Delay.md",
+            "url": "Ue/blueprint/en/GameState/GetPlayerRespawnDelay.md"
+        },
+        {
+            "name": "Get Player Start Time.md",
+            "title": "Get Player Start Time.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game State/Get Player Start Time.md",
+            "url": "Ue/blueprint/en/GameState/GetPlayerStartTime.md"
+        },
+        {
+            "name": "Get Server World Time Seconds.md",
+            "title": "Get Server World Time Seconds.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game State/Get Server World Time Seconds.md",
+            "url": "Ue/blueprint/en/GameState/GetServerWorldTimeSeconds.md"
+        },
+        {
+            "name": "Has Begun Play.md",
+            "title": "Has Begun Play.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game State/Has Begun Play.md",
+            "url": "Ue/blueprint/en/GameState/HasBegunPlay.md"
+        },
+        {
+            "name": "Has Match Started.md",
+            "title": "Has Match Started.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Game State/Has Match Started.md",
+            "url": "Ue/blueprint/en/GameState/HasMatchStarted.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Copy Mesh Selection to Mesh.md",
+            "title": "Copy Mesh Selection to Mesh.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Copy Mesh Selection to Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/CopyMeshSelectiontoMesh.md"
+        },
+        {
+            "name": "Copy Mesh to Mesh.md",
+            "title": "Copy Mesh to Mesh.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Copy Mesh to Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/CopyMeshtoMesh.md"
+        },
+        {
+            "name": "Get Sub Mesh from Mesh.md",
+            "title": "Get Sub Mesh from Mesh.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Get Sub Mesh from Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/GetSubMeshfromMesh.md"
+        },
+        {
+            "name": "Split Mesh by Components.md",
+            "title": "Split Mesh by Components.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Split Mesh by Components.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/SplitMeshbyComponents.md"
+        },
+        {
+            "name": "Split Mesh by Material IDs.md",
+            "title": "Split Mesh by Material IDs.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Split Mesh by Material IDs.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/SplitMeshbyMaterialIDs.md"
+        },
+        {
+            "name": "Split Mesh by Polygroups.md",
+            "title": "Split Mesh by Polygroups.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Decomposition/Split Mesh by Polygroups.md",
+            "url": "Ue/blueprint/en/GeometryScript/Decomposition/SplitMeshbyPolygroups.md"
+        }
+    ],
+    "categorys": []
+}

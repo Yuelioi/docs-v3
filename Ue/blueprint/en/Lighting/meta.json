@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Set Capsule Indirect Shadow Min Visibility.md",
+            "title": "Set Capsule Indirect Shadow Min Visibility.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Lighting/Set Capsule Indirect Shadow Min Visibility.md",
+            "url": "Ue/blueprint/en/Lighting/SetCapsuleIndirectShadowMinVisibility.md"
+        },
+        {
+            "name": "Set Cast Capsule Direct Shadow.md",
+            "title": "Set Cast Capsule Direct Shadow.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Lighting/Set Cast Capsule Direct Shadow.md",
+            "url": "Ue/blueprint/en/Lighting/SetCastCapsuleDirectShadow.md"
+        },
+        {
+            "name": "Set Cast Capsule Indirect Shadow.md",
+            "title": "Set Cast Capsule Indirect Shadow.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Lighting/Set Cast Capsule Indirect Shadow.md",
+            "url": "Ue/blueprint/en/Lighting/SetCastCapsuleIndirectShadow.md"
+        }
+    ],
+    "categorys": []
+}

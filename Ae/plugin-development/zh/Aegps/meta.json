@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "AEGP-Details.md",
+            "title": "AEGP-Details.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/AEGP-Details.md",
+            "url": "Ae/plugin-development/zh/Aegps/AEGP-Details.md"
+        },
+        {
+            "name": "AEGP-Suites.md",
+            "title": "AEGP-Suites.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/AEGP-Suites.md",
+            "url": "Ae/plugin-development/zh/Aegps/AEGP-Suites.md"
+        },
+        {
+            "name": "AEGPs.md",
+            "title": "AEGPs.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/AEGPs.md",
+            "url": "Ae/plugin-development/zh/Aegps/AEGPs.md"
+        },
+        {
+            "name": "Cheating-Effect-Usage-of-AEGP-Suites.md",
+            "title": "Cheating-Effect-Usage-of-AEGP-Suites.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/Cheating-Effect-Usage-of-AEGP-Suites.md",
+            "url": "Ae/plugin-development/zh/Aegps/Cheating-Effect-Usage-of-AEGP-Suites.md"
+        },
+        {
+            "name": "Data-Types.md",
+            "title": "Data-Types.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/Data-Types.md",
+            "url": "Ae/plugin-development/zh/Aegps/Data-Types.md"
+        },
+        {
+            "name": "Implementation.md",
+            "title": "Implementation.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/Implementation.md",
+            "url": "Ae/plugin-development/zh/Aegps/Implementation.md"
+        },
+        {
+            "name": "Overview.md",
+            "title": "Overview.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Aegps/Overview.md",
+            "url": "Ae/plugin-development/zh/Aegps/Overview.md"
+        }
+    ],
+    "categorys": []
+}

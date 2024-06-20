@@ -1,0 +1,236 @@
+{
+    "documents": [
+        {
+            "name": "Does Use PCA.md",
+            "title": "Does Use PCA.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Does Use PCA.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/DoesUsePCA.md"
+        },
+        {
+            "name": "Get Batch Size.md",
+            "title": "Get Batch Size.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Batch Size.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetBatchSize.md"
+        },
+        {
+            "name": "Get Cached Deltas Paths.md",
+            "title": "Get Cached Deltas Paths.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Cached Deltas Paths.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetCachedDeltasPaths.md"
+        },
+        {
+            "name": "Get Cached Network Paths.md",
+            "title": "Get Cached Network Paths.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Cached Network Paths.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetCachedNetworkPaths.md"
+        },
+        {
+            "name": "Get Cached PCAPaths.md",
+            "title": "Get Cached PCAPaths.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Cached PCAPaths.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetCachedPCAPaths.md"
+        },
+        {
+            "name": "Get Early Stop Epochs.md",
+            "title": "Get Early Stop Epochs.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Early Stop Epochs.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetEarlyStopEpochs.md"
+        },
+        {
+            "name": "Get Hidden Layer Dims.md",
+            "title": "Get Hidden Layer Dims.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Hidden Layer Dims.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetHiddenLayerDims.md"
+        },
+        {
+            "name": "Get Input Dim.md",
+            "title": "Get Input Dim.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Input Dim.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetInputDim.md"
+        },
+        {
+            "name": "Get Learning Rate.md",
+            "title": "Get Learning Rate.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Learning Rate.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetLearningRate.md"
+        },
+        {
+            "name": "Get Model Dir.md",
+            "title": "Get Model Dir.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Model Dir.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetModelDir.md"
+        },
+        {
+            "name": "Get Num Epochs.md",
+            "title": "Get Num Epochs.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Num Epochs.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetNumEpochs.md"
+        },
+        {
+            "name": "Get Num Sections.md",
+            "title": "Get Num Sections.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Num Sections.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetNumSections.md"
+        },
+        {
+            "name": "Get Optimized Network.md",
+            "title": "Get Optimized Network.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Optimized Network.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetOptimizedNetwork.md"
+        },
+        {
+            "name": "Get Output Dim.md",
+            "title": "Get Output Dim.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Output Dim.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetOutputDim.md"
+        },
+        {
+            "name": "Get PCACoeff Starts.md",
+            "title": "Get PCACoeff Starts.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get PCACoeff Starts.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetPCACoeffStarts.md"
+        },
+        {
+            "name": "Get Regularization Factor.md",
+            "title": "Get Regularization Factor.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Regularization Factor.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetRegularizationFactor.md"
+        },
+        {
+            "name": "Get Smooth Loss Beta.md",
+            "title": "Get Smooth Loss Beta.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Smooth Loss Beta.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetSmoothLossBeta.md"
+        },
+        {
+            "name": "Get Total Num Basis.md",
+            "title": "Get Total Num Basis.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Get Total Num Basis.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/GetTotalNumBasis.md"
+        },
+        {
+            "name": "Is Ready for Inference.md",
+            "title": "Is Ready for Inference.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Is Ready for Inference.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/IsReadyforInference.md"
+        },
+        {
+            "name": "Is Ready for Training.md",
+            "title": "Is Ready for Training.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Is Ready for Training.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/IsReadyforTraining.md"
+        },
+        {
+            "name": "Reset.md",
+            "title": "Reset.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Nearest Neighbor Model/Reset.md",
+            "url": "Ue/blueprint/zh/NearestNeighborModel/Reset.md"
+        }
+    ],
+    "categorys": []
+}

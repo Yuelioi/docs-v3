@@ -1,0 +1,16 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "zh",
+            "title": "zh",
+            "depth": 2,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh",
+            "url": "Ae/scripting/zh"
+        }
+    ]
+}

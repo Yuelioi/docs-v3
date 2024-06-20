@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Backwards.md",
+            "title": "Backwards.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Backwards.md",
+            "url": "Ae/effects/zh/Audio/Backwards.md"
+        },
+        {
+            "name": "Bass-Treble.md",
+            "title": "Bass-Treble.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Bass-Treble.md",
+            "url": "Ae/effects/zh/Audio/Bass-Treble.md"
+        },
+        {
+            "name": "Delay.md",
+            "title": "Delay.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Delay.md",
+            "url": "Ae/effects/zh/Audio/Delay.md"
+        },
+        {
+            "name": "Flange-Chorus.md",
+            "title": "Flange-Chorus.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Flange-Chorus.md",
+            "url": "Ae/effects/zh/Audio/Flange-Chorus.md"
+        },
+        {
+            "name": "High-Low-Pass.md",
+            "title": "High-Low-Pass.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/High-Low-Pass.md",
+            "url": "Ae/effects/zh/Audio/High-Low-Pass.md"
+        },
+        {
+            "name": "Modulator.md",
+            "title": "Modulator.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Modulator.md",
+            "url": "Ae/effects/zh/Audio/Modulator.md"
+        },
+        {
+            "name": "Parametric-Eq.md",
+            "title": "Parametric-Eq.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Parametric-Eq.md",
+            "url": "Ae/effects/zh/Audio/Parametric-Eq.md"
+        },
+        {
+            "name": "Reverb.md",
+            "title": "Reverb.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Reverb.md",
+            "url": "Ae/effects/zh/Audio/Reverb.md"
+        },
+        {
+            "name": "Stero-Mixer.md",
+            "title": "Stero-Mixer.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Stero-Mixer.md",
+            "url": "Ae/effects/zh/Audio/Stero-Mixer.md"
+        },
+        {
+            "name": "Tone.md",
+            "title": "Tone.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Audio/Tone.md",
+            "url": "Ae/effects/zh/Audio/Tone.md"
+        }
+    ],
+    "categorys": []
+}

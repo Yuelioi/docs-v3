@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Targeting Results Actors.md",
+            "title": "Get Targeting Results Actors.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Targeting System/Targeting Results/Get Targeting Results Actors.md",
+            "url": "Ue/blueprint/zh/TargetingSystem/TargetingResults/GetTargetingResultsActors.md"
+        },
+        {
+            "name": "Get Targeting Results.md",
+            "title": "Get Targeting Results.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Targeting System/Targeting Results/Get Targeting Results.md",
+            "url": "Ue/blueprint/zh/TargetingSystem/TargetingResults/GetTargetingResults.md"
+        }
+    ],
+    "categorys": []
+}

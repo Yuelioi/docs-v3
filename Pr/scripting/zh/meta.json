@@ -1,0 +1,82 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Application",
+            "title": "Application",
+            "depth": 3,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Application",
+            "url": "Pr/scripting/zh/Application"
+        },
+        {
+            "name": "Collection",
+            "title": "Collection",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection",
+            "url": "Pr/scripting/zh/Collection"
+        },
+        {
+            "name": "General",
+            "title": "General",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/General",
+            "url": "Pr/scripting/zh/General"
+        },
+        {
+            "name": "Intro",
+            "title": "Intro",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Intro",
+            "url": "Pr/scripting/zh/Intro"
+        },
+        {
+            "name": "Item",
+            "title": "Item",
+            "depth": 3,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Item",
+            "url": "Pr/scripting/zh/Item"
+        },
+        {
+            "name": "Other",
+            "title": "Other",
+            "depth": 3,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Other",
+            "url": "Pr/scripting/zh/Other"
+        },
+        {
+            "name": "Sequence",
+            "title": "Sequence",
+            "depth": 3,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Sequence",
+            "url": "Pr/scripting/zh/Sequence"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Setup Material.md",
+            "title": "Get Setup Material.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Inputs/Get Setup Material.md",
+            "url": "Ue/blueprint/en/Inputs/GetSetupMaterial.md"
+        },
+        {
+            "name": "Set Setup Material.md",
+            "title": "Set Setup Material.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Inputs/Set Setup Material.md",
+            "url": "Ue/blueprint/en/Inputs/SetSetupMaterial.md"
+        }
+    ],
+    "categorys": []
+}

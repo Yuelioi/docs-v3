@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Animation Interpolation Type.md",
+            "title": "Get Animation Interpolation Type.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Interpolation/Get Animation Interpolation Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Interpolation/GetAnimationInterpolationType.md"
+        },
+        {
+            "name": "Set Animation Interpolation Type.md",
+            "title": "Set Animation Interpolation Type.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Interpolation/Set Animation Interpolation Type.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Interpolation/SetAnimationInterpolationType.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Is Recording.md",
+            "title": "Is Recording.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Virtual Camera/Take Recorder/Is Recording.md",
+            "url": "Ue/blueprint/en/VirtualCamera/TakeRecorder/IsRecording.md"
+        },
+        {
+            "name": "Is Take Recorder Panel Open.md",
+            "title": "Is Take Recorder Panel Open.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Virtual Camera/Take Recorder/Is Take Recorder Panel Open.md",
+            "url": "Ue/blueprint/en/VirtualCamera/TakeRecorder/IsTakeRecorderPanelOpen.md"
+        },
+        {
+            "name": "Set on Take Recorder Slate Changed.md",
+            "title": "Set on Take Recorder Slate Changed.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Virtual Camera/Take Recorder/Set on Take Recorder Slate Changed.md",
+            "url": "Ue/blueprint/en/VirtualCamera/TakeRecorder/SetonTakeRecorderSlateChanged.md"
+        },
+        {
+            "name": "Try Open Take Recorder Panel.md",
+            "title": "Try Open Take Recorder Panel.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Virtual Camera/Take Recorder/Try Open Take Recorder Panel.md",
+            "url": "Ue/blueprint/en/VirtualCamera/TakeRecorder/TryOpenTakeRecorderPanel.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,50 @@
+{
+    "documents": [
+        {
+            "name": "Spawn Emitter Attached.md",
+            "title": "Spawn Emitter Attached.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Effects/Spawn Emitter Attached.md",
+            "url": "Ue/blueprint/zh/Effects/SpawnEmitterAttached.md"
+        },
+        {
+            "name": "Spawn Emitter at Location.md",
+            "title": "Spawn Emitter at Location.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Effects/Spawn Emitter at Location.md",
+            "url": "Ue/blueprint/zh/Effects/SpawnEmitteratLocation.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Components",
+            "title": "Components",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Effects/Components",
+            "url": "Ue/blueprint/zh/Effects/Components"
+        },
+        {
+            "name": "Particles",
+            "title": "Particles",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Effects/Particles",
+            "url": "Ue/blueprint/zh/Effects/Particles"
+        }
+    ]
+}

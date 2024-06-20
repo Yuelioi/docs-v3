@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Augmented Image Database.md",
+            "title": "Get Augmented Image Database.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/google Arcore Augmentedimages/Get Augmented Image Database.md",
+            "url": "Ue/blueprint/en/googleArcoreAugmentedimages/GetAugmentedImageDatabase.md"
+        },
+        {
+            "name": "Set Augmented Image Database.md",
+            "title": "Set Augmented Image Database.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/google Arcore Augmentedimages/Set Augmented Image Database.md",
+            "url": "Ue/blueprint/en/googleArcoreAugmentedimages/SetAugmentedImageDatabase.md"
+        }
+    ],
+    "categorys": []
+}

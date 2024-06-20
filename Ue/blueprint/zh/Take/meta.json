@@ -1,0 +1,313 @@
+{
+    "documents": [
+        {
+            "name": "Generate Asset Path.md",
+            "title": "Generate Asset Path.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Generate Asset Path.md",
+            "url": "Ue/blueprint/zh/Take/GenerateAssetPath.md"
+        },
+        {
+            "name": "Get Description.md",
+            "title": "Get Description.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Description.md",
+            "url": "Ue/blueprint/zh/Take/GetDescription.md"
+        },
+        {
+            "name": "Get Duration.md",
+            "title": "Get Duration.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Duration.md",
+            "url": "Ue/blueprint/zh/Take/GetDuration.md"
+        },
+        {
+            "name": "Get Frame Rate from Timecode.md",
+            "title": "Get Frame Rate from Timecode.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Frame Rate from Timecode.md",
+            "url": "Ue/blueprint/zh/Take/GetFrameRatefromTimecode.md"
+        },
+        {
+            "name": "Get Frame Rate.md",
+            "title": "Get Frame Rate.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Frame Rate.md",
+            "url": "Ue/blueprint/zh/Take/GetFrameRate.md"
+        },
+        {
+            "name": "Get Level Origin.md",
+            "title": "Get Level Origin.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Level Origin.md",
+            "url": "Ue/blueprint/zh/Take/GetLevelOrigin.md"
+        },
+        {
+            "name": "Get Level Path.md",
+            "title": "Get Level Path.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Level Path.md",
+            "url": "Ue/blueprint/zh/Take/GetLevelPath.md"
+        },
+        {
+            "name": "Get Preset Origin.md",
+            "title": "Get Preset Origin.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Preset Origin.md",
+            "url": "Ue/blueprint/zh/Take/GetPresetOrigin.md"
+        },
+        {
+            "name": "Get Slate.md",
+            "title": "Get Slate.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Slate.md",
+            "url": "Ue/blueprint/zh/Take/GetSlate.md"
+        },
+        {
+            "name": "Get Take Number.md",
+            "title": "Get Take Number.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Take Number.md",
+            "url": "Ue/blueprint/zh/Take/GetTakeNumber.md"
+        },
+        {
+            "name": "Get Timecode In.md",
+            "title": "Get Timecode In.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Timecode In.md",
+            "url": "Ue/blueprint/zh/Take/GetTimecodeIn.md"
+        },
+        {
+            "name": "Get Timecode Out.md",
+            "title": "Get Timecode Out.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Timecode Out.md",
+            "url": "Ue/blueprint/zh/Take/GetTimecodeOut.md"
+        },
+        {
+            "name": "Get Timestamp.md",
+            "title": "Get Timestamp.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Get Timestamp.md",
+            "url": "Ue/blueprint/zh/Take/GetTimestamp.md"
+        },
+        {
+            "name": "Is Locked.md",
+            "title": "Is Locked.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Is Locked.md",
+            "url": "Ue/blueprint/zh/Take/IsLocked.md"
+        },
+        {
+            "name": "Lock.md",
+            "title": "Lock.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Lock.md",
+            "url": "Ue/blueprint/zh/Take/Lock.md"
+        },
+        {
+            "name": "Recorded.md",
+            "title": "Recorded.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Recorded.md",
+            "url": "Ue/blueprint/zh/Take/Recorded.md"
+        },
+        {
+            "name": "Set Description.md",
+            "title": "Set Description.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Description.md",
+            "url": "Ue/blueprint/zh/Take/SetDescription.md"
+        },
+        {
+            "name": "Set Duration.md",
+            "title": "Set Duration.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Duration.md",
+            "url": "Ue/blueprint/zh/Take/SetDuration.md"
+        },
+        {
+            "name": "Set Frame Rate from Timecode.md",
+            "title": "Set Frame Rate from Timecode.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Frame Rate from Timecode.md",
+            "url": "Ue/blueprint/zh/Take/SetFrameRatefromTimecode.md"
+        },
+        {
+            "name": "Set Frame Rate.md",
+            "title": "Set Frame Rate.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Frame Rate.md",
+            "url": "Ue/blueprint/zh/Take/SetFrameRate.md"
+        },
+        {
+            "name": "Set Level Origin.md",
+            "title": "Set Level Origin.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Level Origin.md",
+            "url": "Ue/blueprint/zh/Take/SetLevelOrigin.md"
+        },
+        {
+            "name": "Set Preset Origin.md",
+            "title": "Set Preset Origin.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Preset Origin.md",
+            "url": "Ue/blueprint/zh/Take/SetPresetOrigin.md"
+        },
+        {
+            "name": "Set Slate.md",
+            "title": "Set Slate.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Slate.md",
+            "url": "Ue/blueprint/zh/Take/SetSlate.md"
+        },
+        {
+            "name": "Set Take Number.md",
+            "title": "Set Take Number.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Take Number.md",
+            "url": "Ue/blueprint/zh/Take/SetTakeNumber.md"
+        },
+        {
+            "name": "Set Timecode In.md",
+            "title": "Set Timecode In.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Timecode In.md",
+            "url": "Ue/blueprint/zh/Take/SetTimecodeIn.md"
+        },
+        {
+            "name": "Set Timecode Out.md",
+            "title": "Set Timecode Out.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Timecode Out.md",
+            "url": "Ue/blueprint/zh/Take/SetTimecodeOut.md"
+        },
+        {
+            "name": "Set Timestamp.md",
+            "title": "Set Timestamp.md",
+            "depth": 4,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Set Timestamp.md",
+            "url": "Ue/blueprint/zh/Take/SetTimestamp.md"
+        },
+        {
+            "name": "Unlock.md",
+            "title": "Unlock.md",
+            "depth": 4,
+            "order": 28,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take/Unlock.md",
+            "url": "Ue/blueprint/zh/Take/Unlock.md"
+        }
+    ],
+    "categorys": []
+}

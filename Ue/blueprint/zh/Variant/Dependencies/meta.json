@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Dependency.md",
+            "title": "Get Dependency.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Dependencies/Get Dependency.md",
+            "url": "Ue/blueprint/zh/Variant/Dependencies/GetDependency.md"
+        },
+        {
+            "name": "Get Dependents.md",
+            "title": "Get Dependents.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Dependencies/Get Dependents.md",
+            "url": "Ue/blueprint/zh/Variant/Dependencies/GetDependents.md"
+        },
+        {
+            "name": "Get Num Dependencies.md",
+            "title": "Get Num Dependencies.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variant/Dependencies/Get Num Dependencies.md",
+            "url": "Ue/blueprint/zh/Variant/Dependencies/GetNumDependencies.md"
+        }
+    ],
+    "categorys": []
+}

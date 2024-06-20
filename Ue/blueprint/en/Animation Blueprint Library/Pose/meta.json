@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Bone Pose for Frame.md",
+            "title": "Get Bone Pose for Frame.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Pose/Get Bone Pose for Frame.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Pose/GetBonePoseforFrame.md"
+        },
+        {
+            "name": "Get Bone Pose for Time.md",
+            "title": "Get Bone Pose for Time.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Pose/Get Bone Pose for Time.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Pose/GetBonePoseforTime.md"
+        },
+        {
+            "name": "Get Bone Poses for Frame.md",
+            "title": "Get Bone Poses for Frame.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Pose/Get Bone Poses for Frame.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Pose/GetBonePosesforFrame.md"
+        },
+        {
+            "name": "Get Bone Poses for Time.md",
+            "title": "Get Bone Poses for Time.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Pose/Get Bone Poses for Time.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Pose/GetBonePosesforTime.md"
+        }
+    ],
+    "categorys": []
+}

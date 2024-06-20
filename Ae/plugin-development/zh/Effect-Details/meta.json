@@ -1,0 +1,236 @@
+{
+    "documents": [
+        {
+            "name": "Accessing-Camera-Light-Information.md",
+            "title": "Accessing-Camera-Light-Information.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Accessing-Camera-Light-Information.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Accessing-Camera-Light-Information.md"
+        },
+        {
+            "name": "Accessing-the-After-Effects-Function-Suites.md",
+            "title": "Accessing-the-After-Effects-Function-Suites.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Accessing-the-After-Effects-Function-Suites.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Accessing-the-After-Effects-Function-Suites.md"
+        },
+        {
+            "name": "Arbitrary-Data-Parameters.md",
+            "title": "Arbitrary-Data-Parameters.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Arbitrary-Data-Parameters.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Arbitrary-Data-Parameters.md"
+        },
+        {
+            "name": "Changing-Parameter-Orders-the-Nice-Way.md",
+            "title": "Changing-Parameter-Orders-the-Nice-Way.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Changing-Parameter-Orders-the-Nice-Way.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Changing-Parameter-Orders-the-Nice-Way.md"
+        },
+        {
+            "name": "Color-Space-Conversion.md",
+            "title": "Color-Space-Conversion.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Color-Space-Conversion.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Color-Space-Conversion.md"
+        },
+        {
+            "name": "Compute-Cache-API.md",
+            "title": "Compute-Cache-API.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Compute-Cache-API.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Compute-Cache-API.md"
+        },
+        {
+            "name": "Effect-Details.md",
+            "title": "Effect-Details.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Effect-Details.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Effect-Details.md"
+        },
+        {
+            "name": "Global-Sequence-Frame-Data.md",
+            "title": "Global-Sequence-Frame-Data.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Global-Sequence-Frame-Data.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Global-Sequence-Frame-Data.md"
+        },
+        {
+            "name": "Graphics-Utility-Suites.md",
+            "title": "Graphics-Utility-Suites.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Graphics-Utility-Suites.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Graphics-Utility-Suites.md"
+        },
+        {
+            "name": "Image-Buffer-Management-Functions.md",
+            "title": "Image-Buffer-Management-Functions.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Image-Buffer-Management-Functions.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Image-Buffer-Management-Functions.md"
+        },
+        {
+            "name": "Interaction-Callback-Functions.md",
+            "title": "Interaction-Callback-Functions.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Interaction-Callback-Functions.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Interaction-Callback-Functions.md"
+        },
+        {
+            "name": "Iteration-Suites.md",
+            "title": "Iteration-Suites.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Iteration-Suites.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Iteration-Suites.md"
+        },
+        {
+            "name": "Memory-Allocation.md",
+            "title": "Memory-Allocation.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Memory-Allocation.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Memory-Allocation.md"
+        },
+        {
+            "name": "Motion-Blur.md",
+            "title": "Motion-Blur.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Motion-Blur.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Motion-Blur.md"
+        },
+        {
+            "name": "Multi-Frame-Rendering-in-AE.md",
+            "title": "Multi-Frame-Rendering-in-AE.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Multi-Frame-Rendering-in-AE.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Multi-Frame-Rendering-in-AE.md"
+        },
+        {
+            "name": "Parameter-Supervision.md",
+            "title": "Parameter-Supervision.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Parameter-Supervision.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Parameter-Supervision.md"
+        },
+        {
+            "name": "Parameters-Floating-Point-Values.md",
+            "title": "Parameters-Floating-Point-Values.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Parameters-Floating-Point-Values.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Parameters-Floating-Point-Values.md"
+        },
+        {
+            "name": "Pixel-Aspect-Ratio.md",
+            "title": "Pixel-Aspect-Ratio.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Pixel-Aspect-Ratio.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Pixel-Aspect-Ratio.md"
+        },
+        {
+            "name": "Tips-Tricks.md",
+            "title": "Tips-Tricks.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Tips-Tricks.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Tips-Tricks.md"
+        },
+        {
+            "name": "Useful-Utility-Functions.md",
+            "title": "Useful-Utility-Functions.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Useful-Utility-Functions.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Useful-Utility-Functions.md"
+        },
+        {
+            "name": "Working-With-Paths.md",
+            "title": "Working-With-Paths.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/plugin-development/zh/Effect-Details/Working-With-Paths.md",
+            "url": "Ae/plugin-development/zh/Effect-Details/Working-With-Paths.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "ComponentCollection.md",
+            "title": "ComponentCollection.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/ComponentCollection.md",
+            "url": "Pr/scripting/zh/Collection/ComponentCollection.md"
+        },
+        {
+            "name": "Marker.md",
+            "title": "Marker.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/Marker.md",
+            "url": "Pr/scripting/zh/Collection/Marker.md"
+        },
+        {
+            "name": "ProjectCollection.md",
+            "title": "ProjectCollection.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/ProjectCollection.md",
+            "url": "Pr/scripting/zh/Collection/ProjectCollection.md"
+        },
+        {
+            "name": "ProjectItemCollection.md",
+            "title": "ProjectItemCollection.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/ProjectItemCollection.md",
+            "url": "Pr/scripting/zh/Collection/ProjectItemCollection.md"
+        },
+        {
+            "name": "SequenceCollection.md",
+            "title": "SequenceCollection.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/SequenceCollection.md",
+            "url": "Pr/scripting/zh/Collection/SequenceCollection.md"
+        },
+        {
+            "name": "TrackCollection.md",
+            "title": "TrackCollection.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/TrackCollection.md",
+            "url": "Pr/scripting/zh/Collection/TrackCollection.md"
+        },
+        {
+            "name": "TrackItemCollection.md",
+            "title": "TrackItemCollection.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/TrackItemCollection.md",
+            "url": "Pr/scripting/zh/Collection/TrackItemCollection.md"
+        },
+        {
+            "name": "集合对象.md",
+            "title": "集合对象.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Collection/集合对象.md",
+            "url": "Pr/scripting/zh/Collection/集合对象.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Capture Scene Async.md",
+            "title": "Capture Scene Async.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Class/Async Capture Scene/Capture Scene Async.md",
+            "url": "Ue/blueprint/en/Class/AsyncCaptureScene/CaptureSceneAsync.md"
+        },
+        {
+            "name": "Capture Scene with Warmup Async.md",
+            "title": "Capture Scene with Warmup Async.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Class/Async Capture Scene/Capture Scene with Warmup Async.md",
+            "url": "Ue/blueprint/en/Class/AsyncCaptureScene/CaptureScenewithWarmupAsync.md"
+        }
+    ],
+    "categorys": []
+}

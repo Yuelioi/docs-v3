@@ -1,0 +1,313 @@
+{
+    "documents": [
+        {
+            "name": "Auto Map Chains.md",
+            "title": "Auto Map Chains.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Auto Map Chains.md",
+            "url": "Ue/blueprint/en/IKRetargeter/AutoMapChains.md"
+        },
+        {
+            "name": "Create Retarget Pose.md",
+            "title": "Create Retarget Pose.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Create Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/CreateRetargetPose.md"
+        },
+        {
+            "name": "Duplicate Retarget Pose.md",
+            "title": "Duplicate Retarget Pose.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Duplicate Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/DuplicateRetargetPose.md"
+        },
+        {
+            "name": "Get All Chain Settings.md",
+            "title": "Get All Chain Settings.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get All Chain Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetAllChainSettings.md"
+        },
+        {
+            "name": "Get Controller.md",
+            "title": "Get Controller.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Controller.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetController.md"
+        },
+        {
+            "name": "Get Current Retarget Pose Name.md",
+            "title": "Get Current Retarget Pose Name.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Current Retarget Pose Name.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetCurrentRetargetPoseName.md"
+        },
+        {
+            "name": "Get Current Retarget Pose.md",
+            "title": "Get Current Retarget Pose.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Current Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetCurrentRetargetPose.md"
+        },
+        {
+            "name": "Get Global Settings.md",
+            "title": "Get Global Settings.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Global Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetGlobalSettings.md"
+        },
+        {
+            "name": "Get IKRig.md",
+            "title": "Get IKRig.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get IKRig.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetIKRig.md"
+        },
+        {
+            "name": "Get Preview Mesh.md",
+            "title": "Get Preview Mesh.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Preview Mesh.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetPreviewMesh.md"
+        },
+        {
+            "name": "Get Retarget Chain Settings.md",
+            "title": "Get Retarget Chain Settings.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Retarget Chain Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetRetargetChainSettings.md"
+        },
+        {
+            "name": "Get Retarget Poses.md",
+            "title": "Get Retarget Poses.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Retarget Poses.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetRetargetPoses.md"
+        },
+        {
+            "name": "Get Root Offset in Retarget Pose.md",
+            "title": "Get Root Offset in Retarget Pose.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Root Offset in Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetRootOffsetinRetargetPose.md"
+        },
+        {
+            "name": "Get Root Settings.md",
+            "title": "Get Root Settings.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Root Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetRootSettings.md"
+        },
+        {
+            "name": "Get Rotation Offset for Retarget Pose Bone.md",
+            "title": "Get Rotation Offset for Retarget Pose Bone.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Rotation Offset for Retarget Pose Bone.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetRotationOffsetforRetargetPoseBone.md"
+        },
+        {
+            "name": "Get Source Chain.md",
+            "title": "Get Source Chain.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Get Source Chain.md",
+            "url": "Ue/blueprint/en/IKRetargeter/GetSourceChain.md"
+        },
+        {
+            "name": "Remove Retarget Pose.md",
+            "title": "Remove Retarget Pose.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Remove Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/RemoveRetargetPose.md"
+        },
+        {
+            "name": "Rename Retarget Pose.md",
+            "title": "Rename Retarget Pose.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Rename Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/RenameRetargetPose.md"
+        },
+        {
+            "name": "Reset Retarget Pose.md",
+            "title": "Reset Retarget Pose.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Reset Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/ResetRetargetPose.md"
+        },
+        {
+            "name": "Set Current Retarget Pose.md",
+            "title": "Set Current Retarget Pose.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Current Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetCurrentRetargetPose.md"
+        },
+        {
+            "name": "Set Global Settings.md",
+            "title": "Set Global Settings.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Global Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetGlobalSettings.md"
+        },
+        {
+            "name": "Set IKRig.md",
+            "title": "Set IKRig.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set IKRig.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetIKRig.md"
+        },
+        {
+            "name": "Set Preview Mesh.md",
+            "title": "Set Preview Mesh.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Preview Mesh.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetPreviewMesh.md"
+        },
+        {
+            "name": "Set Retarget Chain Settings.md",
+            "title": "Set Retarget Chain Settings.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Retarget Chain Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetRetargetChainSettings.md"
+        },
+        {
+            "name": "Set Root Offset in Retarget Pose.md",
+            "title": "Set Root Offset in Retarget Pose.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Root Offset in Retarget Pose.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetRootOffsetinRetargetPose.md"
+        },
+        {
+            "name": "Set Root Settings.md",
+            "title": "Set Root Settings.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Root Settings.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetRootSettings.md"
+        },
+        {
+            "name": "Set Rotation Offset for Retarget Pose Bone.md",
+            "title": "Set Rotation Offset for Retarget Pose Bone.md",
+            "depth": 4,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Rotation Offset for Retarget Pose Bone.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetRotationOffsetforRetargetPoseBone.md"
+        },
+        {
+            "name": "Set Source Chain.md",
+            "title": "Set Source Chain.md",
+            "depth": 4,
+            "order": 28,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/IKRetargeter/Set Source Chain.md",
+            "url": "Ue/blueprint/en/IKRetargeter/SetSourceChain.md"
+        }
+    ],
+    "categorys": []
+}

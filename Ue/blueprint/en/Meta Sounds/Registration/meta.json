@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Register Asset Classes in Directories.md",
+            "title": "Register Asset Classes in Directories.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Meta Sounds/Registration/Register Asset Classes in Directories.md",
+            "url": "Ue/blueprint/en/MetaSounds/Registration/RegisterAssetClassesinDirectories.md"
+        },
+        {
+            "name": "Unregister Asset Classes in Directories.md",
+            "title": "Unregister Asset Classes in Directories.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Meta Sounds/Registration/Unregister Asset Classes in Directories.md",
+            "url": "Ue/blueprint/en/MetaSounds/Registration/UnregisterAssetClassesinDirectories.md"
+        }
+    ],
+    "categorys": []
+}

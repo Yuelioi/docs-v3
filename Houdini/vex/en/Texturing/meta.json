@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "colormap.md",
+            "title": "colormap.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/colormap.md",
+            "url": "Houdini/vex/en/Texturing/colormap.md"
+        },
+        {
+            "name": "depthmap.md",
+            "title": "depthmap.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/depthmap.md",
+            "url": "Houdini/vex/en/Texturing/depthmap.md"
+        },
+        {
+            "name": "environment.md",
+            "title": "environment.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/environment.md",
+            "url": "Houdini/vex/en/Texturing/environment.md"
+        },
+        {
+            "name": "expand_udim.md",
+            "title": "expand_udim.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/expand_udim.md",
+            "url": "Houdini/vex/en/Texturing/expand_udim.md"
+        },
+        {
+            "name": "has_udim.md",
+            "title": "has_udim.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/has_udim.md",
+            "url": "Houdini/vex/en/Texturing/has_udim.md"
+        },
+        {
+            "name": "importance_remap.md",
+            "title": "importance_remap.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/importance_remap.md",
+            "url": "Houdini/vex/en/Texturing/importance_remap.md"
+        },
+        {
+            "name": "ocean_sample.md",
+            "title": "ocean_sample.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/ocean_sample.md",
+            "url": "Houdini/vex/en/Texturing/ocean_sample.md"
+        },
+        {
+            "name": "ptexture.md",
+            "title": "ptexture.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/ptexture.md",
+            "url": "Houdini/vex/en/Texturing/ptexture.md"
+        },
+        {
+            "name": "rawcolormap.md",
+            "title": "rawcolormap.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/rawcolormap.md",
+            "url": "Houdini/vex/en/Texturing/rawcolormap.md"
+        },
+        {
+            "name": "shadowmap.md",
+            "title": "shadowmap.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/shadowmap.md",
+            "url": "Houdini/vex/en/Texturing/shadowmap.md"
+        },
+        {
+            "name": "teximport.md",
+            "title": "teximport.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/teximport.md",
+            "url": "Houdini/vex/en/Texturing/teximport.md"
+        },
+        {
+            "name": "texprintf.md",
+            "title": "texprintf.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/texprintf.md",
+            "url": "Houdini/vex/en/Texturing/texprintf.md"
+        },
+        {
+            "name": "texture.md",
+            "title": "texture.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Texturing/texture.md",
+            "url": "Houdini/vex/en/Texturing/texture.md"
+        }
+    ],
+    "categorys": []
+}

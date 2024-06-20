@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "fuzzify.md",
+            "title": "fuzzify.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzify.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzify.md"
+        },
+        {
+            "name": "fuzzy_and.md",
+            "title": "fuzzy_and.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_and.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_and.md"
+        },
+        {
+            "name": "fuzzy_defuzz_centroid.md",
+            "title": "fuzzy_defuzz_centroid.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_defuzz_centroid.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_defuzz_centroid.md"
+        },
+        {
+            "name": "fuzzy_nand.md",
+            "title": "fuzzy_nand.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_nand.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_nand.md"
+        },
+        {
+            "name": "fuzzy_nor.md",
+            "title": "fuzzy_nor.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_nor.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_nor.md"
+        },
+        {
+            "name": "fuzzy_not.md",
+            "title": "fuzzy_not.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_not.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_not.md"
+        },
+        {
+            "name": "fuzzy_nxor.md",
+            "title": "fuzzy_nxor.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_nxor.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_nxor.md"
+        },
+        {
+            "name": "fuzzy_or.md",
+            "title": "fuzzy_or.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_or.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_or.md"
+        },
+        {
+            "name": "fuzzy_xor.md",
+            "title": "fuzzy_xor.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Fuzzy Logic/fuzzy_xor.md",
+            "url": "Houdini/vex/zh/FuzzyLogic/fuzzy_xor.md"
+        }
+    ],
+    "categorys": []
+}

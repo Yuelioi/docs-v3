@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Get Base Pose Name.md",
+            "title": "Get Base Pose Name.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Pose Asset/Get Base Pose Name.md",
+            "url": "Ue/blueprint/en/PoseAsset/GetBasePoseName.md"
+        },
+        {
+            "name": "Get Pose Names.md",
+            "title": "Get Pose Names.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Pose Asset/Get Pose Names.md",
+            "url": "Ue/blueprint/en/PoseAsset/GetPoseNames.md"
+        },
+        {
+            "name": "Rename Pose.md",
+            "title": "Rename Pose.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Pose Asset/Rename Pose.md",
+            "url": "Ue/blueprint/en/PoseAsset/RenamePose.md"
+        },
+        {
+            "name": "Set Base Pose Name.md",
+            "title": "Set Base Pose Name.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Pose Asset/Set Base Pose Name.md",
+            "url": "Ue/blueprint/en/PoseAsset/SetBasePoseName.md"
+        },
+        {
+            "name": "Update Pose from Animation.md",
+            "title": "Update Pose from Animation.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Pose Asset/Update Pose from Animation.md",
+            "url": "Ue/blueprint/en/PoseAsset/UpdatePosefromAnimation.md"
+        }
+    ],
+    "categorys": []
+}

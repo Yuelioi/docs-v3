@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Interpolate to Value.md",
+            "title": "Interpolate to Value.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/Interpolate to Value.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/InterpolatetoValue.md"
+        },
+        {
+            "name": "Is Interpolating Numeric Value.md",
+            "title": "Is Interpolating Numeric Value.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/Is Interpolating Numeric Value.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/IsInterpolatingNumericValue.md"
+        },
+        {
+            "name": "On Interpolation Ended Event.md",
+            "title": "On Interpolation Ended Event.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/On Interpolation Ended Event.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/OnInterpolationEndedEvent.md"
+        },
+        {
+            "name": "On Interpolation Started Event.md",
+            "title": "On Interpolation Started Event.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/On Interpolation Started Event.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/OnInterpolationStartedEvent.md"
+        },
+        {
+            "name": "On Interpolation Updated Event.md",
+            "title": "On Interpolation Updated Event.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/On Interpolation Updated Event.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/OnInterpolationUpdatedEvent.md"
+        },
+        {
+            "name": "On Outro Event.md",
+            "title": "On Outro Event.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Numeric Interpolation/On Outro Event.md",
+            "url": "Ue/blueprint/en/NumericInterpolation/OnOutroEvent.md"
+        }
+    ],
+    "categorys": []
+}

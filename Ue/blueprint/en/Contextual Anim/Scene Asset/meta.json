@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Create Contextual Anim Scene Bindings For Two Actors.md",
+            "title": "Create Contextual Anim Scene Bindings For Two Actors.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Create Contextual Anim Scene Bindings For Two Actors.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/CreateContextualAnimSceneBindingsForTwoActors.md"
+        },
+        {
+            "name": "Create Contextual Anim Scene Bindings.md",
+            "title": "Create Contextual Anim Scene Bindings.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Create Contextual Anim Scene Bindings.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/CreateContextualAnimSceneBindings.md"
+        },
+        {
+            "name": "Find AnimSet Index By Animation.md",
+            "title": "Find AnimSet Index By Animation.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Find AnimSet Index By Animation.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/FindAnimSetIndexByAnimation.md"
+        },
+        {
+            "name": "Find Animation For Role.md",
+            "title": "Find Animation For Role.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Find Animation For Role.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/FindAnimationForRole.md"
+        },
+        {
+            "name": "Get Alignment Points for Secondary Role Considering Selection Criteria.md",
+            "title": "Get Alignment Points for Secondary Role Considering Selection Criteria.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Get Alignment Points for Secondary Role Considering Selection Criteria.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/GetAlignmentPointsforSecondaryRoleConsideringSelectionCriteria.md"
+        },
+        {
+            "name": "Get Alignment Points for Secondary Role.md",
+            "title": "Get Alignment Points for Secondary Role.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Get Alignment Points for Secondary Role.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/GetAlignmentPointsforSecondaryRole.md"
+        },
+        {
+            "name": "Get Alignment Transform For Role Relative To WarpPoint.md",
+            "title": "Get Alignment Transform For Role Relative To WarpPoint.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Get Alignment Transform For Role Relative To WarpPoint.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/GetAlignmentTransformForRoleRelativeToWarpPoint.md"
+        },
+        {
+            "name": "Get IK Target Transform For Role At Time.md",
+            "title": "Get IK Target Transform For Role At Time.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Get IK Target Transform For Role At Time.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/GetIKTargetTransformForRoleAtTime.md"
+        },
+        {
+            "name": "Get Start and End Time For Warp Section.md",
+            "title": "Get Start and End Time For Warp Section.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Get Start and End Time For Warp Section.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/GetStartandEndTimeForWarpSection.md"
+        },
+        {
+            "name": "Query.md",
+            "title": "Query.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Contextual Anim/Scene Asset/Query.md",
+            "url": "Ue/blueprint/en/ContextualAnim/SceneAsset/Query.md"
+        }
+    ],
+    "categorys": []
+}

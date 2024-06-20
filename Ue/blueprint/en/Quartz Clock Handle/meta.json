@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Create New Clock.md",
+            "title": "Create New Clock.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Create New Clock.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/CreateNewClock.md"
+        },
+        {
+            "name": "Delete Clock by Handle.md",
+            "title": "Delete Clock by Handle.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Delete Clock by Handle.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/DeleteClockbyHandle.md"
+        },
+        {
+            "name": "Delete Clock by Name.md",
+            "title": "Delete Clock by Name.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Delete Clock by Name.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/DeleteClockbyName.md"
+        },
+        {
+            "name": "Does Clock Exist.md",
+            "title": "Does Clock Exist.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Does Clock Exist.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/DoesClockExist.md"
+        },
+        {
+            "name": "Get Current Clock Timestamp.md",
+            "title": "Get Current Clock Timestamp.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Current Clock Timestamp.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetCurrentClockTimestamp.md"
+        },
+        {
+            "name": "Get Current Timestamp.md",
+            "title": "Get Current Timestamp.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Current Timestamp.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetCurrentTimestamp.md"
+        },
+        {
+            "name": "Get Duration Of Quantization Type in Seconds.md",
+            "title": "Get Duration Of Quantization Type in Seconds.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Duration Of Quantization Type in Seconds.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetDurationOfQuantizationTypeinSeconds.md"
+        },
+        {
+            "name": "Get Estimated Clock Run Time.md",
+            "title": "Get Estimated Clock Run Time.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Estimated Clock Run Time.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetEstimatedClockRunTime.md"
+        },
+        {
+            "name": "Get Estimated Run Time.md",
+            "title": "Get Estimated Run Time.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Estimated Run Time.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetEstimatedRunTime.md"
+        },
+        {
+            "name": "Get Handle for Clock.md",
+            "title": "Get Handle for Clock.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Get Handle for Clock.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/GetHandleforClock.md"
+        },
+        {
+            "name": "Is Clock Running.md",
+            "title": "Is Clock Running.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Is Clock Running.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/IsClockRunning.md"
+        },
+        {
+            "name": "Is Quartz Enabled.md",
+            "title": "Is Quartz Enabled.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Quartz Clock Handle/Is Quartz Enabled.md",
+            "url": "Ue/blueprint/en/QuartzClockHandle/IsQuartzEnabled.md"
+        }
+    ],
+    "categorys": []
+}

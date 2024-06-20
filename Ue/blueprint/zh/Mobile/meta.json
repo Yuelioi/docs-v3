@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Are Headphones Plugged In.md",
+            "title": "Are Headphones Plugged In.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Mobile/Are Headphones Plugged In.md",
+            "url": "Ue/blueprint/zh/Mobile/AreHeadphonesPluggedIn.md"
+        },
+        {
+            "name": "Get Battery Level.md",
+            "title": "Get Battery Level.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Mobile/Get Battery Level.md",
+            "url": "Ue/blueprint/zh/Mobile/GetBatteryLevel.md"
+        },
+        {
+            "name": "Get Battery Temperature.md",
+            "title": "Get Battery Temperature.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Mobile/Get Battery Temperature.md",
+            "url": "Ue/blueprint/zh/Mobile/GetBatteryTemperature.md"
+        },
+        {
+            "name": "Get Volume State.md",
+            "title": "Get Volume State.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Mobile/Get Volume State.md",
+            "url": "Ue/blueprint/zh/Mobile/GetVolumeState.md"
+        }
+    ],
+    "categorys": []
+}

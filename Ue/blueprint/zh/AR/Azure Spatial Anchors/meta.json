@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "Config Session 2.md",
+            "title": "Config Session 2.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Config Session 2.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/ConfigSession2.md"
+        },
+        {
+            "name": "Create Session.md",
+            "title": "Create Session.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Create Session.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/CreateSession.md"
+        },
+        {
+            "name": "Delete Cloud Anchor.md",
+            "title": "Delete Cloud Anchor.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Delete Cloud Anchor.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/DeleteCloudAnchor.md"
+        },
+        {
+            "name": "Destroy Session.md",
+            "title": "Destroy Session.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Destroy Session.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/DestroySession.md"
+        },
+        {
+            "name": "Get Cached Session Status.md",
+            "title": "Get Cached Session Status.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Get Cached Session Status.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/GetCachedSessionStatus.md"
+        },
+        {
+            "name": "Get Cloud Anchor.md",
+            "title": "Get Cloud Anchor.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Get Cloud Anchor.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/GetCloudAnchor.md"
+        },
+        {
+            "name": "Get Cloud Anchors.md",
+            "title": "Get Cloud Anchors.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Get Cloud Anchors.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/GetCloudAnchors.md"
+        },
+        {
+            "name": "Get Session Status.md",
+            "title": "Get Session Status.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Get Session Status.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/GetSessionStatus.md"
+        },
+        {
+            "name": "Load Cloud Anchor.md",
+            "title": "Load Cloud Anchor.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Load Cloud Anchor.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/LoadCloudAnchor.md"
+        },
+        {
+            "name": "Save Pin to Cloud with App Properties.md",
+            "title": "Save Pin to Cloud with App Properties.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Save Pin to Cloud with App Properties.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/SavePintoCloudwithAppProperties.md"
+        },
+        {
+            "name": "Save Pin to Cloud.md",
+            "title": "Save Pin to Cloud.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Save Pin to Cloud.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/SavePintoCloud.md"
+        },
+        {
+            "name": "Start Session.md",
+            "title": "Start Session.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Start Session.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/StartSession.md"
+        },
+        {
+            "name": "Stop Session.md",
+            "title": "Stop Session.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR/Azure Spatial Anchors/Stop Session.md",
+            "url": "Ue/blueprint/zh/AR/AzureSpatialAnchors/StopSession.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,116 @@
+{
+    "documents": [
+        {
+            "name": "Geometry functions.md",
+            "title": "Geometry functions.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Geometry functions.md",
+            "url": "Houdini/vex/en/Nextsteps/Geometryfunctions.md"
+        },
+        {
+            "name": "Half-edges.md",
+            "title": "Half-edges.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Half-edges.md",
+            "url": "Houdini/vex/en/Nextsteps/Half-edges.md"
+        },
+        {
+            "name": "Noise and randomness.md",
+            "title": "Noise and randomness.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Noise and randomness.md",
+            "url": "Houdini/vex/en/Nextsteps/Noiseandrandomness.md"
+        },
+        {
+            "name": "Using VEX expressions.md",
+            "title": "Using VEX expressions.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Using VEX expressions.md",
+            "url": "Houdini/vex/en/Nextsteps/UsingVEXexpressions.md"
+        },
+        {
+            "name": "Using assertions in VEX.md",
+            "title": "Using assertions in VEX.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Using assertions in VEX.md",
+            "url": "Houdini/vex/en/Nextsteps/UsingassertionsinVEX.md"
+        },
+        {
+            "name": "VEX cookbook.md",
+            "title": "VEX cookbook.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/VEX cookbook.md",
+            "url": "Houdini/vex/en/Nextsteps/VEXcookbook.md"
+        },
+        {
+            "name": "VOP structs.md",
+            "title": "VOP structs.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/VOP structs.md",
+            "url": "Houdini/vex/en/Nextsteps/VOPstructs.md"
+        },
+        {
+            "name": "Working with geometry groups in VEX.md",
+            "title": "Working with geometry groups in VEX.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Working with geometry groups in VEX.md",
+            "url": "Houdini/vex/en/Nextsteps/WorkingwithgeometrygroupsinVEX.md"
+        },
+        {
+            "name": "Writing PBR shaders in VEX.md",
+            "title": "Writing PBR shaders in VEX.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Writing PBR shaders in VEX.md",
+            "url": "Houdini/vex/en/Nextsteps/WritingPBRshadersinVEX.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Creating a surface or particle node using VOPs",
+            "title": "Creating a surface or particle node using VOPs",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en/Next steps/Creating a surface or particle node using VOPs",
+            "url": "Houdini/vex/en/Nextsteps/CreatingasurfaceorparticlenodeusingVOPs"
+        }
+    ]
+}

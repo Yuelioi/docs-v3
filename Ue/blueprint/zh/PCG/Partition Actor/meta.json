@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Local Component.md",
+            "title": "Get Local Component.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/PCG/Partition Actor/Get Local Component.md",
+            "url": "Ue/blueprint/zh/PCG/PartitionActor/GetLocalComponent.md"
+        },
+        {
+            "name": "Get Original Component.md",
+            "title": "Get Original Component.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/PCG/Partition Actor/Get Original Component.md",
+            "url": "Ue/blueprint/zh/PCG/PartitionActor/GetOriginalComponent.md"
+        }
+    ],
+    "categorys": []
+}

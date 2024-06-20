@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Global Reverb Preset.md",
+            "title": "Get Global Reverb Preset.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio/Global Reverb Preset/Get Global Reverb Preset.md",
+            "url": "Ue/blueprint/en/ResonanceAudio/GlobalReverbPreset/GetGlobalReverbPreset.md"
+        },
+        {
+            "name": "Set Global Reverb Preset.md",
+            "title": "Set Global Reverb Preset.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio/Global Reverb Preset/Set Global Reverb Preset.md",
+            "url": "Ue/blueprint/en/ResonanceAudio/GlobalReverbPreset/SetGlobalReverbPreset.md"
+        }
+    ],
+    "categorys": []
+}

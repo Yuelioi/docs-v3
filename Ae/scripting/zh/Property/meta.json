@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "MaskPropertyGroup.md",
+            "title": "MaskPropertyGroup.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Property/MaskPropertyGroup.md",
+            "url": "Ae/scripting/zh/Property/MaskPropertyGroup.md"
+        },
+        {
+            "name": "Property.md",
+            "title": "Property.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Property/Property.md",
+            "url": "Ae/scripting/zh/Property/Property.md"
+        },
+        {
+            "name": "PropertyBase.md",
+            "title": "PropertyBase.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Property/PropertyBase.md",
+            "url": "Ae/scripting/zh/Property/PropertyBase.md"
+        },
+        {
+            "name": "PropertyGroup.md",
+            "title": "PropertyGroup.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Property/PropertyGroup.md",
+            "url": "Ae/scripting/zh/Property/PropertyGroup.md"
+        }
+    ],
+    "categorys": []
+}

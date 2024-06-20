@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Get Root Motion Lock Type.md",
+            "title": "Get Root Motion Lock Type.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Get Root Motion Lock Type.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/GetRootMotionLockType.md"
+        },
+        {
+            "name": "Is Root Motion Enabled.md",
+            "title": "Is Root Motion Enabled.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Is Root Motion Enabled.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/IsRootMotionEnabled.md"
+        },
+        {
+            "name": "Is Root Motion Lock Forced.md",
+            "title": "Is Root Motion Lock Forced.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Is Root Motion Lock Forced.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/IsRootMotionLockForced.md"
+        },
+        {
+            "name": "Set Is Root Motion Lock Forced.md",
+            "title": "Set Is Root Motion Lock Forced.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Set Is Root Motion Lock Forced.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/SetIsRootMotionLockForced.md"
+        },
+        {
+            "name": "Set Root Motion Enabled.md",
+            "title": "Set Root Motion Enabled.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Set Root Motion Enabled.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/SetRootMotionEnabled.md"
+        },
+        {
+            "name": "Set Root Motion Lock Type.md",
+            "title": "Set Root Motion Lock Type.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Animation Blueprint Library/Root Motion/Set Root Motion Lock Type.md",
+            "url": "Ue/blueprint/zh/AnimationBlueprintLibrary/RootMotion/SetRootMotionLockType.md"
+        }
+    ],
+    "categorys": []
+}

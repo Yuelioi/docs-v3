@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Set Enable Room Effects.md",
+            "title": "Set Enable Room Effects.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Enable Room Effects.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetEnableRoomEffects.md"
+        },
+        {
+            "name": "Set Reflection Scalar.md",
+            "title": "Set Reflection Scalar.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Reflection Scalar.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetReflectionScalar.md"
+        },
+        {
+            "name": "Set Reverb Brightness.md",
+            "title": "Set Reverb Brightness.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Reverb Brightness.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetReverbBrightness.md"
+        },
+        {
+            "name": "Set Reverb Gain.md",
+            "title": "Set Reverb Gain.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Reverb Gain.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetReverbGain.md"
+        },
+        {
+            "name": "Set Reverb Time Modifier.md",
+            "title": "Set Reverb Time Modifier.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Reverb Time Modifier.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetReverbTimeModifier.md"
+        },
+        {
+            "name": "Set Room Dimensions.md",
+            "title": "Set Room Dimensions.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Room Dimensions.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetRoomDimensions.md"
+        },
+        {
+            "name": "Set Room Materials.md",
+            "title": "Set Room Materials.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Room Materials.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetRoomMaterials.md"
+        },
+        {
+            "name": "Set Room Position.md",
+            "title": "Set Room Position.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Room Position.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetRoomPosition.md"
+        },
+        {
+            "name": "Set Room Rotation.md",
+            "title": "Set Room Rotation.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Resonance Audio Room Effect Settings/Set Room Rotation.md",
+            "url": "Ue/blueprint/en/ResonanceAudioRoomEffectSettings/SetRoomRotation.md"
+        }
+    ],
+    "categorys": []
+}

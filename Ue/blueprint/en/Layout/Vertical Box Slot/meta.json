@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Set Horizontal Alignment.md",
+            "title": "Set Horizontal Alignment.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Vertical Box Slot/Set Horizontal Alignment.md",
+            "url": "Ue/blueprint/en/Layout/VerticalBoxSlot/SetHorizontalAlignment.md"
+        },
+        {
+            "name": "Set Padding.md",
+            "title": "Set Padding.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Vertical Box Slot/Set Padding.md",
+            "url": "Ue/blueprint/en/Layout/VerticalBoxSlot/SetPadding.md"
+        },
+        {
+            "name": "Set Size.md",
+            "title": "Set Size.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Vertical Box Slot/Set Size.md",
+            "url": "Ue/blueprint/en/Layout/VerticalBoxSlot/SetSize.md"
+        },
+        {
+            "name": "Set Vertical Alignment.md",
+            "title": "Set Vertical Alignment.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Layout/Vertical Box Slot/Set Vertical Alignment.md",
+            "url": "Ue/blueprint/en/Layout/VerticalBoxSlot/SetVerticalAlignment.md"
+        }
+    ],
+    "categorys": []
+}

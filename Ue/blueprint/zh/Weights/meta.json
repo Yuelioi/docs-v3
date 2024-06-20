@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Enforce Max Influences.md",
+            "title": "Enforce Max Influences.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Enforce Max Influences.md",
+            "url": "Ue/blueprint/zh/Weights/EnforceMaxInfluences.md"
+        },
+        {
+            "name": "Get Vertex Weights.md",
+            "title": "Get Vertex Weights.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Get Vertex Weights.md",
+            "url": "Ue/blueprint/zh/Weights/GetVertexWeights.md"
+        },
+        {
+            "name": "Normalize All Weights.md",
+            "title": "Normalize All Weights.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Normalize All Weights.md",
+            "url": "Ue/blueprint/zh/Weights/NormalizeAllWeights.md"
+        },
+        {
+            "name": "Normalize Vertex Weights.md",
+            "title": "Normalize Vertex Weights.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Normalize Vertex Weights.md",
+            "url": "Ue/blueprint/zh/Weights/NormalizeVertexWeights.md"
+        },
+        {
+            "name": "Prune All Weights.md",
+            "title": "Prune All Weights.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Prune All Weights.md",
+            "url": "Ue/blueprint/zh/Weights/PruneAllWeights.md"
+        },
+        {
+            "name": "Prune Vertex Weights.md",
+            "title": "Prune Vertex Weights.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Prune Vertex Weights.md",
+            "url": "Ue/blueprint/zh/Weights/PruneVertexWeights.md"
+        },
+        {
+            "name": "Set Vertex Weights.md",
+            "title": "Set Vertex Weights.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Weights/Set Vertex Weights.md",
+            "url": "Ue/blueprint/zh/Weights/SetVertexWeights.md"
+        }
+    ],
+    "categorys": []
+}

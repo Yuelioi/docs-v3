@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Add Actor to Exclude from Hit Tests.md",
+            "title": "Add Actor to Exclude from Hit Tests.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Add Actor to Exclude from Hit Tests.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/AddActortoExcludefromHitTests.md"
+        },
+        {
+            "name": "Add Interactor.md",
+            "title": "Add Interactor.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Add Interactor.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/AddInteractor.md"
+        },
+        {
+            "name": "Get Head Transform.md",
+            "title": "Get Head Transform.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get Head Transform.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetHeadTransform.md"
+        },
+        {
+            "name": "Get Interactors.md",
+            "title": "Get Interactors.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get Interactors.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetInteractors.md"
+        },
+        {
+            "name": "Get Room Space Head Transform.md",
+            "title": "Get Room Space Head Transform.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get Room Space Head Transform.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetRoomSpaceHeadTransform.md"
+        },
+        {
+            "name": "Get Room Transform.md",
+            "title": "Get Room Transform.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get Room Transform.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetRoomTransform.md"
+        },
+        {
+            "name": "Get Transform Gizmo Actor.md",
+            "title": "Get Transform Gizmo Actor.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get Transform Gizmo Actor.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetTransformGizmoActor.md"
+        },
+        {
+            "name": "Get World Scale Factor.md",
+            "title": "Get World Scale Factor.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Get World Scale Factor.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/GetWorldScaleFactor.md"
+        },
+        {
+            "name": "Remove Interactor.md",
+            "title": "Remove Interactor.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Remove Interactor.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/RemoveInteractor.md"
+        },
+        {
+            "name": "Set Head Transform.md",
+            "title": "Set Head Transform.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Set Head Transform.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/SetHeadTransform.md"
+        },
+        {
+            "name": "Set Room Transform for Next Frame.md",
+            "title": "Set Room Transform for Next Frame.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Set Room Transform for Next Frame.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/SetRoomTransformforNextFrame.md"
+        },
+        {
+            "name": "Set World to Meters Scale.md",
+            "title": "Set World to Meters Scale.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Viewport World Interaction/Set World to Meters Scale.md",
+            "url": "Ue/blueprint/en/ViewportWorldInteraction/SetWorldtoMetersScale.md"
+        }
+    ],
+    "categorys": []
+}

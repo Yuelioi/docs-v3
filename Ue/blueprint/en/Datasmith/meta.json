@@ -1,0 +1,49 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Element",
+            "title": "Element",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Element",
+            "url": "Ue/blueprint/en/Datasmith/Element"
+        },
+        {
+            "name": "Scene",
+            "title": "Scene",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Scene",
+            "url": "Ue/blueprint/en/Datasmith/Scene"
+        },
+        {
+            "name": "Static Mesh",
+            "title": "Static Mesh",
+            "depth": 4,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Static Mesh",
+            "url": "Ue/blueprint/en/Datasmith/StaticMesh"
+        },
+        {
+            "name": "Surface Operations",
+            "title": "Surface Operations",
+            "depth": 4,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Surface Operations",
+            "url": "Ue/blueprint/en/Datasmith/SurfaceOperations"
+        }
+    ]
+}

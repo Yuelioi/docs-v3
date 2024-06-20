@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Global Transform.md",
+            "title": "Get Global Transform.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Control Rig/Shape/Get Global Transform.md",
+            "url": "Ue/blueprint/en/ControlRig/Shape/GetGlobalTransform.md"
+        },
+        {
+            "name": "Set Global Transform.md",
+            "title": "Set Global Transform.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Control Rig/Shape/Set Global Transform.md",
+            "url": "Ue/blueprint/en/ControlRig/Shape/SetGlobalTransform.md"
+        }
+    ],
+    "categorys": []
+}

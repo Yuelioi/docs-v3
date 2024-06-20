@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Event OnBecomeViewTarget.md",
+            "title": "Event OnBecomeViewTarget.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Add Event/Actor/Event OnBecomeViewTarget.md",
+            "url": "Ue/blueprint/en/AddEvent/Actor/EventOnBecomeViewTarget.md"
+        },
+        {
+            "name": "Event OnEndViewTarget.md",
+            "title": "Event OnEndViewTarget.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Add Event/Actor/Event OnEndViewTarget.md",
+            "url": "Ue/blueprint/en/AddEvent/Actor/EventOnEndViewTarget.md"
+        },
+        {
+            "name": "Event OnReset.md",
+            "title": "Event OnReset.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Add Event/Actor/Event OnReset.md",
+            "url": "Ue/blueprint/en/AddEvent/Actor/EventOnReset.md"
+        }
+    ],
+    "categorys": []
+}

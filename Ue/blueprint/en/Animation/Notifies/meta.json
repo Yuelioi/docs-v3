@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Propagate Notifies to Linked Instances.md",
+            "title": "Get Propagate Notifies to Linked Instances.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Notifies/Get Propagate Notifies to Linked Instances.md",
+            "url": "Ue/blueprint/en/Animation/Notifies/GetPropagateNotifiestoLinkedInstances.md"
+        },
+        {
+            "name": "Get Receive Notifies from Linked Instances.md",
+            "title": "Get Receive Notifies from Linked Instances.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Notifies/Get Receive Notifies from Linked Instances.md",
+            "url": "Ue/blueprint/en/Animation/Notifies/GetReceiveNotifiesfromLinkedInstances.md"
+        },
+        {
+            "name": "Set Propagate Notifies to Linked Instances.md",
+            "title": "Set Propagate Notifies to Linked Instances.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Notifies/Set Propagate Notifies to Linked Instances.md",
+            "url": "Ue/blueprint/en/Animation/Notifies/SetPropagateNotifiestoLinkedInstances.md"
+        },
+        {
+            "name": "Set Receive Notifies from Linked Instances.md",
+            "title": "Set Receive Notifies from Linked Instances.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation/Notifies/Set Receive Notifies from Linked Instances.md",
+            "url": "Ue/blueprint/en/Animation/Notifies/SetReceiveNotifiesfromLinkedInstances.md"
+        }
+    ],
+    "categorys": []
+}

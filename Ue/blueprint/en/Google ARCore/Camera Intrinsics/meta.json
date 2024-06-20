@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Focal Length.md",
+            "title": "Get Focal Length.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Google ARCore/Camera Intrinsics/Get Focal Length.md",
+            "url": "Ue/blueprint/en/GoogleARCore/CameraIntrinsics/GetFocalLength.md"
+        },
+        {
+            "name": "Get Image Dimensions.md",
+            "title": "Get Image Dimensions.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Google ARCore/Camera Intrinsics/Get Image Dimensions.md",
+            "url": "Ue/blueprint/en/GoogleARCore/CameraIntrinsics/GetImageDimensions.md"
+        },
+        {
+            "name": "Get Principal Point.md",
+            "title": "Get Principal Point.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Google ARCore/Camera Intrinsics/Get Principal Point.md",
+            "url": "Ue/blueprint/en/GoogleARCore/CameraIntrinsics/GetPrincipalPoint.md"
+        }
+    ],
+    "categorys": []
+}

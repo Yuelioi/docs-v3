@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Convert Decibels to Linear.md",
+            "title": "Convert Decibels to Linear.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Convert Decibels to Linear.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/ConvertDecibelstoLinear.md"
+        },
+        {
+            "name": "Convert Linear to Decibels.md",
+            "title": "Convert Linear to Decibels.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Convert Linear to Decibels.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/ConvertLineartoDecibels.md"
+        },
+        {
+            "name": "Get Bandwidth from Q.md",
+            "title": "Get Bandwidth from Q.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Bandwidth from Q.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetBandwidthfromQ.md"
+        },
+        {
+            "name": "Get Beat Tempo.md",
+            "title": "Get Beat Tempo.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Beat Tempo.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetBeatTempo.md"
+        },
+        {
+            "name": "Get Frequency Multiplier from Semitones.md",
+            "title": "Get Frequency Multiplier from Semitones.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Frequency Multiplier from Semitones.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetFrequencyMultiplierfromSemitones.md"
+        },
+        {
+            "name": "Get Frequency from MIDIPitch.md",
+            "title": "Get Frequency from MIDIPitch.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Frequency from MIDIPitch.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetFrequencyfromMIDIPitch.md"
+        },
+        {
+            "name": "Get Gain from Midi Velocity.md",
+            "title": "Get Gain from Midi Velocity.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Gain from Midi Velocity.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetGainfromMidiVelocity.md"
+        },
+        {
+            "name": "Get Linear Frequency Clamped.md",
+            "title": "Get Linear Frequency Clamped.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Linear Frequency Clamped.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetLinearFrequencyClamped.md"
+        },
+        {
+            "name": "Get Log Frequency Clamped.md",
+            "title": "Get Log Frequency Clamped.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Log Frequency Clamped.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetLogFrequencyClamped.md"
+        },
+        {
+            "name": "Get MIDIPitch from Frequency.md",
+            "title": "Get MIDIPitch from Frequency.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get MIDIPitch from Frequency.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetMIDIPitchfromFrequency.md"
+        },
+        {
+            "name": "Get Pitch Scale from MIDIPitch.md",
+            "title": "Get Pitch Scale from MIDIPitch.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Pitch Scale from MIDIPitch.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetPitchScalefromMIDIPitch.md"
+        },
+        {
+            "name": "Get Q From Bandwidth.md",
+            "title": "Get Q From Bandwidth.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Sound Utilities BPLibrary/Get Q From Bandwidth.md",
+            "url": "Ue/blueprint/en/SoundUtilitiesBPLibrary/GetQFromBandwidth.md"
+        }
+    ],
+    "categorys": []
+}

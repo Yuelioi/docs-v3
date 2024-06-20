@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Find Audio Capture Protocol.md",
+            "title": "Find Audio Capture Protocol.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cinematics/Capture/Find Audio Capture Protocol.md",
+            "url": "Ue/blueprint/en/Cinematics/Capture/FindAudioCaptureProtocol.md"
+        },
+        {
+            "name": "Find Image Capture Protocol.md",
+            "title": "Find Image Capture Protocol.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cinematics/Capture/Find Image Capture Protocol.md",
+            "url": "Ue/blueprint/en/Cinematics/Capture/FindImageCaptureProtocol.md"
+        },
+        {
+            "name": "Get Capture Elapsed Time.md",
+            "title": "Get Capture Elapsed Time.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cinematics/Capture/Get Capture Elapsed Time.md",
+            "url": "Ue/blueprint/en/Cinematics/Capture/GetCaptureElapsedTime.md"
+        },
+        {
+            "name": "Get Capture Frame Number.md",
+            "title": "Get Capture Frame Number.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cinematics/Capture/Get Capture Frame Number.md",
+            "url": "Ue/blueprint/en/Cinematics/Capture/GetCaptureFrameNumber.md"
+        },
+        {
+            "name": "Is Capture in Progress.md",
+            "title": "Is Capture in Progress.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Cinematics/Capture/Is Capture in Progress.md",
+            "url": "Ue/blueprint/en/Cinematics/Capture/IsCaptureinProgress.md"
+        }
+    ],
+    "categorys": []
+}

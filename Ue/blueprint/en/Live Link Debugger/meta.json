@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Bar Color for Curve Value.md",
+            "title": "Get Bar Color for Curve Value.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Live Link Debugger/Get Bar Color for Curve Value.md",
+            "url": "Ue/blueprint/en/LiveLinkDebugger/GetBarColorforCurveValue.md"
+        },
+        {
+            "name": "Get DPIScale Based on Size.md",
+            "title": "Get DPIScale Based on Size.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Live Link Debugger/Get DPIScale Based on Size.md",
+            "url": "Ue/blueprint/en/LiveLinkDebugger/GetDPIScaleBasedonSize.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Material.md",
+            "title": "Material.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Model-And-Materials/Material.md",
+            "url": "Ae/stardust/zh/Model-And-Materials/Material.md"
+        },
+        {
+            "name": "Mdel.md",
+            "title": "Mdel.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Model-And-Materials/Mdel.md",
+            "url": "Ae/stardust/zh/Model-And-Materials/Mdel.md"
+        },
+        {
+            "name": "模型变换.md",
+            "title": "模型变换.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Model-And-Materials/模型变换.md",
+            "url": "Ae/stardust/zh/Model-And-Materials/模型变换.md"
+        }
+    ],
+    "categorys": []
+}

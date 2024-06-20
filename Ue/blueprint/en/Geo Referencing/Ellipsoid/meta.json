@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Geographic Ellipsoid Max Radius.md",
+            "title": "Get Geographic Ellipsoid Max Radius.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geo Referencing/Ellipsoid/Get Geographic Ellipsoid Max Radius.md",
+            "url": "Ue/blueprint/en/GeoReferencing/Ellipsoid/GetGeographicEllipsoidMaxRadius.md"
+        },
+        {
+            "name": "Get Geographic Ellipsoid Min Radius.md",
+            "title": "Get Geographic Ellipsoid Min Radius.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geo Referencing/Ellipsoid/Get Geographic Ellipsoid Min Radius.md",
+            "url": "Ue/blueprint/en/GeoReferencing/Ellipsoid/GetGeographicEllipsoidMinRadius.md"
+        },
+        {
+            "name": "Get Projected Ellipsoid Max Radius.md",
+            "title": "Get Projected Ellipsoid Max Radius.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geo Referencing/Ellipsoid/Get Projected Ellipsoid Max Radius.md",
+            "url": "Ue/blueprint/en/GeoReferencing/Ellipsoid/GetProjectedEllipsoidMaxRadius.md"
+        },
+        {
+            "name": "Get Projected Ellipsoid Min Radius.md",
+            "title": "Get Projected Ellipsoid Min Radius.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geo Referencing/Ellipsoid/Get Projected Ellipsoid Min Radius.md",
+            "url": "Ue/blueprint/en/GeoReferencing/Ellipsoid/GetProjectedEllipsoidMinRadius.md"
+        }
+    ],
+    "categorys": []
+}

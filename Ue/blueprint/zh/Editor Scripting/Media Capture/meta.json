@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "Add Render Target Capture.md",
+            "title": "Add Render Target Capture.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Add Render Target Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/AddRenderTargetCapture.md"
+        },
+        {
+            "name": "Add Viewport Capture.md",
+            "title": "Add Viewport Capture.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Add Viewport Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/AddViewportCapture.md"
+        },
+        {
+            "name": "Empty Render Target Capture.md",
+            "title": "Empty Render Target Capture.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Empty Render Target Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/EmptyRenderTargetCapture.md"
+        },
+        {
+            "name": "Empty Viewport Capture.md",
+            "title": "Empty Viewport Capture.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Empty Viewport Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/EmptyViewportCapture.md"
+        },
+        {
+            "name": "Get Media Capture Panel.md",
+            "title": "Get Media Capture Panel.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Get Media Capture Panel.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/GetMediaCapturePanel.md"
+        },
+        {
+            "name": "Set Current Viewport Capture.md",
+            "title": "Set Current Viewport Capture.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Set Current Viewport Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/SetCurrentViewportCapture.md"
+        },
+        {
+            "name": "Start Capture.md",
+            "title": "Start Capture.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Start Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/StartCapture.md"
+        },
+        {
+            "name": "Stop Capture.md",
+            "title": "Stop Capture.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Editor Scripting/Media Capture/Stop Capture.md",
+            "url": "Ue/blueprint/zh/EditorScripting/MediaCapture/StopCapture.md"
+        }
+    ],
+    "categorys": []
+}

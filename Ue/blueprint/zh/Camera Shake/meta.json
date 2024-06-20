@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Get Attenuation Factor.md",
+            "title": "Get Attenuation Factor.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Get Attenuation Factor.md",
+            "url": "Ue/blueprint/zh/CameraShake/GetAttenuationFactor.md"
+        },
+        {
+            "name": "Get Root Shake Pattern.md",
+            "title": "Get Root Shake Pattern.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Get Root Shake Pattern.md",
+            "url": "Ue/blueprint/zh/CameraShake/GetRootShakePattern.md"
+        },
+        {
+            "name": "Set Root Shake Pattern.md",
+            "title": "Set Root Shake Pattern.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Set Root Shake Pattern.md",
+            "url": "Ue/blueprint/zh/CameraShake/SetRootShakePattern.md"
+        },
+        {
+            "name": "Start Camera Shake.md",
+            "title": "Start Camera Shake.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Start Camera Shake.md",
+            "url": "Ue/blueprint/zh/CameraShake/StartCameraShake.md"
+        },
+        {
+            "name": "Start.md",
+            "title": "Start.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Start.md",
+            "url": "Ue/blueprint/zh/CameraShake/Start.md"
+        },
+        {
+            "name": "Stop All Camera Shakes Of Type.md",
+            "title": "Stop All Camera Shakes Of Type.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Stop All Camera Shakes Of Type.md",
+            "url": "Ue/blueprint/zh/CameraShake/StopAllCameraShakesOfType.md"
+        },
+        {
+            "name": "Stop All Camera Shakes.md",
+            "title": "Stop All Camera Shakes.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Camera Shake/Stop All Camera Shakes.md",
+            "url": "Ue/blueprint/zh/CameraShake/StopAllCameraShakes.md"
+        }
+    ],
+    "categorys": []
+}

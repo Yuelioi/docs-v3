@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "Get Bone Compression Settings.md",
+            "title": "Get Bone Compression Settings.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Get Bone Compression Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/GetBoneCompressionSettings.md"
+        },
+        {
+            "name": "Get Curve Compression Settings.md",
+            "title": "Get Curve Compression Settings.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Get Curve Compression Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/GetCurveCompressionSettings.md"
+        },
+        {
+            "name": "Get Variable Frame Stripping Settings.md",
+            "title": "Get Variable Frame Stripping Settings.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Get Variable Frame Stripping Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/GetVariableFrameStrippingSettings.md"
+        },
+        {
+            "name": "Set Bone Compression Settings.md",
+            "title": "Set Bone Compression Settings.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Set Bone Compression Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/SetBoneCompressionSettings.md"
+        },
+        {
+            "name": "Set Curve Compression Settings.md",
+            "title": "Set Curve Compression Settings.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Set Curve Compression Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/SetCurveCompressionSettings.md"
+        },
+        {
+            "name": "Set Variable Frame Stripping Settings.md",
+            "title": "Set Variable Frame Stripping Settings.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Blueprint Library/Compression/Set Variable Frame Stripping Settings.md",
+            "url": "Ue/blueprint/en/AnimationBlueprintLibrary/Compression/SetVariableFrameStrippingSettings.md"
+        }
+    ],
+    "categorys": []
+}

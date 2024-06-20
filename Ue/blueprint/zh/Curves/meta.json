@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Transform Child Curve Identifier.md",
+            "title": "Get Transform Child Curve Identifier.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Curves/Get Transform Child Curve Identifier.md",
+            "url": "Ue/blueprint/zh/Curves/GetTransformChildCurveIdentifier.md"
+        },
+        {
+            "name": "Set Curve Identifier.md",
+            "title": "Set Curve Identifier.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Curves/Set Curve Identifier.md",
+            "url": "Ue/blueprint/zh/Curves/SetCurveIdentifier.md"
+        }
+    ],
+    "categorys": []
+}

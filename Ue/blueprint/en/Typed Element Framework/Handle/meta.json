@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Equal (TypedElementHandle).md",
+            "title": "Equal (TypedElementHandle).md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Framework/Handle/Equal (TypedElementHandle).md",
+            "url": "Ue/blueprint/en/TypedElementFramework/Handle/EqualTypedElementHandle.md"
+        },
+        {
+            "name": "Is Set.md",
+            "title": "Is Set.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Framework/Handle/Is Set.md",
+            "url": "Ue/blueprint/en/TypedElementFramework/Handle/IsSet.md"
+        },
+        {
+            "name": "NotEqual (TypedElementHandle).md",
+            "title": "NotEqual (TypedElementHandle).md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Framework/Handle/NotEqual (TypedElementHandle).md",
+            "url": "Ue/blueprint/en/TypedElementFramework/Handle/NotEqualTypedElementHandle.md"
+        },
+        {
+            "name": "Release.md",
+            "title": "Release.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Typed Element Framework/Handle/Release.md",
+            "url": "Ue/blueprint/en/TypedElementFramework/Handle/Release.md"
+        }
+    ],
+    "categorys": []
+}

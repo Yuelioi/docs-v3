@@ -1,0 +1,170 @@
+{
+    "documents": [
+        {
+            "name": "ckspline.md",
+            "title": "ckspline.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/ckspline.md",
+            "url": "Houdini/vex/zh/Interpolation/ckspline.md"
+        },
+        {
+            "name": "clamp.md",
+            "title": "clamp.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/clamp.md",
+            "url": "Houdini/vex/zh/Interpolation/clamp.md"
+        },
+        {
+            "name": "cspline.md",
+            "title": "cspline.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/cspline.md",
+            "url": "Houdini/vex/zh/Interpolation/cspline.md"
+        },
+        {
+            "name": "efit.md",
+            "title": "efit.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/efit.md",
+            "url": "Houdini/vex/zh/Interpolation/efit.md"
+        },
+        {
+            "name": "fit.md",
+            "title": "fit.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/fit.md",
+            "url": "Houdini/vex/zh/Interpolation/fit.md"
+        },
+        {
+            "name": "fit01.md",
+            "title": "fit01.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/fit01.md",
+            "url": "Houdini/vex/zh/Interpolation/fit01.md"
+        },
+        {
+            "name": "fit10.md",
+            "title": "fit10.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/fit10.md",
+            "url": "Houdini/vex/zh/Interpolation/fit10.md"
+        },
+        {
+            "name": "fit11.md",
+            "title": "fit11.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/fit11.md",
+            "url": "Houdini/vex/zh/Interpolation/fit11.md"
+        },
+        {
+            "name": "invlerp.md",
+            "title": "invlerp.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/invlerp.md",
+            "url": "Houdini/vex/zh/Interpolation/invlerp.md"
+        },
+        {
+            "name": "lerp.md",
+            "title": "lerp.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/lerp.md",
+            "url": "Houdini/vex/zh/Interpolation/lerp.md"
+        },
+        {
+            "name": "lkspline.md",
+            "title": "lkspline.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/lkspline.md",
+            "url": "Houdini/vex/zh/Interpolation/lkspline.md"
+        },
+        {
+            "name": "lspline.md",
+            "title": "lspline.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/lspline.md",
+            "url": "Houdini/vex/zh/Interpolation/lspline.md"
+        },
+        {
+            "name": "slerp.md",
+            "title": "slerp.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/slerp.md",
+            "url": "Houdini/vex/zh/Interpolation/slerp.md"
+        },
+        {
+            "name": "slerpv.md",
+            "title": "slerpv.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/slerpv.md",
+            "url": "Houdini/vex/zh/Interpolation/slerpv.md"
+        },
+        {
+            "name": "smooth.md",
+            "title": "smooth.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/Interpolation/smooth.md",
+            "url": "Houdini/vex/zh/Interpolation/smooth.md"
+        }
+    ],
+    "categorys": []
+}

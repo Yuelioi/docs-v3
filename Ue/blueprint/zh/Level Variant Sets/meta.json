@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Get Level Variant Sets.md",
+            "title": "Get Level Variant Sets.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Get Level Variant Sets.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/GetLevelVariantSets.md"
+        },
+        {
+            "name": "Get Num Variant Sets.md",
+            "title": "Get Num Variant Sets.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Get Num Variant Sets.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/GetNumVariantSets.md"
+        },
+        {
+            "name": "Get Variant Set by Name.md",
+            "title": "Get Variant Set by Name.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Get Variant Set by Name.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/GetVariantSetbyName.md"
+        },
+        {
+            "name": "Get Variant Set.md",
+            "title": "Get Variant Set.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Get Variant Set.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/GetVariantSet.md"
+        },
+        {
+            "name": "Set Level Variant Sets.md",
+            "title": "Set Level Variant Sets.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Set Level Variant Sets.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/SetLevelVariantSets.md"
+        },
+        {
+            "name": "Switch on Variant by Index.md",
+            "title": "Switch on Variant by Index.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Switch on Variant by Index.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/SwitchonVariantbyIndex.md"
+        },
+        {
+            "name": "Switch on Variant by Name.md",
+            "title": "Switch on Variant by Name.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Level Variant Sets/Switch on Variant by Name.md",
+            "url": "Ue/blueprint/zh/LevelVariantSets/SwitchonVariantbyName.md"
+        }
+    ],
+    "categorys": []
+}

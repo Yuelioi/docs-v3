@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Expression-Selector.md",
+            "title": "Expression-Selector.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation/Expression-Selector.md",
+            "url": "Ae/basic/zh/text-animation/Expression-Selector.md"
+        },
+        {
+            "name": "More-Option.md",
+            "title": "More-Option.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation/More-Option.md",
+            "url": "Ae/basic/zh/text-animation/More-Option.md"
+        },
+        {
+            "name": "Property-Group.md",
+            "title": "Property-Group.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation/Property-Group.md",
+            "url": "Ae/basic/zh/text-animation/Property-Group.md"
+        },
+        {
+            "name": "Range-Selector.md",
+            "title": "Range-Selector.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation/Range-Selector.md",
+            "url": "Ae/basic/zh/text-animation/Range-Selector.md"
+        },
+        {
+            "name": "Wiggle-Selector.md",
+            "title": "Wiggle-Selector.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/basic/zh/text-animation/Wiggle-Selector.md",
+            "url": "Ae/basic/zh/text-animation/Wiggle-Selector.md"
+        }
+    ],
+    "categorys": []
+}

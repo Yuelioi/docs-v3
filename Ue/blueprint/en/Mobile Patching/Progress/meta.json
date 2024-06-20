@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "Get Download Speed.md",
+            "title": "Get Download Speed.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Progress/Get Download Speed.md",
+            "url": "Ue/blueprint/en/MobilePatching/Progress/GetDownloadSpeed.md"
+        },
+        {
+            "name": "Get Download Status Text.md",
+            "title": "Get Download Status Text.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Progress/Get Download Status Text.md",
+            "url": "Ue/blueprint/en/MobilePatching/Progress/GetDownloadStatusText.md"
+        },
+        {
+            "name": "Get Install Progress.md",
+            "title": "Get Install Progress.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Progress/Get Install Progress.md",
+            "url": "Ue/blueprint/en/MobilePatching/Progress/GetInstallProgress.md"
+        },
+        {
+            "name": "Get Total Downloaded Size.md",
+            "title": "Get Total Downloaded Size.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Mobile Patching/Progress/Get Total Downloaded Size.md",
+            "url": "Ue/blueprint/en/MobilePatching/Progress/GetTotalDownloadedSize.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Texture for Face.md",
+            "title": "Get Texture for Face.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Cards/Get Texture for Face.md",
+            "url": "Ue/blueprint/zh/USD/Cards/GetTextureforFace.md"
+        },
+        {
+            "name": "Set Texture for Face.md",
+            "title": "Set Texture for Face.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Cards/Set Texture for Face.md",
+            "url": "Ue/blueprint/zh/USD/Cards/SetTextureforFace.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "Clear Ability.md",
+            "title": "Clear Ability.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Clear Ability.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/ClearAbility.md"
+        },
+        {
+            "name": "Clear All Abilities with Input ID.md",
+            "title": "Clear All Abilities with Input ID.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Clear All Abilities with Input ID.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/ClearAllAbilitieswithInputID.md"
+        },
+        {
+            "name": "Clear All Abilities.md",
+            "title": "Clear All Abilities.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Clear All Abilities.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/ClearAllAbilities.md"
+        },
+        {
+            "name": "Find All Abilities Matching Query.md",
+            "title": "Find All Abilities Matching Query.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Find All Abilities Matching Query.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/FindAllAbilitiesMatchingQuery.md"
+        },
+        {
+            "name": "Find All Abilities with Input ID.md",
+            "title": "Find All Abilities with Input ID.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Find All Abilities with Input ID.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/FindAllAbilitieswithInputID.md"
+        },
+        {
+            "name": "Find All Abilities with Tags.md",
+            "title": "Find All Abilities with Tags.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Find All Abilities with Tags.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/FindAllAbilitieswithTags.md"
+        },
+        {
+            "name": "Get All Abilities.md",
+            "title": "Get All Abilities.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Get All Abilities.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/GetAllAbilities.md"
+        },
+        {
+            "name": "Give Ability And Activate Once.md",
+            "title": "Give Ability And Activate Once.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Give Ability And Activate Once.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/GiveAbilityAndActivateOnce.md"
+        },
+        {
+            "name": "Give Ability.md",
+            "title": "Give Ability.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Give Ability.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/GiveAbility.md"
+        },
+        {
+            "name": "Input Cancel.md",
+            "title": "Input Cancel.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Input Cancel.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/InputCancel.md"
+        },
+        {
+            "name": "Input Confirm.md",
+            "title": "Input Confirm.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Input Confirm.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/InputConfirm.md"
+        },
+        {
+            "name": "Press Input ID.md",
+            "title": "Press Input ID.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Press Input ID.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/PressInputID.md"
+        },
+        {
+            "name": "Release Input ID.md",
+            "title": "Release Input ID.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Abilities/Release Input ID.md",
+            "url": "Ue/blueprint/en/GameplayAbilities/ReleaseInputID.md"
+        }
+    ],
+    "categorys": []
+}

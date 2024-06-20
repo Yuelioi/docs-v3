@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Generate Bone Group Indices.md",
+            "title": "Generate Bone Group Indices.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Training Model/Generate Bone Group Indices.md",
+            "url": "Ue/blueprint/zh/TrainingModel/GenerateBoneGroupIndices.md"
+        },
+        {
+            "name": "Generate Curve Group Indices.md",
+            "title": "Generate Curve Group Indices.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Training Model/Generate Curve Group Indices.md",
+            "url": "Ue/blueprint/zh/TrainingModel/GenerateCurveGroupIndices.md"
+        },
+        {
+            "name": "Get Morph Target Masks.md",
+            "title": "Get Morph Target Masks.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Training Model/Get Morph Target Masks.md",
+            "url": "Ue/blueprint/zh/TrainingModel/GetMorphTargetMasks.md"
+        },
+        {
+            "name": "Get Num Bone Groups.md",
+            "title": "Get Num Bone Groups.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Training Model/Get Num Bone Groups.md",
+            "url": "Ue/blueprint/zh/TrainingModel/GetNumBoneGroups.md"
+        },
+        {
+            "name": "Get Num Curve Groups.md",
+            "title": "Get Num Curve Groups.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Training Model/Get Num Curve Groups.md",
+            "url": "Ue/blueprint/zh/TrainingModel/GetNumCurveGroups.md"
+        }
+    ],
+    "categorys": []
+}

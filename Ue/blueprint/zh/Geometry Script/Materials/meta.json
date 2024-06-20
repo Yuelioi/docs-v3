@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "name": "Clear Material IDs.md",
+            "title": "Clear Material IDs.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Clear Material IDs.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/ClearMaterialIDs.md"
+        },
+        {
+            "name": "Compact Material IDs.md",
+            "title": "Compact Material IDs.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Compact Material IDs.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/CompactMaterialIDs.md"
+        },
+        {
+            "name": "Delete Triangles by Material ID.md",
+            "title": "Delete Triangles by Material ID.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Delete Triangles by Material ID.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/DeleteTrianglesbyMaterialID.md"
+        },
+        {
+            "name": "Enable Material IDs.md",
+            "title": "Enable Material IDs.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Enable Material IDs.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/EnableMaterialIDs.md"
+        },
+        {
+            "name": "Get Material IDs Of Triangles.md",
+            "title": "Get Material IDs Of Triangles.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Get Material IDs Of Triangles.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/GetMaterialIDsOfTriangles.md"
+        },
+        {
+            "name": "GetMaterialIDOfTriangle.md",
+            "title": "GetMaterialIDOfTriangle.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/GetMaterialIDOfTriangle.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/GetMaterialIDOfTriangle.md"
+        },
+        {
+            "name": "GetMaterialIDsOfAllTriangles.md",
+            "title": "GetMaterialIDsOfAllTriangles.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/GetMaterialIDsOfAllTriangles.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/GetMaterialIDsOfAllTriangles.md"
+        },
+        {
+            "name": "Remap Material IDs.md",
+            "title": "Remap Material IDs.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Remap Material IDs.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/RemapMaterialIDs.md"
+        },
+        {
+            "name": "Remap to New Material IDs by Material.md",
+            "title": "Remap to New Material IDs by Material.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Remap to New Material IDs by Material.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/RemaptoNewMaterialIDsbyMaterial.md"
+        },
+        {
+            "name": "Set Material IDOn Triangles.md",
+            "title": "Set Material IDOn Triangles.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/Set Material IDOn Triangles.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/SetMaterialIDOnTriangles.md"
+        },
+        {
+            "name": "SetMaterialIDOnTriangle.md",
+            "title": "SetMaterialIDOnTriangle.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/SetMaterialIDOnTriangle.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/SetMaterialIDOnTriangle.md"
+        },
+        {
+            "name": "SetMaterialIDsOnAllTriangles.md",
+            "title": "SetMaterialIDsOnAllTriangles.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/SetMaterialIDsOnAllTriangles.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/SetMaterialIDsOnAllTriangles.md"
+        },
+        {
+            "name": "SetPolyGroupMaterialID.md",
+            "title": "SetPolyGroupMaterialID.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Materials/SetPolyGroupMaterialID.md",
+            "url": "Ue/blueprint/zh/GeometryScript/Materials/SetPolyGroupMaterialID.md"
+        }
+    ],
+    "categorys": []
+}

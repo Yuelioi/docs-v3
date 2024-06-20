@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Compute Lightmap Resolution.md",
+            "title": "Compute Lightmap Resolution.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Static Mesh/Compute Lightmap Resolution.md",
+            "url": "Ue/blueprint/en/Datasmith/StaticMesh/ComputeLightmapResolution.md"
+        },
+        {
+            "name": "Setup Static Lighting.md",
+            "title": "Setup Static Lighting.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Datasmith/Static Mesh/Setup Static Lighting.md",
+            "url": "Ue/blueprint/en/Datasmith/StaticMesh/SetupStaticLighting.md"
+        }
+    ],
+    "categorys": []
+}

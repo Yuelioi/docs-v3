@@ -1,0 +1,60 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "Async Request",
+            "title": "Async Request",
+            "depth": 4,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Targeting System/Async Request",
+            "url": "Ue/blueprint/en/TargetingSystem/AsyncRequest"
+        },
+        {
+            "name": "Data Stores",
+            "title": "Data Stores",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Targeting System/Data Stores",
+            "url": "Ue/blueprint/en/TargetingSystem/DataStores"
+        },
+        {
+            "name": "Instant Request",
+            "title": "Instant Request",
+            "depth": 4,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Targeting System/Instant Request",
+            "url": "Ue/blueprint/en/TargetingSystem/InstantRequest"
+        },
+        {
+            "name": "Targeting Results",
+            "title": "Targeting Results",
+            "depth": 4,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Targeting System/Targeting Results",
+            "url": "Ue/blueprint/en/TargetingSystem/TargetingResults"
+        },
+        {
+            "name": "Targeting Types",
+            "title": "Targeting Types",
+            "depth": 4,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Targeting System/Targeting Types",
+            "url": "Ue/blueprint/en/TargetingSystem/TargetingTypes"
+        }
+    ]
+}

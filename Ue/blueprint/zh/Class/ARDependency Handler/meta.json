@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Check ARService Availability.md",
+            "title": "Check ARService Availability.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Class/ARDependency Handler/Check ARService Availability.md",
+            "url": "Ue/blueprint/zh/Class/ARDependencyHandler/CheckARServiceAvailability.md"
+        },
+        {
+            "name": "Get ARDependency Handler.md",
+            "title": "Get ARDependency Handler.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Class/ARDependency Handler/Get ARDependency Handler.md",
+            "url": "Ue/blueprint/zh/Class/ARDependencyHandler/GetARDependencyHandler.md"
+        },
+        {
+            "name": "Install ARService.md",
+            "title": "Install ARService.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Class/ARDependency Handler/Install ARService.md",
+            "url": "Ue/blueprint/zh/Class/ARDependencyHandler/InstallARService.md"
+        },
+        {
+            "name": "Request ARSession Permission.md",
+            "title": "Request ARSession Permission.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Class/ARDependency Handler/Request ARSession Permission.md",
+            "url": "Ue/blueprint/zh/Class/ARDependencyHandler/RequestARSessionPermission.md"
+        },
+        {
+            "name": "Start ARSession Latent.md",
+            "title": "Start ARSession Latent.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Class/ARDependency Handler/Start ARSession Latent.md",
+            "url": "Ue/blueprint/zh/Class/ARDependencyHandler/StartARSessionLatent.md"
+        }
+    ],
+    "categorys": []
+}

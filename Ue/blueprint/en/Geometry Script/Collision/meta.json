@@ -1,0 +1,203 @@
+{
+    "documents": [
+        {
+            "name": "Approximate Convex Hulls with Simpler Collision Shapes.md",
+            "title": "Approximate Convex Hulls with Simpler Collision Shapes.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Approximate Convex Hulls with Simpler Collision Shapes.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/ApproximateConvexHullswithSimplerCollisionShapes.md"
+        },
+        {
+            "name": "Array Of Spheres To SphereCovering.md",
+            "title": "Array Of Spheres To SphereCovering.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Array Of Spheres To SphereCovering.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/ArrayOfSpheresToSphereCovering.md"
+        },
+        {
+            "name": "Combine Simple Collision.md",
+            "title": "Combine Simple Collision.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Combine Simple Collision.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/CombineSimpleCollision.md"
+        },
+        {
+            "name": "Compute Negative Space.md",
+            "title": "Compute Negative Space.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Compute Negative Space.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/ComputeNegativeSpace.md"
+        },
+        {
+            "name": "Get Simple Collision Shape Count.md",
+            "title": "Get Simple Collision Shape Count.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Get Simple Collision Shape Count.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/GetSimpleCollisionShapeCount.md"
+        },
+        {
+            "name": "Get Simple Collision from Component.md",
+            "title": "Get Simple Collision from Component.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Get Simple Collision from Component.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/GetSimpleCollisionfromComponent.md"
+        },
+        {
+            "name": "Get Simple Collision from Static Mesh.md",
+            "title": "Get Simple Collision from Static Mesh.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Get Simple Collision from Static Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/GetSimpleCollisionfromStaticMesh.md"
+        },
+        {
+            "name": "Merge Simple Collision Shapes.md",
+            "title": "Merge Simple Collision Shapes.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Merge Simple Collision Shapes.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/MergeSimpleCollisionShapes.md"
+        },
+        {
+            "name": "Reset Dynamic Mesh Collision.md",
+            "title": "Reset Dynamic Mesh Collision.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Reset Dynamic Mesh Collision.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/ResetDynamicMeshCollision.md"
+        },
+        {
+            "name": "Set Dynamic Mesh Collision from Mesh.md",
+            "title": "Set Dynamic Mesh Collision from Mesh.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Set Dynamic Mesh Collision from Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SetDynamicMeshCollisionfromMesh.md"
+        },
+        {
+            "name": "Set Simple Collision Of Dynamic Mesh Component.md",
+            "title": "Set Simple Collision Of Dynamic Mesh Component.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Set Simple Collision Of Dynamic Mesh Component.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SetSimpleCollisionOfDynamicMeshComponent.md"
+        },
+        {
+            "name": "Set Simple Collision Of Static Mesh.md",
+            "title": "Set Simple Collision Of Static Mesh.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Set Simple Collision Of Static Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SetSimpleCollisionOfStaticMesh.md"
+        },
+        {
+            "name": "Set Static Mesh Collision from Component.md",
+            "title": "Set Static Mesh Collision from Component.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Set Static Mesh Collision from Component.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SetStaticMeshCollisionfromComponent.md"
+        },
+        {
+            "name": "Set Static Mesh Collision from Mesh.md",
+            "title": "Set Static Mesh Collision from Mesh.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Set Static Mesh Collision from Mesh.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SetStaticMeshCollisionfromMesh.md"
+        },
+        {
+            "name": "Simplify Convex Hulls.md",
+            "title": "Simplify Convex Hulls.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Simplify Convex Hulls.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SimplifyConvexHulls.md"
+        },
+        {
+            "name": "SphereCovering To Array Of Spheres.md",
+            "title": "SphereCovering To Array Of Spheres.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/SphereCovering To Array Of Spheres.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/SphereCoveringToArrayOfSpheres.md"
+        },
+        {
+            "name": "Static Mesh Has Customized Collision.md",
+            "title": "Static Mesh Has Customized Collision.md",
+            "depth": 5,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Static Mesh Has Customized Collision.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/StaticMeshHasCustomizedCollision.md"
+        },
+        {
+            "name": "Transform Simple Collision Shapes.md",
+            "title": "Transform Simple Collision Shapes.md",
+            "depth": 5,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Geometry Script/Collision/Transform Simple Collision Shapes.md",
+            "url": "Ue/blueprint/en/GeometryScript/Collision/TransformSimpleCollisionShapes.md"
+        }
+    ],
+    "categorys": []
+}

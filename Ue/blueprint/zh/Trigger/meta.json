@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Trigger Type.md",
+            "title": "Get Trigger Type.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Trigger/Get Trigger Type.md",
+            "url": "Ue/blueprint/zh/Trigger/GetTriggerType.md"
+        },
+        {
+            "name": "Is Actuated.md",
+            "title": "Is Actuated.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Trigger/Is Actuated.md",
+            "url": "Ue/blueprint/zh/Trigger/IsActuated.md"
+        },
+        {
+            "name": "Update State.md",
+            "title": "Update State.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Trigger/Update State.md",
+            "url": "Ue/blueprint/zh/Trigger/UpdateState.md"
+        }
+    ],
+    "categorys": []
+}

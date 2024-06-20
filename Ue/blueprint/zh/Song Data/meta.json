@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Song Length Bars.md",
+            "title": "Get Song Length Bars.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Song Data/Get Song Length Bars.md",
+            "url": "Ue/blueprint/zh/SongData/GetSongLengthBars.md"
+        },
+        {
+            "name": "Get Song Length Beats.md",
+            "title": "Get Song Length Beats.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Song Data/Get Song Length Beats.md",
+            "url": "Ue/blueprint/zh/SongData/GetSongLengthBeats.md"
+        },
+        {
+            "name": "Get Song Length Ms.md",
+            "title": "Get Song Length Ms.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Song Data/Get Song Length Ms.md",
+            "url": "Ue/blueprint/zh/SongData/GetSongLengthMs.md"
+        }
+    ],
+    "categorys": []
+}

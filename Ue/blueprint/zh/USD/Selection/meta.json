@@ -1,0 +1,93 @@
+{
+    "documents": [
+        {
+            "name": "Get Selected Layer Identifiers.md",
+            "title": "Get Selected Layer Identifiers.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Get Selected Layer Identifiers.md",
+            "url": "Ue/blueprint/zh/USD/Selection/GetSelectedLayerIdentifiers.md"
+        },
+        {
+            "name": "Get Selected Prim Paths.md",
+            "title": "Get Selected Prim Paths.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Get Selected Prim Paths.md",
+            "url": "Ue/blueprint/zh/USD/Selection/GetSelectedPrimPaths.md"
+        },
+        {
+            "name": "Get Selected Property Metadata Names.md",
+            "title": "Get Selected Property Metadata Names.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Get Selected Property Metadata Names.md",
+            "url": "Ue/blueprint/zh/USD/Selection/GetSelectedPropertyMetadataNames.md"
+        },
+        {
+            "name": "Get Selected Property Names.md",
+            "title": "Get Selected Property Names.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Get Selected Property Names.md",
+            "url": "Ue/blueprint/zh/USD/Selection/GetSelectedPropertyNames.md"
+        },
+        {
+            "name": "Set Selected Layer Identifiers.md",
+            "title": "Set Selected Layer Identifiers.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Set Selected Layer Identifiers.md",
+            "url": "Ue/blueprint/zh/USD/Selection/SetSelectedLayerIdentifiers.md"
+        },
+        {
+            "name": "Set Selected Prim Paths.md",
+            "title": "Set Selected Prim Paths.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Set Selected Prim Paths.md",
+            "url": "Ue/blueprint/zh/USD/Selection/SetSelectedPrimPaths.md"
+        },
+        {
+            "name": "Set Selected Property Metadata Names.md",
+            "title": "Set Selected Property Metadata Names.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Set Selected Property Metadata Names.md",
+            "url": "Ue/blueprint/zh/USD/Selection/SetSelectedPropertyMetadataNames.md"
+        },
+        {
+            "name": "Set Selected Property Names.md",
+            "title": "Set Selected Property Names.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/USD/Selection/Set Selected Property Names.md",
+            "url": "Ue/blueprint/zh/USD/Selection/SetSelectedPropertyNames.md"
+        }
+    ],
+    "categorys": []
+}

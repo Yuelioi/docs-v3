@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "Get AR World Scale.md",
+            "title": "Get AR World Scale.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Alignment/Get AR World Scale.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Alignment/GetARWorldScale.md"
+        },
+        {
+            "name": "Get Alignment Transform.md",
+            "title": "Get Alignment Transform.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Alignment/Get Alignment Transform.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Alignment/GetAlignmentTransform.md"
+        },
+        {
+            "name": "Set AR Alignment Transform.md",
+            "title": "Set AR Alignment Transform.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Alignment/Set AR Alignment Transform.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Alignment/SetARAlignmentTransform.md"
+        },
+        {
+            "name": "Set AR World Origin Location and Rotation.md",
+            "title": "Set AR World Origin Location and Rotation.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Alignment/Set AR World Origin Location and Rotation.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Alignment/SetARWorldOriginLocationandRotation.md"
+        },
+        {
+            "name": "Set AR World Scale.md",
+            "title": "Set AR World Scale.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Alignment/Set AR World Scale.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/Alignment/SetARWorldScale.md"
+        }
+    ],
+    "categorys": []
+}

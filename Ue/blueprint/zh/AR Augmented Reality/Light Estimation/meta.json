@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Ambient Color Temperature Kelvin.md",
+            "title": "Get Ambient Color Temperature Kelvin.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Light Estimation/Get Ambient Color Temperature Kelvin.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/LightEstimation/GetAmbientColorTemperatureKelvin.md"
+        },
+        {
+            "name": "Get Ambient Color.md",
+            "title": "Get Ambient Color.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Light Estimation/Get Ambient Color.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/LightEstimation/GetAmbientColor.md"
+        },
+        {
+            "name": "Get Ambient Intensity Lumens.md",
+            "title": "Get Ambient Intensity Lumens.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/AR Augmented Reality/Light Estimation/Get Ambient Intensity Lumens.md",
+            "url": "Ue/blueprint/zh/ARAugmentedReality/LightEstimation/GetAmbientIntensityLumens.md"
+        }
+    ],
+    "categorys": []
+}

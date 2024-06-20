@@ -1,0 +1,126 @@
+{
+    "documents": [
+        {
+            "name": "AddHitResult.md",
+            "title": "AddHitResult.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/AddHitResult.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/AddHitResult.md"
+        },
+        {
+            "name": "GetEffectCauser.md",
+            "title": "GetEffectCauser.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetEffectCauser.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetEffectCauser.md"
+        },
+        {
+            "name": "GetHitResult.md",
+            "title": "GetHitResult.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetHitResult.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetHitResult.md"
+        },
+        {
+            "name": "GetInstigatorActor.md",
+            "title": "GetInstigatorActor.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetInstigatorActor.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetInstigatorActor.md"
+        },
+        {
+            "name": "GetOrigin.md",
+            "title": "GetOrigin.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetOrigin.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetOrigin.md"
+        },
+        {
+            "name": "GetOriginalInstigatorActor.md",
+            "title": "GetOriginalInstigatorActor.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetOriginalInstigatorActor.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetOriginalInstigatorActor.md"
+        },
+        {
+            "name": "GetSourceObject.md",
+            "title": "GetSourceObject.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/GetSourceObject.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/GetSourceObject.md"
+        },
+        {
+            "name": "HasHitResult.md",
+            "title": "HasHitResult.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/HasHitResult.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/HasHitResult.md"
+        },
+        {
+            "name": "IsInstigatorLocallyControlled.md",
+            "title": "IsInstigatorLocallyControlled.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/IsInstigatorLocallyControlled.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/IsInstigatorLocallyControlled.md"
+        },
+        {
+            "name": "IsValid.md",
+            "title": "IsValid.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/IsValid.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/IsValid.md"
+        },
+        {
+            "name": "SetOrigin.md",
+            "title": "SetOrigin.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Ability/Effect Context/SetOrigin.md",
+            "url": "Ue/blueprint/en/Ability/EffectContext/SetOrigin.md"
+        }
+    ],
+    "categorys": []
+}

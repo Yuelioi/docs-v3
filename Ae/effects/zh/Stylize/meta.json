@@ -1,0 +1,280 @@
+{
+    "documents": [
+        {
+            "name": "Brush-Strokes.md",
+            "title": "Brush-Strokes.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Brush-Strokes.md",
+            "url": "Ae/effects/zh/Stylize/Brush-Strokes.md"
+        },
+        {
+            "name": "CC-Block-Load.md",
+            "title": "CC-Block-Load.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Block-Load.md",
+            "url": "Ae/effects/zh/Stylize/CC-Block-Load.md"
+        },
+        {
+            "name": "CC-Burn-Film.md",
+            "title": "CC-Burn-Film.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Burn-Film.md",
+            "url": "Ae/effects/zh/Stylize/CC-Burn-Film.md"
+        },
+        {
+            "name": "CC-Glass.md",
+            "title": "CC-Glass.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Glass.md",
+            "url": "Ae/effects/zh/Stylize/CC-Glass.md"
+        },
+        {
+            "name": "CC-Hextile.md",
+            "title": "CC-Hextile.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Hextile.md",
+            "url": "Ae/effects/zh/Stylize/CC-Hextile.md"
+        },
+        {
+            "name": "CC-Kaleida.md",
+            "title": "CC-Kaleida.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Kaleida.md",
+            "url": "Ae/effects/zh/Stylize/CC-Kaleida.md"
+        },
+        {
+            "name": "CC-Mr.Smoothie.md",
+            "title": "CC-Mr.Smoothie.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Mr.Smoothie.md",
+            "url": "Ae/effects/zh/Stylize/CC-Mr.Smoothie.md"
+        },
+        {
+            "name": "CC-Plastic.md",
+            "title": "CC-Plastic.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Plastic.md",
+            "url": "Ae/effects/zh/Stylize/CC-Plastic.md"
+        },
+        {
+            "name": "CC-Repe-Tile.md",
+            "title": "CC-Repe-Tile.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Repe-Tile.md",
+            "url": "Ae/effects/zh/Stylize/CC-Repe-Tile.md"
+        },
+        {
+            "name": "CC-Threshold-Rgb.md",
+            "title": "CC-Threshold-Rgb.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Threshold-Rgb.md",
+            "url": "Ae/effects/zh/Stylize/CC-Threshold-Rgb.md"
+        },
+        {
+            "name": "CC-Threshold.md",
+            "title": "CC-Threshold.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Threshold.md",
+            "url": "Ae/effects/zh/Stylize/CC-Threshold.md"
+        },
+        {
+            "name": "CC-Vignette.md",
+            "title": "CC-Vignette.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/CC-Vignette.md",
+            "url": "Ae/effects/zh/Stylize/CC-Vignette.md"
+        },
+        {
+            "name": "Cartoon.md",
+            "title": "Cartoon.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Cartoon.md",
+            "url": "Ae/effects/zh/Stylize/Cartoon.md"
+        },
+        {
+            "name": "Color-Emboss.md",
+            "title": "Color-Emboss.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Color-Emboss.md",
+            "url": "Ae/effects/zh/Stylize/Color-Emboss.md"
+        },
+        {
+            "name": "Emboss.md",
+            "title": "Emboss.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Emboss.md",
+            "url": "Ae/effects/zh/Stylize/Emboss.md"
+        },
+        {
+            "name": "Find-Edges.md",
+            "title": "Find-Edges.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Find-Edges.md",
+            "url": "Ae/effects/zh/Stylize/Find-Edges.md"
+        },
+        {
+            "name": "Glow.md",
+            "title": "Glow.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Glow.md",
+            "url": "Ae/effects/zh/Stylize/Glow.md"
+        },
+        {
+            "name": "Mosaic.md",
+            "title": "Mosaic.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Mosaic.md",
+            "url": "Ae/effects/zh/Stylize/Mosaic.md"
+        },
+        {
+            "name": "Motion-Tile.md",
+            "title": "Motion-Tile.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Motion-Tile.md",
+            "url": "Ae/effects/zh/Stylize/Motion-Tile.md"
+        },
+        {
+            "name": "Posterize.md",
+            "title": "Posterize.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Posterize.md",
+            "url": "Ae/effects/zh/Stylize/Posterize.md"
+        },
+        {
+            "name": "Roughen-Edges.md",
+            "title": "Roughen-Edges.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Roughen-Edges.md",
+            "url": "Ae/effects/zh/Stylize/Roughen-Edges.md"
+        },
+        {
+            "name": "Scatter.md",
+            "title": "Scatter.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Scatter.md",
+            "url": "Ae/effects/zh/Stylize/Scatter.md"
+        },
+        {
+            "name": "Strobe-Light.md",
+            "title": "Strobe-Light.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Strobe-Light.md",
+            "url": "Ae/effects/zh/Stylize/Strobe-Light.md"
+        },
+        {
+            "name": "Texturize.md",
+            "title": "Texturize.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Texturize.md",
+            "url": "Ae/effects/zh/Stylize/Texturize.md"
+        },
+        {
+            "name": "Threshol.md",
+            "title": "Threshol.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/effects/zh/Stylize/Threshol.md",
+            "url": "Ae/effects/zh/Stylize/Threshol.md"
+        }
+    ],
+    "categorys": []
+}

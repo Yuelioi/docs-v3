@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Refresh All Open Blueprint Editors.md",
+            "title": "Refresh All Open Blueprint Editors.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Blueprint Editor/Refresh All Open Blueprint Editors.md",
+            "url": "Ue/blueprint/en/BlueprintEditor/RefreshAllOpenBlueprintEditors.md"
+        },
+        {
+            "name": "Refresh Open Editors for Blueprint.md",
+            "title": "Refresh Open Editors for Blueprint.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Blueprint Editor/Refresh Open Editors for Blueprint.md",
+            "url": "Ue/blueprint/en/BlueprintEditor/RefreshOpenEditorsforBlueprint.md"
+        }
+    ],
+    "categorys": []
+}

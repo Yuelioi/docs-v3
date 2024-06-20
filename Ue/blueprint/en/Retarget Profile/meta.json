@@ -1,0 +1,126 @@
+{
+    "documents": [
+        {
+            "name": "Get Chain Settings from Retarget Profile.md",
+            "title": "Get Chain Settings from Retarget Profile.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Get Chain Settings from Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/GetChainSettingsfromRetargetProfile.md"
+        },
+        {
+            "name": "Get Global Settings from Retarget Profile.md",
+            "title": "Get Global Settings from Retarget Profile.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Get Global Settings from Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/GetGlobalSettingsfromRetargetProfile.md"
+        },
+        {
+            "name": "Get Root Settings from Retarget Profile.md",
+            "title": "Get Root Settings from Retarget Profile.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Get Root Settings from Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/GetRootSettingsfromRetargetProfile.md"
+        },
+        {
+            "name": "Has Source IKRig.md",
+            "title": "Has Source IKRig.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Has Source IKRig.md",
+            "url": "Ue/blueprint/en/RetargetProfile/HasSourceIKRig.md"
+        },
+        {
+            "name": "Has Target IKRig.md",
+            "title": "Has Target IKRig.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Has Target IKRig.md",
+            "url": "Ue/blueprint/en/RetargetProfile/HasTargetIKRig.md"
+        },
+        {
+            "name": "Set Chain FKSettings in Retarget Profile.md",
+            "title": "Set Chain FKSettings in Retarget Profile.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Chain FKSettings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetChainFKSettingsinRetargetProfile.md"
+        },
+        {
+            "name": "Set Chain IKSettings in Retarget Profile.md",
+            "title": "Set Chain IKSettings in Retarget Profile.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Chain IKSettings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetChainIKSettingsinRetargetProfile.md"
+        },
+        {
+            "name": "Set Chain Settings in Retarget Profile.md",
+            "title": "Set Chain Settings in Retarget Profile.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Chain Settings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetChainSettingsinRetargetProfile.md"
+        },
+        {
+            "name": "Set Chain Speed Plant Settings in Retarget Profile.md",
+            "title": "Set Chain Speed Plant Settings in Retarget Profile.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Chain Speed Plant Settings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetChainSpeedPlantSettingsinRetargetProfile.md"
+        },
+        {
+            "name": "Set Global Settings in Retarget Profile.md",
+            "title": "Set Global Settings in Retarget Profile.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Global Settings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetGlobalSettingsinRetargetProfile.md"
+        },
+        {
+            "name": "Set Root Settings in Retarget Profile.md",
+            "title": "Set Root Settings in Retarget Profile.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Retarget Profile/Set Root Settings in Retarget Profile.md",
+            "url": "Ue/blueprint/en/RetargetProfile/SetRootSettingsinRetargetProfile.md"
+        }
+    ],
+    "categorys": []
+}

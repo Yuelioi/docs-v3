@@ -1,0 +1,72 @@
+{
+    "documents": [
+        {
+            "name": "Enable.md",
+            "title": "Enable.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Enable.md",
+            "url": "Ue/blueprint/en/AnimNext/Enable.md"
+        },
+        {
+            "name": "Set Parameter in Scope.md",
+            "title": "Set Parameter in Scope.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Set Parameter in Scope.md",
+            "url": "Ue/blueprint/en/AnimNext/SetParameterinScope.md"
+        }
+    ],
+    "categorys": [
+        {
+            "name": "Graph",
+            "title": "Graph",
+            "depth": 4,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Graph",
+            "url": "Ue/blueprint/en/AnimNext/Graph"
+        },
+        {
+            "name": "Parameter Block",
+            "title": "Parameter Block",
+            "depth": 4,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Parameter Block",
+            "url": "Ue/blueprint/en/AnimNext/ParameterBlock"
+        },
+        {
+            "name": "Rig VM Asset",
+            "title": "Rig VM Asset",
+            "depth": 4,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Rig VM Asset",
+            "url": "Ue/blueprint/en/AnimNext/RigVMAsset"
+        },
+        {
+            "name": "Workspace",
+            "title": "Workspace",
+            "depth": 4,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Anim Next/Workspace",
+            "url": "Ue/blueprint/en/AnimNext/Workspace"
+        }
+    ]
+}

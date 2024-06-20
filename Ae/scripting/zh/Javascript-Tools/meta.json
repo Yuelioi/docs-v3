@@ -1,0 +1,71 @@
+{
+    "documents": [
+        {
+            "name": "ES.md",
+            "title": "ES.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/ES.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/ES.md"
+        },
+        {
+            "name": "UI.md",
+            "title": "UI.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/UI.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/UI.md"
+        },
+        {
+            "name": "介绍.md",
+            "title": "介绍.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/介绍.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/介绍.md"
+        },
+        {
+            "name": "外部通信.md",
+            "title": "外部通信.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/外部通信.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/外部通信.md"
+        },
+        {
+            "name": "应用程序通信.md",
+            "title": "应用程序通信.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/应用程序通信.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/应用程序通信.md"
+        },
+        {
+            "name": "文件系统访问.md",
+            "title": "文件系统访问.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools/文件系统访问.md",
+            "url": "Ae/scripting/zh/Javascript-Tools/文件系统访问.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Can Cache.md",
+            "title": "Get Can Cache.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Invalidation Box/Get Can Cache.md",
+            "url": "Ue/blueprint/en/InvalidationBox/GetCanCache.md"
+        },
+        {
+            "name": "Set Can Cache.md",
+            "title": "Set Can Cache.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Invalidation Box/Set Can Cache.md",
+            "url": "Ue/blueprint/en/InvalidationBox/SetCanCache.md"
+        }
+    ],
+    "categorys": []
+}

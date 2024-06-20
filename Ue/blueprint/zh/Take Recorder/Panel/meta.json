@@ -1,0 +1,192 @@
+{
+    "documents": [
+        {
+            "name": "Can Start Recording.md",
+            "title": "Can Start Recording.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Can Start Recording.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/CanStartRecording.md"
+        },
+        {
+            "name": "Clear Pending Take.md",
+            "title": "Clear Pending Take.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Clear Pending Take.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/ClearPendingTake.md"
+        },
+        {
+            "name": "Get Frame Rate.md",
+            "title": "Get Frame Rate.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Frame Rate.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetFrameRate.md"
+        },
+        {
+            "name": "Get Last Recorded Level Sequence.md",
+            "title": "Get Last Recorded Level Sequence.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Last Recorded Level Sequence.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetLastRecordedLevelSequence.md"
+        },
+        {
+            "name": "Get Level Sequence.md",
+            "title": "Get Level Sequence.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Level Sequence.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetLevelSequence.md"
+        },
+        {
+            "name": "Get Mode.md",
+            "title": "Get Mode.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Mode.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetMode.md"
+        },
+        {
+            "name": "Get Sources.md",
+            "title": "Get Sources.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Sources.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetSources.md"
+        },
+        {
+            "name": "Get Take Meta Data.md",
+            "title": "Get Take Meta Data.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Get Take Meta Data.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/GetTakeMetaData.md"
+        },
+        {
+            "name": "Set Frame Rate from Timecode.md",
+            "title": "Set Frame Rate from Timecode.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Frame Rate from Timecode.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetFrameRatefromTimecode.md"
+        },
+        {
+            "name": "Set Frame Rate.md",
+            "title": "Set Frame Rate.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Frame Rate.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetFrameRate.md"
+        },
+        {
+            "name": "Set Mode (Editing Take Preset).md",
+            "title": "Set Mode (Editing Take Preset).md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Mode (Editing Take Preset).md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetModeEditingTakePreset.md"
+        },
+        {
+            "name": "Set Mode (Read-Only Level Sequence).md",
+            "title": "Set Mode (Read-Only Level Sequence).md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Mode (Read-Only Level Sequence).md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetModeRead-OnlyLevelSequence.md"
+        },
+        {
+            "name": "Set Mode (Recording into Level Sequence).md",
+            "title": "Set Mode (Recording into Level Sequence).md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Mode (Recording into Level Sequence).md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetModeRecordingintoLevelSequence.md"
+        },
+        {
+            "name": "Set Mode (Recording w Level Sequence).md",
+            "title": "Set Mode (Recording w Level Sequence).md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Mode (Recording w Level Sequence).md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetModeRecordingwLevelSequence.md"
+        },
+        {
+            "name": "Set Mode (Recording w Take Preset).md",
+            "title": "Set Mode (Recording w Take Preset).md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Set Mode (Recording w Take Preset).md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/SetModeRecordingwTakePreset.md"
+        },
+        {
+            "name": "Start Recording.md",
+            "title": "Start Recording.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Start Recording.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/StartRecording.md"
+        },
+        {
+            "name": "Stop Recording.md",
+            "title": "Stop Recording.md",
+            "depth": 5,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Take Recorder/Panel/Stop Recording.md",
+            "url": "Ue/blueprint/zh/TakeRecorder/Panel/StopRecording.md"
+        }
+    ],
+    "categorys": []
+}

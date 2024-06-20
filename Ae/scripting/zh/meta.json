@@ -1,0 +1,137 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "General",
+            "title": "General",
+            "depth": 3,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/General",
+            "url": "Ae/scripting/zh/General"
+        },
+        {
+            "name": "Guide",
+            "title": "Guide",
+            "depth": 3,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Guide",
+            "url": "Ae/scripting/zh/Guide"
+        },
+        {
+            "name": "Intro",
+            "title": "Intro",
+            "depth": 3,
+            "order": 3,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Intro",
+            "url": "Ae/scripting/zh/Intro"
+        },
+        {
+            "name": "Item",
+            "title": "Item",
+            "depth": 3,
+            "order": 4,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Item",
+            "url": "Ae/scripting/zh/Item"
+        },
+        {
+            "name": "Javascript-Tools",
+            "title": "Javascript-Tools",
+            "depth": 3,
+            "order": 5,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Javascript-Tools",
+            "url": "Ae/scripting/zh/Javascript-Tools"
+        },
+        {
+            "name": "Layer",
+            "title": "Layer",
+            "depth": 3,
+            "order": 6,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Layer",
+            "url": "Ae/scripting/zh/Layer"
+        },
+        {
+            "name": "Match-Name",
+            "title": "Match-Name",
+            "depth": 3,
+            "order": 7,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Match-Name",
+            "url": "Ae/scripting/zh/Match-Name"
+        },
+        {
+            "name": "Other",
+            "title": "Other",
+            "depth": 3,
+            "order": 8,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Other",
+            "url": "Ae/scripting/zh/Other"
+        },
+        {
+            "name": "Property",
+            "title": "Property",
+            "depth": 3,
+            "order": 9,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Property",
+            "url": "Ae/scripting/zh/Property"
+        },
+        {
+            "name": "Render-Queue",
+            "title": "Render-Queue",
+            "depth": 3,
+            "order": 10,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Render-Queue",
+            "url": "Ae/scripting/zh/Render-Queue"
+        },
+        {
+            "name": "Source",
+            "title": "Source",
+            "depth": 3,
+            "order": 11,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Source",
+            "url": "Ae/scripting/zh/Source"
+        },
+        {
+            "name": "Third-Part",
+            "title": "Third-Part",
+            "depth": 3,
+            "order": 12,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Third-Part",
+            "url": "Ae/scripting/zh/Third-Part"
+        }
+    ]
+}

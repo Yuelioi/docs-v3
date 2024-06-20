@@ -1,0 +1,60 @@
+{
+    "documents": [
+        {
+            "name": "End Task.md",
+            "title": "End Task.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Tasks/End Task.md",
+            "url": "Ue/blueprint/en/GameplayTasks/EndTask.md"
+        },
+        {
+            "name": "On Claimed Resources Change.md",
+            "title": "On Claimed Resources Change.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Tasks/On Claimed Resources Change.md",
+            "url": "Ue/blueprint/en/GameplayTasks/OnClaimedResourcesChange.md"
+        },
+        {
+            "name": "Run Gameplay Task.md",
+            "title": "Run Gameplay Task.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Tasks/Run Gameplay Task.md",
+            "url": "Ue/blueprint/en/GameplayTasks/RunGameplayTask.md"
+        },
+        {
+            "name": "Spawn Actor for Gameplay Task.md",
+            "title": "Spawn Actor for Gameplay Task.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Tasks/Spawn Actor for Gameplay Task.md",
+            "url": "Ue/blueprint/en/GameplayTasks/SpawnActorforGameplayTask.md"
+        },
+        {
+            "name": "Task Wait Delay.md",
+            "title": "Task Wait Delay.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Gameplay Tasks/Task Wait Delay.md",
+            "url": "Ue/blueprint/en/GameplayTasks/TaskWaitDelay.md"
+        }
+    ],
+    "categorys": []
+}

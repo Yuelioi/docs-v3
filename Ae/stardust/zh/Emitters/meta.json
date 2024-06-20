@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "发射器独立属性.md",
+            "title": "发射器独立属性.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Emitters/发射器独立属性.md",
+            "url": "Ae/stardust/zh/Emitters/发射器独立属性.md"
+        },
+        {
+            "name": "发射器类型.md",
+            "title": "发射器类型.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Emitters/发射器类型.md",
+            "url": "Ae/stardust/zh/Emitters/发射器类型.md"
+        },
+        {
+            "name": "发射器通用属性.md",
+            "title": "发射器通用属性.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/stardust/zh/Emitters/发射器通用属性.md",
+            "url": "Ae/stardust/zh/Emitters/发射器通用属性.md"
+        }
+    ],
+    "categorys": []
+}

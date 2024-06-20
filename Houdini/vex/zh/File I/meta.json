@@ -1,0 +1,16 @@
+{
+    "documents": [
+        {
+            "name": "file_stat.md",
+            "title": "file_stat.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh/File I/file_stat.md",
+            "url": "Houdini/vex/zh/FileI/file_stat.md"
+        }
+    ],
+    "categorys": []
+}

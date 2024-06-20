@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Object Classification.md",
+            "title": "Get Object Classification.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Scene Understanding/Get Object Classification.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/SceneUnderstanding/GetObjectClassification.md"
+        },
+        {
+            "name": "Has Spatial Mesh Usage Flag.md",
+            "title": "Has Spatial Mesh Usage Flag.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/AR Augmented Reality/Scene Understanding/Has Spatial Mesh Usage Flag.md",
+            "url": "Ue/blueprint/en/ARAugmentedReality/SceneUnderstanding/HasSpatialMeshUsageFlag.md"
+        }
+    ],
+    "categorys": []
+}

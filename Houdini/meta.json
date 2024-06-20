@@ -1,0 +1,16 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "vex",
+            "title": "vex",
+            "depth": 1,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex",
+            "url": "Houdini/vex"
+        }
+    ]
+}

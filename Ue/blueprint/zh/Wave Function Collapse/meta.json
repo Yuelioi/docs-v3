@@ -1,0 +1,302 @@
+{
+    "documents": [
+        {
+            "name": "Add Constraint.md",
+            "title": "Add Constraint.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Add Constraint.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/AddConstraint.md"
+        },
+        {
+            "name": "Add to Adjacency to Options Map.md",
+            "title": "Add to Adjacency to Options Map.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Add to Adjacency to Options Map.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/AddtoAdjacencytoOptionsMap.md"
+        },
+        {
+            "name": "Build Initial Tile.md",
+            "title": "Build Initial Tile.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Build Initial Tile.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/BuildInitialTile.md"
+        },
+        {
+            "name": "Calculate Shannon Entropy.md",
+            "title": "Calculate Shannon Entropy.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Calculate Shannon Entropy.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/CalculateShannonEntropy.md"
+        },
+        {
+            "name": "Derive Model from Actors.md",
+            "title": "Derive Model from Actors.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Derive Model from Actors.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/DeriveModelfromActors.md"
+        },
+        {
+            "name": "Get Adjacent Indices.md",
+            "title": "Get Adjacent Indices.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Adjacent Indices.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetAdjacentIndices.md"
+        },
+        {
+            "name": "Get Adjacent Positions.md",
+            "title": "Get Adjacent Positions.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Adjacent Positions.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetAdjacentPositions.md"
+        },
+        {
+            "name": "Get Constraint Count.md",
+            "title": "Get Constraint Count.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Constraint Count.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetConstraintCount.md"
+        },
+        {
+            "name": "Get Next ZAxis Clockwise Adjacency.md",
+            "title": "Get Next ZAxis Clockwise Adjacency.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Next ZAxis Clockwise Adjacency.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetNextZAxisClockwiseAdjacency.md"
+        },
+        {
+            "name": "Get Opposite Adjacency.md",
+            "title": "Get Opposite Adjacency.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Opposite Adjacency.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetOppositeAdjacency.md"
+        },
+        {
+            "name": "Get Option Contribution.md",
+            "title": "Get Option Contribution.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Option Contribution.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetOptionContribution.md"
+        },
+        {
+            "name": "Get Option Weight.md",
+            "title": "Get Option Weight.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Option Weight.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetOptionWeight.md"
+        },
+        {
+            "name": "Get Options.md",
+            "title": "Get Options.md",
+            "depth": 4,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Options.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetOptions.md"
+        },
+        {
+            "name": "Get Position to Option Map from Actor.md",
+            "title": "Get Position to Option Map from Actor.md",
+            "depth": 4,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Get Position to Option Map from Actor.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/GetPositiontoOptionMapfromActor.md"
+        },
+        {
+            "name": "Index as Position.md",
+            "title": "Index as Position.md",
+            "depth": 4,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Index as Position.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/IndexasPosition.md"
+        },
+        {
+            "name": "Is Option Contained.md",
+            "title": "Is Option Contained.md",
+            "depth": 4,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Is Option Contained.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/IsOptionContained.md"
+        },
+        {
+            "name": "Is Soft Obj Path Equal.md",
+            "title": "Is Soft Obj Path Equal.md",
+            "depth": 4,
+            "order": 17,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Is Soft Obj Path Equal.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/IsSoftObjPathEqual.md"
+        },
+        {
+            "name": "Make Border Option.md",
+            "title": "Make Border Option.md",
+            "depth": 4,
+            "order": 18,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Make Border Option.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/MakeBorderOption.md"
+        },
+        {
+            "name": "Make Empty Option.md",
+            "title": "Make Empty Option.md",
+            "depth": 4,
+            "order": 19,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Make Empty Option.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/MakeEmptyOption.md"
+        },
+        {
+            "name": "Make Void Option.md",
+            "title": "Make Void Option.md",
+            "depth": 4,
+            "order": 20,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Make Void Option.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/MakeVoidOption.md"
+        },
+        {
+            "name": "Position as Index.md",
+            "title": "Position as Index.md",
+            "depth": 4,
+            "order": 21,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Position as Index.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/PositionasIndex.md"
+        },
+        {
+            "name": "Sanitize Rotator.md",
+            "title": "Sanitize Rotator.md",
+            "depth": 4,
+            "order": 22,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Sanitize Rotator.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SanitizeRotator.md"
+        },
+        {
+            "name": "Set All Contributions.md",
+            "title": "Set All Contributions.md",
+            "depth": 4,
+            "order": 23,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Set All Contributions.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SetAllContributions.md"
+        },
+        {
+            "name": "Set All Weights.md",
+            "title": "Set All Weights.md",
+            "depth": 4,
+            "order": 24,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Set All Weights.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SetAllWeights.md"
+        },
+        {
+            "name": "Set Option Contribution.md",
+            "title": "Set Option Contribution.md",
+            "depth": 4,
+            "order": 25,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Set Option Contribution.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SetOptionContribution.md"
+        },
+        {
+            "name": "Set Weights from Contributions.md",
+            "title": "Set Weights from Contributions.md",
+            "depth": 4,
+            "order": 26,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Set Weights from Contributions.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SetWeightsfromContributions.md"
+        },
+        {
+            "name": "Swap Meshes.md",
+            "title": "Swap Meshes.md",
+            "depth": 4,
+            "order": 27,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Wave Function Collapse/Swap Meshes.md",
+            "url": "Ue/blueprint/zh/WaveFunctionCollapse/SwapMeshes.md"
+        }
+    ],
+    "categorys": []
+}

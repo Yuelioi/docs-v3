@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Add Envelope Follower Delegate.md",
+            "title": "Add Envelope Follower Delegate.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Audio/Envelope Following/Add Envelope Follower Delegate.md",
+            "url": "Ue/blueprint/zh/Audio/EnvelopeFollowing/AddEnvelopeFollowerDelegate.md"
+        },
+        {
+            "name": "Start Envelope Following.md",
+            "title": "Start Envelope Following.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Audio/Envelope Following/Start Envelope Following.md",
+            "url": "Ue/blueprint/zh/Audio/EnvelopeFollowing/StartEnvelopeFollowing.md"
+        },
+        {
+            "name": "Stop Envelope Following.md",
+            "title": "Stop Envelope Following.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Audio/Envelope Following/Stop Envelope Following.md",
+            "url": "Ue/blueprint/zh/Audio/EnvelopeFollowing/StopEnvelopeFollowing.md"
+        }
+    ],
+    "categorys": []
+}

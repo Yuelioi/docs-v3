@@ -1,0 +1,181 @@
+{
+    "documents": [
+        {
+            "name": "Async Load or Create Save Game for Local Player.md",
+            "title": "Async Load or Create Save Game for Local Player.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Async Load or Create Save Game for Local Player.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/AsyncLoadorCreateSaveGameforLocalPlayer.md"
+        },
+        {
+            "name": "Async Save Game to Slot for Local Player.md",
+            "title": "Async Save Game to Slot for Local Player.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Async Save Game to Slot for Local Player.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/AsyncSaveGametoSlotforLocalPlayer.md"
+        },
+        {
+            "name": "Get Invalid Data Version.md",
+            "title": "Get Invalid Data Version.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Invalid Data Version.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetInvalidDataVersion.md"
+        },
+        {
+            "name": "Get Latest Data Version.md",
+            "title": "Get Latest Data Version.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Latest Data Version.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetLatestDataVersion.md"
+        },
+        {
+            "name": "Get Local Player Controller.md",
+            "title": "Get Local Player Controller.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Local Player Controller.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetLocalPlayerController.md"
+        },
+        {
+            "name": "Get Platform User Id.md",
+            "title": "Get Platform User Id.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Platform User Id.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetPlatformUserId.md"
+        },
+        {
+            "name": "Get Platform User Index.md",
+            "title": "Get Platform User Index.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Platform User Index.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetPlatformUserIndex.md"
+        },
+        {
+            "name": "Get Save Slot Name.md",
+            "title": "Get Save Slot Name.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Save Slot Name.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetSaveSlotName.md"
+        },
+        {
+            "name": "Get Saved Data Version.md",
+            "title": "Get Saved Data Version.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Get Saved Data Version.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/GetSavedDataVersion.md"
+        },
+        {
+            "name": "Is Save in Progress.md",
+            "title": "Is Save in Progress.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Is Save in Progress.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/IsSaveinProgress.md"
+        },
+        {
+            "name": "Load or Create Save Game for Local Player.md",
+            "title": "Load or Create Save Game for Local Player.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Load or Create Save Game for Local Player.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/LoadorCreateSaveGameforLocalPlayer.md"
+        },
+        {
+            "name": "Reset to Default.md",
+            "title": "Reset to Default.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Reset to Default.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/ResettoDefault.md"
+        },
+        {
+            "name": "Save Game to Slot for Local Player.md",
+            "title": "Save Game to Slot for Local Player.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Save Game to Slot for Local Player.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/SaveGametoSlotforLocalPlayer.md"
+        },
+        {
+            "name": "Was Last Save Successful.md",
+            "title": "Was Last Save Successful.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Was Last Save Successful.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/WasLastSaveSuccessful.md"
+        },
+        {
+            "name": "Was Loaded.md",
+            "title": "Was Loaded.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Was Loaded.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/WasLoaded.md"
+        },
+        {
+            "name": "Was Save Requested.md",
+            "title": "Was Save Requested.md",
+            "depth": 5,
+            "order": 16,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Save Game/Local Player/Was Save Requested.md",
+            "url": "Ue/blueprint/zh/SaveGame/LocalPlayer/WasSaveRequested.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Add Input Profile with Currently Active Mappings.md",
+            "title": "Add Input Profile with Currently Active Mappings.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Add Input Profile with Currently Active Mappings.md",
+            "url": "Ue/blueprint/en/VCamInput/AddInputProfilewithCurrentlyActiveMappings.md"
+        },
+        {
+            "name": "Get All Player Mappable Action Key Mappings.md",
+            "title": "Get All Player Mappable Action Key Mappings.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Get All Player Mappable Action Key Mappings.md",
+            "url": "Ue/blueprint/en/VCamInput/GetAllPlayerMappableActionKeyMappings.md"
+        },
+        {
+            "name": "Get Input Device Settings.md",
+            "title": "Get Input Device Settings.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Get Input Device Settings.md",
+            "url": "Ue/blueprint/en/VCamInput/GetInputDeviceSettings.md"
+        },
+        {
+            "name": "Get Input Profile Names.md",
+            "title": "Get Input Profile Names.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Get Input Profile Names.md",
+            "url": "Ue/blueprint/en/VCamInput/GetInputProfileNames.md"
+        },
+        {
+            "name": "Get Input Profile.md",
+            "title": "Get Input Profile.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Get Input Profile.md",
+            "url": "Ue/blueprint/en/VCamInput/GetInputProfile.md"
+        },
+        {
+            "name": "Get Player Mapped Key.md",
+            "title": "Get Player Mapped Key.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Get Player Mapped Key.md",
+            "url": "Ue/blueprint/en/VCamInput/GetPlayerMappedKey.md"
+        },
+        {
+            "name": "Save Current Input Profile to Settings.md",
+            "title": "Save Current Input Profile to Settings.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Save Current Input Profile to Settings.md",
+            "url": "Ue/blueprint/en/VCamInput/SaveCurrentInputProfiletoSettings.md"
+        },
+        {
+            "name": "Set Default Input Profile.md",
+            "title": "Set Default Input Profile.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Set Default Input Profile.md",
+            "url": "Ue/blueprint/en/VCamInput/SetDefaultInputProfile.md"
+        },
+        {
+            "name": "Set Input Profile from Name.md",
+            "title": "Set Input Profile from Name.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Set Input Profile from Name.md",
+            "url": "Ue/blueprint/en/VCamInput/SetInputProfilefromName.md"
+        },
+        {
+            "name": "Set Input Profiles.md",
+            "title": "Set Input Profiles.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/VCam Input/Set Input Profiles.md",
+            "url": "Ue/blueprint/en/VCamInput/SetInputProfiles.md"
+        }
+    ],
+    "categorys": []
+}

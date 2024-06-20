@@ -1,0 +1,137 @@
+{
+    "documents": [
+        {
+            "name": "Construct Cloud Anchor.md",
+            "title": "Construct Cloud Anchor.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Construct Cloud Anchor.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/ConstructCloudAnchor.md"
+        },
+        {
+            "name": "Create ARPin Around Azure Cloud Spatial Anchor.md",
+            "title": "Create ARPin Around Azure Cloud Spatial Anchor.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Create ARPin Around Azure Cloud Spatial Anchor.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/CreateARPinAroundAzureCloudSpatialAnchor.md"
+        },
+        {
+            "name": "Create Watcher.md",
+            "title": "Create Watcher.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Create Watcher.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/CreateWatcher.md"
+        },
+        {
+            "name": "Get App Properties.md",
+            "title": "Get App Properties.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Get App Properties.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/GetAppProperties.md"
+        },
+        {
+            "name": "Get Azure Cloud Identifier.md",
+            "title": "Get Azure Cloud Identifier.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Get Azure Cloud Identifier.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/GetAzureCloudIdentifier.md"
+        },
+        {
+            "name": "Get Expiration.md",
+            "title": "Get Expiration.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Get Expiration.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/GetExpiration.md"
+        },
+        {
+            "name": "Refresh Cloud Anchor Properties.md",
+            "title": "Refresh Cloud Anchor Properties.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Refresh Cloud Anchor Properties.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/RefreshCloudAnchorProperties.md"
+        },
+        {
+            "name": "Save Cloud Anchor.md",
+            "title": "Save Cloud Anchor.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Save Cloud Anchor.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/SaveCloudAnchor.md"
+        },
+        {
+            "name": "Set App Properties.md",
+            "title": "Set App Properties.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Set App Properties.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/SetAppProperties.md"
+        },
+        {
+            "name": "Set Expiration.md",
+            "title": "Set Expiration.md",
+            "depth": 4,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Set Expiration.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/SetExpiration.md"
+        },
+        {
+            "name": "Stop Watcher.md",
+            "title": "Stop Watcher.md",
+            "depth": 4,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Stop Watcher.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/StopWatcher.md"
+        },
+        {
+            "name": "Update Cloud Anchor Properties.md",
+            "title": "Update Cloud Anchor Properties.md",
+            "depth": 4,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Azure Spatial Anchors/Update Cloud Anchor Properties.md",
+            "url": "Ue/blueprint/en/AzureSpatialAnchors/UpdateCloudAnchorProperties.md"
+        }
+    ],
+    "categorys": []
+}

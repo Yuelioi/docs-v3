@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Mobile Font Size Multiplier.md",
+            "title": "Get Mobile Font Size Multiplier.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Text/Mobile/Get Mobile Font Size Multiplier.md",
+            "url": "Ue/blueprint/zh/CommonText/Mobile/GetMobileFontSizeMultiplier.md"
+        },
+        {
+            "name": "Set Mobile Font Size Multiplier.md",
+            "title": "Set Mobile Font Size Multiplier.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Common Text/Mobile/Set Mobile Font Size Multiplier.md",
+            "url": "Ue/blueprint/zh/CommonText/Mobile/SetMobileFontSizeMultiplier.md"
+        }
+    ],
+    "categorys": []
+}

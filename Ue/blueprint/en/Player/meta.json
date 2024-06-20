@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get Owning Player Camera Manager.md",
+            "title": "Get Owning Player Camera Manager.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Player/Get Owning Player Camera Manager.md",
+            "url": "Ue/blueprint/en/Player/GetOwningPlayerCameraManager.md"
+        },
+        {
+            "name": "Get Owning Player Pawn.md",
+            "title": "Get Owning Player Pawn.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Player/Get Owning Player Pawn.md",
+            "url": "Ue/blueprint/en/Player/GetOwningPlayerPawn.md"
+        },
+        {
+            "name": "Set Owning Player.md",
+            "title": "Set Owning Player.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Player/Set Owning Player.md",
+            "url": "Ue/blueprint/en/Player/SetOwningPlayer.md"
+        }
+    ],
+    "categorys": []
+}

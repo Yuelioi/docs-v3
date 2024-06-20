@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Get Config Name.md",
+            "title": "Get Config Name.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Config Name.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetConfigName.md"
+        },
+        {
+            "name": "Get Display Name.md",
+            "title": "Get Display Name.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Display Name.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetDisplayName.md"
+        },
+        {
+            "name": "Get Keys Bound to Action.md",
+            "title": "Get Keys Bound to Action.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Keys Bound to Action.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetKeysBoundtoAction.md"
+        },
+        {
+            "name": "Get Mapping Contexts.md",
+            "title": "Get Mapping Contexts.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Mapping Contexts.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetMappingContexts.md"
+        },
+        {
+            "name": "Get Mapping by Name.md",
+            "title": "Get Mapping by Name.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Mapping by Name.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetMappingbyName.md"
+        },
+        {
+            "name": "Get Metadata.md",
+            "title": "Get Metadata.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Metadata.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetMetadata.md"
+        },
+        {
+            "name": "Get Player Mappable Keys.md",
+            "title": "Get Player Mappable Keys.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Get Player Mappable Keys.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/GetPlayerMappableKeys.md"
+        },
+        {
+            "name": "Is Deprecated.md",
+            "title": "Is Deprecated.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Is Deprecated.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/IsDeprecated.md"
+        },
+        {
+            "name": "Reset to Default.md",
+            "title": "Reset to Default.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Input/Player Mappable/Reset to Default.md",
+            "url": "Ue/blueprint/zh/Input/PlayerMappable/ResettoDefault.md"
+        }
+    ],
+    "categorys": []
+}

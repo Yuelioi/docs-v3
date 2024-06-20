@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Check Android Permission.md",
+            "title": "Check Android Permission.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Android Permission/Check Android Permission.md",
+            "url": "Ue/blueprint/zh/AndroidPermission/CheckAndroidPermission.md"
+        },
+        {
+            "name": "On Permissions Granted Dynamic Delegate.md",
+            "title": "On Permissions Granted Dynamic Delegate.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Android Permission/On Permissions Granted Dynamic Delegate.md",
+            "url": "Ue/blueprint/zh/AndroidPermission/OnPermissionsGrantedDynamicDelegate.md"
+        },
+        {
+            "name": "Request Android Permissions.md",
+            "title": "Request Android Permissions.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Android Permission/Request Android Permissions.md",
+            "url": "Ue/blueprint/zh/AndroidPermission/RequestAndroidPermissions.md"
+        }
+    ],
+    "categorys": []
+}

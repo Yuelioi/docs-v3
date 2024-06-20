@@ -1,0 +1,82 @@
+{
+    "documents": [
+        {
+            "name": "Activate Widget.md",
+            "title": "Activate Widget.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Activate Widget.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/ActivateWidget.md"
+        },
+        {
+            "name": "Bind Visibility to Activation.md",
+            "title": "Bind Visibility to Activation.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Bind Visibility to Activation.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/BindVisibilitytoActivation.md"
+        },
+        {
+            "name": "Clear Focus Restoration Target.md",
+            "title": "Clear Focus Restoration Target.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Clear Focus Restoration Target.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/ClearFocusRestorationTarget.md"
+        },
+        {
+            "name": "Deactivate Widget.md",
+            "title": "Deactivate Widget.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Deactivate Widget.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/DeactivateWidget.md"
+        },
+        {
+            "name": "Get Desired Focus Target.md",
+            "title": "Get Desired Focus Target.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Get Desired Focus Target.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/GetDesiredFocusTarget.md"
+        },
+        {
+            "name": "Is Activated.md",
+            "title": "Is Activated.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Is Activated.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/IsActivated.md"
+        },
+        {
+            "name": "Request Refresh Focus.md",
+            "title": "Request Refresh Focus.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Activatable Widget/Request Refresh Focus.md",
+            "url": "Ue/blueprint/en/ActivatableWidget/RequestRefreshFocus.md"
+        }
+    ],
+    "categorys": []
+}

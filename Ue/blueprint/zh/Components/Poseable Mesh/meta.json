@@ -1,0 +1,115 @@
+{
+    "documents": [
+        {
+            "name": "Copy Pose from Skeletal Component.md",
+            "title": "Copy Pose from Skeletal Component.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Copy Pose from Skeletal Component.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/CopyPosefromSkeletalComponent.md"
+        },
+        {
+            "name": "Get Bone Location by Name.md",
+            "title": "Get Bone Location by Name.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Get Bone Location by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/GetBoneLocationbyName.md"
+        },
+        {
+            "name": "Get Bone Rotation by Name.md",
+            "title": "Get Bone Rotation by Name.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Get Bone Rotation by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/GetBoneRotationbyName.md"
+        },
+        {
+            "name": "Get Bone Scale by Name.md",
+            "title": "Get Bone Scale by Name.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Get Bone Scale by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/GetBoneScalebyName.md"
+        },
+        {
+            "name": "Get Bone Transform by Name.md",
+            "title": "Get Bone Transform by Name.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Get Bone Transform by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/GetBoneTransformbyName.md"
+        },
+        {
+            "name": "Reset Bone Transform by Name.md",
+            "title": "Reset Bone Transform by Name.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Reset Bone Transform by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/ResetBoneTransformbyName.md"
+        },
+        {
+            "name": "Set Bone Location by Name.md",
+            "title": "Set Bone Location by Name.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Set Bone Location by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/SetBoneLocationbyName.md"
+        },
+        {
+            "name": "Set Bone Rotation by Name.md",
+            "title": "Set Bone Rotation by Name.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Set Bone Rotation by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/SetBoneRotationbyName.md"
+        },
+        {
+            "name": "Set Bone Scale by Name.md",
+            "title": "Set Bone Scale by Name.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Set Bone Scale by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/SetBoneScalebyName.md"
+        },
+        {
+            "name": "Set Bone Transform by Name.md",
+            "title": "Set Bone Transform by Name.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Components/Poseable Mesh/Set Bone Transform by Name.md",
+            "url": "Ue/blueprint/zh/Components/PoseableMesh/SetBoneTransformbyName.md"
+        }
+    ],
+    "categorys": []
+}

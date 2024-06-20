@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Copy Payload.md",
+            "title": "Copy Payload.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Asset/Copy Payload.md",
+            "url": "Ue/blueprint/en/AnimationAsset/CopyPayload.md"
+        },
+        {
+            "name": "Get Payload.md",
+            "title": "Get Payload.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Asset/Get Payload.md",
+            "url": "Ue/blueprint/en/AnimationAsset/GetPayload.md"
+        },
+        {
+            "name": "Get Skeleton.md",
+            "title": "Get Skeleton.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Animation Asset/Get Skeleton.md",
+            "url": "Ue/blueprint/en/AnimationAsset/GetSkeleton.md"
+        }
+    ],
+    "categorys": []
+}

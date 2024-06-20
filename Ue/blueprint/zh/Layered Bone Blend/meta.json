@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Convert to Layered Bone Blend.md",
+            "title": "Convert to Layered Bone Blend.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layered Bone Blend/Convert to Layered Bone Blend.md",
+            "url": "Ue/blueprint/zh/LayeredBoneBlend/ConverttoLayeredBoneBlend.md"
+        },
+        {
+            "name": "Get Num Poses.md",
+            "title": "Get Num Poses.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layered Bone Blend/Get Num Poses.md",
+            "url": "Ue/blueprint/zh/LayeredBoneBlend/GetNumPoses.md"
+        },
+        {
+            "name": "Set Blend Mask.md",
+            "title": "Set Blend Mask.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Layered Bone Blend/Set Blend Mask.md",
+            "url": "Ue/blueprint/zh/LayeredBoneBlend/SetBlendMask.md"
+        }
+    ],
+    "categorys": []
+}

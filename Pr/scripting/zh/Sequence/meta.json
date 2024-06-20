@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "ComponentPara.md",
+            "title": "ComponentPara.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Sequence/ComponentPara.md",
+            "url": "Pr/scripting/zh/Sequence/ComponentPara.md"
+        },
+        {
+            "name": "Tracks.md",
+            "title": "Tracks.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Sequence/Tracks.md",
+            "url": "Pr/scripting/zh/Sequence/Tracks.md"
+        },
+        {
+            "name": "components.md",
+            "title": "components.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Sequence/components.md",
+            "url": "Pr/scripting/zh/Sequence/components.md"
+        },
+        {
+            "name": "sequences.md",
+            "title": "sequences.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Pr/scripting/zh/Sequence/sequences.md",
+            "url": "Pr/scripting/zh/Sequence/sequences.md"
+        }
+    ],
+    "categorys": []
+}

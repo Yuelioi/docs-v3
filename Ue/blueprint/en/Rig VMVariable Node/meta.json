@@ -1,0 +1,104 @@
+{
+    "documents": [
+        {
+            "name": "Get CPPType Object.md",
+            "title": "Get CPPType Object.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Get CPPType Object.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/GetCPPTypeObject.md"
+        },
+        {
+            "name": "Get CPPType.md",
+            "title": "Get CPPType.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Get CPPType.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/GetCPPType.md"
+        },
+        {
+            "name": "Get Default Value.md",
+            "title": "Get Default Value.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Get Default Value.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/GetDefaultValue.md"
+        },
+        {
+            "name": "Get Variable Description.md",
+            "title": "Get Variable Description.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Get Variable Description.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/GetVariableDescription.md"
+        },
+        {
+            "name": "Get Variable Name.md",
+            "title": "Get Variable Name.md",
+            "depth": 4,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Get Variable Name.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/GetVariableName.md"
+        },
+        {
+            "name": "Is External Variable.md",
+            "title": "Is External Variable.md",
+            "depth": 4,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Is External Variable.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/IsExternalVariable.md"
+        },
+        {
+            "name": "Is Getter.md",
+            "title": "Is Getter.md",
+            "depth": 4,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Is Getter.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/IsGetter.md"
+        },
+        {
+            "name": "Is Input Argument.md",
+            "title": "Is Input Argument.md",
+            "depth": 4,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Is Input Argument.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/IsInputArgument.md"
+        },
+        {
+            "name": "Is Local Variable.md",
+            "title": "Is Local Variable.md",
+            "depth": 4,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Rig VMVariable Node/Is Local Variable.md",
+            "url": "Ue/blueprint/en/RigVMVariableNode/IsLocalVariable.md"
+        }
+    ],
+    "categorys": []
+}

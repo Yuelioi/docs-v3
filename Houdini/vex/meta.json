@@ -1,0 +1,27 @@
+{
+    "documents": [],
+    "categorys": [
+        {
+            "name": "en",
+            "title": "en",
+            "depth": 2,
+            "order": 1,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/en",
+            "url": "Houdini/vex/en"
+        },
+        {
+            "name": "zh",
+            "title": "zh",
+            "depth": 2,
+            "order": 2,
+            "is_dir": true,
+            "icon": "",
+            "status": 1,
+            "filepath": "Houdini/vex/zh",
+            "url": "Houdini/vex/zh"
+        }
+    ]
+}

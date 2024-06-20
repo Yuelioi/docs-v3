@@ -1,0 +1,27 @@
+{
+    "documents": [
+        {
+            "name": "Get Mesh Selection Boundary Loops.md",
+            "title": "Get Mesh Selection Boundary Loops.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Selection Queries/Get Mesh Selection Boundary Loops.md",
+            "url": "Ue/blueprint/zh/GeometryScript/SelectionQueries/GetMeshSelectionBoundaryLoops.md"
+        },
+        {
+            "name": "Get Mesh Selection Bounding Box.md",
+            "title": "Get Mesh Selection Bounding Box.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Geometry Script/Selection Queries/Get Mesh Selection Bounding Box.md",
+            "url": "Ue/blueprint/zh/GeometryScript/SelectionQueries/GetMeshSelectionBoundingBox.md"
+        }
+    ],
+    "categorys": []
+}

@@ -1,0 +1,38 @@
+{
+    "documents": [
+        {
+            "name": "Get a reference to self.md",
+            "title": "Get a reference to self.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variables/Get a reference to self.md",
+            "url": "Ue/blueprint/zh/Variables/Getareferencetoself.md"
+        },
+        {
+            "name": "Property Access.md",
+            "title": "Property Access.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variables/Property Access.md",
+            "url": "Ue/blueprint/zh/Variables/PropertyAccess.md"
+        },
+        {
+            "name": "Set By-Ref Var.md",
+            "title": "Set By-Ref Var.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/zh/Variables/Set By-Ref Var.md",
+            "url": "Ue/blueprint/zh/Variables/SetBy-RefVar.md"
+        }
+    ],
+    "categorys": []
+}

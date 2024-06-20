@@ -1,0 +1,170 @@
+{
+    "documents": [
+        {
+            "name": "Close.md",
+            "title": "Close.md",
+            "depth": 5,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Close.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Close.md"
+        },
+        {
+            "name": "Get Is Aspect Ratio Auto.md",
+            "title": "Get Is Aspect Ratio Auto.md",
+            "depth": 5,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Get Is Aspect Ratio Auto.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/GetIsAspectRatioAuto.md"
+        },
+        {
+            "name": "Get Letterbox Aspect Ratio.md",
+            "title": "Get Letterbox Aspect Ratio.md",
+            "depth": 5,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Get Letterbox Aspect Ratio.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/GetLetterboxAspectRatio.md"
+        },
+        {
+            "name": "Get Media Player.md",
+            "title": "Get Media Player.md",
+            "depth": 5,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Get Media Player.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/GetMediaPlayer.md"
+        },
+        {
+            "name": "Get Media Texture.md",
+            "title": "Get Media Texture.md",
+            "depth": 5,
+            "order": 5,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Get Media Texture.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/GetMediaTexture.md"
+        },
+        {
+            "name": "Get Mesh Range.md",
+            "title": "Get Mesh Range.md",
+            "depth": 5,
+            "order": 6,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Get Mesh Range.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/GetMeshRange.md"
+        },
+        {
+            "name": "Open.md",
+            "title": "Open.md",
+            "depth": 5,
+            "order": 7,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Open.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Open.md"
+        },
+        {
+            "name": "Pause.md",
+            "title": "Pause.md",
+            "depth": 5,
+            "order": 8,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Pause.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Pause.md"
+        },
+        {
+            "name": "Play.md",
+            "title": "Play.md",
+            "depth": 5,
+            "order": 9,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Play.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Play.md"
+        },
+        {
+            "name": "Rewind.md",
+            "title": "Rewind.md",
+            "depth": 5,
+            "order": 10,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Rewind.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Rewind.md"
+        },
+        {
+            "name": "Seek.md",
+            "title": "Seek.md",
+            "depth": 5,
+            "order": 11,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Seek.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/Seek.md"
+        },
+        {
+            "name": "Set Is Aspect Ratio Auto.md",
+            "title": "Set Is Aspect Ratio Auto.md",
+            "depth": 5,
+            "order": 12,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Set Is Aspect Ratio Auto.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/SetIsAspectRatioAuto.md"
+        },
+        {
+            "name": "Set Letterbox Aspect Ratio.md",
+            "title": "Set Letterbox Aspect Ratio.md",
+            "depth": 5,
+            "order": 13,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Set Letterbox Aspect Ratio.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/SetLetterboxAspectRatio.md"
+        },
+        {
+            "name": "Set Mesh Range.md",
+            "title": "Set Mesh Range.md",
+            "depth": 5,
+            "order": 14,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Set Mesh Range.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/SetMeshRange.md"
+        },
+        {
+            "name": "Set Play Only when Visible.md",
+            "title": "Set Play Only when Visible.md",
+            "depth": 5,
+            "order": 15,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ue/blueprint/en/Media/Media Plate Component/Set Play Only when Visible.md",
+            "url": "Ue/blueprint/en/Media/MediaPlateComponent/SetPlayOnlywhenVisible.md"
+        }
+    ],
+    "categorys": []
+}

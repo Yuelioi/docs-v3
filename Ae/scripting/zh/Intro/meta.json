@@ -1,0 +1,49 @@
+{
+    "documents": [
+        {
+            "name": "AE-Object-Model.md",
+            "title": "AE-Object-Model.md",
+            "depth": 4,
+            "order": 1,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Intro/AE-Object-Model.md",
+            "url": "Ae/scripting/zh/Intro/AE-Object-Model.md"
+        },
+        {
+            "name": "Changelog.md",
+            "title": "Changelog.md",
+            "depth": 4,
+            "order": 2,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Intro/Changelog.md",
+            "url": "Ae/scripting/zh/Intro/Changelog.md"
+        },
+        {
+            "name": "Elements-of-basic-JavaScript-relevant-to-After-Effects-scripting.md",
+            "title": "Elements-of-basic-JavaScript-relevant-to-After-Effects-scripting.md",
+            "depth": 4,
+            "order": 3,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Intro/Elements-of-basic-JavaScript-relevant-to-After-Effects-scripting.md",
+            "url": "Ae/scripting/zh/Intro/Elements-of-basic-JavaScript-relevant-to-After-Effects-scripting.md"
+        },
+        {
+            "name": "Overview.md",
+            "title": "Overview.md",
+            "depth": 4,
+            "order": 4,
+            "is_dir": false,
+            "icon": "",
+            "status": 1,
+            "filepath": "Ae/scripting/zh/Intro/Overview.md",
+            "url": "Ae/scripting/zh/Intro/Overview.md"
+        }
+    ],
+    "categorys": []
+}
