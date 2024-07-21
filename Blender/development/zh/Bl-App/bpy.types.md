@@ -2,19 +2,18 @@
 title: 类型 (bpy.types)
 order: 9
 ---
-
 # 类型 (bpy.types)
 
 ## 节点类
 
 - [CompositorNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.CompositorNode.html)：合成器节点
 - [FunctionNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.FunctionNode.html)：函数节点
-- [GeometryNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.GeometryNode.html)：集合节点
+- [GeometryNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.GeometryNode.html)：几何节点
 - [NodeFrame(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeFrame.html)：节点帧
 - [NodeGroup(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeGroup.html)：节点组
 - [NodeGroupInput(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeGroupInput.html)：节点组输入
 - [NodeGroupOutput(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeGroupOutput.html)：节点组输出
-- [NodeReroute(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeReroute.html)：
+- [NodeReroute(NodeInternal)](https://docs.blender.org/api/master/bpy.types.NodeReroute.html)：转换点
 - [ShaderNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.ShaderNode.html)：着色器节点
 - [TextureNode(NodeInternal)](https://docs.blender.org/api/master/bpy.types.TextureNode.html)：纹理节点
 
